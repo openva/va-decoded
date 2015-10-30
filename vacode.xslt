@@ -30,7 +30,7 @@
 				nested element rather than just the first one. -->
 			<structure>
 				<xsl:for-each select="metadata/hierarchy">
-					<xsl:apply-templates select="hierarchyLevel" />
+					<xsl:call-template select="hierarchyLevel" />
 				</xsl:for-each>
 			</structure>
 			
@@ -80,7 +80,7 @@
 	</xsl:template>
 
 	<!-- A template to recurse through structural hieirarchies. -->	
-	<xsl:template match="hierarchyLevel">
+	<xsl:template name="hierarchyLevel">
 			
 		<!-- Start a counter. -->
 		<xsl:param name="counter" select="1"/>
@@ -120,7 +120,7 @@
 		-->
 		<!--<xsl:param name="counter" select="$counter + 1"/>-->
 		
-		<xsl:apply-templates select="hierarchyLevel" />
+		<xsl:call-template name="hierarchyLevel" />
 		
 	</xsl:template>
 	

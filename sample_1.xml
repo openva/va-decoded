@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legislativeDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:noNamespaceSchemaLocation="http://www.lexisnexis.com/xmlschemas/content/public/legislativedoc/1/">
+   <legislativeDocHead>
+      <citations>
+         <citeForThisResource>Va. Code Ann. § 17.1-243</citeForThisResource>
+      </citations>
+   </legislativeDocHead>
+   <legislativeDocBody>
+      <statute>
+         <level levelType="section">
+            <anchor id="_17.1-243"/>
+            <heading>
+               <desig>§ 17.1-243.</desig>
+               <title>Courts to have land books bound</title>
+            </heading>
+            <bodyText>
+               <p>The circuit courts shall bind, in volumes of convenient size, all books in their respective clerks' offices not currently bound showing the assessments of lands since the year 1850, and shall bind in like volumes such books hereafter filed in their clerks' offices at intervals of not more than five years.</p>
+            </bodyText>
+            <history>
+               <historyGroup groupType="history-citation">
+                  <historyItem>
+                     <bodyText>
+                        <p>Code 1919, § 5979, § 17-73; <citation normalizedCite="1998 VA CH 872">
+                              <content>1998, c. 872</content>
+                           </citation>.</p>
+                     </bodyText>
+                  </historyItem>
+               </historyGroup>
+            </history>
+         </level>
+      </statute>
+   </legislativeDocBody>
+   <metadata>
+      <dc:metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:identifier identifierScheme="PGUID">urn:contentItem:5C0C-YYF0-004G-J1TT-00000-00</dc:identifier>
+      </dc:metadata>
+      <publicationInfo>
+         <publicationName>CODE OF VIRGINIA </publicationName>
+         <copyright>Copyright ©  by Matthew Bender &amp; Company, Inc. a member of the LexisNexis Group. All rights reserved</copyright>
+      </publicationInfo>
+      <relatedContent>
+         <relatedContentGroup contentType="legislative-alert">
+            <relatedContentItem>
+               <relatedContentLink>
+                  <citation>
+                     <content>2014 Va. ALS 460 -- See section 1.</content>
+                     <locator>
+                        <locatorKey>
+                           <keyName name="citeReference"/>
+                           <keyValue value="2014 Va. ALS 460"/>
+                        </locatorKey>
+                     </locator>
+                  </citation>
+               </relatedContentLink>
+            </relatedContentItem>
+         </relatedContentGroup>
+      </relatedContent>
+      <hierarchy>
+         <hierarchyLevel levelType="title">
+            <heading>
+               <desig>TITLE 17.1.</desig>
+               <title>COURTS OF RECORD</title>
+            </heading>
+            <hierarchyLevel levelType="chapter">
+               <heading>
+                  <desig>CHAPTER 2.</desig>
+                  <title>CLERKS, CLERKS' OFFICES AND RECORDS</title>
+               </heading>
+               <hierarchyLevel levelType="article">
+                  <heading>
+                     <desig>ARTICLE 3.</desig>
+                     <title>RECORDS, RECORDATION AND INDEXING GENERALLY</title>
+                  </heading>
+               </hierarchyLevel>
+            </hierarchyLevel>
+         </hierarchyLevel>
+      </hierarchy>
+   </metadata>
+</legislativeDoc>

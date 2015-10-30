@@ -11,6 +11,7 @@
 			omit-xml-declaration="no"
 			indent="yes"
 			media-type="text/xml"/>
+
 	
 	<xsl:template match="text()">
 		<xsl:value-of select="normalize-space()" />
@@ -23,14 +24,13 @@
 		always match on the root element.
 	-->
 	<xsl:template match="legislativeDoc">
-
 		<law>
 
 			<!--Weirdly, this isn't recursing. Weirder, it's getting the most deeply-
 				nested element rather than just the first one. -->
 			<structure>
 				<xsl:for-each select="metadata/hierarchy">
-					<xsl:apply-templates select="hierarchyLevel" />
+					<xsl:apply-templates select="hierarchyLevel"/>
 				</xsl:for-each>
 			</structure>
 			
@@ -81,10 +81,6 @@
 
 	<!-- A template to recurse through structural hieirarchies. -->	
 	<xsl:template match="hierarchyLevel">
-			
-		<!-- Start a counter. -->
-		<xsl:param name="counter" select="1"/>
-			
 		<unit>
 		
 			<xsl:attribute name="label">
@@ -98,9 +94,12 @@
 			<xsl:attribute name="identifier">
 				<xsl:value-of select="heading/desig" />
 			</xsl:attribute>
-	
+
+      <!-- Counter
+        Still don't have this one working
+      -->
 			<xsl:attribute name="level">
-				<xsl:value-of select="$counter" />
+			  <xsl:value-of select="count(ancestor::hierarchyLevel) + 1"/>
 			</xsl:attribute>
 			
 			<!--To do: Change to title case.
@@ -119,8 +118,9 @@
 			the second appends levels to them.
 		-->
 		<!--<xsl:param name="counter" select="$counter + 1"/>-->
-		
-		<xsl:apply-templates select="hierarchyLevel" />
+		<xsl:if test="hierarchyLevel">
+  		<xsl:apply-templates select="hierarchyLevel"/>
+		</xsl:if>
 		
 	</xsl:template>
 	

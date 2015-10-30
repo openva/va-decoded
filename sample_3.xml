@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legislativeDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:noNamespaceSchemaLocation="http://www.lexisnexis.com/xmlschemas/content/public/legislativedoc/1/">
+   <legislativeDocHead>
+      <citations>
+         <citeForThisResource>Va. Code Ann. § 28.2-504</citeForThisResource>
+      </citations>
+   </legislativeDocHead>
+   <legislativeDocBody>
+      <statute>
+         <level levelType="section">
+            <anchor id="_28.2-504"/>
+            <heading>
+               <desig>§ 28.2-504.</desig>
+               <title>License fee graduated; penalty</title>
+            </heading>
+            <level levelType="paragraph">
+               <anchor id="_a"/>
+               <heading>
+                  <desig>A.</desig>
+               </heading>
+               <bodyText>
+                  <p> Every person engaged in the business of shucking or packing oysters in Virginia shall pay a license fee based on the amount of oysters shucked or packed by him during the previous year.</p>
+               </bodyText>
+            </level>
+            <level levelType="paragraph">
+               <anchor id="_b"/>
+               <heading>
+                  <desig>B.</desig>
+               </heading>
+               <bodyText>
+                  <p> The license fees to engage in the business of shucking or packing oysters are the following or as such fees may be subsequently revised by the Commission pursuant to <citation type="statute" normalizedCite="VACODE 28.2-201">
+                        <content>§ 28.2-201</content>
+                     </citation>:</p>
+               </bodyText>
+               <level levelType="paragraph">
+                  <anchor id="_b_1"/>
+                  <heading>
+                     <desig>1.</desig>
+                  </heading>
+                  <bodyText>
+                     <p> For under 1,000 gallons, $ 7.50;</p>
+                  </bodyText>
+               </level>
+               <level levelType="paragraph">
+                  <anchor id="_b_2"/>
+                  <heading>
+                     <desig>2.</desig>
+                  </heading>
+                  <bodyText>
+                     <p> For 1,000 gallons up to 10,000, $ 20;</p>
+                  </bodyText>
+               </level>
+               <level levelType="paragraph">
+                  <anchor id="_b_3"/>
+                  <heading>
+                     <desig>3.</desig>
+                  </heading>
+                  <bodyText>
+                     <p> For 10,000 gallons up to 25,000, $ 45;</p>
+                  </bodyText>
+               </level>
+               <level levelType="paragraph">
+                  <anchor id="_b_4"/>
+                  <heading>
+                     <desig>4.</desig>
+                  </heading>
+                  <bodyText>
+                     <p> For 25,000 gallons up to 50,000, $ 75;</p>
+                  </bodyText>
+               </level>
+               <level levelType="paragraph">
+                  <anchor id="_b_5"/>
+                  <heading>
+                     <desig>5.</desig>
+                  </heading>
+                  <bodyText>
+                     <p> For 50,000 gallons up to 100,000, $ 125;</p>
+                  </bodyText>
+               </level>
+               <level levelType="paragraph">
+                  <anchor id="_b_6"/>
+                  <heading>
+                     <desig>6.</desig>
+                  </heading>
+                  <bodyText>
+                     <p> For 100,000 gallons up to 200,000, $ 175; and</p>
+                  </bodyText>
+               </level>
+               <level levelType="paragraph">
+                  <anchor id="_b_7"/>
+                  <heading>
+                     <desig>7.</desig>
+                  </heading>
+                  <bodyText>
+                     <p> For 200,000 gallons or more, $ 275.</p>
+                     <p>Any person violating this section is guilty of a Class 1 misdemeanor.</p>
+                  </bodyText>
+               </level>
+            </level>
+            <level levelType="paragraph">
+               <anchor id="_c"/>
+               <heading>
+                  <desig>C.</desig>
+               </heading>
+               <bodyText>
+                  <p> The required license fee shall be collected in the same manner as other license fees collected under Virginia oyster laws.</p>
+               </bodyText>
+            </level>
+            <history>
+               <historyGroup groupType="history-citation">
+                  <historyItem>
+                     <bodyText>
+                        <p>Code 1950, § 28-136; 1950, p. 976; 1954, c. 178; 1960, c. 517; 1962, c. 406, § 28.1-119; 1968, c. 747; 1979, c. 274; <citation normalizedCite="1992 VA CH 836">
+                              <content>1992, c. 836</content>
+                           </citation>; <citation normalizedCite="2009 VA CH 9">
+                              <content>2009, c. 9</content>
+                           </citation>.</p>
+                     </bodyText>
+                  </historyItem>
+               </historyGroup>
+            </history>
+         </level>
+      </statute>
+   </legislativeDocBody>
+   <metadata>
+      <dc:metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:identifier identifierScheme="PGUID">urn:contentItem:5C0C-YYF0-004G-J260-00000-00</dc:identifier>
+      </dc:metadata>
+      <publicationInfo>
+         <publicationName>CODE OF VIRGINIA </publicationName>
+         <copyright>Copyright ©  by Matthew Bender &amp; Company, Inc. a member of the LexisNexis Group. All rights reserved</copyright>
+      </publicationInfo>
+      <hierarchy>
+         <hierarchyLevel levelType="title">
+            <heading>
+               <desig>TITLE 28.2.</desig>
+               <title>FISHERIES AND HABITAT OF THE TIDAL WATERS</title>
+            </heading>
+            <hierarchyLevel levelType="subtitle">
+               <heading>
+                  <desig>SUBTITLE II.</desig>
+                  <title>TIDAL FISHERIES</title>
+               </heading>
+               <hierarchyLevel levelType="chapter">
+                  <heading>
+                     <desig>CHAPTER 5.</desig>
+                     <title>OYSTERS AND CLAMS</title>
+                  </heading>
+                  <hierarchyLevel levelType="article">
+                     <heading>
+                        <desig>ARTICLE 1.</desig>
+                        <title>LICENSES</title>
+                     </heading>
+                  </hierarchyLevel>
+               </hierarchyLevel>
+            </hierarchyLevel>
+         </hierarchyLevel>
+      </hierarchy>
+   </metadata>
+</legislativeDoc>

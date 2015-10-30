@@ -99,6 +99,7 @@
         Still don't have this one working
       -->
 			<xsl:attribute name="level">
+			  <xsl:value-of select="count(ancestor::hierarchyLevel) + 1"/>
 			</xsl:attribute>
 			
 			<!--To do: Change to title case.

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 			
-<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:orig="http://StatRev.xsd">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:orig="http://StatRev.xsd">
 
 	<xsl:strip-space elements="*" />
 	
@@ -11,6 +11,7 @@
 			omit-xml-declaration="no"
 			indent="yes"
 			media-type="text/xml"/>
+
 	
 	<xsl:template match="text()">
 		<xsl:value-of select="normalize-space()" />
@@ -23,14 +24,13 @@
 		always match on the root element.
 	-->
 	<xsl:template match="legislativeDoc">
-
 		<law>
 
 			<!--Weirdly, this isn't recursing. Weirder, it's getting the most deeply-
 				nested element rather than just the first one. -->
 			<structure>
 				<xsl:for-each select="metadata/hierarchy">
-					<xsl:call-template select="hierarchyLevel" />
+					<xsl:apply-templates select="hierarchyLevel"/>
 				</xsl:for-each>
 			</structure>
 			
@@ -80,11 +80,7 @@
 	</xsl:template>
 
 	<!-- A template to recurse through structural hieirarchies. -->	
-	<xsl:template name="hierarchyLevel">
-			
-		<!-- Start a counter. -->
-		<xsl:param name="counter" select="1"/>
-			
+	<xsl:template match="hierarchyLevel">
 		<unit>
 		
 			<xsl:attribute name="label">
@@ -98,9 +94,11 @@
 			<xsl:attribute name="identifier">
 				<xsl:value-of select="heading/desig" />
 			</xsl:attribute>
-	
+
+      <!-- Counter
+        Still don't have this one working
+      -->
 			<xsl:attribute name="level">
-				<xsl:value-of select="$counter" />
 			</xsl:attribute>
 			
 			<!--To do: Change to title case.
@@ -119,8 +117,9 @@
 			the second appends levels to them.
 		-->
 		<!--<xsl:param name="counter" select="$counter + 1"/>-->
-		
-		<xsl:call-template name="hierarchyLevel" />
+		<xsl:if test="hierarchyLevel">
+  		<xsl:apply-templates select="hierarchyLevel"/>
+		</xsl:if>
 		
 	</xsl:template>
 	

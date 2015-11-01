@@ -92,7 +92,7 @@
 				xsltproc doesn't support, so you'll have to install Saxon or something
 				to handle that. https://stackoverflow.com/tags/xslt-2.0/info-->
 			<xsl:attribute name="identifier">
-				<xsl:value-of select="heading/desig" />
+				<xsl:value-of select="substring-after(heading/desig,'TITLE ')" />
 			</xsl:attribute>
 
       <!-- Counter

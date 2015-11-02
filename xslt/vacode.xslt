@@ -11,7 +11,6 @@
 			omit-xml-declaration="no"
 			indent="yes"
 			media-type="text/xml"/>
-
 	
 	<xsl:template match="text()">
 		<xsl:value-of select="normalize-space()" />
@@ -86,38 +85,20 @@
 			<xsl:attribute name="label">
 				<xsl:value-of select="@levelType" />
 			</xsl:attribute>
-	
-			<!--To do: Eliminate everything but the actual identifier. This can be
-				done with the replace() function. That requires XSLT v2.0, which
-				xsltproc doesn't support, so you'll have to install Saxon or something
-				to handle that. https://stackoverflow.com/tags/xslt-2.0/info-->
+
 			<xsl:attribute name="identifier">
 				<xsl:value-of select="heading/desig" />
 			</xsl:attribute>
 
-      <!-- Counter
-        Still don't have this one working
-      -->
+      		<!-- Counter -->
 			<xsl:attribute name="level">
 			  <xsl:value-of select="count(ancestor::hierarchyLevel) + 1"/>
 			</xsl:attribute>
-			
-			<!--To do: Change to title case.
-				https://stackoverflow.com/questions/13122545/convert-first-character-of-each-word-to-upper-case-->
+
 			<xsl:value-of select="heading/title"/>
 		
 		</unit>
-		
-		<!--To Do: This counter is not working. I'm pretty sure that I'm fundamentally
-			misunderstanding how XSLT works here.
-			
-			https://stackoverflow.com/questions/3709092/recursive-loop-xslt
-			https://stackoverflow.com/questions/9249913/xslt-variable-scope-and-its-usage
 
-			The solution may be to make two passes. The first builds up the unit labels,
-			the second appends levels to them.
-		-->
-		<!--<xsl:param name="counter" select="$counter + 1"/>-->
 		<xsl:if test="hierarchyLevel">
   		<xsl:apply-templates select="hierarchyLevel"/>
 		</xsl:if>

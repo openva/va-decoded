@@ -89,25 +89,26 @@
 			<xsl:attribute name="identifier">
 
 				<xsl:variable name="unit_label" select="heading/desig"/>
+				<xsl:variable name="unit_length" select="string-length($unit_label) - 1"/>
 				
 				<xsl:choose>
 					<xsl:when test="contains($unit_label, 'SUBTITLE ')">
-						<xsl:value-of select="replace($unit_label, 'SUBTITLE ', '')"/>
+						<xsl:value-of select="substring(replace($unit_label, 'SUBTITLE ', ''),1,$unit_length)"/>
 					</xsl:when>
 					<xsl:when test="contains($unit_label, 'TITLE ')">
-						<xsl:value-of select="replace($unit_label, 'TITLE ', '')"/>
+						<xsl:value-of select="substring(replace($unit_label, 'TITLE ', ''),1,$unit_length)"/>
 					</xsl:when>
 					<xsl:when test="contains($unit_label, 'CHAPTER ')">
-						<xsl:value-of select="replace($unit_label, 'CHAPTER ', '')"/>
+						<xsl:value-of select="substring(replace($unit_label, 'CHAPTER ', ''),1,$unit_length)"/>
 					</xsl:when>
 					<xsl:when test="contains($unit_label, 'ARTICLE ')">
-						<xsl:value-of select="replace($unit_label, 'ARTICLE ', '')"/>
+						<xsl:value-of select="substring(replace($unit_label, 'ARTICLE ', ''),1,$unit_length)"/>
 					</xsl:when>
 					<xsl:when test="contains($unit_label, 'PART ')">
-						<xsl:value-of select="replace($unit_label, 'PART ', '')"/>
+						<xsl:value-of select="substring(replace($unit_label, 'PART ', ''),1,$unit_length)"/>
 					</xsl:when>
 					<xsl:otherwise>
-						<xsl:value-of select="heading/desig"/>
+						<xsl:value-of select="substring(heading/desig,1,$unit_length)"/>
 					</xsl:otherwise>
 				</xsl:choose>
 

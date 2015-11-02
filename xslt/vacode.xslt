@@ -83,14 +83,14 @@
 		<unit>
 		
 			<xsl:attribute name="label">
-				<xsl:value-of select="@levelType" />
+				<xsl:value-of select="@levelType"/>
 			</xsl:attribute>
 
 			<xsl:attribute name="identifier">
 				<xsl:value-of select="heading/desig" />
 			</xsl:attribute>
 
-      		<!-- Counter -->
+			<!-- Counter -->
 			<xsl:attribute name="level">
 			  <xsl:value-of select="count(ancestor::hierarchyLevel) + 1"/>
 			</xsl:attribute>

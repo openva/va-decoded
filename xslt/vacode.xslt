@@ -87,7 +87,30 @@
 			</xsl:attribute>
 
 			<xsl:attribute name="identifier">
-				<xsl:value-of select="heading/desig" />
+
+				<xsl:variable name="unit_label" select="heading/desig"/>
+				
+				<xsl:choose>
+					<xsl:when test="contains($unit_label, 'SUBTITLE ')">
+						<xsl:value-of select="replace($unit_label, 'SUBTITLE ', '')"/>
+					</xsl:when>
+					<xsl:when test="contains($unit_label, 'TITLE ')">
+						<xsl:value-of select="replace($unit_label, 'TITLE ', '')"/>
+					</xsl:when>
+					<xsl:when test="contains($unit_label, 'CHAPTER ')">
+						<xsl:value-of select="replace($unit_label, 'CHAPTER ', '')"/>
+					</xsl:when>
+					<xsl:when test="contains($unit_label, 'ARTICLE ')">
+						<xsl:value-of select="replace($unit_label, 'ARTICLE ', '')"/>
+					</xsl:when>
+					<xsl:when test="contains($unit_label, 'PART ')">
+						<xsl:value-of select="replace($unit_label, 'PART ', '')"/>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:value-of select="heading/desig"/>
+					</xsl:otherwise>
+				</xsl:choose>
+
 			</xsl:attribute>
 
 			<!-- Counter -->

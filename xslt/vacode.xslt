@@ -17,12 +17,7 @@
 		<xsl:value-of select="normalize-space()" />
 	</xsl:template>
 
-	<!--Start processing at the top-level element. This will match on the root tag in
-		the input document. (The first tag that isn't "<xml>" is the root tag.) For
-		example, if the match is set for the fourth tag in the document, nothing in the
-		second or third tags would make it into the output document. You should almost
-		always match on the root element.
-	-->
+	<!--Start processing at the top-level element.-->
 	<xsl:template match="legislativeDoc">
 		<law>
 
@@ -34,7 +29,7 @@
 				</xsl:for-each>
 			</structure>
 			
-			<!-- Strip out the leading "§ " and the trailing period. -->
+			<!--Strip out the leading "§ " and the trailing period.-->
 			<xsl:variable name="section-number" select="translate(legislativeDocBody/statute/level/heading/desig, '§ ', '')"/>
 			<xsl:variable name="section-number-length" select="string-length($section-number)"/>
 			<section_number><xsl:value-of select="substring($section-number, 0, ($section-number-length - 1))" /></section_number>
@@ -46,7 +41,7 @@
 			
 			<text>
 				
-				<!-- To do: This needs to recurse, nesting levels! Right now, we're just
+				<!--To do: This needs to recurse, nesting levels! Right now, we're just
 				picking two levels deep as the place to work, but of course that's not
 				how it needs to work.-->
 				<xsl:for-each select="legislativeDocBody/statute/level/level">
@@ -89,30 +84,6 @@
 
 			<xsl:attribute name="identifier"><xsl:value-of select="replace(replace(normalize-space(heading/desig), '^(TITLE|SUBTITLE|ARTICLE|CHAPTER|PART) ', '' ), '.$', '')"/>
 
-<!--				<xsl:variable name="unit_label" select="heading/desig"/>
-				<xsl:variable name="unit_length" select="string-length($unit_label) - 1"/>
-
-				<xsl:choose>
-					<xsl:when test="contains($unit_label, 'SUBTITLE ')">
-						<xsl:value-of select="substring(replace($unit_label, 'SUBTITLE ', ''),1,$unit_length)"/>
-					</xsl:when>
-					<xsl:when test="contains($unit_label, 'TITLE ')">
-						<xsl:value-of select="substring(replace($unit_label, 'TITLE ', ''),1,$unit_length)"/>
-					</xsl:when>
-					<xsl:when test="contains($unit_label, 'CHAPTER ')">
-						<xsl:value-of select="substring(replace($unit_label, 'CHAPTER ', ''),1,$unit_length)"/>
-					</xsl:when>
-					<xsl:when test="contains($unit_label, 'ARTICLE ')">
-						<xsl:value-of select="substring(replace($unit_label, 'ARTICLE ', ''),1,$unit_length)"/>
-					</xsl:when>
-					<xsl:when test="contains($unit_label, 'PART ')">
-						<xsl:value-of select="substring(replace($unit_label, 'PART ', ''),1,$unit_length)"/>
-					</xsl:when>
-					<xsl:otherwise>
-						<xsl:value-of select="substring(heading/desig,1,$unit_length)"/>
-					</xsl:otherwise>
-				</xsl:choose>
--->
 		</xsl:attribute>
 
 			<!-- Counter -->

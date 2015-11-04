@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 			
-<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:orig="http://StatRev.xsd">
+<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:orig="http://StatRev.xsd"
+	xmlns:fn="http://localhost/"  xmlns:xs="http://www.w3.org/2001/XMLSchema" >
 
 	<xsl:strip-space elements="*" />
 	
@@ -86,11 +87,11 @@
 				<xsl:value-of select="@levelType"/>
 			</xsl:attribute>
 
-			<xsl:attribute name="identifier">
+			<xsl:attribute name="identifier"><xsl:value-of select="replace(replace(normalize-space(heading/desig), '^(TITLE|SUBTITLE|ARTICLE|CHAPTER|PART) ', '' ), '.$', '')"/>
 
-				<xsl:variable name="unit_label" select="heading/desig"/>
+<!--				<xsl:variable name="unit_label" select="heading/desig"/>
 				<xsl:variable name="unit_length" select="string-length($unit_label) - 1"/>
-				
+
 				<xsl:choose>
 					<xsl:when test="contains($unit_label, 'SUBTITLE ')">
 						<xsl:value-of select="substring(replace($unit_label, 'SUBTITLE ', ''),1,$unit_length)"/>
@@ -111,15 +112,15 @@
 						<xsl:value-of select="substring(heading/desig,1,$unit_length)"/>
 					</xsl:otherwise>
 				</xsl:choose>
-
-			</xsl:attribute>
+-->
+		</xsl:attribute>
 
 			<!-- Counter -->
 			<xsl:attribute name="level">
 			  <xsl:value-of select="count(ancestor::hierarchyLevel) + 1"/>
 			</xsl:attribute>
 
-			<xsl:value-of select="heading/title"/>
+			<xsl:value-of select="fn:capitalize_phrase(heading/title)"/>
 		
 		</unit>
 
@@ -128,5 +129,20 @@
 		</xsl:if>
 		
 	</xsl:template>
-	
+
+	<xsl:function name="fn:capitalize_word">
+		<xsl:param name="word"  as="xs:string" />
+		<xsl:value-of select="concat( upper-case(substring( $word, 1, 1 )), lower-case(substring($word,2)) )" />
+	</xsl:function>
+
+	<xsl:function name="fn:capitalize_phrase">
+		<xsl:param name="phrase" as="xs:string" />
+		<xsl:variable name="tokens">
+		<xsl:for-each select="tokenize( normalize-space($phrase), ' ' )">
+			<xsl:value-of select="concat(fn:capitalize_word(.), ' ')"/>
+		</xsl:for-each>
+		</xsl:variable>
+		<xsl:value-of select="substring(string($tokens),1,string-length(string($tokens))-1)"/>
+	</xsl:function>
+
 </xsl:stylesheet>

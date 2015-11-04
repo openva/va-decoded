@@ -41,28 +41,12 @@
 			
 			<text>
 				
-				<!--To do: This needs to recurse, nesting levels! Right now, we're just
-				picking two levels deep as the place to work, but of course that's not
-				how it needs to work.-->
 				<xsl:for-each select="legislativeDocBody/statute/level/level">
 					
 					<section>
 						<xsl:attribute name="prefix">
-							<!--Strip off the trailing period of each heading.
-								(Strictly speaking, this is removing ALL periods.)-->
 							<xsl:value-of select="translate(heading/desig, '.', '')" />
 						</xsl:attribute>
-						
-						<!--To do: Despite stripping off leading and trailing text,
-						we're still getting a single leading space prior to each
-						section. Figure out why.-->
-
-						<!--To do: Multi-paragraph laws without subsections, or
-						muti-paragraph subsections, are being combined into one, long
-						string, with no spaces at all separating where they've been
-						joined. This is because of <xsl:strip-space> in the head, which
-						we need to keep subsections from being lead and trailed with vast
-						seas of space. Figure out how to reconcile these two problems.-->
 						<xsl:value-of select="bodyText" />
 						
 					</section>

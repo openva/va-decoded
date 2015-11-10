@@ -21,8 +21,6 @@
 	<xsl:template match="legislativeDoc">
 		<law>
 
-			<!--Weirdly, this isn't recursing. Weirder, it's getting the most deeply-
-				nested element rather than just the first one. -->
 			<structure>
 				<xsl:for-each select="metadata/hierarchy">
 					<xsl:apply-templates select="hierarchyLevel"/>

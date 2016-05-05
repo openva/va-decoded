@@ -38,7 +38,7 @@
 			<history><xsl:value-of select="legislativeDocBody/statute/level/history/historyGroup/historyItem/bodyText" /></history>
 			
 			<text>
-				<xsl:for-each select="legislativeDocBody/statute/level">
+				<xsl:for-each select="legislativeDocBody/statute">
 					<xsl:apply-templates select="level"/>
 				</xsl:for-each>
 			</text>

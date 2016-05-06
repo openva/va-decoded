@@ -77,11 +77,8 @@
 	<!--Recurse through textual hierarchies (e.g., § 1(a)(iv)).-->
 	<xsl:template match="level">
 
-		<!-- Only include a section if it has content within it. But whether or
-		not it does, recurse deeper, if need be. -->
-		<xsl:if test="bodyText or not(contains(heading/desig, '§'))">
-
 			<section>
+				
 				<!-- Only include a prefix if it's a subsection prefix, as opposed
 				to a section identifier. -->
 				<xsl:if test="not(contains(heading/desig, '§'))">
@@ -90,14 +87,14 @@
 					</xsl:attribute>
 				</xsl:if>
 				<xsl:value-of select="bodyText" />
+
+
+				<!-- If another level is within this, recurse more deeply. -->
+				<xsl:if test="level">
+					<xsl:apply-templates select="level"/>
+				</xsl:if>
+
 			</section>
-
-		</xsl:if>
-
-		<!-- If another level is within this, recurse more deeply. -->
-		<xsl:if test="level">
-			<xsl:apply-templates select="level"/>
-		</xsl:if>
 
 	</xsl:template>
 

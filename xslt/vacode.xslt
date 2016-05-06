@@ -77,13 +77,24 @@
 	<!--Recurse through textual hierarchies (e.g., § 1(a)(iv)).-->
 	<xsl:template match="level">
 
-		<section>
-			<xsl:attribute name="prefix">
-				<xsl:value-of select="translate(heading/desig, '.', '')" />
-			</xsl:attribute>
-			<xsl:value-of select="bodyText" />
-		</section>
+		<!-- Only include a section if it has content within it. But whether or
+		not it does, recurse deeper, if need be. -->
+		<xsl:if test="bodyText or not(contains(heading/desig, '§'))">
 
+			<section>
+				<!-- Only include a prefix if it's a subsection prefix, as opposed
+				to a section identifier. -->
+				<xsl:if test="not(contains(heading/desig, '§'))">
+					<xsl:attribute name="prefix">
+						<xsl:value-of select="translate(heading/desig, '.', '')" />
+					</xsl:attribute>
+				</xsl:if>
+				<xsl:value-of select="bodyText" />
+			</section>
+
+		</xsl:if>
+
+		<!-- If another level is within this, recurse more deeply. -->
 		<xsl:if test="level">
 			<xsl:apply-templates select="level"/>
 		</xsl:if>
@@ -91,7 +102,7 @@
 	</xsl:template>
 
 	<xsl:function name="fn:capitalize_word">
-		<xsl:param name="word"  as="xs:string" />
+		<xsl:param name="word" as="xs:string" />
 		<xsl:value-of select="concat( upper-case(substring( $word, 1, 1 )), lower-case(substring($word,2)) )" />
 	</xsl:function>
 

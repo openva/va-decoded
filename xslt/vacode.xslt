@@ -3,8 +3,12 @@
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:orig="http://StatRev.xsd"
 	xmlns:fn="http://localhost/"  xmlns:xs="http://www.w3.org/2001/XMLSchema" >
 
+	<!-- Strip whitespace from everything except the text of laws. -->
 	<xsl:strip-space elements="*" />
 	<xsl:preserve-space elements="bodyText" />
+
+	<!-- Don't include any whitespace-only text nodes. -->
+	<xsl:strip-space elements="*" />
 	
 	<xsl:output
 			method="xml"

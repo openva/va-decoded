@@ -84,7 +84,8 @@
 				to a section identifier. -->
 				<xsl:if test="not(contains(heading/desig, '§'))">
 					<xsl:attribute name="prefix">
-						<xsl:value-of select="translate(heading/desig, '.', '')" />
+						<xsl:variable name="prefix_length" select="string-length(heading/desig)"/>
+						<xsl:value-of select="substring(heading/desig, 0, $prefix_length)"/>
 					</xsl:attribute>
 				</xsl:if>
 				<xsl:value-of select="bodyText" />

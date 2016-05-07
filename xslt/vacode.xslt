@@ -4,6 +4,7 @@
 	xmlns:fn="http://localhost/"  xmlns:xs="http://www.w3.org/2001/XMLSchema" >
 
 	<xsl:strip-space elements="*" />
+	<xsl:preserve-space elements="bodyText" />
 	
 	<xsl:output
 			method="xml"
@@ -78,7 +79,7 @@
 	<xsl:template match="level">
 
 			<section>
-				
+
 				<!-- Only include a prefix if it's a subsection prefix, as opposed
 				to a section identifier. -->
 				<xsl:if test="not(contains(heading/desig, '§'))">

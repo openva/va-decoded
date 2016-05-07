@@ -36,7 +36,7 @@
 			<!--Include the catch line.-->
 			<catch_line><xsl:value-of select="legislativeDocBody/statute/level/heading/title" /></catch_line>
 			
-			<history><xsl:value-of select="legislativeDocBody/statute/level/history/historyGroup/historyItem/bodyText" /></history>
+			<history><xsl:value-of select="normalize-space(legislativeDocBody/statute/level/history/historyGroup/historyItem/bodyText)" /></history>
 			
 			<text>
 				<xsl:for-each select="legislativeDocBody/statute">

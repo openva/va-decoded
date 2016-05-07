@@ -17,10 +17,6 @@
 			omit-xml-declaration="no"
 			indent="yes"
 			media-type="text/xml"/>
-	
-	<xsl:template match="text()">
-		<xsl:value-of select="normalize-space()" />
-	</xsl:template>
 
 	<!--Start processing at the top-level element.-->
 	<xsl:template match="legislativeDoc">
@@ -92,7 +88,6 @@
 					</xsl:attribute>
 				</xsl:if>
 				<xsl:value-of select="bodyText" />
-
 
 				<!-- If another level is within this, recurse more deeply. -->
 				<xsl:if test="level">

@@ -48,7 +48,7 @@
 		
 	</xsl:template>
 
-	<!-- A template to recurse through structural hierarchies. -->	
+	<!-- Recurse through structural hierarchies. -->	
 	<xsl:template match="hierarchyLevel">
 		<unit>
 		
@@ -56,9 +56,9 @@
 				<xsl:value-of select="@levelType"/>
 			</xsl:attribute>
 
-			<xsl:attribute name="identifier"><xsl:value-of select="replace(replace(normalize-space(heading/desig), '^(TITLE|SUBTITLE|ARTICLE|CHAPTER|PART) ', '' ), '.$', '')"/>
-
-		</xsl:attribute>
+			<xsl:attribute name="identifier">
+				<xsl:value-of select="replace(replace(normalize-space(heading/desig), '^(TITLE|SUBTITLE|ARTICLE|CHAPTER|PART) ', '' ), '.$', '')"/>
+			</xsl:attribute>
 
 			<!-- Counter -->
 			<xsl:attribute name="level">

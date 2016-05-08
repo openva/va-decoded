@@ -91,9 +91,7 @@
 						<xsl:variable name="prefix_length" select="string-length(heading/desig)"/>
 						<xsl:value-of select="substring(heading/desig, 0, $prefix_length)"/>
 					</xsl:attribute>
-					<xsl:attribute name="depth">
-						<xsl:value-of select="$depth"/>
-					</xsl:attribute>
+					
 					<xsl:value-of select="bodyText" />
 
 					<xsl:if test="level">

@@ -78,24 +78,39 @@
 	<!--Recurse through textual hierarchies (e.g., § 1(a)(iv)).-->
 	<xsl:template match="level">
 
-			<section>
+		<!-- Counter -->
+		<xsl:variable name="depth" select="count(ancestor::level)"/>
 
-				<!-- Only include a prefix if it's a subsection prefix, as opposed
-				to a section identifier. -->
-				<xsl:if test="not(contains(heading/desig, '§'))">
+		<!-- Handle  -->
+		<xsl:choose>
+
+			<!-- Only include a prefix if we're at least 1 level deep. -->
+			<xsl:when test="$depth > 0">
+				<section>
 					<xsl:attribute name="prefix">
 						<xsl:variable name="prefix_length" select="string-length(heading/desig)"/>
 						<xsl:value-of select="substring(heading/desig, 0, $prefix_length)"/>
 					</xsl:attribute>
-				</xsl:if>
-				<xsl:value-of select="bodyText" />
+					<xsl:attribute name="depth">
+						<xsl:value-of select="$depth"/>
+					</xsl:attribute>
+					<xsl:value-of select="bodyText" />
 
-				<!-- If another level is within this, recurse more deeply. -->
+					<xsl:if test="level">
+						<xsl:apply-templates select="level"/>
+					</xsl:if>
+
+				</section>
+			</xsl:when>
+
+			<xsl:otherwise>
+				<xsl:value-of select="bodyText" />
 				<xsl:if test="level">
 					<xsl:apply-templates select="level"/>
 				</xsl:if>
+			</xsl:otherwise>
 
-			</section>
+		</xsl:choose>
 
 	</xsl:template>
 

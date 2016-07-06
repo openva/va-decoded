@@ -4,6 +4,6 @@ The Virginia implementation of [The State Decoded](https://github.com/statedecod
 
 ## Testing XSLT
 
-XML transformations can be applied via [this web-based transformer](http://www.freeformatter.com/xsl-transformer.html). (xsltproc won’t work because it doesn’t support XSLT 2.0.) The goal here is to get the outputted XML to match [the State Decoded standard](http://docs.statedecoded.com/xml-format.html).
+XML transformations can be applied via [this web-based transformer](http://www.freeformatter.com/xsl-transformer.html). (xsltproc won’t work because it doesn’t support XSLT 2.0) or with Saxon-B (e.g., `java net.sf.saxon.Transform -o:output.xml -s:lexis.xml -xsl:decoded.xsl`). The goal here is to get the outputted XML to match [the State Decoded standard](http://docs.statedecoded.com/xml-format.html).
 
 Note that this XSLT is particularly important because it is LexisNexis’ XML format for legal codes. Getting this created means that any LexisNexis legal XML can be used to populate a State Decoded website.

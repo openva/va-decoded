@@ -28,10 +28,11 @@
 				</xsl:for-each>
 			</structure>
 			
-			<!--Strip out the leading "§ " and the trailing period.-->
-			<xsl:variable name="section-number" select="translate(legislativeDocBody/statute/level/heading/desig, '§ ', '')"/>
-			<xsl:variable name="section-number-length" select="string-length($section-number)"/>
-			<section_number><xsl:value-of select="substring($section-number, 1, ($section-number-length - 1))" /></section_number>
+			<!--Strip out the leading "_ " and replace any others with a colon.-->
+			<xsl:variable name="section-number" select="translate(legislativeDocBody/statute/level/anchor/@id, '_', ':')" />
+			<section_number>
+				<xsl:value-of select="substring($section-number, 2)"/>
+			</section_number>
 
 			<!--Include the catch line.-->
 			<catch_line><xsl:value-of select="legislativeDocBody/statute/level/heading/title" /></catch_line>
@@ -57,7 +58,7 @@
 			</xsl:attribute>
 
 			<xsl:attribute name="identifier">
-				<xsl:value-of select="replace(replace(normalize-space(heading/desig), '^(TITLE|SUBTITLE|ARTICLE|CHAPTER|PART) ', '' ), '.$', '')"/>
+				<xsl:value-of select="replace(replace(normalize-space(heading/desig), '^(TITLE|SUBTITLE|ARTICLE|CHAPTER|SUBCHAPTER|PART) ', '' ), '.$', '')"/>
 			</xsl:attribute>
 
 			<!-- Counter -->

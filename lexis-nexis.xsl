@@ -57,17 +57,25 @@
 				<xsl:value-of select="@levelType"/>
 			</xsl:attribute>
 
-			<xsl:attribute name="identifier">
-				<xsl:value-of select="replace(replace(normalize-space(heading/desig), '^(TITLE|SUBTITLE|ARTICLE|CHAPTER|SUBCHAPTER|PART) ', '' ), '.$', '')"/>
-			</xsl:attribute>
-
 			<!-- Counter -->
 			<xsl:attribute name="level">
 			  <xsl:value-of select="count(ancestor::hierarchyLevel) + 1"/>
 			</xsl:attribute>
 
-			<xsl:value-of select="fn:capitalize_phrase(heading/title)"/>
-		
+			<!-- If we have a title, desig is the identifier. Otherwise, the desig is the title. -->
+			<xsl:choose>
+				<xsl:when test="heading/title">
+					<xsl:attribute name="identifier">
+						<xsl:value-of select="replace(replace(normalize-space(heading/desig), '^(TITLE|SUBTITLE|ARTICLE|CHAPTER|SUBCHAPTER|PART) ', '' ), '.$', '')"/>
+					</xsl:attribute>
+					<xsl:value-of select="fn:capitalize_phrase(heading/title)"/>
+				</xsl:when>
+
+				<xsl:otherwise>
+					<xsl:value-of select="fn:capitalize_phrase(heading/desig)"/>
+				</xsl:otherwise>
+			</xsl:choose>
+
 		</unit>
 
 		<xsl:if test="hierarchyLevel">

@@ -92,8 +92,8 @@
 						<xsl:variable name="prefix_length" select="string-length(heading/desig)"/>
 						<xsl:value-of select="substring(heading/desig, 0, $prefix_length)"/>
 					</xsl:attribute>
-					
-					<xsl:value-of select="bodyText" />
+
+					<xsl:apply-templates select="bodyText"/>
 
 					<xsl:if test="level">
 						<xsl:apply-templates select="level"/>
@@ -103,14 +103,29 @@
 			</xsl:when>
 
 			<xsl:otherwise>
-				<xsl:value-of select="bodyText" />
-				<xsl:if test="level">
-					<xsl:apply-templates select="level"/>
-				</xsl:if>
+				<xsl:apply-templates />
 			</xsl:otherwise>
 
 		</xsl:choose>
 
+	</xsl:template>
+
+	<!--Handle markup in our bodyText-->
+
+	<xsl:template match="bodyText">
+		<xsl:apply-templates />
+	</xsl:template>
+
+	<xsl:template match="p">
+		<p><xsl:apply-templates /></p>
+	</xsl:template>
+
+	<!--Delete locator and heading-->
+	<xsl:template match="locator|heading" />
+
+	<!--Get the content of citation.-->
+	<xsl:template match="citation">
+		<xsl:value-of select="content/span" />
 	</xsl:template>
 
 	<xsl:function name="fn:capitalize_word">

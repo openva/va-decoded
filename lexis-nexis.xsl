@@ -57,17 +57,25 @@
 				<xsl:value-of select="@levelType"/>
 			</xsl:attribute>
 
-			<xsl:attribute name="identifier">
-				<xsl:value-of select="replace(replace(normalize-space(heading/desig), '^(TITLE|SUBTITLE|ARTICLE|CHAPTER|SUBCHAPTER|PART) ', '' ), '.$', '')"/>
-			</xsl:attribute>
-
 			<!-- Counter -->
 			<xsl:attribute name="level">
 			  <xsl:value-of select="count(ancestor::hierarchyLevel) + 1"/>
 			</xsl:attribute>
 
-			<xsl:value-of select="fn:capitalize_phrase(heading/title)"/>
-		
+			<!-- If we have a title, desig is the identifier. Otherwise, the desig is the title. -->
+			<xsl:choose>
+				<xsl:when test="heading/title">
+					<xsl:attribute name="identifier">
+						<xsl:value-of select="replace(replace(normalize-space(heading/desig), '^(TITLE|SUBTITLE|ARTICLE|CHAPTER|SUBCHAPTER|PART) ', '' ), '.$', '')"/>
+					</xsl:attribute>
+					<xsl:value-of select="fn:capitalize_phrase(heading/title)"/>
+				</xsl:when>
+
+				<xsl:otherwise>
+					<xsl:value-of select="fn:capitalize_phrase(heading/desig)"/>
+				</xsl:otherwise>
+			</xsl:choose>
+
 		</unit>
 
 		<xsl:if test="hierarchyLevel">
@@ -92,8 +100,8 @@
 						<xsl:variable name="prefix_length" select="string-length(heading/desig)"/>
 						<xsl:value-of select="substring(heading/desig, 0, $prefix_length)"/>
 					</xsl:attribute>
-					
-					<xsl:value-of select="bodyText" />
+
+					<xsl:apply-templates select="bodyText"/>
 
 					<xsl:if test="level">
 						<xsl:apply-templates select="level"/>
@@ -103,14 +111,29 @@
 			</xsl:when>
 
 			<xsl:otherwise>
-				<xsl:value-of select="bodyText" />
-				<xsl:if test="level">
-					<xsl:apply-templates select="level"/>
-				</xsl:if>
+				<xsl:apply-templates />
 			</xsl:otherwise>
 
 		</xsl:choose>
 
+	</xsl:template>
+
+	<!--Handle markup in our bodyText-->
+
+	<xsl:template match="bodyText">
+		<xsl:apply-templates />
+	</xsl:template>
+
+	<xsl:template match="p">
+		<p><xsl:apply-templates /></p>
+	</xsl:template>
+
+	<!--Delete locator and heading-->
+	<xsl:template match="locator|heading" />
+
+	<!--Get the content of citation.-->
+	<xsl:template match="citation">
+		<xsl:value-of select="content/span" />
 	</xsl:template>
 
 	<xsl:function name="fn:capitalize_word">

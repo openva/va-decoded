@@ -128,7 +128,7 @@
 		<p><xsl:apply-templates /></p>
 	</xsl:template>
 
-	<xsl:template match="pre|br">
+	<xsl:template match="pre|br|em">
 		<xsl:copy copy-namespaces="no"><xsl:apply-templates /></xsl:copy>
 	</xsl:template>
 

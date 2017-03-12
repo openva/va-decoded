@@ -128,6 +128,10 @@
 		<p><xsl:apply-templates /></p>
 	</xsl:template>
 
+	<xsl:template match="pre|br">
+		<xsl:copy copy-namespaces="no"><xsl:apply-templates /></xsl:copy>
+	</xsl:template>
+
 	<!--Delete locator and heading-->
 	<xsl:template match="locator|heading" />
 

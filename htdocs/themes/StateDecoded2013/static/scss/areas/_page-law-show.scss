@@ -97,6 +97,7 @@
     }
 
       #section_id {
+        display: block;
         font-family: $statedecoded-stack1;
         font-size: 65%;
         font-variant: small-caps;
@@ -136,11 +137,37 @@
 
     p {
       margin: 0 0 1.25em 0;
+      &:hover {
+       .section-permalink{
+          opacity:1.0
+
+        }
+      }
     }
+
+  .prefix-number {
+    font-weight: bold;
+    float: left;
+    margin-right: 1em;
+  }
+
 	.tabular {
 	  max-width: 100%;
 	  overflow: auto;
 	}
+
+    .section-permalink {
+      text-decoration: none;
+    }
+
+    // If the permalink is inside of a section, we need to adjust it's position.
+    // This only happens when the <p> tags are already in the content before it
+    // gets to the template.
+    p + .section-permalink {
+      position: relative;
+      top: -1.25em;
+      margin-bottom: 1.25em;
+    }
 
     pre.table {
       margin: 0 0 20px 0;
@@ -532,4 +559,32 @@ $border-radius-base: 6px;
     //@extend .nav-justified;
     //@extend .nav-tabs-justified;
   }
+}
+
+// Downloads
+// -------------------------
+.file-download a {
+  display: inline-block;
+  padding-top: 38px;
+  background: transparent url('../images/icon_generic_32.png') no-repeat top center;
+}
+
+.file-text a {
+  background-image: url('../images/icon_txt_32.png');
+}
+
+.file-json a {
+  background-image: url('../images/icon_json_32.png');
+}
+
+.file-doc a {
+  background-image: url('../images/icon_doc_32.png');
+}
+
+.file-epub a {
+  background-image: url('../images/icon_epub_32.png');
+}
+
+.file-pdf a {
+  background-image: url('../images/icon_pdf_32.png');
 }

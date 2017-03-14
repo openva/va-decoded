@@ -15,7 +15,7 @@
  * Setup the edition object.
  */
 require_once(INCLUDE_PATH . 'class.Edition.inc.php');
-global $db;
+
 $edition = new Edition(array('db' => $db));
 
 /*
@@ -235,14 +235,14 @@ $body .= '</article>';
  * Display links to representational variants of the text of this law.
  */
 $formats = array('doc' => 'Word doc', 'epub' => 'ePub', 'json' => 'JSON', 'pdf' => 'PDF',
-	'rtf' => 'Rich Text Format', 'txt' => 'Plain Text');
+	'rtf' => 'Rich Text Format', 'txt' => 'Plain Text', 'xml' => 'XML');
 $body .= '<section id="rep_variant">
 			<h2>Download</h2>
 				<ul>';
-foreach ($law->formats as $type => $url)
+foreach ($law->formats as $format)
 {
-	$body .= '<li><a href="' . $url . '"><img src="/themes/StateDecoded2013/static/images/icon_'
-		. $type . '_32.png" alt="' . $formats[$type] . '"></a></li>';
+	$body .= '<li class="file-download file-' . $format['format'] . '">
+		<a href="' . $format['url'] . '">' . $format['name'] . '</a></li>';
 }
 $body .= '
 				</ul>

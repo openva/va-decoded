@@ -212,7 +212,7 @@ class State
 				}
 
 				// Port the fields that we need from $opinion to $this->decisions.
-				if (html_entity_decode(strlen(strip_tags($opinion->case_name))) > 60)
+				if (html_entity_decode(strlen(strip_tags($opinion->caseName))) > 60)
 				{
 					$this->decisions->{$i}->name = ' . . . ' . array_shift(explode("\n", wordwrap(html_entity_decode(strip_tags($opinion->caseName)), 60))) . ' . . . ';
 				}
@@ -248,6 +248,10 @@ class State
 		// Store these decisions in the metadata table.
 		$law = new Law();
 		$law->section_id = $this->section_id;
+		if (!isset($law->metadata->{0}))
+		{
+			$law->metadata->{0} = new stdClass();
+		}
 		$law->metadata->{0}->key = 'court_decisions';
 		$law->metadata->{0}->value = json_encode($this->decisions);
 		$law->store_metadata();
@@ -290,6 +294,7 @@ class Parser
 	public $scope_indicators = array(
 		' are used in this ',
 		'when used in this ',
+		'as used in this ',
 		'for purposes of this ',
 		'for the purposes of this ',
 		'for the purpose of this ',
@@ -405,6 +410,11 @@ class Parser
 			$filename = $this->files[$i];
 
 			/*
+			 * Increment our placeholder counter.
+			 */
+			$this->file++;
+
+			/*
 			 * Determine data type and import
 			 */
 			// TODO : Make this smarter.  We can use the PECL Fileinfo package
@@ -424,13 +434,10 @@ class Parser
 
 				// TODO: Fix this.
 				default:
+					$this->logger->message('Skipping unknown file type "' . $filename .'"', 5);
 					// Anything else, we can't handle.
+					continue 2;
 			}
-
-			/*
-			 * Increment our placeholder counter.
-			 */
-			$this->file++;
 
 			/*
 			 * Send this object back, out of the iterator.
@@ -625,6 +632,10 @@ class Parser
 				 */
 				if ( !empty( $this->code->section->{$this->i}->text ) )
 				{
+					if(!isset($this->code->text))
+					{
+						$this->code->text = '';
+					}
 					$this->code->text .= (string) $subsection['prefix'] . ' '
 						. trim((string) $subsection) . "\r\r";
 				}
@@ -782,9 +793,9 @@ class Parser
 			{
 				$insert_data = array(
 					':object_type' => 'structure',
-					':relational_id' => '',
-					':identifier' => '',
-					':token' => '',
+					':relational_id' => null,
+					':identifier' => null,
+					':token' => '/browse/',
 					':url' => '/browse/',
 					':edition_id' => $edition_id,
 					':preferred' => $preferred,
@@ -797,9 +808,9 @@ class Parser
 
 			$insert_data = array(
 				':object_type' => 'structure',
-				':relational_id' => '',
-				':identifier' => '',
-				':token' => '',
+				':relational_id' => null,
+				':identifier' => null,
+				':token' => '/browse/',
 				':url' => '/' . $edition->slug . '/',
 				':edition_id' => $edition_id,
 				':preferred' => $preferred,
@@ -1075,7 +1086,23 @@ class Parser
 		 */
 		foreach ($section as $subsection)
 		{
+			/*
+			 * Preserve tags inside of the XML.
+			 */
 
+			$subsection_text = '';
+			if($subsection->children())
+			{
+				foreach($subsection->children() as $child)
+				{
+					$subsection_text .= trim($child->asXML());
+				}
+			}
+			else
+			{
+				$subsection_text = trim((string) $subsection);
+			}
+var_dump('subsection text', $subsection_text);
 			/*
 			 * Store this subsection's data in our code object.
 			 */
@@ -1084,13 +1111,13 @@ class Parser
 				$this->code->section->{$this->i} = new stdClass();
 			}
 
-			$this->code->section->{$this->i}->text = (string) $subsection;
+			$this->code->section->{$this->i}->text = $subsection_text;
 			if (!empty($subsection['type']))
 			{
-				$this->code->section->{$this->i}->type = (string) $subsection['type'];
+				$this->code->section->{$this->i}->type = $subsection['type'];
 			}
-			$this->code->section->{$this->i}->prefix = (string) $subsection['prefix'];
-			$this->prefix_hierarchy[] = (string) $subsection['prefix'];
+			$this->code->section->{$this->i}->prefix = $subsection['prefix'];
+			$this->prefix_hierarchy[] = $subsection['prefix'];
 
 			$this->code->section->{$this->i}->prefix_hierarchy = (object) $this->prefix_hierarchy;
 
@@ -1528,13 +1555,16 @@ class Parser
 			/*
 			 * Determine the position of this structural unit.
 			 */
-			$structure = array_reverse($this->get_structure_labels());
+			$structure = array_reverse($this->get_structure_labels($this->edition_id));
 			array_push($structure, 'global');
 
 			/*
 			 * Find and return the position of this structural unit in the hierarchical stack.
 			 */
-			$dictionary->scope_specificity = array_search($dictionary->scope, $structure);
+			$dictionary->scope_specificity = array_search(
+				strtolower($dictionary->scope),
+				array_map('strtolower', $structure)
+			);
 
 			/*
 			 * Store these definitions in the database.
@@ -1785,7 +1815,7 @@ class Parser
 	 */
 	function extract_definitions($text, $structure_labels)
 	{
-		$scope = 'global';
+		$scope = 'section';
 
 		if (!isset($text))
 		{
@@ -1817,7 +1847,7 @@ class Parser
 		}
 		else
 		{
-			$this->text = str_replace("\n", "\r", $text);
+			$text = str_replace("\n", "\r", $text);
 			$paragraphs = explode("\r", $text);
 		}
 
@@ -1919,6 +1949,11 @@ class Parser
 							$scope = end($structure_labels);
 
 						}
+
+						/*
+						 * Make sure the scope is lowercase.
+						 */
+						$scope = strtolower($scope);
 
 					}
 
@@ -2114,6 +2149,11 @@ class Parser
 		}
 
 		/*
+		 * Make sure the scope is lowercase, as sometimes it is not.
+		 */
+		$scope = strtolower($scope);
+
+		/*
 		 * Make the list of definitions a subset of a larger variable, so that we can store things
 		 * other than terms.
 		 */
@@ -2149,7 +2189,7 @@ class Parser
 		 */
 		if (!isset($this->structure_id))
 		{
-			$this->structure_id = 'NULL';
+			$this->structure_id = null;
 		}
 
 		/*
@@ -2439,10 +2479,13 @@ class Parser
 
 	} // end extract_history()
 
-	public function get_structure_labels()
+	public function get_structure_labels($edition_id = null)
 	{
-		$sql = 'SELECT label FROM structure GROUP BY label ' .
-			'ORDER BY depth ASC';
+		$sql = 'SELECT DISTINCT label, depth FROM structure ';
+		if($edition_id) {
+			$sql .= 'WHERE edition_id = ' . $edition_id . ' ';
+		}
+		$sql .= 'ORDER BY depth ASC';
 		$statement = $this->db->prepare($sql);
 		$result = $statement->execute();
 
@@ -2467,10 +2510,12 @@ class Parser
 			else{
 				while($row = $statement->fetch(PDO::FETCH_ASSOC))
 				{
-					$structure_labels[] = $row['label'];
+					$structure_labels[$row['depth']] = $row['label'];
 				}
 			}
 		}
+
+		$structure_labels = array_values($structure_labels);
 
 		/*
 		 * Our lowest level, not represented in the structure table, is 'section'

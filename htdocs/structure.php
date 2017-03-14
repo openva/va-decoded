@@ -11,12 +11,11 @@
  * @since		0.1
 */
 
-
 /*
  * Setup the edition object.
  */
 require_once(INCLUDE_PATH . 'class.Edition.inc.php');
-global $db;
+
 $edition = new Edition(array('db' => $db));
 
 /*
@@ -131,7 +130,7 @@ if (count((array) $structure) > 1)
 		}
 
 		$content->append('breadcrumbs', '<li class="' . $active . '">
-				<a href="' . $level->url . '">' . $level->identifier . ': ' . $level->name . '</a>
+				<a href="' . $level->url->url . '">' . $level->identifier . ': ' . $level->name . '</a>
 			</li>');
 
 		/*
@@ -140,7 +139,7 @@ if (count((array) $structure) > 1)
 		 */
 		if ($level->id == $struct->parent_id)
 		{
-			$content->set('link_rel', '<link rel="up" title="Up" href="' . $level->url . '" />');
+			$content->set('link_rel', '<link rel="up" title="Up" href="' . $level->url->url . '" />');
 		}
 
 	}
@@ -367,12 +366,15 @@ if ($laws !== FALSE)
 /*
  * If this isn't the canonical page, show a canonical meta tag.
  */
-$permalink_obj = new Permalink(array('db' => $db));
-$permalink = $permalink_obj->get_permalink($struct->structure_id, 'structure', $struct->edition_id);
-if($args['url'] !== $permalink->url)
+if(strlen($structure_id) > 0)
 {
-	$content->append('meta_tags',
-		'<link rel="canonical" href="' . $permalink->url . '" />');
+	$permalink_obj = new Permalink(array('db' => $db));
+	$permalink = $permalink_obj->get_permalink($struct->structure_id, 'structure', $struct->edition_id);
+	if($args['url'] !== $permalink->url)
+	{
+		$content->append('meta_tags',
+			'<link rel="canonical" href="' . $permalink->url . '" />');
+	}
 }
 
 /*

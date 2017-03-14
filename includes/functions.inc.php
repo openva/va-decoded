@@ -18,11 +18,22 @@ function __autoload_libraries($class_name)
 {
 
 	$filename = 'class.' . $class_name . '.inc.php';
-	if (file_exists(INCLUDE_PATH . $filename) == TRUE)
+
+	$paths = explode(PATH_SEPARATOR, get_include_path());
+
+	foreach($paths as $path)
 	{
-		$result = include_once $filename;
+		if(substr($path, -1, 1) !== DIRECTORY_SEPARATOR)
+		{
+			$path .= DIRECTORY_SEPARATOR;
+		}
+
+		if (file_exists($path . $filename) === TRUE)
+		{
+			$result = include_once $path . $filename;
+			return;
+		}
 	}
-	return;
 
 }
 
@@ -463,6 +474,68 @@ function object_to_xml( $array, $xml )
 }
 
 /**
+ * Translation of object_to_xml for PHP's DOMDocument class.
+ */
+function object_to_dom( $array, $doc, $node )
+{
+
+	/*
+	 * Array of keys that will be treated as attributes, not children.
+	 */
+	$attributes = array( 'id', 'number', 'label', 'prefix' );
+
+	/*
+	 * Recursively loop through each item.
+	 */
+	foreach ( $array as $key => $value )
+	{
+
+		/*
+		 * If this is a numbered array, grab the parent node to determine the node name.
+		 */
+		if ( is_numeric( $key ) )
+		{
+			$key = 'unit';
+		}
+
+		/*
+		 * If this is an attribute, treat as an attribute.
+		 */
+		if ( in_array( $key, $attributes ) )
+		{
+			$attr = $doc->createAttribute($key);
+			$attr->value = $value;
+
+			$node->appendChild($attr);
+		}
+
+		/*
+		 * If this value is an object or array, add a child node and treat recursively.
+		 */
+		else
+		{
+
+			if ( is_object( $value ) || is_array( $value ) )
+			{
+				$child = $doc->createElement($key);
+				$child = object_to_dom( $value, $doc, $child );
+			}
+			else
+			{
+				$child = $doc->createElement($key, $value);
+				$node->appendChild($child);
+			}
+
+		}
+
+	}
+
+	return $xml;
+
+}
+
+
+/**
  * Change the name of DOMXPath element $element to $newName
  * By Felix E. Klee <felix.klee at inka.de>
  * http://www.php.net/manual/en/class.domelement.php#111494
@@ -498,6 +571,35 @@ function renameElement($element, $newName)
 }
 
 /*
+ * Handle paths, trims extra trailing slashes.
+ * By default, adds a trailing slash.
+ */
+
+function join_paths()
+{
+	$args = func_get_args();
+	$paths = array();
+
+	foreach($args as $arg) {
+		if(is_array($arg)) {
+			$paths = array_merge($paths, $arg);
+		}
+		else {
+			$paths[] = $arg;
+		}
+	}
+
+	foreach($paths as $key => $value)
+	{
+		$paths[$key] = rtrim($value, DIRECTORY_SEPARATOR);
+	}
+
+	$return_path = join(DIRECTORY_SEPARATOR, array_filter($paths));
+
+	return $return_path;
+}
+
+/*
  * Recursively get all files
  */
 function get_files($path, $files = array())
@@ -530,6 +632,32 @@ function get_files($path, $files = array())
 }
 
 /*
+ * Recursively remove directories. Checks for Windows or not-Windows.
+ */
+function remove_dir($dir)
+{
+	if(defined('PHP_WINDOWS_VERSION_MAJOR'))
+	{
+		return system('rd /Q /S "' . $dir . '"');
+	}
+	else
+	{
+		return system('/bin/rm -rf ' . escapeshellarg($dir));
+	}
+}
+
+/*
+ * Recursively create directories
+ */
+function mkdir_safe($dir)
+{
+	if(!is_dir($dir))
+	{
+		return mkdir($dir, 0755, true);
+	}
+}
+
+/*
  * Recursively strip html entities from an entire object
  */
 function html_entity_decode_object($obj)
@@ -557,10 +685,10 @@ function html_entity_decode_object($obj)
  * From php.net: http://us2.php.net/manual/en/function.html-entity-decode.php#47371
  */
 function decode_entities($text) {
-    $text = html_entity_decode($text,ENT_QUOTES,"ISO-8859-1"); #NOTE: UTF-8 does not work!
-    $text = preg_replace('/&#(\d+);/me',"chr(\\1)",$text); #decimal notation
-    $text = preg_replace('/&#x([a-f0-9]+);/mei',"chr(0x\\1)",$text);  #hex notation
-    $text = preg_replace('/&(?!#)/', '&amp;', $text);
+    $text = html_entity_decode($text, ENT_QUOTES | ENT_XML1, "ISO-8859-1"); #NOTE: UTF-8 does not work!
+    // $text = preg_replace('/&#(\d+);/me',"chr(\\1)",$text); #decimal notation
+    // $text = preg_replace('/&#x([a-f0-9]+);/mei',"chr(0x\\1)",$text);  #hex notation
+    // $text = preg_replace('/&(?!#)/', '&amp;', $text);
     return $text;
 }
 

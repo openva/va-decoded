@@ -29,10 +29,21 @@
 			</structure>
 			
 			<!--Strip out the leading "_ " and replace any others with a colon.-->
-			<xsl:variable name="section-number" select="translate(legislativeDocBody/statute/level/anchor/@id, '_', ':')" />
-			<section_number>
-				<xsl:value-of select="substring($section-number, 2)"/>
-			</section_number>
+			<xsl:choose>
+				<!--If it's included in the anchor.-->
+				<xsl:when test="legislativeDocBody/statute/level/anchor">
+					<xsl:variable name="section-number" select="translate(legislativeDocBody/statute/level/anchor/@id, '_', ':')" />
+					<section_number><xsl:value-of select="substring($section-number, 2)"/></section_number>
+				</xsl:when>
+				<!--Otherwise we must parse it out of the citation info.-->
+				<xsl:otherwise>
+					<xsl:analyze-string select="legislativeDocHead/citations/citeForThisResource" regex="§ ?(.*)$">
+						 <xsl:matching-substring>
+							<section_number><xsl:value-of select="regex-group(1)"/></section_number>
+						</xsl:matching-substring>
+					</xsl:analyze-string>
+				</xsl:otherwise>
+			</xsl:choose>
 
 			<!--Include the catch line.-->
 			<catch_line><xsl:value-of select="legislativeDocBody/statute/level/heading/title" /></catch_line>

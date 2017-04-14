@@ -146,6 +146,9 @@
 	<!--Delete locator and heading-->
 	<xsl:template match="locator|heading" />
 
+	<!--We already have the history-->
+	<xsl:template match="history" />
+
 	<!--Get the content of citation.-->
 	<xsl:template match="citation">
 		<xsl:value-of select="content/span" />

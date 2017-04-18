@@ -42,7 +42,7 @@ else
 /*
  * Create a new instance of the class that handles information about individual laws.
  */
-$struct = new Structure();
+$struct = new Structure(array('db' => $db));
 
 if ( isset($args['edition_id']) )
 {
@@ -105,7 +105,7 @@ if (strlen($structure_id) > 0)
 else
 {
 	$content->set('browser_title', SITE_TITLE . ': The ' . LAWS_NAME . ', for Humans.');
-	$content->set('page_title', '<h2>'.ucwords($children->{0}->label) . 's of the ' . LAWS_NAME.'</h2>');
+	$content->set('page_title', '<h2>'.ucwords($children[0]->label) . 's of the ' . LAWS_NAME.'</h2>');
 }
 
 /*
@@ -129,8 +129,17 @@ if (count((array) $structure) > 1)
 			$active = 'active';
 		}
 
+		if(isset($level->metadata->admin_division) && $level->metadata->admin_division === TRUE)
+		{
+			$identifier = '';
+		}
+		else
+		{
+			$identifier = $level->identifier . ': ';
+		}
+
 		$content->append('breadcrumbs', '<li class="' . $active . '">
-				<a href="' . $level->url->url . '">' . $level->identifier . ': ' . $level->name . '</a>
+				<a href="' . $level->permalink->url . '">' . $identifier . $level->name . '</a>
 			</li>');
 
 		/*
@@ -223,16 +232,37 @@ if(strlen($structure_id) > 0)
 	$body .= '<p>This is '.ucwords($struct->label).' '.$struct->identifier.' of the ' . LAWS_NAME
 		. ', titled “'.$struct->name.'.”';
 
-	if (count((array) $structure) > 1)
+	if (count($structure) > 1)
 	{
+		// The end of the list is count($structure) -1,
+		// And the last item is already $struct above.
+		$start = count($structure) -2;
 
-		foreach ($structure as $level)
+		for ($i = $start; $i >= 0; --$i)
 		{
+			$level = $structure[$i];
 
-			if ($level->label !== $struct->label && !empty($level->label))
+			if (!empty($level->label))
 			{
-				$body .= ' It is part of ' . ucwords($level->label) . ' ' . $level->identifier . ', '
-				.'titled “' . $level->name . '.”';
+
+				// If this is the first entry.
+				if ($i === $start)
+				{
+					$body .= ' It is part of ' . ucwords($level->label) . ' ' . $level->identifier . ' '
+						. '“' . $level->name . '”';
+				}
+				// If it's not the last.
+				else
+				{
+					$body .= ', which  is part of ' . ucwords($level->label) . ' ' . $level->identifier . ' '
+						. '“' . $level->name . '”';
+				}
+			}
+
+			// If it's the last, add a period.
+			if ($i === 0)
+			{
+				$body .= '.';
 			}
 
 		}
@@ -260,27 +290,18 @@ if (isset($struct->metadata))
 		if (isset($struct->metadata->child_structures) && ($struct->metadata->child_structures > 0) )
 		{
 			$body .= ' divided across ' . number_format($struct->metadata->child_structures)
-				. ' structures.';
+				. ' structures';
 		}
-		else
-		{
-			$body .= '.';
-		}
+		$body .= '.</p>';
 
 	}
 	elseif (isset($struct->metadata->child_structures) && ($struct->metadata->child_structures > 0) )
 	{
 		$body .= ' It is divided into ' . number_format($struct->metadata->child_structures)
-			. ' sub-structures.';
+			. ' sub-structures.</p>';
 	}
 
 }
-
-/*
- * Row classes and row counter.
- */
-$row_classes = array('odd', 'even');
-$counter = 0;
 
 /*
  * If we have successfully gotten a list of child structural units, display them.
@@ -291,41 +312,33 @@ if ($children !== FALSE)
 	/*
 	 * The level of this child structural unit is that of the current unit, plus one.
 	 */
-	$body .= '<dl class="title-list sections level-' . ((isset($structure->{count($structure)-1}->level) ? $structure->{count($structure)-1}->level : 0) + 1) . '">';
+	$body .= '<table class="title-list sections table-striped level-' . ((isset($structure[count($structure)-1]->depth) ? $structure[count($structure)-1]->depth : 0) + 1) . '"><tbody>';
 	foreach ($children as $child)
 	{
 
-		/*
-		 * The remainder of the count divided by the number of classes
-		 * yields the proper index for the row class.
-		 */
-		$class_index = $counter % count($row_classes);
-		$row_class = $row_classes[$class_index];
-		$api_url = '/api/1.0/structure/' . $child->token
+		$api_url = '/api/1.0/structure/' . $child->permalink->token
 			 . '/?key=' . API_KEY;
-
-		$body .= '	<dt class="' . $row_class . '"><a href="' . $child->url . '"
-				data-identifier="' . $child->token . '"
+		if(isset($child->metadata->admin_division) && $child->metadata->admin_division === TRUE)
+		{
+			$identifier = '';
+		}
+		else
+		{
+			$identifier = ucwords($child->label) . ' ' . $child->identifier;
+		}
+		$body .= '<tr><td><a href="' . $child->permalink->url . '"
+				data-identifier="' . $child->permalink->token . '"
 				data-api-url="' . $api_url . '"
-				>' . $child->identifier . '</a></dt>
-			<dd class="' . $row_class . '"><a href="' . $child->url . '"
-				data-identifier="' . $child->token . '"
+				>' . $identifier . '</a></td>
+			<td class="' . $row_class . '"><a href="' . $child->permalink->url . '"
+				data-identifier="' . $child->permalink->token . '"
 				data-api-url="' . $api_url . '"
-				>' . $child->name . '</a></dd>';
-
-		$counter++;
-
+				>' . $child->name . '</a></td></tr>';
 	}
 
-	$body .= '</dl>';
+	$body .= '</tbody></table>';
 
 }
-
-
-/*
- * Reset counter
- */
-$counter = 0;
 
 /*
  * Get a listing of all laws that are children of this portion of the structure.
@@ -338,29 +351,23 @@ $laws = $struct->list_laws();
 if ($laws !== FALSE)
 {
 
-	$body .= ' It’s comprised of the following ' . count((array) $laws) . ' sections.</p>';
-	$body .= '<dl class="title-list laws">';
+	$body .= '<p>It’s comprised of the following ' . count($laws) . ' sections.</p>';
+	$body .= '<table class="title-list table-striped laws"><tbody>';
 
 	foreach ($laws as $law)
 	{
+		$url = $law->url;
+		if($law->metadata && isset($law->metadata->dupe_number)) {
+			$url .= '#law-' . $law->id;
+		}
 
-		/*
-		 * The remainder of the count divided by the number of classes
-		 * yields the proper index for the row class.
-		 */
-		$class_index = $counter % count($row_classes);
-		$row_class = $row_classes[$class_index];
-
-		$body .= '
-				<dt class="' . $row_class.'"><a href="' . $law->url . '">'
-					. SECTION_SYMBOL . '&nbsp;' . $law->section_number . '</a></dt>
-				<dd class="' . $row_class.'"><a href="' . $law->url . '">'
-					. $law->catch_line . '</a></dd>';
-
-		$counter++;
-
+		$body .= '<tr>
+				<td><a href="' . $url . '">'
+					. SECTION_SYMBOL . '&nbsp;' . $law->section_number . '</a></td>
+				<td><a href="' . $law->url . '">'
+					. $law->catch_line . '</a></td></tr>';
 	}
-	$body .= '</dl>';
+	$body .= '</tbody></table>';
 }
 
 /*

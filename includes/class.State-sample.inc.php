@@ -1102,7 +1102,7 @@ class Parser
 			{
 				$subsection_text = trim((string) $subsection);
 			}
-var_dump('subsection text', $subsection_text);
+
 			/*
 			 * Store this subsection's data in our code object.
 			 */

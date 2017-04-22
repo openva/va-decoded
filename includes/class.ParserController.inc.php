@@ -829,10 +829,21 @@ class ParserController
 		$result = $statement->execute();
 
 		/*
-		 * The depth of the structure is the number of entries in the structure labels,
-		 * minus one for 'section'.
+		 * Get the depth of our structures.
 		 */
-		$structure_depth = count($parser->get_structure_labels($this->edition_id))-1;
+		$sql = 'SELECT MAX(depth) AS depth FROM structure';
+		$statement = $this->db->prepare($sql);
+		$result = $statement->execute();
+
+		if($result)
+		{
+			$structure_depth = $statement->fetchColumn();
+		}
+		else
+		{
+			throw new Exception('Cannot get depth of structures.');
+		}
+
 
 		$select = array();
 		$from = array();
@@ -922,10 +933,31 @@ class ParserController
 	 */
 	public function finish_import()
 	{
+		/*
+		 * Update the last-imported date.
+		 */
+		$this->logger->message('Updating the import date', 5);
 		$edition_obj = new Edition(array('db' => $this->db));
 		$edition_obj->update_last_import($this->edition_id);
 
+		/*
+		 * If this edition is current, clear out the court decisions.
+		 */
+		if($this->edition->current) {
+			$this->clear_court_decisions();
+		}
+
 		return TRUE;
+	}
+
+	public function clear_court_decisions() {
+		$this->logger->message('Clearing out all court decisions.', 10);
+
+		$sql = 'DELETE FROM laws_meta WHERE meta_key = :court_decisions';
+		$sql_args = array(':court_decisions' => 'court_decisions');
+
+		$statement = $this->db->prepare($sql);
+		$result = $statement->execute($sql_args);
 	}
 
 	/**
@@ -1242,17 +1274,15 @@ class ParserController
 
 			if ($laws_result !== FALSE && $laws_statement->rowCount() > 0)
 			{
-
-				/*
-				 * Create a new instance of the class that handles information about individual laws.
-				 */
-				$law_object = new Law();
-
 				/*
 				 * Iterate through every section number, to pass to the Laws class.
 				 */
 				while ($section = $laws_statement->fetch(PDO::FETCH_OBJ))
 				{
+					/*
+					 * Create a new instance of the class that handles information about individual laws.
+					 */
+					$law_object = new Law();
 
 					/*
 					 * Instruct the Law class on what, specifically, it should retrieve.
@@ -1512,9 +1542,9 @@ class ParserController
 		$structures = $struct->list_children();
 
 		/*
-		 * Create an object to store structural statistics.
+		 * Create an array to store structural statistics.
 		 */
-		$this->stats = new stdClass();
+		$this->stats = array();
 
 		/*
 		 * Iterate through each of those units.
@@ -1544,24 +1574,24 @@ class ParserController
 				{
 					$ancestor_id = $structure->ancestry[$i];
 
-					if (!isset($this->stats->{$ancestor_id}->child_laws))
+					if (!isset($this->stats[$ancestor_id]->child_laws))
 					{
-						$this->stats->{$ancestor_id}->child_laws = 0;
+						$this->stats[$ancestor_id]->child_laws = 0;
 					}
 
-					if (!isset($this->stats->{$ancestor_id}->child_structures))
+					if (!isset($this->stats[$ancestor_id]->child_structures))
 					{
-						$this->stats->{$ancestor_id}->child_structures = 0;
+						$this->stats[$ancestor_id]->child_structures = 0;
 					}
 
 					if (isset($structure->child_laws))
 					{
-						$this->stats->{$ancestor_id}->child_laws = $this->stats->{$ancestor_id}->child_laws + $structure->child_laws;
+						$this->stats[$ancestor_id]->child_laws = $this->stats[$ancestor_id]->child_laws + $structure->child_laws;
 					}
 
 					if (isset($structure->child_structures))
 					{
-						$this->stats->{$ancestor_id}->child_structures = $this->stats->{$ancestor_id}->child_structures + $structure->child_structures;
+						$this->stats[$ancestor_id]->child_structures = $this->stats[$ancestor_id]->child_structures + $structure->child_structures;
 					}
 				}
 			}
@@ -1634,23 +1664,23 @@ class ParserController
 		/*
 		 * Store the tallies.
 		 */
-		$this->stats->{$this->structure_id} = new stdClass();
+		$this->stats[$this->structure_id] = new stdClass();
 		if ($child_structures !== FALSE)
 		{
-			$this->stats->{$this->structure_id}->child_structures = count((array) $child_structures);
+			$this->stats[$this->structure_id]->child_structures = count((array) $child_structures);
 		}
 		if ($child_laws !== FALSE)
 		{
-			$this->stats->{$this->structure_id}->child_laws = count((array) $child_laws);
+			$this->stats[$this->structure_id]->child_laws = count((array) $child_laws);
 		}
-		$this->stats->{$this->structure_id}->depth = $this->depth;
-		$this->stats->{$this->structure_id}->ancestry = $this->ancestry;
+		$this->stats[$this->structure_id]->depth = $this->depth;
+		$this->stats[$this->structure_id]->ancestry = $this->ancestry;
 
 		/*
 		 * If this structural unit has child structural units of its own, recurse into those.
 		 */
-		if (isset($this->stats->{$this->structure_id}->child_structures)
-			&& ($this->stats->{$this->structure_id}->child_structures > 0))
+		if (isset($this->stats[$this->structure_id]->child_structures)
+			&& ($this->stats[$this->structure_id]->child_structures > 0))
 		{
 			foreach ($child_structures as $child_structure)
 			{
@@ -2058,7 +2088,8 @@ class ParserController
 		 * Let's build a few queries we'll be using later. Do this outside the
 		 * loop for better memory handling.
 		 */
-		$law_sql = 'SELECT laws.id FROM laws WHERE section = :section_number';
+		$law_sql = 'SELECT laws.id FROM laws WHERE section = :section_number
+			AND edition_id = :edition_id';
 		$laws_statement = $this->db->prepare($law_sql);
 
 		$update_sql = 'UPDATE laws_references SET target_law_id = :target_law_id
@@ -2086,8 +2117,10 @@ class ParserController
 			/*
 			 * We may have many-to-one, so handle that.
 			 */
-			$laws_args = array(':section_number' =>
-				$laws_reference['target_section_number']);
+			$laws_args = array(
+				':section_number' => $laws_reference['target_section_number'],
+				':edition_id' => $this->edition_id
+			);
 			$laws_result = $laws_statement->execute($laws_args);
 
 			/*

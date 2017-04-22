@@ -280,7 +280,6 @@ class Parser
 
 	public $edition_id;
 	public $previous_edition_id;
-	public $structure_labels;
 
 	/**
 	 * Indicators of dictionary terms.
@@ -314,6 +313,8 @@ class Parser
 		' has the same meaning as ',
 		' shall be construed ',
 		' shall also be construed to mean ',
+		' shall mean and include ',
+		' shall mean '
 	);
 
 	public function __construct($options)
@@ -374,11 +375,6 @@ class Parser
 					$this->directory . '"');
 			}
 
-		}
-
-		if (!$this->structure_labels)
-		{
-			$this->structure_labels = $this->get_structure_labels();
 		}
 
 		if(!isset($this->permalink_obj))
@@ -455,9 +451,15 @@ class Parser
 	{
 		$xml = file_get_contents($filename);
 
+		/*
+		 * Lexis-Nexis messes up pre tags, so we strip them by default.
+		 */
+		$xml = str_replace('<pre/>', '', $xml);
+
 		try
 		{
-			$this->section = new SimpleXMLElement($xml);
+			$this->doc = new DOMWrapper($xml, TRUE);
+			$this->section = $this->doc->law;
 		}
 		catch(Exception $e)
 		{
@@ -479,7 +481,9 @@ class Parser
 				exec('tidy -xml '.$filename, $output);
 				$xml = join('', $output);
 			}
-			$this->section = new SimpleXMLElement($xml);
+
+			$this->doc = new DOMWrapper($xml, TRUE);
+			$this->section = $this->doc->law;
 		}
 
 		/*
@@ -524,10 +528,17 @@ class Parser
 		/*
 		 * Transfer some data to our object.
 		 */
-		$this->code->catch_line = (string) $this->section->catch_line[0];
+		$this->code->catch_line = '';
+
+		if($this->section->catch_line->value()) {
+			$this->code->catch_line = (string) $this->section->catch_line;
+		}
 		$this->code->section_number = (string) $this->section->section_number;
 		$this->code->order_by = (string) $this->section->order_by;
-		$this->code->history = (string)  $this->section->history;
+
+		if($this->section->history->value()) {
+			$this->code->history = (string) $this->section->history;
+		}
 
 		/*
 		 * If additional metadata is present in a "metadata" container, copy it over to our code
@@ -562,118 +573,48 @@ class Parser
 		/*
 		 * Iterate through the structural headers.
 		 */
-		foreach ($this->section->structure->unit as $unit)
+		foreach ($this->section->structure->children() as $unit)
 		{
-			$level = (string) $unit['level'];
+
+			$level = $unit->attribute('level');
+
 			if(!isset($this->code->structure))
 			{
-				$this->code->structure = new stdClass();
+				$this->code->structure = array();
 			}
-			if(!isset($this->code->structure->{$level}))
+			if(!isset($this->code->structure[$level]))
 			{
-				$this->code->structure->{$level} = new stdClass();
+				$this->code->structure[$level] = new stdClass();
 			}
 
-			$this->code->structure->{$level}->name = (string) $unit;
-			$this->code->structure->{$level}->label = (string) $unit['label'];
-			$this->code->structure->{$level}->level = (string) $unit['level'];
-			$this->code->structure->{$level}->identifier = (string) $unit['identifier'];
-			if ( !empty($unit['order_by']) )
+			$this->code->structure[$level]->name = (string) $unit;
+			$this->code->structure[$level]->label = $unit->attribute('label');
+			$this->code->structure[$level]->level = $unit->attribute('level');
+			$this->code->structure[$level]->identifier = $unit->attribute('identifier');
+			if ( $unit->attribute('order_by') === null )
 			{
-				$this->code->structure->{$level}->order_by = (string) $unit['order_by'];
+				$this->code->structure[$level]->order_by = $unit->attribute('order_by');
 			}
 		}
 
 		/*
 		 * Iterate through the text.
 		 */
-		$this->i=0;
-		foreach ($this->section->text as $section)
+
+		if(!isset($this->code->section))
 		{
-			/*
-			 * If there are no subsections, but just a single block of text, then simply save that.
-			 */
-			if (count($section) === 0)
-			{
-				if(!isset($this->code->section))
-				{
-					$this->code->section = new stdClass();
-				}
-				if(!isset($this->code->section->{$this->i}))
-				{
-					$this->code->section->{$this->i} = new stdClass();
-				}
-				$this->code->section->{$this->i}->text = trim((string) $section);
-				$this->code->text = trim((string) $section);
-				break;
-			}
-
-			/*
-			 * If this law is broken down into subsections, iterate through those.
-			 */
-			foreach ($section as $subsection)
-			{
-
-				if(!isset($this->code->section))
-				{
-					$this->code->section = new stdClass();
-				}
-				if(!isset($this->code->section->{$this->i}))
-				{
-					$this->code->section->{$this->i} = new stdClass();
-				}
-
-				$this->code->section->{$this->i}->text = trim((string) $subsection);
-
-				/*
-				 * If this subsection has text, save it. Some subsections will not have text, such
-				 * as those that are purely structural, existing to hold sub-subsections, but
-				 * containing no text themselves.
-				 */
-				if ( !empty( $this->code->section->{$this->i}->text ) )
-				{
-					if(!isset($this->code->text))
-					{
-						$this->code->text = '';
-					}
-					$this->code->text .= (string) $subsection['prefix'] . ' '
-						. trim((string) $subsection) . "\r\r";
-				}
-
-				$this->code->section->{$this->i}->prefix = (string) $subsection['prefix'];
-				$this->prefix_hierarchy[] = (string) $subsection['prefix'];
-
-				if(!isset($this->code->section->{$this->i}->prefix_hierarchy))
-				{
-					$this->code->section->{$this->i}->prefix_hierarchy = new stdClass();
-				}
-				$this->code->section->{$this->i}->prefix_hierarchy->{0} = (string) $subsection['prefix'];
-
-				/*
-				 * If this subsection has a specified type (e.g., "table"), save that.
-				 */
-				if (!empty($subsection['type']))
-				{
-					$this->code->section->{$this->i}->type = (string) $subsection['type'];
-				}
-				$this->code->section->{$this->i}->prefix = (string) $subsection['prefix'];
-
-				$this->i++;
-
-				/*
-				 * Recurse through any subsections.
-				 */
-				if (count($subsection) > 0)
-				{
-					$this->recurse($subsection);
-				}
-
-				/*
-				 * Having come to the end of the loop, reset the prefix hierarchy.
-				 */
-				$this->prefix_hierarchy = array();
-			}
+			$this->code->section = array();
 		}
+
+		if(!isset($this->code->text))
+		{
+			$this->code->text = '';
+		}
+		$this->prefix_hierarchy = array();
+
+		$this->i=0;
+
+		$this->recurse($this->section->text->children());
 
 		/*
 		 * If there any tags, store those, too.
@@ -691,7 +632,7 @@ class Parser
 			 */
 			foreach ($this->section->tags->tag as $tag)
 			{
-				$this->code->tags->tag = trim($tag);
+				$this->code->tags->tag = trim((string) $tag);
 			}
 
 		}
@@ -793,7 +734,7 @@ class Parser
 			{
 				$insert_data = array(
 					':object_type' => 'structure',
-					':relational_id' => null,
+					// ':relational_id' => null,
 					':identifier' => null,
 					':token' => '/browse/',
 					':url' => '/browse/',
@@ -808,7 +749,7 @@ class Parser
 
 			$insert_data = array(
 				':object_type' => 'structure',
-				':relational_id' => null,
+				// ':relational_id' => null,
 				':identifier' => null,
 				':token' => '/browse/',
 				':url' => '/' . $edition->slug . '/',
@@ -966,6 +907,12 @@ class Parser
 
 				if(!defined('LAW_LONG_URLS') || LAW_LONG_URLS === FALSE)
 				{
+					$token = str_replace(
+						array(':', '/', '\\'),
+						array('_', '_', '_'),
+						$law['section_number']
+					);
+
 					/*
 					 * Current-and-short is the most-preferred (shortest) url.
 					 */
@@ -976,8 +923,8 @@ class Parser
 							':object_type' => 'law',
 							':relational_id' => $law['id'],
 							':identifier' => $law['section_number'],
-							':token' => $structure_token . '/' . $law['section_number'],
-							':url' => '/' . $law['section_number'] . '/',
+							':token' => $structure_token . '/' . $token,
+							':url' => '/' . $token . '/',
 							':edition_id' => $edition_id,
 							':permalink' => 0,
 							':preferred' => 1
@@ -994,8 +941,8 @@ class Parser
 						':object_type' => 'law',
 						':relational_id' => $law['id'],
 						':identifier' => $law['section_number'],
-						':token' => $structure_token . '/' . $law['section_number'],
-						':url' => '/' . $edition->slug . '/' . $law['section_number'] . '/',
+						':token' => $structure_token . '/' . $token,
+						':url' => '/' . $edition->slug . '/' . $token . '/',
 						':edition_id' => $edition_id,
 						':permalink' => 0,
 						':preferred' => $preferred
@@ -1014,8 +961,8 @@ class Parser
 						':object_type' => 'law',
 						':relational_id' => $law['id'],
 						':identifier' => $law['section_number'],
-						':token' => $structure_token . '/' . $law['section_number'],
-						':url' => '/' . $structure_token . '/' . $law['section_number'] . '/',
+						':token' => $structure_token . '/' . $token,
+						':url' => '/' . $structure_token . '/' . $token . '/',
 						':edition_id' => $edition_id,
 						':permalink' => 0,
 						':preferred' => $preferred
@@ -1032,15 +979,14 @@ class Parser
 					':object_type' => 'law',
 					':relational_id' => $law['id'],
 					':identifier' => $law['section_number'],
-					':token' => $structure_token . '/' . $law['section_number'],
-					':url' => '/' . $edition->slug . '/' . $structure_token . '/' . $law['section_number'] . '/',
+					':token' => $structure_token . '/' . $token,
+					':url' => '/' . $edition->slug . '/' . $structure_token . '/' . $token . '/',
 					':edition_id' => $edition_id,
 					':permalink' => 1,
 					':preferred' => $preferred
 				);
 				$this->permalink_obj->create($insert_data);
 			}
-
 			$this->build_permalink_subsections($edition_id, $item['s1_id']);
 
 		}
@@ -1063,89 +1009,129 @@ class Parser
 	 * Recurse through subsections of arbitrary depth. Subsections can be nested quite deeply, so
 	 * we call this method recursively to gather their content.
 	 */
-	public function recurse($section)
+	public function recurse($sections)
 	{
-
-		if ( !isset($section) || !isset($this->code) )
+		if ( !isset($sections) || !isset($this->code) )
 		{
 			return FALSE;
 		}
 
-		/* Track how deep we've recursed, in order to create the prefix hierarchy. */
-		if (!isset($this->depth))
-		{
-			$this->depth = 1;
-		}
-		else
-		{
-			$this->depth++;
-		}
+		foreach($sections as $key=>$section) {
 
-		/*
-		 * Iterate through each subsection.
-		 */
-		foreach ($section as $subsection)
-		{
 			/*
-			 * Preserve tags inside of the XML.
+			 * If this is just a single block of text, then simply save that.
 			 */
-
-			$subsection_text = '';
-			if($subsection->children())
+			if ($section->_type == 'text')
 			{
-				foreach($subsection->children() as $child)
+				if(!isset($this->code->section[$this->i]))
 				{
-					$subsection_text .= trim($child->asXML());
+					$this->code->section[$this->i] = new stdClass();
+				}
+
+				$this->code->section[$this->i]->text = trim((string) $section);
+				$this->code->text .= strip_tags(trim((string) $section)) . "\n\n";
+
+				$this->i++;
+			}
+
+			/*
+			 * If this is an element, handle it.
+			 */
+			elseif($section->_type == 'element')
+			{
+				if(!isset($this->code->section[$this->i]))
+				{
+					$this->code->section[$this->i] = new stdClass();
+				}
+				/*
+				 * If this isn't a section – a P tag or otherwise – just save it.
+				 */
+				if($section->_tag !== 'section')
+				{
+					$content = trim($section->rawValue());
+
+					/*
+					 * We might have some xml fragments, so strip those.
+					 */
+					$content = strip_tags($content, '<?xml>');
+
+					$this->code->section[$this->i]->text = $content;
+					$this->code->text .= strip_tags($content);
+
+					$this->i++;
+				}
+				/*
+				 * If this is a section, store our metadata about it, then recurse.
+				 */
+				else
+				{
+					/*
+					 * Default to blank text.
+					 */
+					$this->code->section[$this->i]->text = '';
+					/*
+					 * If this is a section, we store the metadata that came with it, then
+					 * Recurse through whatever is inside of it.
+					 */
+					if(!isset($this->code->section[$this->i]->prefix_hierarchy))
+					{
+						$this->code->section[$this->i]->prefix_hierarchy = array();
+					}
+
+					if($section->attribute('prefix'))
+					{
+						$prefix = $section->attribute('prefix');
+
+						$this->code->section[$this->i]->prefix = $prefix;
+						$this->prefix_hierarchy[] = $prefix;
+						$this->code->text .= $prefix ."\n\n";
+						$this->code->section[$this->i]->prefix_hierarchy = $this->prefix_hierarchy;
+					}
+
+					/*
+					 * If this subsection has a specified type (e.g., "table"), save that.
+					 */
+					if ($section->attribute('type'))
+					{
+						$this->code->section[$this->i]->type = $section->attribute('type');
+					}
+
+					$children = $section->children();
+
+					/*
+					 * If we don't have a section below this, just get the content.
+					 */
+					if($children && !$section->section)
+					{
+						$content = '';
+
+						foreach($children as $child) {
+							$content .= trim($child->rawValue(TRUE));
+						}
+
+						$this->code->text .= $content;
+						$this->code->section[$this->i]->text = $content;
+
+						/*
+						 * Unset the children.
+						 */
+						$children = null;
+					}
+
+					$this->i++;
+
+					/*
+					 * If we haven't yet handled them, recurse through any subsections.
+					 */
+					if($children)
+					{
+						$this->recurse($section->children());
+					}
+
+					array_pop($this->prefix_hierarchy);
 				}
 			}
-			else
-			{
-				$subsection_text = trim((string) $subsection);
-			}
-
-			/*
-			 * Store this subsection's data in our code object.
-			 */
-			if(!isset($this->code->section->{$this->i}))
-			{
-				$this->code->section->{$this->i} = new stdClass();
-			}
-
-			$this->code->section->{$this->i}->text = $subsection_text;
-			if (!empty($subsection['type']))
-			{
-				$this->code->section->{$this->i}->type = $subsection['type'];
-			}
-			$this->code->section->{$this->i}->prefix = $subsection['prefix'];
-			$this->prefix_hierarchy[] = $subsection['prefix'];
-
-			$this->code->section->{$this->i}->prefix_hierarchy = (object) $this->prefix_hierarchy;
-
-			/*
-			 * We increment our counter at this point, rather than at the end of the loop, because
-			 * of the use of the recurse() method after it.
-			 */
-			$this->i++;
-
-			/*
-			 * If this recurses further, keep going.
-			 */
-			if (isset($subsection->section))
-			{
-				$this->recurse($subsection->section);
-			}
-
-			/*
-			 * Reduce the prefix hierarchy back to where it started, for our next loop through.
-			 */
-			$this->prefix_hierarchy = array_slice($this->prefix_hierarchy, 0, ($this->depth));
-
 		}
-
-		/*
-		 * Reset the prefix depth back to its default of 1.
-		 */
-		$this->depth--;
 
 		return TRUE;
 
@@ -1175,36 +1161,56 @@ class Parser
 			array(
 				'db' => $this->db,
 				'edition_id' => $this->edition_id,
-				'previous_edition_id' => $this->previous_edition_id,
-				'structure_labels' => $this->structure_labels
+				'previous_edition_id' => $this->previous_edition_id
 			)
 		);
+
+		$structure_labels = array();
 
 		if(isset($this->code->structure))
 		{
 
-			foreach ($this->code->structure as $struct)
+			foreach ($this->code->structure as $key => $struct)
 			{
-
-				$structure->identifier = $struct->identifier;
-				$structure->name = $struct->name;
-				$structure->label = $struct->label;
-				$structure->level = $struct->level;
 				if(isset($struct->metadata))
 				{
 					$structure->metadata = $struct->metadata;
 				}
 				else
 				{
-					$structure->metadata = '';
+					$structure->metadata = new stdClass();
 				}
+
+				if(!isset($struct->identifier) || $struct->identifier === '')
+				{
+					$structure->identifier = $struct->name;
+					$structure->metadata->admin_division = TRUE;
+					/* We almost always want administrative divisions before regular divisions.*/
+					$structure->order_by = 0;
+				}
+				else
+				{
+					$structure->identifier = $struct->identifier;
+					if(!isset($structure->order_by))
+					{
+						$structure->order_by = 1;
+					}
+				}
+
+				$structure->name = $struct->name;
+				$structure->label = $struct->label;
+				$structure->level = $struct->level;
+
+				$structure_labels[] = strtolower($struct->label);
+
 
 				/* If we've gone through this loop already, then we have a parent ID. */
 				if (isset($this->code->structure_id))
 				{
 					$structure->parent_id = $this->code->structure_id;
 				}
-				$this->code->structure_id = $structure->create_structure();
+
+				$struct->id = $this->code->structure_id = $structure->create_structure();
 
 			}
 
@@ -1234,6 +1240,30 @@ class Parser
 		{
 			$query['history'] = $this->code->history;
 		}
+		$query['edition_id'] = $this->edition_id;
+
+		/*
+		 * See if this is a duplicate law
+		 */
+
+		$dupe_query = 'SELECT COUNT(*) AS count FROM laws WHERE section = :section AND edition_id = :edition_id';
+		$dupe_args = array(':section' => $query['section'], ':edition_id' => $query['edition_id']);
+
+		$dupe_statement = $this->db->prepare($dupe_query);
+		$dupe_result = $dupe_statement->execute($dupe_args);
+
+		if($dupe_result)
+		{
+			$dupe = $dupe_statement->fetch();
+			if($dupe['count'] > 0) {
+				if(!isset($this->code->metadata))
+				{
+					$this->code->metadata = new stdClass();
+				}
+
+				$this->code->metadata->dupe_number = $dupe['count'];
+			}
+		}
 
 		/*
 		 * Create the beginning of the insertion statement.
@@ -1241,7 +1271,6 @@ class Parser
 		$sql = 'INSERT INTO laws
 				SET date_created=now()';
 		$sql_args = array();
-		$query['edition_id'] = $this->edition_id;
 
 		/*
 		 * Iterate through the array and turn it into SQL.
@@ -1278,8 +1307,7 @@ class Parser
 			array(
 				'db' => $this->db,
 				'edition_id' => $this->edition_id,
-				'previous_edition_id' => $this->previous_edition_id,
-				'structure_labels' => $this->structure_labels
+				'previous_edition_id' => $this->previous_edition_id
 			)
 		);
 		$references->text = $this->code->text;
@@ -1309,7 +1337,8 @@ class Parser
 					SET law_id = :law_id,
 					meta_key = :meta_key,
 					meta_value = :meta_value,
-					edition_id = :edition_id';
+					edition_id = :edition_id,
+					date_created = NOW()';
 			$statement = $this->db->prepare($sql);
 
 			foreach ($this->code->metadata as $key => $value)
@@ -1460,8 +1489,7 @@ class Parser
 			array(
 				'db' => $this->db,
 				'edition_id' => $this->edition_id,
-				'previous_edition_id' => $this->previous_edition_id,
-				'structure_labels' => $this->structure_labels
+				'previous_edition_id' => $this->previous_edition_id
 			)
 		);
 
@@ -1473,7 +1501,7 @@ class Parser
 		/*
 		 * Get a normalized listing of definitions.
 		 */
-		$definitions = $this->extract_definitions($this->code->text, $this->get_structure_labels());
+		$definitions = $this->extract_definitions($this->code);
 
 		/*
 		 * Check to see if this section or its containing structural unit were specified in the
@@ -1512,59 +1540,18 @@ class Parser
 			 */
 			$dictionary->terms = $definitions->terms;
 			$dictionary->law_id = $law_id;
-			$dictionary->scope = $definitions->scope;
-			$dictionary->structure_id = $this->code->structure_id;
 			$dictionary->edition_id = $this->edition_id;
+			$dictionary->scope = $definitions->scope;
+			$dictionary->scope_specificity = null;
 
 			/*
-			 * If the scope of this definition isn't section-specific, and isn't global, then
-			 * find the ID of the structural unit that is the limit of its scope.
+			 * If we have the full structure object in the scope, use it.
 			 */
-			if ( ($dictionary->scope != 'section') && ($dictionary->scope != 'global') )
-			{
-				$find_scope = new Parser(
-					array(
-						'db' => $this->db,
-						'edition_id' => $this->edition_id,
-						'previous_edition_id' => $this->previous_edition_id,
-						'structure_labels' => $this->structure_labels
-					)
-				);
-				$find_scope->label = $dictionary->scope;
-				$find_scope->structure_id = $dictionary->structure_id;
-
-				if($dictionary->structure_id)
-				{
-					$dictionary->structure_id = $find_scope->find_structure_parent();
-					if ($dictionary->structure_id == FALSE)
-					{
-						unset($dictionary->structure_id);
-					}
-				}
+			if(is_object($definitions->scope)) {
+				$dictionary->scope = strtolower($definitions->scope->label);
+				$dictionary->scope_specificity = $definitions->scope->level;
+				$dictionary->structure_id = $definitions->scope->id;
 			}
-
-			/*
-			 * If the scope isn't a structural unit, then delete it, so that we don't store it
-			 * and inadvertently limit the scope.
-			 */
-			else
-			{
-				unset($dictionary->structure_id);
-			}
-
-			/*
-			 * Determine the position of this structural unit.
-			 */
-			$structure = array_reverse($this->get_structure_labels($this->edition_id));
-			array_push($structure, 'global');
-
-			/*
-			 * Find and return the position of this structural unit in the hierarchical stack.
-			 */
-			$dictionary->scope_specificity = array_search(
-				strtolower($dictionary->scope),
-				array_map('strtolower', $structure)
-			);
 
 			/*
 			 * Store these definitions in the database.
@@ -1709,6 +1696,11 @@ class Parser
 			$sql .= ', metadata = :metadata';
 			$sql_args[':metadata'] = serialize($this->metadata);
 		}
+		if(isset($this->order_by))
+		{
+			$sql .= ', order_by = :order_by';
+			$sql_args[':order_by'] = $this->order_by;
+		}
 
 		$statement = $this->db->prepare($sql);
 		$result = $statement->execute($sql_args);
@@ -1724,97 +1716,33 @@ class Parser
 
 	}
 
-
-	/**
-	 * When provided with a structural unit ID and a label, this function will iteratively search
-	 * through that structural unit's ancestry until it finds a structural unit with that label.
-	 * This is meant for use while identifying definitions, within the store() method, specifically
-	 * to set the scope of applicability of a definition.
-	 */
-	function find_structure_parent()
-	{
-
-		/*
-		 * We require a beginning structure ID and the label of the structural unit that's sought.
-		 */
-		if ( !isset($this->structure_id) || !isset($this->label) )
-		{
-			return FALSE;
-		}
-
-		/*
-		 * Make the sought parent ID available as a local variable, which we'll repopulate with each
-		 * loop through the below while() structure.
-		 */
-		$parent_id = $this->structure_id;
-
-		/*
-		 * Establish a blank variable.
-		 */
-		$returned_id = '';
-
-		/*
-		 * Loop through a query for parent IDs until we find the one we're looking for.
-		 */
-		while ($returned_id == '')
-		{
-
-			$sql = 'SELECT id, parent_id, label
-					FROM structure
-					WHERE id = :id';
-			$sql_args = array(
-				':id' => $parent_id
-			);
-
-			$statement = $this->db->prepare($sql);
-			$result = $statement->execute($sql_args);
-
-			if ( ($result === FALSE) || ($statement->rowCount() == 0) )
-			{
-				echo '<p>Query failed: '.$sql.'</p>';
-				var_dump($sql_args);
-				return FALSE;
-			}
-
-			/*
-			 * Return the result as an object.
-			 */
-			$structure = $statement->fetch(PDO::FETCH_OBJ);
-
-			/*
-			 * If the label of this structural unit matches the label that we're looking for, return
-			 * its ID.
-			 */
-			if ($structure->label == $this->label)
-			{
-				return $structure->id;
-			}
-
-			/*
-			 * Else if this structural unit has no parent ID, then our effort has failed.
-			 */
-			elseif (empty($structure->parent_id))
-			{
-				return FALSE;
-			}
-
-			/*
-			 * If all else fails, then loop through again, searching one level farther up.
-			 */
-			else
-			{
-				$parent_id = $structure->parent_id;
-			}
-		}
-	}
-
-
 	/**
 	 * When fed a section of the code that contains definitions, extracts the definitions from that
 	 * section and returns them as an object. Requires only a block of text.
 	 */
-	function extract_definitions($text, $structure_labels)
+	function extract_definitions($code)
 	{
+		/*
+		 * Get the length of the longest label in our structure.
+		 */
+		$longest_label = array_reduce($code->structure, function($longest, $struct) {
+			if(strlen($struct->label) > $longest) {
+				$longest = strlen($struct->label);
+			}
+			return $longest;
+		}, 0);
+
+		/*
+		 * Sort our labels by length to text-match correctly, e.g. "subtitle"
+		 * before "title".
+		 */
+		$length_sorted_labels = $code->structure;
+		usort($length_sorted_labels, function($a, $b) {
+			return strlen($b->label) - strlen($a->label);
+		});
+
+		$text = $code->text;
+
 		$scope = 'section';
 
 		if (!isset($text))
@@ -1885,15 +1813,6 @@ class Parser
 			{
 
 				/*
-				 * Gather up a list of structural labels and determine the length of the longest
-				 * one, which we'll use to narrow the scope of our search for the use of structural
-				 * labels within the text.
-				 */
-
-				usort($structure_labels, 'sort_by_length');
-				$longest_label = strlen(current($structure_labels));
-
-				/*
 				 * Iterate through every scope indicator.
 				 */
 				foreach ($this->scope_indicators as $scope_indicator)
@@ -1921,40 +1840,27 @@ class Parser
 						 * Iterate through the structural labels and check each one to see if it's
 						 * present in the phrase that we're examining.
 						 */
-						foreach ($structure_labels as $structure_label)
+						foreach ($length_sorted_labels as $structure)
 						{
 
-							if (stripos($phrase, $structure_label) !== FALSE)
+							if (stripos($phrase, $structure->label) !== FALSE)
 							{
 
 								/*
 								 * We've made a match -- we've successfully identified the scope of
 								 * these definitions.
 								 */
-								$scope = $structure_label;
+								$scope = $structure;
 
 								/*
-								 * Now that we have a match, we can break out of both the containing
-								 * foreach() and its parent foreach().
+								 * Now that we have a match, we can break out of both the label
+								 * foreach() and the scope foreach().
 								 */
 								break(2);
 
 							}
 
-							/*
-							 * If we can't calculate scope, then let’s assume that it's specific to
-							 * the most basic structural unit -- the individual law -- for the sake
-							 * of caution. We pull that off of the end of the structure labels array
-							 */
-							$scope = end($structure_labels);
-
 						}
-
-						/*
-						 * Make sure the scope is lowercase.
-						 */
-						$scope = strtolower($scope);
-
 					}
 
 				}
@@ -2149,24 +2055,17 @@ class Parser
 		}
 
 		/*
-		 * Make sure the scope is lowercase, as sometimes it is not.
-		 */
-		$scope = strtolower($scope);
-
-		/*
 		 * Make the list of definitions a subset of a larger variable, so that we can store things
 		 * other than terms.
 		 */
-		$tmp = array();
-		$tmp['terms'] = $definitions;
-		$tmp['scope'] = $scope;
-		$definitions = $tmp;
-		unset($tmp);
+		$return = new stdClass();
+		$return->terms = $definitions;
+		$return->scope = $scope;
 
 		/*
 		 * Return our list of definitions, converted from an array to an object.
 		 */
-		return (object) $definitions;
+		return $return;
 
 	} // end extract_definitions()
 
@@ -2217,7 +2116,17 @@ class Parser
 				':structure_id' => $this->structure_id,
 				':edition_id' => $this->edition_id
 			);
-			$result = $statement->execute($sql_args);
+
+			foreach($sql_args as $key => $value)
+			{
+				$statement->bindValue($key, $value, PDO::PARAM_STR);
+			}
+			if(!$sql_args[':structure_id'] || $sql_args[':structure_id'] === 'NULL')
+			{
+				$statement->bindValue(':structure_id', null, PDO::PARAM_INT);
+			}
+
+			$result = $statement->execute();
 
 		}
 
@@ -2478,51 +2387,5 @@ class Parser
 		}
 
 	} // end extract_history()
-
-	public function get_structure_labels($edition_id = null)
-	{
-		$sql = 'SELECT DISTINCT label, depth FROM structure ';
-		if($edition_id) {
-			$sql .= 'WHERE edition_id = ' . $edition_id . ' ';
-		}
-		$sql .= 'ORDER BY depth ASC';
-		$statement = $this->db->prepare($sql);
-		$result = $statement->execute();
-
-
-		$structure_labels = array();
-
-		if ( ($result === FALSE) )
-		{
-			echo '<p>Query failed: '.$sql.'</p>';
-			var_dump($sql_args);
-			return FALSE;
-		}
-		else
-		{
-			if($statement->rowCount() == 0)
-			{
-				/*
-				 * We may not have a structure yet.  That's ok.
-				 */
-				return null;
-			}
-			else{
-				while($row = $statement->fetch(PDO::FETCH_ASSOC))
-				{
-					$structure_labels[$row['depth']] = $row['label'];
-				}
-			}
-		}
-
-		$structure_labels = array_values($structure_labels);
-
-		/*
-		 * Our lowest level, not represented in the structure table, is 'section'
-		 */
-		$structure_labels[] = 'Section';
-
-		return $structure_labels;
-	} // end get_structure_labels()
 
 } // end Parser class

@@ -61,14 +61,9 @@ $struct->structure_id = $structure_id;
 $struct->get_current();
 
 /*
- * If are at the top level, struct->structure is null.
- */
-$response = (isset($struct->structure) ? $struct->structure : '' );
-
-/*
  * If the URL doesn't represent a valid structural portion of the code, then bail.
  */
-if ( $response === FALSE)
+if ( !isset($args['id']) )
 {
 	send_404();
 }
@@ -131,15 +126,16 @@ if (count((array) $structure) > 1)
 
 		if(isset($level->metadata->admin_division) && $level->metadata->admin_division === TRUE)
 		{
-			$identifier = '';
+			$identifier = '<span>';
 		}
 		else
 		{
-			$identifier = $level->identifier . ': ';
+			$identifier = '<span class="breadcrumb-structure-label">' . ucwords($level->label) . '&nbsp;</span>' .
+				$level->identifier . '<span class="breadcrumb-id-title">: ';
 		}
 
 		$content->append('breadcrumbs', '<li class="' . $active . '">
-				<a href="' . $level->permalink->url . '">' . $identifier . $level->name . '</a>
+				<a href="' . $level->permalink->url . '">' . $identifier . $level->name . '</span></a>
 			</li>');
 
 		/*
@@ -148,7 +144,7 @@ if (count((array) $structure) > 1)
 		 */
 		if ($level->id == $struct->parent_id)
 		{
-			$content->set('link_rel', '<link rel="up" title="Up" href="' . $level->url->url . '" />');
+			$content->set('link_rel', '<link rel="up" title="Up" href="' . $level->permalink->url . '" />');
 		}
 
 	}
@@ -188,7 +184,11 @@ if (isset($struct->siblings))
 	/*
 	 * Locate the instant structural unit within the structure listing.
 	 */
-	$current_structure = end($structure);
+	if(is_array($structure))
+	{
+		$current_structure = end($structure);
+	}
+
 	$i=0;
 
 	/*
@@ -197,7 +197,7 @@ if (isset($struct->siblings))
 	foreach ($struct->siblings as $sibling)
 	{
 
-		if ($sibling->id === $current_structure->id)
+		if (isset($current_structure) && $sibling->id === $current_structure->id)
 		{
 
 			if ($i >= 1)
@@ -330,7 +330,7 @@ if ($children !== FALSE)
 				data-identifier="' . $child->permalink->token . '"
 				data-api-url="' . $api_url . '"
 				>' . $identifier . '</a></td>
-			<td class="' . $row_class . '"><a href="' . $child->permalink->url . '"
+			<td><a href="' . $child->permalink->url . '"
 				data-identifier="' . $child->permalink->token . '"
 				data-api-url="' . $api_url . '"
 				>' . $child->name . '</a></td></tr>';

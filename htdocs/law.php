@@ -51,7 +51,7 @@ if ( isset($args['relational_id']) )
 		$law_object = new Law();
 		$law_object->law_id = filter_var($args['relational_id'], FILTER_SANITIZE_STRING);
 		$laws[] = $law_object->get_law();
-		$titles[] = $law->catch_line;
+		$titles[] = $laws[0]->catch_line;
 	}
 }
 
@@ -64,14 +64,6 @@ if (count($laws) === 0)
 {
 	send_404();
 }
-
-/*
- * Get our permalink data
- */
-
-
-$permalink_obj = new Permalink(array('db' => $db));
-$law->permalink = $permalink_obj->get_permalink($law->law_id, 'law', $law->edition_id);
 
 /*
  * Store a record that this section was viewed.
@@ -148,15 +140,15 @@ foreach (array_reverse((array) $laws[0]->ancestry) as $ancestor)
 {
 	if(isset($ancestor->metadata->admin_division) && $ancestor->metadata->admin_division === TRUE)
 	{
-		$identifier = '';
+		$identifier = '<span>';
 	}
 	else
 	{
-		$identifier = $ancestor->identifier . ': ';
+		$identifier = '<span class="breadcrumb-structure-label">' . ucwords($ancestor->label) . '&nbsp;</span>' . $ancestor->identifier . '<span class="breadcrumb-id-title">: ';
 	}
 
 	$content->append('breadcrumbs', '<li><a href="' . $ancestor->permalink->url . '">' . $identifier
-		. ' ' . $ancestor->name . '</a></li>');
+		. ' ' . $ancestor->name . '</span></a></li>');
 }
 
 $title = '';
@@ -170,7 +162,7 @@ if(count($titles) === 1)
 }
 
 $content->append('breadcrumbs', '<li class="active"><a href="' . $laws[0]->permalink->url
-	. '">§&nbsp;' . $laws[0]->section_number . $title . '</a></li>');
+	. '">§&nbsp;' . $laws[0]->section_number . '<span class="breadcrumb-id-title">&nbsp;' . $title . '</span></a></li>');
 
 $content->prepend('breadcrumbs', '<nav class="breadcrumbs"><ul class="steps-nav">');
 $content->append('breadcrumbs', '</ul></nav>');
@@ -215,7 +207,7 @@ $content->set('heading', '<nav class="prevnext" role="navigation"><ul>' .
 /*
  * Store the URL for the containing structural unit.
  */
-$content->append('link_rel', '<link rel="up" title="Up" href="' . $laws[0]->ancestry[1]->url . '" />');
+$content->append('link_rel', '<link rel="up" title="Up" href="' . $laws[0]->ancestry[1]->permalink->url . '" />');
 
 $body = '';
 if(count($laws) > 1) {
@@ -272,7 +264,7 @@ foreach($laws as $i=>$law)
 	{
 
 		$body .= '<section id="history">
-					<h2>History</h2>
+					<h2>History <a class="help helpbutton" data-help="history"><span>help</span></a></h2>
 					<p>'.$law->history.'</p>
 				</section>';
 	}
@@ -282,17 +274,20 @@ foreach($laws as $i=>$law)
 	/*
 	 * Display links to representational variants of the text of this law.
 	 */
-	$body .= '<section id="rep_variant">
-				<h2>Download</h2>
-					<ul>';
-	foreach ($law->formats as $format)
+	if($law->formats && count($law->formats))
 	{
-		$body .= '<li class="file-download file-' . $format['format'] . '">
-			<a href="' . $format['url'] . '">' . $format['name'] . '</a></li>';
+		$body .= '<section id="rep_variant">
+					<h2>Download</h2>
+						<ul>';
+		foreach ($law->formats as $format)
+		{
+			$body .= '<li class="file-download file-' . $format['format'] . '">
+				<a href="' . $format['url'] . '">' . $format['name'] . '</a></li>';
+		}
+		$body .= '
+						</ul>
+					</section>';
 	}
-	$body .= '
-					</ul>
-				</section>';
 
 
 	/*
@@ -335,7 +330,7 @@ if (defined('DISQUS_SHORTNAME') === TRUE)
 
 	$content->append('javascript', "
 			var disqus_shortname = '" . DISQUS_SHORTNAME . "'; // required: replace example with your forum shortname
-			var disqus_identifier = '" . $laws[0]->token . "';
+			var disqus_identifier = '" . $laws[0]->permalink->token . "';
 
 			/* * * DON'T EDIT BELOW THIS LINE * * */
 			(function() {
@@ -380,7 +375,8 @@ $help = new Help();
 
 // The help text is now available, as a JSON object, as $help->get_text()
 
-$sidebar .= '<p class="keyboard"><a id="keyhelp">' . $help->get_text('keyboard')->title . '</a></p>';
+$sidebar .= '<p class="keyboard"><a class="helpbutton" data-help="keyboard" id="keyhelp">' .
+	$help->get_text('keyboard')->title . '</a></p>';
 
 
 /*

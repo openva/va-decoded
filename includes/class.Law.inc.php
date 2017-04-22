@@ -211,10 +211,10 @@ class Law
 			$result = $statement->execute($sql_args);
 
 			/*
-			 * If the query fails, or if no results are found, return false -- we can't make a
+			 * If the query fails, return false -- we can't make a
 			 * match.
 			 */
-			if ( ($result === FALSE) || ($statement->rowCount() == 0) )
+			if ( ($result === FALSE) )
 			{
 				return FALSE;
 			}
@@ -266,26 +266,9 @@ class Law
 			$struct = new Structure;
 
 			/*
-			 * Provide the edition ID so that we know which edition to query.
-			 */
-			if (isset($this->edition_id))
-			{
-				$struct->edition_id = $this->edition_id;
-			}
-			else
-			{
-				$struct->edition_id = EDITION_ID;
-			}
-
-			/*
-			 * Our structure ID provides a starting point to identify this law's ancestry.
-			 */
-			$struct->id = $this->structure_id;
-
-			/*
 			 * Save the law's ancestry.
 			 */
-			$this->ancestry = $struct->id_ancestry();
+			$this->ancestry = $struct->id_ancestry($this->structure_id);
 
 			/*
 			 * Short of a parser error, there’s no reason why a law should not have an ancestry. In
@@ -485,11 +468,11 @@ class Law
 		 */
 
 		$permalink_obj = new Permalink(array('db' => $this->db));
-		$permalink = $permalink_obj->get_preferred($this->section_id, 'law', $this->edition_id);
+		$this->permalink = $permalink_obj->get_preferred($this->section_id, 'law', $this->edition_id);
 
-		if($permalink) {
-			$this->url = $permalink->url;
-			$this->token = $permalink->token;
+		if($this->permalink) {
+			$this->url = $this->permalink->url;
+			$this->token = $this->permalink->token;
 		}
 
 		/*
@@ -532,9 +515,9 @@ class Law
 		 * Get our edition.
 		 */
 		$edition_obj = new Edition();
-		$this->edition =$edition_obj->find_by_id($this->edition_id);
+		$this->edition = $edition_obj->find_by_id($this->edition_id);
 
-		$law = $this;
+		$law =& $this;
 		unset($law->config);
 
 		/*
@@ -805,10 +788,22 @@ class Law
 			return FALSE;
 		}
 
+		if(!isset($this->edition_id)) {
+			$edition_sql = 'SELECT edition_id FROM laws WHERE id = :id';
+			$edition_args = array(':id' => $this->section_id);
+
+			$edition_statement = $this->db->prepare($edition_sql);
+			$result = $edition_statement->execute($edition_args);
+			$edition = $edition_statement->fetch(PDO::FETCH_OBJ);
+
+			$this->edition_id = $edition->edition_id;
+		}
+
 		$sql = 'INSERT INTO laws_meta
 				SET law_id = :law_id,
 				meta_key = :meta_key,
 				meta_value = :meta_value,
+				edition_id = :edition_id,
 				date_created = now()';
 		$statement = $this->db->prepare($sql);
 
@@ -816,6 +811,7 @@ class Law
 		{
 			$sql_args = array(
 				':law_id' => $this->section_id,
+				':edition_id' => $this->edition_id,
 				':meta_key' => $field->key,
 				':meta_value' => $field->value
 			);
@@ -952,6 +948,8 @@ class Law
 	public function render()
 	{
 
+		$html = '';
+
 		/*
 		 * Get the dictionary terms for this chapter.
 		 */
@@ -959,16 +957,8 @@ class Law
 		$dictionary->structure_id = $this->structure_id;
 		$dictionary->section_id = $this->section_id;
 		$dictionary->edition_id = $this->edition_id;
-		if (!defined('USE_GENERIC_TERMS') || constant('USE_GENERIC_TERMS') !== TRUE)
-		{
-			$dictionary->generic_terms = FALSE;
-		}
-		$tmp = $dictionary->term_list();
-		if ($tmp !== FALSE)
-		{
-			$terms = (array) $tmp;
-			unset($tmp);
-		}
+
+		$terms = $dictionary->term_list();
 
 		/*
 		 * If we've gotten a list of dictionary terms.
@@ -1043,173 +1033,175 @@ class Law
 			)
 		);
 
-		/*
-		 * Iterate through every section to make some basic transformations.
-		 */
-		foreach ($this->text as $section)
+		if(isset($this->text) && $this->text)
 		{
 
 			/*
-			 * Prevent lines from wrapping in the middle of a section identifier.
+			 * Iterate through every section to make some basic transformations.
 			 */
-			$section->text = str_replace('§ ', '§&nbsp;', $section->text);
-
-			/*
-			 * Highlight any search terms.
-			 */
-			if (!empty($_GET['q']))
+			foreach ($this->text as $section)
 			{
-				$query = str_replace('"', '', $_GET['q']);
-				$query = explode(' ', $query);
-				foreach($query as $term)
+
+				/*
+				 * Prevent lines from wrapping in the middle of a section identifier.
+				 */
+				$section->text = str_replace('§ ', '§&nbsp;', $section->text);
+
+				/*
+				 * Highlight any search terms.
+				 */
+				if (!empty($_GET['q']))
 				{
-					$section->text = str_replace($term, '<span class="search-term">' . $term . '</span>', $section->text);
-				}
-			}
-
-			/*
-			 * Turn every code reference in every paragraph into a link.
-			 */
-			$section->text = preg_replace_callback(SECTION_REGEX, array($autolinker, 'replace_sections'), $section->text);
-
-			/*
-			 * Turn every pair of newlines into carriage returns.
-			 */
-			$section->text = preg_replace('/\R\R/', '<br /><br />', $section->text);
-
-			/*
-			 * Use our dictionary to embed dictionary terms in the form of span titles.
-			 */
-			if (isset($term_pcres))
-			{
-				$section->text = preg_replace_callback($term_pcres, array($autolinker, 'replace_terms'), $section->text);
-			}
-		}
-
-		$html = '';
-
-		/*
-		 * Iterate through each section of text to display it.
-		 */
-		$i=0;
-		$num_paragraphs = count((array) $this->text);
-		foreach ($this->text as $paragraph)
-		{
-
-			/*
-			 * Identify the prior and next sections, by storing their prefixes.
-			 */
-			if ($i > 0)
-			{
-				$paragraph->prior_prefix = $this->text->{$i-1}->entire_prefix;
-			}
-			if ( ($i+1) < $num_paragraphs )
-			{
-				$paragraph->next_prefix = $this->text->{$i+1}->entire_prefix;
-			}
-
-			/*
-			 * If this paragraph's prefix hierarchy is different than that of the prior prefix, then
-			 * indicate that this is a new section.
-			 */
-			if ( !isset($paragraph->prior_prefix) || ($paragraph->entire_prefix != $paragraph->prior_prefix) )
-			{
-				$html .= '
-					<section';
-				if (!empty($paragraph->prefix_anchor))
-				{
-					$html .= ' id="' . $paragraph->prefix_anchor . '"';
+					$query = str_replace('"', '', $_GET['q']);
+					$query = explode(' ', $query);
+					foreach($query as $term)
+					{
+						$section->text = str_replace($term, '<span class="search-term">' . $term . '</span>', $section->text);
+					}
 				}
 
 				/*
-				 * If this is a subsection, indent it.
+				 * Turn every code reference in every paragraph into a link.
 				 */
-				if ($paragraph->level > 1)
-				{
-					$html .= ' class="indent-' . ($paragraph->level-1) . '"';
-				}
-				$html .= '>';
-			}
-
-			/*
-			 * Start a paragraph of the appropriate type, if we don't already have p tags.
-			 */
-			if ($paragraph->type == 'section' && !$this->has_p_tag($paragraph->text))
-			{
-				$html .= '<p>';
-			}
-			elseif ($paragraph->type == 'table')
-			{
-				$html .= '<div class="tabular"><pre class="table">';
-			}
-
-			/*
-			 * If we've got a section prefix, and it's not the same as the last one, then display
-			 * it.
-			 */
-			if 	( !empty($paragraph->prefix)
-				&&
-				( !isset($paragraph->prior_prefix) || ($paragraph->entire_prefix != $paragraph->prior_prefix) ) )
-			{
-
-				$html .= '<span class="prefix-number">' . $paragraph->prefix;
+				$section->text = preg_replace_callback(SECTION_REGEX, array($autolinker, 'replace_sections'), $section->text);
 
 				/*
-				 * We could use a regular expression to determine if we need to append a period, but
-				 * that would be slower.
+				 * Turn every pair of newlines into carriage returns.
 				 */
-				if ( (substr($paragraph->prefix, -1) != ')') && (substr($paragraph->prefix, -1) != '.') )
-				{
-					$html .= '.';
-				}
-				$html .= '</span> ';
-			}
+				$section->text = preg_replace('/\R\R/', '<br /><br />', $section->text);
 
-			/*
-			 * Display this section of text. Purely structural sections lack text of their own (only
-			 * their child structures contain text), which is why this is conditional.
-			 */
-			if (!empty($paragraph->text))
-			{
-				$html .= $paragraph->text;
-			}
-
-			/*
-			 * If we've got a section prefix, append a paragraph link to the end of this section.
-			 */
-			if (!empty($paragraph->prefix) && !defined('EXPORT_IN_PROGRESS'))
-			{
 				/*
-				 * Assemble the permalink
+				 * Use our dictionary to embed dictionary terms in the form of span titles.
 				 */
-
-				$permalink = $_SERVER['REQUEST_URI'] . '#'
-					. $paragraph->prefix_anchor;
-
-				$html .= ' <a id="paragraph-' . $paragraph->id . '" class="section-permalink" '
-					.'href="' . $permalink . '"><i class="icon-link"></i></a>';
-			}
-			if ($paragraph->type == 'section' && !$this->has_p_tag($paragraph->text))
-			{
-				$html .= '</p>';
-			}
-			elseif ($paragraph->type == 'table')
-			{
-				$html .= '</pre></div>';
+				if (isset($term_pcres))
+				{
+					$section->text = preg_replace_callback($term_pcres, array($autolinker, 'replace_terms'), $section->text);
+				}
 			}
 
 			/*
-			 * If our next prefix is different than the current prefix, than terminate this section.
+			 * Iterate through each section of text to display it.
 			 */
-			if	(
-					( !isset($paragraph->next_prefix) || ($paragraph->entire_prefix != $paragraph->next_prefix) )
-					||
-					( ($i+1) === $num_paragraphs)
-				)
+			$i=0;
+			$num_paragraphs = count((array) $this->text);
+			foreach ($this->text as $paragraph)
 			{
-				$html .= '</section>';
+
+				/*
+				 * Identify the prior and next sections, by storing their prefixes.
+				 */
+				if ($i > 0)
+				{
+					$paragraph->prior_prefix = $this->text->{$i-1}->entire_prefix;
+				}
+				if ( ($i+1) < $num_paragraphs )
+				{
+					$paragraph->next_prefix = $this->text->{$i+1}->entire_prefix;
+				}
+
+				/*
+				 * If this paragraph's prefix hierarchy is different than that of the prior prefix, then
+				 * indicate that this is a new section.
+				 */
+				if ( !isset($paragraph->prior_prefix) || ($paragraph->entire_prefix != $paragraph->prior_prefix) )
+				{
+					$html .= '
+						<section';
+					if (!empty($paragraph->prefix_anchor))
+					{
+						$html .= ' id="' . preg_replace('/[^a-z0-9A-Z]/', '', $paragraph->prefix_anchor) . '"';
+					}
+
+					/*
+					 * If this is a subsection, indent it.
+					 */
+					if ($paragraph->level > 1)
+					{
+						$html .= ' class="indent-' . ($paragraph->level-1) . '"';
+					}
+					$html .= '>';
+				}
+
+				/*
+				 * Start a paragraph of the appropriate type, if we don't already have p tags.
+				 */
+				if ($paragraph->type == 'section' && !$this->has_p_tag($paragraph->text))
+				{
+					$html .= '<p>';
+				}
+				elseif ($paragraph->type == 'table')
+				{
+					$html .= '<div class="tabular"><pre class="table">';
+				}
+
+				/*
+				 * If we've got a section prefix, and it's not the same as the last one, then display
+				 * it.
+				 */
+				if 	( !empty($paragraph->prefix)
+					&&
+					( !isset($paragraph->prior_prefix) || ($paragraph->entire_prefix != $paragraph->prior_prefix) ) )
+				{
+
+					$html .= '<span class="prefix-number">' . $paragraph->prefix;
+
+					/*
+					 * We could use a regular expression to determine if we need to append a period, but
+					 * that would be slower.
+					 */
+					if ( (substr($paragraph->prefix, -1) != ')') && (substr($paragraph->prefix, -1) != '.') )
+					{
+						$html .= '.';
+					}
+					$html .= '</span> ';
+				}
+
+				/*
+				 * Display this section of text. Purely structural sections lack text of their own (only
+				 * their child structures contain text), which is why this is conditional.
+				 */
+				if (!empty($paragraph->text))
+				{
+					$html .= $paragraph->text;
+				}
+
+				/*
+				 * If we've got a section prefix, append a paragraph link to the end of this section.
+				 */
+				if (!empty($paragraph->prefix) && !defined('EXPORT_IN_PROGRESS'))
+				{
+					/*
+					 * Assemble the permalink
+					 */
+
+					$permalink = SITE_URL . $this->permalink->url . '#'
+						. $paragraph->prefix_anchor;
+
+					$html .= ' <a id="paragraph-' . $paragraph->id . '" class="section-permalink" '
+						.'href="' . $permalink . '"><i class="icon-link"></i></a>';
+				}
+				if ($paragraph->type == 'section' && !$this->has_p_tag($paragraph->text))
+				{
+					$html .= '</p>';
+				}
+				elseif ($paragraph->type == 'table')
+				{
+					$html .= '</pre></div>';
+				}
+
+				/*
+				 * If our next prefix is different than the current prefix, than terminate this section.
+				 */
+				if	(
+						( !isset($paragraph->next_prefix) || ($paragraph->entire_prefix != $paragraph->next_prefix) )
+						||
+						( ($i+1) === $num_paragraphs)
+					)
+				{
+					$html .= '</section>';
+				}
+				$i++;
 			}
-			$i++;
 		}
 
 		return $html;

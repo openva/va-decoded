@@ -105,7 +105,13 @@ abstract class Export extends Plugin
 		$filebase = array_pop($tokens);
 
 		$path = join_paths($dir, 'code-' . $this->format, $tokens);
-		$filename = $filebase . $this->extension;
+		$filename = $filebase;
+		if(isset($law->metadata) && isset($law->metadata->dupe_number))
+		{
+			$filename .= '_' . $law->metadata->dupe_number;
+		}
+
+		$filename .= $this->extension;
 
 		return array($path, $filename);
 	}
@@ -226,7 +232,7 @@ abstract class Export extends Plugin
 	}
 
 	public function getDictionaryDownloadName() {
-		return 'dictionary' . $this->extension;
+		return 'dictionary' . $this->extension . '.zip';
 	}
 
 	public function generateZip($zip_filename)
@@ -285,10 +291,16 @@ abstract class Export extends Plugin
 	 */
 	public function postGetLaw(&$law)
 	{
-		if(isset($law->url))
+		if(isset($law->permalink->url))
 		{
 			$url = '/downloads/' . $law->edition->slug . '/code-' . $this->format .
-				'/' . trim($law->url, '/') . $this->extension;
+				'/' . trim($law->permalink->url, '/');
+
+			if(isset($law->metadata) && isset($law->metadata->dupe_number))
+			{
+				$url .= '_' . $law->metadata->dupe_number;
+			}
+			$url .= $this->extension;
 
 			$law->formats[] = array(
 				'name' => $this->public_name,

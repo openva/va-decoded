@@ -9,7 +9,7 @@
  * PHP version 5
  *
  * @license   http://www.gnu.org/licenses/gpl.html GPL 3
- * @version   0.9
+ * @version   1.0
  * @link    http://www.statedecoded.com/
  * @since   0.9
 */
@@ -121,18 +121,27 @@ class DOMWrapper
 	}
 
 	public function rawValue($html = FALSE) {
-    $newdoc = new DOMDocument();
-    $cloned = $this->dom->cloneNode(TRUE);
-    $newdoc->appendChild($newdoc->importNode($cloned,TRUE));
+		$newdoc = new DOMDocument();
+		$cloned = $this->dom->cloneNode(TRUE);
+		$node = $newdoc->importNode($cloned,TRUE);
 
-    if($html)
-    {
-	    return $newdoc->saveHTML();
-   	}
-   	else
-   	{
-   		return $newdoc->saveXML();
-   	}
+		if($node)
+		{
+			$newdoc->appendChild($node);
+
+			if($html)
+			{
+				return $newdoc->saveHTML();
+			}
+			else
+			{
+				return $newdoc->saveXML();
+			}
+		 }
+		 else
+		 {
+				return FALSE;
+		 }
 	}
 
 	public function __toString()

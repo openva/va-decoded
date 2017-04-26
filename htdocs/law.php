@@ -6,7 +6,7 @@
  * PHP version 5
  *
  * @license		http://www.gnu.org/licenses/gpl.html GPL 3
- * @version		0.9
+ * @version		1.0
  * @link		http://www.statedecoded.com/
  * @since		0.1
 */
@@ -223,7 +223,8 @@ foreach($laws as $i=>$law)
 	/*
 	 * Start assembling the body of this page by indicating the beginning of the text of the section.
 	 */
-	$body .= '<article class="law-contents" id="law-' . $law->law_id . '">';
+	$body .= '<article class="law-contents" id="law-' . $law->law_id . '" data-law-id="' . $law->law_id . '"' .
+		' data-edition-id="' . $law->edition_id . '">';
 
 	$body .= '<h1>
 		<span class="section_id">' . SECTION_SYMBOL .' ' . $law->section_number . '</span>
@@ -339,6 +340,15 @@ if (defined('DISQUS_SHORTNAME') === TRUE)
 				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
 			})();");
 }
+
+/*
+ * Explain what this page is. Useful for the supermajority of visits that come from search engines.
+ */
+$sidebar .= '<section class="info-box" id="explanation">
+				<h1>What This Is</h1>
+				<p>This is a law from the ' . LAWS_NAME . '. This is the actual, unchanged text
+				of one of the many laws that govern ' . PLACE_NAME . '.</p>
+			</section>';
 
 /*
  * Display links to share this law via social services.

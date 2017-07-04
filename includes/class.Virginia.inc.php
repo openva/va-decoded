@@ -26,7 +26,7 @@ class State
 	 *
 	 * @return the URL or false
 	 */
-	official_url()
+	function official_url()
 	{
 
 		if (!isset($this->section_number))

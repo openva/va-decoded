@@ -29,21 +29,10 @@
 			</structure>
 			
 			<!--Strip out the leading "_ " and replace any others with a colon.-->
-			<xsl:choose>
-				<!--If it's included in the anchor.-->
-				<xsl:when test="legislativeDocBody/statute/level/anchor">
-					<xsl:variable name="section-number" select="translate(legislativeDocBody/statute/level/anchor/@id, '_', ':')" />
-					<section_number><xsl:value-of select="substring($section-number, 2)"/></section_number>
-				</xsl:when>
-				<!--Otherwise we must parse it out of the citation info.-->
-				<xsl:otherwise>
-					<xsl:analyze-string select="legislativeDocHead/citations/citeForThisResource" regex="§ ?(.*)$">
-						 <xsl:matching-substring>
-							<section_number><xsl:value-of select="regex-group(1)"/></section_number>
-						</xsl:matching-substring>
-					</xsl:analyze-string>
-				</xsl:otherwise>
-			</xsl:choose>
+			<xsl:variable name="section-number" select="translate(legislativeDocBody/statute/level/anchor/@id, '_', ':')" />
+			<section_number>
+				<xsl:value-of select="substring($section-number, 2)"/>
+			</section_number>
 
 			<!--Include the catch line.-->
 			<catch_line><xsl:value-of select="legislativeDocBody/statute/level/heading/title" /></catch_line>
@@ -68,25 +57,17 @@
 				<xsl:value-of select="@levelType"/>
 			</xsl:attribute>
 
+			<xsl:attribute name="identifier">
+				<xsl:value-of select="replace(replace(normalize-space(heading/desig), '^(TITLE|SUBTITLE|ARTICLE|CHAPTER|SUBCHAPTER|PART) ', '' ), '.$', '')"/>
+			</xsl:attribute>
+
 			<!-- Counter -->
 			<xsl:attribute name="level">
 			  <xsl:value-of select="count(ancestor::hierarchyLevel) + 1"/>
 			</xsl:attribute>
 
-			<!-- If we have a title, desig is the identifier. Otherwise, the desig is the title. -->
-			<xsl:choose>
-				<xsl:when test="heading/title">
-					<xsl:attribute name="identifier">
-						<xsl:value-of select="replace(replace(normalize-space(heading/desig), '^(TITLE|SUBTITLE|ARTICLE|CHAPTER|SUBCHAPTER|PART) ', '' ), '.$', '')"/>
-					</xsl:attribute>
-					<xsl:value-of select="fn:capitalize_phrase(heading/title)"/>
-				</xsl:when>
-
-				<xsl:otherwise>
-					<xsl:value-of select="fn:capitalize_phrase(heading/desig)"/>
-				</xsl:otherwise>
-			</xsl:choose>
-
+			<xsl:value-of select="fn:capitalize_phrase(heading/title)"/>
+		
 		</unit>
 
 		<xsl:if test="hierarchyLevel">
@@ -111,8 +92,8 @@
 						<xsl:variable name="prefix_length" select="string-length(heading/desig)"/>
 						<xsl:value-of select="substring(heading/desig, 0, $prefix_length)"/>
 					</xsl:attribute>
-
-					<xsl:apply-templates select="bodyText"/>
+					
+					<xsl:value-of select="bodyText" />
 
 					<xsl:if test="level">
 						<xsl:apply-templates select="level"/>
@@ -122,36 +103,14 @@
 			</xsl:when>
 
 			<xsl:otherwise>
-				<xsl:apply-templates />
+				<xsl:value-of select="bodyText" />
+				<xsl:if test="level">
+					<xsl:apply-templates select="level"/>
+				</xsl:if>
 			</xsl:otherwise>
 
 		</xsl:choose>
 
-	</xsl:template>
-
-	<!--Handle markup in our bodyText-->
-
-	<xsl:template match="bodyText">
-		<xsl:apply-templates />
-	</xsl:template>
-
-	<xsl:template match="p">
-		<p><xsl:apply-templates /></p>
-	</xsl:template>
-
-	<xsl:template match="pre|br|em">
-		<xsl:copy copy-namespaces="no"><xsl:apply-templates /></xsl:copy>
-	</xsl:template>
-
-	<!--Delete locator and heading-->
-	<xsl:template match="locator|heading" />
-
-	<!--We already have the history-->
-	<xsl:template match="history" />
-
-	<!--Get the content of citation.-->
-	<xsl:template match="citation">
-		<xsl:value-of select="content/span" />
 	</xsl:template>
 
 	<xsl:function name="fn:capitalize_word">
@@ -170,3 +129,4 @@
 	</xsl:function>
 
 </xsl:stylesheet>
+

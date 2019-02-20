@@ -26,28 +26,159 @@ class State
 	 *
 	 * @return the URL or false
 	 */
-	/*official_url()
+	function official_url()
 	{
 
 		if (!isset($this->section_number))
 		{
 			return FALSE;
 		}
+		
+		$url = 'http://law.lis.virginia.gov/vacode/' . $this->section_number . '/';
+		
+		/*
+		 * Make this variable available externally.
+		 */
+		$this->url = $url;
+		
+		/*
+		 * But return the URL anyway.
+		 */
+		return $url;
 
-		return 'http://example.gov/laws/' . $this->section_number . '/';
-
-	}*/
+	}
 
 	/**
 	 * Render the often-confusing history text for a law as plain English.
 	 *
 	 * @return the history text or false
 	 */
-	/*function translate_history()
+	function translate_history()
 	{
+		
+		if (!isset($this->history) || empty($this->history))
+		{
+			return FALSE;
+		}
+
+		$text = '';
+
+
+		# If there's just one history entry, that's for the creation of this section.
+		if ((count((array) $this->history)-1) < 1)
+		{
+			$created = current($this->history);
+			$text .= '<p>This law was first created in '.$created->year.'. ';
+			if ($created->year >= 1994)
+			{
+				$link = 'http://leg1.state.va.us/cgi-bin/legp504.exe?'.$year.'1+ful+CHAP'
+					.str_pad($chapter, 4, '0', STR_PAD_LEFT);
+				$text .= ' The record of its establishment is cataloged in <a href="'
+					.$link.'">chapter '.$created->chapter.'</a> of that year’s edition of “Acts of
+					Assembly,” the annual state publication listing all changes made to the Code of
+					Virginia in that year.';
+			}
+			else
+			{
+				$text .= ' The record of its establishment is cataloged in chapter '
+					.$created->chapter.' of that year’s edition of “Acts of Assembly,” the annual
+					state publication listing all changes made to the Code of Virginia in that year.
+					Unfortunately, the '.$created->year.' “Acts” aren’t available online.';
+			}
+		}
+		
+		else
+		{
+			$created = current($this->history);
+			$text .= 'This law has been modified '.(count((array) $this->history)-1).'
+				time';
+			if ( (count((array) $this->history)-1) > 1)
+			{
+				$text .= 's';
+			}
+			$text .= ' since it was first created in '.$created->year.'. Those modifications
+				are cataloged by “The Acts of Assembly,” a state publication, by year and chapter.
+				Those modifications that can be read on the General Assembly’s website will be
+				linked accordingly. ';
+			if ( (count((array) $this->history)-1) > 1)
+			{
+				$text .= 'Those modifications are';
+			}
+			else
+			{
+				$text .= 'That modification is';
+			}
+			
+			$text .= ' as follows: ';
+	
+			// Iterate through each update, skipping the first one, and display it in plain English.
+			next($this->history);
+			while ($history = current($this->history))
+			{
+				$text .= 'in '.$history->year.', ';
+				
+				// When the history data is from 1994 or after, then a record of it exists on the
+				// state's website, and we can link to it.
+				if ($history->year >= 1994)
+				{
+					$year = substr($history->year, -2);
+					
+					// If we just have one chapter amending this during this year.
+					if (!is_array($history->chapter))
+					{
+						$chapter = str_pad($history->chapter, 4, '0', STR_PAD_LEFT);
+						$text .= ' chapter <a href="http://leg1.state.va.us/cgi-bin/legp504.exe?'
+							.$year.'1+ful+CHAP'.$chapter.'">'.$history->chapter.'</a>';
+					}
+					
+					// Else if we have multiple chapters amending this law during this year.
+					else
+					{
+						$text .= ' chapters ';
+						foreach ($history->chapter as $chapter)
+						{
+							$chap = str_pad($chapter, 4, '0', STR_PAD_LEFT);
+							$text .= '<a href="http://leg1.state.va.us/cgi-bin/legp504.exe?'
+								.$year.'1+ful+CHAP'.$chap.'">'.$chapter.'</a>, ';
+						}
+						$text = substr($text, 0, -2);
+					}
+				}
+				
+				// If the history data is from prior to 1994, we have no external data to link to,
+				// and we just display the text.
+				else
+				{
+					
+					// If we have multiple chapters amending this law during this year.
+					if (!is_array($history->chapter))
+					{
+						$text .= ' chapter '.$history->chapter;
+					}
+					
+					// Else if we just have one chapter amending this during this year.
+					else
+					{
+						$text .= ' chapters ';
+						foreach ($history->chapter as $chapter)
+						{
+							$text .= $chapter.', ';
+						}
+					}
+					
+				}
+				$text .= '; ';
+				next($this->history);
+			}
+		
+			// Back up to hack off the trailing semicolon and space.
+			$text = substr($text, 0, -2).'.';
+		}
+		
+		return $text;
 
 	}
-	*/
+	
 
 	/**
 	 * Generate one or more citations for a law
@@ -82,50 +213,41 @@ class State
 	 *
 	 * @return true or false
 	 */
-	/*function get_amendment_attempts()
+	function get_amendment_attempts()
 	{
 
+		/*
+		 * If a section number hasn't been passed to this function, then there's nothing to do.
+		 */
 		if (!isset($this->section_number))
 		{
 			return FALSE;
 		}
-
-		# Below is an example of how $this->bills should be formatted. Every field must be present,
-		# and they should be sorted chronologically, from most oldest to newest.
-		#
-		#		Object
-		#		(
-		#			[0] => stdClass Object
-		#				(
-		#					[year] => 2009
-		#					[number] => SB1316
-		#					[catch_line] => Freedom of Information Act; strikes requirement to publish a database index, etc.
-		#					[outcome] => passed
-		#					[url] => http://www.richmondsunlight.com/bill/2009/sb1316/
-		#				)
-		#
-		#			[1] => stdClass Object
-		#				(
-		#					[year] => 2010
-		#					[number] => HB449
-		#					[catch_line] => Freedom of Information Act; injunctive relief for public bodies under certain circumstances.
-		#					[outcome] => failed
-		#					[url] => http://www.richmondsunlight.com/bill/2010/hb449/
-		#				)
-		#
-		#			[2] => stdClass Object
-		#				(
-		#					[year] => 2010
-		#					[number] => HB518
-		#					[catch_line] => Freedom of Information Act; public body shall remain responsible for retrieving public records, etc.
-		#					[outcome] => passed
-		#					[url] => http://www.richmondsunlight.com/bill/2010/hb518/
-		#				)
-
-		return TRUE;
+		
+		/*
+		 * Get the attempts to amend this bill, from Richmond Sunlight.
+		 */
+		$json = fetch_url('http://api.richmondsunlight.com/1.0/bysection/' . $this->section_number
+			. '.json');
+		if ($json !== FALSE)
+		{
+			
+			$bills = json_decode($json);
+			
+			if (isset($bills->error))
+			{
+				return FALSE;
+			}
+			
+			$this->bills = $bills;
+			return TRUE;
+			
+		}
+		
+		return FALSE;
 
 	} // end get_amendment_attempts()
-	*/
+	
 
 	/**
 	 * Retrieve a list of every court decision that cites a given law.
@@ -144,7 +266,7 @@ class State
 	 *
 	 * @return true or false
 	 */
-	/*function get_court_decisions()
+	function get_court_decisions()
 	{
 
 		//  We need a section number in order to search for court decisions that cite that law.
@@ -258,7 +380,7 @@ class State
 
 		return TRUE;
 
-	}*/
+	}
 
 }
 

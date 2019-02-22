@@ -43,7 +43,7 @@ foreach ($sections as $section)
 {
 
     $section_xml = file_get_contents('https://law.lis.virginia.gov/LawPortalWebService/xml/CodeofVAGetSectionDetails/' . $section);
-    file_put_contents($output_dir . '/' . $section . '.xml', $section_xml);
+    file_put_contents($output_dir . '/' . str_replace(':', '_', $section) . '.xml', $section_xml);
     echo '.';
     
 }

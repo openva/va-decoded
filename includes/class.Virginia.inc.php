@@ -227,7 +227,7 @@ class State
 		/*
 		 * Get the attempts to amend this bill, from Richmond Sunlight.
 		 */
-		$json = fetch_url('http://api.richmondsunlight.com/1.0/bysection/' . $this->section_number
+		$json = fetch_url('https://api.richmondsunlight.com/1.1/bysection/' . $this->section_number
 			. '.json');
 		if ($json !== FALSE)
 		{

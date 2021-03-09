@@ -8,14 +8,21 @@
 
 	<!-- Don't include any whitespace-only text nodes. -->
 	<xsl:strip-space elements="*" />
-	
-	<xsl:output
-			method="xml"
-			version="1.0"
-			encoding="utf-8"
-			omit-xml-declaration="no"
-			indent="yes"
-			media-type="text/xml"/>
+
+	<xsl:template match="/">
+
+		<!-- Iterate through every section -->
+		<xsl:for-each select="section">
+
+			<xsl:result-document href="section/{desig}.xml">
+
+				<xsl:apply-templates select="section"/>
+			
+			</xsl:result-document>
+		
+		</xsl:for-each>
+
+	</xsl:template>
 
 	<!--Start processing at the section element.-->
 	<xsl:template match="section">
@@ -61,50 +68,30 @@
 		<unit label="title" identifier="$TitleIdentifier" level="1">
 			<xsl:value-of select="@head"/>
 		</unit>
-
-		<xsl:attribute name="TitleIdentifier">
-			<xsl:value-of select="hierarchy/desig"/>
-		</xsl:attribute>
 	</xsl:template>
 
 	<xsl:template match="hierarchy[@label='subtitle']">
 		<unit label="subtitle" identifier="$SubtitleIdentifier" level="2">
 			<xsl:value-of select="@head"/>
 		</unit>
-
-		<xsl:attribute name="SubtitleIdentifier">
-			<xsl:value-of select="hierarchy/desig"/>
-		</xsl:attribute>
 	</xsl:template>
 
 	<xsl:template match="hierarchy[@label='part']">
 		<unit label="part" identifier="$PartIdentifier" level="3">
 			<xsl:value-of select="@head"/>
 		</unit>
-
-		<xsl:attribute name="PartIdentifier">
-			<xsl:value-of select="hierarchy/desig"/>
-		</xsl:attribute>
 	</xsl:template>
 
 	<xsl:template match="hierarchy[@label='chapter']">
 		<unit label="chapter" identifier="$ChapterIdentifier" level="4">
 			<xsl:value-of select="@head"/>
 		</unit>
-
-		<xsl:attribute name="ChapterIdentifier">
-			<xsl:value-of select="hierarchy/desig"/>
-		</xsl:attribute>
 	</xsl:template>
 
 	<xsl:template match="hierarchy[@label='article']">
 		<unit label="article" identifier="$ArticleIdentifier" level="5">
 			<xsl:value-of select="@head"/>
 		</unit>
-
-		<xsl:attribute name="ArticleIdentifier">
-			<xsl:value-of select="hierarchy/desig"/>
-		</xsl:attribute>
 	</xsl:template>
 
 </xsl:stylesheet>

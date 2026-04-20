@@ -1,4 +1,4 @@
-<?php
+ <?php
 
 /**
  * Virginia Code of Law Scraper
@@ -15,34 +15,63 @@
  * If this file is being included by another script (e.g., tests), don't run
  * the main logic — just make the functions available.
  */
-if (realpath($argv[0] ?? '') !== realpath(__FILE__))
+$sections = array();
+
+/*
+ * Iterate through titles and chapters to build up a list of sections.
+ */
+foreach ($titles as $title)
 {
-    return;
+
+    $title_chapters_xml = file_get_contents('https://law.lis.virginia.gov/api/CoVChaptersGetListOfXml/' . $title->TitleNumber);
+    if ($title_chapters_xml === false)
+    {
+        die('Error: Could not get chapter list for title ' . $title->TitleNumber);
+    }
+    
+    $title_chapters = simplexml_load_string($title_chapters_xml);
+    if ($title_chapters === false)
+    {
+        die('Error: Could not parse chapter list for title ' . $title->TitleNumber);
+    }
+    $title_chapters = $title_chapters->ChapterList;
+    
+    /*
+     * Iterate through chapters to build up a list of sections.
+     */
+    foreach ($title_chapters as $chapter)
+    {
+
+        $chapter_xml = file_get_contents('https://law.lis.virginia.gov/api/CoVSectionsGetListOfXml/'
+            . $title->ChapterNum . '/' . $chapter->ChapterNum);
+        if ($chapter_xml === false)
+        {
+            die('Error: Could not get section list for chapter ' . $chapter->ChapterNum);
+        }
+        
+        $chapter_sections = simplexml_load_string($chapter_xml);
+        if ($chapter_sections === false)
+        {
+            die('Error: Could not parse section list for chapter ' . $chapter->ChapterNum);
+        }
+        $chapter_sections = $chapter_sections->ArticleList;
+        
+        /////
+        ///// You have to iterate through the egregiously named "VaCodeObjectsArticleListForWS" elements,
+        ///// and then through the "SubPartList" elements, and probably others too.
+        foreach ($chapter_sections as $chapter_section)
+        {
+            $sections[] = (string) $chapter_section->SectionNumber;
+        }
+    }
+
 }
 
 /*
- * All title numbers in the Code of Virginia.
- */
-$title_numbers = [
-    '1', '2.2', '3.2', '4.1', '5.1', '6.2',
-    '8.01', '8.1A', '8.2', '8.2A', '8.3A', '8.4', '8.4A', '8.5A',
-    '8.7', '8.8A', '8.9A', '8.10', '8.11', '8.12', '8.13',
-    '9.1', '10.1', '11', '12.1', '13.1', '15.2', '16.1', '17.1',
-    '18.2', '19.2', '20', '21', '22.1', '23.1', '24.2', '25.1',
-    '27', '28.2', '29.1', '30', '32.1', '33.2', '34', '35.1',
-    '36', '37.2', '38.2', '40.1', '41.1', '42.1', '43', '44',
-    '45.2', '46.2', '47.1', '48', '49', '50', '51.1', '51.5',
-    '52', '53.1', '54.1', '55.1', '56', '57', '58.1', '59.1',
-    '60.2', '61.1', '62.1', '63.2', '64.2', '65.2', '66',
-];
-
-$csv_base_url = 'https://law.lis.virginia.gov/CSV/CoVTitle_';
-
-/*
- * Create the output directory.
+ * Now we have a list of all sections, at $sections. We can now retrieve the XML for all sections.
  */
 $output_dir = 'output';
-if (!is_dir($output_dir))
+if (!file_exists($output_dir))
 {
     mkdir($output_dir);
 }

@@ -15,63 +15,34 @@
  * If this file is being included by another script (e.g., tests), don't run
  * the main logic — just make the functions available.
  */
-$sections = array();
-
-/*
- * Iterate through titles and chapters to build up a list of sections.
- */
-foreach ($titles as $title)
+if (realpath($argv[0] ?? '') !== realpath(__FILE__))
 {
-
-    $title_chapters_xml = file_get_contents('https://law.lis.virginia.gov/api/CoVChaptersGetListOfXml/' . $title->TitleNumber);
-    if ($title_chapters_xml === false)
-    {
-        die('Error: Could not get chapter list for title ' . $title->TitleNumber);
-    }
-    
-    $title_chapters = simplexml_load_string($title_chapters_xml);
-    if ($title_chapters === false)
-    {
-        die('Error: Could not parse chapter list for title ' . $title->TitleNumber);
-    }
-    $title_chapters = $title_chapters->ChapterList;
-    
-    /*
-     * Iterate through chapters to build up a list of sections.
-     */
-    foreach ($title_chapters as $chapter)
-    {
-
-        $chapter_xml = file_get_contents('https://law.lis.virginia.gov/api/CoVSectionsGetListOfXml/'
-            . $title->ChapterNum . '/' . $chapter->ChapterNum);
-        if ($chapter_xml === false)
-        {
-            die('Error: Could not get section list for chapter ' . $chapter->ChapterNum);
-        }
-        
-        $chapter_sections = simplexml_load_string($chapter_xml);
-        if ($chapter_sections === false)
-        {
-            die('Error: Could not parse section list for chapter ' . $chapter->ChapterNum);
-        }
-        $chapter_sections = $chapter_sections->ArticleList;
-        
-        /////
-        ///// You have to iterate through the egregiously named "VaCodeObjectsArticleListForWS" elements,
-        ///// and then through the "SubPartList" elements, and probably others too.
-        foreach ($chapter_sections as $chapter_section)
-        {
-            $sections[] = (string) $chapter_section->SectionNumber;
-        }
-    }
-
+    return;
 }
 
 /*
- * Now we have a list of all sections, at $sections. We can now retrieve the XML for all sections.
+ * All title numbers in the Code of Virginia.
+ */
+$title_numbers = [
+    '1', '2.2', '3.2', '4.1', '5.1', '6.2',
+    '8.01', '8.1A', '8.2', '8.2A', '8.3A', '8.4', '8.4A', '8.5A',
+    '8.7', '8.8A', '8.9A', '8.10', '8.11', '8.12', '8.13',
+    '9.1', '10.1', '11', '12.1', '13.1', '15.2', '16.1', '17.1',
+    '18.2', '19.2', '20', '21', '22.1', '23.1', '24.2', '25.1',
+    '27', '28.2', '29.1', '30', '32.1', '33.2', '34', '35.1',
+    '36', '37.2', '38.2', '40.1', '41.1', '42.1', '43', '44',
+    '45.2', '46.2', '47.1', '48', '49', '50', '51.1', '51.5',
+    '52', '53.1', '54.1', '55.1', '56', '57', '58.1', '59.1',
+    '60.2', '61.1', '62.1', '63.2', '64.2', '65.2', '66',
+];
+
+$csv_base_url = 'https://law.lis.virginia.gov/CSV/CoVTitle_';
+
+/*
+ * Create the output directory.
  */
 $output_dir = 'output';
-if (!file_exists($output_dir))
+if (!is_dir($output_dir))
 {
     mkdir($output_dir);
 }
@@ -249,7 +220,7 @@ function build_structure_xml(array $row): string
         }
 
         $identifier_attr = htmlspecialchars($identifier, ENT_XML1, 'UTF-8');
-        $name_escaped = htmlspecialchars($name, ENT_XML1, 'UTF-8');
+        $name_escaped = htmlspecialchars(to_title_case($name), ENT_XML1, 'UTF-8');
 
         $xml .= "\t\t<unit label=\"$label\" identifier=\"$identifier_attr\" level=\"$level\">";
         $xml .= $name_escaped;
@@ -437,5 +408,71 @@ function detect_prefix(string $text): ?string
     }
 
     return null;
+
+}
+
+
+/**
+ * Convert a string to title case, handling legal text conventions.
+ *
+ * Words that are typically lowercase in titles (articles, conjunctions,
+ * short prepositions) are kept lowercase unless they are the first word.
+ * Roman numerals and bracketed annotations like "[Repealed]" are preserved.
+ */
+function to_title_case(string $text): string
+{
+
+    /*
+     * If the text is already mixed case, leave it alone.
+     * Strip bracketed annotations like [Repealed] before checking, since
+     * those are always mixed case even when the rest is all-caps.
+     */
+    $text_without_brackets = preg_replace('/\s*\[[^\]]*\]/', '', $text);
+    if ($text_without_brackets !== mb_strtoupper($text_without_brackets, 'UTF-8'))
+    {
+        return $text;
+    }
+
+    /*
+     * Words that should stay lowercase in title case (unless first word).
+     */
+    $minor_words = [
+        'a', 'an', 'the',
+        'and', 'but', 'or', 'nor', 'for', 'yet', 'so',
+        'at', 'by', 'in', 'of', 'on', 'to', 'up',
+        'as', 'if',
+    ];
+
+    $words = explode(' ', $text);
+    $result = [];
+
+    foreach ($words as $i => $word)
+    {
+
+        /*
+         * Preserve bracketed annotations like [Repealed] or [Reserved].
+         */
+        if (preg_match('/^\[.*\]$/', $word))
+        {
+            $result[] = '[' . mb_convert_case(trim($word, '[]'), MB_CASE_TITLE, 'UTF-8') . ']';
+            continue;
+        }
+
+        $lower = mb_strtolower($word, 'UTF-8');
+
+        /*
+         * Keep minor words lowercase unless they are the first word.
+         */
+        if ($i > 0 && in_array($lower, $minor_words, true))
+        {
+            $result[] = $lower;
+            continue;
+        }
+
+        $result[] = mb_convert_case($word, MB_CASE_TITLE, 'UTF-8');
+
+    }
+
+    return implode(' ', $result);
 
 }

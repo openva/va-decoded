@@ -224,6 +224,63 @@ assert_equal(
 
 /*
  * =========================================================================
+ * to_title_case()
+ * =========================================================================
+ */
+
+echo "Testing to_title_case...\n";
+
+assert_equal(
+    'General Provisions',
+    to_title_case('GENERAL PROVISIONS'),
+    'all-caps converted to title case'
+);
+
+assert_equal(
+    'Code of Virginia',
+    to_title_case('CODE OF VIRGINIA'),
+    'minor word "of" stays lowercase'
+);
+
+assert_equal(
+    'Common Law and Rules of Construction',
+    to_title_case('COMMON LAW AND RULES OF CONSTRUCTION'),
+    'minor words "and", "of" stay lowercase'
+);
+
+assert_equal(
+    'Common Law and Rules of Construction',
+    to_title_case('Common Law and Rules of Construction'),
+    'already mixed case is left alone'
+);
+
+assert_equal(
+    'Citizenship [Repealed]',
+    to_title_case('CITIZENSHIP [Repealed]'),
+    'bracketed annotation preserved in title case'
+);
+
+assert_equal(
+    'Common Law, Statutes and Rules of Construction [Repealed]',
+    to_title_case('COMMON LAW, STATUTES AND RULES OF CONSTRUCTION [Repealed]'),
+    'all-caps with bracket converts correctly'
+);
+
+assert_equal(
+    'Jurisdiction Over Lands Acquired by the United States',
+    to_title_case('JURISDICTION OVER LANDS ACQUIRED BY THE UNITED STATES'),
+    '"by" and "the" stay lowercase mid-sentence'
+);
+
+assert_equal(
+    'In General',
+    to_title_case('In General'),
+    'mixed case left alone (In General)'
+);
+
+
+/*
+ * =========================================================================
  * build_structure_xml()
  * =========================================================================
  */

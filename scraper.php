@@ -20,22 +20,7 @@ if (realpath($argv[0] ?? '') !== realpath(__FILE__))
     return;
 }
 
-/*
- * All title numbers in the Code of Virginia.
- */
-$title_numbers = [
-    '1', '2.2', '3.2', '4.1', '5.1', '6.2',
-    '8.01', '8.1A', '8.2', '8.2A', '8.3A', '8.4', '8.4A', '8.5A',
-    '8.7', '8.8A', '8.9A', '8.10', '8.11', '8.12', '8.13',
-    '9.1', '10.1', '11', '12.1', '13.1', '15.2', '16.1', '17.1',
-    '18.2', '19.2', '20', '21', '22.1', '23.1', '24.2', '25.1',
-    '27', '28.2', '29.1', '30', '32.1', '33.2', '34', '35.1',
-    '36', '37.2', '38.2', '40.1', '41.1', '42.1', '43', '44',
-    '45.2', '46.2', '47.1', '48', '49', '50', '51.1', '51.5',
-    '52', '53.1', '54.1', '55.1', '56', '57', '58.1', '59.1',
-    '60.2', '61.1', '62.1', '63.2', '64.2', '65.2', '66',
-];
-
+$library_url  = 'https://law.lis.virginia.gov/law-library/';
 $csv_base_url = 'https://law.lis.virginia.gov/CSV/CoVTitle_';
 
 /*
@@ -48,11 +33,23 @@ if (!is_dir($output_dir))
 }
 
 /*
- * If a title number was provided as an argument, process only that title.
+ * If a title number was provided as an argument, use only that title.
+ * Otherwise fetch the current list from the law library index page.
  */
 if (isset($argv[1]))
 {
     $title_numbers = [$argv[1]];
+}
+else
+{
+    echo "Fetching title list from $library_url\n";
+    $title_numbers = fetch_title_numbers($library_url);
+    if (empty($title_numbers))
+    {
+        echo "ERROR: Could not fetch title numbers from $library_url\n";
+        exit(1);
+    }
+    echo 'Found ' . count($title_numbers) . " titles\n";
 }
 
 /*
@@ -138,6 +135,28 @@ function parse_csv(string $csv_data): array
 
     fclose($handle);
     return $rows;
+
+}
+
+
+/**
+ * Fetch Code of Virginia title numbers from the law library index page.
+ *
+ * Each title appears in a <td class='child'> cell as "Title X.X: Name".
+ * Returns an array of title number strings, e.g. ['1', '2.2', '8.01', ...].
+ */
+function fetch_title_numbers(string $url): array
+{
+
+    $html = file_get_contents($url);
+    if ($html === false)
+    {
+        return [];
+    }
+
+    preg_match_all('/Title ([0-9][0-9A-Za-z.]*)/', $html, $matches);
+
+    return $matches[1] ?? [];
 
 }
 

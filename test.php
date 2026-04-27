@@ -556,6 +556,33 @@ assert_true(
 
 /*
  * =========================================================================
+ * fetch_title_numbers()
+ * =========================================================================
+ */
+
+echo "Testing fetch_title_numbers...\n";
+
+$library_url = 'https://law.lis.virginia.gov/law-library/';
+$title_numbers_live = @fetch_title_numbers($library_url);
+
+if (empty($title_numbers_live))
+{
+    echo "  SKIP: Could not fetch law library page (network unavailable)\n";
+}
+else
+{
+    assert_true(count($title_numbers_live) > 60, 'law library returns more than 60 titles');
+    assert_true(in_array('1', $title_numbers_live, true), 'Title 1 is in the list');
+    assert_true(in_array('2.2', $title_numbers_live, true), 'Title 2.2 is in the list');
+    assert_true(in_array('8.01', $title_numbers_live, true), 'Title 8.01 is in the list');
+    assert_true(in_array('8.1A', $title_numbers_live, true), 'Title 8.1A is in the list');
+    assert_true(in_array('66', $title_numbers_live, true), 'Title 66 is in the list');
+    echo '  Found ' . count($title_numbers_live) . " titles\n";
+}
+
+
+/*
+ * =========================================================================
  * Live validation: download a title and validate all generated XML
  * =========================================================================
  */

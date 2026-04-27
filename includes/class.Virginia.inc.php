@@ -5,9 +5,9 @@
  *
  * PHP version 5
  *
- * @license		http://www.gnu.org/licenses/gpl.html GPL 3
+ * @license		https://www.gnu.org/licenses/gpl.html GPL 3
  * @version		1.0
- * @link		http://www.statedecoded.com/
+ * @link		https://www.statedecoded.com/
  * @since		0.3
 */
 
@@ -34,7 +34,7 @@ class State
 			return FALSE;
 		}
 		
-		$url = 'http://law.lis.virginia.gov/vacode/' . $this->section_number . '/';
+		$url = 'https://law.lis.virginia.gov/vacode/' . $this->section_number . '/';
 		
 		/*
 		 * Make this variable available externally.

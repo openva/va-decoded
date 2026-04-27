@@ -38,7 +38,7 @@ define('SITE_TITLE', 'The State Decoded');
 /*
  * Set the main site url.
  */
-$url = 'http://';
+$url = 'https://';
 if ( (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ||
 	($_SERVER['SERVER_PORT'] == 443) )
 {
@@ -52,12 +52,12 @@ if(isset($_SERVER['SERVER_NAME']))
 /*
  * Define the site's URL. This can be defined manually by removing the below stanza, leaving just:
  *
- * define('SITE_URL', 'http://example.com:1234');
+ * define('SITE_URL', 'https://example.com:1234');
  *
  * substituting, of course, your site's protocol, domain name, and port (if you're using a non-
  * standard port).
  */
-$url = 'http://';
+$url = 'https://';
 if ( (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') || ($_SERVER['SERVER_PORT'] == 443) )
 {
 	$url = 'https://';
@@ -130,8 +130,8 @@ define('INCLUDES_REPEALED', TRUE);
 
 /*
  * Should we use short URLs or long URLs for laws? Short URLs are the default (e.g.,
- * <http://example.com/12.3-45:67/>), but if laws have non-unique identifiers, then you'll need to
- * use long URLs (e.g. <http://example.com/56/21/12.3-45:67/>), which are URLs that incorporate
+ * <https://example.com/12.3-45:67/>), but if laws have non-unique identifiers, then you'll need to
+ * use long URLs (e.g. <https://example.com/56/21/12.3-45:67/>), which are URLs that incorporate
  * the structures that contain each law.
  */
 define('LAW_LONG_URLS', FALSE);

@@ -3,7 +3,7 @@
 /**
  * The state-specific function library for The State Decoded.
  *
- * PHP version 5
+ * PHP version 8
  *
  * @license		https://www.gnu.org/licenses/gpl.html GPL 3
  * @version		1.0
@@ -18,6 +18,7 @@ require_once(INCLUDE_PATH . 'class.Permalink.inc.php');
  * This class may be populated with custom functions.
  */
 
+#[\AllowDynamicProperties]
 class State
 {
 
@@ -336,7 +337,7 @@ class State
 				// Port the fields that we need from $opinion to $this->decisions.
 				if (html_entity_decode(strlen(strip_tags($opinion->caseName))) > 60)
 				{
-					$this->decisions->{$i}->name = ' . . . ' . array_shift(explode("\n", wordwrap(html_entity_decode(strip_tags($opinion->caseName)), 60))) . ' . . . ';
+					$this->decisions->{$i}->name = ' . . . ' . array_shift(explode("\n", wordwrap(html_entity_decode(strip_tags($opinion->caseName)), 60)))[0] . ' . . . ';
 				}
 				else
 				{
@@ -346,7 +347,7 @@ class State
 				$this->decisions->{$i}->citation = $opinion->citation[0];
 				$this->decisions->{$i}->date = date('Y-m-d', strtotime($opinion->dateFiled));
 				$this->decisions->{$i}->url = 'https://www.courtlistener.com' . $opinion->absolute_url;
-				$this->decisions->{$i}->abstract = ' . . . ' . array_shift(explode("\n", wordwrap(html_entity_decode(strip_tags($opinion->snippet)), 100))) . ' . . . ';
+				$this->decisions->{$i}->abstract = ' . . . ' . array_shift(explode("\n", wordwrap(html_entity_decode(strip_tags($opinion->snippet)), 100)))[0] . ' . . . ';
 
 				if ($opinion->court == 'Court of Appeals of Virginia')
 				{
@@ -390,6 +391,7 @@ class State
  * prescribed XML format <https://github.com/statedecoded/statedecoded/wiki/XML-Format-for-Parser>,
  * and serves as a guide for those who want to parse an alternate format.
  */
+#[\AllowDynamicProperties]
 class Parser
 {
 
@@ -736,7 +738,25 @@ class Parser
 
 		$this->i=0;
 
-		$this->recurse($this->section->text->children());
+		$children = $this->section->text->children();
+		if (!$this->section->text->hasElementChildren())
+		{
+			/*
+			 * Plain text with no child elements — treat the whole <text> block as one section.
+			 */
+			$plain = trim((string) $this->section->text);
+			if ($plain !== '')
+			{
+				$this->code->section[0] = new stdClass();
+				$this->code->section[0]->text = $plain;
+				$this->code->text = $plain;
+				$this->i = 1;
+			}
+		}
+		else
+		{
+			$this->recurse($children);
+		}
 
 		/*
 		 * If there any tags, store those, too.
@@ -933,7 +953,7 @@ class Parser
 					 * structural unit identifier is "0" (Virginia does this), we check the string
 					 * length, rather than using empty().
 					 */
-					if (strlen($value) > 0)
+					if (isset($value) && strlen($value) > 0)
 					{
 						$identifier_parts[] = urlencode($value);
 					}
@@ -2074,7 +2094,7 @@ class Parser
 									 * If there are any lowercase characters, then make the whole
 									 * thing lowercase.
 									 */
-									if ( (ord($term{$i}) >= 97) && (ord($term{$i}) <= 122) )
+									if ( ctype_lower($term[$i]) )
 									{
 										$term = strtolower($term);
 										break;
@@ -2226,6 +2246,7 @@ class Parser
 				:structure_id, now(), :edition_id)';
 		$statement = $this->db->prepare($sql);
 
+		$result = FALSE;
 		foreach ($this->terms as $term => $definition)
 		{
 
@@ -2251,12 +2272,6 @@ class Parser
 			$result = $statement->execute();
 
 		}
-
-
-		/*
-		 * Memory management.
-		 */
-		unset($this);
 
 		return $result;
 
@@ -2401,7 +2416,8 @@ class Parser
 		 */
 		$updates = explode('; ', $this->history);
 
-		$i=0;
+		$i = 0;
+		$final = new stdClass();
 		foreach ($updates as &$update)
 		{
 
@@ -2503,7 +2519,7 @@ class Parser
 
 		}
 
-		if ( isset($final) && is_object($final) )
+		if ( is_object($final) )
 		{
 			return $final;
 		}

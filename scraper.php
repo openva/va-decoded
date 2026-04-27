@@ -334,12 +334,9 @@ function extract_history(array $paragraphs): string
 /**
  * Build the <text> element contents from an array of paragraph strings.
  *
- * Detects subsection prefixes and wraps them in <section prefix=""> elements.
- * Supported prefixes:
- *   A. B. C. ... (uppercase letter followed by period)
- *   A1. B2. C1. ... (uppercase letter + digit followed by period)
- *   1. 2. 3. ... (number followed by period)
- *   (a) (b) (1) (2) (i) (ii) etc. (parenthesized)
+ * Nesting level is determined dynamically per-law: the first prefix pattern
+ * encountered becomes level 1, the second distinct pattern type becomes
+ * level 2, and so on. Pattern type is determined by classify_prefix().
  */
 function build_text_xml(array $paragraphs): string
 {
@@ -350,35 +347,108 @@ function build_text_xml(array $paragraphs): string
     }
 
     $xml = '';
+    $stack = [];           // Each entry: ['level' => int, 'indent' => string]
+    $pattern_levels = [];  // Maps pattern type string → assigned level int
+    $next_level = 1;
 
     foreach ($paragraphs as $paragraph)
     {
 
-        $prefix = detect_prefix($paragraph);
+        $raw_prefix = detect_prefix($paragraph);
 
-        if ($prefix !== null)
+        if ($raw_prefix !== null)
         {
-            /*
-             * Remove the prefix from the start of the paragraph text.
-             */
-            $text = trim(substr($paragraph, strlen($prefix)));
-            $prefix_clean = rtrim(trim($prefix), '.');
+            $text = trim(substr($paragraph, strlen($raw_prefix)));
+            $prefix_clean = rtrim(trim($raw_prefix), '.');
             $prefix_clean = trim($prefix_clean, '()');
 
-            $xml .= "\t\t<section prefix=\""
+            $pattern = classify_prefix($raw_prefix);
+            if (!isset($pattern_levels[$pattern]))
+            {
+                $pattern_levels[$pattern] = $next_level++;
+            }
+            $level = $pattern_levels[$pattern];
+
+            /*
+             * Close any open sections at the same or deeper nesting level.
+             */
+            while (!empty($stack) && end($stack)['level'] >= $level)
+            {
+                $top = array_pop($stack);
+                $xml .= $top['indent'] . "</section>\n";
+            }
+
+            $indent = str_repeat("\t", count($stack) + 2);
+
+            $xml .= $indent . '<section prefix="'
                 . htmlspecialchars($prefix_clean, ENT_XML1, 'UTF-8')
                 . '">'
                 . htmlspecialchars($text, ENT_XML1, 'UTF-8')
-                . "</section>\n";
+                . "\n";
+
+            $stack[] = ['level' => $level, 'indent' => $indent];
         }
         else
         {
-            $xml .= "\t\t" . htmlspecialchars($paragraph, ENT_XML1, 'UTF-8') . "\n";
+            $indent = str_repeat("\t", count($stack) + 2);
+            $xml .= $indent . htmlspecialchars($paragraph, ENT_XML1, 'UTF-8') . "\n";
         }
 
     }
 
+    /*
+     * Close any sections still open at end of content.
+     */
+    while (!empty($stack))
+    {
+        $top = array_pop($stack);
+        $xml .= $top['indent'] . "</section>\n";
+    }
+
     return $xml;
+
+}
+
+
+/**
+ * Classify a raw prefix string into a pattern type for hierarchy assignment.
+ *
+ * Five pattern types are recognised:
+ *   upper_letter  — A., B., A1.   (uppercase letter, optional trailing digit)
+ *   number        — 1., 2., 3.    (bare integer)
+ *   paren_letter  — (a), (A)      (parenthesised single letter)
+ *   paren_digit   — (1), (10)     (parenthesised integer, any width)
+ *   paren_multi   — (ii), (iii)   (parenthesised multi-char non-digit)
+ */
+function classify_prefix(string $raw_prefix): string
+{
+
+    if (preg_match('/^\(\d+\)/', $raw_prefix))
+    {
+        return 'paren_digit';
+    }
+
+    if (preg_match('/^\([a-zA-Z]\)/', $raw_prefix))
+    {
+        return 'paren_letter';
+    }
+
+    if (preg_match('/^\([^)]{2,}\)/', $raw_prefix))
+    {
+        return 'paren_multi';
+    }
+
+    if (preg_match('/^[A-Z]/', $raw_prefix))
+    {
+        return 'upper_letter';
+    }
+
+    if (preg_match('/^\d/', $raw_prefix))
+    {
+        return 'number';
+    }
+
+    return 'unknown';
 
 }
 

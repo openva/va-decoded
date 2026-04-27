@@ -344,6 +344,27 @@ assert_true(
 
 /*
  * =========================================================================
+ * classify_prefix()
+ * =========================================================================
+ */
+
+echo "Testing classify_prefix...\n";
+
+assert_equal('upper_letter', classify_prefix('A. '),   'A. is upper_letter');
+assert_equal('upper_letter', classify_prefix('Z. '),   'Z. is upper_letter');
+assert_equal('upper_letter', classify_prefix('A1. '),  'A1. is upper_letter');
+assert_equal('number',       classify_prefix('1. '),   '1. is number');
+assert_equal('number',       classify_prefix('12. '),  '12. is number');
+assert_equal('paren_letter', classify_prefix('(a) '),  '(a) is paren_letter');
+assert_equal('paren_letter', classify_prefix('(A) '),  '(A) is paren_letter');
+assert_equal('paren_digit',  classify_prefix('(1) '),  '(1) is paren_digit');
+assert_equal('paren_digit',  classify_prefix('(10) '), '(10) is paren_digit');
+assert_equal('paren_multi',  classify_prefix('(ii) '), '(ii) is paren_multi');
+assert_equal('paren_multi',  classify_prefix('(iii) '),'(iii) is paren_multi');
+
+
+/*
+ * =========================================================================
  * build_text_xml()
  * =========================================================================
  */
@@ -364,22 +385,51 @@ assert_true(
 
 $text_sub = build_text_xml(['A. First subsection.', 'B. Second subsection.']);
 assert_true(
-    strpos($text_sub, '<section prefix="A">First subsection.</section>') !== false,
+    strpos($text_sub, '<section prefix="A">First subsection.') !== false,
     'A. prefix is parsed into section element'
 );
 assert_true(
-    strpos($text_sub, '<section prefix="B">Second subsection.</section>') !== false,
+    strpos($text_sub, '<section prefix="B">Second subsection.') !== false,
     'B. prefix is parsed into section element'
 );
 
 $text_paren = build_text_xml(['(a) Lowercase paren.', '(1) Numbered paren.']);
 assert_true(
-    strpos($text_paren, '<section prefix="a">Lowercase paren.</section>') !== false,
+    strpos($text_paren, '<section prefix="a">Lowercase paren.') !== false,
     '(a) prefix is parsed, parens stripped'
 );
 assert_true(
-    strpos($text_paren, '<section prefix="1">Numbered paren.</section>') !== false,
+    strpos($text_paren, '<section prefix="1">Numbered paren.') !== false,
     '(1) prefix is parsed, parens stripped'
+);
+$dom_paren = new DOMDocument();
+$dom_paren->loadXML("<?xml version=\"1.0\"?>\n<text>\n" . $text_paren . "</text>");
+$xpath_paren = new DOMXPath($dom_paren);
+assert_true(
+    $xpath_paren->query('//section[@prefix="a"]/section[@prefix="1"]')->length === 1,
+    'paren_digit (1) is nested inside paren_letter (a) when it appears second'
+);
+
+$text_nested = build_text_xml(['B. Intro.', '1. First.', '2. Second.', 'C. Next.']);
+$dom_nested = new DOMDocument();
+$dom_nested->loadXML("<?xml version=\"1.0\"?>\n<text>\n" . $text_nested . "</text>");
+$xpath = new DOMXPath($dom_nested);
+$section_1 = $xpath->query('//section[@prefix="1"]')->item(0);
+assert_true(
+    $section_1 !== null && $section_1->parentNode->getAttribute('prefix') === 'B',
+    'numbered section is nested inside letter section'
+);
+assert_true(
+    $xpath->query('//section[@prefix="B"]/section[@prefix="1"]')->length === 1,
+    'section 1 is a direct child of section B'
+);
+assert_true(
+    $xpath->query('//section[@prefix="B"]/section[@prefix="2"]')->length === 1,
+    'section 2 is a direct child of section B'
+);
+assert_true(
+    $xpath->query('/text/section[@prefix="C"]')->length === 1,
+    'section C is a top-level sibling of B, not nested inside it'
 );
 
 
@@ -422,11 +472,11 @@ assert_true(
     'catch_line is correct'
 );
 assert_true(
-    strpos($xml, '<section prefix="A">First provision.</section>') !== false,
+    strpos($xml, '<section prefix="A">First provision.') !== false,
     'subsection A is in text'
 );
 assert_true(
-    strpos($xml, '<section prefix="B">Second provision.</section>') !== false,
+    strpos($xml, '<section prefix="B">Second provision.') !== false,
     'subsection B is in text'
 );
 assert_true(

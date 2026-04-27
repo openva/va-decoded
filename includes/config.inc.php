@@ -211,7 +211,7 @@ define('SEARCH_CONFIG', json_encode(
 	array(
 		// By default, we use Solr.  You can also use 'SqlSearchEngine'
 		// to just use the database search with no external search engine.
-		'engine' => 'SolrSearchEngine',
+		'engine' => 'SqlSearchEngine',
 		// Our host configuration from solr.
 		'host' => 'localhost',
 		'port' => 8983,

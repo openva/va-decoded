@@ -18,6 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: statedecoded/statedecoded
+          ref: modernize
           path: statedecoded
 
       - name: Set up PHP 8.3

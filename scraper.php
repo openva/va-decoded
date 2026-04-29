@@ -391,7 +391,7 @@ function build_text_xml(array $paragraphs): string
         else
         {
             $indent = str_repeat("\t", count($stack) + 2);
-            $xml .= $indent . htmlspecialchars($paragraph, ENT_XML1, 'UTF-8') . "\n";
+            $xml .= $indent . htmlspecialchars($paragraph, ENT_XML1, 'UTF-8') . "\n\n";
         }
 
     }

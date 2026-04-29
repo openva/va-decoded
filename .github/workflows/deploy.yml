@@ -1,0 +1,127 @@
+name: Deploy
+
+on:
+  push:
+    branches: [dev]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out va-decoded (configuration)
+        uses: actions/checkout@v4
+        with:
+          path: va-decoded
+
+      - name: Check out statedecoded
+        uses: actions/checkout@v4
+        with:
+          repository: statedecoded/statedecoded
+          path: statedecoded
+
+      - name: Set up PHP 8.3
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: pdo_mysql, intl, xsl, zip, gd, tidy, mbstring
+          tools: composer
+          coverage: none
+
+      - name: Apply Virginia configuration
+        env:
+          PDO_DSN: ${{ secrets.PDO_DSN }}
+          PDO_USERNAME: ${{ secrets.PDO_USERNAME }}
+          PDO_PASSWORD: ${{ secrets.PDO_PASSWORD }}
+          ADMIN_USERNAME: ${{ secrets.ADMIN_USERNAME }}
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+        run: |
+          cp va-decoded/includes/class.Virginia.inc.php \
+             statedecoded/includes/class.State.inc.php
+
+          python3 - <<'EOF'
+          import os, re
+
+          with open('va-decoded/includes/config.inc.php') as f:
+              config = f.read()
+
+          replacements = {
+              "define('PDO_DSN', 'mysql:dbname=statedecoded;host=localhost;charset=utf8')":
+                  f"define('PDO_DSN', '{os.environ['PDO_DSN']}')",
+              "define('PDO_USERNAME', 'username')":
+                  f"define('PDO_USERNAME', '{os.environ['PDO_USERNAME']}')",
+              "define('PDO_PASSWORD', 'password')":
+                  f"define('PDO_PASSWORD', '{os.environ['PDO_PASSWORD']}')",
+              "define('ADMIN_USERNAME', '')":
+                  f"define('ADMIN_USERNAME', '{os.environ['ADMIN_USERNAME']}')",
+              "define('ADMIN_PASSWORD', '')":
+                  f"define('ADMIN_PASSWORD', '{os.environ['ADMIN_PASSWORD']}')",
+          }
+
+          for old, new in replacements.items():
+              config = config.replace(old, new)
+
+          with open('statedecoded/includes/config.inc.php', 'w') as f:
+              f.write(config)
+          EOF
+
+      - name: Cache Composer packages
+        uses: actions/cache@v4
+        with:
+          path: statedecoded/vendor
+          key: composer-${{ hashFiles('statedecoded/composer.lock') }}
+          restore-keys: composer-
+
+      - name: Install Composer dependencies
+        working-directory: statedecoded
+        run: composer install --no-dev --no-interaction --prefer-dist
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Cache npm packages
+        uses: actions/cache@v4
+        with:
+          path: statedecoded/node_modules
+          key: npm-${{ hashFiles('statedecoded/package.json') }}
+          restore-keys: npm-
+
+      - name: Build front-end assets
+        working-directory: statedecoded
+        run: npm ci && npm run build
+
+      - name: Assemble CodeDeploy bundle
+        run: |
+          cp va-decoded/.github/deploy/appspec.yml statedecoded/appspec.yml
+          mkdir -p statedecoded/.github/deploy
+          cp -r va-decoded/.github/deploy/scripts statedecoded/.github/deploy/scripts
+          chmod +x statedecoded/.github/deploy/scripts/*.sh
+          cd statedecoded
+          zip -qr ../deployment.zip . \
+            -x '.git' \
+            -x '.git/*' \
+            -x 'node_modules/*' \
+            -x 'tests/*'
+
+      - name: Upload bundle to S3
+        run: |
+          aws s3 cp deployment.zip \
+            s3://${{ secrets.S3_BUCKET }}/statedecoded/deployment.zip
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: ${{ secrets.AWS_REGION }}
+
+      - name: Create CodeDeploy deployment
+        run: |
+          aws deploy create-deployment \
+            --application-name ${{ secrets.CODEDEPLOY_APP_NAME }} \
+            --deployment-group-name ${{ secrets.CODEDEPLOY_DEPLOYMENT_GROUP }} \
+            --s3-location bucket=${{ secrets.S3_BUCKET }},key=statedecoded/deployment.zip,bundleType=zip \
+            --description "Deploy from ${{ github.sha }}"
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: ${{ secrets.AWS_REGION }}

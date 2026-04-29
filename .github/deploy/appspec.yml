@@ -1,0 +1,14 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /var/www/vacode.org
+hooks:
+  BeforeInstall:
+    - location: .github/deploy/scripts/before_install.sh
+      timeout: 120
+      runas: root
+  AfterInstall:
+    - location: .github/deploy/scripts/after_install.sh
+      timeout: 120
+      runas: root

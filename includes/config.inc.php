@@ -139,15 +139,15 @@ define('LAW_LONG_URLS', FALSE);
 /*
  * The DSN to connect to MySQL.
  */
-define('PDO_DSN', 'mysql:dbname=statedecoded;host=localhost;charset=utf8');
-define('PDO_USERNAME', 'username');
-define('PDO_PASSWORD', 'password');
+define('PDO_DSN', '__PDO_DSN__');
+define('PDO_USERNAME', '__PDO_USERNAME__');
+define('PDO_PASSWORD', '__PDO_PASSWORD__');
 
 /*
  * The username and password required to use the administrative backend (the importer, etc.)
  */
-define('ADMIN_USERNAME', '');
-define('ADMIN_PASSWORD', '');
+define('ADMIN_USERNAME', '__ADMIN_USERNAME__');
+define('ADMIN_PASSWORD', '__ADMIN_PASSWORD__');
 
 /*
  * Specify the structural identifier ancestry for the unit of the code that contains definitions of

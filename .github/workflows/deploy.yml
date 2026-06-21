@@ -41,31 +41,14 @@ jobs:
           cp va-decoded/includes/class.Virginia.inc.php \
              statedecoded/includes/class.State.inc.php
 
-          python3 - <<'EOF'
-          import os, re
-
-          with open('va-decoded/includes/config.inc.php') as f:
-              config = f.read()
-
-          replacements = {
-              "define('PDO_DSN', 'mysql:dbname=statedecoded;host=localhost;charset=utf8')":
-                  f"define('PDO_DSN', '{os.environ['PDO_DSN']}')",
-              "define('PDO_USERNAME', 'username')":
-                  f"define('PDO_USERNAME', '{os.environ['PDO_USERNAME']}')",
-              "define('PDO_PASSWORD', 'password')":
-                  f"define('PDO_PASSWORD', '{os.environ['PDO_PASSWORD']}')",
-              "define('ADMIN_USERNAME', '')":
-                  f"define('ADMIN_USERNAME', '{os.environ['ADMIN_USERNAME']}')",
-              "define('ADMIN_PASSWORD', '')":
-                  f"define('ADMIN_PASSWORD', '{os.environ['ADMIN_PASSWORD']}')",
-          }
-
-          for old, new in replacements.items():
-              config = config.replace(old, new)
-
-          with open('statedecoded/includes/config.inc.php', 'w') as f:
-              f.write(config)
-          EOF
+          sed \
+            -e "s|__PDO_DSN__|${PDO_DSN}|g" \
+            -e "s|__PDO_USERNAME__|${PDO_USERNAME}|g" \
+            -e "s|__PDO_PASSWORD__|${PDO_PASSWORD}|g" \
+            -e "s|__ADMIN_USERNAME__|${ADMIN_USERNAME}|g" \
+            -e "s|__ADMIN_PASSWORD__|${ADMIN_PASSWORD}|g" \
+            va-decoded/includes/config.inc.php \
+            > statedecoded/includes/config.inc.php
 
       - name: Cache Composer packages
         uses: actions/cache@v4

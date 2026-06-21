@@ -39,7 +39,7 @@ jobs:
           ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
         run: |
           cp va-decoded/includes/class.Virginia.inc.php \
-             statedecoded/includes/class.State.inc.php
+             statedecoded/includes/class.Virginia.inc.php
 
           sed \
             -e "s|__PDO_DSN__|${PDO_DSN}|g" \

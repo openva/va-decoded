@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="1" level="2">Administration Generally</unit>
+		<unit label="article" identifier="3" level="3">Department of Health and State Health Commissioner</unit>
+	</structure>
+	<section_number>32.1-23.3</section_number>
+	<catch_line>Eligible Health Care Provider Reserve Directory</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "eligible health care provider" means (i) any person licensed, registered, or certified by a health regulatory board within the Department of Health Professions whose license, registration, or certification is in good standing, or was in good standing within five years or less prior and only lapsed because such person retired; (ii) any emergency medical services provider certified or licensed by the Department of Health whose certification or licensing is in good standing, or was in good standing within five years or less prior and only lapsed because such person retired; and (iii) any fourth-year medical student who is engaged in a course of study approved by the Board of Medicine and is in good standing with the student's medical school and is scheduled to graduate early or on time who registers for the Eligible Health Care Provider Reserve Directory (the Directory).
+		</section>
+		<section prefix="B">The Department shall establish an Eligible Health Care Provider Reserve Directory to collect information regarding eligible health care providers in the Commonwealth who are qualified and who may be available to assist in the response to a public health emergency. The Directory shall include the name, contact information, and licensure, certification, or registration type and status of the eligible health care provider or, if the eligible health care provider is a fourth-year medical student, academic standing and anticipated graduation date of the fourth-year medical student. Every health regulatory board of the Department of Health Professions, the Office of Emergency Medical Services of the Department of Health, and each medical school located in the Commonwealth, upon the request of a fourth-year medical student, shall provide such information to the Department for inclusion in the Directory.
+		</section>
+		<section prefix="C">During a declared public health emergency, the Governor may request and the Commissioner may provide information regarding eligible health care providers from the Directory. Information obtained from the Directory may be used to (i) identify eligible health care providers who may be able to assist in responding to the public health emergency and (ii) contact such eligible health care providers to request assistance in responding to the public health emergency. Information contained in the Directory shall not be used for any other purpose.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 530.</history>
+</law>

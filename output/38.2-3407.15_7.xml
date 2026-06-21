@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3407.15:7</section_number>
+	<catch_line>Carrier provision of certain information</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Carrier" has the same meaning as provided in § 38.2-3407.15.
+			"Enrollee" has the same meaning as provided in § 38.2-3407.10.
+			"Pharmacy benefits manager" has the same meaning as provided in § 38.2-3465.
+			"Provider" has the same meaning as provided in § 38.2-3407.10.
+		</section>
+		<section prefix="B">Beginning July 1, 2025, any carrier or its pharmacy benefits manager shall provide real-time patient-specific benefit information to enrollees and contracted providers for the office visit, including any out-of-pocket costs and more affordable medication alternatives or prior authorization requirements, and shall ensure that the data is accurate. Such cost information data shall be available to the provider at the point of prescribing in an accessible and understandable format, such as through the provider's e-prescribing system or electronic health record system that the carrier or pharmacy benefits manager or its designated subcontractor has adopted that utilizes the National Council for Prescription Drug Programs SCRIPT standard and the National Council for Prescription Drug Programs Real Time Benefit Standard from which the provider makes the request.
+		</section>
+	</text>
+	<history>2023, cc. 474, 475.</history>
+</law>

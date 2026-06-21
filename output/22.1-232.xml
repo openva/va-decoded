@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="13" level="2">Programs, Courses of Instruction and Textbooks</unit>
+		<unit label="article" identifier="5" level="3">Career and Technical Education Projects</unit>
+	</structure>
+	<section_number>22.1-232</section_number>
+	<catch_line>Contracts</catch_line>
+	<text>
+		<section prefix="A">Where a school board undertakes a career and technical education project by contract with a corporation, the school board may advance, contribute and loan funds to the corporation. The contract shall contain:
+			<section prefix="1">a system of accounting;
+			</section>
+			<section prefix="2">the terms upon which any profits from the sale of the project will be allocated between the school board and the corporation;
+			</section>
+			<section prefix="3">conditions for the return with interest of any funds advanced by the school board;
+			</section>
+			<section prefix="4">a provision that upon the dissolution of the corporation, any assets remaining after payment of just debts shall be transferred to and become the property of the school board;
+			</section>
+			<section prefix="5">a provision that, upon the completion of any project, the school board may determine not to participate in further projects;
+			</section>
+			<section prefix="6">a provision that the school board may at any time require the return of funds to which it is entitled.
+			</section>
+		</section>
+		<section prefix="B">Where the school board contributes or loans funds to the corporation, such contract shall provide for the posting of a bond with surety by the officers of the corporation conditioned to protect the rights of the school board.
+		</section>
+		<section prefix="C">Such contract may provide for the establishment of an escrow fund for the purpose of funding future projects.
+		</section>
+	</text>
+	<history>Code 1950, §§ 22-330.41, 22-330.42; 1974, c. 336; 1980, c. 559; 2001, c. 483.</history>
+</law>

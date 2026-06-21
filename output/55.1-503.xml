@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="5" level="3">Commutation and Valuation of Certain Estates and Interests</unit>
+	</structure>
+	<section_number>55.1-503</section_number>
+	<catch_line>Rules of calculation under § 55.1-502</catch_line>
+	<text>
+		<section prefix="A">Calculate the interest at eight percent upon the sum to the income of which, or upon the value of the property to the use of which, the joint life tenants are entitled. Multiply this interest by the present value of an annuity of $1, as shown in Column II of § 55.1-500, for the joint equal age of such joint life tenants. The joint equal age of such tenants shall be obtained as follows: Take the difference in age in years between such tenants and refer to the table in § 55.1-502 and add to the younger age the value opposite such difference, and the sum is the joint equal age; take this joint equal age and refer to the table in § 55.1-500 and find in Column II the value of an annuity of $1 a year payable for life during such joint equal age. The product of the interest and the value of an annuity for a given joint equal age is the gross value of the joint life estate of such person therein.
+		</section>
+		<section prefix="B">Example: Doe, age 30, and Roe, age 40, are joint tenants for life in the whole of an estate worth $10,500: The difference in ages is 10 and, as shown by the table in § 55.1-502, the value opposite age difference 10 is seven. Seven added to 30, Doe's age, gives 37; as shown by the table in § 55.1-500, the value in Column II for an annuity of $1 for two joint lives at joint equal age 37 is $10.44 and no mills, and this, multiplied by $840 (the interest at eight percent on $10,000), gives $8,769.60 as the gross value of the joint life estate of such persons.
+		</section>
+	</text>
+	<history>1946, p. 556; Michie Suppl. 1946, § 5133a2; Code 1950, § 55-273; 1973, c. 355; 1981, c. 612; 2019, c. 712.</history>
+</law>

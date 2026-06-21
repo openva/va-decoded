@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="III" level="2">Professions and Occupations Regulated by Boards Within the Department of Health Professions</unit>
+		<unit label="chapter" identifier="30" level="3">Nursing</unit>
+		<unit label="article" identifier="4" level="4">Certification of Nurse Aides</unit>
+	</structure>
+	<section_number>54.1-3025</section_number>
+	<catch_line>Certification by competency evaluation</catch_line>
+	<text>
+		All applicants except those certified by endorsement shall be required to pass a clinical competency evaluation. Such evaluation shall be in written or oral form and shall include the following areas:
+		<section prefix="1">Basic nursing skills;
+		</section>
+		<section prefix="2">Personal care skills;
+		</section>
+		<section prefix="3">Recognition of mental health and social services needs;
+		</section>
+		<section prefix="4">Basic restorative services; and
+		</section>
+		<section prefix="5">Resident or patient rights.
+		</section>
+	</text>
+	<history>1989, c. 278.</history>
+</law>

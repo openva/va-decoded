@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="44.1" level="2">Automatic Dialing-Announcing Devices</unit>
+	</structure>
+	<section_number>59.1-518.3</section_number>
+	<catch_line>Disconnect requirement</catch_line>
+	<text>
+		A caller shall not use an automatic dialing-announcing device or other device that disseminates a prerecorded or synthesized voice message to the telephone number called unless the device is designed and operated to disconnect, disengage, or terminate within five seconds after the party called terminates the telephone call by any method that is in accordance with normal operating procedures of his telephone receiver.
+	</text>
+	<history>2009, c. 699.</history>
+</law>

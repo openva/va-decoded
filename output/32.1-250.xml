@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="7" level="2">Vital Records</unit>
+		<unit label="article" identifier="1" level="3">Definitions and Administrative Provisions</unit>
+	</structure>
+	<section_number>32.1-250</section_number>
+	<catch_line>Duties of Board</catch_line>
+	<text>
+		<section prefix="A">The Board shall install, maintain and operate the only system of vital records throughout this Commonwealth.
+			B, C. [Repealed.]
+		</section>
+	</text>
+	<history>Code 1950, §§ 32-353.5, 32-353.6; 1960, c. 451; 1979, c. 711; 1983, c. 240.</history>
+</law>

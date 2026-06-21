@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="8" level="3">Dissolution</unit>
+	</structure>
+	<section_number>50-73.49</section_number>
+	<catch_line>Dissolution generally</catch_line>
+	<text>
+		A limited partnership formed under this chapter or that has filed an amended and restated certificate of limited partnership in compliance with subsection D of § 50-73.77 is dissolved and its affairs shall be wound up upon the happening of the first to occur of the following events:
+		<section prefix="1">At the time or upon the occurrence of any events specified in the certificate of limited partnership or in writing in the partnership agreement;
+		</section>
+		<section prefix="2">Upon the unanimous written consent of the partners;
+		</section>
+		<section prefix="3">Upon an event of withdrawal of a general partner unless:
+			a. At the time there is at least one other general partner, in which event, unless otherwise provided in the written provisions of the partnership agreement or agreed upon by all remaining partners, the limited partnership is not dissolved and is not required to be wound up by reason of the event of withdrawal; or
+			b. Within 90 days after the withdrawal, all remaining partners agree in writing to continue the business of the limited partnership and to the appointment of one or more additional general partners if necessary or desired, in which event the limited partnership is not dissolved and is not required to be wound up by reason of the event of withdrawal;
+		</section>
+		<section prefix="4">Entry of a decree of judicial dissolution under § 50-73.50;
+		</section>
+		<section prefix="5">Automatic cancellation of its existence pursuant to § 50-73.52:5; or
+		</section>
+		<section prefix="6">Involuntary cancellation of its existence pursuant to § 50-73.52:6.
+		</section>
+	</text>
+	<history>1985, c. 607; 1987, c. 702; 1996, c. 255; 2007, c. 631; 2008, cc. 586, 588, 770; 2009, c. 167; 2015, c. 614.</history>
+</law>

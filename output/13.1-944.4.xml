@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="17.1" level="3">Conversion to a Limited Liability Company</unit>
+	</structure>
+	<section_number>13.1-944.4</section_number>
+	<catch_line>Action on plan of entity conversion</catch_line>
+	<text>
+		<section prefix="A">Where the corporation has no members, or no members having voting rights, the plan shall be adopted upon receiving the vote of at least two-thirds of the directors in office.
+		</section>
+		<section prefix="B">Where there are members of the corporation having voting rights:
+			<section prefix="1">The plan of entity conversion shall be adopted by the board of directors;
+			</section>
+			<section prefix="2">After adopting the plan of entity conversion, the board of directors shall submit the plan to the members for their approval. The board of directors shall also transmit to the members a recommendation that the members approve the plan, unless the board of directors determines that because of conflicts of interest or other special circumstances it should not make such a recommendation, in which case the board of directors shall transmit to the members the basis for that determination; and
+			</section>
+			<section prefix="3">The voting members shall approve the plan as provided in subdivision C 3.
+			</section>
+		</section>
+		<section prefix="C">When a plan of entity conversion is to be approved by the members in accordance with subsection B:
+			<section prefix="1">The board of directors may condition its submission of the plan of entity conversion to the members on any basis;
+			</section>
+			<section prefix="2">The corporation shall notify each member, whether or not entitled to vote, of the proposed members' meeting in accordance with § 13.1-842 at which the plan of entity conversion is to be submitted for approval. The notice shall also state that the purpose, or one of the purposes, of the meeting is to consider the plan and shall contain or be accompanied by a copy of the plan; and
+			</section>
+			<section prefix="3">Unless this chapter or the board of directors, acting pursuant to subdivision 1, requires a greater vote, the plan of entity conversion shall be approved by each voting group entitled to vote on the plan by more than two-thirds of all the votes entitled to be cast by that voting group. The articles of incorporation may provide for a greater or lesser vote than that provided for in this subsection or a vote by separate voting groups so long as the vote provided for is not less than a majority of all the votes cast on the plan by each voting group entitled to vote on the plan at a meeting at which a quorum of the voting group exists.
+			</section>
+		</section>
+	</text>
+	<history>2012, c. 706.</history>
+</law>

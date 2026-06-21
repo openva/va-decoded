@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="9" level="4">Taxation of Partnerships</unit>
+	</structure>
+	<section_number>58.1-390.2</section_number>
+	<catch_line>Taxation of pass-through entities</catch_line>
+	<text>
+		Except as provided for in this article, owners of pass-through entities shall be liable for tax under this chapter only in their separate or individual capacities on income passed through to the owners of pass-through entities. Any taxes imposed on the pass-through entity itself, including the tax levied pursuant to § 58.1-390.3, sales and use taxes, withholding taxes with respect to employees or nonresident owners, and minimum taxes in lieu of income taxes, shall be paid by the pass-through entity.
+	</text>
+	<history>2004, Sp. Sess. I, c. 3; 2009, cc. 37, 152; 2022, cc. 689, 690.</history>
+</law>

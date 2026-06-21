@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="42.1" level="2">Uniform Electronic Transactions Act</unit>
+	</structure>
+	<section_number>59.1-496</section_number>
+	<catch_line>Acceptance and distribution of electronic records by public bodies; electronic filing of information permitted</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in subsection (f) of § 59.1-490, and upon providing protection to preserve security and confidentiality, public bodies of the Commonwealth may (i) accept the electronic filing of any information required or permitted to be filed with such public body and (ii) prescribe the methods of executing, recording, reproducing, and certifying electronically filed information pursuant to subsection (b). Unless otherwise provided for in the Code of Virginia, electronic filing in the courts of this Commonwealth shall be governed by the Rules adopted by the Supreme Court of Virginia.
+		</section>
+		<section prefix="b">To the extent that public bodies of the Commonwealth use electronic records and electronic signatures and accept electronic filings under subsection (a), the following rules apply:
+			<section prefix="1">Public bodies of the Commonwealth may specify the manner and format in which the electronic records must be created, generated, sent, communicated, received, and stored and the systems established for those purposes;
+			</section>
+			<section prefix="2">Public bodies of the Commonwealth may specify the type of electronic signature required, the manner and format in which the electronic signature must be affixed to the electronic record, and the identity of, or criteria that must be met by, any third party used by a person filing a document to facilitate the process;
+			</section>
+			<section prefix="3">Public bodies of the Commonwealth may specify control processes and procedures as appropriate to ensure adequate preservation, disposition, integrity, security, confidentiality, and auditability of electronic records; and
+			</section>
+			<section prefix="4">Public bodies of the Commonwealth may establish other criteria to ensure the authenticity and validity of electronic signatures.
+			</section>
+		</section>
+		<section prefix="c">Except as otherwise provided in § 59.1-490 (f), this chapter does not require public bodies of the Commonwealth to use or permit the use of electronic records or signatures.
+		</section>
+	</text>
+	<history>2000, c. 995.</history>
+</law>

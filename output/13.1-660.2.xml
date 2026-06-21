@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Shareholders</unit>
+	</structure>
+	<section_number>13.1-660.2</section_number>
+	<catch_line>Remote participation in shareholders' meetings</catch_line>
+	<text>
+		<section prefix="A">Shareholders of any class or series of shares may participate in any meeting of shareholders by means of remote communication to the extent the board of directors authorizes such participation for such class or series. Participation as a shareholder by means of remote communication shall be subject to such guidelines and procedures as the board of directors adopts.
+		</section>
+		<section prefix="B">Shareholders participating in a shareholders' meeting by means of remote communication shall be deemed present and may vote at such a meeting if the corporation has implemented reasonable measures to:
+			<section prefix="1">Verify that each person participating remotely as a shareholder is a shareholder or a shareholder's proxy; and
+			</section>
+			<section prefix="2">Provide such shareholders a reasonable opportunity to participate in the meeting and to vote on matters submitted to the shareholders, including an opportunity to read or hear the proceedings of the meeting, substantially concurrently with such proceedings.
+			</section>
+		</section>
+		<section prefix="C">Unless the articles of incorporation or bylaws require the meeting of shareholders to be held at a place, the board of directors may determine that any meeting of shareholders shall not be held at any place and shall instead be held solely by means of remote communication in conformity with subsection B.
+		</section>
+	</text>
+	<history>2010, c. 782; 2017, c. 646; 2019, c. 734.</history>
+</law>

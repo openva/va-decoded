@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="37.1" level="2">Credit Life Insurance and Credit Accident and Sickness Insurance</unit>
+	</structure>
+	<section_number>38.2-3723</section_number>
+	<catch_line>Reserves</catch_line>
+	<text>
+		<section prefix="A">Each insurer licensed to write credit life insurance in the Commonwealth shall establish and maintain reserves on all its credit life insurance. The minimum standard for the valuation for such reserves:
+			<section prefix="1">For both male and female insureds shall be the 2001 Commissioners' Standard Ordinary (CSO) Male Composite Ultimate Mortality Table as adopted by the National Association of Insurance Commissioners;
+			</section>
+			<section prefix="2">Where the credit life policy or certificate insures two lives shall be twice the 2001 CSO Male Composite Ultimate Mortality Table based on the age of the older insured;
+			</section>
+			<section prefix="3">Shall use, for the interest rate calculation, the calendar year statutory valuation interest rates determined pursuant to § 38.2-1371; and
+			</section>
+			<section prefix="4">Shall use, as the method of valuation, the Commissioners reserve valuation method set forth in § 38.2-1372.
+				Reserves may be calculated on an annual or a monthly basis with a reasonable assumption, subject to statistical proof, as to average ages at issue or at expiration.
+			</section>
+		</section>
+		<section prefix="B">Each insurer licensed to write credit accident and sickness insurance in the Commonwealth shall establish and maintain reserves on all its credit accident and sickness insurance. For contracts other than single premium credit disability contracts, the minimum standard for the valuation of such reserves shall be the total gross unearned premiums calculated by the actuarial method, but not less than the aggregate amounts calculated as of the valuation date by the refund formulas approved for the policies by the Commission pursuant to subsection C of § 38.2-3729. For single premium credit disability contracts, the minimum standard for valuation of such reserves:
+			<section prefix="1">For plans having less than a 15-day elimination period, the morbidity standard shall be the 1985 Commissioners' Individual Disability Table A as adopted by the NAIC (85CIDA) with claim incidence rates increased by 12 percent;
+			</section>
+			<section prefix="2">For plans having a greater than 14-day elimination period, the morbidity standard shall be the 85CIDA for a 14-day elimination period with claim incidence rates increased by 12 percent; and
+			</section>
+			<section prefix="3">The interest rate used shall be the calendar year statutory valuation interest rate for valuation of whole life insurance determined pursuant to § 38.2-1371.
+				It may be assumed that all business written in any calendar month was written as of the fifteenth of such month.
+			</section>
+		</section>
+		<section prefix="C">For all credit life and disability contracts in the aggregate, if the net premium refund liability exceeds the aggregate recorded contract reserve, the insurer shall establish an additional reserve liability that is equal to the excess of the net refund liability over the contract reserve recorded. The net refund liability may include consideration of commission, premium tax, and other expenses recoverable. In all cases, such amounts shall be evaluated for probability of recovery.
+		</section>
+		<section prefix="D">In no event shall the aggregate reserves for all policies, contracts and benefits be less than the aggregate reserves determined by a qualified actuary to be necessary to support fully the insurer's obligations under its policies, certificates and contracts.
+		</section>
+	</text>
+	<history>1982, c. 223, § 38.1-482.12:1; 1986, c. 562, § 38.2-3715; 1992, c. 586; 2002, c. 72; 2009, c. 642; 2014, c. 571.</history>
+</law>

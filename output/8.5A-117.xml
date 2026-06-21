@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.5A" level="1">Uniform Commercial Code — Letters of Credit</unit>
+	</structure>
+	<section_number>8.5A-117</section_number>
+	<catch_line>Subrogation of issuer, applicant, and nominated person</catch_line>
+	<text>
+		<section prefix="a">An issuer that honors a beneficiary's presentation is subrogated to the rights of the beneficiary to the same extent as if the issuer were a secondary obligor of the underlying obligation owed to the beneficiary and of the applicant to the same extent as if the issuer were the secondary obligor of the underlying obligation owed to the applicant.
+		</section>
+		<section prefix="b">An applicant that reimburses an issuer is subrogated to the rights of the issuer against any beneficiary, presenter, or nominated person to the same extent as if the applicant were the secondary obligor of the obligations owed to the issuer and has the rights of subrogation of the issuer to the rights of the beneficiary stated in subsection (a).
+		</section>
+		<section prefix="c">A nominated person who pays or gives value against a draft or demand presented under a letter of credit is subrogated to the rights of:
+			<section prefix="1">the issuer against the applicant to the same extent as if the nominated person were a secondary obligor of the obligation owed to the issuer by the applicant;
+			</section>
+			<section prefix="2">the beneficiary to the same extent as if the nominated person were a secondary obligor of the underlying obligation owed to the beneficiary; and
+			</section>
+			<section prefix="3">the applicant to same extent as if the nominated person were a secondary obligor of the underlying obligation owed to the applicant.
+			</section>
+		</section>
+		<section prefix="d">Notwithstanding any agreement or term to the contrary, the rights of subrogation stated in subsections (a) and (b) do not arise until the issuer honors the letter of credit or otherwise pays, and the rights in subsection (c) do not arise until the nominated person pays or otherwise gives value. Until then, the issuer, nominated person, and the applicant do not derive under this section present or prospective rights forming the basis of a claim, defense, or excuse.
+		</section>
+	</text>
+	<history>1997, c. 343.</history>
+</law>

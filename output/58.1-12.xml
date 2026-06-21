@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="chapter" identifier="0" level="2">General Provisions of Title 58.1</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>58.1-12</section_number>
+	<catch_line>Payment of tax by bad check</catch_line>
+	<text>
+		<section prefix="A">If any check tendered for any tax due under this title is not paid by the bank on which it is drawn, the taxpayer for whom such check was tendered shall remain liable for the payment of the tax the same as if such check had not been tendered.
+		</section>
+		<section prefix="B">If such person fails to pay the amount shown on the face of the check within five days after notice of such nonpayment has been mailed to the taxpayer by the tax assessing official, a penalty of twenty-five dollars shall be added to the tax due. Such penalty shall be in addition to any and all other penalties provided by law.
+		</section>
+	</text>
+	<history>Code 1950, §§ 58-26.1, 58-151.13:1, 58-441.35; 1966, c. 151; 1972, c. 351; 1979, c. 423; 1984, c. 675; 1992, c. 678.</history>
+</law>

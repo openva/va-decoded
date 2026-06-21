@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="9" level="2">Bail and Recognizances</unit>
+		<unit label="article" identifier="1" level="3">Bail</unit>
+	</structure>
+	<section_number>19.2-124</section_number>
+	<catch_line>Appeal from bail, bond, or recognizance order</catch_line>
+	<text>
+		<section prefix="A">If a judicial officer denies bail to a person, requires excessive bond, or fixes unreasonable terms of a recognizance under this article, the person may appeal the decision of the judicial officer.
+			If the initial bail decision on a charge brought by a warrant or district court capias is made by a magistrate, clerk, or deputy clerk, the person shall first appeal to the district court in which the case is pending.
+			If the initial bail decision on a charge brought by direct indictment or presentment or circuit court capias is made by a magistrate, clerk, or deputy clerk, the person shall first appeal to the circuit court in which the case is pending.
+			If the appeal of an initial bail decision is taken on any charge originally pending in a district court after that charge has been appealed, certified, or transferred to a circuit court, the person shall first appeal to the circuit court in which the case is pending.
+			Any bail decision made by a judge of a court may be appealed successively by the person to the next higher court, up to and including the Supreme Court of Virginia, where permitted by law.
+			The bail decision of the higher court on such appeal, unless the higher court orders otherwise, shall be remanded to the court in which the case is pending for enforcement and modification. The court in which the case is pending shall not modify the bail decision of the higher court, except upon a change in the circumstances subsequent to the decision of the higher court.
+		</section>
+		<section prefix="B">The attorney for the Commonwealth may appeal a bail, bond, or recognizance decision to the same court to which the accused person is required to appeal under subsection A.
+		</section>
+		<section prefix="C">The court granting or denying such bail may, upon appeal thereof, and for good cause shown, stay execution of such order for so long as reasonably practicable for the party to obtain an expedited hearing before the next higher court.
+			No such stay under this subsection may be granted after any person who has been granted bail has been released from custody on such bail.
+		</section>
+		<section prefix="D">No filing or service fees shall be assessed or collected for any appeal taken pursuant to this section.
+		</section>
+	</text>
+	<history>Code 1950, §§ 19.1-109.3, 19.1-112; 1960, c. 366; 1973, cc. 130, 485; 1975, c. 495; 1978, c. 755; 1984, c. 703; 1991, c. 581; 1999, cc. 829, 846; 2007, cc. 462, 549; 2010, cc. 404, 592; 2013, cc. 408, 474; 2016, c. 621; 2019, c. 616; 2021, Sp. Sess. I, c. 337.</history>
+</law>

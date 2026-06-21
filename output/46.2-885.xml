@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="8" level="3">Regulation of Traffic</unit>
+		<unit label="article" identifier="9" level="4">Railroad Crossings</unit>
+	</structure>
+	<section_number>46.2-885</section_number>
+	<catch_line>When vehicles to stop at railroad grade crossings</catch_line>
+	<text>
+		<section prefix="A">Except in cities or towns, whenever any person driving a vehicle approaches a railroad grade crossing under any of the circumstances stated in this section, the driver of the vehicle shall stop within 50 feet but not less than 15 feet from the nearest rail of such railroad, and shall not proceed until he can do so safely. The foregoing requirements shall apply when:
+			<section prefix="1">A clearly visible electric or mechanical signal device gives warning of the immediate approach of a train;
+			</section>
+			<section prefix="2">A crossing gate is lowered or a flagman gives or continues to give a signal of the approach or passage of a train;
+			</section>
+			<section prefix="3">A train approaching such crossing gives the signals required by § 56-414;
+			</section>
+			<section prefix="4">An approaching train or any self-propelled machinery or automobile type vehicle traveling on a railroad track is plainly visible and is in hazardous proximity to such crossing, regardless of whether a clearly visible electric or mechanical signal device or flagman gives warning.
+			</section>
+		</section>
+		<section prefix="B">No person shall drive any vehicle through, around, or under any crossing gate or barrier at a railroad crossing while such gate or barrier is closed or is being opened or closed.
+		</section>
+	</text>
+	<history>Code 1950, § 46-254; 1956, c. 164; 1958, c. 541, § 46.1-244; 1989, c. 727; 2012, c. 828.</history>
+</law>

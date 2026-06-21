@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="4" level="3">Relations of Partners to Each Other and to Partnership</unit>
+	</structure>
+	<section_number>50-73.103</section_number>
+	<catch_line>Actions by partnership and partners</catch_line>
+	<text>
+		<section prefix="A">A partnership may maintain an action against a partner for a breach of the partnership agreement, or for the violation of a duty to the partnership, causing harm to the partnership.
+		</section>
+		<section prefix="B">A partner may maintain an action against the partnership or another partner for legal or equitable relief, with or without an accounting as to partnership business, to:
+			<section prefix="1">Enforce that partner's rights under the partnership agreement;
+			</section>
+			<section prefix="2">Enforce that partner's rights under this chapter, including:
+				a. That partner's rights under §§ 50-73.99, 50-73.101, or § 50-73.102;
+				b. That partner's right on dissociation to have the partner's interest in the partnership purchased pursuant to § 50-73.112 or enforce any other right under Article 6 or Article 7; or
+				c. That partner's right to compel a dissolution and winding up of the partnership business under § 50-73.117 or enforce any other right under Article 8; or
+			</section>
+			<section prefix="3">Enforce the rights and otherwise protect the interests of that partner, including rights and interests arising independently of the partnership relationship.
+			</section>
+		</section>
+		<section prefix="C">The accrual of, and any time limitation on, a right of action for a remedy under this section is governed by other law. A right to an accounting upon a dissolution and winding up does not revive a claim barred by law.
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

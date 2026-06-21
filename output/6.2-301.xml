@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="3" level="3">Interest and Usury</unit>
+		<unit label="article" identifier="2" level="4">Legal, Judgment, and Contract Rates of Interest</unit>
+	</structure>
+	<section_number>6.2-301</section_number>
+	<catch_line>Legal rate of interest; when legal rate implied</catch_line>
+	<text>
+		<section prefix="A">The legal rate of interest shall be an annual rate of six percent.
+		</section>
+		<section prefix="B">Except as provided in subsection (b) of § 8.3A-112 and § 6.2-302, the legal rate of interest shall be implied when there is an obligation to pay interest and no express contract to pay interest at a specified rate.
+		</section>
+		<section prefix="C">The seller or provider of goods sold or services provided on an open account shall be entitled to, and may collect, interest at the legal rate upon the unpaid balance if (i) there exists no written agreement for closed-end credit under § 6.2-311 or open-end credit plan under § 6.2-312 and (ii) the purchaser or recipient of the goods or services fails to make payment in full within 60 days after mailing or presentation of a billing statement or invoice. Such interest shall begin to accrue on the day following such 60-day period.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.53; 1991, c. 375, § 6.1-330.77:1; 2004, c. 646; 2010, c. 794.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4321</section_number>
+	<catch_line>Debarment</catch_line>
+	<text>
+		<section prefix="A">Prospective contractors may be debarred from contracting for particular types of supplies, services, insurance or construction, for specified periods of time. Any debarment procedure shall be established in writing for state agencies and institutions by the agency designated by the Governor and for political subdivisions by their governing bodies. Any debarment procedure may provide for debarment on the basis of a contractor's unsatisfactory performance for a public body.
+		</section>
+		<section prefix="B">In addition, a prospective contractor shall be debarred from contracting with all public bodies and covered institutions whenever the Tax Commissioner so determines pursuant to § 58.1-1902.
+			As used in this section, "covered institution" means a public institution of higher education operating (i) subject to a management agreement set forth in Article 4 (§ 23.1-1004 et seq.) of Chapter 10 of Title 23.1, (ii) under a memorandum of understanding pursuant to § 23.1-1003, or (iii) under the pilot program authorized in the appropriation act.
+		</section>
+	</text>
+	<history>1982, c. 647, § 11-46.1; 2001, c. 844; 2020, cc. 681, 682.</history>
+</law>

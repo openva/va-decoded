@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="11" level="3">Savings Institutions</unit>
+		<unit label="article" identifier="2" level="4">Incorporation; Certificate of Authority; Corporate Administration</unit>
+	</structure>
+	<section_number>6.2-1132</section_number>
+	<catch_line>Mutual capital certificates</catch_line>
+	<text>
+		<section prefix="A">A mutual savings institution shall have the power to issue and to sell, directly or through underwriters, capital certificates that (i) represent nonwithdrawable capital contributions and (ii) constitute part of the reserves and net worth of the institution.
+		</section>
+		<section prefix="B">Capital certificates:
+			<section prefix="1">Shall have no voting rights;
+			</section>
+			<section prefix="2">Shall be subordinate to all savings accounts, debt obligations and claims of creditors of the institution;
+			</section>
+			<section prefix="3">Shall constitute a claim in liquidation against any reserves, surplus, and other net worth accounts remaining after the payment in full of all savings accounts, debt obligations, and claims of creditors;
+			</section>
+			<section prefix="4">Shall be entitled to the payment of earnings prior to the allocation of any income to surplus or other net worth accounts of the institution; and
+			</section>
+			<section prefix="5">May be issued with a fixed rate of earnings or with a prior claim to distribution of a specified percentage of any net income remaining after required allocations to reserves, or a combination thereof.
+			</section>
+		</section>
+		<section prefix="C">Losses shall be charged against capital certificates only after reserves, surplus, and other net worth accounts have been exhausted.
+		</section>
+	</text>
+	<history>1985, c. 425, § 6.1-194.25; 2010, c. 794.</history>
+</law>

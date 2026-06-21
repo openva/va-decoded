@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="2" level="2">Negotiation, Transfer, and Endorsement</unit>
+	</structure>
+	<section_number>8.3A-202</section_number>
+	<catch_line>Negotiation subject to rescission</catch_line>
+	<text>
+		<section prefix="a">Negotiation is effective even if obtained (i) from an infant, a corporation exceeding its powers, or a person without capacity, (ii) by fraud, duress, or mistake, or (iii) in breach of duty or as part of an illegal transaction.
+		</section>
+		<section prefix="b">To the extent permitted by other law, negotiation may be rescinded or may be subject to other remedies, but those remedies may not be asserted against a subsequent holder in due course or a person paying the instrument in good faith and without knowledge of facts that are a basis for rescission or other remedy.
+		</section>
+	</text>
+	<history>Code 1950, § 6-374; 1964, c. 219, § 8.3-207; 1992, c. 693.</history>
+</law>

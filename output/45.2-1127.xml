@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="III" level="2">Mineral Mines</unit>
+		<unit label="part" identifier="A" level="3">Mineral Mines Generally</unit>
+		<unit label="chapter" identifier="11" level="4">Mineral Mine Safety Act</unit>
+		<unit label="article" identifier="4" level="5">Licensing of Mineral Mines</unit>
+	</structure>
+	<section_number>45.2-1127</section_number>
+	<catch_line> Denial or revocation of license</catch_line>
+	<text>
+		<section prefix="A">The Director may deny an application for, or revoke a license for, the operation of a mineral mine upon determining that the applicant, the licensed operator, or the agent of such applicant or operator has committed violations of the mine safety laws of the Commonwealth that demonstrate a pattern of willful violations resulting in an imminent danger to miners.
+		</section>
+		<section prefix="B">The Director may revoke every license issued to any person for the operation of a mineral mine and may deny every application by a person for the issuance of a license for the operation of a mineral mine if such person has been convicted of knowingly permitting a miner to work in an underground coal mine where a methane monitor or other device capable of detecting the presence of explosive gases was impaired, disturbed, disconnected, bypassed, or otherwise tampered with in violation of § 45.2-849.
+		</section>
+		<section prefix="C">The Director may revoke every license issued to any person for the operation of a mineral mine and may deny every application by a person for the issuance of a license for the operation of a mineral mine if such person has been convicted of violating subsection A of § 45.2-856 or 45.2-857.
+		</section>
+		<section prefix="D">Any person whose license is denied or revoked pursuant to subsection A, B, or C may bring a civil action in the circuit court of the city or county in which the mine is located for review of the decision. The commencement of such proceeding shall not, unless specifically ordered by the court, operate as a stay of the decision. The court shall promptly hear and determine the matters raised by the aggrieved party. In any such action the court shall receive the records of the Department regarding the determination and shall receive additional evidence at the request of any party. The court, basing its decision on the preponderance of the evidence, shall grant such relief as the court determines appropriate.
+		</section>
+	</text>
+	<history>1997, c. 390, § 45.1-161.292:33; 1998, c. 695; 2021, Sp. Sess. I, c. 387.</history>
+</law>

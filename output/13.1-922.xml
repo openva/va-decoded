@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="14" level="3">Foreign Corporations</unit>
+	</structure>
+	<section_number>13.1-922</section_number>
+	<catch_line>Amended certificate of authority</catch_line>
+	<text>
+		<section prefix="A">A foreign corporation authorized to transact business in the Commonwealth shall obtain an amended certificate of authority from the Commission:
+			<section prefix="1">If it changes its corporate name or the state or other jurisdiction of its incorporation; or
+			</section>
+			<section prefix="2">To abandon or change the designated name adopted by the corporation for use in the Commonwealth pursuant to subsection B of § 13.1-924.
+			</section>
+		</section>
+		<section prefix="B">The requirements of § 13.1-921 for obtaining an original certificate of authority apply to obtaining an amended certificate under this section.
+		</section>
+		<section prefix="C">Whenever the articles of incorporation of a foreign corporation that is authorized to transact business in the Commonwealth are amended, within 30 days after the amendment becomes effective, the foreign corporation shall file with the Commission a copy of such amendment duly authenticated by the Secretary of State or other official having custody of corporate records in the state or other jurisdiction under whose law it is incorporated.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13.1-275 to 13.1-277; 1956, c. 428; 1958, c. 564; 1985, c. 522; 1986, c. 571; 1987, c. 431; 2007, c. 925; 2015, c. 623.</history>
+</law>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="12" level="3">Bail Enforcement Agents</unit>
+	</structure>
+	<section_number>9.1-186.4</section_number>
+	<catch_line>Limitations on licensure</catch_line>
+	<text>
+		<section prefix="A">In order to be licensed as a bail enforcement agent a person shall (i) be 21 years of age or older, (ii) have received a high school diploma or passed a high school equivalency examination approved by the Board of Education, and (iii) have satisfactorily completed a basic certification course in training for bail enforcement agents offered by the Department. Partial exemptions to the training requirements may be approved by the Department if the individual has received prior training.
+		</section>
+		<section prefix="B">The following persons are not eligible for licensure as a bail enforcement agent and may not be employed nor serve as agents for a bail enforcement agent:
+			<section prefix="1">Persons who have been convicted of a felony within the Commonwealth, any other state, or the United States, who have not been pardoned, or whose civil rights have not been restored.
+			</section>
+			<section prefix="2">Persons who have been convicted of any misdemeanor within the Commonwealth, any other state, or the United States within the preceding five years. This prohibition may be waived by the Department, for good cause shown, so long as the conviction was not for one of the following or a substantially similar misdemeanor: carrying a concealed weapon, assault and battery, sexual battery, a drug offense, driving under the influence, discharging a firearm, a sex offense, or larceny.
+			</section>
+			<section prefix="3">Persons who have been convicted of any misdemeanor within the Commonwealth, any other state, or the United States, that is substantially similar to the following: brandishing a firearm or stalking. The Department may not waive the prohibitions under this subdivision 3.
+			</section>
+			<section prefix="4">Persons currently the subject of a protective order within the Commonwealth or another state.
+			</section>
+			<section prefix="5">Employees of a local or regional jail.
+			</section>
+			<section prefix="6">Employees of a sheriff's office, or a state or local police department.
+			</section>
+			<section prefix="7">Commonwealth's Attorneys, and any employees of their offices.
+			</section>
+			<section prefix="8">Employees of the Department of Corrections, Department of Criminal Justice Services, or a local pretrial or community-based probation services agency.
+			</section>
+		</section>
+		<section prefix="C">The exclusions in subsection B shall not be construed to prohibit law enforcement from accompanying a bail enforcement agent when he engages in bail recovery.
+		</section>
+	</text>
+	<history>2004, c. 397; 2007, c. 133; 2014, c. 84.</history>
+</law>

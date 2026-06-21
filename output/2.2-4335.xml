@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4335</section_number>
+	<catch_line>Public construction contract provisions barring damages for unreasonable delays declared void</catch_line>
+	<text>
+		<section prefix="A">Any provision contained in any public construction contract that purports to waive, release, or extinguish the rights of a contractor to recover costs or damages for unreasonable delay in performing such contract, either on his behalf or on behalf of his subcontractor if and to the extent the delay is caused by acts or omissions of the public body, its agents or employees and due to causes within their control shall be void and unenforceable as against public policy.
+		</section>
+		<section prefix="B">Subsection A shall not be construed to render void any provision of a public construction contract that:
+			<section prefix="1">Allows a public body to recover that portion of delay costs caused by the acts or omissions of the contractor, or its subcontractors, agents or employees;
+			</section>
+			<section prefix="2">Requires notice of any delay by the party claiming the delay;
+			</section>
+			<section prefix="3">Provides for liquidated damages for delay; or
+			</section>
+			<section prefix="4">Provides for arbitration or any other procedure designed to settle contract disputes.
+			</section>
+		</section>
+		<section prefix="C">A contractor making a claim against a public body for costs or damages due to the alleged delaying of the contractor in the performance of its work under any public construction contract shall be liable to the public body and shall pay it for a percentage of all costs incurred by the public body in investigating, analyzing, negotiating, litigating and arbitrating the claim, which percentage shall be equal to the percentage of the contractor's total delay claim that is determined through litigation or arbitration to be false or to have no basis in law or in fact.
+		</section>
+		<section prefix="D">A public body denying a contractor's claim for costs or damages due to the alleged delaying of the contractor in the performance of work under any public construction contract shall be liable to and shall pay such contractor a percentage of all costs incurred by the contractor to investigate, analyze, negotiate, litigate and arbitrate the claim. The percentage paid by the public body shall be equal to the percentage of the contractor's total delay claim for which the public body's denial is determined through litigation or arbitration to have been made in bad faith.
+		</section>
+	</text>
+	<history>1991, c. 701, § 11-56.2; 2001, cc. 324, 844.</history>
+</law>

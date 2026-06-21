@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="10" level="3">Amendment of Articles of Incorporation and Bylaws</unit>
+	</structure>
+	<section_number>13.1-884</section_number>
+	<catch_line>Authority to amend articles of incorporation</catch_line>
+	<text>
+		<section prefix="A">A corporation may amend its articles of incorporation at any time to add or change a provision that is required or permitted in the articles or to delete a provision not required in the articles. Whether a provision is required or permitted in the articles of incorporation is determined as of the effective date of the amendment.
+		</section>
+		<section prefix="B">A member of the corporation does not have a vested property right resulting from any provision in the articles of incorporation, including provisions relating to management, control, capital structure, purpose, or duration of the corporation.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-235; 1956, c. 428; 1985, c. 522.</history>
+</law>

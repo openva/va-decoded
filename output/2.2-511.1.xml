@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="B" level="3">Department of Law</unit>
+		<unit label="chapter" identifier="5" level="4">Department of Law</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-511.1</section_number>
+	<catch_line>Public integrity; law-enforcement misconduct</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Law-enforcement officer" means the same as that term is defined in § 9.1-101.
+			"Locality" shall be construed to mean a county, city, or town as the context may require.
+		</section>
+		<section prefix="B">It is unlawful for the Commonwealth or any locality, or any agent thereof, or any person acting on behalf of the Commonwealth or any locality, to engage in a pattern or practice of conduct by law-enforcement officers of any agency of the Commonwealth or any locality that deprives persons of rights, privileges, or immunities secured or protected by the laws of the United States and the Commonwealth.
+		</section>
+		<section prefix="C">Whenever the Attorney General has reasonable cause to believe that a violation of subsection B has occurred, the Attorney General, for or in the name of the Commonwealth, may (i) file a civil action to obtain appropriate equitable and declaratory relief to eliminate the pattern or practice or (ii) inquire into or seek to conciliate any unlawful pattern and practice pursuant to § 2.2-520. The Attorney General may file a civil action to obtain appropriate relief to enforce a conciliation agreement arising out of such inquiry or conciliation. The Attorney General may include, as part of a conciliation agreement, a provision that the locality shall be ineligible for funding under Article 8 (§ 9.1-165 et seq.) of Chapter 1 of Title 9.1 upon a finding by any court of the Commonwealth that such locality is failing to comply with the conciliation agreement. Upon such a finding, the court shall declare the locality ineligible for funding until the locality comes into compliance with the conciliation agreement.
+		</section>
+		<section prefix="D">Whenever the Attorney General has reasonable cause to believe that a violation of subsection B has occurred, the Attorney General is empowered to issue a civil investigative demand. The provisions of § 59.1-9.10 shall apply mutatis mutandis to civil investigative demands issued pursuant to this section.
+		</section>
+	</text>
+	<history>2020, Sp. Sess. I, cc. 18, 19.</history>
+</law>

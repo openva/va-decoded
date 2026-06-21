@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="8" level="3">Licensing of Reinsurance Intermediaries</unit>
+	</structure>
+	<section_number>38.2-1349</section_number>
+	<catch_line>Required contract provisions; reinsurance intermediary brokers</catch_line>
+	<text>
+		Transactions between a reinsurance intermediary broker and the insurer it represents in such capacity shall only be entered into pursuant to a written authorization, specifying the responsibilities of each party. The authorization shall, at a minimum, provide that:
+		<section prefix="1">The insurer may terminate the reinsurance intermediary broker's authority at any time;
+		</section>
+		<section prefix="2">The reinsurance intermediary broker will render accounts to the insurer accurately detailing all material transactions, including information necessary to support all commissions, charges and other fees received by, or owing to, the reinsurance intermediary broker, and remit all funds due to the insurer within thirty calendar days of receipt;
+		</section>
+		<section prefix="3">All funds collected for the insurer's account will be held by the reinsurance intermediary broker in a fiduciary capacity in a bank that is a qualified United States financial institution as defined in § 38.2-1347;
+		</section>
+		<section prefix="4">The reinsurance intermediary broker will comply with § 38.2-1350;
+		</section>
+		<section prefix="5">The reinsurance intermediary broker will comply with the written standards established by the insurer for the cession or retrocession of all risks; and
+		</section>
+		<section prefix="6">The reinsurance intermediary broker will disclose to the insurer any relationship with any reinsurer to which business will be ceded or retroceded.
+		</section>
+	</text>
+	<history>2001, c. 706.</history>
+</law>

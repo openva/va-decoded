@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="1" level="3">Life Insurance Policies; Annuities</unit>
+	</structure>
+	<section_number>38.2-3315</section_number>
+	<catch_line>Variations for certain forms of policies; providing more favorable terms</catch_line>
+	<text>
+		<section prefix="A">Any of the requirements of §§ 38.2-3300 through 38.2-3314 not applicable to single premium, nonparticipating, term, variable, or flexible premium life insurance policies shall to that extent, as approved by the Commission, be appropriately modified or not be incorporated in these policies.
+		</section>
+		<section prefix="B">Any individual life insurance policy that, in the opinion of the Commission, contains provisions more favorable to the policyholder than those required by §§ 38.2-3300 through 38.2-3314, may be delivered or issued for delivery in this Commonwealth after approval by the Commission.
+		</section>
+	</text>
+	<history>Code 1950, § 38-372; 1952, c. 317, § 38.1-404; 1976, c. 562; 1986, c. 562.</history>
+</law>

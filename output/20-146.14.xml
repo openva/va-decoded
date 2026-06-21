@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="2" level="3">Jurisdiction</unit>
+	</structure>
+	<section_number>20-146.14</section_number>
+	<catch_line>Jurisdiction to modify determination</catch_line>
+	<text>
+		Except as otherwise provided in § 20-146.15, a court of the Commonwealth may not modify a child custody determination made by a court of another state unless a court of the Commonwealth has jurisdiction to make an initial determination under subdivision A 1 or A 2 of § 20-146.12 and:
+		<section prefix="1">The court of the other state determines that it no longer has exclusive, continuing jurisdiction under § 20-146.13 or that a court of the Commonwealth would be a more convenient forum under § 20-146.18; or
+		</section>
+		<section prefix="2">A court of the Commonwealth or a court of the other state determines that neither a parent of the child, nor the child, nor any person acting as a parent of the child presently resides in the other state.
+		</section>
+	</text>
+	<history>1979, c. 229, § 20-137; 2001, c. 305; 2016, c. 179.</history>
+</law>

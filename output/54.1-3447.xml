@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="III" level="2">Professions and Occupations Regulated by Boards Within the Department of Health Professions</unit>
+		<unit label="chapter" identifier="34" level="3">Drug Control Act</unit>
+		<unit label="article" identifier="5" level="4">Standards and Schedules</unit>
+	</structure>
+	<section_number>54.1-3447</section_number>
+	<catch_line>Placement of substance in Schedule II</catch_line>
+	<text>
+		The Board shall place a substance in Schedule II if it finds that:
+		<section prefix="1">The substance has high potential for abuse;
+		</section>
+		<section prefix="2">The substance has currently accepted medical use in treatment in the United States, or currently accepted medical use with severe restrictions; and
+		</section>
+		<section prefix="3">The abuse of the substance may lead to severe psychic or physical dependence.
+		</section>
+	</text>
+	<history>1972, c. 798, § 54-524.84:5; 1988, c. 765.</history>
+</law>

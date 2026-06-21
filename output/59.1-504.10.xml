@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="4" level="3">Warranties</unit>
+	</structure>
+	<section_number>59.1-504.10</section_number>
+	<catch_line>No implied warranties for free software</catch_line>
+	<text>
+		<section prefix="a">In this section, "free software" means a computer program with respect to which the licensor does not intend to make a profit from the distribution of the copy of the program and does not act generally for commercial gain derived from controlling use of the program or making, modifying, or redistributing copies of the program.
+		</section>
+		<section prefix="b">The warranties under §§ 59.1-504.1 and 59.1-504.3 do not apply to free software.
+		</section>
+	</text>
+	<history>2004, c. 794.</history>
+</law>

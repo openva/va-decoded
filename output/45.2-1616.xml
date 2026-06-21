@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="IV" level="2">Gas and Oil</unit>
+		<unit label="chapter" identifier="16" level="3">Virginia Gas and Oil Act</unit>
+		<unit label="article" identifier="2" level="4">Gas and Oil Conservation</unit>
+	</structure>
+	<section_number>45.2-1616</section_number>
+	<catch_line> Statewide spacing of wells</catch_line>
+	<text>
+		<section prefix="A">Unless prior approval has been received from the Board or a provision of the field or pool rules so allows:
+			<section prefix="1">No well drilled in search of oil shall be located closer than 1,250 feet to any well completed in the same pool; however, this spacing requirement is subject to § 45.2-1612;
+			</section>
+			<section prefix="2">No well drilled in search of gas shall be located closer than 2,500 feet to any other well completed in the same pool or closer than 2,500 feet to any storage well within the boundary of a gas storage field certificated by the State Corporation Commission prior to January 1, 1997, if the well to be drilled is to be completed within the same horizon as the certificated gas storage field; and
+			</section>
+			<section prefix="3">No well shall be drilled closer to the boundary of the acreage supporting the well, whether such acreage is a single leasehold or other tract or a contractual or statutory drilling unit, than one-half of the applicable minimum well spacing distance prescribed in this section.
+			</section>
+		</section>
+		<section prefix="B">Unless prior approval has been received from the Board or a provision of the field or pool rules so allows:
+			<section prefix="1">No well drilled in search of coalbed methane gas shall be located closer than 1,000 feet to any other coalbed methane gas well, or in the case of a coalbed methane gas well located in the gob, closer than 500 feet to any other coalbed methane gas well located in the gob.
+			</section>
+			<section prefix="2">No coalbed methane gas well shall be drilled closer than 500 feet, or in the case of a well located in the gob, closer than 250 feet, from the boundary of the acreage supporting the well, whether such acreage is a single leasehold or other tract or a contractual or statutory drilling unit.
+			</section>
+			<section prefix="3">The spacing limitations set forth in this subsection are subject to the provisions of §§ 45.2-1611 and 45.2-1612.
+			</section>
+		</section>
+	</text>
+	<history>1990, c. 92, § 45.1-361.17; 1996, c. 854; 1997, c. 759; 2021, Sp. Sess. I, c. 387.</history>
+</law>

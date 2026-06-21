@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="41" level="2">Fraternal Benefit Societies</unit>
+		<unit label="article" identifier="2" level="3">Membership</unit>
+	</structure>
+	<section_number>38.2-4105</section_number>
+	<catch_line>Qualifications for membership</catch_line>
+	<text>
+		<section prefix="A">A society shall specify in its laws or rules:
+			<section prefix="1">Eligibility standards for every class of membership, provided that if benefits are provided on the lives of children, the minimum age for adult membership shall be set at not less than age fifteen and not greater than age twenty-one;
+			</section>
+			<section prefix="2">The process for admission to membership for each membership class; and
+			</section>
+			<section prefix="3">The rights and privileges of each membership class, provided that only benefit members shall have the right to vote on the management of the insurance affairs of the society.
+			</section>
+		</section>
+		<section prefix="B">A society may also admit social members who shall have no voice or vote in the management of the insurance affairs of the society.
+		</section>
+		<section prefix="C">Membership rights in the society are personal to the member and are not assignable.
+		</section>
+	</text>
+	<history>Code 1950, §§ 38-286, 38-293, 38.1-602, 38.1-609; 1952, c. 317, § 38.1-638.29; 1964, c. 355; 1968, c. 654; 1972, cc. 530, 825; 1986, c. 562.</history>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="6.1" level="4">Commercial Driver's Licenses</unit>
+	</structure>
+	<section_number>46.2-341.9:1</section_number>
+	<catch_line>Commissioner to grant variances for commercial drivers transporting hazardous wastes</catch_line>
+	<text>
+		The Commissioner may, to the extent allowed by federal law, grant variances from the regulations with respect to the physical qualifications for drivers of commercial motor vehicles transporting hazardous materials if:
+		<section prefix="1">The driver is regularly employed in a job requiring the operation of a commercial motor vehicle transporting hazardous materials;
+		</section>
+		<section prefix="2">The driver is at least twenty-one years of age;
+		</section>
+		<section prefix="3">A physician licensed in Virginia certifies that, in his professional opinion, the driver is capable of safely operating a commercial motor vehicle transporting hazardous materials; and
+		</section>
+		<section prefix="4">In the opinion of the Commissioner, the driver is able to perform the normal tasks associated with operating a commercial motor vehicle and comply with the applicable regulations authorized by § 10.1-1450.
+			The Commissioner may promulgate regulations addressing such variances.
+		</section>
+	</text>
+	<history>1997, c. 260.</history>
+</law>

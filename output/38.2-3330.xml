@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="2" level="3">Group Life Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3330</section_number>
+	<catch_line>Payment of benefits</catch_line>
+	<text>
+		Each group life insurance policy shall contain a provision that any sum payable because of the death of the person insured shall be payable to the beneficiary or beneficiaries designated by the person insured, subject to:
+		<section prefix="1">The provisions of the policy as to all or any part of such sum if there is no designated beneficiary living at the time of death of the person insured; and
+		</section>
+		<section prefix="2">Any right reserved by the insurer in the policy and set forth in the certificate to pay a part of the sum, not exceeding $2,000, to any person appearing to the insurer to be equitably entitled thereto because of having incurred funeral or other expenses incident to the death or last illness of the person insured.
+		</section>
+	</text>
+	<history>1960, c. 273, § 38.1-427.1; 1986, c. 562.</history>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="55.3" level="4">Prohibition on the Use of Certain Products and Services</unit>
+	</structure>
+	<section_number>2.2-5514.1</section_number>
+	<catch_line>Prohibited applications and websites</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section, unless the context requires a different meaning:
+			"ByteDance Ltd." means the Chinese internet technology company founded by Zhang Yiming and Liang Rubo in 2012, and any successor company or entity owned by such company.
+			"Public body" means the same as that term is defined in § 2.2-5514.
+			"Tencent Holdings Ltd." means the Chinese multinational technology and entertainment conglomerate and holding company headquartered in Shenzhen, China, and any successor company or entity owned by such company.
+			"TikTok" means the video-sharing application developed by ByteDance Ltd. that hosts user-submitted videos.
+			"WeChat" means the multipurpose social media, messaging, and payment application developed by Tencent Holdings Ltd.
+		</section>
+		<section prefix="B">Except as provided in subsection C, no employee or agent of any public body or person or entity contracting with any such public body shall download or use any application, including TikTok or WeChat, or access any website developed by ByteDance Ltd. or Tencent Holdings Ltd. (i) on any government-issued device or government-owned or government-leased equipment, including mobile phones, desktop computers, laptop computers, tablets, or other devices capable of connecting to the Internet, or (ii) while connected to any wired or wireless Internet network owned, operated, or maintained by the Commonwealth.
+		</section>
+		<section prefix="C">The Superintendent of State Police or the chief law-enforcement officer of the appropriate county or city may grant an exception to the provisions of subsection B for the purpose of allowing any employee, agent, person, or entity to participate in any law-enforcement-related matters.
+		</section>
+	</text>
+	<history>2023, c. 768.</history>
+</law>

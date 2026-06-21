@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="15" level="2">Trial and Its Incidents</unit>
+		<unit label="article" identifier="2" level="3">Venue</unit>
+	</structure>
+	<section_number>19.2-249.2</section_number>
+	<catch_line>Venue for prosecution of computer and other crimes</catch_line>
+	<text>
+		For the purpose of venue, any violation of the Virginia Computer Crimes Act (§ 18.2-152.1 et seq.) or § 18.2-386.1 shall be considered to have been committed in any county or city:
+		<section prefix="1">In which any act was performed in furtherance of any course of conduct that violated any provision listed above;
+		</section>
+		<section prefix="2">In which the owner has his principal place of business in the Commonwealth;
+		</section>
+		<section prefix="3">In which any offender had control or possession of any proceeds of the violation or of any books, records, documents, property, financial instrument, computer software, computer program, computer data, or other material or objects that were used in furtherance of the violation;
+		</section>
+		<section prefix="4">From which, to which, or through which any access to a computer or computer network was made whether by wires, electromagnetic waves, microwaves, optics or any other means of communication;
+		</section>
+		<section prefix="5">In which the offender resides; or
+		</section>
+		<section prefix="6">In which any computer that is an object or an instrument of the violation is located at the time of the alleged offense.
+		</section>
+	</text>
+	<history>2005, cc. 746, 761, 827; 2015, c. 423.</history>
+</law>

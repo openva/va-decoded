@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="2.1" level="3">Private Review Agents</unit>
+	</structure>
+	<section_number>32.1-138.6</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		In this chapter the following terms have the meanings indicated:
+		"Certificate of registration" means a certificate of registration granted by the Department of Health to a private review agent.
+		"Medical director" means a physician licensed to practice medicine in the Commonwealth of Virginia who is an employee of a utilization review organization responsible for compliance with the provisions of this article.
+		"Physician advisor" means a physician licensed to practice medicine in the Commonwealth of Virginia or under a comparable licensing law of a state of the United States who provides medical advice or information to a private review agent or a utilization review entity in connection with its utilization review activities.
+		"Private review agent" means a person or entity performing utilization reviews, except that the term shall not include the following entities or employees of any such entity so long as they conduct utilization reviews solely for subscribers, policyholders, members or enrollees:
+		<section prefix="1">A health maintenance organization authorized to transact business in Virginia; or
+		</section>
+		<section prefix="2">A health insurer, hospital service corporation, health services plan or preferred provider organization authorized to offer health benefits in this Commonwealth.
+			"Utilization review" means a system for reviewing the necessity, appropriateness and efficiency of hospital, medical or other health care resources rendered or proposed to be rendered to a patient or group of patients for the purpose of determining whether such services should be covered or provided by an insurer, health services plan, health maintenance organization, or other entity or person. For purposes of this article, "utilization review" shall include, but not be limited to, preadmission, concurrent and retrospective medical necessity determination, and review related to the appropriateness of the site at which services were or are to be delivered. "Utilization review" shall not include (i) any review of issues concerning insurance contract coverage or contractual restrictions on facilities to be used for the provision of services, (ii) any review of patient information by an employee of or consultant to any licensed hospital for patients of such hospital, or (iii) any determination by an insurer as to the reasonableness and necessity of services for the treatment and care of an injury suffered by an insured for which reimbursement is claimed under a contract of insurance covering any classes of insurance defined in §§ 38.2-117, 38.2-118, 38.2-119, 38.2-124, 38.2-125, 38.2-126, 38.2-130, 38.2-131, 38.2-132 and 38.2-134.
+			"Utilization review program" means a program for conducting utilization reviews by a private review agent.
+		</section>
+	</text>
+	<history>1990, c. 826, § 38.2-5300; 1995, c. 745; 1996, c. 259; 1998, c. 129; 2000, c. 564.</history>
+</law>

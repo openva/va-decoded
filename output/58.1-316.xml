@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>58.1-316</section_number>
+	<catch_line>Information reporting on rental payments to nonresident payees; penalties</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any other provision of this chapter, every nonresident payee receiving gross payments of $600 or more in any calendar year from the rental of real property in this Commonwealth shall register with the Department of Taxation pursuant to forms and regulations adopted by the Tax Commissioner.
+		</section>
+		<section prefix="B">Any broker as defined in § 6045(c) of the Internal Revenue Code making payments to a nonresident payee attributable to the rental of real property in this Commonwealth shall obtain from the nonresident payee the registration form required in subsection A of this section or satisfactory evidence of prior registration. The broker shall retain a copy of the registration form in his files and shall transmit the original copy to the Department of Taxation on or before the fifteenth day of the month following the month in which the form was received from the payee.
+		</section>
+		<section prefix="C">If a nonresident payee fails to provide a completed registration form to the broker within sixty days after being requested by the broker or if such payee provides the broker with a registration form that is incomplete or false on its face, the broker shall file a registration form on behalf of the payee providing the payee's name, address, identification number, and such other information as may be required by the Tax Commissioner. In the case of each failure to file a registration form with the Tax Commissioner on the date prescribed therefor, the broker failing to file such registration form shall pay a $50 penalty for each month that each such failure to file continues, not exceeding six months in the aggregate.
+		</section>
+		<section prefix="D">Any payee who willfully supplies false or fraudulent information to a broker with the intent to evade the payment of income taxes properly due on the rental of real estate in this Commonwealth and any broker who has actual knowledge that any information supplied by a payee is false or fraudulent and fails to notify the Department of Taxation of such shall be guilty of a Class 1 misdemeanor.
+		</section>
+		<section prefix="E">For purposes of this section, the term "nonresident payee" means every individual who is not a resident, every nonresident estate or trust, every partnership and S corporation which has nonresident partners or shareholders, or every corporation which is not formed or organized under Virginia law.
+		</section>
+	</text>
+	<history>1990, c. 910.</history>
+</law>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="10" level="3">Standard Valuation</unit>
+	</structure>
+	<section_number>38.2-1368</section_number>
+	<catch_line>Minimum valuation standard for policies issued prior to certain dates</catch_line>
+	<text>
+		The following provisions of this section shall apply only to those policies and contracts issued prior to the operative date stated in § 38.2-3214:
+		<section prefix="1">The legal minimum standard for the valuation of life insurance contracts issued prior to January 1, 1937, shall be on the basis of the American Experience Table of Mortality, with interest at four percent per year, and strictly in accordance with the terms and conditions of such contracts, and for life insurance contracts issued on and after that date shall be the one-year preliminary term method of valuation, as hereinafter modified, on the basis of the American Experience Table of Mortality or, at the option of the insurer, the American Men Ultimate Table of Mortality with interest at three and one-half percent per year.
+		</section>
+		<section prefix="2">If the net renewal premium under a limited payment life preliminary term policy providing for the payment of less than 20 annual premiums under the policy, or under an endowment preliminary term policy, exceeds that under a 20-payment life preliminary term policy, the reserve for that policy at the end of any year, including the first, shall be at least the reserve on a 20-payment life preliminary term policy issued in the same year and at the same age, together with an amount equivalent to the accumulation of a net level premium sufficient to provide for a pure endowment maturing one year after the date on which the last annual premium is due, or at the end of 20 years if the policy provides for the payment of premiums for more than 20 years, equal to the difference between the value on the maturity date of a 20-payment life preliminary term policy and the full net level premium reserve at such time of such a limited payment life or endowment policy. Policies valued by the above method shall contain a clause specifying either that the reserve of the policies shall be computed in accordance with the 20-payment life modification of the preliminary term method of valuation or that the first year's insurance is term insurance.
+		</section>
+		<section prefix="3">Except as otherwise provided in § 38.2-1370 for group annuity and pure endowment contracts, the legal minimum standard for the valuation of annuities issued on and after January 1, 1937, shall be the Combined Annuity Table, with interest at four percent per year, but annuities deferred 10 or more years and written in connection with life insurance shall be valued on the same basis as that used in computing the consideration or premium for the life insurance, or upon any higher standard, at the insurer's option.
+		</section>
+		<section prefix="4">The legal minimum standard for the calculation of the reserve liability for insurance against disability incorporated in life insurance policies issued on and after January 1, 1937, shall be on the basis of any table adopted by the insurer and approved by the Commission, with interest at three and one-half percent per year. However, in no case shall such liability be less than one-half of the net annual premium for the disability benefit computed by the table.
+		</section>
+		<section prefix="5">The legal standard for the valuation of group insurance written as yearly renewable term insurance issued on and after January 1, 1937, shall be on the basis of the American Men Ultimate Table of Mortality with interest at three and one-half percent per year.
+		</section>
+		<section prefix="6">The legal minimum standard for the valuation of industrial policies issued on and after January 1, 1937, shall be the American Experience Table of Mortality, with interest at three and one-half percent per year; however, any insurer may voluntarily value its industrial policies on the basis of the standard industrial mortality table or the substandard industrial mortality table, and by the level net premium method or in accordance with their terms by the modified preliminary term method as described in subdivision 2, or the full preliminary term method.
+			All industrial policies issued on and after January 1, 1937, shall be valued under the rules set forth in this section, whether or not the policies provide for surrender values, either in cash, paid-up insurance, or extended insurance.
+		</section>
+		<section prefix="7">The Commission may vary the standards of interest and mortality in the case of alien insurers as to contracts issued by those insurers in countries other than the United States, and in particular cases of invalid lives and other extra hazards.
+		</section>
+		<section prefix="8">If the actual annual premium charged for insurance is less than the net annual premium for the insurance, computed as specified in this section, the insurer shall set up an additional reserve equal to the value of an annuity of the difference between the actual premium charged and the net premium required by this section, and the term of which at the date of the valuation shall equal the period during which future premium payments are to become due on the insurance. The annuity shall be valued according to the table of mortality with the rate of interest at which the net annual premium is calculated.
+		</section>
+		<section prefix="9">Reserves for all of these policies and contracts, or all of any class of these policies and contracts, may be calculated, at the insurer's option, according to any standards that produce greater aggregate reserves for all the policies and contracts, or all of the class of the policies and contracts so valued, than the minimum reserves required by this section; and in each case the insurer shall report to the Commission in its annual statement the standards it used in making the valuation.
+		</section>
+	</text>
+	<history>2014, c. 571.</history>
+</law>

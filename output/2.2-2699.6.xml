@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="D" level="3">State Authorities, Boards, Commissions, Councils, Foundations and Other Collegial Bodies</unit>
+		<unit label="chapter" identifier="26" level="4">Councils</unit>
+		<unit label="article" identifier="35" level="5">Information Technology Advisory Council</unit>
+	</structure>
+	<section_number>2.2-2699.6</section_number>
+	<catch_line>Powers and duties of the ITAC; report</catch_line>
+	<text>
+		<section prefix="A">The ITAC shall have the power and duty to:
+			<section prefix="1">Adopt rules and procedures for the conduct of its business;
+			</section>
+			<section prefix="2">Advise the CIO regarding cybersecurity policies, standards, and guidelines, for (i) assessing security risks, (ii) determining appropriate security measures, (iii) performing security audits of government electronic information, (iv) strengthening the Commonwealth's cybersecurity, and (v) protecting against and responding to breaches of information technology security;
+			</section>
+			<section prefix="3">Advise the CIO on strategies and priorities for information technology for executive branch agencies;
+			</section>
+			<section prefix="4">Advise the CIO on information technology planning and projects;
+			</section>
+			<section prefix="5">Advise the CIO on policies, standards, and guidelines for information technology and data of the Commonwealth; and
+			</section>
+			<section prefix="6">Advise the CIO on information technology budgeting, investments, and expenditures.
+			</section>
+		</section>
+		<section prefix="B">The ITAC may appoint advisory subcommittees consisting of individuals with expertise in particular subject areas and information technology to advise the ITAC on the utilization of nationally recognized technical and data standards in such subject areas. If such a subcommittee is appointed by the ITAC, the CIO, or his designee, shall be an ex officio member and the Secretary of Administration may appoint representatives from other relevant Secretariats or state agencies as may be appropriate. Any such subcommittee may be appointed for a period of two years and may be reappointed by the ITAC at the end of any two-year period.
+		</section>
+		<section prefix="C">The CIO shall report annually to the Governor and the General Assembly regarding the work of the ITAC and any advisory subcommittees.
+		</section>
+		<section prefix="D">As used in this section, "information technology" has the same meaning as set forth in § 2.2-2006.
+		</section>
+	</text>
+	<history>2010, cc. 136, 145; 2011, cc. 266, 313; 2016, c. 296; 2022, cc. 260, 261.</history>
+</law>

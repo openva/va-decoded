@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-422.1</section_number>
+	<catch_line>Retail companies; apportionment</catch_line>
+	<text>
+		<section prefix="A">For taxable years beginning on or after July 1, 2012, the Virginia taxable income of a retail company, excluding income allocable under § 58.1-407, shall be apportioned within and without the Commonwealth as follows:
+			<section prefix="1">From July 1, 2012, until July 1, 2014, by multiplying such income by a fraction, the numerator of which is the property factor plus the payroll factor plus triple the sales factor and the denominator of which is five, except that when the sales factor does not exist, the denominator of the fraction shall be the number of existing factors, and when the sales factor exists but the payroll factor or property factor does not exist, the denominator of the fraction shall be the number of existing factors plus two;
+			</section>
+			<section prefix="2">From July 1, 2014, until July 1, 2015, by multiplying such income by a fraction, the numerator of which is the property factor plus the payroll factor plus quadruple the sales factor and the denominator of which is six, except that when the sales factor does not exist, the denominator of the fraction shall be the number of existing factors, and when the sales factor exists but the payroll factor or property factor does not exist, the denominator of the fraction shall be the number of existing factors plus three; and
+			</section>
+			<section prefix="3">From July 1, 2015, and thereafter, by multiplying such income by the sales factor.
+			</section>
+		</section>
+		<section prefix="B">As used in this section, "retail company" means a domestic or foreign corporation primarily engaged in activities that, in accordance with the North American Industry Classification System (NAICS), United States Manual, United States Office of Management and Budget, 1997 Edition, would be included in Sectors 44-45.
+		</section>
+		<section prefix="C">Any eligible company, as defined in § 58.1-405.1, may subtract the value of its sales in the Commonwealth during the taxable year from the numerator of the ratio in subdivision A 3. Such eligible company may make such modification for the taxable year in which it first becomes eligible and for the six subsequent, consecutive taxable years, except for any year in which the eligible company's (i) total, cumulative new capital investment falls below the applicable initial threshold or (ii) number of new jobs falls below the applicable initial threshold.
+		</section>
+		<section prefix="D">For taxable years beginning on or after January 1, 2023, corporations that are affiliated within the meaning of § 58.1-302 and filing on a consolidated basis may elect to apportion the taxable income of all members of such affiliated group using the sales factor alone notwithstanding that one or more members of such affiliated group would be required to use different apportionment factors if separate returns were filed. Such an election shall be valid only with respect to taxable years in which 80 percent or more of the sales of such affiliated group after consolidation and eliminations is derived from activities of a retail company. Such an election, once made, shall not be changed without permission of the Department.
+		</section>
+	</text>
+	<history>2012, cc. 86, 666; 2018, cc. 801, 802; 2023, cc. 38, 39.</history>
+</law>

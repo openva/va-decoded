@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="3" level="3">Rights of Married Persons</unit>
+		<unit label="article" identifier="1.1" level="4">Elective Share of Surviving Spouse of Decedent Dying on or After January 1, 2017</unit>
+	</structure>
+	<section_number>64.2-308.10</section_number>
+	<catch_line>Sources from which elective share payable</catch_line>
+	<text>
+		<section prefix="A">In a proceeding for an elective share, the following are applied first to satisfy the elective-share amount and to reduce or eliminate any contributions due from the decedent's probate estate and recipients of the decedent's non-probate transfers to others:
+			<section prefix="1">Amounts excluded from the augmented estate under subdivision B 1 of § 64.2-308.9 that passed to the surviving spouse and amounts that passed to the surviving spouse at the decedent's death pursuant to the decedent's exercise of a power of appointment over property not included in the augmented estate;
+			</section>
+			<section prefix="2">Amounts included in the augmented estate under § 64.2-308.5 that pass or have passed to the surviving spouse by testate or intestate succession and amounts included in the augmented estate under § 64.2-308.7; and
+			</section>
+			<section prefix="3">The marital property portion of amounts included in the augmented estate under § 64.2-308.8.
+			</section>
+		</section>
+		<section prefix="B">The marital property portion under subdivision A 3 is computed by multiplying the value of the amounts included in the augmented estate under § 64.2-308.8 by the percentage of the augmented estate set forth in the schedule in subsection B of § 64.2-308.4 appropriate to the length of time the spouse and the decedent were married to each other.
+		</section>
+		<section prefix="C">If, after the application of subsection A, the elective share amount is not fully satisfied, amounts included in the decedent's net probate estate, other than assets passing to the surviving spouse by testate or intestate succession, and in the decedent's non-probate transfers to others under subdivisions 1, 2, and 3 b of § 64.2-308.6 are applied first to satisfy the unsatisfied balance of the elective share amount. The decedent's net probate estate and that portion of the decedent's non-probate transfers to others are so applied that liability for the unsatisfied balance of the elective share amount is apportioned among the recipients of the decedent's net probate estate and of that portion of the decedent's non-probate transfers to others in proportion to the value of their interests therein.
+		</section>
+		<section prefix="D">If, after the application of subsections A and C, the elective share amount is not fully satisfied, the remaining portion of the decedent's non-probate transfers to others is so applied that liability for the unsatisfied balance of the elective share amount is apportioned among the recipients of the remaining portion of the decedent's non-probate transfers to others in proportion to the value of their interests therein.
+		</section>
+		<section prefix="E">The unsatisfied balance of the elective share amount as determined under subsection C or D is treated as a general pecuniary bequest.
+		</section>
+	</text>
+	<history>2016, cc. 187, 269; 2018, c. 301.</history>
+</law>

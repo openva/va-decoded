@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="6" level="2">Crimes Involving Fraud</unit>
+		<unit label="article" identifier="6" level="3">Offenses Relating to Credit Cards</unit>
+	</structure>
+	<section_number>18.2-196</section_number>
+	<catch_line>Criminal possession of credit card forgery devices</catch_line>
+	<text>
+		<section prefix="1">A person is guilty of criminal possession of credit card forgery devices when:
+			<section prefix="a">He is a person other than the cardholder and possesses two or more incomplete credit cards, with intent to complete them without the consent of the issuer; or
+			</section>
+			<section prefix="b">He possesses, with knowledge of its character, machinery, plates or any other contrivance designed to reproduce instruments purporting to be credit cards of an issuer who has not consented to the preparation of such credit cards.
+			</section>
+		</section>
+		<section prefix="2">A credit card is incomplete if part of the matter, other than the signature of the cardholder, which an issuer requires to appear on the credit card before it can be used by a cardholder, has not yet been stamped, embossed, imprinted or written upon.
+			Conviction of criminal possession of credit card forgery devices is punishable as a Class 6 felony.
+		</section>
+	</text>
+	<history>Code 1950, § 18.1-125.7; 1968, c. 480; 1975, cc. 14, 15.</history>
+</law>

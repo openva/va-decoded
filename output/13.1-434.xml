@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="4.2" level="2">Securities Registered in Joint Names</unit>
+	</structure>
+	<section_number>13.1-434</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter:
+		<section prefix="a">"Corporation" means a private or public corporation, association, or trust issuing a security.
+		</section>
+		<section prefix="b">"Security" includes any share of stock, bond, debenture, note or other security issued by a corporation and registered as to ownership on the books of the corporation.
+		</section>
+		<section prefix="c">"Transfer agent" includes any person employed or authorized to transfer securities issued by a corporation, including a registrar.
+		</section>
+	</text>
+	<history>1960, c. 20.</history>
+</law>

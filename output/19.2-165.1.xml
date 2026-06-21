@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="10" level="2">Disability of Judge or Attorney for Commonwealth; Court- Appointed Counsel; Interpreters; Transcripts</unit>
+		<unit label="article" identifier="6" level="3">Recording Evidence and Incidents of Trial</unit>
+	</structure>
+	<section_number>19.2-165.1</section_number>
+	<catch_line>Payment of medical fees in certain criminal cases; reimbursement</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsection B, all medical fees expended in the gathering of evidence for all criminal cases where medical evidence is necessary to establish a crime has occurred and for cases involving abuse of children under the age of 18 shall be paid by the Commonwealth out of the appropriation for criminal charges, provided that any medical evaluation, examination, or service rendered be performed by a physician or facility specifically designated by the attorney for the Commonwealth in the city or county having jurisdiction of such case for such a purpose. If no such physician or facility is reasonably available in such city or county, then the attorney for the Commonwealth may designate a physician or facility located outside and adjacent to such city or county.
+			Where there has been no prior designation of such a physician or facility, such medical fees shall be paid out of the appropriation for criminal charges upon authorization by the attorney for the Commonwealth of the city or county having jurisdiction over the case. Such authorization may be granted prior to or within 48 hours after the medical evaluation, examination, or service rendered.
+		</section>
+		<section prefix="B">All medical fees expended in the gathering of evidence through physical evidence recovery kit examinations conducted on victims complaining of sexual assault under Article 7 (§ 18.2-61 et seq.) of Chapter 4 of Title 18.2 shall be paid by the Commonwealth pursuant to subsection F of § 19.2-368.11:1. Victims complaining of sexual assault shall not be required to participate in the criminal justice system or cooperate with law-enforcement authorities in order to be provided with such forensic medical exams.
+		</section>
+		<section prefix="C">Upon conviction of the defendant in any case requiring the payment of medical fees authorized by this section, the court shall order that the defendant reimburse the Commonwealth for payment of such fees.
+		</section>
+	</text>
+	<history>1976, c. 292; 1982, c. 507; 1987, c. 330; 1997, c. 322; 1999, c. 853; 2000, c. 292; 2003, cc. 28, 772; 2008, cc. 203, 251.</history>
+</law>

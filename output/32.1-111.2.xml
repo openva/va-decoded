@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="4" level="2">Health Care Planning</unit>
+		<unit label="article" identifier="2.1" level="3">Statewide Emergency Medical Services System and Services</unit>
+	</structure>
+	<section_number>32.1-111.2</section_number>
+	<catch_line>Exemptions from provisions of this article</catch_line>
+	<text>
+		The following entities are exempted from the provisions of this article:
+		<section prefix="1">Emergency medical services agencies based outside the Commonwealth, except that any such agency receiving a person who is sick, injured, wounded, incapacitated, or helpless within the Commonwealth for transportation to a location within the Commonwealth shall comply with the provisions of this article;
+		</section>
+		<section prefix="2">Emergency medical services agencies operated by the United States government; and
+		</section>
+		<section prefix="3">Wheelchair interfacility transport services and wheelchair interfacility transport service vehicles that are engaged, whether or not for profit, in the business, service, or regular activity of and exclusively used for transporting wheelchair bound passengers between medical facilities in the Commonwealth when no ancillary medical care or oversight is necessary. However, such services and vehicles shall comply with Department of Medical Assistance Services regulations regarding the transportation of Medicaid recipients to covered services.
+		</section>
+	</text>
+	<history>1996, c. 899; 2005, c. 778; 2015, cc. 502, 503.</history>
+</law>

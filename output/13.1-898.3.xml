@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="11.1" level="3">Domestication</unit>
+	</structure>
+	<section_number>13.1-898.3</section_number>
+	<catch_line>Action on plan of domestication by a domestic corporation</catch_line>
+	<text>
+		<section prefix="A">When the members of a domestic corporation have voting rights, a plan of domestication shall be adopted in the following manner:
+			<section prefix="1">The board of directors of the corporation shall adopt the plan of domestication.
+			</section>
+			<section prefix="2">After adopting a plan of domestication, the board of directors shall submit the plan of domestication for approval by the members.
+			</section>
+			<section prefix="3">For a plan of domestication to be approved:
+				a. The board of directors shall recommend the plan to the members unless the board of directors determines that because of conflict of interests or other special circumstances it should make no recommendation and communicates the basis for its determination to the members with the plan; and
+				b. The members shall approve the plan as provided in subdivision 6 of this subsection.
+			</section>
+			<section prefix="4">The board of directors may condition its submission of the plan of domestication to the members on any basis.
+			</section>
+			<section prefix="5">The corporation shall notify each member entitled to vote of the proposed members' meeting in accordance with § 13.1-842 at which the plan of domestication is to be submitted for approval. The notice shall state that a purpose of the meeting is to consider the plan and shall contain or be accompanied by a copy of the plan.
+			</section>
+			<section prefix="6">Unless this Act or the board of directors, acting pursuant to subdivision 4 of this subsection, requires a greater vote, the plan of domestication shall be approved by each voting group entitled to vote on the plan by more than two-thirds of all the votes entitled to be cast by that voting group. The articles of incorporation may provide for a greater or lesser vote than that provided for in this subdivision or a vote by separate voting groups so long as the vote provided for is not less than a majority of all the votes cast on the plan by each voting group entitled to vote on the plan at a meeting at which a quorum of the voting group exists.
+			</section>
+			<section prefix="7">Voting by a class of members as a separate voting group is required on a plan of domestication if the plan contains a provision that, if contained in a proposed amendment to articles of incorporation, would entitle the class to vote as a separate voting group on the proposed amendment under § 13.1-887.
+			</section>
+		</section>
+		<section prefix="B">When a domestic corporation has no members, or no members have voting rights, a plan of domestication shall be adopted at a meeting of the board of directors of such corporation upon receiving the vote of a majority of the directors in office.
+		</section>
+	</text>
+	<history>2003, c. 374; 2007, c. 925.</history>
+</law>

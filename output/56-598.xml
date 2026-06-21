@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="24" level="2">Electric Utility Integrated Resource Planning</unit>
+	</structure>
+	<section_number>56-598</section_number>
+	<catch_line> Contents of integrated resource plans</catch_line>
+	<text>
+		An IRP should:
+		<section prefix="1">Integrate, over the planning period, the electric utility's forecast of demand for electric generation supply with recommended plans to meet that forecasted demand and assure adequate and sufficient reliability of service, including:
+			a. Generating electricity from generation facilities that it currently operates or intends to construct or purchase;
+			b. Purchasing electricity from affiliates and third parties;
+			c. Reducing load growth and peak demand growth through cost-effective demand reduction programs; and
+			d. Utilizing energy storage facilities to help meet forecasted demand and assure adequate and sufficient reliability of service;
+		</section>
+		<section prefix="2">Identify a portfolio of electric generation supply resources, including purchased and self-generated electric power, that:
+			a. Consistent with § 56-585.1, is most likely to provide the electric generation supply needed to meet the forecasted demand, net of any reductions from demand side programs, so that the utility will continue to provide reliable service at reasonable prices over the long term; and
+			b. Will consider low cost energy/capacity available from short-term or spot market transactions, consistent with a reasonable assessment of risk with respect to both price and generation supply availability over the term of the plan;
+		</section>
+		<section prefix="3">Reflect a diversity of electric generation supply and cost-effective demand reduction contracts and services so as to reduce the risks associated with an over-reliance on any particular fuel or type of generation demand and supply resources and be consistent with the Commonwealth's energy policies as set forth in § 45.2-1706.1; and
+		</section>
+		<section prefix="4">Include such additional information as the Commission requests pertaining to how the electric utility intends to meets its obligation to provide electric generation service for use by its retail customers over the planning period.
+		</section>
+	</text>
+	<history>2008, cc. 476, 603; 2020, c. 1190; 2021, Sp. Sess. I, c. 327.</history>
+</law>

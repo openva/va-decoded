@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="6.2" level="3">Virginia Communications Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-654</section_number>
+	<catch_line>Returns by communications services providers; payment to accompany return</catch_line>
+	<text>
+		<section prefix="A">Every communications services provider required to collect or pay the sales or use tax shall, on or before the twentieth day of the month following the month in which the tax is billed, transmit to the Tax Commissioner a return showing the sales price, or cost price, as the case may be, and the tax collected or accrued arising from all transactions taxable under this chapter. In the case of communications services providers regularly keeping books and accounts on the basis of an annual period that varies from 52 to 53 weeks, the Tax Commissioner may make rules and regulations for reporting consistent with such accounting period.
+			A sales or use tax return shall be filed by each registered communications services provider even though the communications services provider is not liable to remit to the Tax Commissioner any tax for the period covered by the return.
+		</section>
+		<section prefix="B">At the time of transmitting the return required under subsection A, the communications services provider shall remit to the Tax Commissioner the amount of tax due after making appropriate adjustments for accounts uncollectible and charged off as provided in § 58.1-655. The tax imposed by this chapter shall, for each period, become delinquent on the twenty-first day of the succeeding month if not paid.
+		</section>
+	</text>
+	<history>2006, c. 780.</history>
+</law>

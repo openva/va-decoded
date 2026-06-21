@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="12" level="2">Reciprocal Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-1212</section_number>
+	<catch_line>Subscribers' liability</catch_line>
+	<text>
+		<section prefix="A">Each subscriber insured under an assessable policy shall have a contingent assessment liability for payment of actual losses and expenses incurred while his policy was in force. This shall be in the amount provided for in the power of attorney or subscriber's agreement.
+		</section>
+		<section prefix="B">The contingent assessment liability on any one policy in any one calendar year shall equal the premiums earned, as defined in § 38.2-1226, on the policy for that year multiplied by not less than one nor more than ten.
+		</section>
+		<section prefix="C">The contingent assessment liability shall not be joint, but shall be individual and several.
+		</section>
+		<section prefix="D">Each assessable policy issued by the insurer shall plainly set forth a statement of the contingent assessment liability on the front of the policy in capital letters in no less than ten point type.
+		</section>
+	</text>
+	<history>1952, c. 317, §§ 38.1-702, 38.1-716; 1986, c. 562.</history>
+</law>

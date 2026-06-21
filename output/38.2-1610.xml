@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="16" level="2">Virginia Property and Casualty Insurance Guaranty Association</unit>
+		<unit label="article" identifier="1" level="3">Establishment and Operation of the Association</unit>
+	</structure>
+	<section_number>38.2-1610</section_number>
+	<catch_line>Exhaustion of remedies under policy; claims recoverable from more than one association</catch_line>
+	<text>
+		<section prefix="A">Any person having a claim against an insurer under any provision in an insurance policy, other than a policy of an insolvent insurer under which the claim is also covered, shall be required to first seek recovery under the policy covered by the insurer which is not insolvent. Any amount payable on a covered claim under this chapter shall be reduced by the amount of any recovery under the insurance policy.
+		</section>
+		<section prefix="A1">Any person having a claim or legal right of recovery under any governmental insurance or guaranty program which is also a covered claim, shall be required to exhaust first his right under such program. Any amount payable on a covered claim under this chapter shall be reduced by the amount of any recovery under such program.
+		</section>
+		<section prefix="B">Any person having a claim that may be recovered under more than one insurance guaranty association or its equivalent shall seek recovery first from the association of the state where the insured resides. However, if it is a first party claim for damage to property with a permanent location, the insured shall seek recovery first from the association of the state where the property is located. For a workers' compensation claim recovery shall first be sought from the association of the state where the claimant resides. Any recovery under this chapter shall be reduced by the amount of the recovery from any other insurance guaranty association or its equivalent.
+		</section>
+	</text>
+	<history>1970, c. 766, § 38.1-767; 1986, c. 562; 1987, c. 529.</history>
+</law>

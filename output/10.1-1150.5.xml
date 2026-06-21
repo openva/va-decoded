@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="11" level="3">Forest Resources and the Department of Forestry</unit>
+		<unit label="article" identifier="6.1" level="4">Certified Prescribed Burning Manager Program</unit>
+	</structure>
+	<section_number>10.1-1150.5</section_number>
+	<catch_line>Liability</catch_line>
+	<text>
+		<section prefix="A">Any prescribed burning conducted in compliance with the requirements of this article, state air pollution control laws, and any rules adopted by the Virginia Department of Forestry shall be in the public interest and shall not constitute a nuisance.
+		</section>
+		<section prefix="B">Any landowner or his agent who conducts a prescribed burn in compliance with the requirements of this article, state air pollution control laws, and any rules adopted by the Virginia Department of Forestry shall not be liable for any damage or injury caused by or resulting from smoke.
+		</section>
+		<section prefix="C">Subsections A and B of this section shall not apply whenever a nuisance or damage results from the negligent or improper conduct of the prescribed burn or when the prescribed burn elements described in § 10.1-1150.4 have not been complied with.
+		</section>
+	</text>
+	<history>1998, c. 156.</history>
+</law>

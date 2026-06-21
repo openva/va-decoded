@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="1" level="5">Mechanical Equipment</unit>
+	</structure>
+	<section_number>45.2-800</section_number>
+	<catch_line> Face and other equipment</catch_line>
+	<text>
+		<section prefix="A">The cutter chains of any mining machine shall be locked securely by mechanical means or an electrical interlock while such machine is parked or being trammed.
+		</section>
+		<section prefix="B">Drilling in rock shall be conducted wet or other means of dust control shall be used.
+		</section>
+		<section prefix="C">Each electric drill or other electrically operated rotating tool intended to be held in the hand shall have the electric switch constructed so as to break the circuit when the hand releases the switch or shall be equipped with a properly adjusted friction or safety clutch.
+		</section>
+		<section prefix="D">While equipment is in operation or is being trammed, no miner shall position himself or be placed in a pinch point between such equipment and the face or any rib of the mine or another piece of equipment in the mine.
+		</section>
+		<section prefix="E">Each piece of equipment that is raised for repairs or other work shall be securely blocked prior to any person positioning himself where the falling of such equipment could create a hazardous condition.
+		</section>
+	</text>
+	<history>Code 1950, § 45-85.1; 1954, c. 191; 1966, c. 594, § 45.1-87; 1979, c. 315; 1994, c. 28, § 45.1-161.123; 1996, c. 774; 1999, c. 256; 2021, Sp. Sess. I, c. 387.</history>
+</law>

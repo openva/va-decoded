@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="52" level="2">Long-Term Care Insurance</unit>
+	</structure>
+	<section_number>38.2-5203</section_number>
+	<catch_line>Prohibited provisions</catch_line>
+	<text>
+		No long-term care insurance policy may:
+		<section prefix="1">Be cancelled, nonrenewed, or otherwise terminated on the grounds of the age or the deterioration of the mental or physical health of the insured individual or certificateholder;
+		</section>
+		<section prefix="2">Contain a provision establishing any new waiting period in the event existing coverage is converted to or replaced by a new or other form within the same company, except with respect to an increase in benefits voluntarily selected by the insured individual or group policyholder;
+		</section>
+		<section prefix="3">Provide coverage for skilled nursing care only or provide significantly more coverage for skilled care in a facility than coverage for lower levels of care;
+		</section>
+		<section prefix="4">Be issued based on medical or health status when the policy is issued by an agent or third-party administrator pursuant to the underwriting authority granted to the agent or third-party administrator by the insurer; or
+		</section>
+		<section prefix="5">Provide that an insurer who has paid benefits under a long-term care insurance policy or certificate may recover the benefit payments in the event that the policy or certificate is rescinded.
+		</section>
+	</text>
+	<history>1987, c. 586; 1990, c. 285; 2000, c. 559.</history>
+</law>

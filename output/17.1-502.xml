@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="5" level="2">Circuit Courts</unit>
+		<unit label="article" identifier="1" level="3">Establishment; Jurisdiction; etc</unit>
+	</structure>
+	<section_number>17.1-502</section_number>
+	<catch_line>(Effective July 1, 2026) Administrator of circuit court system</catch_line>
+	<text>
+		<section prefix="A">The Executive Secretary of the Supreme Court shall be the administrator of the circuit court system, which includes the operation and maintenance of a case management system and financial management system and related technology improvements.
+		</section>
+		<section prefix="B">Any circuit court clerk may establish and maintain his own case management system, financial management system, or other independent technology using automation or technology improvements provided by a private vendor or the locality. Any data from the clerk's independent system may be provided directly from such clerk to designated state agencies. The data from the clerk's independent system may also be provided to designated state agencies through an interface with the technology systems operated by the Executive Secretary.
+		</section>
+		<section prefix="B1">If the data from a case management system established under subsection B is not provided to the Executive Secretary of the Supreme Court through an interface, such data shall be provided to the Department of State Police through an interface for purposes of complying with §§ 19.2-392.7, 19.2-392.10, 19.2-392.11, and 19.2-392.12. The parameters of such interface shall be determined by the Department of State Police. The costs of designing, implementing, and maintaining such interface shall be the responsibility of the circuit court clerk.
+		</section>
+		<section prefix="C">The Executive Secretary shall provide an electronic interface with his case management system, financial management system, or other technology improvements upon written request of any circuit court clerk. The circuit court clerk and the clerk's designated application service provider shall comply with the security and data standards established by the Executive Secretary for any such electronic interface. The Executive Secretary shall establish security and data standards for such electronic interfaces on or before June 30, 2013, and such standards shall be consistent with the policies, standards, and guidelines established pursuant to § 2.2-2009.
+		</section>
+		<section prefix="D">The costs of designing, implementing, and maintaining any such interface with the systems of the Executive Secretary shall be the responsibility of the circuit court clerk. Prior to incurring any costs, the Office of the Executive Secretary shall provide the circuit court clerk a written explanation of the options for providing such interfaces and provide the clerk with a proposal for such costs and enter into a written contract with the clerk to provide such services.
+		</section>
+		<section prefix="E">The Executive Secretary shall assist the chief judges in the performance of their administrative duties. He may employ such staff and other assistants, from state funds appropriated to him for the purpose, as may be necessary to carry out his duties, and may secure such office space as may be requisite, to be located in an appropriate place to be selected by the Executive Secretary.
+		</section>
+	</text>
+	<history>1973, c. 544, § 17-116.3; 1998, c. 872; 2009, cc. 793, 858; 2011, c. 715; 2012, c. 234; 2013, c. 422; 2021, Sp. Sess. I, cc. 524, 542; 2025, cc. 634, 671.</history>
+</law>

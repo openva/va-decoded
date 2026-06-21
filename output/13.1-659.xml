@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Shareholders</unit>
+	</structure>
+	<section_number>13.1-659</section_number>
+	<catch_line>Waiver of notice</catch_line>
+	<text>
+		<section prefix="A">A shareholder may waive any notice required by this chapter, the articles of incorporation, or bylaws before or after the date and time stated in the notice. The waiver shall be in writing, be signed by the shareholder entitled to the notice, and be delivered to the corporation's secretary for filing by the corporation with the minutes or corporate records.
+		</section>
+		<section prefix="B">A shareholder's attendance at a meeting:
+			<section prefix="1">Waives objection to lack of notice or defective notice of the meeting, unless the shareholder at the beginning of the meeting objects to holding the meeting or transacting business at the meeting; and
+			</section>
+			<section prefix="2">Waives objection to consideration of a particular matter at the meeting that is not within the purpose or purposes described in the meeting notice, unless the shareholder objects to considering the matter when it is presented.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-27; 1956, c. 428; 1985, c. 522; 2019, c. 734.</history>
+</law>

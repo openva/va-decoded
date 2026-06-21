@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="2" level="3">Parks and Recreation</unit>
+		<unit label="article" identifier="3" level="4">Virginia Natural Area Preserves Act</unit>
+	</structure>
+	<section_number>10.1-211</section_number>
+	<catch_line>Additional duties of the Department</catch_line>
+	<text>
+		In addition to other duties conferred by law, the Department shall, subject to the provisions of this article:
+		<section prefix="1">Preserve the natural diversity of biological resources of the Commonwealth.
+		</section>
+		<section prefix="2">Maintain a Natural Heritage Program to select and nominate areas containing natural heritage resources for registration, acquisition, and dedication of natural areas and natural area preserves.
+		</section>
+		<section prefix="3">Develop and implement a Natural Heritage Plan that shall govern the Natural Heritage Program in the creation of a system of registered and dedicated natural area preserves.
+		</section>
+		<section prefix="4">Publish and disseminate information pertaining to natural areas and natural area preserves.
+		</section>
+		<section prefix="5">Grant permits to qualified persons for the conduct of scientific research and investigations within natural area preserves.
+		</section>
+		<section prefix="6">Provide recommendations to the Commissioner of the Department of Agriculture and Consumer Services and to the Board of Agriculture and Consumer Services on species for listing under the Virginia Endangered Plant and Insect Act, prior to the adoption of regulations therefor.
+		</section>
+		<section prefix="7">Provide recommendations to the Executive Director of the Department of Wildlife Resources and to the Board of Wildlife Resources on species for listing under the Virginia Endangered Species Act, prior to the adoption of regulations therefor.
+		</section>
+		<section prefix="8">Cooperate with other local, state and federal agencies in developing management plans for real property under their stewardship that will identify, maintain and preserve the natural diversity of biological resources of the Commonwealth.
+		</section>
+		<section prefix="9">Provide for management, development and utilization of any lands purchased, leased or otherwise acquired and enforce the provisions of this article governing natural area preserves, the stewardship thereof, the prevention of trespassing thereon, or other actions deemed necessary to carry out the provisions of this article.
+		</section>
+	</text>
+	<history>1989, c. 553; 2020, c. 958.</history>
+</law>

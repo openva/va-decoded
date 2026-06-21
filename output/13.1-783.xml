@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="22" level="3">Benefit Corporations</unit>
+	</structure>
+	<section_number>13.1-783</section_number>
+	<catch_line>Application and effect of article</catch_line>
+	<text>
+		<section prefix="A">This article shall apply to all benefit corporations.
+		</section>
+		<section prefix="B">The existence of a provision of this article shall not of itself create an implication that a contrary or different rule of law applies to a corporation organized pursuant to the provisions of this chapter that is not a benefit corporation. This article shall not affect a statute or rule of law that applies to a corporation that is not a benefit corporation.
+		</section>
+		<section prefix="C">The specific provisions of this article shall control over the general provisions of other articles of this chapter.
+		</section>
+	</text>
+	<history>2011, c. 698.</history>
+</law>

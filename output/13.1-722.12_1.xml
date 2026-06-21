@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="12.2" level="3">Conversion</unit>
+	</structure>
+	<section_number>13.1-722.12:1</section_number>
+	<catch_line>Amendment of plan of conversion; abandonment</catch_line>
+	<text>
+		<section prefix="A">A plan of conversion of a converting entity that is a domestic corporation may be amended:
+			<section prefix="1">In the same manner as the plan was approved, if the plan does not provide for the manner in which it may be amended; or
+			</section>
+			<section prefix="2">In the manner provided in the plan, except that shareholders that were entitled to vote on or consent to approval of the plan are entitled to vote on or consent to any amendment of the plan that will change:
+				a. The amount or kind of eligible interests or other securities, obligations, rights to acquire eligible interests or other securities, cash, other property, or any combination of the foregoing, to be received by any of the shareholders of the converting corporation under the plan;
+				b. The organic rules of the converted entity that will be in effect immediately after the conversion becomes effective, except for changes that do not require approval of the eligible interest holders of the converted entity under its organic law or organic rules; or
+				c. Any other terms or conditions of the plan, if the change would adversely affect such shareholders in any material respect.
+			</section>
+		</section>
+		<section prefix="B">Unless otherwise provided in the plan of conversion, after the plan of conversion has been approved by a converting entity that is a domestic corporation in the manner required by this article and at any time before the certificate of conversion has become effective, the plan may be abandoned by the corporation without action by its shareholders in accordance with any procedures set forth in the plan or, if no such procedures are set forth in the plan, in the manner determined by the board of directors.
+		</section>
+		<section prefix="C">A converting entity that is a foreign eligible entity may abandon its conversion to a domestic corporation in the manner prescribed by its organic law.
+		</section>
+		<section prefix="D">If a conversion is abandoned after articles of conversion have been filed with the Commission but before the certificate of conversion has become effective, a statement of abandonment shall be signed on behalf of the converting domestic corporation or foreign eligible entity and delivered to the Commission for filing prior to the effective time and date of the certificate of conversion. If the Commission finds that the statement of abandonment complies with the requirements of law, it shall issue a certificate of abandonment, effective as of the date and time the statement of abandonment was received by the Commission, and the conversion shall be deemed abandoned and shall not become effective.
+		</section>
+		<section prefix="E">The statement of abandonment shall contain:
+			<section prefix="1">The name of the converting entity and its jurisdiction of formation and entity type;
+			</section>
+			<section prefix="2">When the converting entity is a foreign eligible entity, the name of the converted entity set forth in the articles of conversion;
+			</section>
+			<section prefix="3">The date on which the articles of conversion were filed with the Commission;
+			</section>
+			<section prefix="4">The date and time on which the Commission's certificate of conversion becomes effective; and
+			</section>
+			<section prefix="5">A statement that the conversion is being abandoned in accordance with this section or, when the converting entity is a foreign eligible entity, a statement that the foreign eligible entity abandoned the conversion as required by its organic law.
+			</section>
+		</section>
+	</text>
+	<history>2019, c. 734; 2021, Sp. Sess. I, c. 487.</history>
+</law>

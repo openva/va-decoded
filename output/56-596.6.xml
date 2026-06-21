@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="23" level="2">Virginia Electric Utility Regulation Act</unit>
+	</structure>
+	<section_number>56-596.6</section_number>
+	<catch_line>Distribution cost sharing program</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Hosting capacity" means the amount of aggregate generation that can be accommodated on the electric distribution system without any infrastructure upgrades.
+			"Program" means the distribution cost sharing program established pursuant to this section.
+			"Qualifying upgrade" means a system upgrade that increases the hosting capacity of the utility's distribution system.
+			"Sharing project" means any distributed energy resource with an alternating current (AC) nameplate capacity rating greater than or equal to 250 kilowatts and less than or equal to three megawatts within the Phase I or Phase II Utility's service territory seeking to interconnect to the utility's distribution system and participate in net energy metering pursuant to § 56-594 that utilizes distribution system upgrades that were necessary to interconnect a triggering project.
+			"Triggering project" means a project application in the interconnection queue at a given substation or feeder that requires a qualifying upgrade to successfully interconnect the project to the electric distribution system.
+		</section>
+		<section prefix="B">The Commission shall establish by regulation a distribution cost sharing program for Phase I and Phase II Utilities, as those terms are defined in subdivision A 1 of § 56-585.1, to construct distribution system upgrades required to interconnect triggering projects. Under the program, when a Phase I or Phase II Utility determines that a qualifying upgrade is required to interconnect a triggering project, such utility shall determine the costs of the qualifying upgrade and the net increase in hosting capacity that would result from the construction of the qualifying upgrade. The costs of the qualifying upgrade shall be subject to approval by the Commission that the costs are reasonable and prudent. The program shall require each Phase I and Phase II Utility to allocate the costs of qualifying upgrades among any sharing projects based on the AC nameplate capacity rating of each sharing project, except that a project shall be exempted from the program if the owner or developer of such project elects to pay in full the approved cost of any associated qualifying upgrade. The Commission shall determine limits on cost recovery for ratepayers and the appropriate time period for cost recovery under the program. The program shall also require that the costs attributed to jurisdictional triggering projects are recovered from jurisdictional sharing projects and costs attributed to nonjurisdictional triggering projects are recovered from nonjurisdictional sharing projects. The Commission may establish a system to refund projects for any interconnection upgrade costs collected during time periods in which such projects are not operational and may provide such refunds upon the petition of the owner of a participating project.
+		</section>
+	</text>
+	<history>2025, cc. 615, 658.</history>
+</law>

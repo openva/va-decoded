@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="2" level="2">Federal, Commonwealth, and Local Officers</unit>
+		<unit label="article" identifier="7" level="3">Removal of Public Officers from Office</unit>
+	</structure>
+	<section_number>24.2-234.1</section_number>
+	<catch_line>Removal of members of local electoral boards and general registrars</catch_line>
+	<text>
+		<section prefix="A">Any member of a local electoral board may be removed from office by the circuit court in whose jurisdiction he resides upon a petition signed by a majority of the members of the State Board as provided in § 24.2-103. The circuit court shall proceed with such removal in accordance with the provisions of § 24.2-235.
+		</section>
+		<section prefix="B">Any general registrar may be removed from office by the circuit court in whose jurisdiction he serves upon a petition signed by a majority of the members of the State Board as provided in § 24.2-103 or a majority of the members of his local electoral board as provided in § 24.2-109. The circuit court shall proceed with such removal in accordance with the provisions of § 24.2-235.
+		</section>
+		<section prefix="C">Any member of a local electoral board or general registrar against whom a petition for removal has been filed may apply to the Virginia Division of Risk Management to assign counsel to his defense and any subsequent appeal. The Division shall assign counsel in accordance with the provisions of § 24.2-121.
+		</section>
+	</text>
+	<history>2023, cc. 256, 257.</history>
+</law>

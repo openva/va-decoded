@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="5" level="2">Securities Act</unit>
+		<unit label="article" identifier="5" level="3">Miscellaneous</unit>
+	</structure>
+	<section_number>13.1-521</section_number>
+	<catch_line>Violations punishable by the Commission</catch_line>
+	<text>
+		<section prefix="A">The Commission may, by judgment entered after a hearing on 30 days' notice to the defendant, if it is proved that the defendant has knowingly made any misrepresentation of a material fact for the purpose of inducing the Commission to take any action or to refrain from taking action, or has violated any provision of this chapter or any order, rule, or regulation of the Commission issued pursuant to this chapter, impose a civil penalty not exceeding $10,000, which shall be collectible by the process of the Commission as provided by law.
+		</section>
+		<section prefix="B">In addition to imposing the penalty set forth in subsection A, or without imposing such penalty, the Commission may, in any such case, revoke any authority or registration issued by the Commission to or at the instance of the defendant.
+		</section>
+		<section prefix="C">Each sale of a security contrary to the provisions of this chapter shall constitute a separate violation. The Commission may in any such case under subsection A order the seller to rescind any such sale and to make restitution to the purchaser and the Commission shall consider such rescission and restitution in determining whether a penalty should be imposed on him on account of that illegal sale, and if so, the amount of such penalty.
+		</section>
+		<section prefix="D">Each investment advisory contract, transaction or activity contrary to the provisions of this chapter shall constitute a separate violation. The Commission may in any such case under subsection A order the investment advisor or investment advisor representative to rescind any such contract or transaction and to make restitution to the user of the investment advisory service and the Commission shall consider such rescission and restitution in determining whether a penalty should be imposed on him on account of that illegal contract, transaction or activity and, if so, the amount of such penalty.
+		</section>
+		<section prefix="E">The provisions of subsections C and D of this section regarding rescission and restitution apply only to this chapter.
+		</section>
+	</text>
+	<history>Code 1950, § 13-153; 1956, c. 428; 1987, c. 678; 1990, c. 31; 2000, c. 166; 2009, c. 566.</history>
+</law>

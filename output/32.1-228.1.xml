@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="8" level="3">Radiation Control</unit>
+	</structure>
+	<section_number>32.1-228.1</section_number>
+	<catch_line>Department designated state radiation control agency; powers and duties</catch_line>
+	<text>
+		<section prefix="A">The Department of Health is hereby designated as the state radiation control agency. The Commissioner of Health may employ, compensate, and prescribe the duties of such individuals as may be necessary to discharge the responsibilities imposed by this article.
+		</section>
+		<section prefix="B">The Department shall:
+			<section prefix="1">Collect and disseminate information relating to control of sources of radiation including:
+				a. Establishing and maintaining a file of all applications for, issuances, denials, transfers, renewals, modifications, suspensions and revocations of, and amendments to all licenses;
+				b. Establishing and maintaining a file of registrants possessing sources of radiation requiring registration under the provisions of this article and any administrative or judicial action pertaining thereto; and
+				c. Establishing and maintaining a file of all agency rules and regulations related to regulation of sources of radiation, pending or promulgated, and proceedings thereon.
+			</section>
+			<section prefix="2">Establish a database of registered and certified X-ray machines, which shall include but not be limited to the name of the owner or operator and the location of the machine.
+			</section>
+			<section prefix="3">Pursuant to its powers enumerated in § 32.1-25, provide for scheduled and random unannounced inspections of facilities and physicians' offices that provide mammography services to ensure compliance with laws, regulations, or conditions specified by the Board.
+			</section>
+			<section prefix="4">Establish forms for the periodic Radiation Inspection Report.
+			</section>
+			<section prefix="5">Develop programs for responding adequately to radiation emergencies and coordinate such programs with the Department of Emergency Management.
+			</section>
+			<section prefix="6">Make available to the public a list of persons who are certified as professionals to offer screening, testing, or mitigation for radon pursuant to § 32.1-229.01.
+			</section>
+			<section prefix="7">Publish and make available a list of qualified inspectors of X-rays and X-ray machines.
+			</section>
+		</section>
+	</text>
+	<history>2008, cc. 41, 466; 2015, c. 298.</history>
+</law>

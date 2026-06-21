@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="7.2" level="3">Fraudulent Procurement, Sale, or Receipt of Telephone Records</unit>
+	</structure>
+	<section_number>18.2-152.17</section_number>
+	<catch_line>Fraudulent procurement, sale, or receipt of telephone records</catch_line>
+	<text>
+		<section prefix="A">Whoever (i) knowingly procures, attempts to procure, solicits, or conspires with another to procure a telephone record by fraudulent means; (ii) knowingly sells, or attempts to sell, a telephone record without the authorization of the customer to whom the record pertains; or (iii) receives a telephone record knowing that such record has been obtained by fraudulent means is guilty of a Class 1 misdemeanor.
+		</section>
+		<section prefix="B">As used in this section:
+			"Procure" in regard to such a telephone record means to obtain by any means, whether electronically, in writing, or in oral form, with or without consideration.
+			"Telecommunications carrier" means any person that provides commercial telephone services to a customer, irrespective of the communications technology used to provide such service, including, but not limited to, traditional wireline or cable telephone service; cellular, broadband PCS, or other wireless telephone service; microwave, satellite, or other terrestrial telephone service; and voice over Internet telephone service.
+			"Telephone record" means information retained by a telecommunications carrier that relates to the telephone number dialed by the customer or the incoming number of a call directed to a customer, or other data related to such calls typically contained on a customer telephone bill such as the time the call started and ended, the duration of the call, the time of day the call was made, and any charges applied. For purposes of this section, any information collected and retained by customers utilizing Caller I.D., or other similar technology, does not constitute a telephone record.
+		</section>
+		<section prefix="C">Nothing in this section shall be construed to prevent any action by a law-enforcement agency, or any officer or employee of such agency, from obtaining telephone records in connection with the performance of the official duties of the agency.
+		</section>
+		<section prefix="D">Nothing in this section shall be construed to prohibit a telecommunications carrier from obtaining, using, disclosing, or permitting access to any telephone record, either directly or indirectly through its agents (i) in compliance with a subpoena or subpoena duces tecum or as otherwise authorized by law; (ii) with the lawful consent of the customer or subscriber; (iii) as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service, or to protect users of those services and other carriers from fraudulent, abusive, or unlawful use of, subscription to, such services; (iv) to a governmental entity, if the telecommunications carrier reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person justifies disclosure of the information; or (v) to the National Center for Missing and Exploited Children, in connection with a report submitted thereto under the Victims of Child Abuse Act of 1990.
+		</section>
+		<section prefix="E">Venue for the trial of any person charged with an offense under this section may be in the locality in which:
+			<section prefix="1">Any act was performed in furtherance of any course of conduct in violation of this section;
+			</section>
+			<section prefix="2">The accused has his principal place of business in the Commonwealth;
+			</section>
+			<section prefix="3">Any accused had control or possession of any proceeds of the violation or of any books, records, documents, property, financial instrument, telephone record, or other material or objects that were used in furtherance of the violation;
+			</section>
+			<section prefix="4">From which, to which, or through which any access to a telecommunication carrier was made whether by wires, electromagnetic waves, microwaves, optics or any other means of communication; or
+			</section>
+			<section prefix="5">The accused resides, or resided at the time of the offense.
+			</section>
+		</section>
+	</text>
+	<history>2006, c. 469.</history>
+</law>

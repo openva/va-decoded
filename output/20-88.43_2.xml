@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="4" level="3">Reconciliation of Two or More Orders</unit>
+	</structure>
+	<section_number>20-88.43:2</section_number>
+	<catch_line>Continuing, exclusive jurisdiction to modify spousal support order</catch_line>
+	<text>
+		<section prefix="A">A court of the Commonwealth issuing a spousal support order consistent with the law of the Commonwealth has continuing, exclusive jurisdiction to modify the spousal support order throughout the existence of the support obligation.
+		</section>
+		<section prefix="B">A court of the Commonwealth may not modify a spousal support order issued by a tribunal of another state or a foreign country having continuing, exclusive jurisdiction over that order under the law of that state or foreign country.
+		</section>
+		<section prefix="C">A court of the Commonwealth that has continuing, exclusive jurisdiction over a spousal support order may serve as:
+			<section prefix="1">An initiating court to request a tribunal of another state to enforce the spousal support order issued in the Commonwealth; or
+			</section>
+			<section prefix="2">A responding court to enforce or modify its own spousal support order.
+			</section>
+		</section>
+	</text>
+	<history>2005, c. 754; 2015, c. 727.</history>
+</law>

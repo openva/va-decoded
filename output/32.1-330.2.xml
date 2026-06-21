@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="10" level="2">Department of Medical Assistance Services</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>32.1-330.2</section_number>
+	<catch_line>Medicaid managed care programs; program information documents; plain language required</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "program information" means all forms of communication that (i) are provided to any person who is an applicant for or a recipient of medical assistance services provided by the Commonwealth pursuant to Titles XIX and XXI of the Social Security Act and (ii) describe eligibility requirements, available medical assistance services, and the rights and responsibilities of recipients of medical assistance services provided by the Commonwealth pursuant to Titles XIX and XXI of the Social Security Act.
+		</section>
+		<section prefix="B">The Board of Medical Assistance Services shall require that all program information be (i) communicated in nontechnical, readily understandable, plain language and (ii) made available in a manner that is timely and accessible to (a) individuals with limited English proficiency through the provision of language access services, including oral interpretation and written translations, and (b) individuals with disabilities through the provision of auxiliary aids services, when doing so is a reasonable step to providing meaningful access to health care coverage. A person that makes program information available may consider resources, including staffing, available to such person and the cost of responding to requests for language access or auxiliary aids services in determining the reasonableness of making program information available pursuant to this subsection.
+		</section>
+		<section prefix="C">Language access services and auxiliary aids services provided to ensure program information is accessible to individuals with limited English proficiency and individuals with disabilities shall be provided without charge to such individuals. Information regarding how to receive language access services and auxiliary aids services shall be included with program information documents on a website maintained by the Department and on the website of every state or local government agency or state agency contractor that provides program information.
+		</section>
+		<section prefix="D">Every person that provides program information shall use an objective readability measure approved by the Department to test the readability of its program information documents. The requirements of this subsection shall not apply to language that is mandated by federal or state laws, regulations, or agencies.
+		</section>
+		<section prefix="E">All program information documents within the scope of this section, and all amendments thereto, shall be made available for review upon the request of the Department. Any program information document that is exempt from the requirements of subsection B shall be accompanied by a documentation of the federal or state law, regulation, or agency mandate that authorizes the exemption.
+		</section>
+	</text>
+	<history>1996, c. 318; 2022, c. 775.</history>
+</law>

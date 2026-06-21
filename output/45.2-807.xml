@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="2" level="5">Electricity</unit>
+	</structure>
+	<section_number>45.2-807</section_number>
+	<catch_line> Power circuits</catch_line>
+	<text>
+		<section prefix="A">All underground power wires and cables shall (i) have adequate current-carrying capacity, (ii) be guarded from mechanical injury, and (iii) be installed in a permanent manner.
+		</section>
+		<section prefix="B">Wires and cables that are not encased in armor shall be supported by well-installed insulators and shall not touch any roof, rib, or combustible material; however, this prohibition shall not apply to ground wires, grounded power conductors, or trailing cables.
+		</section>
+		<section prefix="C">Power wires or cables that are installed in a belt-haulage slope shall be insulated adequately and buried in a trench at least one foot below any combustible material, unless such wires or cables are encased in armor or otherwise fully protected against mechanical injury.
+		</section>
+		<section prefix="D">Any splice or repair in a power cable shall:
+			<section prefix="1">Be mechanically strong and have adequate electrical conductivity;
+			</section>
+			<section prefix="2">Be effectively insulated and sealed so as to exclude moisture;
+			</section>
+			<section prefix="3">If the cable has metallic armor, possess mechanical protection and electrical conductivity equivalent to that of the original armor; and
+			</section>
+			<section prefix="4">If the cable has metallic shielding around each conductor, possess new shielding that is equivalent to the original shielding.
+			</section>
+		</section>
+		<section prefix="E">Every underground high-voltage transmission cable shall be:
+			<section prefix="1">Installed only in a regularly inspected airway;
+			</section>
+			<section prefix="2">Covered, buried, or placed on insulators so as to afford protection against damage by derailed equipment if it is installed along a haulage road;
+			</section>
+			<section prefix="3">Guarded if miners regularly work or pass under such cable, unless it is at least 6.5 feet above the floor or rail;
+			</section>
+			<section prefix="4">Securely anchored, properly insulated, and guarded at its ends; and
+			</section>
+			<section prefix="5">Covered, insulated, or placed to prevent contact with any trolley circuit or other low-voltage circuit.
+			</section>
+		</section>
+		<section prefix="F">Any new high-voltage disconnect that is installed on underground electrical equipment shall automatically ground all three power leads when in the open position. Every high-voltage disconnect that is rebuilt or remanufactured after July 1, 2011, shall meet this standard.
+		</section>
+		<section prefix="G">Every power wire or cable shall be insulated adequately where it passes into or out of an electrical compartment and where it passes through a door or stopping.
+		</section>
+		<section prefix="H">Where track is used as a power conductor:
+			<section prefix="1">Both rails of main-line tracks shall be welded or bonded at every joint, and cross bonds shall be installed at intervals of not more than 200 feet. If the rails are paralleled with a feeder circuit of like polarity, such paralleled feeder shall be bonded to the track rails at intervals of not more than 1,000 feet;
+			</section>
+			<section prefix="2">At least one rail on any secondary track-haulage road shall be welded or bonded at every joint, and cross bonds shall be installed at intervals of not more than 200 feet; and
+			</section>
+			<section prefix="3">Track switches on entries shall be well bonded.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, §§ 45-82, 45-82.1; 1954, c. 191; 1966, c. 594, § 45.1-78; 1993, c. 442; 1994, c. 28, § 45.1-161.186; 1996, c. 774; 1999, c. 256; 2005, c. 3; 2011, cc. 826, 862; 2021, Sp. Sess. I, c. 387.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="40" level="4">Administrative Process Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-4000</section_number>
+	<catch_line>Short title; purpose</catch_line>
+	<text>
+		<section prefix="A">This chapter may be cited as the "Administrative Process Act."
+		</section>
+		<section prefix="B">The purpose of this chapter is to supplement present and future basic laws conferring authority on agencies either to make regulations or decide cases as well as to standardize court review thereof save as laws hereafter enacted may otherwise expressly provide. This chapter shall not supersede or repeal additional procedural requirements in such basic laws.
+		</section>
+	</text>
+	<history>1975, c. 503, §§ 9-6.14:1. 9-6.14:3; 1977, c. 647; 1984, c. 5; 2001, c. 844.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="5" level="2">Child Labor</unit>
+	</structure>
+	<section_number>40.1-94</section_number>
+	<catch_line>Proofs of age</catch_line>
+	<text>
+		The evidence of age required by this chapter shall consist of one of the following proofs of age, which shall be required in the order herein designated:
+		<section prefix="1">A birth certificate or attested transcript issued by a registrar of vital statistics or other officer charged with the duty of recording births.
+		</section>
+		<section prefix="2">A baptismal record or duly certified transcript thereof showing the date of birth and place of baptism of the child.
+		</section>
+		<section prefix="3">Other documentary proof of age specified by the Commissioner.
+		</section>
+	</text>
+	<history>Code 1950, § 40-103; 1970, c. 321.</history>
+</law>

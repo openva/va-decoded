@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="53" level="2">Consumer Data Protection Act</unit>
+	</structure>
+	<section_number>59.1-579</section_number>
+	<catch_line>Responsibility according to role; controller and processor</catch_line>
+	<text>
+		<section prefix="A">A processor shall adhere to the instructions of a controller and shall assist the controller in meeting its obligations under this chapter. Such assistance shall include:
+			<section prefix="1">Taking into account the nature of processing and the information available to the processor, by appropriate technical and organizational measures, insofar as this is reasonably practicable, to fulfill the controller's obligation to respond to consumer rights requests pursuant to § 59.1-577.
+			</section>
+			<section prefix="2">Taking into account the nature of processing and the information available to the processor, by assisting the controller in meeting the controller's obligations in relation to the security of processing the personal data and in relation to the notification of a breach of security of the system of the processor pursuant to § 18.2-186.6 in order to meet the controller's obligations.
+			</section>
+			<section prefix="3">Providing necessary information to enable the controller to conduct and document data protection assessments pursuant to § 59.1-580.
+			</section>
+		</section>
+		<section prefix="B">A contract between a controller and a processor shall govern the processor's data processing procedures with respect to processing performed on behalf of the controller. The contract shall be binding and clearly set forth instructions for processing data, the nature and purpose of processing, the type of data subject to processing, the duration of processing, and the rights and obligations of both parties. The contract shall also include requirements that the processor shall:
+			<section prefix="1">Ensure that each person processing personal data is subject to a duty of confidentiality with respect to the data;
+			</section>
+			<section prefix="2">At the controller's direction, delete or return all personal data to the controller as requested at the end of the provision of services, unless retention of the personal data is required by law;
+			</section>
+			<section prefix="3">Upon the reasonable request of the controller, make available to the controller all information in its possession necessary to demonstrate the processor's compliance with the obligations in this chapter;
+			</section>
+			<section prefix="4">Allow, and cooperate with, reasonable assessments by the controller or the controller's designated assessor; alternatively, the processor may arrange for a qualified and independent assessor to conduct an assessment of the processor's policies and technical and organizational measures in support of the obligations under this chapter using an appropriate and accepted control standard or framework and assessment procedure for such assessments. The processor shall provide a report of such assessment to the controller upon request; and
+			</section>
+			<section prefix="5">Engage any subcontractor pursuant to a written contract in accordance with subsection C that requires the subcontractor to meet the obligations of the processor with respect to the personal data.
+			</section>
+		</section>
+		<section prefix="C">Nothing in this section shall be construed to relieve a controller or a processor from the liabilities imposed on it by virtue of its role in the processing relationship as defined by this chapter.
+		</section>
+		<section prefix="D">Determining whether a person is acting as a controller or processor with respect to a specific processing of data is a fact-based determination that depends upon the context in which personal data is to be processed. A processor that continues to adhere to a controller's instructions with respect to a specific processing of personal data remains a processor.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, cc. 35, 36.</history>
+</law>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="7" level="3">Breach of Contract</unit>
+	</structure>
+	<section_number>59.1-507.1</section_number>
+	<catch_line>Breach of contract; material breach</catch_line>
+	<text>
+		<section prefix="a">Whether a party is in breach of contract is determined by the agreement or, in the absence of agreement, this chapter. A breach occurs if a party without legal excuse fails to perform an obligation in a timely manner, repudiates a contract, or exceeds a contractual use term, or otherwise is not in compliance with an obligation placed on it by this chapter or the agreement. A breach, whether or not material, entitles the aggrieved party to its remedies. Whether a breach of a contractual use term is an infringement or a misappropriation is determined by applicable informational property rights law.
+		</section>
+		<section prefix="b">A breach of contract is material if:
+			<section prefix="1">the contract so provides;
+			</section>
+			<section prefix="2">the breach is a substantial failure to perform a term that is an essential element of the agreement; or
+			</section>
+			<section prefix="3">the circumstances, including the language of the agreement, the reasonable expectations of the parties, the standards and practices of the business, trade, or industry, and the character of the breach, indicate that:
+			</section>
+		</section>
+		<section prefix="A">the breach caused or is likely to cause substantial harm to the aggrieved party; or
+		</section>
+		<section prefix="B">the breach substantially deprived or is likely substantially to deprive the aggrieved party of a significant benefit it reasonably expected under the contract.
+		</section>
+		<section prefix="c">The cumulative effect of nonmaterial breaches may be material.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

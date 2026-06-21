@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="3" level="3">Injury to Person or Property</unit>
+	</structure>
+	<section_number>8.01-40.3</section_number>
+	<catch_line>Unauthorized dissemination, etc., of criminal history record information; civil action</catch_line>
+	<text>
+		<section prefix="A">Any person who disseminates, publishes, or maintains or causes to be disseminated, published, or maintained the criminal history record information as defined in § 9.1-101 of an individual pertaining to that individual's charge or arrest for a criminal offense and solicits, requests, or accepts money or other thing of value for removing such criminal history record information shall be liable to the individual who is the subject of the information for actual damages or $500, whichever is greater, in addition to reasonable attorney fees and costs.
+		</section>
+		<section prefix="B">Nothing in this section shall be construed to impose liability on:
+			<section prefix="1">An interactive computer service, as defined in 47 U.S.C. § 230(f), for content provided by another person.
+			</section>
+			<section prefix="2">Any speech protected by Article I, Section 12 of the Constitution of Virginia.
+			</section>
+		</section>
+		<section prefix="C">As used in this section, "criminal history record information" means the same as that term is defined in § 9.1-101.
+		</section>
+	</text>
+	<history>2015, cc. 414, 415.</history>
+</law>

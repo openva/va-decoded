@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="3" level="3">Construction</unit>
+	</structure>
+	<section_number>59.1-503.3</section_number>
+	<catch_line>Modification and rescission</catch_line>
+	<text>
+		<section prefix="a">An agreement modifying a contract subject to this chapter needs no consideration to be binding.
+		</section>
+		<section prefix="b">An authenticated record that precludes modification or rescission except by an authenticated record may not otherwise be modified or rescinded. In a standard form supplied by a merchant to a consumer, a term requiring an authenticated record for modification of the contract is not enforceable unless the consumer manifests assent to the term.
+		</section>
+		<section prefix="c">A modification of a contract and the contract as modified must satisfy the requirements of §§ 59.1-502.1 (a) and 59.1-503.7 (f) if the contract as modified is within those provisions.
+		</section>
+		<section prefix="d">An attempt at modification or rescission which does not satisfy subsection (b) or (c) may operate as a waiver if § 59.1-507.2 is satisfied.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

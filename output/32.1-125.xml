@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="1" level="3">Hospital and Nursing Home Licensure and Inspection</unit>
+	</structure>
+	<section_number>32.1-125</section_number>
+	<catch_line>Establishment or operation of hospitals and nursing homes prohibited without license or certification; licenses not transferable</catch_line>
+	<text>
+		<section prefix="A">No person shall own, establish, conduct, maintain, manage or operate in this Commonwealth any hospital or nursing home unless such hospital or nursing home is licensed or certified as provided in this article.
+		</section>
+		<section prefix="B">No license issued hereunder shall be assignable or transferable.
+		</section>
+	</text>
+	<history>Code 1950, § 32-299; 1979, c. 711; 1989, c. 618.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="6" level="2">The Election</unit>
+		<unit label="article" identifier="3" level="3">Voting Equipment and Systems</unit>
+	</structure>
+	<section_number>24.2-632</section_number>
+	<catch_line>Voting equipment custodians</catch_line>
+	<text>
+		<section prefix="A">For the purpose of programming and preparing voting and counting equipment, including the programming of any electronic activation devices or data storage media used to program or operate the equipment, and maintaining, testing, calibrating, and delivering it, the electoral board and general registrar shall employ one or more persons, to be known as custodians of voting equipment. The custodians shall be fully competent, thoroughly instructed, and sworn to perform their duties honestly and faithfully, and for such purpose shall be appointed and instructed at least 30 days before each election. With the approval of the State Board, the electoral board or general registrar may contract with the voting equipment vendor or another contractor for the purpose of programming, preparing and maintaining the voting equipment. The voting equipment custodians shall instruct and supervise the vendor or contractor technicians and oversee the programming, testing, calibrating and delivering of the equipment. The vendor or contractor technicians shall be sworn to perform their duties honestly and faithfully and be informed of and subject to the misdemeanor and felony penalties provided in §§ 24.2-1009 and 24.2-1010.
+			The final testing of the equipment prior to each election shall be done in the presence of an electoral board member, a representative of the electoral board, or the general registrar. The electoral board or general registrar may authorize a representative to be present at the final testing only if it is impracticable for a board member or general registrar to attend, and such representative shall in no case be the custodian or a vendor or contractor technician who was responsible for programming the ballot software, electronic activation devices, or electronic data storage media.
+		</section>
+		<section prefix="B">Notwithstanding the provisions of subsection A, the local electoral board or general registrar may assign a board member or a deputy registrar to serve as a custodian without pay for such service. The board member or deputy registrar serving as custodian shall be fully competent, thoroughly instructed, and sworn to perform his duties honestly and faithfully, and for such purpose shall be appointed and instructed at least 30 days before each election. Whenever the presence of an electoral board member or general registrar and custodian is required by the provisions of this title, the same person shall not serve in both capacities.
+		</section>
+	</text>
+	<history>Code 1950, §§ 24-296, 24-299; 1970, c. 462, § 24.1-209; 1973, c. 30; 1974, c. 428; 1981, c. 570; 1985, c. 458; 1993, c. 641; 1999, c. 219; 2004, cc. 993, 1010; 2016, cc. 18, 492; 2022, c. 140.</history>
+</law>

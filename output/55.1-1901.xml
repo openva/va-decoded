@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="IV" level="2">Common Interest Communities</unit>
+		<unit label="chapter" identifier="19" level="3">Virginia Condominium Act</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>55.1-1901</section_number>
+	<catch_line>Application and construction of chapter</catch_line>
+	<text>
+		<section prefix="A">This chapter applies to all condominiums and to all horizontal property regimes or condominium projects. This chapter supersedes the Horizontal Property Act (§ 55.1-2000 et seq.), and no condominium shall be established under the Horizontal Property Act on or after July 1, 1974. This chapter shall not be construed to affect the validity of any provision of any condominium instrument recorded prior to July 1, 1974. For the purposes of this chapter, as used in the Horizontal Property Act (§ 55.1-2000 et seq.):
+			"Apartment" corresponds to the term "unit."
+			"Co-owner" corresponds to the term "unit owner."
+			"Council of co-owners" corresponds to the term "unit owners' association."
+			"Developer" corresponds to the term "declarant."
+			"General common elements" corresponds to the term "common elements."
+			"Horizontal property regime" and "condominium project" correspond to the term "condominium."
+			"Master deed" and "master lease" correspond to the term "declaration" and are included in the term "condominium instruments."
+		</section>
+		<section prefix="B">This chapter does not apply to condominiums located outside the Commonwealth. Sections 55.1-1971, 55.1-1974 through 55.1-1982, and 55.1-1985 through 55.1-1989 apply to all contracts for the disposition of condominium units signed in the Commonwealth by any person, unless exempt under § 55.1-1972.
+		</section>
+		<section prefix="C">Subsection B of § 55.1-1955 and § 55.1-1982 do not apply to the declarant of a conversion condominium if that declarant is a proprietary lessees' association that, immediately before the creation of the condominium, owned fee simple title to or a fee simple reversionary interest in the real estate described pursuant to subdivision A 3 of § 55.1-1916.
+		</section>
+	</text>
+	<history>1974, c. 416, § 55-79.40; 1982, c. 545; 1989, c. 63; 2006, c. 646; 2019, c. 712.</history>
+</law>

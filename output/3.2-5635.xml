@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="IV" level="2">Food and Drink; Weights and Measures</unit>
+		<unit label="chapter" identifier="56" level="3">Weights and Measures</unit>
+	</structure>
+	<section_number>3.2-5635</section_number>
+	<catch_line>Bulk sale and delivery of commodities</catch_line>
+	<text>
+		All sales in which the buyer and seller are not both present to witness the measurement of a bulk delivery shall be accompanied by duplicate delivery tickets containing the following information:
+		<section prefix="1">The name and address of the buyer and seller;
+		</section>
+		<section prefix="2">The date of delivery;
+		</section>
+		<section prefix="3">The quantity delivered in terms of pounds, tons, gallons or cubic measure; and
+		</section>
+		<section prefix="4">If applicable, the count of individually wrapped packages, if more than one.
+		</section>
+	</text>
+	<history>1993, c. 604, § 3.1-954.1; 2008, c. 860.</history>
+</law>

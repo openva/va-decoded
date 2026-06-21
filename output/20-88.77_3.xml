@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="9" level="3">Registration and Modification of Child Support Order</unit>
+	</structure>
+	<section_number>20-88.77:3</section_number>
+	<catch_line>Jurisdiction to modify child support order of foreign country</catch_line>
+	<text>
+		<section prefix="A">Except as provided in § 20-88.93, if a foreign country lacks or refuses to exercise jurisdiction to modify its child support order pursuant to its laws, a tribunal of the Commonwealth may assume jurisdiction, for good cause shown as ordered, to modify the child support order and bind all individuals subject to the personal jurisdiction of the tribunal whether or not the consent to modification of a child support order otherwise required of the individual pursuant to § 20-88.76 has been given or whether the individual seeking modification is a resident of the Commonwealth or of the foreign country.
+		</section>
+		<section prefix="B">An order issued by a tribunal of the Commonwealth modifying a foreign child support order pursuant to this section is the controlling order.
+		</section>
+	</text>
+	<history>2005, c. 754; 2015, c. 727.</history>
+</law>

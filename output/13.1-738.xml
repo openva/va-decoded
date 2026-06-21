@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="15" level="3">Appraisal Rights and Other Remedies</unit>
+	</structure>
+	<section_number>13.1-738</section_number>
+	<catch_line>After-acquired shares</catch_line>
+	<text>
+		<section prefix="A">A corporation may elect to withhold payment required by § 13.1-737 from any shareholder who was required to, but did not certify that beneficial ownership of all of the shareholder's shares for which appraisal rights are asserted was acquired before the date set forth in the appraisal notice sent pursuant to subdivision B 1 of § 13.1-734.
+		</section>
+		<section prefix="B">If the corporation elected to withhold payment under subsection A, it shall, within 30 days after the form required by subdivision B 2 b of § 13.1-734 is due, notify all shareholders who are described in subsection A:
+			<section prefix="1">Of the information required by subdivision B 1 of § 13.1-737;
+			</section>
+			<section prefix="2">Of the corporation's estimate of fair value pursuant to subdivision B 2 of § 13.1-737 and its offer to pay such value plus interest;
+			</section>
+			<section prefix="3">That they may accept the corporation's estimate of fair value plus interest in full satisfaction of their demands or demand for appraisal under § 13.1-739;
+			</section>
+			<section prefix="4">That those shareholders who wish to accept such offer must so notify the corporation's secretary of their acceptance of the corporation's offer within 30 days after receiving the offer; and
+			</section>
+			<section prefix="5">That those shareholders who do not satisfy the requirements for demanding appraisal under § 13.1-739 shall be deemed to have accepted the corporation's offer.
+			</section>
+		</section>
+		<section prefix="C">Within 10 days after receiving a shareholder's acceptance pursuant to subsection B, the corporation shall pay in cash the amount it offered under subdivision B 2, plus interest, to each shareholder who agreed to accept the corporation's offer in full satisfaction of the shareholder's demand.
+		</section>
+		<section prefix="D">Within 40 days after delivering the notice described in subsection B, the corporation shall pay in cash the amount it offered to pay under subdivision B 2, plus interest, to each shareholder described in subdivision B 5.
+		</section>
+	</text>
+	<history>1985, c. 522; 2005, c. 765; 2007, c. 165; 2019, c. 734.</history>
+</law>

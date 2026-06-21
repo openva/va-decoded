@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="17.8" level="2">Automatic Renewal Offers and Continuous Service Offers</unit>
+	</structure>
+	<section_number>59.1-207.48</section_number>
+	<catch_line>Exemptions</catch_line>
+	<text>
+		This chapter shall not apply to:
+		<section prefix="1">Any service provided by a supplier or its affiliate where either the supplier or its affiliate is doing business pursuant to a franchise issued by a political subdivision of the Commonwealth or a license, franchise, certificate, or other authorization issued by the State Corporation Commission to a public service company or public utility pursuant to Title 56;
+		</section>
+		<section prefix="2">Any service provided by a supplier or its affiliate where either the supplier or its affiliate is regulated by the State Corporation Commission, the Federal Communications Commission, or the Federal Energy Regulatory Commission;
+		</section>
+		<section prefix="3">Alarm company operators that are regulated pursuant to § 15.2-911;
+		</section>
+		<section prefix="4">A bank, bank holding company, or the subsidiary or affiliate of either, or a credit union or other financial institution, licensed under federal or state law;
+		</section>
+		<section prefix="5">Any home protection company regulated by the State Corporation Commission pursuant to Chapter 26 (§ 38.2-2600 et seq.) of Title 38.2;
+		</section>
+		<section prefix="6">Any home service contract provider regulated by the Department of Agriculture and Consumer Services pursuant to Chapter 33.1 (§ 59.1-434.1 et seq.);
+		</section>
+		<section prefix="7">Any extended service contract provider regulated by the Department of Agriculture and Consumer Services pursuant to Chapter 34 (§ 59.1-435 et seq.) or its affiliates;
+		</section>
+		<section prefix="8">Any insurer or entity regulated under Title 38.2 or an affiliate of such insurer or entity; or
+		</section>
+		<section prefix="9">Any health club registered pursuant to the Virginia Health Club Act (59.1-294 et seq.).
+		</section>
+	</text>
+	<history>2018, c. 704; 2023, c. 288.</history>
+</law>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="3" level="3">Construction</unit>
+	</structure>
+	<section_number>59.1-503.7</section_number>
+	<catch_line>Interpretation and requirements for grant</catch_line>
+	<text>
+		<section prefix="a">A license grants:
+			<section prefix="1">the contractual rights that are expressly described; and
+			</section>
+			<section prefix="2">a contractual right to use any informational rights within the licensor's control at the time of contracting which are necessary in the ordinary course to exercise the expressly described rights.
+			</section>
+		</section>
+		<section prefix="b">If a license expressly limits use of the information or informational rights, use in any other manner is a breach of contract. In all other cases, a license contains an implied limitation that the licensee will not use the information or informational rights otherwise than as described in subsection (a). However, use inconsistent with this implied limitation is not a breach if it is permitted under applicable law in the absence of the implied limitation.
+		</section>
+		<section prefix="c">A party is not entitled to any rights in new versions of, or improvements or modifications to, information made by the other party. A licensor's agreement to provide new versions, improvements, or modifications requires that the licensor provide them as developed and made generally commercially available from time to time by the licensor.
+		</section>
+		<section prefix="d">Neither party is entitled to receive copies of source code, schematics, master copy, design material, or other information used by the other party in creating, developing, or implementing the information.
+		</section>
+		<section prefix="e">Terms concerning scope must be construed under ordinary principles of contract interpretation in light of the informational rights and the commercial context. In addition, the following rules apply:
+			<section prefix="1">A grant of "all possible rights and for all media" or "all rights and for all media now known or later developed," or a grant in similar terms, includes all rights then existing or later created by law and all uses, media, and methods of distribution or exhibition, whether then existing or developed in the future and whether or not anticipated at the time of the grant.
+			</section>
+			<section prefix="2">A grant of an "exclusive license," or a grant in similar terms, means that:
+			</section>
+		</section>
+		<section prefix="A">for the duration of the license, the licensor will not exercise, and will not grant to any other person, rights in the same information or informational rights within the scope of the exclusive grant; and
+		</section>
+		<section prefix="B">the licensor affirms that it has not previously granted those rights in a contract in effect when the licensee's rights may be exercised.
+		</section>
+		<section prefix="f">The rules in this section may be varied only by a record that is sufficient to indicate that a contract has been made and that is:
+			<section prefix="1">authenticated by the party against whom enforcement is sought; or
+			</section>
+			<section prefix="2">prepared and delivered by one party and adopted by the other under § 59.1-502.8 or § 59.1-502.9.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2004, c. 794.</history>
+</law>

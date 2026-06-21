@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.1</section_number>
+	<catch_line>Performance of contract in general</catch_line>
+	<text>
+		<section prefix="a">A party shall perform in a manner that conforms to the contract.
+		</section>
+		<section prefix="b">If an uncured material breach of contract by one party precedes the aggrieved party's performance, the aggrieved party need not perform except with respect to contractual use terms, but the contractual use terms do not apply to information or copies properly received or obtained from another source. In addition, the following rules apply:
+			<section prefix="1">The aggrieved party may refuse a performance that is a material breach as to that performance or a performance that may be refused under § 59.1-507.4 (b).
+			</section>
+			<section prefix="2">The aggrieved party may cancel the contract only if the breach is a material breach of the whole contract or the agreement so provides.
+			</section>
+		</section>
+		<section prefix="c">Except as otherwise provided in subsection (b), tender of performance by a party entitles the party to acceptance of that performance. In addition, the following rules apply:
+			<section prefix="1">A tender of performance occurs when the party, with manifest present ability and willingness to perform, offers to complete the performance.
+			</section>
+			<section prefix="2">If a performance by the other party is due at the time of the tendered performance, tender of the other party's performance is a condition to the tendering party's obligation to complete the tendered performance.
+			</section>
+			<section prefix="3">A party shall pay or render the consideration required by the agreement for a performance it accepts. A party that accepts a performance has the burden of establishing a breach of contract with respect to the accepted performance.
+			</section>
+		</section>
+		<section prefix="d">Except as otherwise provided in §§ 59.1-506.3 and 59.1-506.4, in the case of a performance with respect to a copy, this section is subject to §§ 59.1-506.6 through 59.1-506.10 and 59.1-507.4 through 59.1-507.7.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

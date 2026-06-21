@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="14.1" level="3">Peer-to-Peer Vehicle Sharing</unit>
+	</structure>
+	<section_number>46.2-1408</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, unless the context requires a different meaning:
+		"Peer-to-peer vehicle sharing" means the authorized use of a shared vehicle by a shared vehicle driver through a peer-to-peer vehicle sharing platform.
+		"Peer-to-peer vehicle sharing platform" means an online-enabled application, website, or system that connects vehicle owners with drivers to enable the sharing of peer-to-peer shared vehicles for financial consideration.
+		"Shared vehicle" means a motor vehicle that has been made available for sharing through a peer-to-peer vehicle sharing platform. "Shared vehicle" does not include a daily rental vehicle as defined in § 58.1-1735.
+		"Shared vehicle driver" means an individual who has been authorized to operate a shared vehicle by the shared vehicle owner under a vehicle sharing platform agreement.
+		"Shared vehicle owner" means the registered owner, or a person or entity designated by the registered owner, of a vehicle made available for sharing to shared vehicle drivers through a peer-to-peer vehicle sharing platform.
+		"Vehicle sharing delivery period" means the period of time beginning when the agent of a peer-to-peer vehicle sharing platform takes custody of the shared vehicle and ending when the shared vehicle arrives at the location agreed upon in the governing vehicle sharing platform agreement.
+		"Vehicle sharing period" means the period of time that commences with the vehicle sharing delivery period or, if there is no vehicle sharing delivery period, that commences when the vehicle sharing start time occurs and ends at the vehicle sharing termination time.
+		"Vehicle sharing platform agreement" means the terms and conditions applicable to a shared vehicle owner and a shared vehicle driver that govern the use of a shared vehicle through a peer-to-peer vehicle sharing platform.
+		"Vehicle sharing start time" means the time when the shared vehicle becomes subject to the control of the shared vehicle driver at or after the sharing of a shared vehicle is scheduled to begin as documented in the records of a peer-to-peer vehicle sharing platform.
+		"Vehicle sharing termination time" means the earliest of the following events:
+		<section prefix="1">When the shared vehicle is delivered to the location agreed upon in the vehicle sharing platform agreement on or after the expiration of the agreed-upon period of time established for the use of a shared vehicle according to the terms of the vehicle sharing platform agreement;
+		</section>
+		<section prefix="2">When the shared vehicle is returned to a location as alternatively agreed upon by the shared vehicle owner and shared vehicle driver within the agreed-upon period of time as communicated through a peer-to-peer vehicle sharing platform; or
+		</section>
+		<section prefix="3">When the shared vehicle owner, or the shared vehicle owner's authorized designee, takes possession and control of the shared vehicle.
+		</section>
+	</text>
+	<history>2020, c. 1266.</history>
+</law>

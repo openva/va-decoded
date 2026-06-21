@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="1.1" level="3">Ratification of Defective Corporate Actions</unit>
+	</structure>
+	<section_number>13.1-614.2</section_number>
+	<catch_line>Defective corporate actions</catch_line>
+	<text>
+		<section prefix="A">A defective corporate action shall not be void or voidable if ratified in accordance with § 13.1-614.3 or validated in accordance with § 13.1-614.8.
+		</section>
+		<section prefix="B">Ratification under § 13.1-614.3 or validation under § 13.1-614.8 shall not be deemed to be the exclusive means of ratifying or validating any defective corporate action, and the absence or failure of ratification in accordance with this article shall not, of itself, affect the validity or effectiveness of any corporate action properly ratified under this chapter, common law, or otherwise, nor shall it create a presumption that any such corporate action is or was a defective corporate action or void or voidable.
+		</section>
+		<section prefix="C">In the case of an over-issuance of shares, putative shares shall be valid shares effective as of the date originally issued or purportedly issued upon:
+			<section prefix="1">The effectiveness under this article and under Article 11 (§ 13.1-705 et seq.) of an amendment of the articles of incorporation authorizing, designating, or creating such shares; or
+			</section>
+			<section prefix="2">The effectiveness of any other corporate action under this article ratifying the authorization, designation, or creation of such shares.
+			</section>
+		</section>
+	</text>
+	<history>2019, c. 734.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="2" level="2">Issue and Issuer</unit>
+	</structure>
+	<section_number>8.8A-205</section_number>
+	<catch_line>Effect of unauthorized signature on security certificate</catch_line>
+	<text>
+		An unauthorized signature placed on a security certificate before or in the course of issue is ineffective, but the signature is effective in favor of a purchaser for value of the certificated security if the purchaser is without notice of the lack of authority and the signing has been done by:
+		<section prefix="1">an authenticating trustee, registrar, transfer agent, or other person entrusted by the issuer with the signing of the security certificate or of similar security certificates, or the immediate preparation for signing of any of them; or
+		</section>
+		<section prefix="2">an employee of the issuer, or of any of the persons listed in paragraph (1), entrusted with responsible handling of the security certificate.
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

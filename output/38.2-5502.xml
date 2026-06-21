@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="55" level="2">Risk-Based Capital Act</unit>
+	</structure>
+	<section_number>38.2-5502</section_number>
+	<catch_line>RBC Reports</catch_line>
+	<text>
+		<section prefix="A">Every domestic licensee shall, on or prior to each March 1, the "filing date," prepare and submit to the Commission a report of its RBC Levels as of the end of the calendar year just ended, in a form and containing such information as is required by the RBC Instructions. In addition, every domestic licensee shall file its RBC Report:
+			<section prefix="1">With the NAIC in accordance with the RBC Instructions; and
+			</section>
+			<section prefix="2">With the insurance commissioner in any state in which the licensee is authorized to do business, if the insurance commissioner has notified the licensee of its request in writing, in which case, the licensee shall file its RBC Report not later than the later of:
+				a. Fifteen days from the receipt of notice to file its RBC Report with that state; or
+				b. The filing date.
+			</section>
+		</section>
+		<section prefix="B">A life and health insurer's RBC shall be determined in accordance with the formula set forth in the RBC Instructions. The formula shall take into account, and may adjust for the covariance between, the following risks:
+			<section prefix="1">The risk with respect to the insurer's assets;
+			</section>
+			<section prefix="2">The risk of adverse insurance experience with respect to the insurer's liabilities and obligations;
+			</section>
+			<section prefix="3">The interest rate risk with respect to the insurer's business; and
+			</section>
+			<section prefix="4">All other business risks and such other relevant risks as are set forth in the RBC Instructions.
+				Each risk shall be determined in each case by applying the factors in the manner set forth in the RBC Instructions.
+			</section>
+		</section>
+		<section prefix="C">A property and casualty insurer's RBC shall be determined in accordance with the formula set forth in the RBC Instructions. The formula shall take into account, and may adjust for the covariance between, the following risks:
+			<section prefix="1">Asset risk;
+			</section>
+			<section prefix="2">Credit risk;
+			</section>
+			<section prefix="3">Underwriting risk; and
+			</section>
+			<section prefix="4">All other business risks and such other relevant risks as are set forth in the RBC Instructions.
+				Each risk shall be determined in each case by applying the factors in the manner set forth in the RBC Instructions.
+			</section>
+		</section>
+		<section prefix="D">A health organization's RBC shall be determined in accordance with the formula set forth in the RBC Instructions. The formula shall take into account, and may adjust for the covariance between, the following risks:
+			<section prefix="1">Asset risk;
+			</section>
+			<section prefix="2">Credit risk;
+			</section>
+			<section prefix="3">Underwriting risk; and
+			</section>
+			<section prefix="4">All other business risks and such other relevant risks as are set forth in the RBC Instructions.
+				Each risk shall be determined in each case by applying the factors in the manner set forth in the RBC Instructions.
+			</section>
+		</section>
+		<section prefix="E">An excess of capital over the amount produced by the risk-based capital requirements contained in this Act and the formulas, schedules and instructions referred to in this Act is desirable in the business of insurance. Accordingly, licensees should seek to maintain capital above the RBC levels required by this Act. Additional capital is used and useful in the insurance business and helps to secure a licensee against various risks inherent in, or affecting, the business of insurance and not accounted for or only partially measured by the risk-based capital requirements contained in this Act.
+		</section>
+		<section prefix="F">If a domestic licensee files an RBC Report which in the judgment of the Commission is inaccurate, then the Commission shall adjust the RBC Report to correct the inaccuracy and shall notify the licensee of the adjustment. The notice shall contain a statement of the reason for the adjustment. An RBC Report as so adjusted is referred to as an "Adjusted RBC Report."
+		</section>
+	</text>
+	<history>1995, c. 789; 2000, c. 47.</history>
+</law>

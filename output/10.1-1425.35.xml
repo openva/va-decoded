@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.6" level="4">Computer Recovery and Recycling Act</unit>
+	</structure>
+	<section_number>10.1-1425.35</section_number>
+	<catch_line>Financial and proprietary information</catch_line>
+	<text>
+		Financial or proprietary information submitted to the Department under this article is exempt from public disclosure.
+	</text>
+	<history>2008, c. 541.</history>
+</law>

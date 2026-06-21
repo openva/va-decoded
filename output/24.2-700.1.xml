@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="7" level="2">Absentee Voting</unit>
+	</structure>
+	<section_number>24.2-700.1</section_number>
+	<catch_line>Persons entitled to vote by absentee ballot; persons confined awaiting trial or for conviction of a misdemeanor</catch_line>
+	<text>
+		Any registered voter who is confined while awaiting trial or for having been convicted of a misdemeanor may vote by absentee ballot. Subject to penalties for interference with voting pursuant to § 24.2-1005.2, the institution or facility in which such voter is confined shall:
+		<section prefix="1">Provide such voter with the means and opportunity to complete and submit a timely application for an absentee ballot in accordance with § 24.2-701.
+		</section>
+		<section prefix="2">Provide such voter with the means and opportunity to mark his absentee ballot in accordance with the provisions of § 24.2-707.
+		</section>
+		<section prefix="3">Ensure such voter's marked absentee ballot is returned in accordance with the provisions of § 24.2-709.
+		</section>
+	</text>
+	<history>2024, c. 553.</history>
+</law>

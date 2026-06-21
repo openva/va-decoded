@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-401.1</section_number>
+	<catch_line>Certified mail; subsequent mail or notices may be sent by regular mail</catch_line>
+	<text>
+		Whenever in the Code of Virginia the Secretary is required to send any mail or notice by certified mail and such mail or notice is sent certified mail, return receipt requested, then any subsequent, identical mail or notice that is sent by the Secretary may be sent by regular mail.
+	</text>
+	<history>2011, c. 566.</history>
+</law>

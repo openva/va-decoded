@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="3" level="3">Priority</unit>
+	</structure>
+	<section_number>8.9A-333</section_number>
+	<catch_line>Priority of certain liens arising by operation of law</catch_line>
+	<text>
+		<section prefix="a">"Possessory lien." In this section, "possessory lien" means an interest, other than a security interest or an agricultural lien:
+			<section prefix="1">which secures payment or performance of an obligation for services or materials furnished with respect to goods by a person in the ordinary course of the person's business;
+			</section>
+			<section prefix="2">which is created by statute or rule of law in favor of the person; and
+			</section>
+			<section prefix="3">whose effectiveness depends on the person's possession of the goods.
+			</section>
+		</section>
+		<section prefix="b">Priority of possessory lien. A possessory lien on goods has priority over a security interest in the goods unless the lien is created by a statute that expressly provides otherwise.
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-310; 2000, c. 1007.</history>
+</law>

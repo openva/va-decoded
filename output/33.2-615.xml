@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="33.2" level="1">Highways and Other Surface Transportation Systems</unit>
+		<unit label="subtitle" identifier="II" level="2">Modes of Transportation: Highways, Bridges, Ferries, Rail, and Public Transportation</unit>
+		<unit label="chapter" identifier="6" level="3">Ferries and Toll Facilities</unit>
+	</structure>
+	<section_number>33.2-615</section_number>
+	<catch_line>Electronic notification of unpaid tolls</catch_line>
+	<text>
+		For the purpose of electronic notification of unpaid tolls, the Department shall request email addresses and personal cell phone numbers from all holders of an account for an electronic toll collection device that is the property of the Commonwealth.
+		The Department shall electronically notify a holder of an account for an electronic toll collection device that is the property of the Commonwealth of each unpaid toll, within 108 hours of such unpaid toll, (i) when such device is detected by the toll operator or (ii) when such device is not detected by the toll operator but whose vehicle is associated with such account. The Department shall provide a second electronic notification on the eighth day after the unpaid toll. Such notification requirements shall only apply to accounts where the account holder has provided the Department with an email address or cell phone number. Such notification shall be for informational purposes only and the notice, or lack thereof, shall not alter or amend the requirement that an owner or operator pay all required tolls, fines, penalties, and fees.
+		All toll operators in the Commonwealth shall notify the Department of an unpaid toll on a facility it operates related to an account for an electronic toll collection device that is the property of the Commonwealth within 96 hours of such violation.
+	</text>
+	<history>2016, c. 753.</history>
+</law>

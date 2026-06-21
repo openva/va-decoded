@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="10" level="3">Motor Vehicle and Equipment Safety</unit>
+		<unit label="article" identifier="1" level="4">Vehicle and Equipment Safety, Generally</unit>
+	</structure>
+	<section_number>46.2-1001.1</section_number>
+	<catch_line>Special equipment required for converted electric vehicles</catch_line>
+	<text>
+		In addition to any other equipment required by this chapter, no converted electric vehicle may be registered in or operated on the highways of the Commonwealth without the following:
+		<section prefix="1">Orange-colored high voltage cables and high voltage markings on all conduit containing high voltage cables. No high voltage cables may be attached to the chassis of the vehicle in such a way as to cause the chassis to be used to ground the electric current;
+		</section>
+		<section prefix="2">A breaker or fuse in the high voltage circuit that contains the traction battery pack and the motor controller. Such breaker or fuse must be rated to interrupt the expected maximum current at or above the battery pack voltage;
+		</section>
+		<section prefix="3">An externally mounted switch to open the high voltage circuit in case of an emergency. Such switch must be located where the fuel tank filler cap was located prior to conversion. Any cover protecting the switch must be able to be opened from the outside of the vehicle;
+		</section>
+		<section prefix="4">Traction batteries mounted in secure nonconductive enclosures that provide for limited access. Multiple enclosures may be used but must be connected by high voltage cables encased in conduit made of metal, composite, or other materials of comparable strength, crush, and abrasion resistance to metal or composite;
+		</section>
+		<section prefix="5">If batteries other than lead acid batteries are used as traction batteries, a temperature monitoring system that monitors the temperature of at least one battery in each battery enclosure. Such system must warn the driver of the vehicle if the temperature of the battery is rising rapidly or is above safe levels;
+		</section>
+		<section prefix="6">Conduit made of metal, composite, or other materials of comparable strength, crush, and abrasion resistance to metal or composite, encasing any high voltage cables running under or outside of the vehicle. Such conduit must be secured to the vehicle chassis and must not violate the ground clearance provisions of § 46.2-1063;
+		</section>
+		<section prefix="7">A vacuum system and pump, or comparable equipment, to maintain proper brake function and capacity, as required by this chapter; and
+		</section>
+		<section prefix="8">Labeling on three sides of the vehicle identifying such vehicle as "CONVERTED ELECTRIC." Each label shall be at least six inches long and consist of lettering at least three inches tall.
+			At such time as the federal government establishes minimum equipment and safety standards, including any related to synthetic vehicle sounds, for converted electric vehicles, to the extent that such standards are different from the standards established by this section, the federal standards shall apply to converted electric vehicles in the Commonwealth. If any federal standard conflicts with a standard set forth by this section, the stricter standard shall prevail.
+		</section>
+	</text>
+	<history>2012, c. 177.</history>
+</law>

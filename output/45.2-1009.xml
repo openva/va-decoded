@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="C" level="3">Surface Coal Mines</unit>
+		<unit label="chapter" identifier="10" level="4">Virginia Coal Surface Mining Control and Reclamation Act of 1979</unit>
+		<unit label="article" identifier="2" level="5">Regulation of Mining Activity</unit>
+	</structure>
+	<section_number>45.2-1009</section_number>
+	<catch_line> Permit required for coal surface mining operation; term; transfer, etc</catch_line>
+	<text>
+		<section prefix="A">No person shall engage in or carry out any coal surface mining operation without having first obtained a permit to engage in such operation issued by the Director in accordance with state regulations.
+		</section>
+		<section prefix="B">Each coal surface mining permit issued pursuant to the requirements of this chapter shall be for a term of five years. The rights granted under such permit shall not be transferred, assigned, or sold without the written approval of the Director in accordance with regulations adopted by the Director. The Director shall also adopt regulations meeting the requirements of § 506 of the federal act for longer permit terms, successors in interest to the permittee, termination of the permit for failure to commence operation, right of and procedure for permit renewal, and extension of boundaries of a mining operation.
+		</section>
+	</text>
+	<history>1979, c. 290, § 45.1-234; 1980, c. 364; 1983, c. 134; 1984, c. 590; 2013, cc. 47, 129; 2021, Sp. Sess. I, c. 387.</history>
+</law>

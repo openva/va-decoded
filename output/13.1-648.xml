@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Shares and Distributions</unit>
+	</structure>
+	<section_number>13.1-648</section_number>
+	<catch_line>Shares without certificates</catch_line>
+	<text>
+		<section prefix="A">Unless the articles of incorporation or bylaws provide otherwise, the board of directors of a corporation may authorize the issuance of some or all of the shares of any or all of its classes or series without certificates. The authorization does not affect shares already represented by certificates until they are surrendered to the corporation.
+		</section>
+		<section prefix="B">Within a reasonable time after the issuance or transfer of shares without certificates, the corporation shall deliver to the shareholder a written statement of the information required on certificates by subsections B and C of § 13.1-647, and, if applicable, § 13.1-649.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-20; 1956, c. 428; 1958, c. 564; 1972, c. 580; 1984, c. 613; 1985, c. 522; 2019, c. 734.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="3" level="5">Registration of Lobbyists</unit>
+	</structure>
+	<section_number>2.2-428</section_number>
+	<catch_line>Standards for automated preparation and transmittal of lobbyist's disclosure statements; database</catch_line>
+	<text>
+		<section prefix="A">The Virginia Conflict of Interest and Ethics Advisory Council shall accept any lobbyist's disclosure statements required by § 2.2-426 filed by computer or electronic means in accordance with the standards approved by the Council pursuant to the provisions of § 30-356.
+		</section>
+		<section prefix="B">The Secretary shall establish a lobbyist disclosure database, available to the public, from required disclosure statements filed electronically and may enter into that database information from required disclosure statements filed by other methods. The Secretary shall maintain such database until January 1, 2016.
+		</section>
+	</text>
+	<history>1997, cc. 364, 392, § 2.1-787.1; 2001, c. 844; 2014, cc. 792, 804.</history>
+</law>

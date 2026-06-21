@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="IV" level="2">Common Interest Communities</unit>
+		<unit label="chapter" identifier="21" level="3">Virginia Real Estate Cooperative Act</unit>
+		<unit label="article" identifier="3" level="4">Management of Cooperatives</unit>
+	</structure>
+	<section_number>55.1-2141</section_number>
+	<catch_line>Quorums</catch_line>
+	<text>
+		<section prefix="A">Unless the bylaws provide otherwise, a quorum is present throughout any meeting of the association if persons entitled to cast 20 percent of the votes that may be cast for election of the executive board are present in person or by proxy at the beginning of the meeting.
+		</section>
+		<section prefix="B">Unless the bylaws specify a larger percentage, a quorum is deemed present throughout any meeting of the executive board if persons entitled to cast 50 percent of the votes on that board are present at the beginning of the meeting.
+		</section>
+	</text>
+	<history>1982, c. 277, § 55-466; 2019, c. 712.</history>
+</law>

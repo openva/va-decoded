@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="7" level="3">Breach of Contract</unit>
+	</structure>
+	<section_number>59.1-507.9</section_number>
+	<catch_line>Anticipatory repudiation</catch_line>
+	<text>
+		<section prefix="a">If a party to a contract repudiates a performance not yet due and the loss of performance will substantially impair the value of the contract to the other party, the aggrieved party may:
+			<section prefix="1">await performance by the repudiating party for a commercially reasonable time or resort to any remedy for breach of contract, even if it has urged the repudiating party to retract the repudiation or has notified the repudiating party that it would await its performance; and
+			</section>
+			<section prefix="2">in either case, suspend its own performance or proceed in accordance with § 59.1-508.12 or § 59.1-508.13, as applicable.
+			</section>
+		</section>
+		<section prefix="b">Repudiation includes language that one party will not or cannot make a performance still due under the contract or voluntary, affirmative conduct that reasonably appears to the other party to make a future performance impossible.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

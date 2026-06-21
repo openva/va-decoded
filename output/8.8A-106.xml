@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="1" level="2">Short Title and General Matters</unit>
+	</structure>
+	<section_number>8.8A-106</section_number>
+	<catch_line>Control</catch_line>
+	<text>
+		<section prefix="a">A purchaser has "control" of a certificated security in bearer form if the certificated security is delivered to the purchaser.
+		</section>
+		<section prefix="b">A purchaser has "control" of a certificated security in registered form if the certificated security is delivered to the purchaser, and:
+			<section prefix="1">the certificate is endorsed to the purchaser or in blank by an effective endorsement; or
+			</section>
+			<section prefix="2">the certificate is registered in the name of the purchaser, upon original issue or registration of transfer by the issuer.
+			</section>
+		</section>
+		<section prefix="c">A purchaser has "control" of an uncertificated security if:
+			<section prefix="1">the uncertificated security is delivered to the purchaser; or
+			</section>
+			<section prefix="2">the issuer has agreed that it will comply with instructions originated by the purchaser without further consent by the registered owner.
+			</section>
+		</section>
+		<section prefix="d">A purchaser has "control" of a security entitlement if:
+			<section prefix="1">the purchaser becomes the entitlement holder;
+			</section>
+			<section prefix="2">the securities intermediary has agreed that it will comply with entitlement orders originated by the purchaser without further consent by the entitlement holder; or
+			</section>
+			<section prefix="3">another person, other than the transferor to the purchaser of an interest in the security entitlement:
+			</section>
+		</section>
+		<section prefix="A">has control of the security entitlement and acknowledges that it has control on behalf of the purchaser; or
+		</section>
+		<section prefix="B">obtains control of the security entitlement after having acknowledged that it will obtain control of the security entitlement on behalf of the purchaser.
+		</section>
+		<section prefix="e">If an interest in a security entitlement is granted by the entitlement holder to the entitlement holder's own securities intermediary, the securities intermediary has control.
+		</section>
+		<section prefix="f">A purchaser who has satisfied the requirements of subsection (c) or (d) has control even if the registered owner in the case of subsection (c) or the entitlement holder in the case of subsection (d) retains the right to make substitutions for the uncertificated security or security entitlement, to originate instructions or entitlement orders to the issuer or securities intermediary, or otherwise to deal with the uncertificated security or security entitlement.
+		</section>
+		<section prefix="g">An issuer or a securities intermediary may not enter into an agreement of the kind described in subsection (c) (2) or (d) (2) without the consent of the registered owner or entitlement holder, but an issuer or a securities intermediary is not required to enter into such an agreement even though the registered owner or entitlement holder so directs. An issuer or securities intermediary that has entered into such an agreement is not required to confirm the existence of the agreement to another party unless requested to do so by the registered owner or entitlement holder.
+		</section>
+		<section prefix="h">A person that has control under this section is not required to acknowledge that it has control on behalf of a purchaser.
+		</section>
+		<section prefix="i">If a person acknowledges that it has or will obtain control on behalf of a purchaser, unless the person otherwise agrees or law other than this Article or Article 9 otherwise provides, the person does not owe any duty to the purchaser and is not required to confirm the acknowledgement to any other person.
+		</section>
+	</text>
+	<history>1996, c. 216; 2000, c. 1007; 2024, c. 652.</history>
+</law>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="B" level="3">Powers of Attorney</unit>
+		<unit label="chapter" identifier="16" level="4">Uniform Power of Attorney Act</unit>
+		<unit label="article" identifier="2" level="5">Authority</unit>
+	</structure>
+	<section_number>64.2-1622</section_number>
+	<catch_line>Authority that requires specific grant; grant of general authority</catch_line>
+	<text>
+		<section prefix="A">Subject to the provisions of subsection H, an agent under a power of attorney may do the following on behalf of the principal or with the principal's property only if the power of attorney expressly grants the agent the authority and exercise of the authority is not otherwise prohibited or limited by another statute, agreement, or instrument to which the authority or property is subject:
+			<section prefix="1">Create, amend, revoke, or terminate an inter vivos trust;
+			</section>
+			<section prefix="2">Make a gift;
+			</section>
+			<section prefix="3">Create or change rights of survivorship;
+			</section>
+			<section prefix="4">Create or change a beneficiary designation;
+			</section>
+			<section prefix="5">Delegate authority granted under the power of attorney;
+			</section>
+			<section prefix="6">Waive the principal's right to be a beneficiary of a joint and survivor annuity, including a survivor benefit under a retirement plan;
+			</section>
+			<section prefix="7">Exercise fiduciary powers that the principal has authority to delegate; or
+			</section>
+			<section prefix="8">Have authority over the content of an electronic communication of the principal as provided by § 64.2-123.
+			</section>
+		</section>
+		<section prefix="B">Notwithstanding a grant of authority to do an act described in subsection A or H, unless the power of attorney otherwise provides, an agent that is not an ancestor, spouse, or descendant of the principal may not exercise authority under a power of attorney to create in the agent, or in an individual to whom the agent owes a legal obligation of support, an interest in the principal's property, whether by gift, right of survivorship, beneficiary designation, disclaimer, or otherwise.
+		</section>
+		<section prefix="C">Subject to subsections A, B, D, and E, if a power of attorney grants to an agent authority to do all acts that a principal could do, the agent has the general authority described in § 64.2-124 and §§ 64.2-1625 through 64.2-1637.
+		</section>
+		<section prefix="D">Unless the power of attorney otherwise provides and subject to subsection H, a grant of authority to make a gift is subject to § 64.2-1638.
+		</section>
+		<section prefix="E">Subject to subsections A, B, and D, if the subjects over which authority is granted in a power of attorney are similar or overlap, the broadest authority controls.
+		</section>
+		<section prefix="F">Authority granted in a power of attorney is exercisable with respect to property that the principal has when the power of attorney is executed or acquires later, whether or not the property is located in the Commonwealth and whether or not the authority is exercised or the power of attorney is executed in the Commonwealth.
+		</section>
+		<section prefix="G">An act performed by an agent pursuant to a power of attorney has the same effect and inures to the benefit of and binds the principal and the principal's successors in interest as if the principal had performed the act.
+		</section>
+		<section prefix="H">Notwithstanding the provisions of subsection A, if a power of attorney grants to an agent authority to do all acts that a principal could do, the agent shall have the authority to make gifts in any amount of any of the principal's property to any individuals or to organizations described in §§ 170(c) and 2522(a) of the Internal Revenue Code or corresponding future provisions of federal tax law, or both, in accordance with the principal's personal history of making or joining in the making of lifetime gifts. This subsection shall not in any way impair the right or power of any principal, by express words in the power of attorney, to authorize, or limit the authority of, an agent to make gifts of the principal's property.
+		</section>
+	</text>
+	<history>2010, cc. 455, 632, § 26-95; 2012, c. 614; 2017, cc. 33, 80.</history>
+</law>

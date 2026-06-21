@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="9.3" level="2">Campaign Finance Disclosure Act of 2006</unit>
+		<unit label="article" identifier="7" level="3">Inaugural Committees</unit>
+	</structure>
+	<section_number>24.2-952.4</section_number>
+	<catch_line>Filing schedule for inaugural committees</catch_line>
+	<text>
+		An inaugural committee shall file the prescribed reports of contributions and expenditures as follows:
+		<section prefix="1">Not later than March 15 immediately following the inauguration for all contributions and expenditures made prior to the preceding March 1;
+		</section>
+		<section prefix="2">Not later than July 15 of the inauguration year complete through June 30;
+		</section>
+		<section prefix="3">Not later than the following January 15 complete through December 31; and
+		</section>
+		<section prefix="4">Not later than January 15 complete through December 31 and annually thereafter until a final report is filed.
+		</section>
+	</text>
+	<history>1991, cc. 474, 709, §§ 24.1-254.3, 24.1-924; 1993, c. 641, §§ 24.2-913, 24.2-924; 2006, cc. 787, 892.</history>
+</law>

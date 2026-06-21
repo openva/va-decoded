@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="10" level="3">Entities Conducting Trust Business</unit>
+		<unit label="article" identifier="1" level="4">Trust Powers and Trust Business</unit>
+	</structure>
+	<section_number>6.2-1006</section_number>
+	<catch_line>Custody of trust securities to be kept separate; federal securities and obligations</catch_line>
+	<text>
+		<section prefix="A">The securities and investments held in each trust shall be kept separate and distinct from the securities owned by the trust institution. The trust institution shall at all times show upon its trust records the interests of each separate fiduciary account and trust in each particular security or investment held by it in a fiduciary capacity. Trust securities and investments shall be placed in the joint custody or control of two or more officers or other employees designated by the board of directors of the trust institution. Such joint custody shall be interpreted to mean that neither of such officers or employees shall have access alone at any time to such securities and investments. All such officers and employees shall be bonded.
+		</section>
+		<section prefix="B">Securities and obligations of the United States and of agencies of the United States government may be held for the account of the trust institution by a Federal Reserve Bank in a book-entry custody account, without the requirement of the trust institution having physical possession of such securities, provided at all times that the records of the Federal Reserve Bank and the trust institution shall at all times identify separately those securities held for the account of the trust institution and those held by the trust institution in a fiduciary capacity.
+		</section>
+	</text>
+	<history>Code 1950, § 6-100; 1966, c. 584, § 6.1-22; 1968, c. 59; 1974, cc. 75, 665; 2010, c. 794.</history>
+</law>

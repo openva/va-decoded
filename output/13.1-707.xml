@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="11" level="3">Amendment of Articles of Incorporation and Bylaws</unit>
+	</structure>
+	<section_number>13.1-707</section_number>
+	<catch_line>Amendment of articles of incorporation by the board of directors and shareholders</catch_line>
+	<text>
+		<section prefix="A">Except where shareholder approval of an amendment of the articles of incorporation is not required by this chapter, an amendment of the articles of incorporation shall be adopted in the following manner:
+			<section prefix="1">The proposed amendment shall first be adopted by the board of directors.
+			</section>
+			<section prefix="2">After adopting the proposed amendment the board of directors shall submit the amendment to the shareholders for their approval. The board of directors shall also recommend that the shareholders approve the amendment, unless the board of directors makes a determination that because of conflicts of interest or other special circumstances it should not make such a recommendation, in which case the board of directors shall inform the shareholders of the basis for that determination; and
+			</section>
+			<section prefix="3">The shareholders entitled to vote on the amendment shall approve the amendment as provided in subsection D.
+			</section>
+		</section>
+		<section prefix="B">The board of directors may set conditions for the approval of the amendment by the shareholders or the effectiveness of the amendment.
+		</section>
+		<section prefix="C">If shareholder approval is to be sought at a shareholders' meeting, the corporation shall notify each shareholder, whether or not entitled to vote, of the proposed shareholders' meeting in accordance with § 13.1-658. The notice shall state that the purpose, or one of the purposes, of the meeting is to consider the amendment and shall contain or be accompanied by a copy of the amendment.
+		</section>
+		<section prefix="D">Unless this chapter, the articles of incorporation, or the board of directors, acting pursuant to subsection B, requires a greater vote, approval of the amendment requires the approval of each voting group entitled to vote on the amendment by more than two-thirds of all the votes entitled to be cast by that voting group. The articles of incorporation may provide for a greater or lesser vote than that provided for in this subsection or a vote by separate voting groups so long as the vote provided for is not less than a majority of all the votes cast on the amendment by each voting group entitled to vote on the amendment at a meeting at which a quorum of the voting group exists.
+		</section>
+		<section prefix="E">If as a result of an amendment of the articles of incorporation one or more shareholders of a domestic corporation would become subject to new interest holder liability, approval of the amendment requires the signing in connection with the amendment, by each such shareholder, of a separate written consent to become subject to such new interest holder liability, unless in the case of a shareholder that already has interest holder liability the terms and conditions of the new interest holder liability (i) are substantially identical to those of the existing interest holder liability or (ii) are substantially identical to those of the existing interest holder liability other than changes that eliminate or reduce such interest holder liability.
+		</section>
+		<section prefix="F">For purposes of subsection E, "new interest holder liability" means interest holder liability of a person resulting from an amendment of the articles of incorporation if (i) the person did not have interest holder liability before the amendment becomes effective or (ii) the person had interest holder liability before the amendment becomes effective, the terms and conditions of which are changed when the amendment becomes effective.
+		</section>
+		<section prefix="G">When an exchange, reclassification, or change of shares is effected by amendment of the articles of incorporation, and a material difference in right results, or the corporate name is changed, the action of the board of directors or shareholders authorizing the amendment may prescribe a time after which the holders of the old shares shall no longer be entitled to receive distributions or to vote or to exercise any other rights as shareholders until certificates, if any, representing the old shares are surrendered in exchange for certificates representing the new shares. But upon such surrender all distributions not paid because of this provision shall be paid without interest.
+		</section>
+		<section prefix="H">An amendment of the articles of incorporation may be further amended prior to the effective date of the certificate of amendment of the articles of incorporation; however, if the shareholders of the corporation are required by any provision of this chapter or the articles of incorporation to vote on the amendment of the articles of incorporation, the amendment of the articles of incorporation may not be further amended subsequent to approval of the amendment by such shareholders without the approval of the shareholders.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-37, 13.1-19, 13.1-56; 1956, c. 428; 1972, c. 580; 1975, c. 500; 1985, c. 522; 2005, c. 765; 2019, c. 734.</history>
+</law>

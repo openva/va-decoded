@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="19.1" level="3">Money Transmitters</unit>
+	</structure>
+	<section_number>6.2-1947</section_number>
+	<catch_line>(Effective July 1, 2026) Receipts</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "receipt" means a paper, electronic, or other written confirmation of money received for transmission.
+		</section>
+		<section prefix="B">Every licensee or its authorized delegate shall provide the sender a receipt for money received for transmission. The receipt shall contain, as applicable:
+			<section prefix="1">The name of the sender;
+			</section>
+			<section prefix="2">The name of the designated recipient;
+			</section>
+			<section prefix="3">The date of the transaction;
+			</section>
+			<section prefix="4">The unique transaction or identification number;
+			</section>
+			<section prefix="5">The name of the licensee, the licensee's NMLS Unique ID number, the licensee's business address, and the licensee's customer service telephone number;
+			</section>
+			<section prefix="6">The amount of money to be transmitted in United States dollars;
+			</section>
+			<section prefix="7">Any fee charged by the licensee to the sender for the transaction; and
+			</section>
+			<section prefix="8">Any taxes collected by the licensee from the sender for the transaction.
+			</section>
+		</section>
+		<section prefix="C">For a transaction conducted in person, the receipt may be provided electronically if the sender requests or agrees to receive an electronic receipt. For a transaction conducted electronically or by phone, a receipt shall be provided electronically. All electronic receipts shall be provided by email or in another retainable form. The receipt shall be in English and in the language principally used by the licensee or authorized delegate, if other than English, to advertise, solicit, or negotiate a transaction.
+		</section>
+		<section prefix="D">The provisions of this section shall not apply to (i) money received for transmission subject to the federal Remittance Rule (12 C.F.R. Part 1005, Subpart B); (ii) money received for transmission that is not primarily for personal, family, or household purposes; (iii) money received for transmission pursuant to a written agreement between the licensee and a payee to process payments for goods or services provided by the payee; or (iv) payroll processing services.
+		</section>
+	</text>
+	<history>2025, c. 214.</history>
+</law>

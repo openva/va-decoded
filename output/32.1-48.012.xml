@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="3.02" level="3">Quarantine and Isolation of Persons With Communicable Diseases of Public Health Threat</unit>
+	</structure>
+	<section_number>32.1-48.012</section_number>
+	<catch_line>Isolation order</catch_line>
+	<text>
+		<section prefix="A">The State Health Commissioner shall, prior to placing any person or persons in isolation, prepare a written order of isolation that shall: (i) identify the person or persons subject to such order of isolation; (ii) identify the site of isolation, which may, in the Commissioner's discretion, include the residence of any isolated individual; (iii) specify the date and time that isolation is to commence; (iv) identify the communicable disease of public health threat or the suspected communicable disease of public health threat with which the person or persons are known to be infected or reasonably suspected to be infected; (v) specify the bases for isolation, including why isolation is the necessary means to contain transmission of the disease, and any conditions of the isolation; (vi) provide timely opportunities, if not readily available under the circumstances, for the person or person who are subject to the order to notify employers, next of kin or legally authorized representatives and the attorneys of their choice of the situation; (vii) specify the penalty or penalties that may be imposed for noncompliance with order of isolation pursuant to § 32.1-27; and (viii) include a copy of § 32.1-48.013 to inform any person or persons subject to an order of isolation of the right to seek judicial review or the order.
+		</section>
+		<section prefix="B">No affected area shall be the subject of an order of isolation prepared by the State Health Commissioner unless the Governor, pursuant to the authority vested in him pursuant to Chapter 3.2 (§ 44-146.13 et seq.) of Title 44, has declared a state of emergency for such affected area of the Commonwealth.
+		</section>
+		<section prefix="C">The order of isolation shall be delivered to any person or persons affected by the isolation, in so far as practicable. However, if, in the opinion of the State Health Commissioner, the number of isolated persons is too great to make delivery of copies of the order of isolation to each person possible in a timely manner, or if the order of isolation designates an affected area instead of a specific person or persons, the State Health Commissioner shall cause the order of isolation to be communicated to the persons residing or located in the affected area.
+		</section>
+		<section prefix="D">The State Health Commissioner shall, as soon as practicable following the issuance of an order of isolation, file a petition seeking an ex parte court order to review and confirm the isolation.
+		</section>
+		<section prefix="E">The petition shall be filed in the circuit court for the city or county in which the person or persons resides or is located or, in the case of an affected area, in the circuit court of the affected jurisdiction or jurisdictions.
+			Upon receiving multiple orders of isolation, the court may, on the motion of any party or on the court's own motion, consolidate the cases into a single proceeding for all orders when (i) there are common questions of law or fact relating to the individual claims or rights to be determined, (ii) the claims of the cases are substantially similar, and (iii) all parties to the orders will be adequately represented in the consolidation.
+		</section>
+		<section prefix="F">The petition shall include (i) a copy of the order of isolation or all information contained in the State Health Commissioner's order of isolation in some other format and (ii) a summary of the findings on which the Commissioner relied in determining that an order of isolation was required to contain the transmission of the communicable disease of public health threat.
+		</section>
+		<section prefix="G">Prior to the expiration of the original order of isolation, the Commissioner may extend the duration of the original order upon finding that such an extension is necessary. The Commissioner, or his legal representative, shall, as soon as practicable following the extension of an order of isolation, file a petition seeking court review and confirmation of the order to extend the duration of the isolation.
+		</section>
+		<section prefix="H">In reviewing any petition for review and confirmation or extension of the order of isolation, the court shall give due deference to the specialized expertise of the State Health Commissioner. The court shall grant the petition to confirm or extend the isolation upon finding probable cause that isolation was the necessary means and remains the least restrictive environment to address the public health threat effectively, given the reasonably available information on effective control measures and the nature of the communicable disease of public health threat.
+		</section>
+		<section prefix="I">The State Health Commissioner may, if he reasonably believes that public disclosure of the information contained in the order of isolation or the petition for review and confirmation or extension of the order of isolation will exacerbate the public health threat or compromise any current or future criminal investigation or compromise national security, file some or all of any petition to extend an order of isolation under seal. After reviewing any information filed under seal by the State Health Commissioner, the court shall reseal the relevant materials to the extent necessary to protect public health and safety.
+		</section>
+		<section prefix="J">The State Health Commissioner shall ensure that the protected health information of any person or persons subject to the order of isolation shall only be disclosed in compliance with the regulations relating to privacy of health records promulgated by the federal Department of Health and Human Services pursuant to the Health Insurance Portability and Accountability Act of 1996.
+		</section>
+		<section prefix="K">Any law-enforcement officer, state or local health department employee, or any other person designated by a law-enforcement officer or state or local health department employee is empowered and authorized to deliver an order of isolation.
+		</section>
+	</text>
+	<history>2004, cc. 773, 1021; 2007, cc. 699, 783.</history>
+</law>

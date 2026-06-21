@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="6" level="3">Deposits and Accounts</unit>
+		<unit label="article" identifier="2" level="4">Multiple-Party Accounts</unit>
+	</structure>
+	<section_number>6.2-612</section_number>
+	<catch_line>Financial institution duties; multiple-party accounts; multiple-fiduciary accounts</catch_line>
+	<text>
+		<section prefix="A">Financial institutions may enter into multiple-party accounts to the same extent that they may enter into single-party accounts. Any multiple-party account may be paid, on request, to any one or more of the parties. A financial institution shall not be required to inquire as to the source of funds received for deposit to a multiple-party account, or to inquire as to the proposed application of any sum withdrawn from an account, for purposes of establishing net contributions.
+		</section>
+		<section prefix="B">Financial institutions may enter into multiple-fiduciary accounts with more than one fiduciary to the same extent that they may enter into fiduciary accounts with one fiduciary. Any multiple-fiduciary account may be paid, on request, to any one or more of the fiduciaries.
+		</section>
+	</text>
+	<history>1979, c. 407, § 6.1-125.9; 2010, c. 794; 2020, c. 259.</history>
+</law>

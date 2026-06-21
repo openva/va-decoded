@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="10.1" level="3">Virginia Conservation Easement Act</unit>
+	</structure>
+	<section_number>10.1-1014</section_number>
+	<catch_line>Validity</catch_line>
+	<text>
+		A conservation easement is valid even though:
+		<section prefix="1">It is not appurtenant to an interest in real property;
+		</section>
+		<section prefix="2">It can be or has been assigned to another holder;
+		</section>
+		<section prefix="3">It is not of a character that has been recognized traditionally at common law;
+		</section>
+		<section prefix="4">It imposes a negative burden;
+		</section>
+		<section prefix="5">It imposes affirmative obligations upon the owner of an interest in the burdened property or upon the holder;
+		</section>
+		<section prefix="6">The benefit does not touch or concern real property; or
+		</section>
+		<section prefix="7">There is no privity of estate or of contract.
+			Except as otherwise provided in this chapter, a conservation easement may be created, conveyed, recorded, assigned, released, modified, terminated, or otherwise altered or affected in the same manner as other easements.
+		</section>
+	</text>
+	<history>1988, cc. 720, 891.</history>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="18" level="2">Insurance Agents</unit>
+		<unit label="article" identifier="6.1" level="3">Licensing of Viatical Settlement Brokers</unit>
+	</structure>
+	<section_number>38.2-1865.4</section_number>
+	<catch_line>Licensing nonresidents; reciprocal agreements with other states and Canadian provinces</catch_line>
+	<text>
+		<section prefix="A">An individual or business entity who is not a resident as defined in § 38.2-1800, but who is a resident of another state or a province of Canada, shall receive a viatical settlement broker license if:
+			<section prefix="1">The applicant presents proof in a form acceptable to the Commission that the applicant is currently licensed or otherwise authorized as a resident viatical settlement broker and is in good standing in his home state or province;
+			</section>
+			<section prefix="2">The applicant has submitted the proper application for licensure and has paid the fees required by § 38.2-1865.1; and
+			</section>
+			<section prefix="3">The applicant's home state or province issues nonresident viatical settlement broker licenses to residents of this Commonwealth on the same basis, or will permit a resident of this Commonwealth to act as a viatical settlement broker in such state or province without requiring a license.
+			</section>
+		</section>
+		<section prefix="B">For the purposes of this chapter, any individual whose place of residence and place of business are in a city or town located partly within the Commonwealth and partly within another state may be considered as meeting the requirements as a resident of this Commonwealth, provided the other state has established by law or regulation similar requirements as to residence of such individuals.
+		</section>
+		<section prefix="C">The Commission may enter into a reciprocal agreement with an appropriate official of any other state or province of Canada if such an agreement is required in order for a Virginia resident to be similarly licensed as a nonresident in that state or province.
+		</section>
+		<section prefix="D">The Commission may verify the viatical settlement broker's licensing status through the Producer Database maintained by the NAIC, its affiliates or subsidiaries.
+		</section>
+		<section prefix="E">A nonresident viatical settlement broker who moves from one state or province to another state shall file a change of address and provide a certification from the new home state or province within thirty calendar days of the change of legal residence. No fee or license application is required.
+		</section>
+		<section prefix="F">Any licenses issued to nonresidents pursuant to this section shall be terminated at any time that the nonresident's equivalent authority in his home state or province is terminated, suspended, or revoked.
+		</section>
+	</text>
+	<history>2001, c. 706; 2008, c. 213.</history>
+</law>

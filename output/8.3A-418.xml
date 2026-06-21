@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="4" level="2">Liability of Parties</unit>
+	</structure>
+	<section_number>8.3A-418</section_number>
+	<catch_line>Payment or acceptance by mistake</catch_line>
+	<text>
+		<section prefix="a">Except as provided in subsection (c), if the drawee of a draft pays or accepts the draft and the drawee acted on the mistaken belief that (i) payment of the draft had not been stopped pursuant to § 8.4-403 or (ii) the signature of the drawer of the draft was authorized, the drawee may recover the amount of the draft from the person to whom or for whose benefit payment was made or, in the case of acceptance, may revoke the acceptance. Rights of the drawee under this subsection are not affected by failure of the drawee to exercise ordinary care in paying or accepting the draft.
+		</section>
+		<section prefix="b">Except as provided in subsection (c), if an instrument has been paid or accepted by mistake and the case is not covered by subsection (a), the person paying or accepting may, to the extent permitted by the law governing mistake and restitution, (i) recover the payment from the person to whom or for whose benefit payment was made or (ii) in the case of acceptance, may revoke the acceptance.
+		</section>
+		<section prefix="c">The remedies provided by subsection (a) or (b) may not be asserted against a person who took the instrument in good faith and for value or who in good faith changed position in reliance on the payment or acceptance. This subsection does not limit remedies provided by § 8.3A-417 or § 8.4-407.
+		</section>
+		<section prefix="d">Notwithstanding § 8.4-213, if an instrument is paid or accepted by mistake and the payor or acceptor recovers payment or revokes acceptance under subsection (a) or (b), the instrument is deemed not to have been paid or accepted and is treated as dishonored, and the person from whom payment is recovered has rights as a person entitled to enforce the dishonored instrument.
+		</section>
+	</text>
+	<history>Code 1950, § 6-414; 1964, c. 219, § 8.3-418; 1992, c. 693.</history>
+</law>

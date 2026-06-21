@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>13.1-609</section_number>
+	<catch_line>Certificate of good standing</catch_line>
+	<text>
+		<section prefix="A">Anyone may apply to the Commission to furnish a certificate of good standing for a domestic or foreign corporation.
+		</section>
+		<section prefix="B">The certificate of good standing shall state that the corporation is in good standing in the Commonwealth and shall set forth:
+			<section prefix="1">The domestic corporation's corporate name or the foreign corporation's corporate name and, if applicable, the designated name adopted for use in the Commonwealth;
+			</section>
+			<section prefix="2">That (i) the domestic corporation is duly incorporated under the law of the Commonwealth, the date of its incorporation, which is the original date of incorporation or formation of the domesticated or converted corporation if the corporation was domesticated or converted from a foreign jurisdiction or was converted from a domestic eligible entity, and the period of its duration if less than perpetual, or (ii) the foreign corporation is authorized to transact business in the Commonwealth; and
+			</section>
+			<section prefix="3">If requested, a list of all certificates relating to articles filed with the Commission that have been issued by the Commission with respect to such corporation and their respective effective dates.
+			</section>
+		</section>
+		<section prefix="C">A domestic corporation or a foreign corporation authorized to transact business in the Commonwealth shall be deemed to be in good standing if:
+			<section prefix="1">All fees, fines, penalties, and interest assessed, imposed, charged or to be collected by the Commission pursuant to this chapter have been paid except for any annual registration fee that is not due;
+			</section>
+			<section prefix="2">An annual report required by § 13.1-775 has been delivered to and accepted by the Commission; and
+			</section>
+			<section prefix="3">No certificate of dissolution, certificate of withdrawal, or order of reinstatement prohibiting the domestic corporation from engaging in business until it changes its corporate name has been issued or such certificate or prohibition has not become effective or no longer is in effect.
+			</section>
+		</section>
+		<section prefix="D">The certificate may state any other facts of record in the office of the clerk of the Commission that may be requested by the applicant.
+		</section>
+		<section prefix="E">Subject to any qualification stated in the certificate, a certificate of good standing issued by the Commission may be relied upon as conclusive evidence that the domestic or foreign corporation is in good standing in the Commonwealth.
+		</section>
+	</text>
+	<history>1985, c. 522; 1988, c. 405; 1993, c. 60; 2005, c. 765; 2006, c. 663; 2019, c. 734; 2020, c. 1226; 2021, Sp. Sess. I, c. 487.</history>
+</law>

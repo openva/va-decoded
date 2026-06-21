@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="24" level="3">Space Flight Liability and Immunity Act</unit>
+	</structure>
+	<section_number>8.01-227.9</section_number>
+	<catch_line>Civil immunity for space flight entities</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsection B, a space flight entity is not liable for a participant injury resulting from the risks of space flight activities, provided that the participant has been informed of the risks of space flight activities as required by federal law pursuant to federal law and this article, and the participant has given his informed consent that he is voluntarily participating in space flight activities after having been informed of the risks of those activities as required by federal law and this article. Except as provided in subsection B, no (i) participant, (ii) participant's representative, including the heirs, administrators, executors, assignees, next of kin, and estate of the participant, or (iii) any person who attempts to bring a claim on behalf of the participant for a participant injury, is authorized to maintain an action against or recover from a space flight entity for a participant injury that resulted from the risks of space flight activities.
+		</section>
+		<section prefix="B">Nothing in subsection A shall prevent or limit the liability of a space flight entity if the space flight entity does either of the following:
+			<section prefix="1">Commits an act or omission that constitutes gross negligence evidencing willful or wanton disregard for the safety of the participant, and that act or omission proximately causes a participant injury; or
+			</section>
+			<section prefix="2">Intentionally causes a participant injury.
+			</section>
+		</section>
+		<section prefix="C">Any limitation on legal liability afforded by this section to a space flight entity is in addition to any other limitations of legal liability otherwise provided by law.
+		</section>
+	</text>
+	<history>2007, c. 893.</history>
+</law>

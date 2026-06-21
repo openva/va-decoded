@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="2" level="3">Formation and Terms</unit>
+	</structure>
+	<section_number>59.1-502.10</section_number>
+	<catch_line>Terms of contract formed by conduct</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in subsection (b) and subject to § 59.1-503.1, if a contract is formed by conduct of the parties, the terms of the contract are determined by consideration of the terms and conditions to which the parties expressly agreed, course of performance, course of dealing, usage of trade, the nature of the parties' conduct, the records exchanged, the information or informational rights involved, and all other relevant circumstances. If a court cannot determine the terms of the contract from the foregoing factors, the supplementary principles of this chapter apply.
+		</section>
+		<section prefix="b">This section does not apply if the parties authenticate a record of the contract or a party agrees, such as by manifesting assent, to the record containing the terms of the other party.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

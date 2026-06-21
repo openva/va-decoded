@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="3" level="3">Interest and Usury</unit>
+		<unit label="article" identifier="4" level="4">Loans Exempt From Limit on Contract Rate of Interest</unit>
+	</structure>
+	<section_number>6.2-321</section_number>
+	<catch_line>Loans pursuant to stock option financing programs</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "stock option financing program loan" means a loan pursuant to which a lender finances the option holder's exercise of the option to purchase stock, which exercise is financed through such means as purchasing the stock on margin, selling sufficient shares of the stock to cover the total exercise cost, or selling the full quantity of stock to cover the total exercise cost.
+		</section>
+		<section prefix="B">No person shall, by way of defense or otherwise, avail himself of the provisions of this chapter, or any other statutory or case law relating to usury or compounding of interest, to avoid or defeat the payment of interest, or any other sum, in connection with a loan made to a person pursuant to a stock option financing program loan.
+		</section>
+	</text>
+	<history>2003, c. 439, § 6.1-330.78:1; 2010, c. 794.</history>
+</law>

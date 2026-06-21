@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="4.1" level="3">Individual Health Insurance Coverage</unit>
+	</structure>
+	<section_number>38.2-3430.2</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		<section prefix="A">The terms defined in § 38.2-3431 that are used in this article shall have the meanings set forth in that section.
+		</section>
+		<section prefix="B">For purposes of this article:
+			"Eligible individual" means an individual:
+			<section prefix="1">(i) for whom, as of the date on which the individual seeks coverage under this section, the aggregate of the periods of creditable coverage is 18 or more months and (ii) whose most recent prior creditable coverage was under individual health insurance coverage, a group health plan, governmental plan, church plan, or a state plan under Title XIX of the Social Security Act (42 U.S.C. § 1396 et seq.), or health insurance coverage offered in connection with any such plan;
+			</section>
+			<section prefix="2">Who is not eligible for coverage under (i) a group health plan, (ii) part A or part B of Title XVIII of the Social Security Act, or (iii) a state plan under Title XIX of such Act, or any successor program, and does not have other health insurance coverage;
+			</section>
+			<section prefix="3">With respect to whom the most recent coverage within the coverage period described in subdivision 1 was not terminated based on a factor described in subdivision B 1 or B 2 of § 38.2-3430.7 relating to nonpayment of premiums or fraud;
+			</section>
+			<section prefix="4">If the individual had been offered the option of continuation coverage under a COBRA continuation provision or under a similar state program, who elected such coverage;
+			</section>
+			<section prefix="5">Who, if the individual elected such continuation coverage, has exhausted such continuation coverage under such provision or program; and
+			</section>
+			<section prefix="6">In the case where individual health insurance coverage is the most recent creditable coverage, the coverage was nonrenewed by the health insurance issuer under the conditions allowed in subdivision C 2 of § 38.2-3430.7, in which case the aggregate period of creditable coverage required is reduced to 12 months.
+				For the purposes of determining the aggregate of the periods of creditable coverage under subdivision B 1 (i) of this section, a period of creditable coverage shall not be counted with respect to enrollment of an individual under a health benefit plan if, after such period, there was a 63-day period during all of which the individual was not covered under any creditable coverage or was not serving a waiting period for coverage under a group health plan, or for group health insurance coverage or was in an affiliation period. This period shall begin on the day following an individual's termination of coverage and shall continue until the date an individual submits an application for coverage. In those cases where an application is submitted by mail, the date of postmark shall be deemed to be the date the application is submitted.
+			</section>
+		</section>
+	</text>
+	<history>1997, cc. 807, 913; 1998, c. 24; 1999, c. 1004; 2010, cc. 225, 642.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="8" level="3">Offenses Relating to Railroads and Other Utilities</unit>
+	</structure>
+	<section_number>18.2-160.2</section_number>
+	<catch_line>Trespassing on public transportation; penalty</catch_line>
+	<text>
+		<section prefix="A">Any person who enters or remains upon or within a vehicle operated by a public transportation service without the permission of, or after having been forbidden to do so by, the owner, lessee, or authorized operator thereof is guilty of a Class 4 misdemeanor.
+		</section>
+		<section prefix="B">Any person who enters or rides in a vehicle operated by a public transportation service who has been prohibited to do so pursuant to subsection F of § 18.2-57 is guilty of a Class 1 misdemeanor.
+		</section>
+		<section prefix="C">"Public transportation service" means passenger transportation service provided by bus, rail, or other surface conveyance that provides transportation to the general public on a regular and continuing basis.
+		</section>
+	</text>
+	<history>2007, c. 461; 2023, c. 549.</history>
+</law>

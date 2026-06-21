@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>50-73.7</section_number>
+	<catch_line>Service on limited partnership</catch_line>
+	<text>
+		<section prefix="A">A domestic or foreign limited partnership's registered agent is the limited partnership's agent for service of process, notice, or demand required or permitted by law to be served on the limited partnership. The registered agent, by instrument in writing, acknowledged before a notary public, may designate a natural person or persons in the office of the registered agent upon whom any such process, notice or demand may be served. Whenever any such person accepts service of process, a photographic copy of such instrument shall be attached to the return.
+		</section>
+		<section prefix="B">Whenever a domestic or foreign limited partnership fails to appoint or maintain a registered agent in the Commonwealth, or whenever its registered agent cannot with reasonable diligence be found at the registered office, then the clerk of the Commission shall be an agent of the limited partnership upon whom service may be made in accordance with § 12.1-19.1.
+		</section>
+		<section prefix="C">This section does not prescribe the only means, or necessarily the required means, of serving a domestic or foreign limited partnership.
+		</section>
+	</text>
+	<history>1985, c. 607; 1991, c. 672; 2001, cc. 517, 541; 2007, c. 631.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="3" level="2">Cooperative Associations</unit>
+		<unit label="article" identifier="3" level="3">Worker Cooperatives</unit>
+	</structure>
+	<section_number>13.1-352</section_number>
+	<catch_line>Voting rights</catch_line>
+	<text>
+		<section prefix="A">No shares other than membership shares shall be given voting rights in a worker cooperative.
+		</section>
+		<section prefix="B">The power to amend or repeal bylaws of a worker cooperative shall be in the members only, except to the extent that directors are authorized to amend or repeal the bylaws.
+		</section>
+		<section prefix="C">Voting on amendments to the articles of incorporation of a worker cooperative shall be limited to the members qualified to vote membership shares.
+		</section>
+		<section prefix="D">Each member with a membership share shall have one vote in any matter requiring voting by shareholders.
+		</section>
+	</text>
+	<history>2020, c. 673.</history>
+</law>

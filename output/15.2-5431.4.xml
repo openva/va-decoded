@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="IV" level="2">Other Governmental Entities</unit>
+		<unit label="chapter" identifier="54.1" level="3">Virginia Wireless Service Authorities Act</unit>
+	</structure>
+	<section_number>15.2-5431.4</section_number>
+	<catch_line>Resolution creating authority to include articles of incorporation</catch_line>
+	<text>
+		The resolution creating an authority shall include articles of incorporation, which shall set forth:
+		<section prefix="1">The name of the authority and address of its principal office.
+		</section>
+		<section prefix="2">The name of the locality creating the authority and the names, addresses and terms of office of the first members of the board of the authority.
+		</section>
+		<section prefix="3">The purposes for which the authority is being created, which shall be to provide qualifying communications services as authorized by Article 5.1 (§ 56-484.7:1 et seq.) of Chapter 15 of Title 56.
+		</section>
+	</text>
+	<history>2003, c. 643.</history>
+</law>

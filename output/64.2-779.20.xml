@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.1" level="4">Uniform Trust Decanting Act</unit>
+	</structure>
+	<section_number>64.2-779.20</section_number>
+	<catch_line>Trust for care of animal</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Animal trust" means a trust or an interest in a trust created to provide for the care of one or more animals.
+			"Protector" means a person appointed in an animal trust to enforce the trust on behalf of the animal or, if no such person is appointed in the trust, a person appointed by the court for that purpose.
+		</section>
+		<section prefix="B">The decanting power may be exercised over an animal trust that has a protector to the extent that the trust could be decanted under this article if each animal that benefits from the trust were an individual, if the protector consents in a signed record to the exercise of the power.
+		</section>
+		<section prefix="C">A protector for an animal has the rights under this article of a qualified beneficiary.
+		</section>
+		<section prefix="D">Notwithstanding any other provision of this article, if a first trust is an animal trust, in an exercise of the decanting power, the second trust must provide that trust property may be applied only to its intended purpose for the period the first trust benefited the animal.
+		</section>
+	</text>
+	<history>2017, c. 592.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.4</section_number>
+	<catch_line>Protected series membership interests</catch_line>
+	<text>
+		<section prefix="A">A protected series membership interest of a protected series of a series limited liability company shall be owned initially by an associated member of the protected series or the series limited liability company.
+		</section>
+		<section prefix="B">If a protected series of a series limited liability company has no associated members when established, the series limited liability company owns the protected series membership interests in the protected series.
+		</section>
+		<section prefix="C">In addition to acquiring a protected series membership interest under subsection B, a series limited liability company may acquire a protected series membership interest through a transfer from another person or as provided in the operating agreement.
+		</section>
+		<section prefix="D">Except for subdivision A 3 of § 13.1-1094, a provision of this article that applies to a protected series assignee of a protected series of a series limited liability company applies to the series limited liability company in its capacity as an owner of a protected series membership interest of the protected series. A provision of the operating agreement of a series limited liability company that applies to a protected series assignee of a protected series of the series limited liability company applies to the series limited liability company in its capacity as an owner of a protected series membership interest of the protected series.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="29.1" level="1">Wildlife, Inland Fisheries and Boating</unit>
+		<unit label="chapter" identifier="7" level="2">Boating Laws</unit>
+		<unit label="article" identifier="2.1" level="3">Virginia Uniform Certificate of Title for Watercraft Act</unit>
+	</structure>
+	<section_number>29.1-733.8</section_number>
+	<catch_line>Creation and cancellation of certificate of title</catch_line>
+	<text>
+		<section prefix="A">Unless an application for a certificate of title is rejected under subsection C or D, the Department shall create a certificate for the watercraft in accordance with subsection B not later than 20 days after delivery to it of an application that complies with § 29.1-733.7.
+		</section>
+		<section prefix="B">If the Department creates electronic certificates of title, the Department shall create an electronic certificate unless in the application the secured party of record or, if none, the owner of record, requests that the Department create a written certificate.
+		</section>
+		<section prefix="C">Except as otherwise provided in subsection D, the Department shall reject an application for a certificate of title only if:
+			<section prefix="1">The application does not comply with § 29.1-733.7;
+			</section>
+			<section prefix="2">The application does not contain documentation sufficient for the Department to determine whether the applicant is entitled to a certificate;
+			</section>
+			<section prefix="3">There is a reasonable basis for concluding that the application is fraudulent or issuance of a certificate would facilitate a fraudulent or illegal act; or
+			</section>
+			<section prefix="4">The application does not comply with the law of the Commonwealth other than this article.
+			</section>
+		</section>
+		<section prefix="D">The Department shall reject an application for a certificate of title for a watercraft that is a documented vessel or a foreign-documented vessel.
+		</section>
+		<section prefix="E">The Department shall cancel a certificate of title created by it only if the Department:
+			<section prefix="1">Could have rejected the application for the certificate under subsection C;
+			</section>
+			<section prefix="2">Is required to cancel the certificate under another provision of this article; or
+			</section>
+			<section prefix="3">Receives satisfactory evidence that the watercraft is a documented vessel or a foreign-documented vessel.
+			</section>
+		</section>
+		<section prefix="F">The Department shall provide an opportunity for an informal fact-finding proceeding at which the owner and any other interested party may present evidence in support of or opposition to cancellation of a certificate of title. The Department shall serve all owners and secured parties indicated in the files of the Department with notice of the opportunity for an informal fact-finding proceeding. Service shall be made personally or by mail through the U.S. Postal Service, properly addressed, postage paid, return receipt requested. Service by mail is complete on deposit with the U.S. Postal Service. The Department by rule may authorize service by electronic transmission if a copy is sent on the same day by first-class mail or by a commercial delivery company. If not later than 30 days after the notice was served, the Department receives a request for an informal fact-finding proceeding from an interested party, the Department shall hold the proceeding not later than 20 days after receiving the request.
+		</section>
+	</text>
+	<history>2013, c. 787.</history>
+</law>

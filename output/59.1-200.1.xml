@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="17" level="2">Virginia Consumer Protection Act</unit>
+	</structure>
+	<section_number>59.1-200.1</section_number>
+	<catch_line>Prohibited practices; foreclosure rescue</catch_line>
+	<text>
+		<section prefix="A">In addition to the provisions of § 59.1-200, the following fraudulent acts or practices committed by a supplier, as defined in § 59.1-198, in a consumer transaction involving residential real property owned and occupied as the primary dwelling unit of the owner, are prohibited:
+			<section prefix="1">The supplier of service to avoid or prevent foreclosure charges or receives a fee (i) prior to the full and complete performance of the services it has agreed to perform, if the transaction does not involve the sale or transfer of residential real property, or (ii) prior to the settlement on the sale or transfer of residential real property, if the transaction involves the sale or transfer of such residential real property;
+			</section>
+			<section prefix="2">The supplier of such services (i) fails to make payments under the mortgage or deed of trust that is a lien on such residential real property as the payments become due, where the supplier has agreed to do so, regardless of whether the purchaser is obligated on the loan, and (ii) applies rents received from such dwellings for his own use;
+			</section>
+			<section prefix="3">The supplier of such services represents to the seller of such residential real property that the seller has an option to repurchase such residential real property, after the supplier of such services takes legal or equitable title to such residential real property, unless there is a written contract providing such option to repurchase on terms and at a price stated in such contract; or
+			</section>
+			<section prefix="4">The supplier advertises or offers such services as are prohibited by this section.
+			</section>
+		</section>
+		<section prefix="B">This section shall not apply to any mortgage lender or servicer regularly engaged in making or servicing mortgage loans that is subject to the supervisory authority of the State Corporation Commission, a comparable regulatory authority of another state, or a federal banking agency.
+		</section>
+		<section prefix="C">In connection with any consumer transaction covered by subsection A, any provision in an agreement between the supplier of such services and the owner of such residential real property that requires the owner to submit to mandatory arbitration shall be null and void, and notwithstanding any such provisions, the owner of such residential real property shall have the rights and remedies under this chapter.
+		</section>
+	</text>
+	<history>2008, c. 485; 2009, cc. 203, 272.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="16" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-752</section_number>
+	<catch_line>Automatic termination of corporate existence</catch_line>
+	<text>
+		<section prefix="A">If any domestic corporation fails to file its annual report or pay its annual registration fee in a timely manner as required by this chapter, the Commission shall mail to each such corporation a notice of the impending termination of its corporate existence. Whether or not such notice is mailed, if any corporation fails to file its annual report or pay its annual registration fee on or before the last day of the fourth month immediately following its annual report or annual registration fee due date each year, the corporate existence of the corporation shall be automatically terminated as of that day.
+		</section>
+		<section prefix="B">If any domestic corporation whose registered agent has filed with the Commission a statement of resignation pursuant to § 13.1-636 fails to file a statement of change pursuant to § 13.1-635 within 31 days after the date on which the statement of resignation was filed, the Commission shall mail notice to the corporation of the impending termination of its corporate existence. If the corporation fails to file the statement of change before the last day of the second month immediately following the month in which the impending termination notice was mailed, the corporate existence of the corporation shall be automatically terminated as of that day.
+		</section>
+		<section prefix="C">The properties and affairs of a corporation whose corporate existence has been terminated pursuant to this section shall pass automatically to its directors as trustees in liquidation. The trustees shall then proceed to (i) collect the assets of the corporation, (ii) sell, convey, and dispose of such of its properties that are not to be distributed in kind to its shareholders, (iii) pay, satisfy, and discharge its liabilities and obligations, and (iv) do all other acts required to liquidate its business and affairs. After paying or adequately providing for the payment of all its obligations, the trustees shall distribute the remainder of its assets, either in cash or in kind, among its shareholders according to their respective rights and interests.
+		</section>
+		<section prefix="D">No officer, director, or agent of a corporation shall have any personal obligation for any of the liabilities of the corporation whether such liabilities arise in contract, tort, or otherwise, solely by reason of the termination of the corporation's existence pursuant to this section.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-91; 1956, c. 428; 1970, c. 4; 1974, c. 72; 1975, c. 500; 1985, cc. 522, 528; 1987, c. 2; 1988, c. 405; 1991, c. 125; 1997, c. 216; 2000, c. 52; 2005, c. 765; 2010, c. 753.</history>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="16" level="2">Evidence and Witnesses</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>19.2-269</section_number>
+	<catch_line>Convicts as witnesses (Supreme Court Rule 2:609 derived from this section)</catch_line>
+	<text>
+		A person convicted of a felony or perjury shall not be incompetent to testify, but the fact of conviction may be shown in evidence to affect his credit.
+	</text>
+	<history>Code 1950, § 19.1-265; 1960, c. 366; 1975, c. 495.</history>
+</law>

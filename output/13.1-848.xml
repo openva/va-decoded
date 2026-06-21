@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Members and Meetings</unit>
+	</structure>
+	<section_number>13.1-848</section_number>
+	<catch_line>Corporation's acceptance of votes</catch_line>
+	<text>
+		<section prefix="A">If the name signed on a vote, ballot, consent, waiver, or proxy appointment corresponds to the name of a member, the corporation, if acting in good faith, is entitled to accept the vote, ballot, consent, waiver, or proxy appointment and give it effect as the act of the member.
+		</section>
+		<section prefix="B">If the name signed on a vote, ballot, consent, waiver, or proxy appointment does not correspond to the name of a member, the corporation, if acting in good faith, is nevertheless entitled to accept the vote, ballot, consent, waiver, or proxy appointment and give it effect as the act of the member if:
+			<section prefix="1">The member is an entity and the name signed purports to be that of an officer, partner or agent of the entity;
+			</section>
+			<section prefix="2">The name signed purports to be that of an administrator, executor, guardian, or conservator representing the member and, if the corporation requests, evidence of fiduciary status acceptable to the corporation has been presented with respect to the vote, ballot, consent, waiver, or proxy appointment;
+			</section>
+			<section prefix="3">The name signed purports to be that of a receiver or trustee in bankruptcy of the member and, if the corporation requests, evidence acceptable to the corporation that such receiver or trustee has been authorized to vote the membership interest in an order of the court by which such person was appointed has been presented with respect to the vote, ballot, consent, waiver, or proxy appointment;
+			</section>
+			<section prefix="4">The name signed purports to be that of a beneficial owner or attorney-in-fact of the member and, if the corporation requests, evidence acceptable to the corporation of the signatory's authority to sign for the member has been presented with respect to the vote, ballot, consent, waiver, or proxy appointment; or
+			</section>
+			<section prefix="5">Two or more persons are the member as fiduciaries and the name signed purports to be the name of at least one of the fiduciaries and the person signing appears to be acting on behalf of all the fiduciaries.
+			</section>
+		</section>
+		<section prefix="C">Notwithstanding the provisions of subdivisions B 2 and 5, in any case in which the will, trust agreement, or other instrument under which a fiduciary purports to act contains directions for the voting of membership interests in any corporation, or for the execution and delivery of proxies for the voting thereof, such directions shall be binding upon the fiduciary and upon the corporation if a copy thereof has been furnished to the corporation.
+		</section>
+		<section prefix="D">The corporation is entitled to reject a vote, ballot, consent, waiver, or proxy appointment if the secretary or other officer or agent authorized to count votes, acting in good faith, has reasonable basis for doubt about the validity of the signature on it or about the signatory's authority to sign for the member.
+		</section>
+		<section prefix="E">Neither the corporation nor the person authorized to count votes, including an inspector under § 13.1-847.1, who accepts or rejects a vote, ballot, consent, waiver, or proxy appointment in good faith and in accordance with the standards of this section or subsection B of § 13.1-847 is liable in damages to the member for the consequences of the acceptance or rejection.
+		</section>
+		<section prefix="F">Corporate action based on the acceptance or rejection of a vote, consent, waiver, or proxy appointment under this section is valid unless a court of competent jurisdiction determines otherwise.
+		</section>
+	</text>
+	<history>1985, c. 522; 2007, c. 925; 2015, c. 611.</history>
+</law>

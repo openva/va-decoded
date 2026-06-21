@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="6" level="4">Taxation of Estates and Trusts</unit>
+	</structure>
+	<section_number>58.1-361</section_number>
+	<catch_line>Virginia taxable income of a resident estate or trust</catch_line>
+	<text>
+		<section prefix="A">The Virginia taxable income of a resident estate or trust means its federal taxable income for the taxable year to which there shall be added or subtracted, as the case may be, the share of the estate or trust in the Virginia fiduciary adjustment determined under subsection B.
+		</section>
+		<section prefix="B">The respective shares of an estate or trust and its beneficiaries (including, solely for the purpose of this allocation, nonresident beneficiaries) in the Virginia fiduciary adjustment shall be in proportion to their respective shares of distributable net income of the estate or trust. If the estate or trust has no distributable net income for the taxable year, the share of each beneficiary in the Virginia fiduciary adjustment shall be in proportion to his share of the estate or trust income for such year, under local law or the governing instrument, which is required to be distributed currently and any other amounts of such income distributed in such year. Any balance of the Virginia fiduciary adjustment shall be allocated to the estate or trust.
+		</section>
+	</text>
+	<history>Code 1950, §§ 58-151.022, 58-151.023; 1971, Ex. Sess., c. 171; 1972, c. 827; 1973, c. 198; 1984, c. 675.</history>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="52" level="1">Police (State)</unit>
+		<unit label="chapter" identifier="9" level="2">Insurance Fraud</unit>
+	</structure>
+	<section_number>52-39</section_number>
+	<catch_line>Confidentiality and immunity from service of process</catch_line>
+	<text>
+		<section prefix="A">Papers, records, documents, reports, materials or other evidence relative to the subject of an insurance fraud investigation or examination in the possession of the Department shall remain confidential and shall not be subject to public inspection.
+		</section>
+		<section prefix="B">Agents employed by the Department shall not be subject to subpoena in civil actions by any court in this Commonwealth to testify concerning any matter of which they have knowledge pursuant to a pending or continuing insurance fraud investigation or examination being conducted by the Department.
+		</section>
+	</text>
+	<history>1998, c. 590.</history>
+</law>

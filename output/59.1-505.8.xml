@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="5" level="3">Transfer of Interests and Rights</unit>
+	</structure>
+	<section_number>59.1-505.8</section_number>
+	<catch_line>Finance licenses</catch_line>
+	<text>
+		<section prefix="a">If a financier becomes a licensee in connection with its financial accommodation contract and then transfers its contractual interest under the license, or sublicenses the licensed computer information or informational rights, to a licensee receiving the financial accommodation, the following rules apply:
+			<section prefix="1">The transfer or sublicense to the accommodated licensee is not effective unless:
+			</section>
+		</section>
+		<section prefix="A">the transfer or sublicense is effective under § 59.1-505.3; or
+		</section>
+		<section prefix="B">the following conditions are fulfilled:
+		</section>
+		<section prefix="i">before the licensor delivered the information or granted the license to the financier, the licensor received notice in a record from the financier giving the name and location of the accommodated licensee and clearly indicating that the license was being obtained in order to transfer the contractual interest or sublicense the licensed information or informational rights to the accommodated licensee;
+			<section prefix="ii">the financier became a licensee solely to make the financial accommodation; and
+			</section>
+			<section prefix="iii">the accommodated licensee adopts the terms of the license, which terms may be supplemented by the financial accommodation contract, to the extent the terms of the financial accommodation contract are not inconsistent with the license and any rights of the licensor under other law.
+			</section>
+			<section prefix="2">A financier that makes a transfer that is effective under paragraph (1) (B) may make only the single transfer or sublicense contemplated by the notice unless the licensor consents to a later transfer.
+			</section>
+		</section>
+		<section prefix="b">If a financier makes an effective transfer of its contractual interest in a license, or an effective sublicense of the licensed information or informational rights, to an accommodated licensee, the following rules apply:
+			<section prefix="1">The accommodated licensee's rights and obligations are governed by:
+			</section>
+		</section>
+		<section prefix="A">the license;
+		</section>
+		<section prefix="B">any rights of the licensor under other law; and
+		</section>
+		<section prefix="C">to the extent not inconsistent with subparagraphs (A) and (B), the financial accommodation contract, which may impose additional conditions to the licensee's right to use the licensed information or informational rights.
+			<section prefix="2">The financier does not make warranties to the accommodated licensee other than the warranty under § 59.1-504.1 (b) (1) and any express warranties in the financial accommodation contract.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="14" level="3">Ridesharing</unit>
+	</structure>
+	<section_number>46.2-1401</section_number>
+	<catch_line>Motor carrier laws do not apply</catch_line>
+	<text>
+		The following laws and regulations of the Commonwealth shall not apply to any ridesharing arrangement using a motor vehicle with a seating capacity for not more than fifteen persons, including the driver:
+		<section prefix="1">Laws and regulations containing insurance requirements that are specifically applicable to motor carriers or commercial vehicles;
+		</section>
+		<section prefix="2">Laws imposing a greater standard of care on motor carriers or commercial vehicles than that imposed on other drivers or owners of motor vehicles;
+		</section>
+		<section prefix="3">Laws and regulations with equipment requirements and special accident reporting requirements that are specifically applicable to motor carriers or commercial vehicles; and
+		</section>
+		<section prefix="4">Laws imposing a tax on fuel purchased in another state by a motor carrier or road user taxes on commercial buses.
+		</section>
+	</text>
+	<history>1981, c. 218, § 46.1-557; 1989, c. 727; 2002, c. 337.</history>
+</law>

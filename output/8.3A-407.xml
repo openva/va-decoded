@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="4" level="2">Liability of Parties</unit>
+	</structure>
+	<section_number>8.3A-407</section_number>
+	<catch_line>Alteration</catch_line>
+	<text>
+		<section prefix="a">"Alteration" means (i) an unauthorized change in an instrument that purports to modify in any respect the obligation of a party, or (ii) an unauthorized addition of words or numbers or other change to an incomplete instrument relating to the obligation of a party.
+		</section>
+		<section prefix="b">Except as provided in subsection (c), an alteration fraudulently made discharges a party whose obligation is affected by the alteration unless that party assents or is precluded from asserting the alteration. No other alteration discharges a party, and the instrument may be enforced according to its original terms.
+		</section>
+		<section prefix="c">A payor bank or drawee paying a fraudulently altered instrument or a person taking it for value, in good faith and without notice of the alteration, may enforce rights with respect to the instrument (i) according to its original terms, or (ii) in the case of an incomplete instrument altered by unauthorized completion, according to its terms as completed.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-366, 6-367, 6-477, 6-478; 1964, c. 219, § 8.3-407; 1992, c. 693.</history>
+</law>

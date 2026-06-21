@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="6" level="2">The Election</unit>
+		<unit label="article" identifier="4" level="3">Conduct of Election; Election Results</unit>
+	</structure>
+	<section_number>24.2-671.2</section_number>
+	<catch_line>Risk-limiting audits</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section:
+			"Contested race" means an election for an office where more names appear on the ballot then there are vacancies to be filled or a statewide referendum or proposed constitutional amendment.
+			"Risk limit" means the largest probability that the risk-limiting audit will fail to correct an election outcome that differs from the outcome that would be found by a full manual tabulation of the votes on all ballots cast in the contested race.
+			"Risk-limiting audit" means an audit protocol conducted after an election and prior to the certification of the election results with a pre-specified minimum probability of requiring a full hand count of votes cast if the outcome reported by the voting system differs from the outcome that would be found by a full hand count of the votes in a contested race. A "risk-limiting audit" requires a hand count of randomly sampled printed ballots that continues until there is either strong statistical evidence that the reported outcome is correct or, in the absence of such evidence, a full hand count of all ballots cast in the contested race that determines the outcome.
+		</section>
+		<section prefix="B">Risk-limiting audits conducted pursuant to this section shall be performed by the local electoral boards and general registrars under the supervision of the Department and in accordance with the procedures prescribed by the State Board, including:
+			<section prefix="1">Processes for randomly selecting contested races and determining the risk limit.
+			</section>
+			<section prefix="2">Procedures for preparing for a risk-limiting audit, including guidelines for organizing ballots, selecting venues, and securing appropriate materials by local electoral boards and general registrars.
+			</section>
+			<section prefix="3">Procedures for ballot custody, accounting, security, and written record retention that ensure that the collection of cast ballots from which samples are drawn is complete and accurate throughout the audit.
+			</section>
+			<section prefix="4">Procedures for hand counting of the audited ballots.
+			</section>
+			<section prefix="5">Processes and methods for conducting the risk-limiting audit.
+			</section>
+			<section prefix="6">Procedures for ensuring transparency and understanding of the process by participants and the public, including guidelines for direct observation by members of the public, representatives of the candidates involved in the risk-limiting audit, and representatives of the political parties.
+			</section>
+		</section>
+		<section prefix="C">The Department shall provide that the following risk-limiting audits be conducted:
+			<section prefix="1">In the year of a general election for members of the United States House of Representatives, a risk-limiting audit of at least one randomly selected contested race for such office;
+			</section>
+			<section prefix="2">In the year of a general election for members of the General Assembly, a risk-limiting audit of at least one randomly selected contested race for such office;
+			</section>
+			<section prefix="3">In any year in which there is not a general election for a statewide office, a risk-limiting audit of at least one randomly selected contested race for a local office, including constitutional offices, for which certification by the State Board is required under § 24.2-680; and
+			</section>
+			<section prefix="4">In any year, any other risk-limiting audit of a contested race that is necessary to ensure that each locality participates in a risk-limiting audit of an office within its jurisdiction at least once every five years or that the State Board finds appropriate. Such audits must be approved by at least a two-thirds majority vote of all members of the Board.
+			</section>
+		</section>
+		<section prefix="D">A local electoral board may request that the State Board approve the conduct of a risk-limiting audit for a contested race within the local electoral board's jurisdiction. The state board shall promulgate regulations for submitting such requests. The State Board shall grant an extension of the local electoral board's certification deadline under § 24.2-671 as necessary to accommodate the conduct of a risk-limiting audit conducted pursuant to this subsection. The Department may count a risk-limiting audit conducted pursuant to this subsection toward the requirement in subdivision C 4.
+		</section>
+		<section prefix="E">Notwithstanding the provisions of subsections C and D, no contested race shall be selected to receive a risk-limiting audit if the tabulation of the unofficial result for the contested race shows a difference of not more than one percent of the total vote cast for the top two candidates.
+		</section>
+		<section prefix="F">Upon the tabulation of the unofficial results of an election, the State Board shall determine, in accordance with subsection C, all the contested races for that election that will receive a risk-limiting audit and shall set the risk limit to be applied in such audits. As soon as practicable after selection of the contests to be audited, the Department shall publish a notice of the contested races in accordance with the requirements for public meetings in § 2.2-3707. The Department shall provide support to local electoral boards and general registrars in preparing to hold the risk-limiting audits.
+		</section>
+		<section prefix="G">The local electoral board and general registrar shall conduct a risk-limiting audit within their jurisdiction at the date, time, and location noticed by the Department. At least one member of the local electoral board representing each party shall participate in the risk-limiting audit and be present for the duration of the risk-limiting audit when ballots are being selected and counted and calculations are being made. All risk-limiting audits shall be conducted in a place and manner that is open to the public. At the conclusion of a risk-limiting audit, all audit materials, including ballots and any records generated during the course of the audit, shall be delivered to the clerk of the circuit court and retained as election materials pursuant to § 24.2-668.
+		</section>
+		<section prefix="H">The local electoral board in coordination with the general registrar shall promptly report the results of a risk-limiting audit of any contested races subject to § 24.2-680 in their jurisdiction to the Department. The results of any risk-limiting audit for a local contested race shall also be retained by the local electoral board. At the conclusion of each risk-limiting audit requiring certification by the State Board, the Department shall submit to the State Board a report, which shall include all data generated by the risk-limiting audit and all information required to confirm that the risk-limiting audit was conducted in accordance with the procedures adopted by the State Board. The Department shall publish the results of all risk-limiting audits pursuant to this section on the Department's website.
+		</section>
+		<section prefix="I">If a risk-limiting audit of a contested race escalates to a full hand count, the results of the hand count shall be used to certify the election in lieu of the tabulation of the unofficial results obtained prior to the conduct of the risk-limiting audit. A full hand count conducted pursuant to this section shall not be construed as a recount under Chapter 8 (§ 24.2-800 et seq.). Nothing in this section shall be construed to limit the rights of a candidate under Chapter 8.
+		</section>
+	</text>
+	<history>2022, cc. 443, 444.</history>
+</law>

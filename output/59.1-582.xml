@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="53" level="2">Consumer Data Protection Act</unit>
+	</structure>
+	<section_number>59.1-582</section_number>
+	<catch_line>Limitations</catch_line>
+	<text>
+		<section prefix="A">Nothing in this chapter shall be construed to restrict a controller's or processor's ability to:
+			<section prefix="1">Comply with federal, state, or local laws, rules, or regulations;
+			</section>
+			<section prefix="2">Comply with a civil, criminal, or regulatory inquiry, investigation, subpoena, or summons by federal, state, local, or other governmental authorities;
+			</section>
+			<section prefix="3">Cooperate with law-enforcement agencies concerning conduct or activity that the controller or processor reasonably and in good faith believes may violate federal, state, or local laws, rules, or regulations;
+			</section>
+			<section prefix="4">Investigate, establish, exercise, prepare for, or defend legal claims;
+			</section>
+			<section prefix="5">Provide a product or service specifically requested by a consumer, perform a contract to which the consumer is a party, including fulfilling the terms of a written warranty, or take steps at the request of the consumer prior to entering into a contract;
+			</section>
+			<section prefix="6">Take immediate steps to protect an interest that is essential for the life or physical safety of the consumer or of another natural person, and where the processing cannot be manifestly based on another legal basis;
+			</section>
+			<section prefix="7">Prevent, detect, protect against, or respond to security incidents, identity theft, fraud, harassment, malicious or deceptive activities, or any illegal activity; preserve the integrity or security of systems; or investigate, report, or prosecute those responsible for any such action;
+			</section>
+			<section prefix="8">Engage in public or peer-reviewed scientific or statistical research in the public interest that adheres to all other applicable ethics and privacy laws and is approved, monitored, and governed by an institutional review board, or similar independent oversight entities that determine: (i) if the deletion of the information is likely to provide substantial benefits that do not exclusively accrue to the controller; (ii) the expected benefits of the research outweigh the privacy risks; and (iii) if the controller has implemented reasonable safeguards to mitigate privacy risks associated with research, including any risks associated with reidentification; or
+			</section>
+			<section prefix="9">Assist another controller, processor, or third party with any of the obligations under this subsection.
+			</section>
+		</section>
+		<section prefix="B">The obligations imposed on controllers or processors under this chapter shall not restrict a controller's or processor's ability to collect, use, or retain data to:
+			<section prefix="1">Conduct internal research to develop, improve, or repair products, services, or technology;
+			</section>
+			<section prefix="2">Effectuate a product recall;
+			</section>
+			<section prefix="3">Identify and repair technical errors that impair existing or intended functionality; or
+			</section>
+			<section prefix="4">Perform internal operations that are reasonably aligned with the expectations of the consumer or reasonably anticipated based on the consumer's existing relationship with the controller or are otherwise compatible with processing data in furtherance of the provision of a product or service specifically requested by a consumer or the performance of a contract to which the consumer is a party.
+			</section>
+		</section>
+		<section prefix="C">The obligations imposed on controllers or processors under this chapter shall not apply where compliance by the controller or processor with this chapter would violate an evidentiary privilege under the laws of the Commonwealth. Nothing in this chapter shall be construed to prevent a controller or processor from providing personal data concerning a consumer to a person covered by an evidentiary privilege under the laws of the Commonwealth as part of a privileged communication.
+		</section>
+		<section prefix="D">A controller or processor that discloses personal data to a third-party controller or processor, in compliance with the requirements of this chapter, is not in violation of this chapter if the third-party controller or processor that receives and processes such personal data is in violation of this chapter, provided that, at the time of disclosing the personal data, the disclosing controller or processor did not have actual knowledge that the recipient intended to commit a violation. A third-party controller or processor receiving personal data from a controller or processor in compliance with the requirements of this chapter is likewise not in violation of this chapter for the transgressions of the controller or processor from which it receives such personal data.
+		</section>
+		<section prefix="E">Nothing in this chapter shall be construed as an obligation imposed on controllers and processors that adversely affects the rights or freedoms of any persons, such as exercising the right of free speech pursuant to the First Amendment to the United States Constitution, or applies to the processing of personal data by a person in the course of a purely personal or household activity.
+		</section>
+		<section prefix="F">Personal data processed by a controller pursuant to this section shall not be processed for any purpose other than those expressly listed in this section unless otherwise allowed by this chapter. Personal data processed by a controller pursuant to this section may be processed to the extent that such processing is:
+			<section prefix="1">Reasonably necessary and proportionate to the purposes listed in this section; and
+			</section>
+			<section prefix="2">Adequate, relevant, and limited to what is necessary in relation to the specific purposes listed in this section. Personal data collected, used, or retained pursuant to subsection B shall, where applicable, take into account the nature and purpose or purposes of such collection, use, or retention. Such data shall be subject to reasonable administrative, technical, and physical measures to protect the confidentiality, integrity, and accessibility of the personal data and to reduce reasonably foreseeable risks of harm to consumers relating to such collection, use, or retention of personal data.
+			</section>
+		</section>
+		<section prefix="G">If a controller processes personal data pursuant to an exemption in this section, the controller bears the burden of demonstrating that such processing qualifies for the exemption and complies with the requirements in subsection F.
+		</section>
+		<section prefix="H">Processing personal data for the purposes expressly identified in subdivisions A 1 through 9 shall not solely make an entity a controller with respect to such processing.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, cc. 35, 36.</history>
+</law>

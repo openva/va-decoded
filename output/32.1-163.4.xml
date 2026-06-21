@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="1" level="3">Sewage Disposal</unit>
+	</structure>
+	<section_number>32.1-163.4</section_number>
+	<catch_line>Procedures for application backlogs; individuals approved to conduct evaluations for septic system or other onsite sewage system permit applications</catch_line>
+	<text>
+		<section prefix="A">In any case where the local or district health department experiences a septic system or other onsite sewage system permit backlog of 15 working days from the application filing date, the Commissioner shall contract with licensed onsite soil evaluators for the field evaluation of the backlogged application sites. The Department shall review these evaluations and may approve the permit applications upon finding that the evaluations are in compliance with the Board's regulations implementing this chapter. The Department shall not be required to do a field check of the evaluation prior to issuing the permit; however, the Department may conduct such field analyses as deemed necessary to protect the integrity of the Commonwealth's environment.
+		</section>
+		<section prefix="B">The Board, Commissioner, and Department of Health shall accept private evaluations for septic system or other onsite sewage system permit applications only from licensed onsite soil evaluators.
+		</section>
+		<section prefix="C">The Board's regulations shall include a definition of backlog providing a set number or a percent of the received applications.
+		</section>
+	</text>
+	<history>1994, c. 747; 2016, c. 90.</history>
+</law>

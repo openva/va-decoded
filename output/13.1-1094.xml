@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1094</section_number>
+	<catch_line>Rules for applying other articles of this chapter to specified provisions of this article</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection B and § 13.1-1093, the following rules apply in applying § 13.1-1092, subsections C and F of § 13.1-1099.5, subdivision 4 a of § 13.1-1099.11, subsection A of § 13.1-1099.12, and subdivision 2 of § 13.1-1099.13:
+			<section prefix="1">A protected series of a series limited liability company is deemed to be a limited liability company that is organized separately from the series limited liability company and distinct from the series limited liability company and any other protected series of the series limited liability company;
+			</section>
+			<section prefix="2">An associated member of the protected series is deemed to be a member of the series limited liability company;
+			</section>
+			<section prefix="3">A protected series assignee of the protected series is deemed to be an assignee of the series limited liability company;
+			</section>
+			<section prefix="4">A protected series membership interest of the protected series is deemed to be a membership interest of the series limited liability company;
+			</section>
+			<section prefix="5">A protected series manager is deemed to be a manager of the series limited liability company;
+			</section>
+			<section prefix="6">An asset of the protected series is deemed to be an asset of the series limited liability company, whether or not the asset is an associated asset of the protected series; and
+			</section>
+			<section prefix="7">Any creditor or other obligee of the protected series is deemed to be a creditor or obligee of the series limited liability company.
+			</section>
+		</section>
+		<section prefix="B">Subsection A does not apply if its application would:
+			<section prefix="1">Vary § 13.1-1023, subsection B or C of § 13.1-1092, or § 13.1-1093; or
+			</section>
+			<section prefix="2">Require the Commission to:
+				a. Accept for filing a type of record that this chapter expressly does not authorize or require a person to deliver to the Commission for filing; or
+				b. Make or deliver a record that neither this article nor any other provision of this chapter authorizes or requires the Commission to make or deliver.
+			</section>
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

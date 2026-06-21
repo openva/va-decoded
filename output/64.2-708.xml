@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="1" level="4">General Provisions and Definitions</unit>
+	</structure>
+	<section_number>64.2-708</section_number>
+	<catch_line>Others treated as qualified beneficiaries</catch_line>
+	<text>
+		<section prefix="A">Whenever notice to qualified beneficiaries of a trust is required under this chapter, the trustee shall also give notice to any other beneficiary who has sent the trustee a request for notice.
+		</section>
+		<section prefix="B">A charitable organization expressly designated to receive distributions under the terms of a charitable trust has the rights of a qualified beneficiary under this chapter if the charitable organization, on the date of the charitable organization's qualification is being determined:
+			<section prefix="1">Is a distributee or permissible distributee of trust income or principal;
+			</section>
+			<section prefix="2">Would be a distributee or permissible distributee of trust income or principal upon the termination of the interests of other distributees or permissible distributees then receiving or eligible to receive distributions; or
+			</section>
+			<section prefix="3">Would be a distributee or permissible distributee of trust income or principal if the trust terminated on that date.
+			</section>
+		</section>
+		<section prefix="C">A person appointed to enforce a trust created for the care of an animal or another noncharitable purpose as provided in § 64.2-726 or 64.2-727 has the rights of a qualified beneficiary under this chapter.
+		</section>
+		<section prefix="D">The Attorney General has the rights of a qualified beneficiary with respect to a charitable trust having its principal place of administration in the Commonwealth but need not be given notices or information required under §§ 64.2-758 and 64.2-775 unless otherwise requested.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-541.10; 2012, c. 614.</history>
+</law>

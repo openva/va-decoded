@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="7" level="4">Requirements Applicable to Underground Coal Mines; Mine Construction</unit>
+		<unit label="article" identifier="5" level="5">Explosives and Blasting</unit>
+	</structure>
+	<section_number>45.2-725</section_number>
+	<catch_line> Explosives and blasting practices in shaft and slope operations</catch_line>
+	<text>
+		<section prefix="A">Every blasting area in a shaft or slope operation shall be covered with mats or materials when the excavations are too shallow to retain the blasted material.
+		</section>
+		<section prefix="B">If explosives are in the shaft or slope when an electrical storm approaches, every miner shall be removed from the working place until the storm has passed.
+		</section>
+	</text>
+	<history>1978, c. 729, § 45.1-53.1; 1994, c. 28, § 45.1-161.132; 2021, Sp. Sess. I, c. 387.</history>
+</law>

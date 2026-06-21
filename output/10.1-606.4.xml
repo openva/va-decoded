@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="6" level="3">Flood Protection and Dam Safety</unit>
+		<unit label="article" identifier="2" level="4">Dam Safety Act</unit>
+	</structure>
+	<section_number>10.1-606.4</section_number>
+	<catch_line>Notice to the public</catch_line>
+	<text>
+		<section prefix="A">When applying to the Department for a permit under the Virginia Impounding Structure Regulations (4VAC50-20) to construct a new high or significant hazard potential impounding structure, the applicant shall provide localities that lie within the inundation zone with copies of the construction permit request and the dam break inundation zone map.
+		</section>
+		<section prefix="B">When submitting the application to the Department, the permit applicant shall publish a notice in a newspaper of general circulation in the affected localities summarizing the permit request and providing the address of locations where copies of the construction permit request and the dam break inundation zone map may be examined. The applicant shall provide copies of the published notice to the Department and to the local government offices with plat and plan approval authority or zoning responsibilities as designated by the locality.
+		</section>
+		<section prefix="C">The Department may hold, on behalf of the Virginia Soil and Water Conservation Board, a public hearing on safety issues associated with the construction permit application for the impounding structure.
+		</section>
+		<section prefix="D">The Department may require a permit applicant to provide other forms of reasonable notice, such as the placement of a sign on the proposed site, to ensure that affected parties have been informed.
+		</section>
+		<section prefix="E">The permit applicant shall send, by certified mail, to each property owner within the dam break inundation zone, a summary of the permit request and the addresses of locations where the map of the dam break inundation zone may be viewed. In the case of a condominium or cooperative, such information shall be sent to each property owner or the owners' association. The permit applicant may rely upon real estate assessment records to identify property owners. If requested by the Department, the applicant shall provide a list of the persons to whom notice has been sent.
+		</section>
+	</text>
+	<history>2008, c. 491; 2011, c. 637.</history>
+</law>

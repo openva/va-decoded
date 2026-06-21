@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="12" level="3">Mergers and Share Exchanges</unit>
+	</structure>
+	<section_number>13.1-715.1</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article:
+		"Acquired entity" means the domestic or foreign corporation or eligible entity that will have all of one or more classes or series of shares or eligible interests acquired in a share exchange.
+		"Acquiring entity" means the domestic or foreign corporation or eligible entity that will acquire all of one or more classes or series of shares or eligible interests of the acquired entity in a share exchange.
+		"Merger" means a business combination pursuant to § 13.1-716.
+		"New interest holder liability" means interest holder liability of a person, resulting from a merger or share exchange, that is (i) in respect of an entity which is different from the entity in which the person held shares or eligible interests immediately before the merger or share exchange became effective or (ii) in respect of the same entity as the one in which the person held shares or eligible interests immediately before the merger or share exchange became effective if (a) the person did not have interest holder liability immediately before the merger or share exchange became effective or (b) the person had interest holder liability immediately before the merger or share exchange became effective, the terms and conditions of which were changed when the merger or share exchange became effective.
+		"Party to a merger" means any domestic or foreign corporation or eligible entity that will merge under a plan of merger. "Party to a merger" does not include a survivor created by the merger.
+		"Party to a share exchange" means any domestic or foreign corporation or eligible entity that is an acquired entity or an acquiring entity under a plan of share exchange.
+		"Survivor" in a merger means the domestic or foreign corporation or the eligible entity into which one or more other domestic or foreign corporations or eligible entities are merged. A survivor of a merger may preexist the merger or be created by the merger.
+	</text>
+	<history>2005, c. 765; 2019, c. 734.</history>
+</law>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="7" level="4">Enforcement and Administration</unit>
+	</structure>
+	<section_number>58.1-2265</section_number>
+	<catch_line>Improper sale or use of untaxed fuel; civil penalty</catch_line>
+	<text>
+		<section prefix="A">Any person committing any of the following acts shall be subject to the civil penalty specified in subsection B:
+			<section prefix="1">Selling or storing any dyed diesel fuel for use in a highway vehicle that is licensed or required to be licensed, unless that use is allowed under 26 U.S.C. § 4082;
+			</section>
+			<section prefix="2">Willfully altering or attempting to alter the strength or composition of any dye or marker in any dyed diesel fuel;
+			</section>
+			<section prefix="3">Using dyed diesel fuel in a highway vehicle unless that use is allowed under 26 U.S.C. § 4082;
+			</section>
+			<section prefix="4">Acquiring, selling or storing any fuel for use in a watercraft, aircraft, or highway vehicle that is licensed or required to be licensed unless the tax levied by this chapter has been paid; or
+			</section>
+			<section prefix="5">Using any fuel in a watercraft, aircraft, or highway vehicle that is licensed or required to be licensed unless the tax levied by this chapter has been paid.
+			</section>
+		</section>
+		<section prefix="B">The amount of the civil penalty for any act described in subsection A shall be the greater of $1,000 or ten dollars per gallon of fuel, based on the maximum storage capacity of the storage tank, container or storage tank of the highway vehicle, watercraft or aircraft.
+		</section>
+		<section prefix="C">The Commissioner is authorized to reduce or waive any civil penalties under this section if the violation is due to a reasonable or good cause shown to the satisfaction of the Commissioner.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758.</history>
+</law>

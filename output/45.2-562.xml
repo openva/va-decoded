@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="A" level="3">Coal Mines Generally</unit>
+		<unit label="chapter" identifier="5" level="4">Coal Mine Safety Act</unit>
+		<unit label="article" identifier="7" level="5">Mine Inspections</unit>
+	</structure>
+	<section_number>45.2-562</section_number>
+	<catch_line> Advance notice of inspections; confidentiality of trade secrets</catch_line>
+	<text>
+		<section prefix="A">No person shall give advance notice of any mine inspection conducted under the provisions of this title without authorization from the Chief or the Director.
+		</section>
+		<section prefix="B">All information reported to or otherwise obtained by the Chief or the Director or his authorized representative in connection with any inspection or proceeding under this title that contains or might reveal a trade secret referred to in 18 U.S.C. § 1905 shall be considered confidential for the purpose of that section, except that such information may be disclosed to the Chief or the Director or his authorized representative concerned with carrying out any provisions of this title or any proceeding hereunder. In any such proceeding, the court, the Chief, or the Director shall issue such orders as may be appropriate to protect the confidentiality of trade secrets.
+		</section>
+	</text>
+	<history>1973, c. 425, § 40.1-51.3:1; 1976, c. 607, § 40.1-51.4:1; 1994, c. 28, § 45.1-161.84; 2021, Sp. Sess. I, c. 387.</history>
+</law>

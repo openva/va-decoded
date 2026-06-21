@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="27" level="3">Uniform Powers of Appointment Act</unit>
+		<unit label="article" identifier="4" level="4">Disclaimer or Release; Contract to Appoint or Not to Appoint</unit>
+	</structure>
+	<section_number>64.2-2731</section_number>
+	<catch_line>Revocation or amendment of release</catch_line>
+	<text>
+		A powerholder may revoke or amend a release of a power of appointment only to the extent that:
+		<section prefix="1">The instrument of release is revocable by the powerholder; or
+		</section>
+		<section prefix="2">The powerholder reserves a power of revocation or amendment in the instrument of release.
+		</section>
+	</text>
+	<history>2016, c. 266.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3" level="2">Protection of Employees</unit>
+		<unit label="article" identifier="5" level="3">Safety Provisions</unit>
+	</structure>
+	<section_number>40.1-51.4:5</section_number>
+	<catch_line>Immunity of employees for reporting threatening conduct</catch_line>
+	<text>
+		<section prefix="A">Any employee who, in good faith with reasonable cause and without malice, truthfully reports threatening conduct by a person employed at the same workplace shall be immune from all civil liability that might otherwise be incurred or imposed as the result of making such a report.
+		</section>
+		<section prefix="B">As used in subsection A, "threatening conduct" means any conduct that would place a person in reasonable apprehension of death or bodily injury.
+		</section>
+		<section prefix="C">The immunity provided by this section shall not abrogate any other immunity that an employee may be entitled to assert.
+		</section>
+	</text>
+	<history>2002, c. 537.</history>
+</law>

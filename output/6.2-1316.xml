@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="13" level="3">Credit Unions</unit>
+		<unit label="article" identifier="2" level="4">Supervision and Regulation</unit>
+	</structure>
+	<section_number>6.2-1316</section_number>
+	<catch_line>Offenses; penalty</catch_line>
+	<text>
+		Any officer, director, employee, receiver, or agent of a credit union who willfully does any of the following is guilty of a Class 6 felony:
+		<section prefix="1">With the intent to deceive, falsifies any book of account, report, statement, record, or other document of a credit union, whether by alteration, false entry, omission, or otherwise;
+		</section>
+		<section prefix="2">Signs, issues, publishes, or transmits to a government agency any book of account, report, statement, record, or other document that he knows to be false;
+		</section>
+		<section prefix="3">By means of deceit, obtains a signature to a writing that is a subject of forgery;
+		</section>
+		<section prefix="4">With intent to deceive, destroys any credit union book of account, report, statement, record, or other document; or
+		</section>
+		<section prefix="5">With the intent to defraud, shares or receives directly or indirectly any money, property, or benefits through any transaction of the credit union.
+		</section>
+	</text>
+	<history>1985, c. 363, § 6.1-223.2; 1990, c. 373, § 6.1-225.62; 2010, c. 794.</history>
+</law>

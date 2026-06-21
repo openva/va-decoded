@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="6" level="3">Transfers Without Qualification</unit>
+		<unit label="article" identifier="5" level="4">Uniform Real Property Transfer on Death Act</unit>
+	</structure>
+	<section_number>64.2-634</section_number>
+	<catch_line>Liability for creditor claims and statutory allowances</catch_line>
+	<text>
+		<section prefix="A">After the death of the transferor, and subject to the transferor's right to direct the source from which liabilities will be paid, property transferred at the transferor's death by a transfer on death deed is subject to claims of the transferor's creditors, costs of administration of the transferor's estate, the expenses of the transferor's funeral and disposal of remains, and statutory allowances to a surviving spouse and children of the transferor including the family allowance, the right to exempt property, and the homestead allowance to the extent the transferor's probate estate is inadequate to satisfy those claims, costs, expenses, and allowances.
+		</section>
+		<section prefix="B">If more than one property is transferred by one or more transfer on death deeds, the liability under subsection A is apportioned among the properties in proportion to their net values at the transferor's death.
+		</section>
+		<section prefix="C">A proceeding to enforce the liability under this section shall be commenced not later than one year after the transferor's death.
+		</section>
+	</text>
+	<history>2013, c. 390.</history>
+</law>

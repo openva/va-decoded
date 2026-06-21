@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="15" level="3">Consumer Finance Companies</unit>
+	</structure>
+	<section_number>6.2-1503</section_number>
+	<catch_line>Scope of chapter</catch_line>
+	<text>
+		This chapter shall not apply to:
+		<section prefix="1">Any business transacted by any person under the authority of and as permitted by any law of the Commonwealth or of the United States relating to banks, savings institutions, trust companies, building and loan associations, industrial loan associations, or credit unions;
+		</section>
+		<section prefix="2">Any bona fide pawnbroking business transacted under a pawnbroker's license; or
+		</section>
+		<section prefix="3">Any person operating in accordance with the specific provisions of any other provision of this title currently in effect or hereafter enacted.
+		</section>
+	</text>
+	<history>Code 1950, § 6-280; 1966, c. 584, § 6.1-250; 1996, c. 16; 2000, c. 192; 2010, c. 794.</history>
+</law>

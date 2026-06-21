@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="13" level="3">Air Pollution Control Board</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>10.1-1308.1</section_number>
+	<catch_line>Streamlined permitting process for qualified energy generators</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Biomass" means organic material that is available on a renewable or recurring basis, including:
+			<section prefix="1">Forest-related materials, including mill residues, logging residues, forest thinnings, slash, brush, low-commercial value materials or undesirable species, and woody material harvested for the purpose of forest fire fuel reduction or forest health and watershed improvement;
+			</section>
+			<section prefix="2">Agricultural-related materials, including orchard trees, vineyard, grain or crop residues, including straws, aquatic plants and agricultural processed co-products and waste products, including fats, oils, greases, whey, and lactose;
+			</section>
+			<section prefix="3">Animal waste, including manure and slaughterhouse and other processing waste;
+			</section>
+			<section prefix="4">Solid woody waste materials, including landscape trimmings, waste pallets, crates and manufacturing, construction, and demolition wood wastes, excluding pressure-treated, chemically treated or painted wood wastes and wood contaminated with plastic;
+			</section>
+			<section prefix="5">Crops and trees planted for the purpose of being used to produce energy;
+			</section>
+			<section prefix="6">Landfill gas, wastewater treatment gas, and biosolids, including organic waste byproducts generated during the wastewater treatment process; and
+			</section>
+			<section prefix="7">Municipal solid waste, excluding tires and medical and hazardous waste.
+				"Expedited process" means a process that (i) requires the applicant to pay fees to the Commonwealth in connection with the issuance and processing of the permit application that do not exceed $50 and (ii) has a duration, from receipt of a complete permit application until final action by the Department on the application, not longer than 60 days.
+				"Qualified energy generator" means a commercial facility located in the Commonwealth with the capacity annually to generate no more than five megawatts of electricity, or produce the equivalent amount of energy in the form of fuel, steam, or other energy product, that is generated or produced from biomass, and that is sold to an unrelated person or used in a manufacturing process.
+			</section>
+		</section>
+		<section prefix="B">The Department shall develop an expedited process for issuing any permit that it is required to issue for the construction or operation of a qualified energy generator. The development of the expedited permitting process shall be in accordance with subdivision A 8 of § 2.2-4006; however, if the construction or operation of a qualified energy generator is subject to a major new source review program required by § 110(a)(2)(C) of the federal Clean Air Act, this section shall not apply.
+		</section>
+	</text>
+	<history>2008, c. 258; 2010, c. 65; 2022, c. 356.</history>
+</law>

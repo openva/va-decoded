@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="63.2" level="1">Welfare (Social Services)</unit>
+		<unit label="subtitle" identifier="III" level="2">Social Services Programs</unit>
+		<unit label="chapter" identifier="9" level="3">Foster Care</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>63.2-905.6</section_number>
+	<catch_line>Notice of eligibility for certain federal benefits</catch_line>
+	<text>
+		If the local department of social services (the local department) serves as representative payee for a child receiving benefits from the Social Security Administration or the U.S. Department of Veterans Affairs, the local department shall provide written notice in person or by certified mail, return receipt requested, that it is acting as the child's representative payee within 30 days after receiving the first benefit payment on behalf of the child to:
+		<section prefix="1">The child, in an age-appropriate manner, if the child is 12 years of age or older;
+		</section>
+		<section prefix="2">The child's parent, prior guardian, or prior custodian, or, if there is no legal parent or prior guardian or custodian, the child's next of kin;
+		</section>
+		<section prefix="3">The guardian ad litem appointed pursuant to § 16.1-266, if applicable; and
+		</section>
+		<section prefix="4">The counsel appointed for the child pursuant to § 16.1-266, if applicable.
+		</section>
+	</text>
+	<history>2025, c. 354.</history>
+</law>

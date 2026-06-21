@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="3" level="2">Provisions Relating to Insurance Policies and Contracts</unit>
+	</structure>
+	<section_number>38.2-326</section_number>
+	<catch_line>Plan management functions</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Exchange" means either the (i) federal health benefit exchange established by the Secretary of the U.S. Department of Health and Human Services pursuant to § 1321 of the Patient Protection and Affordable Care Act codified as 42 U.S.C. § 18041(c) in the Commonwealth or (ii) state-based exchange established pursuant to Chapter 65 (§ 38.2-6500 et seq.) and § 1311(b) of the Patient Protection and Affordable Care Act codified as 42 U.S.C. § 18031.
+			"Plan management functions" means analyses and reviews necessary to support the certification, decertification, and recertification of qualified health plans and stand-alone dental plans for the participation in an exchange and the collection of data necessary to perform the above functions.
+		</section>
+		<section prefix="B">The Commission's Bureau of Insurance, with the assistance of the Virginia Department of Health, shall perform plan management functions required to certify health benefit plans and stand-alone dental plans for participation in the exchange, provided that: (i) full funding is available; (ii) the technology infrastructure, including integration with federal, state, and other necessary entities, is made available to the Commission in order for it to carry out the plan management functions authorized in this section; and (iii) there are no other impediments that effectively prevent the Commission from performing any required plan management functions.
+		</section>
+		<section prefix="C">The Commission's Bureau of Insurance may contract and enter into memoranda of understanding to carry out its plan management functions.
+		</section>
+		<section prefix="D">The Commission shall not use any special fund revenues dedicated to its other functions and duties unrelated to exchange operations, including revenues from utility consumer taxes or fees from licensees or registrants regulated by the Commission or fees paid to the Clerk's Office, to fund the plan management functions.
+		</section>
+		<section prefix="E">Technology resources provided by the Commission in carrying out the plan management functions shall be limited to existing Commission technology support functions such as desktop support, network administration support, web services support, or other similar support functions.
+		</section>
+		<section prefix="F">The Commission shall make available to the public on its website a written report on the implementation and performance of its plan management functions during the preceding fiscal year, including, at a minimum, the manner in which all funds utilized for its plan management functions were expended.
+		</section>
+	</text>
+	<history>2013, cc. 670, 679; 2020, cc. 916, 917.</history>
+</law>

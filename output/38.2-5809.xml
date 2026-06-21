@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="58" level="2">Managed Care Health Insurance Plans</unit>
+	</structure>
+	<section_number>38.2-5809</section_number>
+	<catch_line>Suspension or revocation of license</catch_line>
+	<text>
+		The Commission may suspend or revoke any license issued to a health carrier if it finds that any of the following conditions exist:
+		<section prefix="1">The State Health Commissioner certifies to the Commission pursuant to § 32.1-137.5 that the health carrier or its MCHIP is unable to fulfill its obligations to furnish quality health care services as set forth in Article 1.1 (§ 32.1-137.1 et seq.) of Chapter 5 of Title 32.1. The suspension of a certificate of quality assurance shall not be deemed such a certification by the State Health Commissioner.
+		</section>
+		<section prefix="2">The State Health Commissioner notifies the Commission that the health carrier has failed to implement the complaint system required by Title 32.1 and § 38.2-5804 to resolve valid complaints reasonably.
+		</section>
+		<section prefix="3">The Commission determines that a certificate of quality assurance issued to the health carrier has been revoked by the State Health Commissioner, or a request for renewal of such certificate has been denied or disapproved by the State Health Commissioner.
+		</section>
+	</text>
+	<history>1998, c. 891.</history>
+</law>

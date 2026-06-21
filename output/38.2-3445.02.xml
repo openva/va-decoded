@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="6" level="3">Federal Market Reforms</unit>
+	</structure>
+	<section_number>38.2-3445.02</section_number>
+	<catch_line>Arbitration</catch_line>
+	<text>
+		<section prefix="A">If good faith negotiation, as described in § 38.2-3445.01, does not result in resolution of the dispute, and the carrier or the out-of-network provider chooses to pursue further action to resolve the dispute, the carrier or out-of-network provider shall initiate arbitration to determine a commercially reasonable payment amount. To initiate arbitration, the carrier or provider shall provide written notification to the Commission and the noninitiating party no later than 10 calendar days following completion of the period of good faith negotiation provided in § 38.2-3445.01. Such notification shall state the initiating party's final offer. No later than 30 calendar days following receipt of the notification, the noninitiating party shall provide its final offer to the initiating party. The parties may reach an agreement on reimbursement during this time and before the arbitration proceeding.
+		</section>
+		<section prefix="B">The parties shall be permitted to bundle claims for arbitration. Multiple claims may be addressed in a single arbitration proceeding if the claims at issue (i) involve identical carrier and provider parties, (ii) involve claims with the same or related current procedural terminology codes relevant to a particular procedure, and (iii) occur within a period of two months of one another.
+		</section>
+		<section prefix="C">Within seven calendar days of receipt of notification from the initiating party, the Commission shall provide the parties with a list of approved arbitrators or entities that provide arbitrations. The arbitrators on the list shall not have a conflict of interest with the parties and shall be trained and have experience and be selected by the Commission as set out in the standards established by the Commission through regulation. The parties may agree on an arbitrator from the list provided by the Commission. If the parties do not agree on an arbitrator, they shall notify the Commission, and the Commission shall provide the parties with the names of five arbitrators from the list. Each party may veto up to two of the five named arbitrators. If one arbitrator remains, that arbitrator shall be the chosen arbitrator. If more than one arbitrator remains, the Commission shall choose the arbitrator from the remaining arbitrators. The parties and the Commission shall complete this process within 20 calendar days of receipt of the original list from the Commission.
+		</section>
+		<section prefix="D">No later than 30 days after final selection of the arbitrator pursuant to subsection C, each party shall provide written submissions in support of its position to the arbitrator. The initiating party shall include in its written submission the evidence and methodology for asserting that the amount proposed to be paid is or is not commercially reasonable. A party that fails to make timely written submissions under this subsection without good cause shown shall be considered to be in default, and the arbitrator shall require the defaulting party to pay the final offer of the nondefaulting party and may require the defaulting party to pay the arbitrator's fixed fee. Written submissions required by this subsection may be submitted electronically.
+		</section>
+		<section prefix="E">No later than 30 calendar days after the receipt of the parties' written submissions, the arbitrator shall (i) issue a written decision requiring payment of the final offer amount of either the initiating or noninitiating party, (ii) notify the parties of the decision, and (iii) provide the decision and the information described in subsection I to the Commission.
+		</section>
+		<section prefix="F">In reviewing the submissions of the parties and making a decision requiring payment of the final offer amount of either the initiating or noninitiating party, the arbitrator shall consider the following factors:
+			<section prefix="1">The evidence and methodology submitted by the parties to assert that their final offer amount is reasonable; and
+			</section>
+			<section prefix="2">Patient characteristics and the circumstances and complexity of the case, including time and place of service and type of facility, that are not already reflected in the provider's billing code for the service.
+				The arbitrator may also consider other information that a party believes is relevant to the required factors included in this subsection or other information requested by the arbitrator and information provided by the parties that is relevant to such request, including data sets developed pursuant to § 38.2-3445.03. The arbitrator shall not require extrinsic evidence of authenticity for admitting such data sets.
+			</section>
+		</section>
+		<section prefix="G">The Commission shall establish a schedule of fixed fees for the costs of arbitration. Except as provided in subsection D, such fees shall be divided equally among the parties to the arbitration. The enrollee shall not be liable for any of the costs of arbitration and shall not be required to participate in the arbitration process as a witness or otherwise.
+		</section>
+		<section prefix="H">Within 10 business days of a party notifying the Commission and the noninitiating party of intent to initiate arbitrations, both parties shall agree to and execute a nondisclosure agreement. The nondisclosure agreement shall not preclude the arbitrator from submitting the arbitrator's decision to the Commission or impede the Commission's duty to prepare the annual report required by subsection I.
+		</section>
+		<section prefix="I">The Commission shall prepare an annual report summarizing the dispute resolution information provided by arbitrators, including information related to the matters decided through arbitration as well as the following information for each dispute resolved through arbitration: the name of the carrier, the name of the health care provider, the health care provider's employer or the business entity in which the provider has an ownership interest, the health care facility where the services were provided, and the type of health care services at issues. The Commission shall post the report on the Bureau's website and submit it to the Chairs of the House Committee on Labor and Commerce and Committee on Appropriations and the Senate Committee on Commerce and Labor and Committee on Finance and Appropriations annually by July 1. The provisions of this subsection shall expire on July 1, 2025.
+		</section>
+		<section prefix="J">The Commission shall establish an appeals process for a party to appeal to the Commission an arbitrator's decision on the grounds that (i) the decision was substantially influenced by corruption, fraud, or other undue means; (ii) there was evident partiality, corruption, or misconduct prejudicing the rights of any party; (iii) the arbitrator exceeded his powers; or (iv) the arbitrator conducted the proceeding contrary to the provisions of this section and Commission regulations, in such a way as to materially prejudice the rights of the party.
+		</section>
+		<section prefix="K">The provisions of the Uniform Arbitration Act, Article 2 (§ 8.01-581.01 et seq.) of Chapter 21 of Title 8.01, shall not apply to arbitration proceedings initiated pursuant to this section.
+		</section>
+	</text>
+	<history>2020, cc. 1080, 1081.</history>
+</law>

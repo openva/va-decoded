@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="18" level="3">Short-term Loans</unit>
+	</structure>
+	<section_number>6.2-1810</section_number>
+	<catch_line>Loan database</catch_line>
+	<text>
+		<section prefix="A">The Commission shall certify and contract with one or more third parties to develop, implement, and maintain a real-time, Internet-accessible database that contains such short-term loan information as the Commission may require from time to time by administrative rule or policy statement.
+		</section>
+		<section prefix="B">The following provisions shall apply to the database:
+			<section prefix="1">Before making a short-term loan, a licensee shall query the database through a Commission-certified database provider and shall retain evidence of the query for the Commission's supervisory review. The database shall allow a licensee to make a short-term loan only if making the loan is permissible under the provisions of this chapter. During any period that the database is unavailable due to technical problems beyond the licensee's control, a licensee may rely on the loan applicant's written representations, rather than the database's information, to verify that making the loan applied for is permissible under the provisions of this chapter. Because a licensee may rely on the accuracy of the applicant's representations and the database's information, a licensee is not subject to any administrative penalty or civil liability if that information is later determined to be inaccurate.
+			</section>
+			<section prefix="2">The database provider shall maintain the database, take all actions it deems necessary to protect the confidentiality and security of the information contained in the database, be responsible for the confidentiality and security of such information, and own the information contained in the database. The Commission shall have access to and utilize the database as a supervision and enforcement tool to ensure licensees' compliance with the provisions of this chapter.
+			</section>
+			<section prefix="3">Upon a licensee's query, the database shall advise the licensee whether the applicant is eligible for a new short-term loan and, if the applicant is ineligible, the reason for such ineligibility. If the database advises the licensee that the applicant is ineligible for a short-term loan, then the applicant shall direct any inquiry regarding the specific reason for such ineligibility to the database provider rather than to the licensee. The information contained in the database is confidential and exempt from the Freedom of Information Act (§ 2.2-3700 et seq.).
+			</section>
+			<section prefix="4">If a licensee and borrower consummate a loan, then the licensee shall pay a fee to defray the costs of submitting the database inquiry. The amount of the database inquiry fee shall be calculated in accordance with a schedule set by the Commission. The schedule shall bear a reasonable relationship to actual cost of the operation of the database. If a licensee submits a database inquiry but does not consummate a loan with the applicant, then the licensee shall not pay the database inquiry fee. Each licensee shall remit all database inquiry fees directly to the database provider on a weekly basis.
+			</section>
+			<section prefix="5">If a borrower enters into a short-term loan or pays or otherwise satisfies a short-term loan in full, then the licensee making the loan shall report such event or other information to the database not later than the close of business on the date of such event.
+			</section>
+		</section>
+	</text>
+	<history>2008, cc. 849, 876, § 6.1-453.1; 2010, c. 794; 2020, cc. 1215, 1258.</history>
+</law>

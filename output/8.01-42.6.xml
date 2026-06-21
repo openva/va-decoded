@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="3" level="3">Injury to Person or Property</unit>
+	</structure>
+	<section_number>8.01-42.6</section_number>
+	<catch_line>Liability of employer for personal injury or death by wrongful act</catch_line>
+	<text>
+		<section prefix="A">In addition to any other available grounds for the determination of the course and scope of employment, in an action for personal injury or death by wrongful act brought by a vulnerable victim or the personal representative of a deceased vulnerable victim against an employee, the finder of fact at trial on the merits shall determine whether an employer shall be vicariously liable for the tortious conduct of such employer's employee based upon a finding that:
+			<section prefix="1">The employee's tortious conduct occurred while the employee was reasonably likely to be in contact with the vulnerable victim and such conduct proximately causes personal injury to such vulnerable victim or the death of such vulnerable victim by wrongful act;
+			</section>
+			<section prefix="2">The employer failed to exercise reasonable care to (i) prevent the employee from intentionally harming such vulnerable victim or (ii) control the employee resulting in an unreasonable risk of a vulnerable victim suffering personal injury or death by wrongful act;
+			</section>
+			<section prefix="3">The employer knew or should have known of the ability to control the employee; and
+			</section>
+			<section prefix="4">The employer knew or should have known of the necessity and opportunity for exercising such control over the employee.
+			</section>
+		</section>
+		<section prefix="B">For the purposes of this section, "vulnerable victim" means any person who is at a substantial disadvantage relative to an employee due to circumstances, including such person's physical or mental condition or characteristics, and, as a matter of law, shall include a (i) patient of a health care provider, as defined in § 8.01-581.1; (ii) person under a disability pursuant to § 8.01-2; (iii) resident of an assisted living facility; (iv) passenger of a common carrier, as defined in § 46.2-2000, excluding those transit services and transit facilities under the Washington Metropolitan Area Transit Authority Compact of 1966 pursuant to Chapter 31 (§ 33.2-3100) of Title 33.2; (v) passenger of a common carrier, as defined in § 46.2-2000, excluding public transit agencies funded in whole or in part by the Commonwealth Mass Transit Fund, as defined in § 33.2-1526; (vi) passenger of a nonemergency medical transportation carrier, as defined in § 46.2-2000; and (vii) business invitee of an esthetics spa, as defined in § 54.1-700, or a business offering massage therapy, as defined in § 54.1-3000.
+		</section>
+		<section prefix="C">The determination of the issues pursuant to the provisions of this section shall be questions of fact for which the plaintiff shall bear the burden of proof and shall be subject to any available affirmative defenses.
+		</section>
+	</text>
+	<history>2025, cc. 726, 727.</history>
+</law>

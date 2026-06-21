@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="3" level="3">Form and Effect of Deeds and Covenants; Liens</unit>
+		<unit label="article" identifier="3" level="4">Satisfaction of Security Interest in Real Property</unit>
+	</structure>
+	<section_number>55.1-350</section_number>
+	<catch_line>Form and effect of satisfaction</catch_line>
+	<text>
+		<section prefix="A">A document is sufficient to constitute a satisfaction of a security instrument if it conforms substantially in form and content to the requirements of § 55.1-342 and it:
+			<section prefix="1">Identifies the security instrument, the original parties to the security instrument, the recording data for the security instrument, and the office in which the security instrument is recorded;
+			</section>
+			<section prefix="2">States that the person signing the satisfaction is the secured creditor;
+			</section>
+			<section prefix="3">Contains a legal description of the real property identified in the security instrument, but only if a legal description is necessary for a satisfaction to be properly indexed; otherwise, the deed book and page number or instrument number is sufficient;
+			</section>
+			<section prefix="4">Contains language terminating the effectiveness of the security instrument; and
+			</section>
+			<section prefix="5">Is signed by the secured creditor and acknowledged as required by law for a conveyance of an interest in real property.
+			</section>
+		</section>
+		<section prefix="B">The clerk of the circuit court shall accept for recording a satisfaction document, unless:
+			<section prefix="1">An amount equal to or greater than the applicable recording fees and taxes is not tendered;
+			</section>
+			<section prefix="2">The document is submitted by a method or in a medium not authorized by the laws of the Commonwealth; or
+			</section>
+			<section prefix="3">The document is not signed by the secured creditor and acknowledged as required by law for a conveyance of an interest in real property.
+			</section>
+		</section>
+	</text>
+	<history>2006, c. 907, § 55-66.12; 2019, c. 712.</history>
+</law>

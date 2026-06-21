@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4.3" level="4">Commonwealth Identity Management Standards</unit>
+	</structure>
+	<section_number>2.2-436</section_number>
+	<catch_line>Approval of electronic identity standards</catch_line>
+	<text>
+		<section prefix="A">The Secretary of Commerce and Trade in consultation with the Secretary of Administration, shall review and approve or disapprove, upon the recommendation of the Identity Management Standards Advisory Council pursuant to § 2.2-437, guidance documents that adopt (i) nationally recognized technical and data standards regarding the verification and authentication of identity in digital and online transactions; (ii) the minimum specifications and standards that should be included in an identity trust framework, as defined in § 59.1-550, so as to warrant liability protection pursuant to the Electronic Identity Management Act (§ 59.1-550 et seq.); and (iii) any other related data standards or specifications concerning reliance by third parties on identity credentials, as defined in § 59.1-550.
+		</section>
+		<section prefix="B">Final guidance documents approved pursuant to subsection A shall be posted on the Virginia Regulatory Town Hall and published in the Virginia Register of Regulations as a general notice. The Secretary of Commerce and Trade shall send a copy of the final guidance documents to the Joint Commission on Administrative Rules established pursuant to § 30-73.1 at least 90 days prior to the effective date of such guidance documents. The Secretary of Commerce and Trade shall also annually file a list of available guidance documents developed pursuant to this chapter pursuant to § 2.2-4103.1 of the Virginia Administrative Process Act (§ 2.2-4000 et seq.) and shall send a copy of such list to the Joint Commission on Administrative Rules.
+		</section>
+	</text>
+	<history>2015, cc. 482, 483; 2017, c. 488; 2020, c. 738; 2021, Sp. Sess. I, c. 258.</history>
+</law>

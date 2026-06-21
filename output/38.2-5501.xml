@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="55" level="2">Risk-Based Capital Act</unit>
+	</structure>
+	<section_number>38.2-5501</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, the following terms shall have the following meanings:
+		"Adjusted RBC Report" means an RBC report which has been adjusted by the Commission in accordance with subsection F of § 38.2-5502.
+		"Capital and surplus" or "capital," except when used in the term "risk-based capital" or "adjusted capital," means net worth of a health maintenance organization and, for all other licensees, means surplus to policyholders.
+		"Corrective Order" means an order issued by the Commission specifying corrective actions which the Commission has determined are required.
+		"Delinquency proceeding" means any proceeding commenced against a licensee for the purpose of liquidating, rehabilitating, reorganizing or conserving a licensee pursuant to the provisions of Chapter 15 (§ 38.2-1500 et seq.).
+		"Domestic health organization" means a health organization domiciled in this Commonwealth.
+		"Domestic insurer" means any domestic company which has obtained a license to engage in insurance transactions in this Commonwealth in accordance with the applicable provisions of Chapter 10 (§ 38.2-1000 et seq.) or Chapter 41 (§ 38.2-4100 et seq.).
+		"Domestic licensee" means and includes a domestic insurer and a domestic health organization.
+		"Foreign health organization" means a health organization not domiciled in this Commonwealth which is licensed to do business in this Commonwealth.
+		"Foreign insurer" means any company not domiciled in this Commonwealth which has obtained a license to engage in insurance transactions in this Commonwealth in accordance with the applicable provisions in Chapter 10 (§ 38.2-1000 et seq.) or Chapter 41 (§ 38.2-4100 et seq.).
+		"Foreign licensee" means and includes a foreign insurer and a foreign health organization.
+		"Health organization" means an insurer that is required by the Commission to use the NAIC's Health Annual Statement blank when filing the annual statement prescribed by § 38.2-1300, or a corporation licensed pursuant to Chapter 42 (§ 38.2-4200 et seq.) operating a health or hospital services plan in the Commonwealth, or a health maintenance organization or limited health maintenance organization licensed pursuant to Chapter 43 (§ 38.2-4300 et seq.), or a corporation licensed pursuant to Chapter 45 (§ 38.2-4500 et seq.) and operating a dental or optometric services plan in the Commonwealth, or a dental plan organization licensed pursuant to Chapter 61 (§ 38.2-6100 et seq.).
+		"Licensee" means and includes a life and health insurer, a property and casualty insurer, and a health organization.
+		"Life and health insurer" means any domestic insurer or foreign insurer, whether known as a life insurer or a property and casualty insurer or a reciprocal or a fraternal benefit society, which is authorized to write any class of life insurance, annuities, or accident and sickness insurance, and is not writing a class of insurance set forth in §§ 38.2-110 through 38.2-132, provided that "life and health insurer" shall not include any insurer which is required by the Commission to use the NAIC's Health Annual Statement blank when filing the annual statement prescribed by § 38.2-1300.
+		"NAIC" means the National Association of Insurance Commissioners.
+		"Negative Trend," with respect to a life and health insurer, means a negative trend over a period of time, as determined in accordance with the "Trend Test Calculation" included in the Life RBC Instructions.
+		"Property and casualty insurer" means any domestic insurer or foreign insurer which is authorized under any chapter of this title to write any class of insurance except a class of life insurance or annuities, provided that "property and casualty insurer" shall not include monoline mortgage guaranty insurers, financial guaranty insurers and title insurers, nor shall it include any insurer which is required by the Commission to use the NAIC's Health Annual Statement blank when filing the annual statement prescribed by § 38.2-1300.
+		"RBC" means risk-based capital.
+		"RBC Instructions" means the RBC Report including risk-based capital instructions adopted by the NAIC, as such RBC Instructions may be amended by the NAIC from time to time in accordance with the procedures adopted by the NAIC.
+		"RBC Level" means a licensee's Company Action Level RBC, Regulatory Action Level RBC, Authorized Control Level RBC, or Mandatory Control Level RBC where:
+		<section prefix="1">"Company Action Level RBC" means, with respect to any licensee, the product of 2.0 and its Authorized Control Level RBC;
+		</section>
+		<section prefix="2">"Regulatory Action Level RBC" means the product of 1.5 and its Authorized Control Level RBC;
+		</section>
+		<section prefix="3">"Authorized Control Level RBC" means the number determined under the risk-based capital formula in accordance with the RBC Instructions;
+		</section>
+		<section prefix="4">"Mandatory Control Level RBC" means the product of 0.70 and the Authorized Control Level RBC.
+			"RBC Plan" means a comprehensive financial plan containing the elements specified in subsection B of § 38.2-5503. If the Commission rejects the RBC Plan, and it is revised by the licensee, with or without the Commission's recommendation, the plan shall be called the "Revised RBC Plan."
+			"RBC Report" means the report required in § 38.2-5502.
+			"Total Adjusted Capital" means the sum of:
+		</section>
+		<section prefix="1">A licensee's statutory capital and surplus as determined in accordance with statutory accounting applicable to the annual financial statements required to be filed under § 38.2-1300; and
+		</section>
+		<section prefix="2">Such other items, if any, as the RBC Instructions may provide.
+		</section>
+	</text>
+	<history>1995, c. 789; 2000, c. 47; 2007, c. 360; 2012, c. 156; 2014, c. 309.</history>
+</law>

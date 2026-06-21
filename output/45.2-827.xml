@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="4" level="5">Ventilation, Mine Gases, and Other Hazardous Conditions</unit>
+	</structure>
+	<section_number>45.2-827</section_number>
+	<catch_line> On-shift examinations</catch_line>
+	<text>
+		<section prefix="A">At least once during each shift, and more often if necessary, a certified person shall examine each underground section where coal is produced and any other area where mechanized mining equipment is being installed or removed during the shift. The certified person shall (i) examine for hazardous conditions, (ii) test for methane and oxygen deficiency with a suitable permissible device, and (iii) determine whether the air is traveling in its regular course and in sufficient volume in each split. Any hazardous condition shall be corrected immediately or the miners shall be withdrawn and the affected area plainly marked with danger signs.
+		</section>
+		<section prefix="B">During each shift in which coal is produced, a certified person shall examine for hazardous conditions along each underground belt conveyor entry where a belt conveyor is operated. Such examination may be conducted at the same time as the pre-shift examination of the belt conveyors and the belt conveyor entries, if the examination is conducted within three hours before the established eight-hour interval. The person conducting the examination shall certify by initials, date, and time at enough locations to show that the entire area has been examined.
+		</section>
+		<section prefix="C">A person conducting an on-shift examination shall determine at the following underground locations:
+			<section prefix="1">The volume of air in the last open crosscut of each set of entries or rooms on each working section and in any area in which mechanized mining equipment is being installed or removed;
+			</section>
+			<section prefix="2">The volume of air on a longwall or shortwall, including any area where longwall or shortwall equipment is being installed or removed, in the intake entry or entries at the intake end of the longwall or shortwall;
+			</section>
+			<section prefix="3">The velocity of air at each end of the longwall or shortwall face at each location specified in the approved ventilation plan required pursuant to the federal mine safety law; and
+			</section>
+			<section prefix="4">The volume of air at the intake end of any pillar line (i) in the intake entry furthest from the return air course, immediately outby the first open crosscut outby the line of pillars being mined, if a single split of air is used or (ii) in the intake entries of each split, immediately inby the split point, if a split system is used.
+			</section>
+		</section>
+		<section prefix="D">A test shall be made for methane before (i) any electrically powered equipment is taken inby the last open crosscut, (ii) any blasting takes place, and (iii) work is resumed after blasting. When a longwall or shortwall mining system is used, such methane test shall be made from under permanent roof support at the shearer, the plow, or the cutting head. Such methane test shall be made at least once every 20 minutes or more often as necessary for safety while such equipment is in operation. When mining has been stopped for more than 20 minutes, a methane test shall be conducted prior to the start-up of equipment.
+		</section>
+		<section prefix="E">Each idle or worked-out area underground, including any section belt that has been idle for a period of 24 hours or more, shall be examined by a certified person immediately before miners are permitted to enter or work in such area. The person conducting the examination shall certify completion of the examination by initials, date, and time at enough locations to show that the entire area has been examined.
+		</section>
+		<section prefix="F">Daily and on-shift examinations of surface areas of underground coal mines shall be made in accordance with the requirements for daily and on-shift examinations at surface coal mines as provided in § 45.2-903.
+		</section>
+	</text>
+	<history>Code 1950, §§ 45-32, 45-33, 45-60.4, 45-60.5, 45-68.1, 45-69.7, 45-83; 1954, c. 191; 1966, c. 594, §§ 45.1-20, 45.1-62, 45.1-65, 45.1-83; 1978, c. 120; 1982, c. 385; 1993, c. 442; 1994, c. 28, § 45.1-161.209; 1996, c. 774; 1999, c. 256; 2005, c. 3; 2021, Sp. Sess. I, c. 387.</history>
+</law>

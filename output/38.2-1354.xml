@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="8" level="3">Licensing of Reinsurance Intermediaries</unit>
+	</structure>
+	<section_number>38.2-1354</section_number>
+	<catch_line>Duties of reinsurers utilizing the services of a reinsurance intermediary manager</catch_line>
+	<text>
+		<section prefix="A">A reinsurer shall not engage the services of any individual or business entity to act as a reinsurance intermediary manager on its behalf unless such individual or business entity is licensed as required by § 38.2-1348.
+		</section>
+		<section prefix="B">The reinsurer shall annually obtain a copy of the current financial statement of each reinsurance intermediary manager that such reinsurer has engaged. Such statements shall be prepared by an independent certified accountant in a form acceptable to the Commission.
+		</section>
+		<section prefix="C">If a reinsurance intermediary manager establishes loss reserves, the reinsurer shall annually obtain the opinion of an actuary attesting to the adequacy of loss reserves established for losses incurred and outstanding on business produced by the reinsurance intermediary manager. This opinion shall be in addition to any other required loss reserve certification.
+		</section>
+		<section prefix="D">Binding authority for all retrocessional contracts or participation in reinsurance syndicates shall rest with an officer of the reinsurer who shall not be affiliated with the reinsurance intermediary manager.
+		</section>
+		<section prefix="E">Within thirty calendar days of termination of a contract with a reinsurance intermediary manager, the reinsurer shall provide written notification of such termination in a form acceptable to the Commission.
+		</section>
+		<section prefix="F">A reinsurer shall not appoint to its board of directors, any officer, director, employee, controlling shareholder or subproducer of its reinsurance intermediary manager. This subsection shall not apply to relationships governed by Article 5 (§ 38.2-1322 et seq.) of this chapter or Article 2 (§ 38.2-4230 et seq.) of Chapter 42 of this title.
+		</section>
+		<section prefix="G">An insurer shall not delegate to any person, other than one of its officers, the authority to enter into or bind any reinsurance agreement by which the insurer agrees to cede or retrocede any risk to a reinsurer, except that an insurer may delegate the specific authority to bind facultative reinsurance contracts by placing individual risks pursuant to the provisions of subdivision 1 of § 38.2-1353 or subdivision 10 of § 38.2-1360.
+			<section prefix="1">The officer shall be a regular salaried employee of such insurer and shall not be affiliated with the reinsurance intermediary.
+			</section>
+			<section prefix="2">The insurer is not prohibited by the provisions of this subsection from delegating the authority to enter into or bind an agreement to assume a risk to a licensed reinsurance intermediary manager pursuant to the provisions of this article, provided the authority to cede and assume a given risk is not simultaneously vested in the same intermediary.
+			</section>
+		</section>
+	</text>
+	<history>2001, c. 706.</history>
+</law>

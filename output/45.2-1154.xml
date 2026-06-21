@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="III" level="2">Mineral Mines</unit>
+		<unit label="part" identifier="A" level="3">Mineral Mines Generally</unit>
+		<unit label="chapter" identifier="11" level="4">Mineral Mine Safety Act</unit>
+		<unit label="article" identifier="7" level="5">Mine Inspections</unit>
+	</structure>
+	<section_number>45.2-1154</section_number>
+	<catch_line> Duties of operator</catch_line>
+	<text>
+		<section prefix="A">Each operator of a mine, or his agent, shall furnish to the Director and each mine inspector proper facilities for entering such mine and making examinations or obtaining information and shall furnish any data or information not of a confidential nature requested by such inspector.
+		</section>
+		<section prefix="B">Each operator of an underground mine, or his agent, shall provide each mine inspector adequate means for transportation to the active working areas of the mine within a reasonable time following the mine inspector's arrival at the mine.
+		</section>
+		<section prefix="C">Such operator or agent shall, when ordered to do so by a mine inspector during the course of an inspection, promptly clear the mine or section thereof of all persons.
+		</section>
+	</text>
+	<history>1997, c. 390, § 45.1-161.292:60; 2021, Sp. Sess. I, c. 387.</history>
+</law>

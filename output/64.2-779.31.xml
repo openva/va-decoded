@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.2" level="4">Uniform Directed Trust Act</unit>
+	</structure>
+	<section_number>64.2-779.31</section_number>
+	<catch_line>Duty and liability of trust director</catch_line>
+	<text>
+		<section prefix="A">Subject to subsection B, with respect to a power of direction or further power under subdivision B 1 of § 64.2-779.29:
+			<section prefix="1">A trust director has the same fiduciary duty and liability in the exercise or nonexercise of the power:
+				a. If the power is held individually, as a sole trustee in a like position and under similar circumstances; or
+				b. If the power is held jointly with a trustee or another trust director, as a cotrustee in a like position and under similar circumstances; and
+			</section>
+			<section prefix="2">The terms of the trust may vary the trust director's duty or liability to the same extent the terms of the trust could vary the duty or liability of a trustee in a like position and under similar circumstances.
+			</section>
+		</section>
+		<section prefix="B">Unless the terms of a trust provide otherwise, if a trust director is licensed, certified, or otherwise authorized or permitted by law other than this article to provide health care in the ordinary course of the trust director's business or practice of a profession, to the extent the trust director acts in that capacity, the trust director has no duty or liability under this article.
+		</section>
+		<section prefix="C">The terms of a trust may impose a duty or liability on a trust director in addition to the duties and liabilities imposed under this section.
+		</section>
+	</text>
+	<history>2020, c. 768.</history>
+</law>

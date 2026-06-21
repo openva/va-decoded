@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="23" level="2">Virginia Electric Utility Regulation Act</unit>
+	</structure>
+	<section_number>56-596.4</section_number>
+	<catch_line>Electric utilities; local reliability data</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section, "Phase II Utility" has the same meaning as provided in subdivision A 1 of § 56-585.1.
+		</section>
+		<section prefix="B">Upon request of a locality located within the service territory of a Phase II Utility, a Phase II Utility shall provide local reliability data within 30 days of such request. The data provided to the locality shall be limited in scope to the particular locality that made the request. Such data provided by the utility shall include standard reliability metrics used in accordance with industry-recognized electric reliability standards (IEEE 1366), including data from the System Average Interruption Duration Index (SAIDI), the System Average Interruption Frequency Index (SAIFI), the Customer Average Interruption Duration Index (CAIDI), and the Customer Average Interruption Frequency Index (CAIFI). The Commission shall include in the report required pursuant to § 56-596.3 such industry standard reliability metrics for each Phase II Utility and a description of any infrastructure investments made by each Phase II Utility to improve electric service reliability over the relevant reporting period.
+		</section>
+	</text>
+	<history>2022, c. 653.</history>
+</law>

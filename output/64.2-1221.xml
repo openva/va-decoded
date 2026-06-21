@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="A" level="3">Fiduciaries</unit>
+		<unit label="chapter" identifier="12" level="4">Commissioners of Accounts</unit>
+	</structure>
+	<section_number>64.2-1221</section_number>
+	<catch_line>Report on fiduciaries' bonds; "record of fiduciaries."</catch_line>
+	<text>
+		<section prefix="A">The clerk of each circuit court shall furnish to the commissioner of accounts at the end of each month a list of the fiduciaries authorized to act as such under orders entered during that month and shall examine whether each fiduciary has given such bond as the law requires. If it appears that the fiduciary has given no bond or that his bond is defective, the clerk shall immediately report this fact to the circuit court.
+		</section>
+		<section prefix="B">The commissioner of accounts shall keep a book or other proper record called the "record of fiduciaries," in which the following shall be entered in separate columns:
+			<section prefix="1">The name of every fiduciary;
+			</section>
+			<section prefix="2">The name of the decedent whose estate the fiduciary represents or the name of the living person for whom he is acting in fiduciary capacity;
+			</section>
+			<section prefix="3">The penalty of his bond;
+			</section>
+			<section prefix="4">The names of his sureties;
+			</section>
+			<section prefix="5">The date of the order conferring his authority;
+			</section>
+			<section prefix="6">The date of any order revoking his authority;
+			</section>
+			<section prefix="7">The date of the return of every inventory of the estate; and
+			</section>
+			<section prefix="8">The date of each settlement of the accounts of the fiduciary.
+				The commissioner of accounts shall index the record of fiduciaries in the name of the decedent or person represented by the fiduciary.
+			</section>
+		</section>
+		<section prefix="C">The clerk shall certify to the commissioner of accounts the revocation of the authority of any fiduciary within 10 days of the revocation.
+		</section>
+		<section prefix="D">Any commissioner failing to make entries pursuant to subsection B or any clerk failing to certify the revocation of a fiduciary's authority pursuant to subsection C shall forfeit $20 for every such failure.
+		</section>
+	</text>
+	<history>Code 1919, § 5401; 1946, p. 324; Code 1950, § 26-9; 1956, c. 59; 1973, c. 544; 2012, c. 614.</history>
+</law>

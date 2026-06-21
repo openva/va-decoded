@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="37.2" level="1">Behavioral Health and Developmental Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="4" level="3">Protection of Consumers</unit>
+		<unit label="article" identifier="2" level="4">Licensing Providers of Behavioral Health and Developmental Services</unit>
+	</structure>
+	<section_number>37.2-405</section_number>
+	<catch_line>License required; exception; license not transferable; operation of existing services; persons not to be admitted, etc., to unlicensed providers</catch_line>
+	<text>
+		<section prefix="A">No provider shall establish, conduct, maintain, or operate or continue to operate in the Commonwealth any service, without being licensed under this article, except where the provider is exempt from licensing.
+		</section>
+		<section prefix="B">No license issued under this article shall be assignable or transferable.
+		</section>
+		<section prefix="C">No person shall be admitted, placed, treated, maintained, housed, or otherwise kept, voluntarily or involuntarily, by any provider required to be licensed by subsection A, unless and until the provider is licensed by the Commissioner.
+		</section>
+	</text>
+	<history>1971, Ex. Sess., c. 181, § 37.1-183.1; 1976, c. 671; 1977, c. 346; 1980, c. 582; 2001, cc. 486, 506; 2005, c. 716.</history>
+</law>

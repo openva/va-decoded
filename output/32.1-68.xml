@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="8" level="3">Voluntary Program for Control of Genetic and Metabolic Diseases</unit>
+	</structure>
+	<section_number>32.1-68</section_number>
+	<catch_line>Commissioner to establish screening and treatment program; review by Board; program to include education and post-screening counseling; laboratory tests</catch_line>
+	<text>
+		<section prefix="A">The Commissioner, in cooperation with local health directors, shall establish a voluntary program for the screening of adults and children for the disease of sickle cell anemia or the sickle cell trait and for such other genetically related diseases and genetic traits and inborn errors of metabolism as the Board may deem necessary.
+		</section>
+		<section prefix="B">The Board shall review the program from time to time to determine the appropriate age and the method of screening for such conditions or traits in the light of technological changes.
+		</section>
+		<section prefix="C">The screening program shall include provisions for education concerning the nature and treatment of sickle cell anemia, other genetically related diseases and inborn errors of metabolism and a post-screening counseling program for the treatment of any person determined to have such a condition.
+		</section>
+		<section prefix="D">The program may include the provision of laboratory testing.
+		</section>
+		<section prefix="E">The Board shall adopt regulations to implement an adult and pediatric comprehensive sickle cell clinic network.
+		</section>
+	</text>
+	<history>Code 1950, §§ 32-112.21, 32-112.22; 1973, c. 212; 1979, c. 711; 2020, c. 503.</history>
+</law>

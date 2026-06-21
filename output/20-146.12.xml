@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="2" level="3">Jurisdiction</unit>
+	</structure>
+	<section_number>20-146.12</section_number>
+	<catch_line>Initial child custody jurisdiction</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in § 20-146.15, a court of this Commonwealth has jurisdiction to make an initial child custody determination only if:
+			<section prefix="1">This Commonwealth is the home state of the child on the date of the commencement of the proceeding, or was the home state of the child within six months before the commencement of the proceeding and the child is absent from this Commonwealth but a parent or person acting as a parent continues to live in this Commonwealth;
+			</section>
+			<section prefix="2">A court of another state does not have jurisdiction under subdivision 1, or a court of the home state of the child has declined to exercise jurisdiction on the ground that this Commonwealth is the more appropriate forum under § 20-146.18 or § 20-146.19, and (i) the child and the child's parents, or the child and at least one parent or a person acting as a parent, have a significant connection with this Commonwealth other than mere physical presence and (ii) substantial evidence is available in this Commonwealth concerning the child's care, protection, training, and personal relationships;
+			</section>
+			<section prefix="3">All courts having jurisdiction under subdivision 1 or 2 have declined to exercise jurisdiction on the ground that a court of this Commonwealth is the more appropriate forum to determine the custody of the child under § 20-146.18 or § 20-146.19; or
+			</section>
+			<section prefix="4">No court of any other state would have jurisdiction under the criteria specified in subdivision 1, 2, or 3.
+			</section>
+		</section>
+		<section prefix="B">Subsection A is the exclusive jurisdictional basis for making a child custody determination by a court of this Commonwealth.
+		</section>
+		<section prefix="C">Physical presence of, or personal jurisdiction over, a party or a child is not necessary or sufficient to make a child custody determination.
+		</section>
+	</text>
+	<history>1979, c. 229, § 20-126; 2001, c. 305.</history>
+</law>

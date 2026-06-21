@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="52" level="1">Police (State)</unit>
+		<unit label="chapter" identifier="6.1" level="2">Virginia Community Policing Act</unit>
+	</structure>
+	<section_number>52-30.3</section_number>
+	<catch_line>Community Policing Reporting Database established</catch_line>
+	<text>
+		<section prefix="A">The Department of State Police shall develop and implement a uniform statewide database to collect all records of investigatory motor vehicle stops, all stop-and-frisks of a person based on reasonable suspicion, and other investigatory detentions that do not result in an arrest or the issuance of a summons, records of complaints alleging the use of excessive force, and data and information submitted by law-enforcement agencies pursuant to §§ 15.2-1609.10, 15.2-1722.1, and 52-30.2. The Department of State Police shall provide the Department of Criminal Justice Services with secure remote access to the database for the purposes of analyzing such data as required by subsection A of § 9.1-192.
+		</section>
+		<section prefix="B">The Department of State Police shall promulgate regulations governing the operation and maintenance of the database.
+		</section>
+	</text>
+	<history>2020, c. 1165; 2020, Sp. Sess. I, c. 37.</history>
+</law>

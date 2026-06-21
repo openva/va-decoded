@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="B" level="3">Powers of Attorney</unit>
+		<unit label="chapter" identifier="16" level="4">Uniform Power of Attorney Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>64.2-1616</section_number>
+	<catch_line>Agent's resignation; notice</catch_line>
+	<text>
+		Unless the power of attorney provides a different method for an agent's resignation, an agent may resign by giving notice to the principal and, if the principal is incapacitated:
+		<section prefix="1">To the conservator or guardian, if one has been appointed for the principal, and a coagent or successor agent;
+		</section>
+		<section prefix="2">If there is no person described in subdivision 1, to an adult who is a spouse, child or other descendant, parent, brother, or sister of the principal;
+		</section>
+		<section prefix="3">If none of the foregoing persons is reasonably available, another person reasonably believed by the agent to have sufficient interest in the principal's welfare; or
+		</section>
+		<section prefix="4">If none of the foregoing persons is reasonably available, the adult protective services unit of the local department of social services for the county or city where the principal resides or is located.
+		</section>
+	</text>
+	<history>2010, cc. 455, 632, § 26-89; 2012, c. 614.</history>
+</law>

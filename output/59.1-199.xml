@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="17" level="2">Virginia Consumer Protection Act</unit>
+	</structure>
+	<section_number>59.1-199</section_number>
+	<catch_line>Exclusions</catch_line>
+	<text>
+		Nothing in this chapter shall apply to:
+		<section prefix="1">Any aspect of a consumer transaction which aspect is authorized under laws or regulations of the Commonwealth or the United States, or the formal advisory opinions of any regulatory body or official of the Commonwealth or the United States.
+		</section>
+		<section prefix="2">Acts done by the publisher, owner, agent, or employee of a newspaper, periodical, or radio or television station, or other advertising media such as outdoor advertising and advertising agencies, in the publication or dissemination of an advertisement in violation of § 59.1-200, unless it be proved that such person knew that the advertisement was of a character prohibited by § 59.1-200.
+		</section>
+		<section prefix="3">Those aspects of a consumer transaction that are regulated by the Federal Consumer Credit Protection Act, 15 U.S.C. § 1601 et seq.
+		</section>
+		<section prefix="4">Banks, savings institutions, credit unions, small loan companies, public service corporations, mortgage lenders as defined in § 6.2-1600, broker-dealers as defined in § 13.1-501, gas suppliers as defined in subsection E of § 56-235.8, and insurance companies regulated and supervised by the State Corporation Commission or a comparable federal regulating body.
+		</section>
+		<section prefix="5">Any aspect of a consumer transaction that is subject to the Virginia Residential Landlord and Tenant Act (§ 55.1-1200 et seq.) or Chapter 14 (§ 55.1-1400 et seq.) of Title 55.1, unless the act or practice of a landlord constitutes a misrepresentation or fraudulent act or practice under § 59.1-200.
+		</section>
+		<section prefix="6">Real estate licensees who are licensed under Chapter 21 (§ 54.1-2100 et seq.) of Title 54.1, unless the act or practice of the licensee constitutes a violation of law under the Unfair Real Estate Service Agreement Act (§ 55.1-3200 et seq.).
+		</section>
+		<section prefix="7">Residential home sales between natural persons involving the seller's private residence.
+		</section>
+	</text>
+	<history>1977, c. 635; 1987, c. 464; 1994, c. 400; 1995, c. 703; 1996, cc. 61, 77, 179; 1999, c. 494; 2000, cc. 691, 706; 2023, c. 452; 2024, cc. 328, 362.</history>
+</law>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="8" level="3">Enforcement and Modification of Support Order After Registration</unit>
+	</structure>
+	<section_number>20-88.72</section_number>
+	<catch_line>Contest of registration or enforcement</catch_line>
+	<text>
+		<section prefix="A">A party contesting the validity or enforcement of a registered support order or seeking to vacate the registration has the burden of proving one or more of the following defenses:
+			<section prefix="1">The issuing tribunal lacked personal jurisdiction over the contesting party;
+			</section>
+			<section prefix="2">The order was obtained by fraud;
+			</section>
+			<section prefix="3">The order has been vacated, suspended, or modified by a later order;
+			</section>
+			<section prefix="4">The issuing tribunal has stayed the order pending appeal;
+			</section>
+			<section prefix="5">There is a defense under the law of the Commonwealth to the remedy sought;
+			</section>
+			<section prefix="6">Full or partial payment has been made;
+			</section>
+			<section prefix="7">The statute of limitations under § 20-88.69 precludes enforcement of some or all of the alleged arrearages; or
+			</section>
+			<section prefix="8">The alleged controlling order is not the controlling order.
+			</section>
+		</section>
+		<section prefix="B">If a party presents evidence establishing a full or partial defense under subsection A, a tribunal may stay enforcement of a registered support order, continue the proceeding to permit production of additional relevant evidence, and issue other appropriate orders. An uncontested portion of the registered support order may be enforced by all remedies available under the law of the Commonwealth.
+		</section>
+		<section prefix="C">If the contesting party does not establish a defense under subsection A to the validity or enforcement of a registered support order, the registering tribunal shall issue an order confirming the order.
+		</section>
+	</text>
+	<history>1994, c. 673; 2005, c. 754; 2015, c. 727.</history>
+</law>

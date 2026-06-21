@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="14" level="3">Ridesharing</unit>
+	</structure>
+	<section_number>46.2-1407</section_number>
+	<catch_line>Certain ridesharing vehicles are not commercial vehicles or buses</catch_line>
+	<text>
+		A motor vehicle used in a ridesharing arrangement that has a seating capacity for not more than fifteen persons, including the driver, shall not be a "bus" under those portions of this title relating to equipment requirements or rules of the road.
+		A motor vehicle used in a ridesharing arrangement that has a seating capacity for not more than fifteen persons, including the driver, shall not be a "bus" or "commercial vehicle" under the portions of this title relating to registration.
+	</text>
+	<history>1981, c. 218, § 46.1-563; 1989, cc. 705, 727; 2002, c. 337.</history>
+</law>

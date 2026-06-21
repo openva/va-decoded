@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="4" level="2">Registration</unit>
+	</structure>
+	<section_number>8.8A-404</section_number>
+	<catch_line>Wrongful registration</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in § 8.8A-406, an issuer is liable for wrongful registration of transfer if the issuer has registered a transfer of a security to a person not entitled to it, and the transfer was registered:
+			<section prefix="1">pursuant to an ineffective endorsement or instruction;
+			</section>
+			<section prefix="2">after a demand that the issuer not register transfer became effective under § 8.8A-403 (a) and the issuer did not comply with § 8.8A-403 (b);
+			</section>
+			<section prefix="3">after the issuer had been served with an injunction, restraining order, or other legal process enjoining it from registering the transfer, issued by a court of competent jurisdiction, and the issuer had a reasonable opportunity to act on the injunction, restraining order, or other legal process; or
+			</section>
+			<section prefix="4">by an issuer acting in collusion with the wrongdoer.
+			</section>
+		</section>
+		<section prefix="b">An issuer that is liable for wrongful registration of transfer under subsection (a) on demand shall provide the person entitled to the security with a like certificated or uncertificated security, and any payments or distributions that the person did not receive as a result of the wrongful registration. If an overissue would result, the issuer's liability to provide the person with a like security is governed by § 8.8A-210.
+		</section>
+		<section prefix="c">Except as otherwise provided in subsection (a) or in a law relating to the collection of taxes, an issuer is not liable to an owner or other person suffering loss as a result of the registration of a transfer of a security if registration was made pursuant to an effective endorsement or instruction.
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

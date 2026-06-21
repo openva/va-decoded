@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="III" level="2">Professions and Occupations Regulated by Boards Within the Department of Health Professions</unit>
+		<unit label="chapter" identifier="30" level="3">Nursing</unit>
+		<unit label="article" identifier="6.1" level="4">Nurse Licensure Compact</unit>
+	</structure>
+	<section_number>54.1-3040.4</section_number>
+	<catch_line>Applications for licensure in a party state</catch_line>
+	<text>
+		<section prefix="A">Upon application for a multistate license, the licensing board in the issuing party state shall ascertain, through the coordinated licensure information system, whether the applicant has ever held, or is the holder of, a license issued by any other state, whether there are any encumbrances on any license or multistate licensure privilege held by the applicant, whether any adverse action has been taken against any license or multistate licensure privilege held by the applicant, and whether the applicant is currently participating in an alternative program.
+		</section>
+		<section prefix="B">A nurse may hold a multistate license issued by the home state in only one party state at a time.
+		</section>
+		<section prefix="C">If a nurse changes primary state of residence by moving between two party states, the nurse must apply for licensure in the new home state, and the multistate license issued by the prior home state will be deactivated in accordance with applicable rules adopted by the Commission.
+			<section prefix="1">The nurse may apply for licensure in advance of a change in primary state of residence.
+			</section>
+			<section prefix="2">A multistate license shall not be issued by the new home state until the nurse provides satisfactory evidence of a change in primary state of residence to the new home state and satisfies all applicable requirements to obtain a multistate license from the new home state.
+			</section>
+		</section>
+		<section prefix="D">If a nurse changes primary state of residence by moving from a party state to a non-party state, the multistate license issued by the prior home state will convert to a single-state license, valid only in the former home state.
+		</section>
+	</text>
+	<history>2016, c. 108.</history>
+</law>

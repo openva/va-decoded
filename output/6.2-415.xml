@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="4" level="3">Certain Lending Practices</unit>
+		<unit label="article" identifier="2" level="4">Loans Secured by Lien on Real Estate</unit>
+	</structure>
+	<section_number>6.2-415</section_number>
+	<catch_line>Lender not to cancel insurance policy at time of refinancing under certain circumstances</catch_line>
+	<text>
+		<section prefix="A">No lender shall require a borrower or debtor, for the protection of property securing the credit or lien, to cancel an existing insurance policy on such property at the time of a refinancing solely to change the effective dates of coverage under the policy, unless the expiration date of such policy is within four months of the date of the closing.
+		</section>
+		<section prefix="B">The provision of subsection A shall not prevent a lender from requesting a new policy when the coverage under the existing policy is inadequate or there is reasonable concern over the soundness or services of the insurer.
+		</section>
+	</text>
+	<history>1995, c. 175, § 6.1-2.9:6; 2010, c. 794.</history>
+</law>

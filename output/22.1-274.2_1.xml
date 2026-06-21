@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="14" level="2">Pupils</unit>
+		<unit label="article" identifier="2" level="3">Health Provisions</unit>
+	</structure>
+	<section_number>22.1-274.2:1</section_number>
+	<catch_line>Grade nine and grade 10 health education Standards of Learning; severe allergic reaction awareness training</catch_line>
+	<text>
+		The Board shall include in the Standards of Learning for health education for grade nine and grade 10 an in-person or online severe allergic reaction awareness training that includes the following content:
+		<section prefix="1">The definition of and distinction between normal allergic reaction and anaphylaxis;
+		</section>
+		<section prefix="2">Types of allergens, including common and less common allergens;
+		</section>
+		<section prefix="3">The signs and symptoms of normal allergic reaction and anaphylaxis;
+		</section>
+		<section prefix="4">Treatments for anaphylaxis; and
+		</section>
+		<section prefix="5">The proper response to suspected anaphylaxis, including notifying the nearest staff member trained to respond to anaphylaxis and administer epinephrine.
+		</section>
+	</text>
+	<history>2024, c. 171.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4308.2</section_number>
+	<catch_line>Registration and use of federal employment eligibility verification program required; debarment</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section, "E-Verify program" means the electronic verification of work authorization program of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (P.L. 104-208), Division C, Title IV, § 403(a), as amended, operated by the U.S. Department of Homeland Security, or a successor work authorization program designated by the U.S. Department of Homeland Security or other federal agency authorized to verify the work authorization status of newly hired employees under the Immigration Reform and Control Act of 1986 (P.L. 99-603).
+		</section>
+		<section prefix="B">Any employer with more than an average of 50 employees for the previous 12 months entering into a contract in excess of $50,000 with any agency of the Commonwealth to perform work or provide services pursuant to such contract shall register and participate in the E-Verify program to verify information and work authorization of its newly hired employees performing work pursuant to such public contract.
+		</section>
+		<section prefix="C">Any such employer who fails to comply with the provisions of subsection B shall be debarred from contracting with any agency of the Commonwealth for a period up to one year. Such debarment shall cease upon the employer's registration and participation in the E-Verify program.
+		</section>
+	</text>
+	<history>2011, cc. 573, 583.</history>
+</law>

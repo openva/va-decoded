@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="25" level="2">Extraordinary Writs</unit>
+		<unit label="article" identifier="1" level="3">Writ of Quo Warranto</unit>
+	</structure>
+	<section_number>8.01-640</section_number>
+	<catch_line>Judgment when defendant fails to appear</catch_line>
+	<text>
+		If the defendant fails to appear in accordance with the writ, the court may hear proof of the allegations of the petition, and if the allegations are sustained, shall give judgment accordingly.
+	</text>
+	<history>Code 1950, § 8-862; 1977, c. 617.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.1" level="4">Uniform Trust Decanting Act</unit>
+	</structure>
+	<section_number>64.2-779.15</section_number>
+	<catch_line>Removal or replacement of authorized fiduciary</catch_line>
+	<text>
+		An authorized fiduciary may not exercise the decanting power to modify a provision in a first-trust instrument granting another person power to remove or replace the fiduciary unless:
+		<section prefix="1">The person holding the power consents to the modification in a signed record and the modification applies only to the person;
+		</section>
+		<section prefix="2">The person holding the power and the qualified beneficiaries of the second trust consent to the modification in a signed record and the modification grants a substantially similar power to another person; or
+		</section>
+		<section prefix="3">The court approves the modification and the modification grants a substantially similar power to another person.
+		</section>
+	</text>
+	<history>2017, c. 592.</history>
+</law>

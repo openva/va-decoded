@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="22.1" level="3">Sales-Based Financing Providers</unit>
+	</structure>
+	<section_number>6.2-2231</section_number>
+	<catch_line>Disclosure requirements</catch_line>
+	<text>
+		Each provider shall provide the following disclosures to a recipient at the time of extending a specific offer of sales-based financing, according to formatting prescribed by the Commission:
+		<section prefix="1">The total amount of the sales-based financing, and the disbursement amount, if different from the financing amount, after any fees deducted or withheld at disbursement.
+		</section>
+		<section prefix="2">The finance charge.
+		</section>
+		<section prefix="3">The total repayment amount, which is the disbursement amount plus the finance charge.
+		</section>
+		<section prefix="4">The estimated number of payments, which is the number of payments expected, based on the projected sales volume, to equal the total repayment amount.
+		</section>
+		<section prefix="5">The payment amounts, based on the projected sales volume (i) for payment amounts that are fixed, the payment amounts, frequency, and method or (ii) for payment amounts that are variable, a payment schedule or a description of the method used to calculate the amounts and frequency of payments and payment method.
+		</section>
+		<section prefix="6">A description of all other potential fees and charges not included in the finance charge, including draw fees, late payment fees, returned payment fees, and prepayment fees or penalties.
+		</section>
+		<section prefix="7">If the recipient elects to pay off or refinance the sales-based financing prior to full repayment, an updated disclosure of:
+			a. The information required by subdivisions 1 through 6 as of the day of prepayment or refinance; and
+			b. A description of prepayment policies including whether the recipient will be required to pay any additional fees, penalties, or other amounts not already included in the finance charge, or if the recipient will receive any discount to the finance charge.
+		</section>
+		<section prefix="8">A description of collateral requirements or security interests, if any.
+		</section>
+		<section prefix="9">A statement of whether the provider will pay compensation directly to a broker in connection with the specific offer of sales-based financing and the amount of compensation.
+		</section>
+	</text>
+	<history>2022, c. 516.</history>
+</law>

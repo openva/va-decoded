@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="3" level="3">National Guard in General</unit>
+	</structure>
+	<section_number>44-31</section_number>
+	<catch_line>Relative rank of officers</catch_line>
+	<text>
+		Relative rank among officers of the same grade shall be determined according to current and subsequently amended Department of Defense and National Guard regulations.
+	</text>
+	<history>1930, p. 954; Michie Code 1942, § 2673(21); 1964, c. 227.</history>
+</law>

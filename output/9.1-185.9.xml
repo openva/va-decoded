@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="11" level="3">Bail Bondsmen</unit>
+	</structure>
+	<section_number>9.1-185.9</section_number>
+	<catch_line>Solicitation of business; standards; restrictions and requirements</catch_line>
+	<text>
+		<section prefix="A">Only licensed bail bondsmen shall be authorized to solicit bail bond business in the Commonwealth.
+		</section>
+		<section prefix="B">A licensed bail bondsman shall not:
+			<section prefix="1">Solicit bail bond business by directly initiating contact with any person in any court, jail, lock-up, or surrounding government property.
+			</section>
+			<section prefix="2">Loiter by any jail or magistrate's office unless there on legitimate business.
+			</section>
+			<section prefix="3">Refer a client or a principal for whom he has posted bond to an attorney for financial profit or other consideration.
+			</section>
+		</section>
+		<section prefix="C">The Board shall adopt regulations as to what constitutes impermissible solicitations by bondsmen, their employees and agents.
+		</section>
+	</text>
+	<history>2004, c. 460.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2A" level="1">Commercial Code — Leases</unit>
+		<unit label="part" identifier="5" level="2">Default</unit>
+		<unit label="article" identifier="B" level="3">Default by Lessor</unit>
+	</structure>
+	<section_number>8.2A-519</section_number>
+	<catch_line>Lessee's damages for nondelivery, repudiation, default, and breach of warranty in regard to accepted goods</catch_line>
+	<text>
+		<section prefix="1">Except as otherwise provided with respect to damages liquidated in the lease agreement (§ 8.2A-504) or otherwise determined pursuant to agreement of the parties (§§ 8.1A-302 and 8.2A-503), if a lessee elects not to cover or a lessee elects to cover and the cover is by lease agreement that for any reason does not qualify for treatment under subsection (2) of § 8.2A-518, or is by purchase or otherwise, the measure of damages for nondelivery or repudiation by the lessor or for rejection or revocation of acceptance by the lessee is the present value as of the date of the default, of the then market rent minus the present value as of the same date of the original rent, computed for the remaining lease term of the original lease agreement, together with incidental and consequential damages, less expenses saved in consequence of the lessor's default.
+		</section>
+		<section prefix="2">Market rent is to be determined as of the place for tender or, in cases of rejection after arrival or revocation of acceptance, as of the place of arrival.
+		</section>
+		<section prefix="3">Except as otherwise agreed, the lessee has accepted goods and given notification (subsection (3) of § 8.2A-516), the measure of damages for nonconforming tender or delivery or other default by a lessor is the loss resulting in the ordinary course of events from the lessor's default as determined in any manner that is reasonable together with incidental and consequential damages, less expenses saved in consequence of the lessor's default.
+		</section>
+		<section prefix="4">Except as otherwise agreed, the measure of damages for breach of warranty is the present value at the time and place of acceptance of the difference between the value of the use of the goods accepted and the value if they had been as warranted for the lease term, unless special circumstances show proximate damages of a different amount, together with incidental and consequential damages, less expenses saved in consequence of the lessor's default or breach of warranty.
+		</section>
+	</text>
+	<history>1991, c. 536; 2003, c. 353.</history>
+</law>

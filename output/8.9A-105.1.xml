@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="1" level="2">General Provisions</unit>
+		<unit label="subpart" identifier="1" level="3">Short Title, Definitions and General Concepts</unit>
+	</structure>
+	<section_number>8.9A-105.1</section_number>
+	<catch_line>Control of electronic money</catch_line>
+	<text>
+		<section prefix="a">General rule: control of electronic money. A person has control of electronic money if:
+			<section prefix="1">the electronic money, a record attached to or logically associated with the electronic money, or a system in which the electronic money is recorded gives the person:
+			</section>
+		</section>
+		<section prefix="A">power to avail itself of substantially all the benefit from the electronic money; and
+		</section>
+		<section prefix="B">exclusive power, subject to subsection (b), to:
+		</section>
+		<section prefix="i">prevent others from availing themselves of substantially all the benefit from the electronic money; and
+			<section prefix="ii">transfer control of the electronic money to another person or cause another person to obtain control of other electronic money as a result of the transfer of the electronic money; and
+			</section>
+			<section prefix="2">the electronic money, a record attached to or logically associated with the electronic money, or a system in which the electronic money is recorded enables the person readily to identify itself in any way, including by name, identifying number, cryptographic key, office, or account number, as having the powers under paragraph (1).
+			</section>
+		</section>
+		<section prefix="b">Meaning of exclusive. Subject to subsection (c), a power is exclusive under subsection (a)(1)(B)(i) and (ii) even if:
+			<section prefix="1">the electronic money, a record attached to or logically associated with the electronic money, or a system in which the electronic money is recorded limits the use of the electronic money or has a protocol programmed to cause a change, including a transfer or loss of control; or
+			</section>
+			<section prefix="2">the power is shared with another person.
+			</section>
+		</section>
+		<section prefix="c">When power not shared with another person. A power of a person is not shared with another person under subsection (b)(2) and the person's power is not exclusive if:
+			<section prefix="1">the person can exercise the power only if the power also is exercised by the other person; and
+			</section>
+			<section prefix="2">the other person:
+			</section>
+		</section>
+		<section prefix="A">can exercise the power without exercise of the power by the person; or
+		</section>
+		<section prefix="B">is the transferor to the person of an interest in the electronic money.
+		</section>
+		<section prefix="d">Presumption of exclusivity of certain powers. If a person has the powers specified in subsection (a)(1)(B)(i) and (ii), the powers are presumed to be exclusive.
+		</section>
+		<section prefix="e">Control through another person. A person has control of electronic money if another person, other than the transferor to the person of an interest in the electronic money:
+			<section prefix="1">has control of the electronic money and acknowledges that it has control on behalf of the person; or
+			</section>
+			<section prefix="2">obtains control of the electronic money after having acknowledged that it will obtain control of the electronic money on behalf of the person.
+			</section>
+		</section>
+	</text>
+	<history>2024, c. 652.</history>
+</law>

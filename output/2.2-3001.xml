@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="E" level="3">State Officers and Employees</unit>
+		<unit label="chapter" identifier="30" level="4">State Grievance Procedure</unit>
+	</structure>
+	<section_number>2.2-3001</section_number>
+	<catch_line>State employees</catch_line>
+	<text>
+		<section prefix="A">Unless exempted by law, all nonprobationary state employees shall be covered by the grievance procedure established pursuant to this chapter and any regulations adopted pursuant thereto. Employees not covered by the grievance procedure may be covered by an alternative grievance procedure.
+		</section>
+		<section prefix="B">The Office of the Attorney General and every legislative, judicial, and independent agency that is not subject to the state grievance procedure shall establish and administer a grievance procedure.
+		</section>
+	</text>
+	<history>1995, cc. 770, 818, § 2.1-116.09; 1996, cc. 164, 869; 1997, c. 711; 1998, c. 245; 2000, cc. 947, 1006; 2001, c. 844.</history>
+</law>

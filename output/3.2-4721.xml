@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="47" level="3">Sale of Farm Produce</unit>
+		<unit label="article" identifier="2" level="4">Commission Merchants</unit>
+	</structure>
+	<section_number>3.2-4721</section_number>
+	<catch_line>Investigation of transactions by Commissioner</catch_line>
+	<text>
+		The Commissioner, upon the verified complaint of any interested party shall, or upon his own motion may, investigate:
+		<section prefix="1">Any transaction involving solicitation, receipt, sale, or attempted sale of farm products by any person acting or attempting to act as a commission merchant;
+		</section>
+		<section prefix="2">The failure of any commission merchant to make proper and true account of sales and settlement as required in this article;
+		</section>
+		<section prefix="3">Any transaction in which produce consigned to a commission merchant is disposed of to a person composed substantially of the same persons as stockholders, members, or others, who compose the commission merchant;
+		</section>
+		<section prefix="4">The intentional making of false statements by a commission merchant as to condition, grade, or quality of any farm products received or in storage;
+		</section>
+		<section prefix="5">The intentional making of false statements by a commission merchant as to market condition;
+		</section>
+		<section prefix="6">The failure of any commission merchant to make payment for farm products within the time required by this article; or
+		</section>
+		<section prefix="7">Any other injurious transaction arising out of the sale of farm produce on commission.
+		</section>
+	</text>
+	<history>Code 1950, § 3-544; 1966, c. 702, § 3.1-702; 2008, c. 860.</history>
+</law>

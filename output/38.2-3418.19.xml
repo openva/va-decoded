@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="2" level="3">Mandated Benefits</unit>
+	</structure>
+	<section_number>38.2-3418.19</section_number>
+	<catch_line>Coverage for organ, eye or tissue transplant</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding the provisions of § 38.2-4319, each insurer proposing to issue individual or group accident and sickness insurance policies providing hospital, medical and surgical, or major medical coverage on an expense-incurred basis; each corporation providing individual or group accident and sickness subscription contracts; and each health maintenance organization providing a health care plan for health care services, whose policy, contract, or plan, including any certificate of evidence of coverage issued in connection with such policy, contract, or plan, includes coverage for services related to organ, eye, or tissue transplantation as defined in § 32.1-297.2 shall not:
+			<section prefix="1">Deny coverage to a covered person solely on the basis of the person's disability;
+			</section>
+			<section prefix="2">Deny a person eligibility or continued eligibility to enroll in or to renew coverage under the policy, contract, or plan for the purpose of avoiding the requirements of § 32.1-297.2;
+			</section>
+			<section prefix="3">Penalize a health care provider, reduce or limit the reimbursement of a health care provider, or provide monetary or nonmonetary incentives to a health care provider to induce such health care provider to act in a manner inconsistent with the requirements of § 32.1-297.2; or
+			</section>
+			<section prefix="4">Reduce or limit coverage for services related to organ, eye, or tissue transplant as defined in § 32.1-297.2 for an eligible individual with a disability as defined in § 32.1-297.2.
+			</section>
+		</section>
+		<section prefix="B">The provisions of this section shall apply to any policy, contract, or plan delivered, issued for delivery, or renewed in the Commonwealth on and after January 1, 2021.
+		</section>
+		<section prefix="C">The provisions of this section shall not apply to short-term travel, accident-only, or limited or specified disease policies; contracts designed for issuance to persons eligible for coverage under Title XVIII of the Social Security Act, known as Medicare, or any other similar coverage under state or federal government plans; or short-term nonrenewable policies of not more than six months' duration.
+		</section>
+		<section prefix="D">Nothing in this section shall require an insurer to provide coverage for a medically inappropriate organ, eye or tissue transplant.
+		</section>
+	</text>
+	<history>2020, cc. 217, 218, § 38.2-3418.18.</history>
+</law>

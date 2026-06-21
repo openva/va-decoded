@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="2" level="4">Judicial Proceedings</unit>
+	</structure>
+	<section_number>64.2-710</section_number>
+	<catch_line>Role of court in administration of trust</catch_line>
+	<text>
+		<section prefix="A">The court may intervene in the administration of a trust to the extent its jurisdiction is invoked by an interested person or as provided by law.
+		</section>
+		<section prefix="B">Except as provided in Part A (§ 64.2-1200 et seq.) of Subtitle IV, a trust is not subject to continuing judicial supervision unless ordered by the court.
+		</section>
+		<section prefix="C">A judicial proceeding involving a trust may relate to any matter involving the trust's administration, including a request for instructions and an action to declare rights.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-542.01; 2012, c. 614.</history>
+</law>

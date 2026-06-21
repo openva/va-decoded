@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.7" level="1">Commercial Code — Warehouse Receipts, Bills of Lading and Other Documents of Title</unit>
+		<unit label="part" identifier="5" level="2">Warehouse Receipts and Bills of Lading: Negotiation and Transfer</unit>
+	</structure>
+	<section_number>8.7-502</section_number>
+	<catch_line>Rights acquired by due negotiation</catch_line>
+	<text>
+		<section prefix="1">Subject to §§ 8.7-205 and 8.7-503, a holder to whom a negotiable document has been duly negotiated acquires thereby:
+			<section prefix="a">title to the document;
+			</section>
+			<section prefix="b">title to the goods;
+			</section>
+			<section prefix="c">all rights accruing under the law of agency or estoppel, including rights to goods delivered to the bailee after the document was issued; and
+			</section>
+			<section prefix="d">the direct obligation of the issuer to hold or deliver the goods according to the terms of the document free of any defense or claim by him except those arising under the terms of the document or under this title. In the case of a delivery order the bailee's obligation accrues only upon acceptance and the obligation acquired by the holder is that the issuer and any endorser will procure the acceptance of the bailee.
+			</section>
+		</section>
+		<section prefix="2">Subject to § 8.7-503, title and rights so acquired are not defeated by any stoppage of the goods represented by the document or by surrender of such goods by the bailee, and are not impaired even though (a) the negotiation or any prior negotiation constituted a breach of duty, (b) any person has been deprived of possession of a negotiable tangible document or control of a negotiable electronic document by misrepresentation, fraud, accident, mistake, duress, loss, theft or conversion, or (c) a previous sale or other transfer of the goods or document has been made to a third person.
+		</section>
+	</text>
+	<history>Code 1950, §§ 61-44, 61-50 to 61-52; 1964, c. 219; 2004, c. 200.</history>
+</law>

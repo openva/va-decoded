@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="63.2" level="1">Welfare (Social Services)</unit>
+		<unit label="subtitle" identifier="V" level="2">Administrative Child Support</unit>
+		<unit label="chapter" identifier="19" level="3">Child Support Enforcement</unit>
+		<unit label="article" identifier="6" level="4">Enforcement Remedies</unit>
+	</structure>
+	<section_number>63.2-1932</section_number>
+	<catch_line>Data exchange agreements authorized; immunity</catch_line>
+	<text>
+		The Commissioner is authorized and shall, as feasible, enter into agreements with financial institutions doing business in the Commonwealth to develop and operate, in conjunction with such financial institutions, a data match system using automated data exchanges to the maximum extent feasible. Pursuant to a data match system, a financial institution shall provide on a periodic basis, but no more frequently than every three months, the account title, record address, social security number or other taxpayer identification number, for any person in arrears in the payment of child support who is identified by the Department in the request by social security number or other taxpayer identification number.
+		Any such agreement shall provide for the following:
+		<section prefix="1">The financial institution shall be obligated to match only those accounts for which a social security number or taxpayer identification number is provided by the Department, and shall have no obligation to match or identify any account based on a person's name or any other identifying information;
+		</section>
+		<section prefix="2">The financial institution shall provide the account title, record address, social security number or taxpayer identification number for any account matching the social security number and taxpayer identification number provided by the Department. It shall be the Department's responsibility to determine whether such account is an account subject to a lien, or order to withhold and deliver in accordance with the provisions of this chapter;
+		</section>
+		<section prefix="3">The financial institution shall be given a reasonable time in which to respond to each data match request, based upon the capabilities of the financial institution to handle the data match system, but in no event less than thirty days; and
+		</section>
+		<section prefix="4">The financial institution shall have no obligation to hold, encumber, or surrender assets in any account based on a match until it is served with a lien or order to withhold and deliver in accordance with the provisions of this chapter.
+			The Department is authorized to pay a reasonable fee to a financial institution for conducting the data match, not to exceed the actual costs incurred by such financial institution and may assess and recover actual costs incurred from noncustodial parents identified as a result of the data match.
+			A financial institution providing information in accordance with this section shall not be liable to any account holder or other person for any disclosure of information to the Department, for encumbering or surrendering any assets held by such financial institution in response to a lien or order to withhold and deliver issued by the Department, or for any other action taken pursuant to this section, including individual or mechanical errors, provided such action does not constitute gross negligence or willful misconduct.
+			For purposes of this section, "account" means a demand deposit account, checking or negotiable withdrawal order account, savings account, time deposit account, share account, share draft account or money market mutual fund account maintained in this Commonwealth.
+		</section>
+	</text>
+	<history>1997, cc. 796, 895, § 63.1-260.3; 2002, c. 747.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="8" level="3">Dissolution</unit>
+	</structure>
+	<section_number>50-73.52</section_number>
+	<catch_line>Distribution of assets</catch_line>
+	<text>
+		Upon the winding up of a limited partnership, the assets shall be distributed as follows:
+		<section prefix="1">To creditors, including partners who are creditors, to the extent permitted by law, in satisfaction of liabilities of the limited partnership other than liabilities for distributions to partners under § 50-73.36 or § 50-73.39;
+		</section>
+		<section prefix="2">Except as provided in the partnership agreement, to partners and former partners in satisfaction of liabilities for distributions under § 50-73.36 or § 50-73.39; and
+		</section>
+		<section prefix="3">Except as provided in the partnership agreement, to partners first for the return of their contributions and secondly respecting their partnership interests, in the proportions in which the partners share in distributions.
+		</section>
+	</text>
+	<history>1985, c. 607.</history>
+</law>

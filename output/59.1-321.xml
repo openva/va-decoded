@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="25" level="2">Virginia Membership Camping Act</unit>
+		<unit label="article" identifier="2" level="3">Registration</unit>
+	</structure>
+	<section_number>59.1-321</section_number>
+	<catch_line>Exemption from registration under other acts</catch_line>
+	<text>
+		Any membership camping operator registered with the Commissioner under this chapter shall not be required to register or comply with the terms and requirements of the following:
+		<section prefix="1">The Virginia Condominium Act (§ 55.1-1900 et seq.).
+		</section>
+		<section prefix="2">The Virginia Real Estate Time-Share Act (§ 55.1-2200 et seq.).
+		</section>
+		<section prefix="3">The Virginia Securities Act (§ 13.1-501 et seq.).
+		</section>
+	</text>
+	<history>1985, c. 409; 1996, c. 372.</history>
+</law>

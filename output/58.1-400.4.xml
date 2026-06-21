@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-400.4</section_number>
+	<catch_line>Minimum tax on home service contract providers</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Collected provider fees" means provider fees collected on home service contracts issued to a resident of the Commonwealth.
+			"Home service contract" means the same as that term is defined in § 59.1-434.1.
+			"Provider" means the same as that term is defined in § 59.1-434.1.
+			"Provider fee" means the consideration paid for a home service contract issued to a resident of the Commonwealth.
+		</section>
+		<section prefix="B">For taxable years beginning on and after January 1, 2018, a provider shall be subject to a minimum tax instead of the corporate income tax imposed by § 58.1-400, if applicable, net any income tax credits that may be used to offset such tax, if the tax imposed by § 58.1-400 is less than the minimum tax imposed by this subsection. The minimum tax imposed by this subsection shall be equal to 2.25 percent of such provider's collected provider fees.
+		</section>
+		<section prefix="C">In the case of an income tax return for a period of less than 12 months, the minimum tax shall be based on the collected provider fees for the calendar year that ends during the taxable period or, if none, the most recent calendar year that ended before the taxable period. The minimum tax shall be prorated by the number of months in the taxable period.
+		</section>
+		<section prefix="D">For purposes of the corporate income tax imposed by § 58.1-400, a provider's collected provider fees shall be considered sales in the Commonwealth when determining such provider's sales factor pursuant to § 58.1-414.
+		</section>
+		<section prefix="E">When a provider that is subject to the tax imposed by this section is one of several affiliated corporations that file a consolidated or combined income tax return, the portion of the affiliated corporations' tax liability that is attributable to the provider shall be computed as follows:
+			<section prefix="1">Each corporation included in the consolidated or combined return shall recompute its corporate income tax liability, net of any income tax credits, as if it were filing a separate return. The separate income tax liability of the provider shall then be compared to the affiliated corporation's tax liability, net of any income tax credits, indicated on the consolidated or combined return. For purposes of this section, the lesser amount shall be deemed to be the corporate income tax imposed by § 58.1-400 and attributable to the provider.
+			</section>
+			<section prefix="2">If such corporate income tax amount is less than the minimum tax of the provider as calculated pursuant to subsection B, the provider shall be subject to the minimum tax in lieu of the corporate income tax imposed by § 58.1-400.
+			</section>
+			<section prefix="3">If such corporate income tax amount exceeds the minimum tax of the provider as calculated pursuant to subsection B, the provider shall not owe the minimum tax.
+			</section>
+		</section>
+		<section prefix="F">The requirements imposed under Article 20 (§ 58.1-500 et seq.) of Chapter 3 regarding the filing of a declaration of estimated income taxes and the payment of such estimated taxes shall be applicable to a provider regardless of whether such taxpayer expects to be subject to the minimum tax imposed herein or to the corporate income tax imposed by § 58.1-400.
+			For purposes of determining the applicability of the exceptions under which the addition to the tax for the underpayment of any installment of estimated taxes shall not be imposed, it shall be irrelevant whether the tax shown on the return for the preceding taxable year is the corporate income tax or the minimum tax.
+		</section>
+		<section prefix="G">Every provider that owes the minimum tax imposed by this section shall remit such tax payment to the Department of Taxation.
+		</section>
+		<section prefix="H">The minimum tax imposed by this section on providers is in lieu of all other state and local license fees or license taxes on providers and home service contracts.
+		</section>
+		<section prefix="I">The minimum tax imposed by this section shall:
+			<section prefix="1">Apply to (i) any entity that immediately prior to January 1, 2018, was licensed as a provider under former Article 2 (§ 38.2-2617 et seq.) of Chapter 26 of Title 38.2 and that continues to act as a provider on and after January 1, 2018, and (ii) any entity that registers to sell home service contracts under Chapter 33.1 (§ 59.1-434.1 et seq.) of Title 59.1 on or after January 1, 2018; and
+			</section>
+			<section prefix="2">Not apply to any entity that was exempt from the provisions of former Article 2 (§ 38.2-2617 et seq.) of Chapter 26 of Title 38.2 immediately prior to January 1, 2018.
+			</section>
+		</section>
+		<section prefix="J">Notwithstanding § 58.1-3 or any other provision of law, the Department of Taxation and the Department of Agriculture and Consumer Services may exchange information regarding providers for purposes of enforcing the provisions of Chapter 33.1 (§ 59.1-434.1 et seq.) of Title 59.1.
+		</section>
+	</text>
+	<history>2017, c. 727.</history>
+</law>

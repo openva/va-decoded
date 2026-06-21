@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="14" level="4">Accounting, Returns, Procedures for Corporations</unit>
+	</structure>
+	<section_number>58.1-441</section_number>
+	<catch_line>Reports by corporations</catch_line>
+	<text>
+		<section prefix="A">Every corporation organized under the laws of the Commonwealth, or having income from Virginia sources, other than a Subchapter S corporation subject to the return filing requirements of § 58.1-392, shall make a report to the Department on or before the fifteenth day of the fourth month following the close of its taxable year. Such reports shall be made on forms prescribed by the Department and shall contain such information, including the gross receipts from any business carried on in the Commonwealth and a depreciation schedule of property used in such trade or business, as may be necessary for the proper enforcement of this chapter and be accompanied by a copy of any federal tax return or report filed for such taxable year. The Department shall not require any nonprofit organization created exclusively to assist a law-enforcement official or agency in apprehending and convicting perpetrators of crimes, to report on such returns, or otherwise, the names of individuals or amounts paid to such individuals by the organization for providing information about certain crimes.
+			Receivers, trustees in dissolution, trustees in bankruptcy, and assignees, operating the property or business of corporations must make returns of income for such corporations. If a receiver has full custody of and control over the business or property of a corporation, he shall be deemed to be operating such business or property, whether he is engaged in carrying on the business for which the corporation was organized or only in marshaling, selling, or disposing of its assets for purposes of liquidation.
+		</section>
+		<section prefix="B">Notwithstanding the provisions of subsection A, every organization to whom subdivision 5 of § 58.1-401 applies, and having unrelated business taxable income or other taxable income, shall make a report to the Department on or before the fifteenth day of the sixth month following the close of the organization's taxable year.
+		</section>
+	</text>
+	<history>Code 1950, §§ 58-151.062, 58-151.078; 1971, Ex. Sess., c. 171; 1972, cc. 465, 827; 1978, c. 796; 1984, c. 675; 1988, c. 444; 2003, c. 376; 2004, Sp. Sess. I, c. 3.</history>
+</law>

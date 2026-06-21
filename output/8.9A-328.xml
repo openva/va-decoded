@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="3" level="3">Priority</unit>
+	</structure>
+	<section_number>8.9A-328</section_number>
+	<catch_line>Priority of security interests in investment property</catch_line>
+	<text>
+		The following rules govern priority among conflicting security interests in the same investment property:
+		<section prefix="1">A security interest held by a secured party having control of investment property under § 8.9A-106 has priority over a security interest held by a secured party that does not have control of the investment property.
+		</section>
+		<section prefix="2">Except as otherwise provided in paragraphs (3) and (4), conflicting security interests held by secured parties each of which has control under § 8.9A-106 rank according to priority in time of:
+			<section prefix="A">if the collateral is a security, obtaining control;
+			</section>
+			<section prefix="B">if the collateral is a security entitlement carried in a securities account and:
+			</section>
+			<section prefix="i">if the secured party obtained control under § 8.8A-106 (d) (1), the secured party's becoming the person for which the securities account is maintained;
+				<section prefix="ii">if the secured party obtained control under § 8.8A-106 (d) (2), the securities intermediary's agreement to comply with the secured party's entitlement orders with respect to security entitlements carried or to be carried in the securities account; or
+				</section>
+				<section prefix="iii">if the secured party obtained control through another person under § 8.8A-106 (d) (3), the time on which priority would be based under this paragraph if the other person were the secured party; or
+				</section>
+			</section>
+			<section prefix="C">if the collateral is a commodity contract carried with a commodity intermediary, the satisfaction of the requirement for control specified in § 8.9A-106 (b) (2) with respect to commodity contracts carried or to be carried with the commodity intermediary.
+			</section>
+		</section>
+		<section prefix="3">A security interest held by a securities intermediary in a security entitlement or a securities account maintained with the securities intermediary has priority over a conflicting security interest held by another secured party.
+		</section>
+		<section prefix="4">A security interest held by a commodity intermediary in a commodity contract or a commodity account maintained with the commodity intermediary has priority over a conflicting security interest held by another secured party.
+		</section>
+		<section prefix="5">A security interest in a certificated security in registered form which is perfected by taking delivery under § 8.9A-313 (a) and not by control under § 8.9A-314 has priority over a conflicting security interest perfected by a method other than control.
+		</section>
+		<section prefix="6">Conflicting security interests created by a broker, securities intermediary, or commodity intermediary which are perfected without control under § 8.9A-106 rank equally.
+		</section>
+		<section prefix="7">In all other cases, priority among conflicting security interests in investment property is governed by §§ 8.9A-322 and 8.9A-323.
+		</section>
+	</text>
+	<history>1996, c. 216, § 8.9-115; 2000, c. 1007.</history>
+</law>

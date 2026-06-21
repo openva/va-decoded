@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="16" level="4">Income Tax Withholding</unit>
+	</structure>
+	<section_number>58.1-480</section_number>
+	<catch_line>Withheld amounts credited to individual taxpayer; withholding statement to be filed with return</catch_line>
+	<text>
+		The amount deducted and withheld under this article during any calendar year from the wages of any individual shall be allowed to the recipient of the income as a credit against the tax imposed by this chapter for the taxable year beginning in such calendar year. If more than one taxable year begins in a calendar year, such amount shall be allowed as a credit against the tax for the last taxable year so beginning. As a prerequisite to obtaining such credit the individual taxpayer must file with his income tax return one copy of the withholding statement provided for by § 58.1-478.
+	</text>
+	<history>Code 1950, § 58-151.17; 1962, c. 612; 1984, c. 675.</history>
+</law>

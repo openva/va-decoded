@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="8" level="3">Health Care Shared Savings</unit>
+	</structure>
+	<section_number>38.2-3463</section_number>
+	<catch_line>Health care price transparency tools</catch_line>
+	<text>
+		Beginning with health benefit plans offered or renewed on or after July 1, 2020, each health carrier offering a health benefit plan in the Commonwealth shall comply with the following requirements:
+		<section prefix="1">A health carrier shall establish an interactive mechanism on its website that enables a covered person to request and obtain from the health carrier the estimated out-of-pocket cost to the covered person for comparable health care services from network providers, as well as quality data for those providers, to the extent available. The interactive mechanism shall allow a covered person seeking information about the cost of a comparable health care service to compare estimated out-of-pocket costs applicable to that covered person's health benefit plan. The out-of-pocket estimate shall provide a good faith estimate of the amount the covered person will be responsible to pay out-of-pocket for a proposed comparable health care service or service that is a medically necessary covered benefit from a health carrier's network provider, including any copayment, deductible, coinsurance, or other out-of-pocket amount for any covered benefit, based on the information available to the health carrier at the time the request is made. A health carrier may contract with a third-party vendor to satisfy the requirements of this subdivision.
+		</section>
+		<section prefix="2">Nothing in this section shall prohibit a health carrier from imposing cost-sharing requirements disclosed in the covered person's covered benefit plan for unforeseen health care services that arise out of the comparable health care service or for a procedure or service provided to a covered person that was not included in an original estimate provided under subdivision 1.
+		</section>
+		<section prefix="3">A health carrier shall notify a covered person that an estimate provided under subdivision 1 is an estimate of costs and that the actual amount the covered person will be responsible to pay may vary due to the need for unforeseen services that arise out of the proposed comparable health care service.
+		</section>
+	</text>
+	<history>2019, cc. 666, 684.</history>
+</law>

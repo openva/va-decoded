@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="4" level="4">Accounting, Returns, Procedures for Individuals</unit>
+	</structure>
+	<section_number>58.1-344.4</section_number>
+	<catch_line>Voluntary contributions of refunds into Commonwealth Savers Plan accounts</catch_line>
+	<text>
+		<section prefix="A">If an individual is entitled to an income tax refund for the taxable year, that individual may designate on his Virginia individual income tax return a contribution to one or more Commonwealth Savers Plan accounts established under Chapter 7 (§ 23.1-700 et seq.) of Title 23.1, in the amount of the entire individual income tax refund or a portion thereof.
+		</section>
+		<section prefix="B">1. The Department of Taxation shall send each contribution made pursuant to subsection A to the Commonwealth Savers Plan with the following information:
+			a. The amount of the individual income tax refund or that portion of the refund that the individual has chosen to contribute;
+			b. The taxpayer's name, Social Security number or taxpayer identification number, address, and telephone number; and
+			c. The Commonwealth Savers Plan account number or numbers into which the contributions will be deposited.
+			<section prefix="2">If a contribution to a Commonwealth Savers Plan account is designated in an individual income tax return filed jointly by married individuals, the Department of Taxation shall send the information described in subdivision 1 for both spouses to the Commonwealth Savers Plan.
+			</section>
+		</section>
+		<section prefix="C">1. If the taxpayer owns a single Commonwealth Savers Plan account, the Commonwealth Savers Plan shall deposit the contribution made pursuant to subsection A into that account.
+			<section prefix="2">If the taxpayer owns more than one Commonwealth Savers Plan account, the Commonwealth Savers Plan shall allocate the contribution made pursuant to subsection A between or among the accounts in equal amounts, or as otherwise designated by the taxpayer.
+			</section>
+			<section prefix="3">If the taxpayer does not own an existing Commonwealth Savers Plan account and does not wish to open an account, contributions made pursuant to subsection A shall be returned to the taxpayer by the Commonwealth Savers Plan.
+			</section>
+		</section>
+		<section prefix="D">For the purpose of determining interest on an overpayment or refund under § 58.1-1833, no interest shall accrue after the Department of Taxation sends the contribution to the Commonwealth Savers Plan.
+		</section>
+		<section prefix="E">Any taxpayer designating that a refund be contributed to a Commonwealth Savers Plan account shall, by making such designation, be deemed to authorize the Department of Taxation to provide all necessary information, including the information specified in subdivision B 1, to the Commonwealth Savers Plan.
+		</section>
+	</text>
+	<history>2013, cc. 28, 402; 2020, c. 900; 2024, c. 217.</history>
+</law>

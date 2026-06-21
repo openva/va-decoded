@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="13" level="3">Support Proceeding Under Hague Convention</unit>
+	</structure>
+	<section_number>20-88.87</section_number>
+	<catch_line>Direct request</catch_line>
+	<text>
+		<section prefix="A">A petitioner may file a direct request seeking establishment or modification of a support order or determination of parentage of a child. In the proceeding, the law of the Commonwealth applies.
+		</section>
+		<section prefix="B">A petitioner may file a direct request seeking recognition and enforcement of a support order or support agreement. In the proceeding, §§ 20-88.88 through 20-88.95 apply.
+		</section>
+		<section prefix="C">In a direct request for recognition and enforcement of a Convention support order or foreign support agreement:
+			<section prefix="1">A security, bond, or deposit is not required to guarantee the payment of costs and expenses; and
+			</section>
+			<section prefix="2">An obligee or obligor that in the issuing country has benefited from free legal assistance is entitled to benefit, at least to the same extent, from any free legal assistance provided for by the law of the Commonwealth under the same circumstances.
+			</section>
+		</section>
+		<section prefix="D">A petitioner filing a direct request is not entitled to assistance from the Department of Social Services.
+		</section>
+		<section prefix="E">This chapter does not prevent the application of laws of the Commonwealth that provide simplified, more expeditious rules regarding a direct request for recognition and enforcement of a foreign support order or foreign support agreement.
+		</section>
+	</text>
+	<history>2015, c. 727.</history>
+</law>

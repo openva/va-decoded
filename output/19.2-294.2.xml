@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="17" level="2">Convictions; Effect Thereof</unit>
+		<unit label="article" identifier="3" level="3">Conviction of Aliens</unit>
+	</structure>
+	<section_number>19.2-294.2</section_number>
+	<catch_line>Procedure when aliens convicted of certain felonies; duties of probation and parole officer</catch_line>
+	<text>
+		<section prefix="A">Whenever a person is (i) convicted in a circuit court of any felony and (ii) referred to a probation or parole officer for a report pursuant to § 19.2-299, or for probation supervision, the probation or parole officer shall inquire as to the citizenship of such person. If upon inquiry it is determined that the person may be an alien based upon his failure to produce evidence of United States citizenship, the probation or parole officer shall report this determination to the Central Criminal Records Exchange of the Department of State Police in a format approved by the Exchange.
+		</section>
+		<section prefix="B">The inquiry required by this section need not be made if it is apparent that a report on alien status has previously been made to the Central Criminal Records Exchange pursuant to this section.
+		</section>
+		<section prefix="C">It shall be the responsibility of the Central Criminal Records Exchange of the Department of State Police to review arrest reports submitted by law-enforcement agencies and reports of suspected alien-status inquiries made by probation or parole officers, and to report within sixty days of final disposition to the Law Enforcement Support Center of the United States Immigration and Customs Enforcement the identity of all convicted offenders suspected of being an alien.
+		</section>
+	</text>
+	<history>1985, c. 247; 1994, c. 579; 2008, cc. 180, 415; 2017, c. 84.</history>
+</law>

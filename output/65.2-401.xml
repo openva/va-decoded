@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="4" level="2">Occupational Diseases</unit>
+	</structure>
+	<section_number>65.2-401</section_number>
+	<catch_line>"Ordinary disease of life" coverage</catch_line>
+	<text>
+		An ordinary disease of life to which the general public is exposed outside of the employment may be treated as an occupational disease for purposes of this title if each of the following elements is established by clear and convincing evidence, (not a mere probability):
+		<section prefix="1">That the disease exists and arose out of and in the course of employment as provided in § 65.2-400 with respect to occupational diseases and did not result from causes outside of the employment, and
+		</section>
+		<section prefix="2">That one of the following exists:
+			a. It follows as an incident of occupational disease as defined in this title; or
+			b. It is an infectious or contagious disease contracted in the course of one's employment in a hospital or sanitarium or laboratory or nursing home as defined in § 32.1-123, or while otherwise engaged in the direct delivery of health care, or in the course of employment as emergency rescue personnel and those volunteer emergency rescue personnel referred to in § 65.2-101; or
+			c. It is characteristic of the employment and was caused by conditions peculiar to such employment.
+		</section>
+	</text>
+	<history>1986, c. 378, § 65.1-46.1; 1989, c. 502; 1991, c. 355; 1997, cc. 15, 405.</history>
+</law>

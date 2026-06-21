@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="52" level="1">Police (State)</unit>
+		<unit label="chapter" identifier="9" level="2">Insurance Fraud</unit>
+	</structure>
+	<section_number>52-38</section_number>
+	<catch_line>Access to evidence, documentation, and related materials</catch_line>
+	<text>
+		<section prefix="A">If the Department seeks evidence, documentation, and related materials from an insurer or insurance professional, whether in written or electronic format, that are located within the Commonwealth or that may be electronically accessed by an insurer or insurance professional conducting business in the Commonwealth, and that are deemed by the Department as pertinent to an investigation or examination, the Department may request access to such evidence, documentation, or related materials. The person so requested shall either provide electronic or physical copies of such evidence, documentation, or related materials to the Department or shall make such evidence, documentation, or related materials available for inspection or examination by a designated representative of the Department.
+		</section>
+		<section prefix="B">The provider of evidence, documentation, and related materials under the provisions of subsection A may authenticate any electronic or physical copies of such evidence, documentation, and related materials, excluding the contents of any electronic communications, by providing an affidavit from the custodian of those electronic or physical copies or from a person to whom the custodian reports certifying that the copies are true and complete and that they are prepared in the regular course of business. Any copies authenticated in accordance with this subsection are admissible in evidence as a business record.
+		</section>
+	</text>
+	<history>1998, c. 590; 2012, c. 542.</history>
+</law>

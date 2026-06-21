@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="8" level="2">Crimes Involving Morals and Decency</unit>
+		<unit label="article" identifier="6" level="3">Prohibited Sales and Loans to Juveniles</unit>
+	</structure>
+	<section_number>18.2-391.1</section_number>
+	<catch_line>Exceptions to application of article</catch_line>
+	<text>
+		Nothing contained in this article shall be construed to apply to:
+		<section prefix="1">The purchase, distribution, exhibition, or loan of any work of art, book, magazine, or other printed or manuscript material by any accredited museum, library, school, or institution of higher education.
+		</section>
+		<section prefix="2">The exhibition or performance of any play, drama, tableau, or motion picture by any theatre, museum, school, or institution of higher education, either supported by public appropriation or which is an accredited institution supported by private funds.
+		</section>
+	</text>
+	<history>1977, c. 480.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="4" level="3">Rights of Bank</unit>
+	</structure>
+	<section_number>8.9A-340</section_number>
+	<catch_line>Effectiveness of right of recoupment or set-off against deposit account</catch_line>
+	<text>
+		<section prefix="a">Exercise of recoupment or set-off. Except as otherwise provided in subsection (c), a bank with which a deposit account is maintained may exercise any right of recoupment or set-off against a secured party that holds a security interest in the deposit account.
+		</section>
+		<section prefix="b">Recoupment or set-off not affected by security interest. Except as otherwise provided in subsection (c), the application of this title to a security interest in a deposit account does not affect a right of recoupment or set-off of the secured party as to a deposit account maintained with the secured party.
+		</section>
+		<section prefix="c">When set-off ineffective. The exercise by a bank of a set-off against a deposit account is ineffective against a secured party that holds a security interest in the deposit account which is perfected by control under § 8.9A-104 (a) (3), if the set-off is based on a claim against the debtor.
+		</section>
+	</text>
+	<history>2000, c. 1007.</history>
+</law>

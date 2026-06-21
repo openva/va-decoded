@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="C" level="3">Surface Coal Mines</unit>
+		<unit label="chapter" identifier="10" level="4">Virginia Coal Surface Mining Control and Reclamation Act of 1979</unit>
+		<unit label="article" identifier="5" level="5">Coal Surface Mining Reclamation Fund</unit>
+	</structure>
+	<section_number>45.2-1046</section_number>
+	<catch_line> Assessment of reclamation tax revenues for Fund</catch_line>
+	<text>
+		<section prefix="A">There is hereby levied a reclamation tax upon the production of coal by each operator participating in the Fund under a permit issued under this chapter as set forth in this article.
+		</section>
+		<section prefix="B">Thirty days after the end of each calendar quarter during which the total balance of the Fund, including interest thereon, is less than $20 million, each operator shall pay into the Fund an amount equal to:
+			<section prefix="1">Four cents per clean ton of coal produced by a surface mining operation permitted under this chapter;
+			</section>
+			<section prefix="2">Three cents per clean ton of coal produced by a deep mining operation permitted under this chapter; and
+			</section>
+			<section prefix="3">One and one-half cents per clean ton of coal processed or loaded by a preparation or loading facility permitted under this chapter.
+			</section>
+		</section>
+		<section prefix="C">At the end of each calendar quarter during which the total balance in the Fund, including interest thereon, exceeds $20 million, payments under this section shall cease until again required pursuant to subsection B.
+		</section>
+		<section prefix="D">In no event shall any operator pay reclamation tax under this section on total coal production in excess of five million tons per calendar year, regardless of the number of permits held by that operator. In no event shall any operator holding more than one type of permit pay tax at a rate in excess of five and one-half cents per ton on coal originally surface-mined by that operator or in excess of four and one-half cents per ton on coal originally deep-mined by that operator. Any operator holding one permit upon which coal is mined and processed or loaded shall pay only the tax applicable under this section to the surface mining operation or deep mining operation.
+		</section>
+	</text>
+	<history>1982, c. 334, § 45.1-270.4; 1983, c. 131; 1987, c. 468; 1991, c. 495; 2014, cc. 111, 135; 2021, Sp. Sess. I, c. 387.</history>
+</law>

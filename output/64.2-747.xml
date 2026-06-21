@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="5" level="4">Creditor's Claims; Spendthrift and Discretionary Trusts</unit>
+	</structure>
+	<section_number>64.2-747</section_number>
+	<catch_line>Creditor's claim against settlor</catch_line>
+	<text>
+		<section prefix="A">Whether or not the terms of a trust contain a spendthrift provision, the following rules apply:
+			<section prefix="1">During the lifetime of the settlor, the property of a revocable trust is subject to claims of the settlor's creditors.
+			</section>
+			<section prefix="2">With respect to an irrevocable trust, except to the extent otherwise provided in §§ 64.2-745.1 and 64.2-745.2, a creditor or assignee of the settlor may reach the maximum amount that can be distributed to or for the settlor's benefit. If a trust has more than one settlor, the amount the creditor or assignee of a particular settlor may reach may not exceed the settlor's interest in the portion of the trust attributable to that settlor's contribution. A trustee's discretionary authority to pay directly or to reimburse the settlor for any tax on trust income or principal that is payable by the settlor shall not be considered to be an amount that can be distributed to or for the settlor's benefit, and a creditor or assignee of the settlor shall not be entitled to reach any amount solely by reason of this discretionary authority.
+			</section>
+			<section prefix="3">After the death of a settlor, and subject to the settlor's right to direct the source from which liabilities will be paid, the property of a trust that was revocable at the settlor's death is subject to claims of the settlor's creditors, costs of administration of the settlor's estate, the expenses of the settlor's funeral and disposal of remains, and statutory allowances to a surviving spouse and children including the family allowance, the right to exempt property, and the homestead allowance to the extent the settlor's probate estate is inadequate to satisfy those claims, costs, expenses, and allowances. This section shall not apply to life insurance proceeds under § 38.2-3122. No proceeding to subject a trustee, trust assets, or distributees of such assets to such claims, costs, and expenses shall be commenced unless the personal representative of the settlor has received a written demand by a surviving spouse, a creditor, or one acting for a minor or dependent child of the settlor, and no proceeding shall be commenced later than two years following the death of the settlor. This section shall not affect the right of a trustee to make distributions required or permitted by the terms of the trust prior to being served with process in a proceeding brought by the personal representative.
+			</section>
+		</section>
+		<section prefix="B">For purposes of this section:
+			<section prefix="1">During the period the power may be exercised, the holder of a power of withdrawal is treated in the same manner as the settlor of a revocable trust to the extent of the property subject to the power; and
+			</section>
+			<section prefix="2">Upon the lapse, release, or waiver of the power, the holder is treated as the settlor of the trust only to the extent the value of the property affected by the lapse, release, or waiver exceeds the greatest of (i) the amount specified in § 2041(b)(2) or 2514(e) of the Internal Revenue Code of 1986, (ii) the amount specified in § 2503(b) of the Internal Revenue Code of 1986, or (iii) two times the amount specified in § 2503(b) of the Internal Revenue Code of 1986 if the donor was married at the time of the transfer to which the power of withdrawal applies.
+			</section>
+			<section prefix="3">The assets in a trust that are attributable to a contribution to an inter vivos marital deduction trust described in either § 2523(e) or (f) of the Internal Revenue Code of 1986, after the death of the spouse of the settlor of the inter vivos marital deduction trust shall be deemed to have been contributed by the settlor's spouse and not by the settlor.
+			</section>
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-545.05; 2011, c. 354; 2012, cc. 555, 614, 718; 2013, c. 784.</history>
+</law>

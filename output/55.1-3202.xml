@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="V" level="2">Miscellaneous</unit>
+		<unit label="chapter" identifier="32" level="3">Unfair Real Estate Service Agreement Act</unit>
+	</structure>
+	<section_number>55.1-3202</section_number>
+	<catch_line>Prohibited terms</catch_line>
+	<text>
+		<section prefix="A">No real estate service agreement that is effective and binding for more than one year from the effective date shall:
+			<section prefix="1">Purport to run with the land or bind future owners of interests in the residential real property identified in the service agreement;
+			</section>
+			<section prefix="2">Allow the service provider to assign or transfer the right to provide services under the service agreement without notice to and written agreement of all parties to the service agreement; or
+			</section>
+			<section prefix="3">Purport to create a lien, encumbrance, or other real property security interest on the residential real property identified in the service agreement.
+			</section>
+		</section>
+		<section prefix="B">Offering a real estate service agreement that violates subsection A to a consumer constitutes a prohibited practice under the provisions of § 59.1-200 and shall be subject to the provisions of the Virginia Consumer Protection Act (§ 59.1-196 et seq.). Nothing in this subsection shall be construed to prevent an individual from pursuing any other remedy available by law.
+		</section>
+	</text>
+	<history>2024, cc. 328, 362.</history>
+</law>

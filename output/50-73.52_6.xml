@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="8" level="3">Dissolution</unit>
+	</structure>
+	<section_number>50-73.52:6</section_number>
+	<catch_line>Involuntary cancellation of limited partnership existence</catch_line>
+	<text>
+		<section prefix="A">The existence of a limited partnership may be canceled involuntarily by order of the Commission when it finds that the limited partnership has:
+			<section prefix="1">Continued to exceed or abuse the authority conferred on it by law;
+			</section>
+			<section prefix="2">Failed to maintain a registered office or a registered agent in the Commonwealth as required by law;
+			</section>
+			<section prefix="3">Failed to file any document required by this chapter to be filed with the Commission; or
+			</section>
+			<section prefix="4">Been convicted for a violation of 8 U.S.C. § 1324a (f), as amended, for actions of its partners constituting a pattern or practice of employing unauthorized aliens in the Commonwealth.
+			</section>
+		</section>
+		<section prefix="B">Before entering any such order, the Commission shall issue a rule against the limited partnership giving it an opportunity to be heard and show cause why such an order should not be entered. The Commission may issue the rule on its own motion or on motion of the Attorney General.
+		</section>
+		<section prefix="C">The properties and affairs of a limited partnership whose existence has been canceled pursuant to this section shall pass automatically to its general partners as trustees in liquidation. The trustees shall then proceed to (i) collect the assets of the limited partnership; (ii) sell, convey, and dispose of such of its properties as are not to be distributed in kind to its partners; (iii) pay, satisfy, and discharge its liabilities and obligations; and (iv) do all other acts required to liquidate its business and affairs. After paying or adequately providing for the payment of all its obligations, the trustees shall distribute the remainder of its assets, either in cash or in kind, among its partners according to their respective rights and interests.
+		</section>
+		<section prefix="D">Any limited partnership convicted of the offense listed in subdivision A 4 shall immediately report such conviction to the Commission and file with the Commission an authenticated copy of the judgment or record of conviction. A limited partnership whose existence is canceled pursuant to subdivision A 4 shall not be eligible for reinstatement for a period of not less than one year.
+		</section>
+	</text>
+	<history>2008, c. 586; 2009, c. 167.</history>
+</law>

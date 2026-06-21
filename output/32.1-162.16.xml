@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5.1" level="2">Human Research</unit>
+	</structure>
+	<section_number>32.1-162.16</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, unless the context requires a different meaning:
+		"Human research" means any systematic investigation, including research development, testing and evaluation, utilizing human subjects, that is designed to develop or contribute to generalized knowledge. Human research shall not be deemed to include research exempt from federal research regulation pursuant to 45 C.F.R. § 46.101(b).
+		"Informed consent" means the knowing and voluntary agreement, without undue inducement or any element of force, fraud, deceit, duress, or other form of constraint or coercion, of a person who is capable of exercising free power of choice. For the purposes of human research, the basic elements of information necessary to such consent shall include:
+		<section prefix="1">A reasonable and comprehensible explanation to the person of the proposed procedures or protocols to be followed, their purposes, including descriptions of any attendant discomforts, and risks and benefits reasonably to be expected;
+		</section>
+		<section prefix="2">A disclosure of any appropriate alternative procedures or therapies that might be advantageous for the person;
+		</section>
+		<section prefix="3">An instruction that the person may withdraw his consent and discontinue participation in the human research at any time without prejudice to him;
+		</section>
+		<section prefix="4">An explanation of any costs or compensation which may accrue to the person and, if applicable, the availability of third party reimbursement for the proposed procedures or protocols; and
+		</section>
+		<section prefix="5">An offer to answer and answers to any inquiries by the person concerning the procedures and protocols.
+			"Institution" or "agency" means any facility, program, or organization owned or operated by the Commonwealth, by any political subdivision, or by any person, firm, corporation, association, or other legal entity.
+			"Legally authorized representative" means, in the following specified order of priority, (i) the parent or parents having custody of a prospective subject who is a minor, (ii) the agent appointed under an advance directive, as defined in § 54.1-2982, executed by the prospective subject, provided the advance directive authorizes the agent to make decisions regarding the prospective subject's participation in human research, (iii) the legal guardian of a prospective subject, (iv) the spouse of the prospective subject, except where a suit for divorce has been filed and the divorce decree is not yet final, (v) an adult child of the prospective subject, (vi) a parent of the prospective subject when the subject is an adult, (vii) an adult brother or sister of the prospective subject or (viii) any person or judicial or other body authorized by law or regulation to consent on behalf of a prospective subject to such subject's participation in the particular human research. For the purposes of this chapter, any person authorized by law or regulation to consent on behalf of a prospective subject to such subject's participation in the particular human research shall include an attorney in fact appointed under a durable power of attorney, to the extent the power grants the authority to make such a decision. The attorney in fact shall not be employed by the person, institution, or agency conducting the human research. No official or employee of the institution or agency conducting or authorizing the research shall be qualified to act as a legally authorized representative.
+			"Minimal risk" means that the risks of harm anticipated in the proposed research are not greater, considering probability and magnitude, than those ordinarily encountered in daily life or during the performance of routine physical or psychological examinations or tests.
+			"Nontherapeutic research" means human research in which there is no reasonable expectation of direct benefit to the physical or mental condition of the human subject.
+		</section>
+	</text>
+	<history>1979, c. 38, § 37.1-234; 1986, c. 274; 1992, c. 603; 2002, c. 754.</history>
+</law>

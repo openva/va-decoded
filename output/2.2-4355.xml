@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="4" level="5">Prompt Payment</unit>
+	</structure>
+	<section_number>2.2-4355</section_number>
+	<catch_line>Interest penalty; exceptions</catch_line>
+	<text>
+		<section prefix="A">Interest shall accrue, at the rate determined pursuant to subsection B, on all amounts owed by a state agency to a vendor that remain unpaid after seven days following the payment date. However, nothing in this section shall affect any contract providing for a different rate of interest, or for the payment of interest in a different manner.
+		</section>
+		<section prefix="B">The rate of interest charged a state agency pursuant to subsection A shall be the base rate on corporate loans (prime rate) at large United States money center commercial banks as reported daily in the publication entitled The Wall Street Journal. Whenever a split prime rate is published, the lower of the two rates shall be used. However, in no event shall the rate of interest charged exceed the rate of interest established pursuant to § 58.1-1812.
+		</section>
+		<section prefix="C">Notwithstanding subsection A, no interest penalty shall be charged when payment is delayed because of disagreement between a state agency and a vendor regarding the quantity, quality or time of delivery of goods or services or the accuracy of any invoice received for the goods or services. The exception from the interest penalty provided by this subsection shall apply only to that portion of a delayed payment that is actually the subject of the disagreement and shall apply only for the duration of the disagreement.
+		</section>
+		<section prefix="D">This section shall not apply to § 2.2-4333 pertaining to retainage on construction contracts, during the period of time prior to the date the final payment is due. Nothing contained herein shall prevent a contractor from receiving interest on such funds under an approved escrow agreement.
+		</section>
+		<section prefix="E">Notwithstanding subsection A, no interest penalty shall be paid to any debtor on any payment, or portion thereof, withheld pursuant to the Comptroller's Debt Setoff Program, as authorized by the Virginia Debt Collection Act (§ 2.2-4800 et seq.), commencing with the date the payment is withheld. If, as a result of an error, a payment or portion thereof is withheld, and it is determined that at the time of setoff no debt was owed to the Commonwealth, then interest shall accrue at the rate determined pursuant to subsection B on amounts withheld that remain unpaid after seven days following the payment date.
+		</section>
+	</text>
+	<history>1984, c. 736, § 11-62.5; 1985, c. 101; 1992, c. 75; 2001, c. 844.</history>
+</law>

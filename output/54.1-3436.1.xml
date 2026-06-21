@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="III" level="2">Professions and Occupations Regulated by Boards Within the Department of Health Professions</unit>
+		<unit label="chapter" identifier="34" level="3">Drug Control Act</unit>
+		<unit label="article" identifier="3" level="4">Wholesale Distributors and Medical Equipment Suppliers</unit>
+	</structure>
+	<section_number>54.1-3436.1</section_number>
+	<catch_line>Prescription drug price transparency</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Brand-name drug" means a prescription drug approved under 21 U.S.C. § 355(b) or 42 U.S.C. § 262.
+			"Generic drug" means a prescription drug approved under 21 U.S.C. § 355(j).
+			"Nonprofit data services organization" has the same meaning as set forth in § 32.1-23.4.
+			"Pharmacy benefits manager" has the same meaning as set forth in § 38.2-3407.15:4.
+			"Wholesale acquisition cost" has the same meaning as set forth in 42 U.S.C. § 1395w-3a(c)(6)(B).
+		</section>
+		<section prefix="B">To ensure data that is useful, relevant, and not duplicative, the Department of Health may request wholesale distributors to report to the nonprofit organization with which the Department of Health has entered into a contract or agreement pursuant to § 32.1-23.4 the following information on the 25 costliest drugs in the Commonwealth upon a determination by the Department of Health that data received from health carriers, pharmacy benefits managers, and manufacturers is insufficient:
+			<section prefix="1">The wholesale acquisition cost that the wholesale distributor has negotiated directly with the manufacturer in the last calendar year, related to the 25 costliest drugs dispensed in the Commonwealth;
+			</section>
+			<section prefix="2">The wholesale acquisition cost that the wholesale distributor has negotiated directly with the manufacturer in the current calendar year for the 25 costliest drugs dispensed in the Commonwealth;
+			</section>
+			<section prefix="3">Aggregate total rebates, discounts, and price concessions negotiated directly with the manufacturer for the 25 costliest drugs dispensed in the Commonwealth in the last calendar year, for business in the Commonwealth, in total; and
+			</section>
+			<section prefix="4">Aggregate total discounts, dispensing fees, and other fees negotiated in the last calendar year with pharmacies, for the 25 costliest drugs dispensed in the Commonwealth, in total.
+			</section>
+		</section>
+		<section prefix="C">A report submitted by a wholesale distributor pursuant to subsection B shall not disclose the identity of a specific wholesale distributor, the price charged for a specific prescription drug or class of prescription drugs, or the amount of any price concession, rebate, or fee provided for a specific prescription drug or class of prescription drugs.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 304.</history>
+</law>

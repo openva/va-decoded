@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="9" level="3">Registration and Modification of Child Support Order</unit>
+	</structure>
+	<section_number>20-88.77</section_number>
+	<catch_line>Recognition of order modified in another state</catch_line>
+	<text>
+		If a child support order issued by a tribunal of the Commonwealth is modified by a tribunal of another state that assumed jurisdiction pursuant to the Uniform Interstate Family Support Act, a tribunal of the Commonwealth:
+		<section prefix="1">May enforce its order that was modified only as to arrears and interest accruing before the modification;
+		</section>
+		<section prefix="2">May provide appropriate relief for violations of its order that occurred before the effective date of the modification; and
+		</section>
+		<section prefix="3">Shall recognize the modifying order of the other state, upon registration, for the purpose of enforcement.
+		</section>
+	</text>
+	<history>1994, c. 673; 1997, cc. 797, 897; 2005, c. 754.</history>
+</law>

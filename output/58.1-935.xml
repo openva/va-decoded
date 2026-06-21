@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="9" level="3">Virginia Estate Tax</unit>
+		<unit label="article" identifier="5" level="4">Generation Skipping Transfers</unit>
+	</structure>
+	<section_number>58.1-935</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		<section prefix="A">Terms, phrases, and words used in this article, except for those defined in subsection B of this section, shall be defined as they are defined under Chapter 13 of subchapter B of the Internal Revenue Code of 1954, as amended.
+		</section>
+		<section prefix="B">As used in this article the term or phrase:
+			"Federal generation skipping transfer tax" means the tax imposed by Chapter 13 of subchapter A of the Internal Revenue Code of 1954, as amended.
+			"Generation skipping transfer" includes every transfer subject to the tax imposed under Chapter 13 of subchapter A of the Internal Revenue Code of 1954, as amended, where the original transferor is a resident of the Commonwealth of Virginia at the date of original transfer, or the property transferred is real or personal property having a situs in Virginia.
+			"Original transferor" means any grantor, donor, trustor, or testator who by grant, gift, trust or will makes a transfer of real or personal property that results in a federal generation skipping transfer tax under applicable provisions of the Internal Revenue Code.
+		</section>
+	</text>
+	<history>Code 1950, § 58-238.37; 1979, c. 559; 1984, c. 675.</history>
+</law>

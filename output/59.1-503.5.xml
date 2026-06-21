@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="3" level="3">Construction</unit>
+	</structure>
+	<section_number>59.1-503.5</section_number>
+	<catch_line>Terms to be specified</catch_line>
+	<text>
+		An agreement that is otherwise sufficiently definite to be a contract is not invalid because it leaves particulars of performance to be specified by one of the parties. If particulars of performance are to be specified by a party, the following rules apply:
+		<section prefix="1">Specification must be made in good faith and within limits set by commercial reasonableness.
+		</section>
+		<section prefix="2">If a specification materially affects the other party's performance but is not seasonably made, the other party:
+			<section prefix="A">is excused for any resulting delay in its performance; and
+			</section>
+			<section prefix="B">may perform, suspend performance, or treat the failure to specify as a breach of contract.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

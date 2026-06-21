@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="7.1" level="3">Computer Crimes</unit>
+	</structure>
+	<section_number>18.2-152.15</section_number>
+	<catch_line>Encryption used in criminal activity</catch_line>
+	<text>
+		Any person who willfully uses encryption to further any criminal activity shall be guilty of an offense which is separate and distinct from the predicate criminal activity and punishable as a Class 1 misdemeanor.
+		"Encryption" means the enciphering of intelligible data into unintelligible form or the deciphering of unintelligible data into intelligible form.
+	</text>
+	<history>1999, c. 455.</history>
+</law>

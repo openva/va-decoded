@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="2" level="3">Jurisdiction</unit>
+	</structure>
+	<section_number>20-146.17</section_number>
+	<catch_line>Simultaneous proceedings</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in § 20-146.15, a court of this Commonwealth may not exercise its jurisdiction under this article if, at the time of the commencement of the proceeding, a proceeding concerning the custody of the child has been previously commenced in a court of another state having jurisdiction substantially in conformity with this act, unless the proceeding has been terminated or is stayed by the court of the other state because a court of this Commonwealth is a more convenient forum under § 20-146.18.
+		</section>
+		<section prefix="B">Except as otherwise provided in § 20-146.15, a court of this Commonwealth, before hearing a child custody proceeding, shall examine the court documents and other information supplied by the parties pursuant to § 20-146.20. If the court determines that a child custody proceeding has been commenced in a court in another state having jurisdiction substantially in accordance with this act, the court of this Commonwealth shall stay its proceeding and communicate with the court of the other state. If the court of the state having jurisdiction substantially in accordance with this act does not determine that the court of this Commonwealth is a more appropriate forum, the court of this Commonwealth shall dismiss the proceeding.
+		</section>
+		<section prefix="C">In a proceeding to modify a child custody determination, a court of this Commonwealth shall determine whether a proceeding to enforce the determination has been commenced in another state. If a proceeding to enforce a child custody determination has been commenced in another state, the court may:
+			<section prefix="1">Stay the proceeding for modification pending the entry of an order of a court of the other state enforcing, staying, denying, or dismissing the proceeding for enforcement;
+			</section>
+			<section prefix="2">Enjoin the parties from continuing with the proceeding for enforcement; or
+			</section>
+			<section prefix="3">Proceed with the modification under conditions it considers appropriate.
+			</section>
+		</section>
+	</text>
+	<history>1979, c. 229, § 20-129; 2001, c. 305.</history>
+</law>

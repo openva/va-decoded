@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="3.02" level="3">Quarantine and Isolation of Persons With Communicable Diseases of Public Health Threat</unit>
+	</structure>
+	<section_number>32.1-48.011</section_number>
+	<catch_line>Isolation may be ordered under certain exceptional circumstances; Commissioner authorized to require hospitalization or other health care</catch_line>
+	<text>
+		<section prefix="A">Whenever the State Health Commissioner makes a determination of exceptional circumstances pursuant to § 32.1-48.05 and that the isolation procedures set forth in Article 3.01 (§ 32.1-48.01 et seq.) of this chapter are insufficient control measures to contain a communicable disease of public health threat, the isolation procedures herein may be invoked.
+		</section>
+		<section prefix="B">The State Health Commissioner may order the isolation of a person or persons upon a finding that (i) such person or persons are infected with or may reasonably be suspected to be infected with a communicable disease of public health threat and (ii) isolation is necessary to protect the public health, to ensure such isolated person or persons receive appropriate medical treatment, and to protect health care providers and others who may come into contact with such infected person or persons.
+		</section>
+		<section prefix="C">The State Health Commissioner shall record his findings and any information on which he has relied in making the finding required for isolation pursuant to this section. The State Health Commissioner's record of findings concerning any communicable disease of public health threat that is involved in an order of isolation shall be confidential and shall not be disclosed in accordance with subdivision 12 of § 2.2-3705.5.
+		</section>
+		<section prefix="D">The Commissioner may order the isolated person or persons to remain in their places of residence, to remain in another place where they are present, or to report to a place or facility designated by the Commissioner for the duration of their isolation. An electronic device may be used to enforce any such isolation. The Commissioner's order of isolation shall be for a duration consistent with the known course of such communicable disease of public health threat or, if the course of the disease is unknown or uncertain, for a period consistent with the probable course of the communicable disease of public health threat.
+		</section>
+		<section prefix="E">To the extent that persons subject to an order of isolation pursuant to this article require hospitalization or other health care services, the State Health Commissioner shall be authorized to require that such services be provided.
+		</section>
+		<section prefix="F">The State Health Commissioner shall also have the authority to monitor the medical condition of any person or persons subject to an order of isolation pursuant to this article through regular visits by public health nurses or such other means as the Commissioner shall determine to be necessary.
+		</section>
+	</text>
+	<history>2004, cc. 773, 1021; 2017, c. 778.</history>
+</law>

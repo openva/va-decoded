@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="38" level="4">Government Data Collection and Dissemination Practices Act</unit>
+	</structure>
+	<section_number>2.2-3805</section_number>
+	<catch_line>Dissemination of reports</catch_line>
+	<text>
+		Any agency maintaining an information system that disseminates statistical reports or research findings based on personal information drawn from its system, or from other systems shall:
+		<section prefix="1">Make available to any data subject or group, without revealing trade secrets, methodology and materials necessary to validate statistical analysis, and
+		</section>
+		<section prefix="2">Make no materials available for independent analysis without guarantees that no personal information will be used in any way that might prejudice judgments about any data subject.
+		</section>
+	</text>
+	<history>1976, c. 597, § 2.1-381; 2001, c. 844.</history>
+</law>

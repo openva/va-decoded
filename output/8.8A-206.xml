@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="2" level="2">Issue and Issuer</unit>
+	</structure>
+	<section_number>8.8A-206</section_number>
+	<catch_line>Completion or alteration of security certificate</catch_line>
+	<text>
+		<section prefix="a">If a security certificate contains the signatures necessary to its issue or transfer but is incomplete in any other respect:
+			<section prefix="1">any person may complete it by filling in the blanks as authorized; and
+			</section>
+			<section prefix="2">even if the blanks are incorrectly filled in, the security certificate as completed is enforceable by a purchaser who took it for value and without notice of the incorrectness.
+			</section>
+		</section>
+		<section prefix="b">A complete security certificate that has been improperly altered, even if fraudulently, remains enforceable, but only according to its original terms.
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="6" level="3">Titling and Registration of Motor Vehicles</unit>
+		<unit label="article" identifier="6" level="4">Exemptions from Registration</unit>
+	</structure>
+	<section_number>46.2-684.1</section_number>
+	<catch_line>Insurance coverage and proof of insurance for exempted motor vehicles</catch_line>
+	<text>
+		<section prefix="A">Any motor vehicle, trailer, or semi-trailer that is exempt from motor vehicle registration requirements pursuant to this article shall be insured under a general liability policy that includes personal injury liability insurance as defined in § 38.2-117 and property damage liability insurance as defined in § 38.2-118, under a policy of motor vehicle insurance as defined in § 38.2-124, or under an umbrella or excess insurance policy. Any such umbrella or excess insurance policy shall not be required to comply with the provisions of Chapter 22 (§ 38.2-2200 et seq.) of Title 38.2 of the Code of Virginia that relate to the ownership, maintenance, or use of the exempt motor vehicle, trailer, or semi-trailer.
+		</section>
+		<section prefix="B">Any person who owns a motor vehicle, trailer, or semi-trailer that is exempt from motor vehicle registration requirements pursuant to this article may be required by a law-enforcement officer to furnish proof that such motor vehicle, trailer, or semi-trailer is insured as required in subsection A. Failure to furnish proof of insurance when required by a law-enforcement officer as provided in this section within 30 days shall constitute a traffic infraction punishable by a $600 fine that shall be paid into the Uninsured Motorists Fund created pursuant to § 38.2-3000.
+		</section>
+	</text>
+	<history>2005, c. 445; 2022, c. 736.</history>
+</law>

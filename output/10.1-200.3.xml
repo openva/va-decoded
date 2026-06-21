@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="2" level="3">Parks and Recreation</unit>
+		<unit label="article" identifier="1" level="4">State Parks</unit>
+	</structure>
+	<section_number>10.1-200.3</section_number>
+	<catch_line>Admittance and parking in state parks; prohibitions; civil penalty</catch_line>
+	<text>
+		<section prefix="A">No person shall make use of, gain admittance to, or attempt to use or gain admittance to the facilities in any state park for the use of which a charge is assessed by the Department, unless the person pays the charge or price established by the Department.
+		</section>
+		<section prefix="B">No owner or driver shall cause or permit a vehicle to stand:
+			<section prefix="1">Anywhere in a state park outside of designated parking spaces, except for a reasonable time in order to receive or discharge passengers; or
+			</section>
+			<section prefix="2">In any space in a state park designated for use by individuals with disabilities unless the vehicle displays a license plate or decal issued by the Commissioner of the Department of Motor Vehicles, or a similar identification issued by a similar authority of another state or the District of Columbia, that authorizes parking in a space designated for use by individuals with disabilities.
+			</section>
+		</section>
+		<section prefix="C">Any person violating any provision of this section may, in lieu of any criminal penalty, be assessed a civil penalty of $25 by the Department. Civil penalties assessed under this section shall be paid into the Conservation Resources Fund.
+		</section>
+	</text>
+	<history>2001, c. 370; 2023, cc. 148, 149.</history>
+</law>

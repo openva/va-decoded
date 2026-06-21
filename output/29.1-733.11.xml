@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="29.1" level="1">Wildlife, Inland Fisheries and Boating</unit>
+		<unit label="chapter" identifier="7" level="2">Boating Laws</unit>
+		<unit label="article" identifier="2.1" level="3">Virginia Uniform Certificate of Title for Watercraft Act</unit>
+	</structure>
+	<section_number>29.1-733.11</section_number>
+	<catch_line>Maintenance of and access to files</catch_line>
+	<text>
+		<section prefix="A">For each record relating to a certificate of title submitted to the Department, the Department shall:
+			<section prefix="1">Ascertain or assign the hull identification number for the watercraft;
+			</section>
+			<section prefix="2">Maintain the hull identification number and all the information submitted with the application pursuant to subsection B of § 29.1-733.7 to which the record relates, including the date and time the record was delivered to the Department;
+			</section>
+			<section prefix="3">Maintain the files for public inspection subject to subsection E; and
+			</section>
+			<section prefix="4">Index the files of the Department as required by subsection B.
+			</section>
+		</section>
+		<section prefix="B">The Department shall maintain in its files the information contained in all certificates of title created under this article. The information in the files of the Department shall be searchable by the hull identification number of the watercraft, the registration number, the name of the owner of record, and any other method used by the Department.
+		</section>
+		<section prefix="C">The Department shall maintain in its files, for each watercraft for which it has created a certificate of title, all title brands known to the Department, the name of each secured party known to the Department, the name of each person known to the Department to be claiming an ownership interest, and all stolen-property reports the Department has received.
+		</section>
+		<section prefix="D">Upon request, for safety, security, or law-enforcement purposes, the Department shall provide to federal, state, or local government the information in its files relating to any watercraft for which the Department has issued a certificate of title.
+		</section>
+		<section prefix="E">Except as otherwise provided by the law of the Commonwealth other than this article, the information required under § 29.1-733.9 is a public record. The information provided under subdivision B 3 of § 29.1-733.7 is not a public record.
+		</section>
+	</text>
+	<history>2013, c. 787.</history>
+</law>

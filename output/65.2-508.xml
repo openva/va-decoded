@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Compensation and Payment Thereof</unit>
+	</structure>
+	<section_number>65.2-508</section_number>
+	<catch_line>Foreign injuries</catch_line>
+	<text>
+		<section prefix="A">When an accident happens while the employee is employed elsewhere than in this Commonwealth which would entitle him or his dependents to compensation if it had happened in this Commonwealth, the employee or his dependents shall be entitled to compensation, if:
+			<section prefix="1">The contract of employment was made in this Commonwealth; and
+			</section>
+			<section prefix="2">The employer's place of business is in this Commonwealth;
+				provided the contract of employment was not expressly for service exclusively outside of the Commonwealth.
+			</section>
+		</section>
+		<section prefix="B">However, if an employee shall receive compensation or damages under the laws of any other state, nothing herein contained shall be construed so as to permit a total compensation for the same injury greater than is provided for in this title.
+		</section>
+	</text>
+	<history>Code 1950, § 65-58; 1968, c. 660, § 65.1-61; 1976, c. 151; 1991, c. 355.</history>
+</law>

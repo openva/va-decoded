@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-420</section_number>
+	<catch_line>Railway companies; apportionment</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding the provisions of § 58.1-408, railway companies shall determine their net apportionable income to the Commonwealth by multiplying the Virginia taxable income of such company, excluding the classes of income allocable under § 58.1-407, by the use of the ratio of revenue car miles in the Commonwealth to total revenue car miles of the company everywhere. For the purposes of this section, "revenue car mile" in the case of railway carriers of property or passengers means the movement of a unit of loaded car equipment a distance of one mile. The loaded car miles shall be determined in accordance with the Uniform System of Accounts for Railroad Companies of the Interstate Commerce Commission.
+		</section>
+		<section prefix="B">Any eligible company, as defined in § 58.1-405.1, may subtract its revenue car miles traveled in any qualified locality or qualified localities, as defined in § 58.1-405.1, during the taxable year from the numerator of the ratio in subsection A. Such eligible company may make such modification for the taxable year in which it first becomes eligible and for the six subsequent, consecutive taxable years, except for any year in which the eligible company's (i) total, cumulative new capital investment falls below the applicable initial threshold or (ii) number of new jobs falls below the applicable initial threshold.
+		</section>
+	</text>
+	<history>Code 1950, §§ 58-151.021, 58-151.050:3; 1971, Ex. Sess., c. 171; 1978, c. 784; 1979, c. 371; 1981, c. 402; 1984, c. 675; 2018, cc. 801, 802.</history>
+</law>

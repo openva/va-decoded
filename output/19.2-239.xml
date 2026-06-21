@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="15" level="2">Trial and Its Incidents</unit>
+		<unit label="article" identifier="1" level="3">Jurisdiction</unit>
+	</structure>
+	<section_number>19.2-239</section_number>
+	<catch_line>Jurisdiction in criminal cases</catch_line>
+	<text>
+		The circuit courts, except where otherwise provided, shall have exclusive original jurisdiction for the trial of all presentments, indictments and informations for offenses committed within their respective circuits.
+	</text>
+	<history>Code 1950, § 19.1-187; 1960, c. 366; 1975, c. 495.</history>
+</law>

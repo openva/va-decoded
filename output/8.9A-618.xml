@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="1" level="3">Default and Enforcement of Security Interest</unit>
+	</structure>
+	<section_number>8.9A-618</section_number>
+	<catch_line>Rights and duties of certain secondary obligors</catch_line>
+	<text>
+		<section prefix="a">Rights and duties of secondary obligor. A secondary obligor acquires the rights and becomes obligated to perform the duties of the secured party after the secondary obligor:
+			<section prefix="1">receives an assignment of a secured obligation from the secured party;
+			</section>
+			<section prefix="2">receives a transfer of collateral from the secured party and agrees to accept the rights and assume the duties of the secured party; or
+			</section>
+			<section prefix="3">is subrogated to the rights of the secured party with respect to collateral.
+			</section>
+		</section>
+		<section prefix="b">Effect of assignment, transfer, or subrogation. An assignment, transfer, or subrogation described in subsection (a):
+			<section prefix="1">is not a disposition of collateral under § 8.9A-610; and
+			</section>
+			<section prefix="2">relieves the secured party of further duties under this title.
+			</section>
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-504; 1973, c. 509; 2000, c. 1007.</history>
+</law>

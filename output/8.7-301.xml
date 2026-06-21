@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.7" level="1">Commercial Code — Warehouse Receipts, Bills of Lading and Other Documents of Title</unit>
+		<unit label="part" identifier="3" level="2">Bills of Lading: Special Provisions</unit>
+	</structure>
+	<section_number>8.7-301</section_number>
+	<catch_line>Liability for nonreceipt or misdescription; "said to contain"; "shipper's load and count"; improper handling</catch_line>
+	<text>
+		<section prefix="1">A consignee of a nonnegotiable bill of lading who has given value in good faith, or a holder to whom a negotiable bill has been duly negotiated, relying upon the description therein of the goods, or upon the date therein shown, may recover from the issuer damages caused by the misdating of the bill or the nonreceipt or misdescription of the goods, except to the extent that the bill indicates that the issuer does not know whether any part or all of the goods in fact were received or conform to the description, as where the description is in terms of marks or labels or kind, quantity, or condition or the receipt or description is qualified by "contents or condition of contents of packages unknown," "said to contain," "shipper's weight, load and count" or the like, if such indication be true.
+		</section>
+		<section prefix="2">When goods are loaded by an issuer of a bill of lading, the issuer must count the packages of goods, if shipped in packages, and ascertain the kind and quantity if shipped in bulk. In such cases "shipper's weight, load and count" or other words indicating that the description was made by the shipper are ineffective except as to goods concealed by packages.
+		</section>
+		<section prefix="3">When bulk goods are loaded by a shipper who makes available to the issuer of a bill of lading adequate facilities for weighing such goods, the issuer must ascertain the kind and quantity within a reasonable time after receiving, in a record, the shipper's request to do so. In such cases "shipper's weight" or other words of like purport are ineffective.
+		</section>
+		<section prefix="4">The issuer of a bill of lading, by inserting in the bill the words "shipper's weight, load and count" or other words of like purport, may indicate that the goods were loaded by the shipper; and if such statement is true, the issuer shall not be liable for damages caused by the improper loading. However, their omission does not imply liability for such damages.
+		</section>
+		<section prefix="5">The shipper shall be deemed to have guaranteed to the issuer the accuracy at the time of shipment of the description, marks, labels, number, kind, quantity, condition and weight, as furnished by him; and the shipper shall indemnify the issuer against damage caused by inaccuracies in such particulars. The right of the issuer to such indemnity shall in no way limit his responsibility and liability under the contract of carriage to any person other than the shipper.
+		</section>
+	</text>
+	<history>1964, c. 219; 2004, c. 200.</history>
+</law>

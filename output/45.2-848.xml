@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="4" level="5">Ventilation, Mine Gases, and Other Hazardous Conditions</unit>
+	</structure>
+	<section_number>45.2-848</section_number>
+	<catch_line> Tampering with methane monitoring devices prohibited; penalty</catch_line>
+	<text>
+		<section prefix="A">No person shall intentionally disturb, disconnect, bypass, impair, or otherwise tamper with any methane monitor or other device that is capable of detecting the presence of explosive gas and is used in an underground coal mine. If such methane monitor or device is installed on a face cutting machine, a continuous miner, longwall face equipment, a loading machine, or other mechanized equipment used to extract or load coal, as required pursuant to 30 C.F.R. Part 75.342, and such monitor, device, or equipment malfunctions, it may be disconnected or bypassed for the purpose of removing it or the equipment in order to make necessary repairs to it or the equipment. Any methane monitor or device not otherwise required by law may be disconnected, bypassed, or removed.
+		</section>
+		<section prefix="B">Violation of this section is a Class 6 felony.
+		</section>
+	</text>
+	<history>1993, c. 247, § 45.1-65.1; 1994, c. 28, § 45.1-161.232; 2021, Sp. Sess. I, c. 387.</history>
+</law>

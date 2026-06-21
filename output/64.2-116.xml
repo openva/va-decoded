@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+		<unit label="article" identifier="3.1" level="4">Uniform Fiduciary Access to Digital Assets Act</unit>
+	</structure>
+	<section_number>64.2-116</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article, unless the context requires otherwise:
+		"Account" means an arrangement under a terms-of-service agreement in which a custodian carries, maintains, processes, receives, or stores a digital asset of the user or provides goods or services to the user.
+		"Agent" means a person granted authority to act for a principal under a power of attorney, whether denominated an agent, attorney-in-fact, or otherwise. "Agent" includes an original agent, a coagent, a successor agent, and a person to which an agent's authority is delegated.
+		"Carries" means engages in the transmission of an electronic communication.
+		"Catalog of electronic communications" means information that identifies each person with which a user has had an electronic communication, the time and date of the communication, and the electronic address of the person.
+		"Conservator" means a person appointed by a court to manage the estate of a living individual. "Conservator" includes a limited conservator.
+		"Content of an electronic communication" means information concerning the substance or meaning of the communication that (i) has been sent or received by a user; (ii) is in electronic storage by a custodian providing an electronic communication service to the public or is carried or maintained by a custodian providing a remote computing service to the public; and (iii) is not readily accessible to the public.
+		"Court" means the circuit court for the county or city having jurisdiction over the fiduciary in matters relating to the content of this article.
+		"Custodian" means a person who carries, maintains, processes, receives, or stores a digital asset of a user.
+		"Designated recipient" means a person chosen by a user using an online tool to administer digital assets of the user.
+		"Digital asset" means an electronic record in which an individual has a right or interest. "Digital asset" does not include an underlying asset or liability unless the asset or liability is itself an electronic record.
+		"Electronic" means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities.
+		"Electronic communication" has the same meaning as the definition provided in 18 U.S.C. § 2510(12).
+		"Electronic communication service" means a custodian that provides to a user the ability to send or receive an electronic communication.
+		"Fiduciary" means an original, additional, or successor personal representative, conservator, guardian, agent, or trustee.
+		"Guardian" means a person appointed by a court to manage the person of a living individual adult pursuant to Chapter 20 (§ 64.2-2000 et seq.) or a person appointed by a court to manage the estate of a minor pursuant to Chapter 17 (§ 64.2-1700 et seq.). "Guardian" includes a limited guardian.
+		"Information" means data, text, images, videos, sounds, codes, computer programs, software, databases, or something that is substantially similar.
+		"Online tool" means an electronic service provided by a custodian that allows the user, in an agreement distinct from the terms-of-service agreement between the custodian and user, to provide directions for disclosure or nondisclosure of digital assets to a third person.
+		"Person" means an individual; estate; business or nonprofit entity; public corporation; government or governmental subdivision, agency, or instrumentality; or other legal entity.
+		"Personal representative" means an executor, administrator, curator, designated successor or successor under the Virginia Small Estate Act (§ 64.2-600 et seq.), or person that performs substantially the same function under the laws of the Commonwealth other than this article.
+		"Power of attorney" means a record that grants an agent authority to act in the place of a principal.
+		"Principal" means an individual who grants authority to an agent in a power of attorney.
+		"Protected person" means an individual for whom a conservator or guardian has been appointed. "Protected person" includes an individual for whom an application for the appointment of a conservator or guardian is pending.
+		"Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+		"Remote computing service" means a custodian that provides to a user computer-processing services or the storage of digital assets by means of an electronic communications system, as defined in 18 U.S.C. § 2510(14).
+		"Terms-of-service agreement" means an agreement that controls the relationship between a user and a custodian.
+		"Trustee" means a fiduciary with legal title to property under an agreement or declaration that creates a beneficial interest in another. "Trustee" includes a successor trustee.
+		"User" means a person that has an account with a custodian.
+		"Will" includes a codicil, testamentary instrument that only appoints an executor, and instrument that revokes or revises a testamentary instrument.
+	</text>
+	<history>2017, cc. 33, 80.</history>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="2" level="3">Noncompliance With Title</unit>
+	</structure>
+	<section_number>8.9A-626</section_number>
+	<catch_line>Action in which deficiency or surplus is in issue</catch_line>
+	<text>
+		Applicable rules if amount of deficiency or surplus in issue. In an action arising from a transaction in which the amount of a deficiency or surplus is in issue, the following rules apply:
+		<section prefix="1">A secured party need not prove compliance with the provisions of this part relating to collection, enforcement, disposition, or acceptance unless the debtor or a secondary obligor places the secured party's compliance in issue.
+		</section>
+		<section prefix="2">If the secured party's compliance is placed in issue, the secured party has the burden of establishing that the collection, enforcement, disposition, or acceptance was conducted in accordance with this part.
+		</section>
+		<section prefix="3">Except as otherwise provided in § 8.9A-628, if a secured party fails to prove that the collection, enforcement, disposition, or acceptance was conducted in accordance with the provisions of this part relating to collection, enforcement, disposition, or acceptance, the liability of a debtor or a secondary obligor for a deficiency is limited to an amount by which the sum of the secured obligation, expenses, and attorney's fees exceeds the greater of:
+			<section prefix="A">the proceeds of the collection, enforcement, disposition, or acceptance; or
+			</section>
+			<section prefix="B">the amount of proceeds that would have been realized had the noncomplying secured party proceeded in accordance with the provisions of this part relating to collection, enforcement, disposition, or acceptance.
+			</section>
+		</section>
+		<section prefix="4">For purposes of subsection (3) (B), the amount of proceeds that would have been realized is equal to the sum of the secured obligation, expenses, and attorney's fees unless the secured party proves that the amount is less than that sum.
+		</section>
+		<section prefix="5">If a deficiency or surplus is calculated under § 8.9A-615 (f), the debtor or obligor has the burden of establishing that the amount of proceeds of the disposition is significantly below the range of prices that a complying disposition to a person other than the secured party, a person related to the secured party, or a secondary obligor would have brought.
+		</section>
+	</text>
+	<history>2000, c. 1007.</history>
+</law>

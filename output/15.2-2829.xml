@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="28.2" level="3">Virginia Indoor Clean Air Act</unit>
+		<unit label="article" identifier="3" level="4">Local Regulation of Smoking</unit>
+	</structure>
+	<section_number>15.2-2829</section_number>
+	<catch_line>Mandatory provisions of ordinances</catch_line>
+	<text>
+		If an ordinance is enacted by a locality in accordance with this chapter, it shall provide that it is unlawful for any person to smoke in any of the following places:
+		<section prefix="1">Common areas in an educational facility, including but not limited to, classrooms, hallways, auditoriums, and public meeting rooms;
+		</section>
+		<section prefix="2">School buses and public conveyances; and
+		</section>
+		<section prefix="3">Any of the places governed by § 15.2-2824 or 15.2-2825.
+		</section>
+	</text>
+	<history>2009, cc. 153, 154.</history>
+</law>

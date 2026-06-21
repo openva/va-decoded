@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="13" level="2">Programs, Courses of Instruction and Textbooks</unit>
+		<unit label="article" identifier="1.5" level="3">School Divisions of Innovation</unit>
+	</structure>
+	<section_number>22.1-212.30</section_number>
+	<catch_line>Board regulations; procedure</catch_line>
+	<text>
+		Any local school board may apply to the Board for the local school division or any school therein to be designated as an SDI. Such application shall consist of a plan of innovation for the local school division. The Board shall include in regulations promulgated pursuant to § 22.1-212.29:
+		<section prefix="1">The procedure and timeline for application, review, amendment, approval, renewal, and revocation of SDI designation;
+		</section>
+		<section prefix="2">The procedure for the ongoing evaluation of an SDI; and
+		</section>
+		<section prefix="3">Any other process or procedure that the Board deems appropriate.
+		</section>
+	</text>
+	<history>2017, c. 760.</history>
+</law>

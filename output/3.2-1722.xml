@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="II" level="2">Boards, Councils, Foundations, and Commissions</unit>
+		<unit label="part" identifier="B" level="3">Commodity Boards</unit>
+		<unit label="chapter" identifier="17" level="4">Horse Industry Board</unit>
+		<unit label="article" identifier="3" level="5">Equine Feed Assessment</unit>
+	</structure>
+	<section_number>3.2-1722</section_number>
+	<catch_line>Falsification of records; misdemeanor</catch_line>
+	<text>
+		It is a Class 1 misdemeanor:
+		<section prefix="1">For any manufacturer to fail to submit to the Department any report required pursuant to § 3.2-1719 within 60 days after the time such report is due.
+		</section>
+		<section prefix="2">For any manufacturer knowingly to report falsely to the Department any information required pursuant to this article.
+		</section>
+	</text>
+	<history>2005, cc. 497, 588, § 3.1-22.77; 2008, c. 860.</history>
+</law>

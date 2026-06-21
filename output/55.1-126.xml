@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="1" level="3">Creation and Limitation of Estates</unit>
+		<unit label="article" identifier="2" level="4">Rule Against Perpetuities</unit>
+	</structure>
+	<section_number>55.1-126</section_number>
+	<catch_line>Reformation</catch_line>
+	<text>
+		Upon the petition of an interested person, a circuit court in the county or city in which the affected property or the greater part of such property is located shall reform a disposition in the manner that most closely approximates the transferor's manifested plan of distribution and is within the 90 years allowed by subdivision A 2, B 2, or C 2 of § 55.1-124 if:
+		<section prefix="1">A nonvested property interest or a power of appointment becomes invalid under § 55.1-124;
+		</section>
+		<section prefix="2">A class gift is not but might become invalid under § 55.1-124 and the time has arrived when the share of any class member is to take effect in possession or enjoyment; or
+		</section>
+		<section prefix="3">A nonvested property interest that is not validated by subdivision A 1 of § 55.1-124 can vest but not within 90 years after its creation.
+		</section>
+	</text>
+	<history>2000, c. 714, § 55-12.3; 2019, c. 712.</history>
+</law>

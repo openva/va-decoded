@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="2" level="5">Electricity</unit>
+	</structure>
+	<section_number>45.2-814</section_number>
+	<catch_line> Inspection of electrical equipment and wiring; checking and testing methane monitors</catch_line>
+	<text>
+		<section prefix="A">Electrical equipment and wiring shall be inspected by a certified person at least weekly if it is located underground and at least monthly if it is located on the surface. Such equipment and wiring shall be inspected more often if doing so is necessary to ensure safe operating conditions. Any hazardous condition that is found shall be promptly corrected or the equipment or wiring shall be removed from service. Records of such inspections shall be maintained at the mine for a period of one year.
+		</section>
+		<section prefix="B">A functional check of methane monitors on electrical face equipment shall be conducted to determine whether such monitors are de-energizing the electrical face equipment properly. Such check shall be (i) made on each production shift, (ii) conducted by the equipment operator in the presence of a mine foreman, and (iii) recorded in the on-shift report of the mine foreman.
+		</section>
+		<section prefix="C">To determine the accuracy and operation of methane monitors on electrical face equipment, weekly calibration tests of such monitors shall be conducted with a known mixture of methane at the flow rate recommended by the methane monitor manufacturer. A record of the results shall be maintained.
+		</section>
+		<section prefix="D">Required methane monitors shall be maintained in permissible and proper operating condition.
+		</section>
+	</text>
+	<history>1966, c. 594, § 45.1-85; 1978, c. 118; 1993, c. 442; 1994, c. 28, § 45.1-161.195; 1996, c. 774; 1999, c. 256; 2005, c. 3; 2021, Sp. Sess. I, c. 387.</history>
+</law>

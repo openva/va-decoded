@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="37.1" level="2">Credit Life Insurance and Credit Accident and Sickness Insurance</unit>
+	</structure>
+	<section_number>38.2-3717</section_number>
+	<catch_line>Scope</catch_line>
+	<text>
+		All life insurance and all accident and sickness insurance issued or sold in connection with loans or other credit transactions shall be subject to the provisions of this chapter except:
+		<section prefix="1">Such insurance issued in connection with a loan or other credit transaction of more than ten years duration;
+		</section>
+		<section prefix="2">Such insurance written in connection with a credit transaction that is:
+			a. Secured by a first mortgage or deed of trust; and
+			b. Made to finance the purchase of real property or the construction of a dwelling thereon, or to refinance a prior credit transaction made for such a purpose;
+		</section>
+		<section prefix="3">Where the issuance of such insurance is an isolated transaction on the part of the insurer not related to an agreement or a plan for insuring debtors of the creditor.
+		</section>
+	</text>
+	<history>1960, c. 67, § 38.1-482.1; 1972, c. 527, § 38.2-3700; 1982, c. 223; 1986, c. 562; 1990, c. 236; 1992, c. 586.</history>
+</law>

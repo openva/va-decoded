@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3" level="2">Protection of Employees</unit>
+		<unit label="article" identifier="2" level="3">Pay; Assignment of Wages; Sale of Merchandise to Employees</unit>
+	</structure>
+	<section_number>40.1-33.2</section_number>
+	<catch_line>Discriminatory actions prohibited</catch_line>
+	<text>
+		<section prefix="A">An employer shall not discharge or in any other manner discriminate against an employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under § 40.1-29, or has testified or is about to testify in any such proceeding.
+		</section>
+		<section prefix="B">Any employee who is discharged or in any other manner discriminated against in a manner prohibited by this section may file a complaint with the Commissioner, and the Commissioner, with the written and signed consent of an employee, may institute proceedings on behalf of an employee for appropriate remedies for such action, including reinstatement of the employee and recovering lost wages and an additional amount equal to the lost wages as liquidated damages.
+		</section>
+	</text>
+	<history>2020, cc. 950, 951, § 40.1-33.1.</history>
+</law>

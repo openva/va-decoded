@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2A" level="1">Commercial Code — Leases</unit>
+		<unit label="part" identifier="5" level="2">Default</unit>
+		<unit label="article" identifier="C" level="3">Default by Lessee</unit>
+	</structure>
+	<section_number>8.2A-531</section_number>
+	<catch_line>Standing to sue third parties for injury to goods</catch_line>
+	<text>
+		<section prefix="1">If a third party so deals with goods that have been identified to a lease contract as to cause actionable injury to a party to the lease contract (a) the lessor has a right of action against the third party, and (b) the lessee also has a right of action against the third party if the lessee:
+			<section prefix="i">Has a security interest in the goods;
+				<section prefix="ii">Has an insurable interest in the goods; or
+				</section>
+				<section prefix="iii">Bears the risk of loss under the lease contract or has since the injury assumed that risk as against the lessor and the goods have been converted or destroyed.
+				</section>
+			</section>
+		</section>
+		<section prefix="2">If at the time of the injury the party plaintiff did not bear the risk of loss as against the other party to the lease contract and there is no arrangement between them for disposition of the recovery, his suit or settlement, subject to his own interest, is as a fiduciary for the other party to the lease contract.
+		</section>
+		<section prefix="3">Either party with the consent of the other may sue for the benefit of whom it may concern.
+		</section>
+	</text>
+	<history>1991, c. 536.</history>
+</law>

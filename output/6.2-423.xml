@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="4" level="3">Certain Lending Practices</unit>
+		<unit label="article" identifier="2" level="4">Loans Secured by Lien on Real Estate</unit>
+	</structure>
+	<section_number>6.2-423</section_number>
+	<catch_line>Prepayment of loans secured by certain subordinate mortgages or deeds of trust; rebates for unearned interest</catch_line>
+	<text>
+		<section prefix="A">Any borrower under any loan secured by a subordinate mortgage or deed of trust on residential real estate, which loan is subject to the provisions of § 6.2-327, shall have the right to anticipate payment of his debt in whole or in part at any time. If agreed to by the borrower, a lender may contract for a penalty for prepayment of the full amount of the loan if the prepayment penalty shall not exceed two percent of the principal amount prepaid, but no prepayment penalty shall be imposed if:
+			<section prefix="1">The loan is refinanced or consolidated with the same lender or a subsequent noteholder;
+			</section>
+			<section prefix="2">The loan is accelerated due to default;
+			</section>
+			<section prefix="3">A partial prepayment is made; or
+			</section>
+			<section prefix="4">In the case of an open-end credit plan, as defined in § 6.2-300, where there is a payment of the outstanding balance without a demand to release the subordinate deed of trust or mortgage.
+			</section>
+		</section>
+		<section prefix="B">If interest has been added to the face amount of a note payable in installments, the borrower shall have the right to a rebate of any unearned interest. On loans with an initial maturity and corresponding amortization period of 61 or fewer months that are payable in equal periodic installments, the rebate shall be computed in accordance with the Rule of 78 as illustrated in § 6.2-403. On loans with an initial maturity of more than 61 months, the rebate shall be computed under a method at least as favorable to the borrower as the actuarial method.
+		</section>
+		<section prefix="C">The provisions of this section shall not apply to any loan made by (i) a bank, savings institution, industrial loan association, or credit union or (ii) a seller in a real estate sales transaction who takes a subordinate mortgage or deed of trust on such real estate.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.85; 1990, c. 338; 1991, c. 171; 1998, c. 89; 2010, c. 794.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="35" level="2">Accident and Sickness Insurance Policies</unit>
+		<unit label="article" identifier="4" level="3">Industrial Sick Benefit Insurance</unit>
+	</structure>
+	<section_number>38.2-3546</section_number>
+	<catch_line>Cancellation of sick benefit portion of policy</catch_line>
+	<text>
+		Every policy of industrial sick benefit insurance issued in this Commonwealth after June 18, 1922, shall contain a provision that:
+		<section prefix="1">The sick benefit portion of the policy may be cancelled by either the insurer or the insured and the life portion continued by a payment of twenty percent of the original premium;
+		</section>
+		<section prefix="2">If the cancellation is by the insurer, it shall be without prejudice to any claim arising on account of disability commencing prior to the date on which the cancellation takes effect; and
+		</section>
+		<section prefix="3">Written notice of the cancellation and payment for the unearned portion of the premium shall be delivered to the insured or mailed to him at his last known address.
+		</section>
+	</text>
+	<history>Code 1950, § 38-359; 1952, c. 317, § 38.1-485; 1986, c. 562.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="2.2" level="3">Wells Near Certain Coal Ash Ponds</unit>
+	</structure>
+	<section_number>32.1-176.8:1</section_number>
+	<catch_line>Private well and public water supply well testing near coal ash ponds; monitoring</catch_line>
+	<text>
+		<section prefix="A">For each private well or public water supply well within 1.5 miles of any coal ash pond, the utility shall commission a well water test on or before July 1, 2021, on behalf of the owner of the well. The test shall be conducted by a company certified to perform such tests by the Virginia Environmental Laboratory Accreditation Program. The utility shall recommend a certified laboratory to perform the test, but the owner of the well may elect to have an independent certified laboratory perform the test. Such test shall, at a minimum, test for alkalinity (bicarbonate), alkalinity (carbonate), alkalinity (total), aluminum, antimony, arsenic, barium, beryllium, boron, cadmium, calcium, chloride, chromium (hexavalent), chromium (total), cobalt, copper, iron, lead, lithium, magnesium, manganese, mercury, molybdenum, nickel, potassium, radium (total alpha), radium-228, radium (radium-226 and radium-228 combined), selenium, sodium, strontium, sulfate, thallium, thorium, vanadium, zinc, and total dissolved solids. The utility shall pay the reasonable costs of such testing.
+		</section>
+		<section prefix="B">The utility shall commission a test as required by subsection A for each private well or public water supply well (i) once per year during each of the five years following the approval by DEQ of the closure of a coal ash pond and (ii) once every five years thereafter.
+		</section>
+		<section prefix="C">If any sampling, test, or water quality analysis conducted pursuant to the provisions of this section indicates that water from a private well or public water supply well exceeds any U.S. Environmental Protection Agency Maximum Contaminant Level for drinking water, the utility shall (i) within seven days of the receipt of test results, either replace the contaminated well with an alternate supply of potable drinking water or provide a treatment system for the contaminated well in order to render the water supply potable and (ii) within 90 days of the receipt of test results, either provide an alternate supply of water that is safe for other household uses or provide a treatment system for the contaminated well in order to render the water supply safe for other household uses. All costs associated with such provision of alternate supplies of water or treatment shall be borne by the utility. In lieu of providing an alternate supply of water or a treatment system pursuant to clause (i) or (ii) and to the extent service is available, the utility may elect to pay the costs of connecting the property owner to a water utility operated by a city or county.
+		</section>
+		<section prefix="D">The Department of Health and DEQ shall receive the results of the tests conducted pursuant to the provisions of this section.
+		</section>
+		<section prefix="E">Nothing in this section shall be construed to preclude or impair the right of any property owner to refuse the sampling or testing of any private well or public water supply well on his property. The requirements of this section are in addition to other applicable laws or regulations, and nothing in this section, including the requirement to commission testing or to treat or replace contaminated drinking water, shall preempt or preclude any additional legal action or remedy authorized by law.
+		</section>
+	</text>
+	<history>2020, c. 845.</history>
+</law>

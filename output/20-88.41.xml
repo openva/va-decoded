@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="4" level="3">Reconciliation of Two or More Orders</unit>
+	</structure>
+	<section_number>20-88.41</section_number>
+	<catch_line>Determination of controlling child support order</catch_line>
+	<text>
+		<section prefix="A">If a proceeding is brought under this chapter and only one tribunal has issued a child support order, the order of that tribunal controls and shall be so recognized.
+		</section>
+		<section prefix="B">If a proceeding is brought under this chapter, and two or more child support orders have been issued by tribunals of the Commonwealth or another state or foreign country with regard to the same obligor and same child, a tribunal of the Commonwealth having personal jurisdiction over both the obligor and individual obligee shall apply the following rules and by order shall determine which order controls and must be recognized:
+			<section prefix="1">If only one of the tribunals would have continuing, exclusive jurisdiction under this chapter, the order of that tribunal controls.
+			</section>
+			<section prefix="2">If more than one of the tribunals would have continuing, exclusive jurisdiction under this chapter, (i) an order issued by a tribunal in the current home state of the child controls, or (ii) if an order has not been issued in the current home state of the child, the order most recently issued controls.
+			</section>
+			<section prefix="3">If none of the tribunals would have continuing, exclusive jurisdiction under this chapter, a tribunal of the Commonwealth shall issue a child support order, which controls.
+			</section>
+		</section>
+		<section prefix="C">If two or more child support orders have been issued for the same obligor and same child, upon request of a party who is an individual or a support enforcement agency, a tribunal of the Commonwealth having personal jurisdiction over both the obligor and the obligee who is an individual shall determine which order controls under subsection B. The request may be filed with a registration for enforcement or registration for modification pursuant to Articles 8 (§ 20-88.66 et seq.) and 9 (§ 20-88.74 et seq.) or may be filed as a separate proceeding.
+		</section>
+		<section prefix="D">A request to determine which is the controlling order shall be accompanied by a copy of every child support order in effect and the applicable record of payments. The requesting party shall give notice of the request to each party whose rights may be affected by the determination.
+		</section>
+		<section prefix="E">The tribunal that issued the controlling order under subsection A, B or C has continuing jurisdiction to the extent provided in § 20-88.39 or 20-88.40.
+		</section>
+		<section prefix="F">A tribunal of the Commonwealth that determines by order which is the controlling order under subdivision B 1 or B 2 or under subsection C or that issues a new controlling order under subdivision B 3 shall state in that order:
+			<section prefix="1">The basis upon which the tribunal made its determination;
+			</section>
+			<section prefix="2">The amount of prospective support, if any; and
+			</section>
+			<section prefix="3">The total amount of consolidated arrears and accrued interest, if any, under all of the orders after all payments made are credited as provided by § 20-88.43.
+			</section>
+		</section>
+		<section prefix="G">Within 30 days after issuance of an order determining which is the controlling order, the party obtaining that order shall file a certified copy of it in each tribunal that had issued or registered an earlier order of child support. A party or support enforcement agency obtaining the order that fails to file a certified copy is subject to appropriate sanctions by a tribunal in which the issue of failure arises. The failure to file does not affect the validity or enforceability of the controlling order.
+		</section>
+		<section prefix="H">An order that has been determined to be the controlling order, or a judgment for consolidated arrears of support and interest, if any, made pursuant to this section shall be recognized in proceedings under this chapter.
+		</section>
+	</text>
+	<history>1994, c. 673; 1997, cc. 797, 897; 2005, c. 754; 2015, c. 727.</history>
+</law>

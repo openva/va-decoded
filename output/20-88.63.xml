@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="6" level="3">Establishment of Support Order or Determination of Parentage</unit>
+	</structure>
+	<section_number>20-88.63</section_number>
+	<catch_line>Establishment of support order</catch_line>
+	<text>
+		<section prefix="A">If a support order entitled to recognition under this chapter has not been issued, a responding tribunal of the Commonwealth with personal jurisdiction over the parties may issue a support order if (i) the individual seeking the order resides outside the Commonwealth or (ii) the support enforcement agency seeking the order is located outside the Commonwealth.
+		</section>
+		<section prefix="B">The tribunal may issue a temporary child support order if the tribunal determines that such an order is appropriate and the individual ordered to pay is:
+			<section prefix="1">A presumed father of the child;
+			</section>
+			<section prefix="2">Petitioning to have his paternity adjudicated;
+			</section>
+			<section prefix="3">Identified as the father of the child through genetic testing;
+			</section>
+			<section prefix="4">An alleged father who has declined to submit to genetic testing;
+			</section>
+			<section prefix="5">Shown by clear and convincing evidence to be the father of the child;
+			</section>
+			<section prefix="6">An acknowledged father as provided by applicable state law;
+			</section>
+			<section prefix="7">The mother of the child; or
+			</section>
+			<section prefix="8">An individual who has been ordered to pay child support in a previous proceeding and the order has not been reversed or vacated.
+			</section>
+		</section>
+		<section prefix="C">Upon finding, after notice and opportunity to be heard, that an obligor owes a duty of support, the tribunal shall issue a support order directed to the obligor and may issue other orders pursuant to § 20-88.48.
+		</section>
+	</text>
+	<history>1994, c. 673; 2005, c. 754; 2015, c. 727.</history>
+</law>

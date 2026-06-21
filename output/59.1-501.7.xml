@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>59.1-501.7</section_number>
+	<catch_line>Legal recognition of electronic record and authentication; use of electronic agents</catch_line>
+	<text>
+		<section prefix="a">A record or authentication may not be denied legal effect or enforceability solely because it is in electronic form.
+		</section>
+		<section prefix="b">This chapter does not require that a record or authentication be generated, stored, sent, received, or otherwise processed by electronic means or in electronic form.
+		</section>
+		<section prefix="c">In any transaction, a person may establish requirements regarding the type of authentication or record acceptable to that person.
+		</section>
+		<section prefix="d">A person using an electronic agent that he has selected for making an authentication, performance, or agreement, including manifestation of assent, is bound by the operations of the electronic agent, even if no individual was aware of or reviewed the agent's operations or the results of the operations.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

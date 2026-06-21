@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions</unit>
+	</structure>
+	<section_number>19.2-10.2</section_number>
+	<catch_line>Administrative subpoena issued for record from provider of electronic communication service or remote computing service</catch_line>
+	<text>
+		<section prefix="A">A provider of electronic communication service or remote computing service that is transacting or has transacted any business in the Commonwealth shall disclose a record or other information pertaining to a subscriber to or customer of such service, excluding the contents of electronic communications as required by § 19.2-70.3, to an attorney for the Commonwealth or the Attorney General pursuant to an administrative subpoena issued under this section.
+			<section prefix="1">In order to obtain such records or other information, the attorney for the Commonwealth or the Attorney General shall certify on the face of the subpoena that there is reason to believe that the records or other information being sought are relevant to a legitimate law-enforcement investigation concerning violations of §§ 18.2-47, 18.2-48, 18.2-49, 18.2-346, 18.2-346.01, 18.2-347, 18.2-348, 18.2-348.1, 18.2-349, 18.2-355, 18.2-356, 18.2-357, 18.2-374.1, and 18.2-374.1:1, former § 18.2-374.1:2, and § 18.2-374.3.
+			</section>
+			<section prefix="2">Upon written certification by the attorney for the Commonwealth or the Attorney General that there is a reason to believe that the victim is under the age of 18 and that notification or disclosure of the existence of the subpoena will endanger the life or physical safety of an individual, or lead to flight from prosecution, the destruction of or tampering with evidence, the intimidation of potential witnesses, or otherwise seriously jeopardize an investigation, the subpoena shall include a provision ordering the service provider not to notify or disclose the existence of the subpoena to another person, other than an attorney to obtain legal advice, for a period of 30 days after the date on which the service provider responds to the subpoena.
+			</section>
+			<section prefix="3">On a motion made promptly by the electronic communication service or remote computing service provider, a court of competent jurisdiction may quash or modify the administrative subpoena if the records or other information requested are unusually voluminous in nature or if compliance with the subpoena would otherwise cause an undue burden on the service provider.
+			</section>
+		</section>
+		<section prefix="B">All records or other information received by an attorney for the Commonwealth or the Attorney General pursuant to an administrative subpoena issued under this section shall be used only for a reasonable length of time not to exceed 30 days and only for a legitimate law-enforcement purpose. Upon completion of the investigation, the records or other information held by the attorney for the Commonwealth or the Attorney General shall be destroyed if no prosecution is initiated. The existence of such a subpoena shall be disclosed upon motion of an accused.
+		</section>
+		<section prefix="C">No cause of action shall lie in any court against an electronic communication service or remote computing service provider, its officers, employees, agents, or other specified persons for providing information, facilities, or assistance in accordance with the terms of an administrative subpoena issued under this section.
+		</section>
+		<section prefix="D">Records or other information pertaining to a subscriber to or customer of such service means name, address, local and long distance telephone connection records, or records of session times and durations, length of service, including start date, and types of service utilized, telephone or instrument number or other subscriber number or identity, including any temporarily assigned network address, and means and source of payment for such service.
+		</section>
+		<section prefix="E">Nothing in this section shall require the disclosure of information in violation of any federal law.
+		</section>
+	</text>
+	<history>2007, cc. 802, 814; 2014, c. 166; 2015, cc. 544, 625; 2019, c. 458; 2021, Sp. Sess. I, c. 188.</history>
+</law>

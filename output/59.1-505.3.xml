@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="5" level="3">Transfer of Interests and Rights</unit>
+	</structure>
+	<section_number>59.1-505.3</section_number>
+	<catch_line>Transfer of contractual interest</catch_line>
+	<text>
+		The following rules apply to a transfer of a contractual interest:
+		<section prefix="1">A party's contractual interest may be transferred unless the transfer:
+			<section prefix="A">is prohibited by other law; or
+			</section>
+			<section prefix="B">except as otherwise provided in paragraph (3), would materially change the duty of the other party, materially increase the burden or risk imposed on the other party, or materially impair the other party's property or its likelihood or expectation of obtaining return performance.
+			</section>
+		</section>
+		<section prefix="2">Except as otherwise provided in paragraph (3) and § 59.1-505.8 (a) (1) (B), a term prohibiting transfer of a party's contractual interest is enforceable, and a transfer made in violation of that term is a breach of contract and is ineffective to create contractual rights in the transferee against the nontransferring party, except to the extent that:
+			<section prefix="A">the contract is a license for incorporation or use of the licensed information or informational rights with information or informational rights from other sources in a combined work for public distribution or public performance and the transfer is of the completed, combined work;
+			</section>
+			<section prefix="B">the transfer is of a right to payment arising out of the transferor's due performance of less than its entire obligation and the transfer would be enforceable under paragraph (1) in the absence of the term prohibiting transfer; or
+			</section>
+			<section prefix="C">the term is in a mass-market license, the transfer is made along with a computer, and the transfer is a gift or a donation (i) to a public elementary or secondary school, (ii) to a public library, (iii) to an organization exempt from taxation under § 501(c) (3) of the Internal Revenue Code, or (iv) from a consumer to another consumer.
+			</section>
+			<section prefix="D">[Repealed.]
+			</section>
+		</section>
+		<section prefix="3">A right to damages for breach of the whole contract or a right to payment arising out of the transferor's due performance of its entire obligation may be transferred notwithstanding an agreement otherwise.
+		</section>
+		<section prefix="4">A term that prohibits transfer of a contractual interest under a mass-market license by the licensee must be conspicuous.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2001, cc. 762, 763; 2002, c. 403.</history>
+</law>

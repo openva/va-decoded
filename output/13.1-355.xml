@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="3" level="2">Cooperative Associations</unit>
+		<unit label="article" identifier="3" level="3">Worker Cooperatives</unit>
+	</structure>
+	<section_number>13.1-355</section_number>
+	<catch_line>Internal capital accounting</catch_line>
+	<text>
+		<section prefix="A">The entire net book value of a worker cooperative shall be reflected in internal capital accounts, one for each member, and a collective reserve account.
+		</section>
+		<section prefix="B">A worker cooperative shall credit the paid-in membership fee and additional paid-in capital of a member to the member's internal capital account and shall also record the apportionment of retained net earnings or net losses to the members in accordance with patronage by appropriately crediting or debiting the internal capital accounts of members. The collective reserve account in an internal capital account cooperative shall reflect any paid-in capital, net losses, and retained net earnings not allocated to individual members.
+		</section>
+		<section prefix="C">The balances in all the internal capital accounts and collective reserve account, if any, shall be adjusted at the end of each accounting period so that the sum of the balances is equal to the net book value of the worker cooperative.
+		</section>
+	</text>
+	<history>2020, c. 673.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="4" level="3">Mosquito Control Districts</unit>
+	</structure>
+	<section_number>32.1-189</section_number>
+	<catch_line>Mosquito control commission; composition; appointment of members</catch_line>
+	<text>
+		<section prefix="A">Each mosquito control district shall be administered by a commission of three members, one of whom shall be the Commissioner or his designee, except as provided for a consolidated city mosquito control commission in subsection B. The Commissioner or his designee shall serve as chairman of each such commission. Where a mosquito control district consists of territory wholly within one political subdivision, the governing body of that political subdivision shall appoint the other two members of the commission; where a mosquito control district shall consist of territory in two political subdivisions, the governing body of each such political subdivision shall appoint one member; and where any mosquito control district shall, by agreement between political subdivisions, consist of territory lying within more than two political subdivisions, the remaining two members of the commission for that district shall be appointed by the Commissioner from the residents of such district.
+		</section>
+		<section prefix="B">Notwithstanding the provisions of subsection A, in the event of consolidation of city mosquito control districts and commissions pursuant to § 32.1-188, such consolidated commission may consist of no more than fifteen commissioners, one of whom shall be the Commissioner or his designee who shall serve as the chairman of the consolidated city mosquito control commission.
+		</section>
+	</text>
+	<history>Code 1950, § 32-380; 1979, c. 711; 2002, cc. 224, 233.</history>
+</law>

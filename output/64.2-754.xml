@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="7" level="4">Office of Trustee</unit>
+	</structure>
+	<section_number>64.2-754</section_number>
+	<catch_line>Accepting or declining trusteeship</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection C, a person designated as trustee accepts the trusteeship:
+			<section prefix="1">By substantially complying with a method of acceptance provided in the terms of the trust; or
+			</section>
+			<section prefix="2">If the terms of the trust do not provide a method or the method provided in the terms is not expressly made exclusive, by accepting delivery of the trust property, exercising powers or performing duties as trustee, or otherwise indicating acceptance of the trusteeship.
+			</section>
+		</section>
+		<section prefix="B">A person designated as trustee who has not yet accepted the trusteeship may reject the trusteeship. A designated trustee who does not accept the trusteeship within a reasonable time after knowing of the designation is deemed to have rejected the trusteeship.
+		</section>
+		<section prefix="C">A person designated as trustee, without accepting the trusteeship, may:
+			<section prefix="1">Act to preserve the trust property if, within a reasonable time after acting, the person sends a rejection of the trusteeship to the settlor or, if the settlor is dead or lacks capacity, to a qualified beneficiary; and
+			</section>
+			<section prefix="2">Inspect or investigate trust property to determine potential liability under environmental or other law or for any other purpose.
+			</section>
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-547.01; 2012, c. 614.</history>
+</law>

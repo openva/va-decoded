@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="39" level="4">Virginia Human Rights Act</unit>
+	</structure>
+	<section_number>2.2-3906</section_number>
+	<catch_line>Civil action by Attorney General</catch_line>
+	<text>
+		<section prefix="A">Whenever the Attorney General has reasonable cause to believe that any person or group of persons is engaged in a pattern or practice of resistance to the full enjoyment of any of the rights granted by this chapter, or that any person or group of persons has been denied any of the rights granted by this chapter and such denial raises an issue of general public importance, the Attorney General may commence a civil action in the appropriate circuit court for appropriate relief.
+		</section>
+		<section prefix="B">In such civil action, the court may:
+			<section prefix="1">Award such preventive relief, including a permanent or temporary injunction, restraining order, or other order against the person responsible for a violation of this chapter, as is necessary to assure the full enjoyment of the rights granted by this chapter.
+			</section>
+			<section prefix="2">Assess a civil penalty against the respondent (i) in an amount not exceeding $50,000 for a first violation and (ii) in an amount not exceeding $100,000 for any subsequent violation. Such civil penalties are payable to the Literary Fund.
+			</section>
+			<section prefix="3">Award a prevailing plaintiff reasonable attorney fees and costs.
+			</section>
+		</section>
+		<section prefix="C">The court or jury may award such other relief to the aggrieved person as the court deems appropriate, including compensatory damages and punitive damages.
+		</section>
+		<section prefix="D">Upon timely application, any person may intervene in a civil action commenced by the Attorney General under subsection A that involves an alleged discriminatory practice pursuant to this chapter with respect to which such person is an aggrieved person. The court may grant such appropriate relief to any such intervening party as is authorized to be granted to a plaintiff in a civil action under § 2.2-3908.
+		</section>
+	</text>
+	<history>2020, c. 1140.</history>
+</law>

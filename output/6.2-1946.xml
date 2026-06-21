@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="19.1" level="3">Money Transmitters</unit>
+	</structure>
+	<section_number>6.2-1946</section_number>
+	<catch_line>(Effective July 1, 2026) Refunds</catch_line>
+	<text>
+		<section prefix="A">Every licensee shall refund to the sender within 10 days of receipt of the sender's written request for a refund of any or all money received for transmission unless any of the following occurs:
+			<section prefix="1">The money has been forwarded within 10 days of the date on which the money was received for transmission;
+			</section>
+			<section prefix="2">Instructions have been given committing an equivalent amount of money to the person designated by the sender within 10 days of the date on which the money was received for transmission;
+			</section>
+			<section prefix="3">The agreement between the licensee and the sender instructs the licensee to forward the money at a time that is beyond 10 days of the date on which the money was received for transmission. If funds have not yet been forwarded in accordance with the terms of the agreement between the licensee and the sender, the licensee shall issue a refund in accordance with the other provisions of this section;
+			</section>
+			<section prefix="4">The refund is requested for a transaction that the licensee has not completed based on a reasonable belief or a reasonable basis to believe that a crime or violation of law or regulation has occurred, is occurring, or may occur; or
+			</section>
+			<section prefix="5">The refund request does not enable the licensee to identify (i) the sender's name and the sender's address or telephone number or (ii) the particular transaction to be refunded in the event the sender has multiple transactions outstanding.
+			</section>
+		</section>
+		<section prefix="B">The provisions of subsection A shall not apply to (i) money received for transmission subject to the federal Remittance Rule (12 C.F.R. Part 1005, Subpart B) or (ii) money received for transmission pursuant to a written agreement between the licensee and payee to process payments for goods or services provided by the payee.
+		</section>
+	</text>
+	<history>2025, c. 214.</history>
+</law>

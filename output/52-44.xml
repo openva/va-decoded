@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="52" level="1">Police (State)</unit>
+		<unit label="chapter" identifier="9" level="2">Insurance Fraud</unit>
+	</structure>
+	<section_number>52-44</section_number>
+	<catch_line>Other law-enforcement authority</catch_line>
+	<text>
+		This chapter shall not:
+		<section prefix="1">Preempt the authority or relieve the duty of any law-enforcement agencies to investigate, examine, and prosecute suspected violations of law.
+		</section>
+		<section prefix="2">Limit any of the powers granted elsewhere by the laws of this Commonwealth to the Commission to investigate and examine possible violations of law and to take appropriate action.
+		</section>
+	</text>
+	<history>1998, c. 590.</history>
+</law>

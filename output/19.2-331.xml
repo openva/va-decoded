@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="20" level="2">Taxation and Allowance of Costs</unit>
+	</structure>
+	<section_number>19.2-331</section_number>
+	<catch_line>When Commonwealth pays witnesses in case of misdemeanor</catch_line>
+	<text>
+		Payment shall not be made out of the state treasury to a witness attending for the Commonwealth in any prosecution for a misdemeanor unless it appears that the sum to which the witness is entitled cannot be obtained:
+		<section prefix="1">If it be a case wherein there is a prosecutor and the defendant is convicted, by reason of the insolvency of the defendant, or
+		</section>
+		<section prefix="2">If it be a case in which there is no prosecutor, by reason of the acquittal or insolvency of the defendant or other cause.
+		</section>
+	</text>
+	<history>Code 1950, § 19.1-314; 1960, c. 366; 1975, c. 495.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="6" level="2">Insurance Information and Privacy Protection</unit>
+		<unit label="article" identifier="1" level="3">Collection, Use, and Dissemination of Information</unit>
+	</structure>
+	<section_number>38.2-607</section_number>
+	<catch_line>Investigative consumer reports</catch_line>
+	<text>
+		<section prefix="A">No insurance institution, agent, or insurance-support organization may prepare or request an investigative consumer report about an individual in connection with an insurance transaction involving an application for insurance, a policy renewal, a policy reinstatement or a change in insurance benefits unless the insurance institution or agent informs the individual:
+			<section prefix="1">That he may request to be interviewed in connection with the preparation of the investigative consumer report; and
+			</section>
+			<section prefix="2">That upon a request pursuant to § 38.2-608, he is entitled to receive a copy of the investigative consumer report.
+			</section>
+		</section>
+		<section prefix="B">If an investigative consumer report is to be prepared by an insurance institution or agent, the insurance institution or agent shall institute reasonable procedures to conduct a personal interview requested by an individual.
+		</section>
+		<section prefix="C">If an investigative consumer report is to be prepared by an insurance-support organization, the insurance institution or agent desiring the report shall inform the insurance-support organization whether a personal interview has been requested by the individual. The insurance-support organization shall institute reasonable procedures to conduct such interviews, if requested.
+		</section>
+	</text>
+	<history>1981, c. 389, § 38.1-57.10; 1986, c. 562.</history>
+</law>

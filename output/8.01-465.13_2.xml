@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="17.2" level="2">Uniform Foreign-Country Money Judgments Recognition Act</unit>
+	</structure>
+	<section_number>8.01-465.13:2</section_number>
+	<catch_line>Applicability</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection B, this chapter applies to a foreign-country judgment to the extent that the judgment:
+			<section prefix="1">Grants or denies recovery of a sum of money; and
+			</section>
+			<section prefix="2">Under the law of the foreign country where rendered, is final, conclusive, and enforceable.
+			</section>
+		</section>
+		<section prefix="B">This chapter does not apply to a foreign-country judgment, even if the judgment grants or denies recovery of a sum of money, to the extent that the judgment is:
+			<section prefix="1">A judgment for taxes;
+			</section>
+			<section prefix="2">A fine or other penalty; or
+			</section>
+			<section prefix="3">A judgment for divorce, support, or maintenance, or other judgment rendered in connection with domestic relations.
+			</section>
+		</section>
+		<section prefix="C">A party seeking recognition of a foreign-country judgment has the burden of establishing that this chapter applies to the foreign-country judgment.
+		</section>
+	</text>
+	<history>2014, c. 462.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="13" level="3">Air Pollution Control Board</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>10.1-1307.02</section_number>
+	<catch_line>Permit for generation of electricity during ISO-declared emergency</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Emergency generation source" means a stationary internal combustion engine that operates according to the procedures in the ISO's emergency operations manual during an ISO-declared emergency.
+			"ISO-declared emergency" means a condition that exists when the independent system operator, as defined in § 56-576, notifies electric utilities that an emergency exists or may occur and that complies with the definition of "emergency" adopted by the Board pursuant to subsection B.
+			"Retail customer" has the same meaning ascribed thereto in § 56-576.
+		</section>
+		<section prefix="B">The Board shall adopt a general permit regulation for the use of back-up generation to authorize the construction, installation, reconstruction, modification, and operation of emergency generation sources during ISO-declared emergencies. Such general permit regulation shall include a definition of "emergency" that is compatible with the ISO's emergency operations manual. After adoption of such general permit regulation, any amendments to the Board's regulations necessary to carry out the provisions of this section shall be exempt from Article 2 (§ 2.2-4006 et seq.) of the Administrative Process Act.
+		</section>
+	</text>
+	<history>2009, cc. 752, 855; 2022, c. 356.</history>
+</law>

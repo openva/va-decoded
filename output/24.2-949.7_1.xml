@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="9.3" level="2">Campaign Finance Disclosure Act of 2006</unit>
+		<unit label="article" identifier="4" level="3">Political Action Committees</unit>
+	</structure>
+	<section_number>24.2-949.7:1</section_number>
+	<catch_line>Special report required of certain large pre-election expenditures</catch_line>
+	<text>
+		<section prefix="A">Any contribution or expenditure reported pursuant to this section shall also be reported on the first report required by this article after any election.
+		</section>
+		<section prefix="B">Political action committees shall report any single contribution received or expenditure made of $1,000 or more between May 26 and the third Tuesday in June in odd-numbered years. Such contribution or expenditure shall be reported electronically pursuant to § 24.2-946.1, and the report shall be received by the State Board by 11:59 p.m. on the following day or, for a contribution received or expenditure made on a Saturday, by 11:59 p.m. on the following Monday. However, any such contribution received or expenditure made within the 24 hours prior to the third Tuesday in June shall be reported and a report thereof received on the day prior to the third Tuesday in June.
+		</section>
+		<section prefix="C">Political action committees shall report any single contribution received or expenditure made of $1,000 or more between October 8 and the date of the November general election. Such contribution or expenditure shall be reported electronically pursuant to § 24.2-946.1, and the report shall be received by the State Board by 11:59 p.m. on the following day or, for a contribution received or expenditure made on a Saturday, by 11:59 p.m. on the following Monday. However, any such contribution received or expenditure made within the 24 hours prior to the election day shall be reported and a report thereof received on the day prior to the election.
+		</section>
+	</text>
+	<history>2023, c. 764.</history>
+</law>

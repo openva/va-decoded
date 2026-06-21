@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="4.1" level="1">Alcoholic Beverage and Cannabis Control</unit>
+		<unit label="subtitle" identifier="I" level="2">Alcoholic Beverage Control Act</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+	</structure>
+	<section_number>4.1-110</section_number>
+	<catch_line>Purchase orders of Board for alcoholic beverages</catch_line>
+	<text>
+		<section prefix="A">Every order of the Board for the purchase of alcoholic beverages shall be authenticated by the chairman or by a member or agent of the Board, authorized by the Board to authenticate such orders. No order shall be binding unless so authenticated.
+		</section>
+		<section prefix="B">A duplicate of every such order shall be kept on file in the office of the Board in accordance with retention regulations established pursuant to the Virginia Public Records Act (§ 42.1-76 et seq.).
+		</section>
+		<section prefix="C">All cancellations of orders made by the Board shall be authenticated in the same manner and a duplicate kept as required by subsection B.
+		</section>
+	</text>
+	<history>Code 1950, § 4-17; 1972, c. 138; 1984, c. 469; 1993, c. 866.</history>
+</law>

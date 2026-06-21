@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="15" level="2">Rehabilitation and Liquidation of Insurers</unit>
+	</structure>
+	<section_number>38.2-1501</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter:
+		"Actual direct compensatory damages" does not include punitive damages, damages for lost profit or lost opportunity, or damages for pain and suffering, but does include normal and reasonable costs of cover or other reasonable measures of damages utilized in the derivatives, securities, or other market for the contract and agreement claims.
+		"Association" means the Virginia Property and Casualty Insurance Guaranty Association created by Chapter 16 (§ 38.2-1600 et seq.) or the Virginia Life, Accident and Sickness Insurance Guaranty Association created by Chapter 17 (§ 38.2-1700 et seq.) or any person performing a similar function in another state.
+		"Commodity contract" means:
+		<section prefix="1">A contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a board of trade or contract market under the Commodity Exchange Act (7 U.S.C. § 1 et seq.) or a board of trade outside the United States;
+		</section>
+		<section prefix="2">An agreement that is subject to regulation under § 19 of the Commodity Exchange Act (7 U.S.C. § 1 et seq.) and that is commonly known to the commodities trade as a margin account, margin contract, leverage account, or leverage contract;
+		</section>
+		<section prefix="3">An agreement or transaction that is subject to regulation under § 4c(b) of the Commodity Exchange Act (7 U.S.C. § 1 et seq.) and that is commonly known to the commodities trade as a commodity option;
+		</section>
+		<section prefix="4">Any combination of the agreements or transactions referred to in this definition; or
+		</section>
+		<section prefix="5">Any option to enter into an agreement or transaction referred to in this definition.
+			"Contractual right" as used in § 38.2-1522 includes any right set forth in a rule or bylaw of a derivatives clearing organization as defined in the Commodity Exchange Act, a multilateral clearing organization as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991, a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodities Exchange Act, or a board of trade as defined in the Commodity Exchange Act, or in a resolution of the governing board thereof and any right, whether or not evidenced in writing, arising under statutory or common law, under law merchant, or by reason of normal business practice.
+			"Delinquency proceeding" means any proceeding commenced against an insurance company for the purpose of liquidating, rehabilitating, reorganizing, or conserving an insurer.
+			"Forward contract," "repurchase agreement," "securities contract," and "swap agreement" have the meanings set forth with respect thereto in 12 U.S.C. § 1821(e)(8)(D), as amended.
+			"Insolvent" means (i) the condition of an insurer that has liabilities in excess of assets or (ii) the inability of an insurer to pay its obligations as they become due in the usual course of business.
+			"Netting agreement" means:
+		</section>
+		<section prefix="1">A contract or agreement, including terms and conditions incorporated by reference in it, including a master agreement, which master agreement, together with all schedules, confirmations, definitions, and addenda to it and transactions under any of them, shall be treated as one netting agreement, that documents one or more transactions between the parties to the agreement for or involving one or more qualified financial contracts and that provides for the netting, liquidation, setoff, termination, acceleration, or close-out, under or in connection with one or more qualified financial contracts or present or future payment or delivery obligations or payment or delivery entitlements under it, including liquidation or close-out values relating to those obligations or entitlements, among the parties to the netting agreement;
+		</section>
+		<section prefix="2">Any master agreement or bridge agreement for one or more master agreements described in subdivision 1 of this definition; or
+		</section>
+		<section prefix="3">Any security agreement or arrangement or other credit enhancement or guarantee or reimbursement obligation related to any contract or agreement described in subdivision 1 or 2 of this definition, provided that any contract or agreement described in subdivision 1 or 2 of this definition relating to agreements or transactions that are not qualified financial contracts shall be deemed to be a netting agreement only with respect to those agreements or transactions that are qualified financial contracts.
+			"Qualified financial contract" means any commodity contract, forward contract, repurchase agreement, securities contract, swap agreement, or any similar agreement that the Commission determines to be a qualified financial contract for the purposes of this chapter.
+			"Receiver" means the Commission or any person appointed to manage delinquency proceedings.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-127; 1986, c. 562; 2011, c. 198; 2015, c. 710.</history>
+</law>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="4" level="3">Wills</unit>
+		<unit label="article" identifier="3" level="4">Construction and Effect</unit>
+	</structure>
+	<section_number>64.2-416</section_number>
+	<catch_line>Devises, bequests, and distributions that fail; how to pass</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section, the terms "revocable," "settlor," "trust instrument," and "trustee" have the same meanings as provided in § 64.2-701.
+		</section>
+		<section prefix="B">Unless a contrary intention appears in the will or trust instrument, and except as provided in § 64.2-418:
+			<section prefix="1">If a devise, bequest, or distribution other than a residuary devise, bequest, or distribution fails for any reason, it shall become a part of the residue; and
+			</section>
+			<section prefix="2">If the residue is devised, bequeathed, or otherwise required to be distributed to two or more persons and the share of one fails for any reason, such share shall pass to the other residuary devisees, legatees, or beneficiaries in proportion to their interests in the residue.
+			</section>
+		</section>
+		<section prefix="C">Notwithstanding the provisions of §§ 64.2-2604 and 64.2-2605 and unless a contrary intention appears in the will, if a testator makes a bequest, not exceeding the value of $100, to a legatee and such legatee refuses to take possession of such bequest, then the bequest shall fail and becomes a part of the residue of the testator's estate.
+		</section>
+		<section prefix="D">Subsection B applies to trusts and trust provisions only to the extent the trust instrument or provision is revocable immediately before the settlor's death on or after July 1, 2018, and the devise, bequest, or distribution occurs by reason of the settlor's death.
+		</section>
+	</text>
+	<history>1985, c. 592, § 64.1-65.1; 2003, c. 253; 2012, c. 614; 2014, c. 532; 2018, c. 44.</history>
+</law>

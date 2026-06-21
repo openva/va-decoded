@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="13" level="2">Virginia Professional Limited Liability Company Act</unit>
+	</structure>
+	<section_number>13.1-1101.1</section_number>
+	<catch_line>Practice of certain professions by limited liability companies</catch_line>
+	<text>
+		Unless otherwise prohibited by law or regulation, the professional services defined in subsection A of § 13.1-1102 may be rendered in this Commonwealth by:
+		<section prefix="1">A limited liability company organized as a professional limited liability company pursuant to the provisions of this chapter;
+		</section>
+		<section prefix="2">A foreign limited liability company that has obtained a certificate of authority pursuant to the provisions of this chapter;
+		</section>
+		<section prefix="3">A limited liability company organized pursuant to the provisions of Chapter 12 (§ 13.1-1000 et seq.) of this title; or
+		</section>
+		<section prefix="4">A foreign limited liability company that has obtained a certificate of authority pursuant to the provisions of Chapter 12 (§ 13.1-1000 et seq.) of this title.
+		</section>
+	</text>
+	<history>2003, c. 678.</history>
+</law>

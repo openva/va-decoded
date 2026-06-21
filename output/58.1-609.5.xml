@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="6" level="3">Retail Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-609.5</section_number>
+	<catch_line>Service exemptions</catch_line>
+	<text>
+		The tax imposed by this chapter or pursuant to the authority granted in § 58.1-605 or 58.1-606 shall not apply to the following:
+		<section prefix="1">Professional, insurance, or personal service transactions which involve sales as inconsequential elements for which no separate charges are made; services rendered by repairmen for which a separate charge is made; and services not involving an exchange of tangible personal property which provide access to or use of the Internet and any other related electronic communication service, including software, data, content and other information services delivered electronically via the Internet.
+		</section>
+		<section prefix="2">An amount separately charged for labor or services rendered in installing, applying, remodeling, or repairing property sold or rented.
+		</section>
+		<section prefix="3">Transportation charges separately stated.
+		</section>
+		<section prefix="4">Separately stated charges for alterations to apparel, clothing and garments.
+		</section>
+		<section prefix="5">Charges for gift wrapping services performed by a nonprofit organization.
+		</section>
+		<section prefix="6">An amount separately charged for labor or services rendered in connection with the modification of prewritten programs as defined in § 58.1-602.
+		</section>
+		<section prefix="7">Custom programs as defined in § 58.1-602.
+		</section>
+		<section prefix="8">An amount separately charged for labor rendered in connection with diagnostic work for automotive repair and emergency roadside service for motor vehicles, as defined by § 46.2-100, regardless of whether there is a sale of a repair or replacement part or a shop supply charge.
+		</section>
+		<section prefix="9">The sale or charges for any room or rooms, lodgings, or accommodations furnished to transients for more than 90 continuous days by any hotel, motel, inn, tourist camp, tourist cabin, camping grounds, club, or any other place in which rooms, lodging, space or accommodations are regularly furnished to transients for a consideration.
+		</section>
+		<section prefix="10">Beginning January 1, 1996, maintenance contracts, the terms of which provide for both repair or replacement parts and repair labor, shall be subject to tax upon one-half of the total charge for such contracts only. Persons providing maintenance pursuant to such a contract may purchase repair or replacement parts under a resale certificate of exemption. Warranty plans issued by an insurance company, which constitute insurance transactions, are subject to the provisions of subdivision 1 above.
+		</section>
+	</text>
+	<history>1993, c. 310; 1994, c. 595; 1998, c. 481; 2004, c. 607; 2006, c. 474; 2013, c. 90; 2023, c. 35.</history>
+</law>

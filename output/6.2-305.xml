@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="3" level="3">Interest and Usury</unit>
+		<unit label="article" identifier="3" level="4">Usury</unit>
+	</structure>
+	<section_number>6.2-305</section_number>
+	<catch_line>Recovery of twice total usurious interest paid; limitation of action; injunction to prevent sale of property pending action; effect of errors in computation</catch_line>
+	<text>
+		<section prefix="A">If interest in excess of that permitted by an applicable statute is paid upon any loan, the person paying may bring an action within two years from the first to occur of: (i) the date of the last scheduled loan payment or (ii) the date of payment of the loan in full, to recover from the person taking or receiving such payments:
+			<section prefix="1">The total amount of the interest paid to such person in excess of that permitted by the applicable statute;
+			</section>
+			<section prefix="2">Twice the total amount of interest paid to such person during the two years immediately preceding the date of the filing of the action; and
+			</section>
+			<section prefix="3">Court costs and reasonable attorney fees.
+			</section>
+		</section>
+		<section prefix="B">If the sale of property in which an interest has been conveyed to secure the payment of the debt is scheduled or anticipated, an injunction may be granted to prevent such sale pending the completion of an action brought pursuant to subsection A.
+		</section>
+		<section prefix="C">Any creditor who proves that interest or other charges in excess of those permitted by law were imposed or collected as a result of a bona fide error in computation or similar mistake shall not be liable for the penalties prescribed in this section. In such event, the creditor shall only be liable to return to the borrower the amount of interest or other charges collected in excess of the amount permitted by applicable statute.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.57; 2010, c. 794.</history>
+</law>

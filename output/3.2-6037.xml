@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="V" level="2">Domestic Animals</unit>
+		<unit label="chapter" identifier="60" level="3">Livestock and Poultry</unit>
+		<unit label="article" identifier="4" level="4">Shooting Enclosures</unit>
+	</structure>
+	<section_number>3.2-6037</section_number>
+	<catch_line>Grounds for denial, suspension, or revocation of license</catch_line>
+	<text>
+		The Department may deny, suspend, or revoke a license to operate a shooting enclosure, if the:
+		<section prefix="1">Applicant for a license does not own or lease the land that will be used for the shooting enclosure;
+		</section>
+		<section prefix="2">Applicant for a license does not meet local zoning and land-use requirements;
+		</section>
+		<section prefix="3">Operation of the shooting enclosure poses a threat to the health of humans, wildlife, or livestock;
+		</section>
+		<section prefix="4">Operation of the enclosure poses a threat of harm to: (i) wildlife species, whether native or naturalized; (ii) agricultural practices; or (iii) livestock;
+		</section>
+		<section prefix="5">Shooting enclosure is constructed or maintained in such a way that animals being held may escape; or
+		</section>
+		<section prefix="6">Applicant for a license or the licensee fails to meet any requirement of this article or regulations adopted pursuant thereto.
+		</section>
+	</text>
+	<history>1995, c. 822, § 3.1-763.5:3; 2008, c. 860.</history>
+</law>

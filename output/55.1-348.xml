@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="3" level="3">Form and Effect of Deeds and Covenants; Liens</unit>
+		<unit label="article" identifier="3" level="4">Satisfaction of Security Interest in Real Property</unit>
+	</structure>
+	<section_number>55.1-348</section_number>
+	<catch_line>Document of rescission; effect; liability for wrongful recording</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "document of rescission" means a document stating that an identified satisfaction, certificate of satisfaction, or affidavit of satisfaction of a security instrument was recorded erroneously or fraudulently, the secured obligation remains unsatisfied, and the security instrument remains in force.
+		</section>
+		<section prefix="B">If a person records a satisfaction, certificate of satisfaction, or affidavit of satisfaction of a security instrument in error or by fraud, the person may execute and record a document of rescission. Upon recording, the document rescinds an erroneously recorded satisfaction, certificate, or affidavit.
+		</section>
+		<section prefix="C">A recorded document of rescission has no effect on the rights of a person who:
+			<section prefix="1">Acquired an interest in the real property described in a security instrument after the recording of the satisfaction, certificate of satisfaction, or affidavit of satisfaction of the security instrument and before the recording of the document of rescission; and
+			</section>
+			<section prefix="2">Would otherwise have priority over or take free of the lien created by the security instrument under the laws of the Commonwealth.
+			</section>
+		</section>
+		<section prefix="D">A person, other than the clerk of the circuit court or any of his employees or other governmental official in the course of the performance of his recordation duties, who erroneously, fraudulently, or wrongfully records a document of rescission is subject to liability under § 55.1-339.
+		</section>
+	</text>
+	<history>2006, c. 907, § 55-66.10; 2019, c. 712.</history>
+</law>

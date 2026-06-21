@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.2" level="4">Uniform Directed Trust Act</unit>
+	</structure>
+	<section_number>64.2-779.28</section_number>
+	<catch_line>Exclusions</catch_line>
+	<text>
+		<section prefix="A">This article does not apply to a:
+			<section prefix="1">Power of appointment;
+			</section>
+			<section prefix="2">Power to appoint or remove a trustee or trust director;
+			</section>
+			<section prefix="3">Power of a settlor over a trust to the extent the settlor has a power to revoke the trust;
+			</section>
+			<section prefix="4">Power of a beneficiary over a trust to the extent the exercise or nonexercise of the power affects the beneficial interest of:
+				a. The beneficiary; or
+				b. Another beneficiary represented by the beneficiary under Article 3 (§ 64.2-714 et seq.) with respect to the exercise or nonexercise of the power;
+			</section>
+			<section prefix="5">Power over a trust if:
+				a. The terms of the trust provide that the power is held in a nonfiduciary capacity; and
+				b. The power must be held in a nonfiduciary capacity to achieve the settlor's tax objectives under the United States Internal Revenue Code; or
+			</section>
+			<section prefix="6">Power over a trust if the terms of the trust provide that the Uniform Directed Trust Act does not apply to the trust.
+			</section>
+		</section>
+		<section prefix="B">Unless the terms of a trust provide otherwise, a power granted to a person to designate a recipient of an ownership interest in or power of appointment over trust property which is exercisable while the person is not serving as a trustee is a power of appointment and not a power of direction.
+		</section>
+	</text>
+	<history>2020, c. 768.</history>
+</law>

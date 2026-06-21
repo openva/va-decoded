@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="1" level="2">General Provisions and Definitions</unit>
+	</structure>
+	<section_number>8.3A-113</section_number>
+	<catch_line>Date of instrument</catch_line>
+	<text>
+		<section prefix="a">An instrument may be antedated or postdated. The date stated determines the time of payment if the instrument is payable at a fixed period after date. Except as provided in § 8.4-401 (c), an instrument payable on demand is not payable before the date of the instrument.
+		</section>
+		<section prefix="b">If an instrument is undated, its date is the date of its issue or, in the case of an unissued instrument, the date it first comes into possession of a holder.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-358, 6-363, 6-364, 3-369; 1964, c. 219, § 8.3-114; 1992, c. 693.</history>
+</law>

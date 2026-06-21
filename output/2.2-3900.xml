@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="39" level="4">Virginia Human Rights Act</unit>
+	</structure>
+	<section_number>2.2-3900</section_number>
+	<catch_line>Short title; declaration of policy</catch_line>
+	<text>
+		<section prefix="A">This chapter shall be known and cited as the Virginia Human Rights Act.
+		</section>
+		<section prefix="B">It is the policy of the Commonwealth to:
+			<section prefix="1">Safeguard all individuals within the Commonwealth from unlawful discrimination because of race, color, religion, ethnic or national origin, sex, pregnancy, childbirth or related medical conditions, age, marital status, sexual orientation, gender identity, military status, or disability in places of public accommodation, including educational institutions and in real estate transactions;
+			</section>
+			<section prefix="2">Safeguard all individuals within the Commonwealth from unlawful discrimination in employment because of race, color, religion, ethnic or national origin, sex, pregnancy, childbirth or related medical conditions, age, marital status, sexual orientation, gender identity, disability, or military status;
+			</section>
+			<section prefix="3">Preserve the public safety, health, and general welfare;
+			</section>
+			<section prefix="4">Further the interests, rights, and privileges of individuals within the Commonwealth; and
+			</section>
+			<section prefix="5">Protect citizens of the Commonwealth against unfounded charges of unlawful discrimination.
+			</section>
+		</section>
+	</text>
+	<history>1987, c. 581, §§ 2.1-714, 2.1-715; 1997, c. 404; 2001, c. 844; 2020, cc. 1137, 1140; 2021, Sp. Sess. I, cc. 477, 478; 2024, cc. 266, 334.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="18" level="2">Sentence; Judgment; Execution of Sentence</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>19.2-303.6</section_number>
+	<catch_line>Deferred disposition in a criminal case; persons with autism or intellectual disabilities</catch_line>
+	<text>
+		<section prefix="A">In any criminal case, except a violation of § 18.2-31, an act of violence as defined in § 19.2-297.1, or any crime for which a deferred disposition is provided for by statute, upon a plea of guilty, or after a plea of not guilty, and the facts found by the court would justify a finding of guilt, the court may, if the defendant has been diagnosed by a psychiatrist or clinical psychologist with (i) an autism spectrum disorder as defined in the most recent edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association or (ii) an intellectual disability as defined in § 37.2-100 and the court finds by clear and convincing evidence that the criminal conduct was caused by or had a direct and substantial relationship to the person's disorder or disability, without entering a judgment of guilt and with the consent of the accused, after giving due consideration to the position of the attorney for the Commonwealth and the views of the victim, defer further proceedings and place the accused on probation subject to terms and conditions set by the court. Upon violation of a term or condition, the court may enter an adjudication of guilt; or upon fulfillment of the terms and conditions, the court may discharge the person and dismiss the proceedings against him without an adjudication of guilt. This section shall not limit the authority of any juvenile and domestic relations court granted to it in Title 16.1.
+		</section>
+		<section prefix="B">Deferred disposition shall be available to the defendant even though he has previously been convicted of a criminal offense, been adjudicated delinquent as a juvenile, or had proceedings deferred and dismissed under this section or under any other provision of law, unless, after having considered the position of the attorney for the Commonwealth, the views of the victims, and any evidence offered by the defendant, the court finds that deferred disposition is inconsistent with the interests of justice.
+		</section>
+	</text>
+	<history>2020, c. 1004.</history>
+</law>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="33" level="2">Commission on Unemployment Compensation</unit>
+	</structure>
+	<section_number>30-222</section_number>
+	<catch_line>Powers and duties of the Commission</catch_line>
+	<text>
+		<section prefix="A">The Commission shall have the following powers and duties:
+			<section prefix="1">Evaluate the impact of existing statutes and proposed legislation on unemployment compensation and the Unemployment Trust Fund;
+			</section>
+			<section prefix="2">Assess the Commonwealth's unemployment compensation programs and examine ways to enhance effectiveness;
+			</section>
+			<section prefix="3">Monitor the current status and long-term projections for the Unemployment Trust Fund; and
+			</section>
+			<section prefix="4">Report annually its findings and recommendations to the General Assembly and the Governor.
+			</section>
+		</section>
+		<section prefix="B">The Commission shall also be responsible for monitoring the Virginia Employment Commission's management of the Commonwealth's unemployment insurance system by monitoring the Virginia Employment Commission's following operations:
+			<section prefix="1">Key performance metrics related to unemployment insurance backlogs;
+			</section>
+			<section prefix="2">Efforts to identify, prevent, and recover incorrect unemployment insurance benefit payments, including fraudulent payments;
+			</section>
+			<section prefix="3">Modernization of the unemployment insurance information technology system and subsequent efforts to improve functionality;
+			</section>
+			<section prefix="4">Expenditures of state funds appropriated for unemployment insurance administration; and
+			</section>
+			<section prefix="5">Implementation of recommendations from the 2021 Operations and Performance of the Virginia Employment Commission report by the Joint Legislative Audit and Review Commission.
+			</section>
+		</section>
+		<section prefix="C">The Commission shall periodically convene an advisory committee composed of an employer representative, an employee representative, a labor economist, a finance expert, a labor law expert, and any other stakeholders or subject matter experts deemed appropriate by the Commission for the following purposes: (i) to review UI benefits, replacement ratios, and recipiency rates; (ii) to identify factors that affect UI benefits and recipiency, such as design of UI benefit calculations or UI eligibility criteria; (iii) to assess the advantages and disadvantages of potential changes to benefits; and (iv) to recommend to the Commission options to change benefit levels when needed. This advisory committee shall be established by December 1, 2022, and shall be convened at least every five years thereafter.
+		</section>
+	</text>
+	<history>2003, c. 1038; 2022, cc. 716, 754; 2025, c. 592.</history>
+</law>

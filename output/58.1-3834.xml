@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="III" level="2">Local Taxes</unit>
+		<unit label="chapter" identifier="38" level="3">Miscellaneous Taxes</unit>
+		<unit label="article" identifier="7.1" level="4">Food and Beverage Tax</unit>
+	</structure>
+	<section_number>58.1-3834</section_number>
+	<catch_line>Apportionment of food and beverage or meals tax</catch_line>
+	<text>
+		In any case where a business is located partially within two or more local jurisdictions by reason of the boundary line between the local jurisdictions passing through such place of business, and one or more of the local jurisdictions imposes the food and beverage or meals tax, the tax rate shall be computed by applying the apportionment formula in § 58.1-3709 to the food and beverage or meals tax rate of each applicable local jurisdiction. Such apportioned rate shall be rounded to the nearest one-half percent.
+	</text>
+	<history>1993, c. 104; 2020, cc. 1214, 1263.</history>
+</law>

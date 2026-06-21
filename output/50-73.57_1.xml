@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="9" level="3">Foreign Limited Partnerships</unit>
+	</structure>
+	<section_number>50-73.57:1</section_number>
+	<catch_line>Liability for false statement in application</catch_line>
+	<text>
+		If any application for registration filed pursuant to this article contains a false or inaccurate statement, one who suffers loss by reliance on the statement may recover damages for the loss from:
+		<section prefix="1">Any person who executes the application, or causes another to execute it on his behalf, and knew, and any general partner who knew or should have known, the statement to be false in any material respect at the time the application was executed; and
+		</section>
+		<section prefix="2">Any general partner who thereafter knows or should have known that any arrangement or other fact described in the application has changed, making the statement inaccurate in any material respect, if that general partner had sufficient time to cancel or amend the application before the statement was reasonably relied upon.
+		</section>
+	</text>
+	<history>1990, c. 343.</history>
+</law>

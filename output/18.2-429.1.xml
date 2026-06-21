@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="9" level="2">Crimes Against Peace and Order</unit>
+		<unit label="article" identifier="6" level="3">Unlawful Use of Telephones</unit>
+	</structure>
+	<section_number>18.2-429.1</section_number>
+	<catch_line>False caller identification information; penalty</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section:
+			"Caller identification information" means data that identifies the identity of the caller or the caller's telephone number to the recipient of a telephone call or to the recipient's telephone network.
+			"False caller identification information" means data that misrepresents the identity of the caller or the caller's telephone number to the recipient of a telephone call or to the recipient's telephone network.
+		</section>
+		<section prefix="B">Any person who, with the intent to defraud, intimidate, or harass, causes a telephone to ring and engages in conduct that results in the display of false caller identification information on the called party's telephone is guilty of a Class 3 misdemeanor. A second or subsequent conviction under this subsection is punishable as a Class 2 misdemeanor if the prior conviction occurred before the date of the offense charged.
+		</section>
+		<section prefix="C">This section shall not apply to:
+			<section prefix="1">The blocking of caller identification information;
+			</section>
+			<section prefix="2">Any law-enforcement agencies or any law-enforcement officer while he is engaged in the performance of his official duties;
+			</section>
+			<section prefix="3">Any intelligence or security agency of the federal government or any employee of such agency while he is engaged in the performance of his official duties; or
+			</section>
+			<section prefix="4">Any telecommunications, broadband, or Voice-over-Internet protocol service provider that is (i) acting in its capacity as an intermediary for the transmission of telephone service between the caller and the recipient, (ii) providing or configuring a service or service feature as requested by a customer, (iii) acting in a manner that is authorized or required by law, or (iv) engaging in other conduct that is a necessary incident to the provision of service.
+			</section>
+		</section>
+	</text>
+	<history>2019, c. 476.</history>
+</law>

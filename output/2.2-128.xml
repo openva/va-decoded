@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="1" level="4">Governor</unit>
+		<unit label="article" identifier="2" level="5">Executive Reorganization</unit>
+	</structure>
+	<section_number>2.2-128</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		For the purpose of this chapter:
+		"Agency" means an administrative unit of state government, including any department, institution, commission, board, council, authority, or other body, however designated.
+		"Board" means any collegial body in the executive branch of state government created by the General Assembly.
+		"Function" means an activity, assignment or set of operations.
+		"Reorganization" means a transfer, consolidation, coordination, or abolition of a function, or the assignment or reassignment of responsibility and authority for the execution of a function.
+	</text>
+	<history>1977, c. 505, § 2.1-8.2; 2001, c. 844.</history>
+</law>

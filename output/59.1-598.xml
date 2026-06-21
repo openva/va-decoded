@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="56" level="2">Genetic Data Privacy</unit>
+	</structure>
+	<section_number>59.1-598</section_number>
+	<catch_line>Contracts with service providers</catch_line>
+	<text>
+		<section prefix="A">Every direct-to-consumer genetic testing company that enters into a contract with a service provider shall prohibit the service provider from retaining, using, or disclosing the biological sample, extracted genetic material, genetic data, or any information regarding the identity of the consumer, including whether the consumer has solicited or received genetic testing, as applicable, for any purpose other than for the specific purpose of performing the services specified in the contract with the service provider for the business.
+		</section>
+		<section prefix="B">Every contract between a direct-to-consumer genetic testing company and a service provider shall include:
+			<section prefix="1">A provision prohibiting the service provider from retaining, using, or disclosing the biological sample, extracted genetic material, genetic data, or any information regarding the identity of the consumer, including whether the consumer has solicited or received genetic testing, as applicable, for a commercial purpose other than providing the services specified in the contract with the service provider with the business; and
+			</section>
+			<section prefix="2">A provision prohibiting the service provider from associating or combining the biological sample, extracted genetic material, genetic data, or any information regarding the identity of the consumer, including whether the consumer has solicited or received genetic testing, as applicable, with information the service provider has received from or on behalf of another person or has collected from its own interaction with consumers or as required by law.
+			</section>
+		</section>
+	</text>
+	<history>2023, c. 526.</history>
+</law>

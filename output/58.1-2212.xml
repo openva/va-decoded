@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="2" level="4">Motor Fuel Licensing</unit>
+	</structure>
+	<section_number>58.1-2212</section_number>
+	<catch_line>Grounds for denial of license</catch_line>
+	<text>
+		<section prefix="A">The Commissioner may refuse to issue a license under this article to an applicant if (i) the applicant or (ii) any principal of the applicant has:
+			<section prefix="1">Had a license or registration issued under prior law or this chapter canceled by the Commissioner for cause;
+			</section>
+			<section prefix="2">Had a motor fuel license or registration issued by another state canceled for cause;
+			</section>
+			<section prefix="3">Had a federal Certificate of Registry issued under § 4101 of the Internal Revenue Code, or a similar federal authorization, revoked;
+			</section>
+			<section prefix="4">Been convicted of any offense involving fraud or misrepresentation; or
+			</section>
+			<section prefix="5">Been convicted of any other offense that indicates that the applicant may not comply with this chapter if issued a license.
+			</section>
+		</section>
+		<section prefix="B">For purposes of subdivisions 1, 2 and 3 of subsection A, it shall be sufficient cause for the Commissioner to refuse to issue a license if the canceled or revoked license, registration or Certificate of Registry was held by a business entity of which the applicant, or any principal of the applicant, was a principal.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758; 2003, c. 781.</history>
+</law>

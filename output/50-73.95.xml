@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="3" level="3">Relations of Partners to Persons Dealing With Partnership</unit>
+	</structure>
+	<section_number>50-73.95</section_number>
+	<catch_line>Partnership liable for partner's actionable conduct</catch_line>
+	<text>
+		<section prefix="A">A partnership is liable for loss or injury caused to a person, or for a penalty incurred, as a result of a wrongful act or omission, or other actionable conduct, of a partner acting in the ordinary course of business of the partnership or with authority of the partnership.
+		</section>
+		<section prefix="B">If, in the course of the partnership's business or while acting with authority of the partnership, a partner receives or causes the partnership to receive money or property of a person not a partner, and the money or property is misapplied by a partner, the partnership is liable for the loss.
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

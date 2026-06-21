@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="3" level="2">Provisions Relating to Insurance Policies and Contracts</unit>
+	</structure>
+	<section_number>38.2-300</section_number>
+	<catch_line>Scope of chapter</catch_line>
+	<text>
+		This chapter shall apply to all classes of insurance except:
+		<section prefix="1">Ocean marine insurance other than private pleasure vessels;
+		</section>
+		<section prefix="2">Life insurance policies and accident and sickness insurance policies not delivered or issued for delivery in this Commonwealth;
+		</section>
+		<section prefix="3">Contracts of reinsurance; or
+		</section>
+		<section prefix="4">Annuities, except as provided for in §§ 38.2-305, 38.2-316 and 38.2-321.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-328; 1986, c. 562; 1988, cc. 333, 523.</history>
+</law>

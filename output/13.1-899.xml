@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="12" level="3">Sale of Assets</unit>
+	</structure>
+	<section_number>13.1-899</section_number>
+	<catch_line>Sale of assets in regular course of business</catch_line>
+	<text>
+		Unless the articles of incorporation provide otherwise, no approval of the members of a corporation entitled to vote is required:
+		<section prefix="1">To sell, lease, exchange, or otherwise dispose of any or all of the corporation's assets in the usual and regular course of business;
+		</section>
+		<section prefix="2">To mortgage, pledge or dedicate to the repayment of indebtedness, whether with or without recourse, or otherwise encumber any or all of the corporation's assets whether or not in the usual and regular course of business; or
+		</section>
+		<section prefix="3">To transfer any or all of the corporation's assets to one or more domestic or foreign eligible entities all of whose eligible interests are owned by the corporation.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-232, 13.1-246; 1956, c. 428; 1985, c. 522; 2007, c. 925.</history>
+</law>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="13" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-906</section_number>
+	<catch_line>Effect of dissolution</catch_line>
+	<text>
+		<section prefix="A">A dissolved corporation continues its corporate existence but may not transact any business except that appropriate to wind up and liquidate its business and affairs, including:
+			<section prefix="1">Collecting its assets;
+			</section>
+			<section prefix="2">Disposing of its properties;
+			</section>
+			<section prefix="3">Discharging or making provision for discharging its liabilities;
+			</section>
+			<section prefix="4">Distributing its remaining property; and
+			</section>
+			<section prefix="5">Doing every other act necessary to wind up and liquidate its business and affairs.
+			</section>
+		</section>
+		<section prefix="B">Dissolution of a corporation does not:
+			<section prefix="1">Transfer title to the corporation's property;
+			</section>
+			<section prefix="2">Subject its directors to standards of conduct different from those prescribed in § 13.1-870;
+			</section>
+			<section prefix="3">Change quorum or voting requirements for its board of directors or members; change provisions for selection, resignation, or removal of its directors or officers; or change provisions for amending its bylaws;
+			</section>
+			<section prefix="4">Prevent commencement of a proceeding by or against the corporation in its corporate name;
+			</section>
+			<section prefix="5">Abate or suspend a proceeding pending by or against the corporation on the effective date of dissolution; or
+			</section>
+			<section prefix="6">Terminate the authority of the registered agent of the corporation.
+			</section>
+		</section>
+	</text>
+	<history>1985, c. 522; 2007, c. 925.</history>
+</law>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="25" level="2">Mutual Assessment Property and Casualty Insurers</unit>
+		<unit label="article" identifier="5" level="3">Financial Provisions</unit>
+	</structure>
+	<section_number>38.2-2527</section_number>
+	<catch_line>Limitation on single risk to be assumed</catch_line>
+	<text>
+		<section prefix="A">No single risk shall be assumed by a mutual assessment property and casualty insurer in an amount exceeding ten percent of its surplus to policyholders. Any risk or portion of any risk which has been reinsured in accordance with § 38.2-2528 shall be deducted in determining the limitation of risk prescribed by this section. For the purposes of this section the amount of surplus to policyholders shall be determined on the basis of the last financial statement of the insurer, or the last report of examination filed with the Commission, whichever is more recent, at the time the risk is assumed. Mutual assessment property and casualty insurers licensed on or before July 1, 1986, shall conform to this limitation by July 1, 1991.
+		</section>
+		<section prefix="B">Until July 1, 1991, the following single risk limits after deducting for reinsurance will apply:
+			<section prefix="1">No insurer having less than $2 million insurance in force shall insure any 1 risk for more than $10,000;
+			</section>
+			<section prefix="2">No insurer having more than $2 million but less than $5 million insurance in force shall insure any 1 risk for more than $12,000;
+			</section>
+			<section prefix="3">No insurer having more than $5 million but less than $10 million insurance in force shall insure any 1 risk for more than $20,000;
+			</section>
+			<section prefix="4">No insurer having more than $10 million insurance in force shall insure any 1 risk for a sum in excess of 15 cent(s) for each $100 insurance it has in force; and
+			</section>
+			<section prefix="5">An insurer may insure any one risk in larger sums than prescribed in this section if (i) the excess over such prescribed maximum is reinsured as authorized in this chapter or (ii) the excess may be increased by the extent of twenty-five percent of the surplus of the insurer as of the time the insurance is written.
+			</section>
+		</section>
+	</text>
+	<history>1986, c. 562.</history>
+</law>

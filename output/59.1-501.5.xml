@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>59.1-501.5</section_number>
+	<catch_line>Relation to federal law; fundamental public policy; transactions subject to other state law</catch_line>
+	<text>
+		<section prefix="a">A provision of this chapter that is preempted by federal law is unenforceable to the extent of the preemption.
+		</section>
+		<section prefix="b">If a term of a contract violates a fundamental public policy, the court may refuse to enforce the contract, enforce the remainder of the contract without the impermissible term, or limit the application of the impermissible term so as to avoid a result contrary to public policy, in each case to the extent that the interest in enforcement is clearly outweighed by a public policy against enforcement of the term.
+		</section>
+		<section prefix="c">In a transaction in which a copy of computer information in its final form is made generally available, a term of a contract is unenforceable to the extent that the term prohibits an end-user licensee from engaging in otherwise lawful public discussion relating to the computer information. However, this subsection does not preclude enforcement of a term that establishes or enforces rights under trade secret, trademark, defamation, commercial disparagement, or other laws. This subsection does not alter the applicability of subsection (b) to any term not rendered unenforceable under this subsection.
+		</section>
+		<section prefix="d">This chapter does not apply to an intellectual property notice that is based solely on intellectual property rights and is not part of a contract. The effect of such a notice is determined by law other than this chapter.
+		</section>
+		<section prefix="e">If a law of the Commonwealth in effect on the effective date of this chapter applies to a transaction governed by this chapter, the following rules apply:
+			<section prefix="1">A requirement that a term, waiver, notice, or disclaimer be in a writing is satisfied by a record.
+			</section>
+			<section prefix="2">A requirement that a record, writing, or term be signed is satisfied by an authentication.
+			</section>
+			<section prefix="3">A requirement that a term be conspicuous, or the like, is satisfied by a term that is conspicuous under this chapter.
+			</section>
+			<section prefix="4">A requirement of consent or agreement to a term is satisfied by a manifestation of assent to the term in accordance with this chapter.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2001, cc. 762, 763; 2004, c. 794.</history>
+</law>

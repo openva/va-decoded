@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="11" level="3">Merger</unit>
+	</structure>
+	<section_number>13.1-1263</section_number>
+	<catch_line>Effect of merger</catch_line>
+	<text>
+		When a merger takes effect:
+		<section prefix="1">The separate existence of each business trust, corporation, partnership, limited partnership, or limited liability company party to the merger, except the successor, ceases.
+		</section>
+		<section prefix="2">The shares of beneficial interests of each business trust party to the merger that are to be converted or exchanged under the terms of the merger cease to exist, subject to the rights of an objecting beneficial owner under this article.
+		</section>
+		<section prefix="3">In addition to any other purposes and powers set forth in the articles of merger, if the articles of merger provide, the successor has the purposes and powers of each party to the merger.
+		</section>
+		<section prefix="4">The title to all real estate and other property of each party to the merger is vested in the successor business trust without further reservation or impairment.
+		</section>
+		<section prefix="5">The successor has all the liabilities of each non-surviving party to the merger.
+		</section>
+		<section prefix="6">A governing instrument or an agreement of merger may provide that contractual dissenter's rights with respect to a beneficial interest in a business trust shall be available for any class or group of beneficial owners or beneficial interests in connection with any amendment of a governing instrument, any merger in which the business trust is a constituent party to the merger or sale of all or substantially all of the business trust's assets.
+		</section>
+	</text>
+	<history>2002, c. 621.</history>
+</law>

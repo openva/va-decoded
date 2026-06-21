@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="43" level="2">Health Maintenance Organizations</unit>
+	</structure>
+	<section_number>38.2-4322</section_number>
+	<catch_line>Affiliation period</catch_line>
+	<text>
+		<section prefix="A">A health maintenance organization which offers health insurance coverage in connection with a group health plan or group health insurance coverage and which does not impose any preexisting condition exclusion allowed under § 38.2-3432.3, with respect to any particular coverage option may impose an affiliation period for such coverage option, but only if:
+			<section prefix="1">Such period is applied uniformly without regard to any health status-related factors; and
+			</section>
+			<section prefix="2">Such period does not exceed two months (or three months in the case of a late enrollee).
+			</section>
+		</section>
+		<section prefix="B">An affiliation period as described in subsection A shall begin on the enrollment date.
+		</section>
+		<section prefix="C">An affiliation period under a plan shall run concurrently with any waiting period under the plan.
+		</section>
+		<section prefix="D">Defined terms as set forth in § 38.2-3431 which are used in this chapter shall have the same meaning here that they have in Chapter 34.
+		</section>
+	</text>
+	<history>1997, cc. 807, 913.</history>
+</law>

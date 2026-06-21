@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="2" level="3">Public Water Supplies</unit>
+	</structure>
+	<section_number>32.1-168</section_number>
+	<catch_line>Exemptions</catch_line>
+	<text>
+		The provisions of this article shall not be applicable to a waterworks which meets all of the following conditions:
+		<section prefix="1">The waterworks consists only of distribution and storage facilities and does not have any collection or treatment facilities;
+		</section>
+		<section prefix="2">The waterworks obtains all of its water from, but is not owned or operated by, a waterworks to which this article is applicable;
+		</section>
+		<section prefix="3">The waterworks does not sell water to any person; and
+		</section>
+		<section prefix="4">The waterworks is not a carrier which conveys passengers in interstate commerce.
+		</section>
+	</text>
+	<history>1979, c. 711.</history>
+</law>

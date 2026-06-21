@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="3" level="2">Provisions Relating to Insurance Policies and Contracts</unit>
+	</structure>
+	<section_number>38.2-312</section_number>
+	<catch_line>Provisions limiting jurisdiction, or requiring construction of contracts by law of other states, prohibited</catch_line>
+	<text>
+		No insurance contract delivered or issued for delivery in this Commonwealth and covering subjects which are located or residing in this Commonwealth, or which are performed in this Commonwealth shall contain any condition, stipulation or agreement:
+		<section prefix="1">Requiring the contract to be construed according to the laws of any other state or country, except as may be necessary to meet the requirements of the motor vehicle financial responsibility laws of the other state or country; or
+		</section>
+		<section prefix="2">Depriving the courts of this Commonwealth of jurisdiction in actions against the insurer.
+			Any such condition, stipulation or agreement shall be void, but such voiding shall not affect the validity of the remainder of the contract.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-339; 1986, c. 562.</history>
+</law>

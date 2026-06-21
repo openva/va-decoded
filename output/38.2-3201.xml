@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="32" level="2">Standard Nonforfeiture Provisions for Life Insurance</unit>
+	</structure>
+	<section_number>38.2-3201</section_number>
+	<catch_line>Same; for industrial life policies</catch_line>
+	<text>
+		<section prefix="A">This section shall apply only to industrial life insurance policies issued prior to the operative date stated in § 38.2-3214.
+		</section>
+		<section prefix="B">The nonforfeiture benefits referred to in § 38.2-3347 shall be available in the event of default in premium payments after premiums have been paid for five full years, without action on the part of the insured. The nonforfeiture benefit shall be a stipulated form of insurance, effective from the due date of the defaulted premium, the net value of which at least equals the reserve on the policy, excluding any reserves for provisions (i) relating to benefits for specific types of disability, (ii) granting additional insurance specifically against accidental death, and (iii) granting other benefits in addition to life insurance, at the end of the last completed policy year for which premiums have been paid, and on any dividend additions to the policy, less a specified maximum percentage, not more than 2 1/2 percent, of the maximum face amount insured by the policy and of any dividend additions to the policy and less any existing indebtedness to the insurer on or secured by the policy. The policy shall specify the mortality table, rate of interest and method of valuation used for computing these reserves. The policy shall also specify the percentage or other rule of calculation so as to permit determination of the values for each year for which required values are not included in the policy. Instead of allowing for the deduction from the reserve of a sum not more than 2 1/2 percent of the maximum face amount insured by the policy and of any dividend additions to the policy, the insurer may insert in the policy a provision that one-fifth of the reserve may be deducted, or may provide in the policy that a deduction may be made of 2 1/2 percent of the maximum face amount insured by the policy or one-fifth of the reserve at the insurer's option.
+		</section>
+		<section prefix="C">If more than one option is provided, the policy shall stipulate which of the options shall apply if the insured fails to notify the insurer of his selection of an option.
+		</section>
+		<section prefix="D">The cash surrender value referred to in § 38.2-3347 shall be available after premiums have been paid for ten full years upon surrender of the policy to the insurer within three months of the due date of the defaulted premium and shall be at least equal to the sum which would otherwise be available for the purchase of insurance. The insurer may defer payment for not more than three months after the application for the cash surrender value is made. This section shall not apply to term insurance policies of twenty years or less, but such term policy shall specify the mortality table, rate of interest and method of valuation adopted for computing reserves.
+		</section>
+	</text>
+	<history>Code 1950, § 38-375; 1952, c. 317, § 38.1-460; 1986, c. 562.</history>
+</law>

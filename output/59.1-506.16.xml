@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.16</section_number>
+	<catch_line>Termination; survival of obligations</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in subsection (b), on termination all obligations that are still executory on both sides are discharged.
+		</section>
+		<section prefix="b">The following survive termination:
+			<section prefix="1">a right based on previous breach or performance of the contract;
+			</section>
+			<section prefix="2">an obligation of confidentiality, nondisclosure, or noncompetition to the extent enforceable under other law;
+			</section>
+			<section prefix="3">a contractual use term applicable to any licensed copy or information received from the other party, or copies made of it, which are not returned or returnable to the other party;
+			</section>
+			<section prefix="4">an obligation to deliver, or dispose of information, materials, documentation, copies, records, or the like to the other party, an obligation to destroy copies, or a right to obtain information from an escrow agent;
+			</section>
+			<section prefix="5">a choice of law or forum;
+			</section>
+			<section prefix="6">an obligation to arbitrate or otherwise resolve disputes by alternative dispute resolution procedures;
+			</section>
+			<section prefix="7">a term limiting the time for commencing an action or for giving notice;
+			</section>
+			<section prefix="8">an indemnity term or a right related to a claim of a type described in § 59.1-508.5 (d) (1);
+			</section>
+			<section prefix="9">a limitation of remedy or modification or disclaimer of warranty;
+			</section>
+			<section prefix="10">an obligation to provide an accounting and make any payment due under the accounting; and
+			</section>
+			<section prefix="11">any term that the agreement provides will survive.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

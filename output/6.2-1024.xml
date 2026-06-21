@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="10" level="3">Entities Conducting Trust Business</unit>
+		<unit label="article" identifier="2" level="4">Trust Companies</unit>
+	</structure>
+	<section_number>6.2-1024</section_number>
+	<catch_line>Restrictions on control, officers and directors</catch_line>
+	<text>
+		<section prefix="A">None of the following individuals or entities shall acquire control of any trust company under § 6.2-1023:
+			<section prefix="1">An agent;
+			</section>
+			<section prefix="2">A broker-dealer;
+			</section>
+			<section prefix="3">An investment advisor;
+			</section>
+			<section prefix="4">An investment advisor representative;
+			</section>
+			<section prefix="5">An investment company; or
+			</section>
+			<section prefix="6">Any corporation, limited liability company, partnership, business trust, association, or similar organization.
+			</section>
+		</section>
+		<section prefix="B">Nothing in this section shall prohibit (i) the formation of a trust company holding company by a trust company, (ii) any officer, director, or employee of a trust company holding company or a subsidiary of a trust company holding company from owning, indirectly, five percent or more of any class of capital stock of an affiliated trust company, or (iii) the acquisition of a trust company pursuant to § 6.2-1023 by a bank holding company as defined in 12 U.S.C. § 1841 or by a corporation that controls a subsidiary authorized to engage in the trust business under federal law or the laws of any state.
+		</section>
+	</text>
+	<history>1993, c. 432, § 6.1-32.20; 1994, c. 524; 1995, c. 140; 2004, c. 781; 2010, c. 794.</history>
+</law>

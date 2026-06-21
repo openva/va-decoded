@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="6" level="2">Notice of Accident; Filing Claims; Medical Attention and Examination</unit>
+	</structure>
+	<section_number>65.2-601.2</section_number>
+	<catch_line>Notice to employee of employer's intent</catch_line>
+	<text>
+		<section prefix="A">Whenever an employee makes a claim pursuant to § 65.2-601, the Commission shall order the employer to advise the employee, within 30 days following the date of such order, whether the employer (i) intends to accept the claim, (ii) intends to deny the claim, or (iii) is unable to determine whether it intends to accept or deny the claim because the employer lacks sufficient information from the employee or a third party to make such determination. If the employer responds that it intends to deny the claim, the response shall provide reasons therefor. If the employer responds that it is unable to determine whether it intends to accept or deny the claim because it lacks sufficient information from the employee or a third party to make such determination, the response shall identify the additional information that the employer needs from the employee or a third party in order to make such determination.
+		</section>
+		<section prefix="B">The employer's response to the order shall be considered a required report for the purposes of § 65.2-902.
+		</section>
+		<section prefix="C">The employer's response to the order shall not be considered part of the hearing record.
+		</section>
+		<section prefix="D">An employer may, if the employee consents, send any response required by this section to the employee by email.
+		</section>
+	</text>
+	<history>2020, c. 1086.</history>
+</law>

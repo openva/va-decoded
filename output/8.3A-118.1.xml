@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="1" level="2">General Provisions and Definitions</unit>
+	</structure>
+	<section_number>8.3A-118.1</section_number>
+	<catch_line>Statute of limitations on deposit accounts and certificates of deposit</catch_line>
+	<text>
+		<section prefix="A">An action to enforce the obligations of a bank to pay all or part of the balance of a deposit account or certificate of deposit (collectively, a deposit) must be commenced within six years after the earlier of the following:
+			<section prefix="1">If the deposit is a certificate of deposit to which subsection (e) of § 8.3A-118 applies, the date the six-year limitations period begins to run under subsection (e) of § 8.3A-118; or
+			</section>
+			<section prefix="2">The later of:
+				<section prefix="A">The due date of the deposit indicated in the bank's last written notice of renewal;
+				</section>
+				<section prefix="B">The date of the last written communication from the bank recognizing the bank's obligation with respect to the deposit; or
+				</section>
+				<section prefix="C">The last day of the taxable year for which the owner of the deposit or the bank last reported interest income earned on the deposit for federal or state income tax purposes.
+				</section>
+			</section>
+		</section>
+		<section prefix="B">This section shall apply to negotiable and non-negotiable certificates of deposit.
+		</section>
+	</text>
+	<history>2006, c. 624; 2010, c. 747; 2017, cc. 83, 640.</history>
+</law>

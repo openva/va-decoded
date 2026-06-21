@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="10" level="3">Indemnification</unit>
+	</structure>
+	<section_number>13.1-699</section_number>
+	<catch_line>Advance for expenses</catch_line>
+	<text>
+		<section prefix="A">A corporation may, before final disposition of a proceeding, advance funds to pay for or reimburse the expenses incurred in connection with the proceeding by a director who is a party to a proceeding because the individual is a director if the director delivers to the corporation a signed written undertaking to repay any funds advanced if (i) the director is not entitled to mandatory indemnification under § 13.1-698 and (ii) it is ultimately determined under § 13.1-700.1 or 13.1-701 that the director is not entitled to indemnification.
+		</section>
+		<section prefix="B">The undertaking required by subsection A shall be an unlimited general obligation of the director but need not be secured and may be accepted without reference to the financial ability of the director to make repayment.
+		</section>
+		<section prefix="C">Authorizations under this section shall be made by:
+			<section prefix="1">The board of directors:
+				a. If there are two or more disinterested directors, by a majority vote of all the disinterested directors, a majority of whom shall for such purpose constitute a quorum, or by a majority of the members of a committee consisting solely of two or more disinterested directors appointed by such a vote; or
+				b. If there are fewer than two disinterested directors, by the vote necessary for action by the board of directors in accordance with subsection C of § 13.1-688, in which authorization directors who do not qualify as disinterested directors may participate; or
+			</section>
+			<section prefix="2">By the shareholders, but shares owned by or voted under the control of a director who at the time does not qualify as a disinterested director may not be voted on the authorization.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-3.1; 1968, c. 570; 1975, c. 500; 1979, c. 99; 1985, c. 522; 2005, c. 765; 2010, c. 782; 2015, c. 611; 2019, c. 734.</history>
+</law>

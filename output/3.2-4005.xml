@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="40" level="3">Seeds</unit>
+		<unit label="article" identifier="1" level="4">Seeds</unit>
+	</structure>
+	<section_number>3.2-4005</section_number>
+	<catch_line>License required to market seed</catch_line>
+	<text>
+		<section prefix="A">Any person whose name appears on the label of seed shall obtain a license from the Commissioner before distributing, selling, or offering to sell such seed in the Commonwealth. The applicant shall submit the application on a form furnished or approved by the Commissioner and shall pay a license fee of $50 at the time of application. Any person who fails to obtain a license prior to distributing, selling, or offering to sell seed shall be given a grace period of 15 working days from issuance of notification to obtain a license without penalty. Any person who fails to obtain a license by the end of the grace period shall pay a late fee of $50 in addition to the license fee amount. The assessment of this late fee shall not prohibit the Commissioner from taking further action.
+		</section>
+		<section prefix="B">Every license shall expire on December 31. If the holder files a renewal application on or before December 31, his license shall remain valid through January 31 or until issuance of the renewal license, whichever event first occurs.
+		</section>
+		<section prefix="C">The Commissioner shall refuse to issue the license to any person not in compliance with the provisions of this article, and shall revoke any license subsequently found not to be in compliance with any provision of this article.
+		</section>
+	</text>
+	<history>1994, c. 577, § 3.1-275.2; 2008, c. 860.</history>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="7.1" level="3">Computer Crimes</unit>
+	</structure>
+	<section_number>18.2-152.4</section_number>
+	<catch_line>Computer trespass; penalty</catch_line>
+	<text>
+		<section prefix="A">It is unlawful for any person, with malicious intent, or through intentionally deceptive means and without authority, to:
+			<section prefix="1">Temporarily or permanently remove, halt, or otherwise disable any computer data, computer programs or computer software from a computer or computer network;
+			</section>
+			<section prefix="2">Cause a computer to malfunction, regardless of how long the malfunction persists;
+			</section>
+			<section prefix="3">Alter, disable, or erase any computer data, computer programs or computer software;
+			</section>
+			<section prefix="4">Effect the creation or alteration of a financial instrument or of an electronic transfer of funds;
+			</section>
+			<section prefix="5">Use a computer or computer network to cause physical injury to the property of another;
+			</section>
+			<section prefix="6">Use a computer or computer network to make or cause to be made an unauthorized copy, in any form, including, but not limited to, any printed or electronic form of computer data, computer programs or computer software residing in, communicated by, or produced by a computer or computer network;
+			</section>
+			<section prefix="7">[Repealed.]
+			</section>
+			<section prefix="8">Install or cause to be installed, or collect information through, computer software that records all or a majority of the keystrokes made on the computer of another; or
+			</section>
+			<section prefix="9">Install or cause to be installed on the computer of another, computer software for the purpose of (i) taking control of that computer so that it can cause damage to another computer or (ii) disabling or disrupting the ability of the computer to share or transmit instructions or data to other computers or to any related computer equipment or devices, including but not limited to printers, scanners, or fax machines.
+			</section>
+		</section>
+		<section prefix="B">Any person who violates this section is guilty of computer trespass, which is a Class 1 misdemeanor. Any person who violates this section for the purposes of affecting a computer that is exclusively for the use of, or exclusively used by or for, (i) the Commonwealth or any local government within the Commonwealth or any department or agency thereof or (ii) a provider of telephone, including wireless or voice over Internet protocol, oil, electric, gas, sewer, wastewater, or water service to the public is guilty of a Class 6 felony. If there is damage to the property of another valued at $1,000 or more caused by such person's act done with malicious intent in violation of this section, the offense is a Class 6 felony. If a person, with malicious intent, installs or causes to be installed computer software in violation of this section on more than five computers of another, the offense is a Class 6 felony. If a person violates subdivision A 8 with malicious intent, the offense is a Class 6 felony.
+		</section>
+		<section prefix="C">Nothing in this section shall be construed to interfere with or prohibit terms or conditions in a contract or license related to computers, computer data, computer networks, computer operations, computer programs, computer services, or computer software or to create any liability by reason of terms or conditions adopted by, or technical measures implemented by, a Virginia-based electronic mail service provider to prevent the transmission of unsolicited electronic mail in violation of this article. Nothing in this section shall be construed to prohibit the monitoring of the location of a minor or a person with a disability or mental impairment as those terms are defined in § 51.5-40.1 or to prohibit the monitoring of the computer usage of, the otherwise lawful copying of data of, or the denial of computer or Internet access to a minor by a parent or legal guardian of the minor. Nothing in this section shall be construed to require notice to a computer user of the activities of a computer hardware or software provider, an interactive computer service, or a telecommunications or cable operator that a reasonable computer user should expect may occur in the context of a computer user's transaction or relationship with that entity or that are required or specifically authorized by law.
+		</section>
+	</text>
+	<history>1984, c. 751; 1985, c. 322; 1990, c. 663; 1998, c. 892; 1999, cc. 886, 904, 905; 2002, c. 195; 2003, cc. 987, 1016; 2005, cc. 761, 812, 827; 2007, c. 483; 2017, c. 562; 2020, c. 821.</history>
+</law>

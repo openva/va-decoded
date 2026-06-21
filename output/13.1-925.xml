@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="14" level="3">Foreign Corporations</unit>
+	</structure>
+	<section_number>13.1-925</section_number>
+	<catch_line>Registered office and registered agent of foreign corporation</catch_line>
+	<text>
+		<section prefix="A">Each foreign corporation authorized to transact business in the Commonwealth shall continuously maintain in the Commonwealth:
+			<section prefix="1">A registered office, which may be the same as any of its places of business.
+			</section>
+			<section prefix="2">A registered agent, who shall be:
+				a. An individual who is a resident of Virginia and either an officer or director of the corporation or a member of the Virginia State Bar, and whose business office is identical with the registered office; or
+				b. A domestic or foreign stock or nonstock corporation, limited liability company or registered limited liability partnership authorized to transact business in the Commonwealth, the business office of which is identical with the registered office; provided such a registered agent (i) shall not be its own registered agent and (ii) shall designate by instrument in writing, acknowledged before a notary public, one or more natural persons at the office of the registered agent upon whom any process, notice or demand may be served and shall continuously maintain at least one such person at that office. Whenever any such person accepts service, a photographic copy of such instrument shall be attached to the return.
+			</section>
+		</section>
+		<section prefix="B">The sole duty of the registered agent is to forward to the corporation at its last known address any process, notice or demand that is served on the registered agent.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-272; 1956, c. 428; 1958, c. 564; 1985, c. 522; 1994, c. 348; 2000, c. 162; 2001, cc. 517, 541; 2007, c. 925.</history>
+</law>

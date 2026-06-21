@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="7" level="2">Vital Records</unit>
+		<unit label="article" identifier="1" level="3">Definitions and Administrative Provisions</unit>
+	</structure>
+	<section_number>32.1-255</section_number>
+	<catch_line>Duties of county, city and special registrars and deputies</catch_line>
+	<text>
+		<section prefix="A">The county, city or special registrar with respect to his jurisdiction shall:
+			<section prefix="1">Perform his duties pursuant to the provisions of this chapter and regulations issued hereunder.
+			</section>
+			<section prefix="2">Transmit twice monthly the certificates, reports, or other records filed with him to the State Registrar or more frequently when directed to do so by the State Registrar.
+			</section>
+			<section prefix="3">Maintain such local records, make such reports and perform such other duties as may be required by the State Registrar.
+			</section>
+		</section>
+		<section prefix="B">Deputies shall perform the duties of the registrar in the absence or incapacity of such registrar and shall perform such other duties as may be prescribed by the State Registrar.
+		</section>
+	</text>
+	<history>Code 1950, § 32-353.11; 1954, c. 346; 1960, c. 451; 1979, c. 711.</history>
+</law>

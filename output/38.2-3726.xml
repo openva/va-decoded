@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="37.1" level="2">Credit Life Insurance and Credit Accident and Sickness Insurance</unit>
+	</structure>
+	<section_number>38.2-3726</section_number>
+	<catch_line>Credit life insurance rates</catch_line>
+	<text>
+		<section prefix="A">The benefits provided by any credit life insurance form shall be deemed reasonable in relation to the premium charged or to be charged if the rates do not exceed the rates set forth below, except as such rates are modified pursuant to the requirements of § 38.2-3730:
+			<section prefix="1">$.7519 per month per $1,000 of outstanding insured indebtedness if premiums are payable on a monthly outstanding balance basis.
+			</section>
+			<section prefix="2">$.48 per $100 of initial indebtedness repayable in twelve equal monthly installments. If premiums are payable on a single premium basis and the amount of the insurance decreases in equal monthly amounts, the following formula shall be used to develop single premium rates from the outstanding balance rate:
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				where Sp is the single term premium per $100 of initial insured indebtedness, n is the credit term in months, and Op is the monthly outstanding balance rate per $1,000 of outstanding insured indebtedness.
+			</section>
+			<section prefix="3">If premiums are payable on a single premium basis when the benefit provided is level term, the following formula shall be used to develop single premium rates from the outstanding balance rate:
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				where Sp is the single term premium per $100 of initial insured indebtedness, n is the credit term in months, and Op is the monthly outstanding balance rate per $1,000 of outstanding insured indebtedness.
+			</section>
+			<section prefix="4">If the benefits provided are other than those described in the introduction to this subsection, premium rates for such benefits shall be actuarially consistent with the rates provided in the above subdivisions.
+			</section>
+			<section prefix="5">Joint coverage on any of the bases in this subsection shall not exceed 165 percent of the specific rate for that type of coverage.
+			</section>
+		</section>
+		<section prefix="B">The premium rates in subsection A shall apply to policies providing credit life insurance to be issued with or without evidence of insurability, to be offered to all debtors, and, except as set forth below, containing: (i) no exclusions other than suicide within six months of the incurred indebtedness; and (ii) age restrictions making ineligible for coverage debtors age seventy or over at the time the indebtedness is incurred or debtors having attained age seventy or over on the maturity date of the indebtedness.
+			<section prefix="1">Insurance written in connection with an open-end credit plan may provide for the cessation of insurance or a reduction in the amount of insurance upon attainment of an age not less than seventy.
+			</section>
+			<section prefix="2">On insurance written in connection with closed-end credit plans and open-end credit plans where the amount of insurance is based on or limited to the outstanding unpaid balance, no provision excluding or denying a claim for death resulting from a preexisting condition except for those conditions for which the insured debtor received medical diagnosis or treatment within six months preceding the effective date of coverage and which caused the death of the insured debtor within six months following the effective date of coverage. The effective date of coverage for each part of the insurance attributable to a different advance or charge to the plan account is the date on which the advance or charge is posted to the plan account.
+			</section>
+			<section prefix="3">At the option of the insurer and in lieu of a preexisting condition exclusion on insurance written in connection with open-end credit where the amount of insurance is based on or limited to the outstanding unpaid balance, a provision limiting the amount of insurance payable on death due to natural causes to the balance as it existed six months prior to the date of death if there have been one or more increases in the outstanding balance during such six-month period and if evidence of insurability has not been required in the six-month period prior to date of death.
+			</section>
+		</section>
+	</text>
+	<history>1992, c. 586.</history>
+</law>

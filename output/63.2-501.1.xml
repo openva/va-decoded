@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="63.2" level="1">Welfare (Social Services)</unit>
+		<unit label="subtitle" identifier="II" level="2">Public Assistance</unit>
+		<unit label="chapter" identifier="5" level="3">General Provisions</unit>
+	</structure>
+	<section_number>63.2-501.1</section_number>
+	<catch_line>Application for public assistance; accurate contact information; authorized disclosures</catch_line>
+	<text>
+		<section prefix="A">Every local department shall obtain accurate contact information from each applicant for public assistance, which shall include the best available address and telephone number of the applicant. Local departments shall also obtain alternative contact information, such as the applicant's email address and cell phone number, and the applicant's preferred method of contact, including direct mail, email, text message, or phone call.
+		</section>
+		<section prefix="B">To the extent required by federal law and regulations, recipients of public assistance shall notify the local department of any change in address or telephone number within 30 days of such change, and the local department shall update any records maintained by the local department to reflect the change in the recipient's contact information.
+		</section>
+		<section prefix="C">Contact information received and maintained by local departments shall be confidential and shall not be disclosed except as required pursuant to § 63.2-102. However, information related to any application for or receipt of medical assistance services pursuant to § 32.1-325 may be disclosed for purposes directly connected to administration of the state plan for medical assistance services pursuant to § 1902(a)(7) of the Social Security Act.
+		</section>
+	</text>
+	<history>2012, c. 367; 2017, c. 472.</history>
+</law>

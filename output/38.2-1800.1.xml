@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="18" level="2">Insurance Agents</unit>
+		<unit label="article" identifier="1" level="3">Definitions and General Provisions</unit>
+	</structure>
+	<section_number>38.2-1800.1</section_number>
+	<catch_line>Proof of residency</catch_line>
+	<text>
+		<section prefix="A">For purposes of this chapter, an individual shall be deemed to be a resident of this Commonwealth provided such individual (i) maintains his principal place of residence within this Commonwealth, or satisfies the requirements set forth in subsection B of § 38.2-1836; (ii) declares himself to be a Virginia resident on his federal tax return; and (iii) declares himself to be a Virginia resident for purposes of paying Virginia income tax and personal property taxes; and provided that such individual is able to document the above to the satisfaction of the Commission. The Commission may also consider other documentation furnished by the individual, including, but not limited to, a valid current Virginia driver's license or voter registration card, as additional proof of residency. An individual applying for or holding a license issued pursuant to this chapter who is unable to document his residency as set forth above shall be deemed not to be a resident of Virginia for purposes of this chapter, except that an individual residing outside of Virginia whose principal place of business is in Virginia, who is able to demonstrate to the satisfaction of the Commission that the laws of his home state prevent him from obtaining a resident agent license in that state, and who affirmatively chooses to qualify as and be treated as a resident of Virginia for purposes of licensing and continuing education, both in Virginia and in the state in which the individual resides, if applicable, may be considered a resident for purposes of issuance of a license pursuant to this chapter.
+		</section>
+		<section prefix="B">For purposes of this chapter, a business entity shall be deemed to be a resident of this Commonwealth provided such business entity:
+			<section prefix="1">If a domestic corporation, has filed its articles of incorporation with the clerk of the Commission, and has been issued a charter by the Commission;
+			</section>
+			<section prefix="2">If a domestic limited liability company, has filed its articles of organization with the clerk of the Commission, and has been issued a certificate of organization by the Commission;
+			</section>
+			<section prefix="3">If a domestic limited partnership, has applied for and received a certificate of limited partnership from the clerk of the Commission;
+			</section>
+			<section prefix="4">If a domestic partnership, has filed its partnership agreement with the clerk of the appropriate court; or
+			</section>
+			<section prefix="5">If a foreign business entity that is not licensed as a resident agent in any other jurisdiction, demonstrates to the satisfaction of the Commission that its principal place of business is within the Commonwealth of Virginia.
+			</section>
+		</section>
+	</text>
+	<history>1997, c. 583; 2001, c. 706.</history>
+</law>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="16" level="2">Evidence and Witnesses</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>19.2-271.5</section_number>
+	<catch_line>Protected information; newspersons engaged in journalism</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Journalism" means the gathering, preparing, collecting, photographing, recording, writing, editing, reporting, or publishing of news or information that concerns local, national, or international events or other matters of public interest for dissemination to the public.
+			"News organization" means any (i) newspaper or magazine issued at regular intervals and having a general circulation; (ii) recognized press association or wire service; (iii) licensed radio or television station that engages in journalism; or (iv) business that, by means of photographic or electronic media, engages in journalism and employs an editor overseeing the journalism function that follows commonly accepted journalistic practice as evidenced by (a) membership in a state-based journalism organization, including the Virginia Press Association and the Virginia Association of Broadcasters; (b) membership in a national journalism organization, including the National Press Club, the Society of Professional Journalists, and the Online News Association; (c) membership in a statewide or national wire news service, including the Capital News Service, The Associated Press, and Reuters; or (d) its continuous operation since 1994 or earlier.
+			"Newsperson" means any person who, for a substantial portion of his livelihood or for substantial financial gain, engages in journalism for a news organization. "Newsperson" includes any person supervising or assisting another person in engaging in journalism for a news organization.
+			"Protected information" means information identifying a source who provided information to a newsperson under a promise or agreement of confidentiality made by a news organization or newsperson while such news organization or newsperson was engaging in journalism.
+		</section>
+		<section prefix="B">Except as provided in subsection C, no newsperson in any administrative, civil, or criminal proceeding shall be compelled by the Commonwealth or a locality or, in the case of a civil proceeding, a party to such proceeding to testify about, disclose, or produce protected information. Any protected information obtained in violation of this subsection is inadmissible for any purpose in an administrative, civil, or criminal proceeding.
+		</section>
+		<section prefix="C">A court may compel a newsperson to testify about, disclose, or produce protected information only if the court finds, after notice and an opportunity to be heard by such newsperson, that:
+			<section prefix="1">The protected information is necessary to the proof of an issue material to an administrative, civil, or criminal proceeding;
+			</section>
+			<section prefix="2">The protected information is not obtainable from any alternative source;
+			</section>
+			<section prefix="3">The Commonwealth or locality or, in the case of a civil proceeding, a party to such proceeding exhausted all reasonable methods for obtaining the protected information from all relevant alternative sources, if applicable; and
+			</section>
+			<section prefix="4">There is an overriding public interest in the disclosure of the protected information, including preventing the imminent threat of bodily harm to or death of a person or ending actual bodily harm being inflicted upon a person.
+			</section>
+		</section>
+		<section prefix="D">The publication by a news organization or the dissemination by a newsperson of protected information obtained while engaging in journalism shall not constitute a waiver of the protection from compelled testimony, disclosure, and production provided by subsection B.
+		</section>
+	</text>
+	<history>2020, c. 650; 2024, c. 589.</history>
+</law>

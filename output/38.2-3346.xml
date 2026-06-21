@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="3" level="3">Industrial Life Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3346</section_number>
+	<catch_line>Misstatement of age</catch_line>
+	<text>
+		Each industrial life insurance policy shall contain a provision that if, before final settlement of the policy, the age of the insured or the age of any other person if considered in determining the premium is found to have been misstated, the amount payable under the policy shall equal the amount that the premium would have purchased at the insured's or other person's correct age, at the time the policy was issued.
+	</text>
+	<history>Code 1950, § 38-434(4); 1952, c. 317, § 38.1-414; 1986, c. 562.</history>
+</law>

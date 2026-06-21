@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="1" level="2">Administration Generally</unit>
+		<unit label="article" identifier="3" level="3">Department of Health and State Health Commissioner</unit>
+	</structure>
+	<section_number>32.1-23.6</section_number>
+	<catch_line>Information and data related to social determinants of health</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Demographic data" means data and information regarding the race, ethnicity, age, and gender of residents of the Commonwealth.
+			"Social determinants of health" means conditions that affect health risks and health outcomes, including health care access and quality, education access and quality, social and community context, economic stability, and neighborhood and built environment.
+		</section>
+		<section prefix="B">The Department shall (i) collect and analyze information regarding demographics and the social determinants of health and their impacts on health and health risks of residents of the Commonwealth and (ii) make such information and analyses available to the public on its website. Nothing in this section shall allow for the release of personal health information or any other confidential information.
+		</section>
+	</text>
+	<history>2022, c. 750.</history>
+</law>

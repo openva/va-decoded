@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="6" level="4">General Provisions</unit>
+		<unit label="article" identifier="1" level="5">In General</unit>
+	</structure>
+	<section_number>2.2-614.4</section_number>
+	<catch_line>Commercial activities list; publication of notice; opportunity to comment</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Commercial activities list" means the list developed by the Department of Planning and Budget in accordance with § 2.2-1501.1.
+			"Governmental agency" means any authority, board, department, instrumentality, institution, agency, or other unit of state government and any county, city, or town or local or regional governmental authority.
+		</section>
+		<section prefix="B">Any state governmental agency that intends to purchase services for an amount over $25,000 from another governmental agency, which service is found on the commercial activities list, shall post notice on the Department of General Services' central electronic procurement system under the "Future Procurement" listing.
+		</section>
+		<section prefix="C">Any local governmental agency that intends to purchase services for an amount over $25,000 from another governmental agency, which service is found on the commercial activities list, shall post notice on its public government website where all public notices for procurement opportunities are located or on the Department of General Services' central electronic procurement system under the "Future Procurement" listing.
+		</section>
+		<section prefix="D">In addition to the notice requirement in subsection C, any such governmental agency shall provide the opportunity for comment by or the submission of information from the private sector on each such intended purchase.
+		</section>
+		<section prefix="E">Any state governmental agency that purchases goods or services from another governmental agency, including those found on the commercial activities list, shall place the purchase orders for such goods and services on the Department of General Services' central electronic procurement system. Institutions of higher education authorized in accordance with the Restructured Higher Education Financial and Administrative Operations Act (§ 23.1-1000 et seq.) shall provide government-to-government purchase order data through interface or integration with the Department of General Services' central electronic procurement system. The Department of General Services shall publish on its central electronic procurement system website a government-to-government transaction transparency report.
+		</section>
+		<section prefix="F">The provisions of this section shall not apply to mandatory purchases pursuant to § 53.1-47 or contracts specifically exempted pursuant to Article 3 (§ 2.2-4343 et seq.) of the Virginia Public Procurement Act.
+		</section>
+		<section prefix="G">The provisions of subsections B and C shall not apply to services provided by central service state agencies, activities operated as an internal service fund of the Commonwealth, or purchases from public institutions of higher education.
+		</section>
+	</text>
+	<history>2015, c. 736; 2016, c. 680.</history>
+</law>

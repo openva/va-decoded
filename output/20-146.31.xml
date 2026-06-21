@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="3" level="3">Enforcement</unit>
+	</structure>
+	<section_number>20-146.31</section_number>
+	<catch_line>Hearing and order</catch_line>
+	<text>
+		<section prefix="A">Unless the court issues a temporary emergency order pursuant to § 20-146.15, upon a finding that a petitioner is entitled to immediate physical custody of the child, the court shall order that the petitioner may take immediate physical custody of the child unless the respondent establishes that:
+			<section prefix="1">The child custody determination has not been registered under § 20-146.26 and that:
+				a. The issuing court did not have jurisdiction under Article 2 (§ 20-146.12 et seq.);
+				b. The child custody determination for which enforcement is sought has been vacated, stayed, or modified by a court of a state having jurisdiction to do so under Article 2 (§ 20-146.12 et seq.); or
+				c. The respondent was entitled to notice, but notice was not given in accordance with the standards of § 20-146.7, in the proceedings before the court that issued the order for which enforcement is sought; or
+			</section>
+			<section prefix="2">The child custody determination for which enforcement is sought was registered under § 20-146.26, but has been vacated, stayed, or modified by a court of a state having jurisdiction to do so under Article 2 (§ 20-146.12 et seq.).
+			</section>
+		</section>
+		<section prefix="B">The court shall award the fees, costs, and expenses authorized under § 20-146.33 and may grant additional relief, including a request for the assistance of law-enforcement officials, and set a further hearing to determine whether additional relief is appropriate.
+		</section>
+		<section prefix="C">If a party called to testify refuses to answer on the ground that the testimony may be self-incriminating, the court may draw an adverse inference from the refusal.
+		</section>
+		<section prefix="D">A privilege against disclosure of communications between spouses and a defense of immunity based on the relationship between spouses or between parent and child may not be invoked in a proceeding under this article.
+		</section>
+	</text>
+	<history>2001, c. 305; 2020, c. 900.</history>
+</law>

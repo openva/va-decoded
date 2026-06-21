@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+		<unit label="article" identifier="3.1" level="4">Uniform Fiduciary Access to Digital Assets Act</unit>
+	</structure>
+	<section_number>64.2-127</section_number>
+	<catch_line>Disclosure of other digital assets held in trust when trustee is not original user</catch_line>
+	<text>
+		Unless otherwise ordered by the court, directed by the user, or provided in a trust, a custodian shall disclose, to a trustee that is not an original user of an account, a catalog of electronic communications sent or received by an original or successor user and stored, carried, or maintained by the custodian in an account of the trust and any digital assets, other than the content of electronic communications, in which the trust has a right or interest if the trustee gives the custodian:
+		<section prefix="1">A written request for disclosure in physical or electronic form;
+		</section>
+		<section prefix="2">A certified copy of the trust instrument or a certification of the trust under § 64.2-804;
+		</section>
+		<section prefix="3">A certification by the trustee that the trust exists and the trustee is a currently acting trustee of the trust; and
+		</section>
+		<section prefix="4">If requested by the custodian:
+			a. A number, username, address, or other unique subscriber or account identifier assigned by the custodian to identify the trust's account; or
+			b. Evidence linking the account to the trust.
+		</section>
+	</text>
+	<history>2017, cc. 33, 80.</history>
+</law>

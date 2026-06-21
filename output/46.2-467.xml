@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="16" level="4">Assignment of Insurance Risks</unit>
+	</structure>
+	<section_number>46.2-467</section_number>
+	<catch_line>Action within power of Commission</catch_line>
+	<text>
+		The Commission may, in its discretion, after reviewing all information pertaining to the applicant or policyholder available from its records, the records of the Department or from other sources:
+		<section prefix="1">Refuse to assign an application;
+		</section>
+		<section prefix="2">Approve the rejection of an application by an insurance carrier;
+		</section>
+		<section prefix="3">Approve the cancellation of a policy of motor vehicle liability, physical damage, and medical payments insurance by an insurance carrier; or
+		</section>
+		<section prefix="4">Refuse to approve the renewal or the reassignment of an expiring policy.
+		</section>
+	</text>
+	<history>Code 1950, § 46-488; 1958, c. 541, § 46.1-499; 1972, c. 842; 1989, c. 727.</history>
+</law>

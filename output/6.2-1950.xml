@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="19.1" level="3">Money Transmitters</unit>
+	</structure>
+	<section_number>6.2-1950</section_number>
+	<catch_line>(Effective July 1, 2026) Net worth</catch_line>
+	<text>
+		<section prefix="A">A licensee shall maintain at all times a tangible net worth in an amount not less than the following:
+			<section prefix="1">For a licensee with total assets in an amount not greater than $100 million, the greater of $100,000 or three percent of the value of the licensee's total assets.
+			</section>
+			<section prefix="2">For a licensee with total assets in an amount greater than $100 million and not greater than $1 billion, the sum of $3 million and two percent of the additional assets in excess of $100 million.
+			</section>
+			<section prefix="3">For a licensee with total assets in an amount greater than $1 billion, the sum of $21 million and 0.5 percent of the additional assets in excess of $1 billion.
+			</section>
+		</section>
+		<section prefix="B">Tangible net worth shall be demonstrated at initial application and thereafter in a manner prescribed by the Commission.
+		</section>
+	</text>
+	<history>2025, c. 214.</history>
+</law>

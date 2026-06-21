@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Members and Meetings</unit>
+	</structure>
+	<section_number>13.1-839</section_number>
+	<catch_line>Special meeting</catch_line>
+	<text>
+		<section prefix="A">A corporation shall hold a special meeting of members:
+			<section prefix="1">On call of the chairman of the board of directors, the president, the board of directors, or the person or persons authorized to do so by the articles of incorporation or bylaws; or
+			</section>
+			<section prefix="2">In the absence of a provision in the articles of incorporation or bylaws stating who may call a special meeting of members, a special meeting of members may be called by members having one-twentieth of the votes entitled to be cast at such meeting.
+			</section>
+		</section>
+		<section prefix="B">Unless otherwise provided in the articles of incorporation, a written demand for a special meeting may be revoked by a writing, including an electronic transmission, to that effect received by the corporation prior to the receipt by the corporation of demands sufficient in number to require the holding of a special meeting.
+		</section>
+		<section prefix="C">If not otherwise fixed under § 13.1-840 or 13.1-844, the record date for determining members entitled to demand a special meeting is the date the first member signs the demand.
+		</section>
+		<section prefix="D">Except as otherwise determined by the board of directors acting pursuant to subsection C of § 13.1-844.2, members' meetings may be held at such place in or out of the Commonwealth as may be provided in the bylaws or, where not inconsistent with the bylaws, in the notice of the meeting.
+		</section>
+		<section prefix="E">Only business within the purpose or purposes described in the meeting notice required by subsection C of § 13.1-842 may be conducted at a special members' meeting.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-213; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2007, c. 925; 2012, c. 706; 2018, c. 265.</history>
+</law>

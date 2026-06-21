@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="6" level="2">Benefits</unit>
+		<unit label="article" identifier="5" level="3">Claims Adjudication</unit>
+	</structure>
+	<section_number>60.2-623.1</section_number>
+	<catch_line>Party's recording of hearing</catch_line>
+	<text>
+		<section prefix="A">Any party to a compensation hearing of the Virginia Employment Commission may employ the use of a court reporter to record for transcription the proceeding, provided it is done at the party's own expense.
+		</section>
+		<section prefix="B">In the event the Commission's transcript of the proceeding is lost, damaged, or parts are missing, a transcript existing as a result of subsection A of this section may be used in addition to any full or partial Commission transcript.
+		</section>
+	</text>
+	<history>1986, c. 129, § 60.1-65.1.</history>
+</law>

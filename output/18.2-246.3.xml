@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="6" level="2">Crimes Involving Fraud</unit>
+		<unit label="article" identifier="9" level="3">Virginia Comprehensive Money Laundering Act</unit>
+	</structure>
+	<section_number>18.2-246.3</section_number>
+	<catch_line>Money laundering; penalties</catch_line>
+	<text>
+		<section prefix="A">It shall be unlawful for any person knowingly to conduct a financial transaction where the person knows the property involved in the transaction represents the proceeds of an activity which is punishable as a felony under the laws of the Commonwealth, another state or territory of the United States, the District of Columbia, or the United States. A violation of this section is punishable by imprisonment of not more than forty years or a fine of not more than $500,000 or by both imprisonment and a fine.
+		</section>
+		<section prefix="B">Any person who, for compensation, converts cash into negotiable instruments or electronic funds for another, knowing the cash is the proceeds of some form of activity which is punishable as a felony under the laws of the Commonwealth, another state or territory of the United States, the District of Columbia, or the United States, shall be guilty of a Class 1 misdemeanor. Any second or subsequent violation of this subsection shall be punishable as a Class 6 felony.
+		</section>
+	</text>
+	<history>1999, c. 348.</history>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="16" level="4">Income Tax Withholding</unit>
+	</structure>
+	<section_number>58.1-485.1</section_number>
+	<catch_line>False claims of employment status; penalty</catch_line>
+	<text>
+		<section prefix="A">It shall be unlawful for any person to knowingly coerce or threaten an individual to falsely declare his employment status for the purpose of evading the withholding or payment of taxes required under this article.
+		</section>
+		<section prefix="B">It shall be unlawful for any person to knowingly and falsely claim an individual's employment status for the purpose of evading the withholding or payment of taxes required under this article.
+		</section>
+		<section prefix="C">In addition to any other penalties provided by law, any violation of this section is punishable as a Class 1 misdemeanor.
+		</section>
+		<section prefix="D">As used in this section "employment status" has the same meaning as defined by the United States Internal Revenue Code.
+		</section>
+	</text>
+	<history>2006, c. 393.</history>
+</law>

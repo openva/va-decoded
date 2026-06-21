@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="1.1" level="2">Virginia Antitrust Act</unit>
+	</structure>
+	<section_number>59.1-9.14</section_number>
+	<catch_line>Limitation of actions</catch_line>
+	<text>
+		<section prefix="A">An action under subsection A of § 59.1-9.15 to recover a civil penalty is barred if it is not commenced within four years after the cause of action accrues.
+		</section>
+		<section prefix="B">An action under subsection B of § 59.1-9.12 or subsection B of § 59.1-9.15 to recover damages is barred if it is not commenced within four years after the cause of action accrues, or within one year after the conclusion of any action or proceeding under subsection A of § 59.1-9.15 commenced within or before that time based in whole or in part on any matter complained of in the action for damages, whichever is later.
+		</section>
+	</text>
+	<history>1974, c. 545; 2023, c. 522.</history>
+</law>

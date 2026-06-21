@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="16.1" level="1">Courts Not of Record</unit>
+		<unit label="chapter" identifier="4.1" level="2">District Courts</unit>
+		<unit label="article" identifier="2" level="3">Districts; District Courts and Judges</unit>
+	</structure>
+	<section_number>16.1-69.23</section_number>
+	<catch_line>In what cases judge disqualified</catch_line>
+	<text>
+		If the judge or substitute judge of any district court:
+		<section prefix="1">Be a party to an action;
+		</section>
+		<section prefix="2">Be interested in the result of any action, otherwise than as resident or taxpayer of the city or county;
+		</section>
+		<section prefix="3">Be related to any party to the action as spouse, grandparent, parent, father-in-law, mother-in-law, child, grandchild, son-in-law, daughter-in-law, brother, sister, brother-in-law, sister-in-law, nephew, niece, uncle, aunt, first cousin, guardian or ward;
+		</section>
+		<section prefix="4">Be a material witness for either party to the action;
+		</section>
+		<section prefix="5">Be counsel for any party to the action;
+			he shall not take cognizance thereof.
+		</section>
+	</text>
+	<history>1972, c. 708; 1973, c. 546.</history>
+</law>

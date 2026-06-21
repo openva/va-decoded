@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="25.1" level="2">Virginia Credit Services Businesses Act</unit>
+	</structure>
+	<section_number>59.1-335.8</section_number>
+	<catch_line>Contents of contracts</catch_line>
+	<text>
+		<section prefix="A">Every contract between a consumer and a credit services business for the purchase of the services of the credit services business shall be in writing, dated, signed by the consumer, and shall include all of the following:
+			<section prefix="1">A conspicuous statement in size equal to at least ten-point bold type, in immediate proximity to the space reserved for the signature of the consumer as follows:
+				"You, the buyer, may cancel this contract at any time prior to midnight of the third business day after the date of the transaction. See the attached notice of cancellation form for an explanation of this right.";
+			</section>
+			<section prefix="2">The terms and conditions of payment, including the total of all payments to be made by the consumer, whether to the credit services business or to some other person;
+			</section>
+			<section prefix="3">A complete and detailed description of the services to be performed and the results to be achieved by the credit services business for or on behalf of the consumer, including all guarantees and all promises of full or partial refunds and a list of the adverse information appearing on the consumer's credit report that the credit services business expects to have modified;
+			</section>
+			<section prefix="4">The principal business address of the credit services business and the name and address of its agent in this Commonwealth authorized to receive service of process;
+			</section>
+			<section prefix="5">A statement asserting the buyer's right to proceed against the bond or letter of credit required under § 59.1-335.4; and
+			</section>
+			<section prefix="6">The name and address of the surety company which issued the bond, or the name and address of the bank which issued the letter of credit.
+			</section>
+		</section>
+		<section prefix="B">1. The contract shall be accompanied by a completed form in duplicate, captioned "NOTICE OF CANCELLATION," which shall be attached to the contract and easily detachable, and which shall contain in at least ten-point bold type the following statement:
+			"NOTICE OF CANCELLATION
+			You may cancel this contract, without any penalty or obligation, at any time prior to midnight of the third business day after the date the contract is signed.
+			If you cancel, any payment made by you under this contract will be returned within ten days following receipt by the seller of your cancellation notice.
+			To cancel this contract, mail or deliver a signed and dated copy of this cancellation notice, or any other written notice, to
+			________________________________________ (Name of Seller)
+			At ________________________________________ (Address of Seller)
+			________________________________________ (Place of Business)
+			Not later than midnight____________________ (Date)
+			I HEREBY CANCEL THIS TRANSACTION.
+			_______________ (Date)
+			________________________________________ (Buyer's Signature)"
+			<section prefix="2">A copy of the fully completed contract and all other documents the credit services business requires the consumer to sign shall be given by the credit services business to the consumer at the time they are signed.
+			</section>
+		</section>
+	</text>
+	<history>1989, cc. 651, 655.</history>
+</law>

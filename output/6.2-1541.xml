@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="15" level="3">Consumer Finance Companies</unit>
+	</structure>
+	<section_number>6.2-1541</section_number>
+	<catch_line>Unlawful contracts void; recovery of amounts paid</catch_line>
+	<text>
+		<section prefix="A">A loan contract shall be void if any act has been done in the making or collection thereof that violates § 6.2-1501.
+		</section>
+		<section prefix="B">The lender on any loan for which a person has taken any action in its making or collection in violation of § 6.2-1501 shall not collect, receive, or retain any principal, interest, or charges whatsoever with respect to the loan, and any principal or interest paid on the loan shall be recoverable by the person by or for whom payment was made.
+		</section>
+	</text>
+	<history>Code 1950, § 6-337; 1966, c. 584, § 6.1-308; 1986, c. 502; 2010, c. 794.</history>
+</law>

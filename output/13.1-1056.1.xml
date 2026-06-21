@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="10" level="3">Foreign Limited Liability Companies</unit>
+	</structure>
+	<section_number>13.1-1056.1</section_number>
+	<catch_line>Automatic cancellation of certificate of registration</catch_line>
+	<text>
+		<section prefix="A">Whether or not the notice described in subsection B of § 13.1-1064 is mailed, if any foreign limited liability company fails to pay its annual registration fee on or before the last day of the third month immediately following its annual registration fee due date each year, such foreign limited liability company shall automatically cease to be authorized to transact business in the Commonwealth and its certificate of registration shall be automatically canceled as of that day.
+		</section>
+		<section prefix="B">If any foreign limited liability company whose registered agent has filed with the Commission a statement of resignation pursuant to § 13.1-1017 fails to file a statement of change pursuant to § 13.1-1016 within 31 days after the date on which the statement of resignation was filed, the Commission shall mail notice to the foreign limited liability company of the impending cancellation of its certificate of registration. If the foreign limited liability company fails to file the statement of change on or before the last day of the second month immediately following the month in which the impending cancellation notice was mailed, the foreign limited liability company shall automatically cease to be authorized to transact business in the Commonwealth and its certificate of registration shall be automatically canceled as of that day.
+		</section>
+		<section prefix="C">The automatic cancellation of a foreign limited liability company's certificate of registration constitutes the appointment of the clerk of the Commission as the foreign limited liability company's agent for service of process in any proceeding based on a cause of action arising during the time the foreign limited liability company was registered to transact business in the Commonwealth. Service of process on the clerk of the Commission under this subsection is service on the foreign limited liability company and shall be made on the clerk in accordance with § 12.1-19.1.
+		</section>
+		<section prefix="D">Cancellation of a foreign limited liability company's certificate of registration does not terminate the authority of the registered agent of the foreign limited liability company.
+		</section>
+	</text>
+	<history>2008, c. 108; 2010, c. 703; 2013, c. 17.</history>
+</law>

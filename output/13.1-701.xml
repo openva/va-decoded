@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="10" level="3">Indemnification</unit>
+	</structure>
+	<section_number>13.1-701</section_number>
+	<catch_line>Determination and authorization of indemnification</catch_line>
+	<text>
+		<section prefix="A">A corporation may not indemnify a director under § 13.1-697 unless authorized for a specific proceeding after a determination has been made that indemnification of the director is permissible because the director has met the relevant standard of conduct set forth in § 13.1-697.
+		</section>
+		<section prefix="B">The determination shall be made:
+			<section prefix="1">If there are two or more disinterested directors, by the board of directors by a majority vote of all the disinterested directors, a majority of whom shall for such purpose constitute a quorum, or by a majority of the members of a committee of two or more disinterested directors appointed by such a vote;
+			</section>
+			<section prefix="2">By special legal counsel:
+				a. Selected in the manner prescribed in subdivision 1; or
+				b. If there are fewer than two disinterested directors, selected by the board of directors, in which selection directors who do not qualify as disinterested directors may participate; or
+			</section>
+			<section prefix="3">By the shareholders, but shares owned by or voted under the control of a director who at the time does not qualify as a disinterested director may not be voted on the determination.
+			</section>
+		</section>
+		<section prefix="C">Authorization of indemnification shall be made in the same manner as the determination that indemnification is permissible, except that if there are fewer than two disinterested directors or if the determination is made by special legal counsel, authorization of indemnification shall be made by those entitled to select special legal counsel under subdivision B 2.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-3.1; 1968, c. 570; 1975, c. 500; 1979, c. 99; 1985, c. 522; 2005, c. 765; 2019, c. 734.</history>
+</law>

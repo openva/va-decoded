@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="4" level="2">Health Care Planning</unit>
+		<unit label="article" identifier="1.1" level="3">Medical Care Facilities Certificate of Public Need</unit>
+	</structure>
+	<section_number>32.1-102.3:1</section_number>
+	<catch_line>Application for certificate not required of certain nursing facilities or nursing homes</catch_line>
+	<text>
+		An application for a certificate that there exists a public need for a proposed project shall not be required for nursing facilities or nursing homes affiliated with facilities which, on January 1, 1982, and thereafter, meet all of the following criteria:
+		<section prefix="1">A facility which is operated as a nonprofit institution.
+		</section>
+		<section prefix="2">A facility which is licensed jointly by the Department as a nursing facility or nursing home and by the Department of Social Services as an assisted living facility.
+		</section>
+		<section prefix="3">A facility which observes the following restrictions on admissions:
+			a. Admissions are only allowed pursuant to the terms of a "life care contract" guaranteeing that the full complement of services offered by the facility is available to the resident as and when needed;
+			b. Admissions to the assisted living facility unit are restricted to individuals defined as ambulatory by the Department of Social Services;
+			c. Admissions to the nursing facility or nursing home unit are restricted to those individuals who are residents of the assisted living facility unit.
+		</section>
+	</text>
+	<history>1982, c. 659; 1993, cc. 957, 993; 2008, c. 857; 2009, c. 175; 2011, c. 155.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="2" level="2">Negotiation, Transfer, and Endorsement</unit>
+	</structure>
+	<section_number>8.3A-205</section_number>
+	<catch_line>Special endorsement; blank endorsement; anomalous endorsement</catch_line>
+	<text>
+		<section prefix="a">If an endorsement is made by the holder of an instrument, whether payable to an identified person or payable to bearer, and the endorsement identifies a person to whom it makes the instrument payable, it is a "special endorsement." When specially endorsed, an instrument becomes payable to the identified person and may be negotiated only by the endorsement of that person. The principles stated in § 8.3A-110 apply to special endorsements.
+		</section>
+		<section prefix="b">If an endorsement is made by the holder of an instrument and it is not a special endorsement, it is a "blank endorsement." When endorsed in blank, an instrument becomes payable to bearer and may be negotiated by transfer of possession alone until specially endorsed.
+		</section>
+		<section prefix="c">The holder may convert a blank endorsement that consists only of a signature into a special endorsement by writing, above the signature of the endorser, words identifying the person to whom the instrument is made payable.
+		</section>
+		<section prefix="d">"Anomalous endorsement" means an endorsement made by a person who is not the holder of the instrument. An anomalous endorsement does not affect the manner in which the instrument may be negotiated.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-361, 6-385 through 6-388, 6-392; 1956, c. 149; 1964, c. 219, §§ 8.3-111, 8.3-204; 1992, c. 693.</history>
+</law>

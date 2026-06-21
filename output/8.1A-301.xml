@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.1A" level="1">Uniform Commercial Code — General Provisions</unit>
+		<unit label="part" identifier="3" level="2">Territorial Applicability and General Rules</unit>
+	</structure>
+	<section_number>8.1A-301</section_number>
+	<catch_line>Territorial applicability; parties' power to choose applicable law</catch_line>
+	<text>
+		<section prefix="a">This section applies to a transaction to the extent that it is governed by another title of the Uniform Commercial Code.
+		</section>
+		<section prefix="b">Except as otherwise provided in this section, when a transaction bears a reasonable relation to this state and also to another state or nation the parties may agree that the law either of this state or such other state or nation shall govern their rights and duties.
+		</section>
+		<section prefix="c">In the absence of an agreement effective under subsection (b), the rights and obligations of the parties are determined by the law that would be selected by application of this State's conflict of laws principles.
+		</section>
+		<section prefix="d">To the extent that the Uniform Commercial Code governs a transaction, if one of the following provisions of the Uniform Commercial Code specifies the applicable law, that provision governs and a contrary agreement is effective only to the extent permitted by the law so specified:
+			<section prefix="1">Rights of creditors against sold goods. § 8.2-402;
+			</section>
+			<section prefix="2">Applicability of the title on leases. §§ 8.2A-105 and 8.2A-106;
+			</section>
+			<section prefix="3">Applicability of the title on bank deposits and collections. § 8.4-102;
+			</section>
+			<section prefix="4">Applicability of the title on funds transfers. § 8.4A-507;
+			</section>
+			<section prefix="5">Letters of credit. § 8.5A-116;
+			</section>
+			<section prefix="6">Applicability of the title on investment securities. § 8.8A-110;
+			</section>
+			<section prefix="7">Law governing perfection, the effect of perfection or nonperfection, and the priority of security interests and agricultural liens. §§ 8.9A-301 through 8.9A-307;
+			</section>
+			<section prefix="8">Controllable Electronic Records. § 8.12-107.
+			</section>
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.1-105; 1973, c. 509; 1990, c. 9; 1991, c. 536; 1996, c. 216; 1997, cc. 121, 343; 2000, c. 1007; 2003, c. 353; 2011, c. 369; 2024, c. 652.</history>
+</law>

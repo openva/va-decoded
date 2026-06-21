@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="2" level="2">Issue and Issuer</unit>
+	</structure>
+	<section_number>8.8A-208</section_number>
+	<catch_line>Effect of signature of authenticating trustee, registrar or transfer agent</catch_line>
+	<text>
+		<section prefix="a">A person signing a security certificate as authenticating trustee, registrar, transfer agent, or the like, warrants to a purchaser for value of the certificated security, if the purchaser is without notice of a particular defect, that:
+			<section prefix="1">the certificate is genuine;
+			</section>
+			<section prefix="2">the person's own participation in the issue of the security is within the person's capacity and within the scope of the authority received by the person from the issuer; and
+			</section>
+			<section prefix="3">the person has reasonable grounds to believe that the certificated security is in the form and within the amount the issuer is authorized to issue.
+			</section>
+		</section>
+		<section prefix="b">Unless otherwise agreed, a person signing under subsection (a) does not assume responsibility for the validity of the security in other respects.
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="3" level="2">General Obligation and Construction of Contract</unit>
+	</structure>
+	<section_number>8.2-314</section_number>
+	<catch_line>Implied warranty: Merchantability; usage of trade</catch_line>
+	<text>
+		<section prefix="1">Unless excluded or modified (§ 8.2-316), a warranty that the goods shall be merchantable is implied in a contract for their sale if the seller is a merchant with respect to goods of that kind. Under this section the serving for value of food or drink to be consumed either on the premises or elsewhere is a sale.
+		</section>
+		<section prefix="2">Goods to be merchantable must be at least such as
+			<section prefix="a">pass without objection in the trade under the contract description; and
+			</section>
+			<section prefix="b">in the case of fungible goods, are of fair average quality within the description; and
+			</section>
+			<section prefix="c">are fit for the ordinary purposes for which such goods are used; and
+			</section>
+			<section prefix="d">run, within the variations permitted by the agreement, of even kind, quality and quantity within each unit and among all units involved; and
+			</section>
+			<section prefix="e">are adequately contained, packaged, and labeled as the agreement may require; and
+			</section>
+			<section prefix="f">conform to the promises or affirmations of fact made on the container or label if any.
+			</section>
+		</section>
+		<section prefix="3">Unless excluded or modified (§ 8.2-316) other implied warranties may arise from course of dealing or usage of trade.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

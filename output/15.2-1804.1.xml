@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="18" level="3">Buildings, Monuments and Lands Generally</unit>
+		<unit label="article" identifier="1" level="4">Purchase, Sale, etc., of Real Property</unit>
+	</structure>
+	<section_number>15.2-1804.1</section_number>
+	<catch_line>(For applicability, see Acts 2021, Sp. Sess. I, c. 473, cl. 2) Building by locality; high performance standards</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Appropriate resilience features" means features that are included to prepare for, by reducing risk or enabling recovery, acts of nature, failures of systems, or adversarial acts that could cause a major disruption to building functionality. A locality maintains the responsibility for identifying those potential hazards for which a project should prepare and for determining the sufficiency of the incorporated features to address the potential hazard, following consideration of any guidance pursuant to subsection E.
+			"Commissioning" means the process of ensuring functional performance of mechanical equipment, water heating equipment, lighting, automated control systems, and building envelope, including the steps described in the ICC G4-2018 "Guideline for Commissioning" or successor guidelines and additional guidelines as may be applicable to such systems.
+			"Design phase" means the design of a building construction or renovation project, which, until July 1, 2025, shall be inclusive of the issuance of a request for proposal and the project budget approval, and after July 1, 2025, shall be based on the effective execution date of the contract with the design team.
+			"EV" means an electric vehicle.
+			"High performance building certification program" means a public building design, construction, and renovation program that achieves certification using the U.S. Green Building Council's Leadership in Energy and Environmental Design (LEED) green building rating standard or the Green Building Initiative's "Green Globes" building standard. For buildings 50,000 square feet and smaller, Earthcraft Light Commercial at the silver level may instead be used for certification under this section.
+			"Locality" means a county, city, or town, inclusive of a school division.
+			"Major disruption" means a disturbance that interrupts the normal activities that are conducted in a building for a duration of time that would require that building to temporarily or permanently cease operations. Localities may define the parameters that would constitute a major disruption based on the nature and duration of a disrupting event, as well as on building typology, consistent with any guidance pursuant to subsection E.
+			"Sufficient ZEV charging and fueling infrastructure" means the provision of EV supply equipment, EV-ready charging electrical capacity and pre-wiring, or fueling infrastructure for other ZEVs that is deemed sufficient based on meeting relevant guidelines or recommendations available during the design phase of a project from either the Virginia Department of Energy pursuant to subsection E or the U.S. Department of Energy.
+			"ZEV" means a zero-emissions vehicle.
+		</section>
+		<section prefix="B">Any locality entering the design phase for the construction of a new building greater than 5,000 gross square feet in size, or the renovation of a building where the cost of the renovation exceeds 50 percent of the value of the building, shall ensure that such building:
+			<section prefix="1">Is designed, constructed, verified, and operated to comply with a high performance building certification program;
+			</section>
+			<section prefix="2">Has sufficient ZEV charging and fueling infrastructure;
+			</section>
+			<section prefix="3">Has features that permit the agency or institution to measure the building's energy consumption, including metering of all electricity, gas, water, and other utilities; and
+			</section>
+			<section prefix="4">Incorporates appropriate onsite renewable energy generation, energy storage, and resilience features as determined by the locality and following consideration of any guidance pursuant to subsection E.
+			</section>
+		</section>
+		<section prefix="C">Notwithstanding the provisions of subsection B, for any such construction or renovation of a building that is less than 20,000 gross square feet in size, the locality may instead ensure that such building achieves the relevant ENERGY STAR certification and implement commissioning. In the event that the specific building type is not eligible for ENERGY STAR certification, then the locality shall demonstrate, using energy modeling, that the project has been designed to perform at least as well as the ENERGY STAR Target Finder value for that building type or that the project has been designed to meet equivalent standards for such building types as provided in guidance pursuant to subsection E.
+		</section>
+		<section prefix="D">Upon a finding that special circumstances make the construction or renovation to the standards impracticable, the governing body of such locality may, by resolution, grant an exemption from any such design and construction standards. Such resolution shall be made in writing and shall explain the basis for granting the exemption. If the local governing body cites cost as a factor in granting an exemption, the local governing body shall include a comparison of the cost the locality will incur over the next 20 years or the lifecycle of the project, whichever is shorter, if the locality does not comply with the standards required by subsection B versus the costs to the locality if the locality were to comply with such standards.
+		</section>
+		<section prefix="E">The Department of Energy shall upon request provide technical assistance related to subsections A, B, and C to localities subject to available budgetary resources. Such technical assistance may include the issuance of guidance.
+		</section>
+		<section prefix="F">Any local governing body may, by ordinance, adopt its own green design and construction program. When a local program includes standards that address all of the requirements in subsection B and is equal in stringency to or more stringent than the standards in subsection B, the locality shall be deemed compliant with the provisions of this section.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 473; 2024, cc. 687, 706.</history>
+</law>

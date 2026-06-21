@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="11" level="4">Department of General Services</unit>
+		<unit label="article" identifier="8" level="5">High Performance Buildings Act</unit>
+	</structure>
+	<section_number>2.2-1183</section_number>
+	<catch_line>Building standards; exemption; report</catch_line>
+	<text>
+		<section prefix="A">Any executive branch agency or institution entering the design phase for the construction of a new building greater than 5,000 gross square feet in size, or the renovation of a building where the cost of the renovation exceeds 50 percent of the value of the building, shall ensure that such building:
+			<section prefix="1">Is designed, constructed, verified, and operated to comply with the high performance building certification program and VEES;
+			</section>
+			<section prefix="2">Has sufficient electric vehicle charging infrastructure. However, the provisions of this subdivision shall not apply to buildings located in the right-of-way of the Interstate System as that term is defined in § 33.2-100; and
+			</section>
+			<section prefix="3">Has features that permit the agency or institution to track the building's energy efficiency and associated carbon emissions, including metering of all electricity, gas, water, and other utilities.
+			</section>
+		</section>
+		<section prefix="B">Any executive branch agency or institution may exceed the design and construction standards required by subsection A, provided that such agency or institution obtains prior written approval from the Director of the Department.
+		</section>
+		<section prefix="C">The Director of the Department may grant an exemption from the design and construction standards required by subsection A upon a finding that special circumstances make the construction or renovation to the standards impracticable. Such exemption shall be made in writing and shall explain the basis for granting such exemption. If the Director cites cost as a factor in granting an exemption, the Director shall include a comparison of the cost the agency or institution will incur over the next 20 years if the agency does not comply with the standards required by subsection A versus the costs to the agency or institution if the agency or institution were to comply with such standards.
+		</section>
+		<section prefix="D">Each agency or institution shall submit an annual report to the Governor by January 1 of each year detailing the energy-efficiency and associated carbon emissions metrics for each building built or renovated in accordance with the design and construction standards required by subsection A and completed during the prior fiscal year.
+		</section>
+	</text>
+	<history>2012, cc. 680, 793; 2021, Sp. Sess. I, c. 473.</history>
+</law>

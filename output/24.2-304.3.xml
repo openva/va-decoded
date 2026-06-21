@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="3" level="2">Election Districts, Precincts, and Polling Places</unit>
+		<unit label="article" identifier="2.1" level="3">Reapportionment of Local Election Districts</unit>
+	</structure>
+	<section_number>24.2-304.3</section_number>
+	<catch_line>Recording reapportionment ordinance; notice requirements</catch_line>
+	<text>
+		A copy of the ordinance reapportioning representation in the governing body of a county, city, or town, including a description of the boundaries and a map showing the boundaries of the districts or wards, shall be recorded in the official minutes of the governing body.
+		The clerk of the county, city, or town shall send a certified copy of the ordinance, including a description of the boundaries and a Geographic Information System (GIS) map showing the boundaries of the districts or wards, to the local electoral board, the Secretary of the Commonwealth, the Department of Elections, and the Division of Legislative Services. Any county, city, or town that does not have GIS capabilities may request the Department of Elections to create on its behalf a GIS map showing the boundaries of the districts or wards as set out in the ordinance, and the Department of Elections shall create such a map.
+	</text>
+	<history>1995, c. 249; 2019, cc. 777, 778.</history>
+</law>

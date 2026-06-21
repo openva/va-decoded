@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.2" level="4">Uniform Directed Trust Act</unit>
+	</structure>
+	<section_number>64.2-779.35</section_number>
+	<catch_line>Limitation of action against trust director</catch_line>
+	<text>
+		<section prefix="A">An action against a trust director for breach of trust must be commenced within the same limitation period as under § 64.2-796 for an action for breach of trust against a trustee in a like position and under similar circumstances.
+		</section>
+		<section prefix="B">A report or accounting has the same effect on the limitation period for an action against a trust director for breach of trust that the report or accounting would have under § 64.2-796 in an action for breach of trust against a trustee in a like position and under similar circumstances.
+		</section>
+	</text>
+	<history>2020, c. 768.</history>
+</law>

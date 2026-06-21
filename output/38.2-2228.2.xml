@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="22" level="2">Liability Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-2228.2</section_number>
+	<catch_line>Certain medical malpractice claims to be reported to the Commission</catch_line>
+	<text>
+		All medical malpractice claims settled or adjudicated to final judgment against a person, corporation, firm, or entity providing health care, and any such claim closed without payment during each calendar year shall be reported annually to the Commission by the insurer of the health care provider. The reports shall not identify the parties. The report shall state the following data, to the extent applicable, in a format prescribed by the Commission:
+		<section prefix="1">The nature of the claim and damages asserted;
+		</section>
+		<section prefix="2">The principal medical and legal issues;
+		</section>
+		<section prefix="3">Attorneys' fees and expenses paid in connection with the claim or defense, to the extent these amounts are known;
+		</section>
+		<section prefix="4">Attorneys' fees and expenses reserved in connection with the claim or defense;
+		</section>
+		<section prefix="5">The amount of the settlement or judgment awarded to the claimant to the extent this amount is known;
+		</section>
+		<section prefix="6">The specialty of each health care provider;
+		</section>
+		<section prefix="7">The date the claim was reported to the company;
+		</section>
+		<section prefix="8">The date the loss occurred;
+		</section>
+		<section prefix="9">The date the claim was closed;
+		</section>
+		<section prefix="10">The date and amount of the initial reserve;
+		</section>
+		<section prefix="11">The amount of loss paid by the insurer if different from the amount of settlement or judgment awarded to the claimant; and
+		</section>
+		<section prefix="12">Any other pertinent information the Commission may require as is consistent with the provisions of this section.
+			The report shall include a statistical summary of the information collected in addition to an individual report on each claim. The report shall be submitted in an electronic format. Statistical summaries and individual closed claim reports shall be a matter of public record, except that data reported under item 10 shall, at the request of the reporting insurer, not be disclosed in the public record.
+			The report shall be filed electronically by July 1 of the year following the applicable calendar year; however, a report with data for calendar years 2002, 2003, and 2004 shall be filed by September 1, 2005.
+		</section>
+	</text>
+	<history>2005, cc. 649, 692.</history>
+</law>

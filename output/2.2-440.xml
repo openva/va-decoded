@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4.4" level="4">Office of the Children's Ombudsman</unit>
+	</structure>
+	<section_number>2.2-440</section_number>
+	<catch_line>Procedures; training; notification of safety concerns.</catch_line>
+	<text>
+		<section prefix="A">The Ombudsman shall establish procedures for the Office for budget, expenditures, and employment. Subject to annual appropriations, the Ombudsman shall employ sufficient personnel to carry out the duties and powers prescribed by this chapter.
+		</section>
+		<section prefix="B">The Ombudsman shall establish procedures for receiving and processing complaints from complainants and individuals not meeting the definition of complainant, conducting investigations, holding informal hearings, and reporting findings and recommendations resulting from investigations.
+		</section>
+		<section prefix="C">Personnel employed by the Office shall receive mandatory training in domestic violence and in handling complaints alleging that a child is an abused or neglected child.
+		</section>
+		<section prefix="D">The Ombudsman shall notify a child-serving agency of any immediate safety concerns regarding a child or children who are part of an active or open child protective services or foster care case. This notification shall occur as soon as possible, but not later than one business day after the Ombudsman becomes aware of the concerns.
+		</section>
+	</text>
+	<history>2020, c. 1090; 2023, c. 750.</history>
+</law>

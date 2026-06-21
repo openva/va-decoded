@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="9" level="3">Virginia Estate Tax</unit>
+		<unit label="article" identifier="1" level="4">Substantive Provisions Generally</unit>
+	</structure>
+	<section_number>58.1-905</section_number>
+	<catch_line>Filing returns; payment of tax due thereon</catch_line>
+	<text>
+		<section prefix="A">The personal representative of every estate subject to the tax imposed by this chapter who is required by the laws of the United States to file a federal estate tax return shall file with the Department, on or before the date the federal estate tax return is required to be filed: (i) a return for the tax due under this chapter; and (ii) a copy of the federal estate tax return.
+		</section>
+		<section prefix="B">If the personal representative has obtained an extension of time for filing the federal estate tax return or paying the federal estate tax or any portion thereof, the filing required by subsection A or payment required by subsection C shall be similarly extended until the end of the time period granted in the federal extension. Upon obtaining an extension of time for filing the federal estate tax return, or paying the federal estate tax or any portion thereof, the personal representative shall provide the Department with a true copy of the instrument providing for this extension.
+		</section>
+		<section prefix="C">The tax due under this chapter shall be paid by the personal representative to the Department not later than the date specified under subsection A or B. If such tax is paid pursuant to subsection B, interest, at a rate equal to the rate of interest established pursuant to § 58.1-15, shall be added for the period between the date when such tax would have been due had no extension been granted and the date of full payment.
+		</section>
+		<section prefix="D">Notwithstanding any other provision of this section, the extensions provided to individual taxpayers under subdivisions 1 and 2 of subsections F and G of § 58.1-344 shall be applicable in the same manner to the tax imposed by this chapter.
+		</section>
+	</text>
+	<history>Code 1950, § 58-238.6; 1978, c. 838; 1984, c. 675; 1990, c. 700; 1991, cc. 346, 361; 1996, c. 401.</history>
+</law>

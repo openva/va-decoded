@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="18" level="2">Sentence; Judgment; Execution of Sentence</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>19.2-295</section_number>
+	<catch_line>Ascertainment of punishment</catch_line>
+	<text>
+		<section prefix="A">Within the limits prescribed by law, the court shall ascertain the term of confinement in the state correctional facility or in jail and the amount of fine, if any, when a person is convicted of a criminal offense, unless the accused is tried by a jury and has requested that the jury ascertain punishment. Such request for a jury to ascertain punishment shall be filed as a written pleading with the court at least 30 days prior to trial.
+		</section>
+		<section prefix="B">When the accused is tried by a jury, deliberations of the jury shall be confined to a determination of the guilt or innocence of the accused, except that when the ascertainment of punishment by the jury has been requested by the accused, a proceeding in accordance with § 19.2-295.1 shall apply.
+		</section>
+		<section prefix="C">In any case in which a jury has fixed a sentence as provided in this chapter and the sentence is modified by the court pursuant to the authority contained within this chapter, the court shall file with the record of the case a written explanation of such modification including the cause therefor.
+		</section>
+	</text>
+	<history>Code 1950, §§ 19.1-291, 19.1-292; 1960, c. 366; 1975, c. 495; 2007, c. 259; 2020, Sp. Sess. I, c. 43.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="D" level="3">Guardianship of Incapacitated Persons</unit>
+		<unit label="chapter" identifier="21" level="4">Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act</unit>
+		<unit label="article" identifier="4" level="5">Registration and Recognition of Orders From Other States</unit>
+	</structure>
+	<section_number>64.2-2118</section_number>
+	<catch_line>Effect of registration</catch_line>
+	<text>
+		<section prefix="A">Upon registration of a guardianship or conservatorship order from another state, the guardian or conservator may exercise in the Commonwealth all powers authorized in the order of appointment except as prohibited under the laws of the Commonwealth, including maintaining actions and proceedings in the Commonwealth and, if the guardian or conservator is not a resident of the Commonwealth, subject to any conditions imposed upon nonresident parties.
+		</section>
+		<section prefix="B">A court of the Commonwealth may grant any relief available under this chapter and other laws of the Commonwealth to enforce a registered order.
+		</section>
+	</text>
+	<history>2011, c. 518, § 37.2-1050; 2012, c. 614.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="12" level="2">Miscellaneous</unit>
+		<unit label="article" identifier="3" level="3">Miscellaneous Offenses in General</unit>
+	</structure>
+	<section_number>18.2-503</section_number>
+	<catch_line>Possession or duplication of certain keys</catch_line>
+	<text>
+		<section prefix="a">No person shall knowingly possess any key to the lock of any building or other property owned by the Commonwealth of Virginia, or a department, division, agency or political subdivision thereof, without receiving permission from a person duly authorized to give such permission to possess such key.
+		</section>
+		<section prefix="b">No person, without receiving permission from a person duly authorized to give such permission, shall knowingly duplicate, copy or make a facsimile of any key to a lock of a building or other property owned by the Commonwealth of Virginia, or a department, division, agency or political subdivision thereof.
+			Violation of this section shall constitute a Class 3 misdemeanor.
+		</section>
+	</text>
+	<history>Code 1950, § 18.1-408.1; 1972, c. 139; 1975, cc. 14, 15; 1984, c. 61.</history>
+</law>

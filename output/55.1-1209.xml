@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="III" level="2">Rental Conveyances</unit>
+		<unit label="chapter" identifier="12" level="3">Virginia Residential Landlord and Tenant Act</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>55.1-1209</section_number>
+	<catch_line>Confidentiality of tenant records</catch_line>
+	<text>
+		<section prefix="A">No landlord or managing agent shall release information about a tenant or prospective tenant in the possession of the landlord or managing agent to a third party unless:
+			<section prefix="1">The tenant or prospective tenant has given prior written consent;
+			</section>
+			<section prefix="2">The information is a matter of public record as defined in § 2.2-3701;
+			</section>
+			<section prefix="3">The information is a summary of the tenant's rent payment record, including the amount of the tenant's periodic rent payment;
+			</section>
+			<section prefix="4">The information is a copy of a material noncompliance notice that has not been remedied or a termination notice given to the tenant under § 55.1-1245 and the tenant did not remain in the premises after such notice was given;
+			</section>
+			<section prefix="5">The information is requested by a local, state, or federal law-enforcement or public safety official in the performance of his duties;
+			</section>
+			<section prefix="6">The information is requested pursuant to a subpoena in a civil case;
+			</section>
+			<section prefix="7">The information is requested by a local commissioner of the revenue in accordance with § 58.1-3901;
+			</section>
+			<section prefix="8">The information is requested by a contract purchaser of the landlord's property, provided that the contract purchaser agrees in writing to maintain the confidentiality of such information;
+			</section>
+			<section prefix="9">The information is requested by a lender of the landlord for financing or refinancing of the property;
+			</section>
+			<section prefix="10">The information is requested by the commanding officer, military housing officer, or military attorney of the tenant;
+			</section>
+			<section prefix="11">The third party is the landlord's attorney or the landlord's collection agency;
+			</section>
+			<section prefix="12">The information is otherwise provided in the case of an emergency;
+			</section>
+			<section prefix="13">The information is requested by the landlord to be provided to the managing agent or a successor to the managing agent; or
+			</section>
+			<section prefix="14">The information is requested by an employee or independent contractor of the United States to obtain census information pursuant to federal law.
+			</section>
+		</section>
+		<section prefix="B">Any information received by a landlord pursuant to § 55.1-1203 shall remain a confidential tenant record and shall not be released to any person except in response to a subpoena.
+		</section>
+		<section prefix="C">A tenant may designate a third party to receive duplicate copies of a summons that has been issued pursuant to § 8.01-126 and of written notices from the landlord relating to the tenancy. Where such a third party has been designated by the tenant, the landlord shall mail the duplicate copy of any summons issued pursuant to § 8.01-126 or notice to the designated third party at the same time the summons or notice is mailed to or served upon the tenant. Nothing in this subsection shall be construed to grant standing to any third party designated by the tenant to challenge actions of the landlord in which notice was mailed pursuant to this subsection. The failure of the landlord to give notice to a third party designated by the tenant shall not affect the validity of any judgment entered against the tenant.
+		</section>
+		<section prefix="D">A landlord or managing agent may enter into an agreement with a third-party service provider to maintain tenant records in electronic form or other medium. In such case, the landlord and managing agent shall not be liable under this section in the event of a breach of the electronic data of such third-party service provider, except in the case of gross negligence or intentional act. Nothing in this section shall be construed to require a landlord or managing agent to indemnify such third-party service provider.
+		</section>
+		<section prefix="E">A tenant may request a copy of his tenant records in paper or electronic form. If the rental agreement so provides, a landlord may charge a tenant requesting more than one copy of his records the actual costs of preparing copies of such records. However, if the landlord makes available tenant records to each tenant by electronic portal, the tenant shall not be required to pay for access to such portal.
+		</section>
+	</text>
+	<history>1985, c. 567, § 55-248.9:1; 2000, c. 760; 2003, c. 426; 2006, cc. 491, 667; 2008, c. 489; 2010, c. 550; 2015, c. 596; 2016, c. 744; 2018, c. 221; 2019, c. 712; 2020, c. 388.</history>
+</law>

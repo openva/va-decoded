@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="9" level="3">Conversions and Mergers</unit>
+	</structure>
+	<section_number>50-73.129</section_number>
+	<catch_line>Effect of merger</catch_line>
+	<text>
+		<section prefix="A">When a merger takes effect:
+			<section prefix="1">The separate existence of every partnership or limited partnership that is a party to the merger, other than the surviving entity, ceases;
+			</section>
+			<section prefix="2">All property owned by each of the merged partnerships or limited partnerships vests in the surviving entity;
+			</section>
+			<section prefix="3">All obligations of every partnership or limited partnership that is a party to the merger become the obligations of the surviving entity; and
+			</section>
+			<section prefix="4">An action or proceeding pending against a partnership or limited partnership that is a party to the merger may be continued as if the merger had not occurred, or the surviving entity may be substituted as a party to the action or proceeding.
+			</section>
+		</section>
+		<section prefix="B">The clerk of the Commission is the agent for service of process in an action or proceeding against a surviving foreign partnership, limited partnership, limited liability company or corporation to enforce an obligation of a domestic partnership or limited partnership that is a party to a merger. The surviving entity shall promptly file with the Commission the mailing address of its principal office and of any change of address. Service on the surviving foreign partnership or limited partnership shall be made on the clerk of the Commission in accordance with § 12.1-19.1.
+		</section>
+		<section prefix="C">Subject to § 50-73.96, a partner of the surviving partnership or limited partnership is liable for:
+			<section prefix="1">All obligations of a party to the merger for which the partner was personally liable before the merger;
+			</section>
+			<section prefix="2">All other obligations of the surviving entity incurred before the merger by a party to the merger, but those obligations may be satisfied only out of property of the entity; and
+			</section>
+			<section prefix="3">All obligations of the surviving entity incurred after the merger takes effect, but those obligations may be satisfied only out of property of the entity if the partner is a limited partner.
+			</section>
+		</section>
+		<section prefix="D">If the obligations incurred before the merger by a party to the merger are not satisfied out of the property of the surviving partnership or limited partnership, the general partners of that party immediately before the effective date of the merger shall contribute the amount necessary to satisfy that party's obligations to the surviving entity, as provided in § 50-73.123 or in the limited partnership act of the jurisdiction in which the party was formed, as the case may be, as if the merged party were dissolved.
+		</section>
+		<section prefix="E">A partner of a party to a merger who does not become a partner of the surviving partnership or limited partnership is dissociated from the entity, of which that partner was a partner, as of the date the merger takes effect. The surviving entity shall cause the partner's interest in the entity to be purchased under § 50-73.112 or another statute specifically applicable to that partner's interest with respect to a merger. The surviving entity is bound under § 50-73.113 by an act of a general partner dissociated under this subsection, and the partner is liable under § 50-73.114 for transactions entered into by the surviving entity after the merger takes effect.
+		</section>
+	</text>
+	<history>1996, c. 292; 2007, c. 631.</history>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="8" level="3">Regulation of Traffic</unit>
+		<unit label="article" identifier="1" level="4">General and Miscellaneous</unit>
+	</structure>
+	<section_number>46.2-800.1</section_number>
+	<catch_line>Riding animals on highways after sunset</catch_line>
+	<text>
+		<section prefix="A">No person riding upon any animal on a highway between sunset and sunrise shall ride the animal on the roadway unless the rider:
+			<section prefix="1">Wears a hat made of or coated with reflectorized material; or
+			</section>
+			<section prefix="2">Wears upper body clothing made of or coated with reflectorized material visible from 360°; or
+			</section>
+			<section prefix="3">Displays at least 100 square inches of solid reflectorized material at shoulder level visible from 360°; or
+			</section>
+			<section prefix="4">Carries a light visible in clear weather from a distance of 500 feet.
+			</section>
+		</section>
+		<section prefix="B">The requirements of subsection A of this section shall only apply to the riders of the first and last animals in a group riding one behind the other.
+		</section>
+		<section prefix="C">A violation of this section shall not be construed as negligence per se in any civil action.
+		</section>
+	</text>
+	<history>1989, c. 295, § 46.1-171.01.</history>
+</law>

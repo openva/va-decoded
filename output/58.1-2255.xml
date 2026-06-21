@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="5" level="4">Provisions Applicable to Alternative Fuels</unit>
+	</structure>
+	<section_number>58.1-2255</section_number>
+	<catch_line>Returns and payments by bulk users and retailers of alternative fuel; storage</catch_line>
+	<text>
+		<section prefix="A">Each bulk user of alternative fuel and retailer of alternative fuel shall file a monthly informational return with the Commissioner. A monthly return covers a calendar month and is due by the twentieth day of the second month that follows such month.
+			The return shall include the following information and any other information required by the Commissioner:
+			<section prefix="1">The amount of alternative fuel received during the month;
+			</section>
+			<section prefix="2">The amount of alternative fuel sold or used during the month;
+			</section>
+			<section prefix="3">The number of gallons for which a deduction was taken during the month pursuant to § 58.1-2254, by provider, if applicable; and
+			</section>
+			<section prefix="4">The number of gallons sold in exempt sales during the month, by type of sale, and the purchaser of the fuel in the exempt sales, if applicable.
+			</section>
+		</section>
+		<section prefix="B">If the number of gallons for which an eligible retailer of alternative fuel takes a deduction during a month exceeds the number of exempt gallons or gallon equivalent sold, the retailer of alternative fuel shall pay tax on the difference at the rate imposed by § 58.1-2249. The tax shall be payable when the informational return is due.
+		</section>
+		<section prefix="C">A bulk user of alternative fuel or a retailer of alternative fuel may store highway and nonhighway alternative fuel in separate storage tanks or in the same storage tank. If highway and nonhighway alternative fuel are stored in separate storage tanks, the tank for the nonhighway fuel shall be marked in accordance with the requirements set by § 58.1-2279 for dyed diesel storage facilities. If highway and nonhighway alternative fuel are stored in the same storage tank, the storage tank shall be equipped with separate metering devices for the highway fuel and the nonhighway fuel. If the Commissioner determines that a bulk user of alternative fuel or retailer of alternative fuel used or sold alternative fuel to operate a highway vehicle when the fuel was dispensed from a storage tank or through a meter marked for nonhighway use, all fuel delivered into that storage tank shall be presumed to have been used to operate a highway vehicle.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758; 2002, c. 7.</history>
+</law>

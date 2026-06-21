@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="2" level="2">Collection of Items: Depositary and Collecting Banks</unit>
+	</structure>
+	<section_number>8.4-210</section_number>
+	<catch_line>Presentment by notice of item not payable by, through or at a bank; liability of drawer or endorser</catch_line>
+	<text>
+		<section prefix="a">Unless otherwise instructed, a collecting bank may present an item not payable by, through or at a bank by sending to the party to accept or pay a written notice that the bank holds the item for acceptance or payment. The notice must be sent in time to be received on or before the day when presentment is due and the bank must meet any requirement of the party to accept or pay under § 8.3A-501 by the close of the bank's next banking day after it knows of the requirement.
+		</section>
+		<section prefix="b">If presentment is made by notice and payment, acceptance or request for compliance with a requirement under § 8.3A-501 is not received by the close of business on the day after maturity or in the case of demand items by the close of business on the third banking day after notice was sent, the presenting bank may treat the item as dishonored and charge any drawer or endorser by sending it notice of the facts.
+		</section>
+	</text>
+	<history>1964, c. 219; 1992, c. 693.</history>
+</law>

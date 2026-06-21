@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="52" level="1">Police (State)</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Voluntary Do Not Sell Firearms List</unit>
+	</structure>
+	<section_number>52-52</section_number>
+	<catch_line>Prohibited conduct; penalty</catch_line>
+	<text>
+		<section prefix="A">It is unlawful for any person to inquire as to whether another person has been enrolled into the List for any purpose other than to determine such person's eligibility to purchase, possess, or transport a firearm.
+		</section>
+		<section prefix="B">It is unlawful for any person to knowingly give any false information or to make any false statement with the intent of enrolling or removing any other person into or from the List.
+		</section>
+		<section prefix="C">It is unlawful for any person to discriminate against a person with respect to his health care services, employment, education, housing, insurance, governmental benefits, or contracting because that person is not on the List, is on the List, or has previously been on the List.
+		</section>
+		<section prefix="D">A violation of this section is a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>2020, c. 1173.</history>
+</law>

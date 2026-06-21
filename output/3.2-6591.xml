@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="V" level="2">Domestic Animals</unit>
+		<unit label="chapter" identifier="65" level="3">Comprehensive Animal Care</unit>
+		<unit label="article" identifier="13" level="4">Animal Research</unit>
+	</structure>
+	<section_number>3.2-6591</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article, unless the context requires a different meaning:
+		"Alternative test method" means a test method that (i) provides information of equivalent or better scientific quality and relevance than animal test methods, (ii) has been identified by a validation body and adopted by the relevant federal agency or program within an agency responsible for regulating the specific product or activity for which the test is being conducted, and (iii) does not use animals, or, when there is no test method available that does not use animals, uses the fewest animals possible and reduces the level of suffering or stress, to the greatest extent possible, of an animal used for testing. "Alternative test method" includes computational toxicology and bioinformatics, high-throughput screening methods, testing of categories of chemical substances, tiered testing methods, in vitro studies, and systems biology and new or revised methods.
+		"Animal" means any live vertebrate nonhuman animal.
+		"Animal test method" means a process or procedure that uses animals to obtain information on the characteristics of a chemical or agent or the biological effect of exposure to a chemical or agent under specified conditions.
+		"Animal testing facility" means any facility, including a private entity, state agency, or institution of higher education, that confines and uses dogs or cats for research, education, testing, or other scientific or medical purposes.
+		"Contract testing facility" means any partnership, corporation, association, or other legal relationship that tests chemicals, ingredients, product formulations, or products on behalf of another entity.
+		"Manufacturer" means any partnership, corporation, association, or other legal entity that produces chemicals, ingredients, product formulations, or products.
+		"Validation body" means an organization that seeks to facilitate development, validation, and regulatory acceptance of new and revised regulatory test methods that reduce, refine, or replace the use of animals in testing, such as the Interagency Coordinating Committee on the Validation of Alternative Methods or other similar organizations.
+	</text>
+	<history>2018, c. 672; 2021, Sp. Sess. I, c. 340.</history>
+</law>

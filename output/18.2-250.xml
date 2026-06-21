@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="7" level="2">Crimes Involving Health and Safety</unit>
+		<unit label="article" identifier="1" level="3">Drugs</unit>
+	</structure>
+	<section_number>18.2-250</section_number>
+	<catch_line>Possession of controlled substances unlawful</catch_line>
+	<text>
+		<section prefix="A">It is unlawful for any person knowingly or intentionally to possess a controlled substance unless the substance was obtained directly from, or pursuant to, a valid prescription or order of a practitioner while acting in the course of his professional practice, or except as otherwise authorized by the Drug Control Act (§ 54.1-3400 et seq.).
+			Upon the prosecution of a person for a violation of this section, ownership or occupancy of premises or vehicle upon or in which a controlled substance was found shall not create a presumption that such person either knowingly or intentionally possessed such controlled substance.
+			<section prefix="a">Any person who violates this section with respect to any controlled substance classified in Schedule I or II of the Drug Control Act shall be guilty of a Class 5 felony, except that any person other than an inmate of a penal institution as defined in § 53.1-1 or in the custody of an employee thereof who violates this section with respect to a cannabimimetic agent is guilty of a Class 1 misdemeanor.
+			</section>
+			<section prefix="b">Any person other than an inmate of a penal institution as defined in § 53.1-1 or in the custody of an employee thereof, who violates this section with respect to a controlled substance classified in Schedule III shall be guilty of a Class 1 misdemeanor.
+				<section prefix="b1">Violation of this section with respect to a controlled substance classified in Schedule IV shall be punishable as a Class 2 misdemeanor.
+				</section>
+				<section prefix="b2">Violation of this section with respect to a controlled substance classified in Schedule V shall be punishable as a Class 3 misdemeanor.
+				</section>
+			</section>
+			<section prefix="c">Violation of this section with respect to a controlled substance classified in Schedule VI shall be punishable as a Class 4 misdemeanor.
+			</section>
+		</section>
+		<section prefix="B">The provisions of this section shall not apply to members of state, federal, county, city or town law-enforcement agencies, jail officers, or correctional officers, as defined in § 53.1-1, certified as handlers of dogs trained in the detection of controlled substances when possession of a controlled substance or substances is necessary in the performance of their duties.
+		</section>
+	</text>
+	<history>Code 1950, § 54-524.101:2; 1972, c. 798; 1973, c. 64; 1975, cc. 14, 15; 1976, c. 614; 1978, cc. 151, 177, 179; 1979, c. 435; 1980, c. 285; 1991, c. 649; 1998, c. 116; 2014, cc. 674, 719.</history>
+</law>

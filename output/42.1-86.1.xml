@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="42.1" level="1">Libraries</unit>
+		<unit label="chapter" identifier="7" level="2">Virginia Public Records Act</unit>
+	</structure>
+	<section_number>42.1-86.1</section_number>
+	<catch_line>Disposition of public records</catch_line>
+	<text>
+		<section prefix="A">No agency shall sell or give away public records. No agency shall destroy or discard a public record unless (i) the record appears on a records retention and disposition schedule approved pursuant to § 42.1-82 and the record's retention period has expired; (ii) a certificate of records destruction, as designated by the Librarian of Virginia, has been properly completed and approved by the agency's designated records officer; and (iii) there is no litigation, audit, investigation, request for records pursuant to the Virginia Freedom of Information Act (§ 2.2-3700 et seq.), or renegotiation of the relevant records retention and disposition schedule pending at the expiration of the retention period for the applicable records series. After a record is destroyed or discarded, the agency shall forward the original certificate of records destruction to The Library of Virginia.
+		</section>
+		<section prefix="B">No agency shall destroy any public record created before 1912 without first offering it to The Library of Virginia.
+		</section>
+		<section prefix="C">Each agency shall ensure that records created after July 1, 2006 and authorized to be destroyed or discarded in accordance with subsection A, are destroyed or discarded in a timely manner in accordance with the provisions of this chapter; provided, however, such records that contain identifying information as defined in clauses (iii) through (ix), or clause (xii) of subsection C of § 18.2-186.3, shall be destroyed within six months of the expiration of the records retention period.
+		</section>
+	</text>
+	<history>1990, c. 778; 1998, c. 427; 2005, c. 787; 2006, cc. 60, 909.</history>
+</law>

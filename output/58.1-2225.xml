@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="3" level="4">Motor Fuel Tax; Liability</unit>
+	</structure>
+	<section_number>58.1-2225</section_number>
+	<catch_line>Backup tax; liability</catch_line>
+	<text>
+		<section prefix="A">There is hereby levied a tax at the rate specified in § 58.1-2217 on the following:
+			<section prefix="1">Dyed diesel fuel that is used to operate a highway vehicle for a taxable use other than a use allowed under 26 U.S.C. § 4082;
+			</section>
+			<section prefix="2">Motor fuel that was allowed an exemption from the motor fuel tax and was then used for a taxable purpose; and
+			</section>
+			<section prefix="3">Motor fuel that is used to operate a highway vehicle after an application for a refund of tax paid on the motor fuel is made or allowed on the basis that the motor fuel was used for an off-highway purpose.
+			</section>
+		</section>
+		<section prefix="B">The operator of a highway vehicle that uses motor fuel that is taxable under this section is liable for the tax. If the highway vehicle that uses the fuel is owned by or leased to a motor carrier, the operator of the highway vehicle and the motor carrier shall be jointly and severally liable for the tax. If the end seller of motor fuel taxable under this section knew or had reason to know that the motor fuel would be used for a purpose that is taxable under this section, the operator of the highway vehicle and the end seller shall be jointly and severally liable for the tax.
+		</section>
+		<section prefix="C">The tax liability imposed by this section shall be in addition to any other penalty imposed pursuant to this chapter.
+		</section>
+		<section prefix="D">Persons diverting motor fuel into Virginia that had an original destination outside of Virginia shall incur liability for the tax levied for such motor fuel, as specified in § 58.1-2217, and shall be subject to the reporting and payment requirements set forth in subsection E of § 58.1-2230.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758; 2003, c. 781.</history>
+</law>

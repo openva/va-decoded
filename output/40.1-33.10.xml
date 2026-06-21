@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3" level="2">Protection of Employees</unit>
+		<unit label="article" identifier="2.2" level="3">Organ Donation Leave</unit>
+	</structure>
+	<section_number>40.1-33.10</section_number>
+	<catch_line>Health benefit plan; commission</catch_line>
+	<text>
+		<section prefix="A">During any period that an eligible employee takes organ donation leave, an employer shall maintain coverage of a health benefit plan for the duration of the organ donation leave and in the same manner that coverage would have been provided if the eligible employee had continued in employment continuously for the duration of the organ donation leave.
+		</section>
+		<section prefix="B">If an eligible employee works on a commission basis, an employer shall pay to the eligible employee during any period of organ donation leave any commission that becomes due because of work the eligible employee performed before taking organ donation leave.
+		</section>
+	</text>
+	<history>2023, c. 751.</history>
+</law>

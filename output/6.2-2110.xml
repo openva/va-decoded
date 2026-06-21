@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="21" level="3">Check Cashers</unit>
+	</structure>
+	<section_number>6.2-2110</section_number>
+	<catch_line>Revocation of registration</catch_line>
+	<text>
+		<section prefix="A">The Commission may revoke a registration under this chapter upon any of the following grounds:
+			<section prefix="1">Any violation of the provisions of this chapter or regulations adopted thereunder or of any law or regulation applicable to the conduct of the registrant's business;
+			</section>
+			<section prefix="2">Charging fees for cashing items in excess of fees posted at any place of business or filed with the Commission pursuant to § 6.2-2105;
+			</section>
+			<section prefix="3">Conviction of a felony or misdemeanor involving fraud, misrepresentation, deceit, false swearing, or theft; or
+			</section>
+			<section prefix="4">Refusal to permit or respond to an investigation by the Commission.
+			</section>
+		</section>
+		<section prefix="B">For the purposes of this section, acts of any officer, director, member, partner, or principal shall be deemed acts of the registrant.
+		</section>
+	</text>
+	<history>1995, c. 221, § 6.1-442; 2010, c. 794.</history>
+</law>

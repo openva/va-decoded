@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="2" level="3">Parks and Recreation</unit>
+		<unit label="article" identifier="3" level="4">Virginia Natural Area Preserves Act</unit>
+	</structure>
+	<section_number>10.1-212</section_number>
+	<catch_line>Virginia Natural Heritage Program</catch_line>
+	<text>
+		<section prefix="A">The Virginia Natural Heritage Program is hereby established and shall be administered by the Department.
+		</section>
+		<section prefix="B">For purposes of this Program the Department shall:
+			<section prefix="1">Produce an inventory of the Commonwealth's natural heritage resources, including their location and ecological status.
+			</section>
+			<section prefix="2">Maintain a natural heritage data bank of inventory data and other relevant information for ecologically significant sites supporting natural heritage resources. Information from this data bank will be made available to public agencies and may be made available to private institutions or individuals for environmental assessment and land management purposes.
+			</section>
+			<section prefix="3">Develop a Natural Heritage Plan which establishes priorities for the protection, acquisition and management of registered and dedicated natural areas and natural area preserves.
+			</section>
+		</section>
+		<section prefix="C">The Program shall include other functions as may be assigned by the Director for the registration, dedication, protection and stewardship of natural areas and natural area preserves.
+		</section>
+	</text>
+	<history>1989, c. 553.</history>
+</law>

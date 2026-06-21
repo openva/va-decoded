@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="6" level="3">Titling and Registration of Motor Vehicles</unit>
+		<unit label="article" identifier="1" level="4">Titling and Registration, Generally</unit>
+	</structure>
+	<section_number>46.2-608</section_number>
+	<catch_line>When application for registration or certificate of title rejected</catch_line>
+	<text>
+		The Department may reject an application for the registration of a motor vehicle, trailer, or semitrailer or certificate of title when:
+		<section prefix="1">The applicant for registration is not entitled to it under the provisions of this title or Title 43;
+		</section>
+		<section prefix="2">The applicant has neglected or refused to furnish the Department with the information required on the appropriate official form or other information required by the Department;
+		</section>
+		<section prefix="3">The required fees have not been paid;
+		</section>
+		<section prefix="4">The vehicle is not equipped with equipment required by this title or the vehicle is equipped with equipment prohibited by this title;
+		</section>
+		<section prefix="5">The applicant, if not a resident of the Commonwealth, has not filed with the Commissioner a power of attorney appointing him the applicant's authorized agent or attorney-in-fact upon whom process or notice may be served as required in § 46.2-601;
+		</section>
+		<section prefix="6">There is reason to believe that the application or accompanying documents have been altered or contain any false statement;
+		</section>
+		<section prefix="7">The vehicle is a commercial motor vehicle and is being operated by a motor carrier that has been prohibited to operate by a federal agency;
+		</section>
+		<section prefix="8">The vehicle is a commercial motor vehicle and the vehicle has been assigned for safety to a motor carrier that has been prohibited from operating by a federal agency or a motor carrier whose business is operated, managed, or otherwise controlled or affiliated with a person who is ineligible for registration, including the owner or a relative, family member, corporate officer, or shareholder; or
+		</section>
+		<section prefix="9">The vehicle is a commercial motor vehicle and the applicant has applied on behalf of or for the benefit of the real party in interest who has been issued a federal out of service order or if the applicant's business is operated, managed, or otherwise controlled or affiliated with a person who is ineligible for registration, including the applicant or an entity, relative, family member, corporate officer, or shareholder.
+			For purposes of this section, the terms "commercial motor vehicle" and "motor carrier" shall be as defined in § 52-8.4.
+		</section>
+	</text>
+	<history>Code 1950, § 46-54; 1958, c. 541, § 46.1-56; 1968, c. 605; 1986, c. 490; 1989, c. 727; 2011, c. 61.</history>
+</law>

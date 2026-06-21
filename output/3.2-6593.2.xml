@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="V" level="2">Domestic Animals</unit>
+		<unit label="chapter" identifier="65" level="3">Comprehensive Animal Care</unit>
+		<unit label="article" identifier="13" level="4">Animal Research</unit>
+	</structure>
+	<section_number>3.2-6593.2</section_number>
+	<catch_line>Animal testing facilities; public notification</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section:
+			"Animal" means any live vertebrate nonhuman species except fish.
+			"Animal testing facility" means any facility of a state agency or institution of higher education that confines and uses animals for research, education, testing, or other experimental, scientific, or medical purposes. "Animal testing facility" does not include any agricultural operation, as that term is defined in § 3.2-300, or any agricultural education event.
+			"Animal test method" means a process or procedure that uses animals for research, education, testing, or experimental, scientific, or biomedical purposes.
+			"Animal Welfare Act" means the federal Animal Welfare Act (7 U.S.C. § 2131 et seq.).
+			"APHIS" means the U.S. Department of Agriculture Animal and Plant Health Inspection Service.
+			"Contract testing facility" means any partnership, corporation, association, or other legal relationship that conducts research, education, testing, or experimental, scientific, or biomedical studies on behalf of another entity.
+			"Critical noncompliance" means an instance of noncompliance that resulted in a serious or adverse effect on the health and well-being of one or more animals, as determined by the U.S. Department of Agriculture Animal and Plant Health Inspection Service.
+			"Federal facility" means any building or infrastructure used or to be used by the federal government, including any building or infrastructure located on lands owned by the federal government.
+			"Inspection report" means any report issued by the U.S. Department of Agriculture Animal and Plant Health Inspection Service to an animal testing facility.
+		</section>
+		<section prefix="B">Any animal testing facility, contract testing facility, or manufacturer that uses an animal test method shall display a link to its annual report (APHIS Form 7023), as submitted to the U.S. Department of Agriculture pursuant to the Animal Welfare Act, on the homepage or landing page of the facility's or manufacturer's website on or before December 1 for the preceding federal fiscal year.
+		</section>
+		<section prefix="C">Any animal testing facility shall (i) within 30 days of receiving a U.S. Department of Agriculture inspection report, make such inspection report publicly available along with any other relevant U.S. Department of Agriculture final incident reports, and relevant documents generated during or as a result of internal or external reviews and (ii) within 30 days of receiving any U.S. Department of Agriculture official warning, notice of alleged violation, settlement agreement or stipulation, administrative complaint, decision or order, or any other enforcement record, make such documents publicly available. Any animal testing facility required to make documents publicly available pursuant to this subsection shall do so by either (a) displaying a link to access such documents on the homepage or landing page of the animal testing facility's website or (b) if such animal testing facility does not have a website, issuing a press release or other similar publication. An animal testing facility may redact information contained within such documents in accordance with the Virginia Freedom of Information Act (§ 2.2-3700 et seq.).
+		</section>
+		<section prefix="D">If an animal testing facility operated by an institution of higher education in the Commonwealth receives a citation for critical noncompliance under the Animal Welfare Act or regulations adopted thereunder, such animal testing facility shall notify the leadership of such institution of higher education, including the president, dean, and board of visitors or board of trustees.
+		</section>
+		<section prefix="E">The provisions of this section shall not apply to any federal facility or privately owned licensed veterinary practice.
+		</section>
+	</text>
+	<history>2023, cc. 532, 533; 2025, c. 329.</history>
+</law>

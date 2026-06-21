@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="26" level="2">Uniform Trade Secrets Act</unit>
+	</structure>
+	<section_number>59.1-341</section_number>
+	<catch_line>Effect on other law</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsection B of this section, this chapter displaces conflicting tort, restitutionary, and other law of this Commonwealth providing civil remedies for misappropriation of a trade secret.
+		</section>
+		<section prefix="B">This chapter does not affect:
+			<section prefix="1">Contractual remedies whether or not based upon misappropriation of a trade secret; or
+			</section>
+			<section prefix="2">Other civil remedies that are not based upon misappropriation of a trade secret; or
+			</section>
+			<section prefix="3">Criminal remedies, whether or not based upon misappropriation of a trade secret.
+			</section>
+		</section>
+	</text>
+	<history>1986, c. 210.</history>
+</law>

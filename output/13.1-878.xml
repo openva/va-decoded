@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="9" level="3">Indemnification</unit>
+	</structure>
+	<section_number>13.1-878</section_number>
+	<catch_line>Advance for expenses</catch_line>
+	<text>
+		<section prefix="A">A corporation may pay for or reimburse the reasonable expenses incurred by a director who is a party to a proceeding in advance of final disposition of the proceeding if the director furnishes the corporation a signed written undertaking, executed personally or on his behalf, to repay any funds advanced if he is not entitled to mandatory indemnification under § 13.1-877 and it is ultimately determined under § 13.1-879.1 or 13.1-880 that he has not met the relevant standard of conduct.
+		</section>
+		<section prefix="B">The undertaking required by subsection A shall be an unlimited general obligation of the director but need not be secured and may be accepted without reference to financial ability to make repayment.
+		</section>
+		<section prefix="C">Authorizations of payments under this section shall be made by:
+			<section prefix="1">The board of directors:
+				a. If there are two or more disinterested directors, by a majority vote of all the disinterested directors, a majority of whom shall for such purpose constitute a quorum, or by a majority of the members of a committee of two or more disinterested directors appointed by such a vote; or
+				b. If there are fewer than two disinterested directors, by the vote necessary for action by the board in accordance with subsection C of § 13.1-868, in which authorization directors who do not qualify as disinterested directors may participate; or
+			</section>
+			<section prefix="2">The members, but any membership interest under the control of a director who at the time does not qualify as a disinterested director may not be voted on the authorization.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-205.1; 1968, c. 689; 1975, c. 500; 1981, c. 57; 1985, c. 522; 2007, c. 925; 2010, c. 171; 2015, c. 611.</history>
+</law>

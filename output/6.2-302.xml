@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="3" level="3">Interest and Usury</unit>
+		<unit label="article" identifier="2" level="4">Legal, Judgment, and Contract Rates of Interest</unit>
+	</structure>
+	<section_number>6.2-302</section_number>
+	<catch_line>Judgment rate of interest</catch_line>
+	<text>
+		<section prefix="A">The judgment rate of interest shall be an annual rate of six percent, except that a money judgment entered in an action arising from a contract shall carry interest at the rate lawfully charged on such contract, or at six percent annually, whichever is higher.
+		</section>
+		<section prefix="B">If the contract or other instrument does not fix an interest rate, the court shall apply the judgment rate of six percent to calculate prejudgment interest pursuant to § 8.01-382 and to calculate post-judgment interest.
+		</section>
+		<section prefix="C">The rate of interest for a judgment shall be the judgment rate of interest in effect at the time of entry of the judgment on any amounts for which judgment is entered and shall not be affected by any subsequent changes to the rate of interest stated in this section.
+		</section>
+	</text>
+	<history>1987, cc. 622, 623, 630, § 6.1-330.54; 1991, c. 508; 2004, c. 646; 2005, c. 455; 2010, cc. 550, 794.</history>
+</law>

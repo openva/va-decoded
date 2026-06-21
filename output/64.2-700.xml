@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="1" level="4">General Provisions and Definitions</unit>
+	</structure>
+	<section_number>64.2-700</section_number>
+	<catch_line>Scope</catch_line>
+	<text>
+		<section prefix="A">This chapter applies to express inter vivos trusts, charitable or noncharitable, and trusts created pursuant to a statute, judgment, or decree that requires the trust to be administered in the manner of an express trust. This chapter also applies to testamentary trusts, except to the extent that specific provision is made for them in Part A (§ 64.2-1200 et seq.) of Subtitle IV or elsewhere in the Code of Virginia, or to the extent it is clearly inapplicable to them. Section 64.2-775, which provides the duties of a trustee to inform and report to the trust's beneficiaries, shall apply to testamentary trusts. For purposes of this subsection, the word "trust" and the words "trustee" or "fiduciary," as used in Part A (§ 64.2-1200 et seq.) of Subtitle IV, shall be deemed to refer to testamentary trusts and testamentary trustees, except to the extent that the use of such words is clearly inapplicable to testamentary trusts and testamentary trustees. This chapter shall not apply to:
+			<section prefix="1">A trust that is primarily used for business, investment, or commercial transactions, including business trusts, land trusts (§ 55.1-117), deeds of trusts (Article 2 (§ 55.1-316 et seq.) of Chapter 3 of Title 55.1), voting trusts, common trust funds, security arrangements, liquidation trusts, trusts created by deposit arrangement in a financial institution, and trusts created for paying debts, dividends, interest, or profits.
+			</section>
+			<section prefix="2">A trust that is used primarily for employment including trusts created for paying salaries, wages, pensions, or employee benefits of any kind.
+			</section>
+			<section prefix="3">A trust under which a person is a nominee or escrowee for another.
+			</section>
+			<section prefix="4">Other special purpose trusts governed by particular statutes, including trusts under Title 57.
+			</section>
+		</section>
+		<section prefix="B">Notwithstanding subsection A, a court, in exercising jurisdiction over the supervision or administration of trusts, may determine that application of the policies, procedures, or rules of the Code is appropriate to resolution of particular issues.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-541.02; 2012, c. 614.</history>
+</law>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="41.1" level="3">Industrial Hemp</unit>
+		<unit label="article" identifier="4" level="4">Regulated Hemp Products</unit>
+	</structure>
+	<section_number>3.2-4123</section_number>
+	<catch_line>Product packaging, labeling, and testing</catch_line>
+	<text>
+		<section prefix="A">No person shall offer for sale or sell at retail a regulated hemp product unless the product is:
+			<section prefix="1">Contained in child-resistant packaging, as defined in § 4.1-600, if the product contains tetrahydrocannabinol;
+			</section>
+			<section prefix="2">Equipped with a label that states, in English and in a font no less than 1/16 of an inch, (i) all ingredients contained in the substance; (ii) the amount of such substance that constitutes a single serving; (iii) the total percentage and milligrams of all tetrahydrocannabinols included in the substance and the total number of milligrams of all tetrahydrocannabinols that are contained in each serving; and (iv) if the substance contains tetrahydrocannabinol, that the product may not be sold to persons younger than 21 years of age; and
+			</section>
+			<section prefix="3">Accompanied by a certificate of analysis, produced by an independent laboratory that is accredited pursuant to standard ISO/IEC 17025 of the International Organization for Standardization by a third-party accrediting body, that states the total tetrahydrocannabinol concentration of the substance or the total tetrahydrocannabinol concentration of the batch from which the substance originates. The certificate of accreditation to standard ISO/IEC 17025 issued by the third-party accrediting body to the independent laboratory shall be available for review at the location at which the regulated hemp product is offered for sale or sold.
+				This subsection shall not (i) apply to products that are approved for marketing by the U.S. Food and Drug Administration and scheduled in the Drug Control Act (§ 54.1-3400 et seq.) or (ii) be construed to prohibit any conduct permitted under Article 4.2 (§ 54.1-3442.5 et seq.) of Chapter 34 of Title 54.1.
+			</section>
+		</section>
+		<section prefix="B">No person shall offer for sale or sell a regulated hemp product that depicts or is in the shape of a human, animal, vehicle, or fruit.
+		</section>
+		<section prefix="C">No person shall offer for sale or sell a regulated hemp product that, without authorization, bears, is packaged in a container or wrapper that bears, or is otherwise labeled to bear the trademark, trade name, famous mark as defined in 15 U.S.C. § 1125, or other identifying mark, imprint, or device, or any likeness thereof, of a manufacturer, processor, packer, or distributor of a product intended for human consumption other than the manufacturer, processor, packer, or distributor that did in fact so manufacture, process, pack, or distribute such substance.
+		</section>
+	</text>
+	<history>2023, cc. 744, 794.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="7" level="3">Shoreline Erosion and Public Beach Preservation</unit>
+		<unit label="article" identifier="1" level="4">Shore Erosion Control</unit>
+	</structure>
+	<section_number>10.1-701</section_number>
+	<catch_line>Duties of Department</catch_line>
+	<text>
+		The Department shall have the duty to:
+		<section prefix="1">Coordinate shore erosion control programs of all state agencies and institutions to implement practical solutions to shoreline erosion problems; however, such coordination shall not restrict the statutory authority of the individual agencies having responsibilities relating to shore erosion control;
+		</section>
+		<section prefix="2">Secure the cooperation and assistance of the United States and any of its agencies to protect waterfront property from destructive shore erosion;
+		</section>
+		<section prefix="3">Evaluate the effectiveness and practicability of current shore erosion control programs; and
+		</section>
+		<section prefix="4">Explore all facets of the problems and alternative solutions to determine if other practical and economical methods and practices may be devised to control shore erosion.
+		</section>
+	</text>
+	<history>1972, c. 855, § 21-11.18; 1980, c. 368; 1988, c. 891.</history>
+</law>

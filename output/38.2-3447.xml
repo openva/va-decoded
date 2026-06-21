@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="6" level="3">Federal Market Reforms</unit>
+	</structure>
+	<section_number>38.2-3447</section_number>
+	<catch_line>(Effective January 1, 2026) Restrictions relating to premium rates</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any provision of § 38.2-3432.2, 38.2-3501, 38.2-4306, or any other section of this title to the contrary, a health carrier offering a health benefit plan providing individual or small group health insurance coverage shall develop its premium rates based on the following:
+			<section prefix="1">Whether the health benefit plan covers an individual or family;
+			</section>
+			<section prefix="2">Rating areas, as may be established by the Commission;
+			</section>
+			<section prefix="3">Age, except that the rate shall not vary by more than 3 to 1 for adults; and
+			</section>
+			<section prefix="4">Tobacco use, except that the rate shall not vary by more than 1.5 to 1.
+			</section>
+		</section>
+		<section prefix="B">A premium rate shall not vary with respect to any particular health benefit plan by any other factor not described in subsection A.
+		</section>
+		<section prefix="C">Rating variations for family coverage shall be applied based on the portion of the premium that is attributable to each family member covered under the health benefit plan.
+		</section>
+		<section prefix="D">If the proposed area rate factors set forth in a rate filing for individual or small group health insurance coverage by a health carrier for a rating area exceed by more than 15 percent the weighted average of the proposed area rate factors among all rating areas in which the health carrier offers health benefit plans in that market, then:
+			<section prefix="1">The health carrier's rate filing shall include in a publicly available and unredacted form:
+				a. A comparison of the area rate factor for individual and small group health benefit plans that utilize the same provider network and provider reimbursement levels of the health benefit plans that are subject to the filing;
+				b. A detailed disclosure of the area rate factor methodology, which disclosure shall include any third-party resources or representations from a person other than the signing actuary, on which the signing actuary relied, provided that disclosure of third-party resources shall address that the source data only reflects differences in unit cost and provider practice patterns; and
+				c. To the extent that the health carrier is deriving any area rate factor from experience data, by rating area for the experience period used:
+				<section prefix="1">The (i) total enrollment; (ii) total premiums; (iii) allowed claims; (iv) incurred claims excluding anticipated or, if available, actual risk adjustment payments or receipts; (v) incurred claims including anticipated or, if available, actual risk adjustment payments or receipts; and (vi) loss ratio for each of their rating areas in that market; and
+				</section>
+				<section prefix="2">Aggregated incurred claims for any health system exceeding 30 percent of total incurred claims for that rating area in that market.
+				</section>
+			</section>
+			<section prefix="2">The Commission shall hold a public hearing on the proposed premium rates prior to the approval of the rate filing.
+			</section>
+			<section prefix="3">The Commission shall not approve the proposed rate filing if (i) a variance in area rate factors, indexed to the same rating region for both the individual and small group markets, of 15 percent or more exists between health benefit plans a carrier intends to offer in the individual market and health benefit plans intended to be offered in the small group market, when those plans utilize the same provider network and provider reimbursement levels and (ii) the methodologies used to calculate the area rate factors are different between the two markets.
+			</section>
+		</section>
+		<section prefix="E">Beginning for plan year 2020, a health carrier with an approved rate filing that contains at least one area rate factor that exceeds by more than 25 percent the weighted average of the area rate factors among all rating areas in a market in which the health carrier offers individual or small group health insurance coverage shall file with the Commission for each calendar quarter during that plan year a report that provides, for each rating area within the market in which the health carrier operates, the plan's (i) enrollment; (ii) total premiums; (iii) allowed claims; (iv) incurred claims excluding anticipated or, if available, actual risk adjustment payments or receipts; (v) incurred claims including anticipated or, if available, actual risk adjustment payments or receipts; (vi) loss ratio; and (vii) aggregate incurred claims, for each health system exceeding 25 percent of total incurred claims for that rating area. The health carrier shall make each such quarterly report publicly available, without redaction, not later than 45 days after the end of the calendar quarter.
+		</section>
+		<section prefix="F">As used in subdivisions D and E:
+			"Allowed claims" means the amount of claims of a covered person for health care services that are owed pursuant to the terms of the covered person's health benefits plan, including payment made by the covered person's health carrier, and cost-sharing obligations owed by or on behalf of the covered person.
+			"Health system" means an organization that consists of either (i) at least one hospital plus at least one group of physicians or (ii) more than one group of physicians.
+			"Incurred claims" means allowed claims less copayments, deductible amounts, and other cost-sharing obligations owed by or on behalf of a covered person.
+			"Methodologies," when referring to the calculation of area rate factors, includes (i) the types of inputs, including experience period claims data, third-party database, other sources of data, and (ii) the series of calculations that are used to derive area rate factors. This definition shall not preclude a health carrier from calculating area rate factors for rates for the individual market, based on the cost and care delivery practices associated with the providers expected to be utilized by covered persons that reside in a given rating area, while calculating area rate factors for rates for the small group market, based on those providers that are expected to be utilized by individuals employed by small employers that are located in the rating area without regard to where the covered persons reside.
+			"Provider" means a health care provider, as defined in § 38.2-3438, that is affiliated or in-network with a health carrier.
+			"Weighted average," when referring to area rate factors, means the mean of the area rate factors when weighted based on the projected number of covered persons distributed by rating area.
+		</section>
+	</text>
+	<history>2013, c. 751; 2019, cc. 439, 440; 2023, cc. 682, 683.</history>
+</law>

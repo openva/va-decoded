@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Shareholders</unit>
+	</structure>
+	<section_number>13.1-664</section_number>
+	<catch_line>Shares held by intermediaries and nominees</catch_line>
+	<text>
+		<section prefix="A">A corporation's board of directors may establish a procedure under which a person on whose behalf shares are registered in the name of an intermediary or nominee may elect to be treated by the corporation as the record shareholder by filing with the corporation's secretary a beneficial ownership certificate. The terms, conditions, and limitations of this treatment shall be specified in the procedure. To the extent such person is treated under such procedure as having rights or privileges that the record shareholder otherwise would have, the record shareholder shall not have those rights or privileges.
+		</section>
+		<section prefix="B">The procedure shall specify:
+			<section prefix="1">The types of intermediaries or nominees to which it applies;
+			</section>
+			<section prefix="2">The rights or privileges that the corporation recognizes in a person with respect to whom a beneficial ownership certificate is filed;
+			</section>
+			<section prefix="3">The manner in which the procedure is selected, which shall include that the beneficial ownership certificate be signed or assented to by or on behalf of the record shareholder and the person on whose behalf the shares are held;
+			</section>
+			<section prefix="4">The information that must be provided when the procedure is selected;
+			</section>
+			<section prefix="5">The period for which selection of the procedure is effective;
+			</section>
+			<section prefix="6">Requirements for notice to the corporation with respect to the arrangement; and
+			</section>
+			<section prefix="7">The form and contents of the beneficial ownership certificate.
+			</section>
+		</section>
+		<section prefix="C">The procedure may specify any other aspects of the rights and duties that may be included in a beneficial ownership certificate.
+		</section>
+	</text>
+	<history>1985, c. 522; 2019, c. 734.</history>
+</law>

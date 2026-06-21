@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="55" level="2">Risk-Based Capital Act</unit>
+	</structure>
+	<section_number>38.2-5506</section_number>
+	<catch_line>Mandatory Control Level Event</catch_line>
+	<text>
+		<section prefix="A">"Mandatory Control Level Event" means any of the following events:
+			<section prefix="1">The filing of an RBC Report which indicates that the licensee's Total Adjusted Capital is less than its Mandatory Control Level RBC;
+			</section>
+			<section prefix="2">The notification by the Commission to the licensee of an Adjusted RBC Report that indicates the event in subdivision A 1, provided the licensee does not challenge the Adjusted RBC Report under § 38.2-5507; or
+			</section>
+			<section prefix="3">If, pursuant to § 38.2-5507, the licensee challenges an Adjusted RBC Report that indicates the event in subdivision A 1, notification by the Commission to the licensee that the Commission has, after a hearing, rejected the licensee's challenge.
+			</section>
+		</section>
+		<section prefix="B">In the event of a Mandatory Control Level Event:
+			<section prefix="1">With respect to a life and health insurer, the Commission shall take actions as are necessary to place the insurer under regulatory control pursuant to the provisions of Chapter 15 (§ 38.2-1500 et seq.). In that event, the Mandatory Control Level Event shall be deemed an indication of a hazardous financial condition which serves as sufficient grounds for the Commission to commence delinquency proceedings, and the receiver appointed in conjunction with such proceedings, shall have the rights, powers and duties with respect to the insurer as are set forth in Chapter 15 or any order of liquidation, rehabilitation or conservation entered thereunder. If the Commission takes actions pursuant to an Adjusted RBC Report, the insurer shall be entitled to such protections as are afforded to insurers under the appropriate provisions of this title pertaining to summary proceedings. Notwithstanding any of the foregoing, the Commission may forego action for up to ninety days after the Mandatory Control Level Event if the Commission finds there is a reasonable expectation that the Mandatory Control Level Event may be eliminated within the ninety-day period.
+			</section>
+			<section prefix="2">With respect to a property and casualty insurer, the Commission shall take actions as are necessary to place the insurer under regulatory control pursuant to the provisions of Chapter 15, or, in the case of an insurer which is writing no business and which is running-off its existing business, may allow the insurer to continue to run-off under the supervision of the Commission. In either event, the Mandatory Control Level Event shall be deemed an indication of a hazardous financial condition which serves as sufficient grounds for the Commission to commence delinquency proceedings, and the receiver appointed in conjunction with such proceedings, shall have the rights, powers and duties with respect to the insurer as are set forth in Chapter 15 or any order of liquidation, rehabilitation, or conservation entered thereunder. If the Commission takes actions pursuant to an Adjusted RBC Report, the insurer shall be entitled to such protections as are afforded to insurers under the appropriate provisions of this title pertaining to summary proceedings. Notwithstanding any of the foregoing, the Commission may forego action for up to ninety days after the Mandatory Control Level Event if the Commission finds there is a reasonable expectation that the Mandatory Control Level Event may be eliminated within the ninety-day period.
+			</section>
+			<section prefix="3">With respect to a health organization, the Commission shall take actions as are necessary to place the health organization under regulatory control pursuant to and in accordance with applicable provisions in Chapter 15 (§ 38.2-1500 et seq.) and § 38.2-4214.1, or § 38.2-4509.1 of this title. In that event, the Mandatory Control Level Event shall be deemed an indication of a hazardous financial condition which serves as sufficient grounds for the Commission to commence delinquency proceedings, and the receiver appointed in conjunction with such proceedings shall have the rights, powers and duties with respect to the licensee as are set forth in Chapter 15, or any order of liquidation, rehabilitation or conservation entered thereunder. If the Commission takes actions pursuant to an adjusted RBC Report, the health organization shall be entitled to such protections as are afforded to the licensee under the appropriate provisions of this title pertaining to summary proceedings. Notwithstanding any of the foregoing, the Commission may forego action for up to ninety days after the Mandatory Control Level Event if the Commission finds there is a reasonable expectation that the Mandatory Control Level Event may be eliminated within the ninety-day period.
+			</section>
+		</section>
+	</text>
+	<history>1995, c. 789; 2000, c. 47; 2018, c. 706.</history>
+</law>

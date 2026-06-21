@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="8" level="3">Enforcement and Modification of Support Order After Registration</unit>
+	</structure>
+	<section_number>20-88.69</section_number>
+	<catch_line>Choice of law; statute of limitations</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection D, the law of the issuing state or foreign country governs (i) the nature, extent, amount, and duration of current payments under a registered support order; (ii) the computation and payment of arrearages and accrual of interest on the arrearages under the support order; and (iii) the existence and satisfaction of other obligations under the support order.
+		</section>
+		<section prefix="B">In a proceeding for arrears under a registered support order, the statute of limitations of the Commonwealth or of the issuing state or foreign country, whichever is longer, applies.
+		</section>
+		<section prefix="C">A responding tribunal of the Commonwealth shall apply the procedures and remedies of the Commonwealth to enforce current support and collect arrears and interest due on a support order of another state or a foreign country registered in the Commonwealth.
+		</section>
+		<section prefix="D">After a tribunal of the Commonwealth or another state determines which is the controlling order and issues an order consolidating arrears, if any, a tribunal of the Commonwealth shall prospectively apply the law of the state or foreign country issuing the controlling order, including its law on interest on arrears, on current and future support, and on consolidated arrears.
+		</section>
+	</text>
+	<history>1994, c. 673; 2005, c. 754; 2015, c. 727.</history>
+</law>

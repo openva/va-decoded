@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="21" level="2">Arbitration and Award</unit>
+		<unit label="article" identifier="2" level="3">Uniform Arbitration Act</unit>
+	</structure>
+	<section_number>8.01-581.010</section_number>
+	<catch_line>Vacating an award</catch_line>
+	<text>
+		Upon application of a party, the court shall vacate an award where:
+		<section prefix="1">The award was procured by corruption, fraud or other undue means;
+		</section>
+		<section prefix="2">There was evident partiality by an arbitrator appointed as a neutral, corruption in any of the arbitrators, or misconduct prejudicing the rights of any party;
+		</section>
+		<section prefix="3">The arbitrators exceeded their powers;
+		</section>
+		<section prefix="4">The arbitrators refused to postpone the hearing upon sufficient cause being shown therefor or refused to hear evidence material to the controversy or otherwise so conducted the hearing, contrary to the provisions of § 8.01-581.04, in such a way as to substantially prejudice the rights of a party; or
+		</section>
+		<section prefix="5">There was no arbitration agreement and the issue was not adversely determined in proceedings under § 8.01-581.02 and the party did not participate in the arbitration hearing without raising the objection.
+			The fact that the relief was such that it could not or would not be granted by a court of law or equity is not grounds for vacating or refusing to confirm the award.
+			An application under this section shall be made within ninety days after delivery of a copy of the award to the applicant, except that, if predicated upon corruption, fraud or other undue means, it shall be made within ninety days after such grounds are known or reasonably should have been known. An application shall be made by filing a petition with the appropriate court within the prescribed time limits of this section, or by raising reasons supporting vacation in response to another party's petition to confirm the award, provided that such response is filed within the prescribed time limits of this section.
+			In vacating the award on grounds other than that stated in subdivision 5, the court may order a rehearing before new arbitrators chosen as provided in the agreement, or in the absence thereof, by the court in accordance with § 8.01-581.03. If the award is vacated on grounds set forth in subdivisions 3 and 4 the court may order a rehearing before the arbitrators who made the award or their successors appointed in accordance with § 8.01-581.03. The time within which the agreement requires the award to be made is applicable to the rehearing and commences from the date of the order.
+			If the application to vacate is denied and no motion to modify or correct the award is pending, the court shall confirm the award.
+		</section>
+	</text>
+	<history>1986, c. 614; 1998, c. 303.</history>
+</law>

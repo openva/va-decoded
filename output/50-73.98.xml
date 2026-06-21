@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="3" level="3">Relations of Partners to Persons Dealing With Partnership</unit>
+	</structure>
+	<section_number>50-73.98</section_number>
+	<catch_line>Liability of purported partner</catch_line>
+	<text>
+		<section prefix="A">If a person, by words or conduct, purports to be a partner, or consents to being represented by another as a partner, in a partnership or with one or more persons not partners, the purported partner is liable to a person to whom the representation is made, if that person, relying on the representation, enters into a transaction with the actual or purported partnership. If the representation, either by the purported partner or by a person with the purported partner's consent, is made in a public manner, the purported partner is liable to a person who relies upon the purported partnership even if the purported partner is not aware of being held out as a partner to the claimant. If partnership liability results, the purported partner is liable with respect to that liability as if the purported partner were a partner. If no partnership liability results, the purported partner is liable with respect to that liability jointly and severally with any other person consenting to the representation.
+		</section>
+		<section prefix="B">If a person is thus represented to be a partner in an existing partnership, or with one or more persons not partners, the purported partner is an agent of persons consenting to the representation to bind them to the same extent and in the same manner as if the purported partner were a partner, with respect to persons who enter into transactions in reliance upon the representation. If all of the partners of the existing partnership consent to the representation, a partnership act or obligation results. If fewer than all of the partners of the existing partnership consent to the representation, the person acting and the partners consenting to the representation are jointly and severally liable.
+		</section>
+		<section prefix="C">A person is not liable as a partner merely because the person is named by another in a statement of partnership authority.
+		</section>
+		<section prefix="D">A person does not continue to be liable as a partner merely because of a failure to file a statement of dissociation or to amend a statement of partnership authority to indicate the partner's dissociation from the partnership.
+		</section>
+		<section prefix="E">Except as otherwise provided in subsections A and B, persons who are not partners as to each other are not liable as partners to other persons.
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

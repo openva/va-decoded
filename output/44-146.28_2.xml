@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="3.2" level="2">Emergency Services and Disaster Law</unit>
+	</structure>
+	<section_number>44-146.28:2</section_number>
+	<catch_line>Disaster relief assistance by out-of-state businesses and employees</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Critical infrastructure" means real and personal property and equipment owned or used to provide public utility or communications services, including communications networks, electric generation facilities, transmission and distribution systems, gas distribution systems, lines, poles, pipes, structures, towers, water and sewage pipelines and systems, and related support facilities, buildings, offices, and equipment.
+			"Declared disaster or emergency" means a disaster or emergency as defined in § 44-146.16 for which a state of emergency as defined in § 44-146.16 has been declared for the Commonwealth by the Governor or by an official authorized by federal law to make such declarations.
+			"Disaster-related or emergency-related work" means repairing, renovating, installing, building, or rendering services or other activities necessary to mitigate damage to critical infrastructure resulting from a declared disaster or emergency during the disaster response period. "Disaster-related or emergency-related work" does not include (i) any activities that an out-of-state business or an out-of-state employee is paid to perform by the Commonwealth, a locality in the Commonwealth, or a registered business in Virginia or (ii) the sale of goods by an out-of-state business or an out-of-state employee to the Commonwealth, a locality in the Commonwealth, or a registered business in the Commonwealth.
+			"Disaster response period" means a period that begins 10 days prior to the first day of the declared disaster or emergency and extends for a period of 60 days after the end of the declared disaster or emergency, or any longer period as declared by the Governor.
+			"Out-of-state business" means a business entity (i) whose services are requested by a registered business, the Commonwealth, or a local government for purposes of performing disaster-related or emergency-related work in the Commonwealth; (ii) that, except for declared disaster-related or emergency-related work, has no presence in and conducts no business in the Commonwealth; and (iii) that had not obtained from the State Corporation Commission a certificate of authority or registration to transact business in the Commonwealth and had no registrations or tax filings or nexus in the Commonwealth other than disaster-related or emergency-related work during the tax year immediately preceding the declared disaster or emergency. A business entity that otherwise meets the definition of an out-of-state business maintains that status even though it is affiliated with a registered business if such affiliation is solely through common ownership.
+			"Out-of-state employee" means an employee who, except for disaster-related or emergency-related work during the disaster response period, does not work in the Commonwealth.
+			"Registered business" means a domestic or foreign business entity that is listed in the business entity records maintained in the office of the clerk of the State Corporation Commission, provides public utility or communications services, and was in existence or had obtained from the State Corporation Commission a certificate of authority or registration to transact business in the Commonwealth prior to the declared disaster or emergency.
+		</section>
+		<section prefix="B">Except as provided in subsection C:
+			<section prefix="1">Disaster-related or emergency-related work performed by an out-of-state business within the Commonwealth shall not be considered in determining and shall not result in (i) any requirement that the business file, remit, or pay any state or local taxes or fees, including any filing required for a unitary or combined group of which the out-of-state business may be a part, or (ii) any requirement that the business or its out-of-state employees be licensed or registered in any manner by the Commonwealth or local governments. These taxes, fees, and registration requirements include but are not limited to fees assessed and collected, and authorizations or registrations issued by the State Corporation Commission; unemployment insurance premiums; income taxes; state registration fees; local business, professional, and occupational taxes; and collection of sales and use tax; and
+			</section>
+			<section prefix="2">Disaster-related or emergency-related work performed by an out-of-state employee shall not be considered to have established such person's residency or a presence in the Commonwealth that would require that person or that person's employer to file and pay income taxes or to be subject to tax withholdings or to file and pay any other state or local tax or fee during the disaster response period. However, nothing in this section shall be construed to affect or alter the responsibility of the out-of-state employee, or that person's employer, to file and pay income taxes or be subject to tax withholdings in the employee's home state on income earned in the Commonwealth during the disaster response period.
+			</section>
+		</section>
+		<section prefix="C">The provisions of this section shall not apply to any applicable transaction taxes and fees, including motor fuels taxes, sales and use taxes, transient occupancy taxes, and car rental taxes or fees, based on purchases, leases, or consumption in the Commonwealth.
+		</section>
+		<section prefix="D">The provisions of this section shall not apply to any out-of-state business or out-of-state employee for any period of presence or transaction of business in the Commonwealth after the disaster response period ends.
+		</section>
+	</text>
+	<history>2015, c. 595.</history>
+</law>

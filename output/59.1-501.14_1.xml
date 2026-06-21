@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>59.1-501.14:1</section_number>
+	<catch_line>Pretransaction disclosures in Internet-type transactions</catch_line>
+	<text>
+		This section applies to a licensor that makes its computer information available to a licensee by electronic means from its Internet or similar electronic site. In such a case, the licensor affords an opportunity to review the terms of a standard form license, which opportunity satisfies § 59.1-501.13:1 with respect to a licensee that acquires the information from that site, if the licensor:
+		<section prefix="1">makes the standard terms of the license readily available for review by the licensee before the information is delivered or the licensee becomes obligated to pay, whichever occurs first, by:
+			<section prefix="A">displaying prominently and in close proximity to a description of the computer information, or to instructions or steps for acquiring it, the standard terms or a reference to an electronic location from which they can be readily obtained; or
+			</section>
+			<section prefix="B">disclosing the availability of the standard terms in a prominent place on the site from which the computer information is offered and promptly furnishing a copy of the standard terms on request before the transfer of the computer information; and
+			</section>
+		</section>
+		<section prefix="2">does not take affirmative acts to prevent printing or storage of the standard terms for archival or review purposes by the licensee.
+			Failure to provide an opportunity to review under this section does not preclude a person from providing a person an opportunity to review by other means pursuant to § 59.1-501.13:1 or law other than this chapter.
+		</section>
+	</text>
+	<history>2004, c. 794.</history>
+</law>

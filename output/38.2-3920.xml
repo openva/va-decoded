@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="39" level="2">Mutual Assessment Life, Accident and Sickness Insurers</unit>
+		<unit label="article" identifier="5" level="3">Financial Provisions</unit>
+	</structure>
+	<section_number>38.2-3920</section_number>
+	<catch_line>Surplus to policyowners</catch_line>
+	<text>
+		<section prefix="A">A mutual assessment life, accident and sickness insurer shall have a minimum surplus to policyowners of $100,000.
+		</section>
+		<section prefix="B">In order to write the classes of insurance referred to in Category C of § 38.2-3902, minimum surplus to policyowners shall be $800,000.
+		</section>
+	</text>
+	<history>1985, c. 400, § 38.1-549.21; 1986, c. 562.</history>
+</law>

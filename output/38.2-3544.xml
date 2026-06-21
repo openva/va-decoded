@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="35" level="2">Accident and Sickness Insurance Policies</unit>
+		<unit label="article" identifier="4" level="3">Industrial Sick Benefit Insurance</unit>
+	</structure>
+	<section_number>38.2-3544</section_number>
+	<catch_line>Definition of industrial sick benefit insurance</catch_line>
+	<text>
+		Industrial sick benefit insurance means life insurance combined with accident and sickness insurance under which:
+		<section prefix="1">Premiums, dues or assessments are payable weekly;
+		</section>
+		<section prefix="2">A ten dollar maximum weekly indemnity is paid to members or policyowners in the event of sickness or accident;
+		</section>
+		<section prefix="3">A $250 maximum death benefit is provided, and the named beneficiary is confined to the spouse of the insured, a relative of the insured by blood, marriage or adoption, a person bound in a pledge of marriage to the insured, or any person dependent on the insured; and
+		</section>
+		<section prefix="4">The issuing insurer is not required by its charter, bylaws, or by statute to maintain the legal reserve for death benefits.
+		</section>
+	</text>
+	<history>Code 1950, §§ 38-350, 38-351, 38-352; 1952, c. 317, § 38.1-483; 1986, c. 562.</history>
+</law>

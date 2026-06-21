@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="2" level="3">Jurisdiction</unit>
+	</structure>
+	<section_number>20-146.18</section_number>
+	<catch_line>Inconvenient forum</catch_line>
+	<text>
+		<section prefix="A">A court of this Commonwealth that has jurisdiction under this act to make a child custody determination may decline to exercise its jurisdiction at any time if it determines that it is an inconvenient forum under the circumstances and that a court of another state is a more appropriate forum. The issue of inconvenient forum may be raised upon the motion of a party, the court's own motion, or request of another court.
+		</section>
+		<section prefix="B">Before determining whether it is an inconvenient forum, a court of this Commonwealth shall consider whether it is appropriate for a court of another state to exercise jurisdiction. For this purpose, the court shall allow the parties to present evidence and shall consider all relevant factors, including:
+			<section prefix="1">Whether domestic violence has occurred and is likely to continue in the future and which state could best protect the parties and the child;
+			</section>
+			<section prefix="2">The length of time the child has resided outside this Commonwealth;
+			</section>
+			<section prefix="3">The distance between the court in this Commonwealth and the court in the state that would assume jurisdiction;
+			</section>
+			<section prefix="4">The relative financial circumstances of the parties;
+			</section>
+			<section prefix="5">Any agreement of the parties as to which state should assume jurisdiction;
+			</section>
+			<section prefix="6">The nature and location of the evidence required to resolve the pending litigation, including testimony of the child;
+			</section>
+			<section prefix="7">The ability of the court of each state to decide the issue expeditiously and the procedures necessary to present the evidence; and
+			</section>
+			<section prefix="8">The familiarity of the court of each state with the facts and issues in the pending litigation.
+			</section>
+		</section>
+		<section prefix="C">If a court of this Commonwealth determines that it is an inconvenient forum and that a court of another state is a more appropriate forum, it shall stay the proceedings upon condition that a child custody proceeding be promptly commenced in another designated state and may impose any other condition the court considers just and proper.
+		</section>
+		<section prefix="D">A court of this Commonwealth may decline to exercise its jurisdiction under this act if a child custody determination is incidental to an action for divorce or another proceeding while still retaining jurisdiction over the divorce or other proceeding.
+		</section>
+	</text>
+	<history>1979, c. 229, § 20-130; 2001, c. 305.</history>
+</law>

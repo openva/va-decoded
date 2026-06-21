@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="11" level="4">Department of General Services</unit>
+		<unit label="article" identifier="4" level="5">Division of Engineering and Buildings</unit>
+	</structure>
+	<section_number>2.2-1150.2</section_number>
+	<catch_line>Use of communication towers for deployment of wireless broadband services in unserved areas of the Commonwealth</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Qualified provider" means a provider of wireless broadband service that has obtained all governmental approvals required for the provision of wireless broadband service in the unserved area in which it seeks to provide such service.
+			"Unserved area" means any area within the Commonwealth that is demonstrated not to have access to terrestrial broadband or radio frequency Internet service.
+			"Wireless broadband service" means an Internet connection service capable of transmitting information at a rate that is not less than 256 kilobits per second in at least one direction using a wireless link between a fixed location and the Internet service provider's facility. It does not include wireless fidelity technology used in conjunction with dedicated subscriber line service or cable service to connect devices within a facility to the Internet via a broadband connection.
+		</section>
+		<section prefix="B">Notwithstanding any provision of § 2.2-1156 to the contrary, any state department, agency, or institution having responsibility for a state-owned communication tower in an unserved area, subject to guidelines adopted by the Department, shall lease or convey a license or other interest in the communication tower to a qualified provider in order to permit the use of the communication tower by the qualified provider in its deployment of wireless broadband service within the unserved area or portion thereof. This requirement is subject to the qualified provider presenting to the Department:
+			<section prefix="1">A spectrum and certified structural analysis of the tower that demonstrates that:
+				a. The new service will not interfere with current equipment;
+				b. No structural element is beyond 85 percent capacity based on current and previously documented future loads; and
+				c. The tower meets the industry standards set forth by ANSI/TIA/EIA 222-F; and
+			</section>
+			<section prefix="2">Proof that the tower satisfies all applicable local government requirements.
+			</section>
+		</section>
+		<section prefix="C">The Department shall adopt guidelines for (i) determining whether a provider of wireless broadband service is qualified to provide such service and (ii) requesting a state department, agency, or institution to enter into a lease or other conveyance of an interest in a communication tower or site pursuant to this section.
+		</section>
+		<section prefix="D">The lease or other conveyance shall be for such consideration as the Director of the Department deems appropriate, which consideration shall not be required to be commensurate with the consideration paid for use of comparable space on similar towers. The lease or other conveyance may include shared use of the facilities by other political subdivisions or persons providing the same or similar services, and by departments, agencies, or institutions of the Commonwealth.
+		</section>
+		<section prefix="E">The provisions of § 2.2-1156 as they apply to lease agreements or conveyances of any interest shall not apply to any transaction undertaken pursuant to this section.
+		</section>
+		<section prefix="F">No transaction authorized by this section shall be made without the prior approval of the Director of the Department and the approval of the Attorney General as to the form of any conveyancing instrument prior to execution.
+		</section>
+	</text>
+	<history>2008, cc. 676, 690; 2015, c. 351.</history>
+</law>

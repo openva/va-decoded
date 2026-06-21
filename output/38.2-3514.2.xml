@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="35" level="2">Accident and Sickness Insurance Policies</unit>
+		<unit label="article" identifier="1" level="3">Individual Accident and Sickness Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3514.2</section_number>
+	<catch_line>Renewability of coverage</catch_line>
+	<text>
+		<section prefix="A">Every individual policy, subscription contract or plan delivered, issued for delivery or renewal in this Commonwealth providing benefits to or on behalf of an individual shall provide for the renewability of such coverage at the sole option of the insured, policyholder, subscriber, or enrollee. The insurer, health services plan or health maintenance organization issuing such policy, subscription contract or plan shall be permitted to refuse to renew the policy, subscription contract or plan only for one or more of the following reasons:
+			<section prefix="1">Nonpayment of the required premiums by the insured, policyholder, subscriber, or enrollee, or such individual's representative;
+			</section>
+			<section prefix="2">In the event that the policy, subscription contract or plan contains a provision requiring the use of network providers, a documented pattern of abuse or misuse of such provision by the insured, policyholder, subscriber, or enrollee, continuing for a period of no less than two years;
+			</section>
+			<section prefix="3">Subject to the time limits contained in subdivision 2 of § 38.2-3503 or in regulations adopted by the Commission governing the practices of health maintenance organizations, for fraud or material misrepresentation by the individual, with respect to his application for coverage;
+			</section>
+			<section prefix="4">Eligibility of an individual insured for Medicare, provided that such coverage may not terminate with respect to other individuals insured under the same policy, subscription contract or plan and who are not eligible for Medicare; and
+			</section>
+			<section prefix="5">The insured, subscriber, or enrollee has not maintained a legal residence in the service area of the insurer, health services plan or health maintenance organization for a period of at least six months.
+			</section>
+		</section>
+		<section prefix="B">This section shall not apply to the following insurance policies, subscription contracts or plans:
+			<section prefix="1">Short-term travel;
+			</section>
+			<section prefix="2">Accident-only;
+			</section>
+			<section prefix="3">Disability income;
+			</section>
+			<section prefix="4">Limited or specified disease contracts;
+			</section>
+			<section prefix="5">Long-term care insurance;
+			</section>
+			<section prefix="6">Short-term nonrenewable policies or contracts of not more than six months' duration which are subject to no medical underwriting or minimal underwriting; and
+			</section>
+			<section prefix="7">Individual health insurance coverage as defined in subsection B of § 38.2-3431.
+			</section>
+		</section>
+	</text>
+	<history>1996, c. 550; 1998, c. 24.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="11" level="3">Forest Resources and the Department of Forestry</unit>
+		<unit label="article" identifier="6.1" level="4">Certified Prescribed Burning Manager Program</unit>
+	</structure>
+	<section_number>10.1-1150.3</section_number>
+	<catch_line>Voluntary certification</catch_line>
+	<text>
+		To be certified as a prescribed burn manager, a person shall:
+		<section prefix="1">Successfully complete all components of the prescribed burn course developed by the State Forester and pass the examination developed for the course;
+		</section>
+		<section prefix="2">Successfully complete a training course comparable to that developed by the State Forester and pass the examination developed for Virginia's course; or
+		</section>
+		<section prefix="3">Demonstrate relevant past experience, complete a review course and pass the examination developed for Virginia's course.
+		</section>
+	</text>
+	<history>1998, c. 156.</history>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="10" level="3">Entities Conducting Trust Business</unit>
+		<unit label="article" identifier="1" level="4">Trust Powers and Trust Business</unit>
+	</structure>
+	<section_number>6.2-1005</section_number>
+	<catch_line>Deposit or other use of trust funds</catch_line>
+	<text>
+		<section prefix="A">Funds received or held in the trust department of a bank or by a trust company awaiting investment or distribution shall not be used by the bank or trust company in the conduct of its business.
+		</section>
+		<section prefix="B">Notwithstanding subsection A, such funds may be deposited by a bank in its commercial or savings department to the credit of its trust department, if the bank first delivers to the trust department, as collateral security therefor, securities of any of the following classes:
+			<section prefix="1">Bonds, notes, or certificates of indebtedness of the United States;
+			</section>
+			<section prefix="2">Other readily marketable securities of the classes in which fiduciaries are authorized or permitted to invest trust funds, as set forth in § 64.2-1502; or
+			</section>
+			<section prefix="3">Other readily marketable bonds, notes, or debentures, commonly known as investment securities, meeting the following requirements:
+				a. That the issue be of a sufficiently large total to make marketability possible;
+				b. Such a public distribution of the securities must have been provided for or made in a manner to protect or insure the marketability of the issue; and
+				c. That the trust agreement under which the security is issued provides for a trustee independent of the obligor, which trustee must be a trust institution.
+			</section>
+		</section>
+		<section prefix="C">The securities deposited as collateral pursuant to subsection B shall be owned by the bank and shall at all times be at least equal in market value to the amount of trust funds so used in the conduct of the business of the bank less such amount thereof as shall be insured by the Federal Deposit Insurance Corporation under existing or future federal law.
+		</section>
+		<section prefix="D">In the event of the failure or liquidation of such bank, the owners of the funds held in trust for investment shall have a lien on the bonds or other securities so set apart in addition to their claim against the estate of the bank.
+		</section>
+	</text>
+	<history>Code 1950, § 6-99; 1966, c. 584, § 6.1-21; 1992, c. 810; 1993, c. 432; 1994, c. 7; 2010, c. 794.</history>
+</law>

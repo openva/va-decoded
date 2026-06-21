@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="3" level="4">Unitrust</unit>
+	</structure>
+	<section_number>64.2-1044</section_number>
+	<catch_line>Unitrust rate</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subdivision B 1 of § 64.2-1047, a unitrust rate may be:
+			<section prefix="1">A fixed unitrust rate; or
+			</section>
+			<section prefix="2">A unitrust rate that is determined for each period using:
+				a. A market index or other published data; or
+				b. A mathematical blend of market indices or other published data over a stated number of preceding periods.
+			</section>
+		</section>
+		<section prefix="B">Except as otherwise provided in subdivision B 1 of § 64.2-1047, a unitrust policy may provide:
+			<section prefix="1">A limit on how high the unitrust rate determined under subdivision A 2 may rise;
+			</section>
+			<section prefix="2">A limit on how low the unitrust rate determined under subdivision A 2 may fall;
+			</section>
+			<section prefix="3">A limit on how much the unitrust rate determined under subdivision A 2 may increase over the unitrust rate for the preceding period or a mathematical blend of unitrust rates over a stated number of preceding periods;
+			</section>
+			<section prefix="4">A limit on how much the unitrust rate determined under subdivision A 2 may decrease below the unitrust rate for the preceding period or a mathematical blend of unitrust rates over a stated number of preceding periods; or
+			</section>
+			<section prefix="5">A mathematical blend of any of the unitrust rates determined under subdivision A 2 and subdivisions B 1 through 4.
+			</section>
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

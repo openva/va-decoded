@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="2" level="2">Effectiveness of Security Agreement; Attachment of Security Interest; Rights of Parties to Security Agreement</unit>
+		<unit label="subpart" identifier="1" level="3">Effectiveness and Attachment</unit>
+	</structure>
+	<section_number>8.9A-204</section_number>
+	<catch_line>After-acquired property; future advances</catch_line>
+	<text>
+		<section prefix="a">After-acquired collateral. Except as otherwise provided in subsection (b), a security agreement may create or provide for a security interest in after-acquired collateral.
+		</section>
+		<section prefix="b">When after-acquired property clause not effective. Subject to subsection (b.1), a security interest does not attach under a term constituting an after-acquired property clause to:
+			<section prefix="1">consumer goods, other than an accession when given as additional security, unless the debtor acquires rights in them within ten days after the secured party gives value; or
+			</section>
+			<section prefix="2">a commercial tort claim.
+				(b.1) Limitation on subsection (b). Subsection (b) does not prevent a security interest from attaching:
+			</section>
+			<section prefix="1">to consumer goods as proceeds under § 8.9A-315 (a) or commingled goods under § 8.9A-336 (c);
+			</section>
+			<section prefix="2">to a commercial tort claim as proceeds under § 8.9A-315 (a); or
+			</section>
+			<section prefix="3">under an after-acquired property clause to property that is proceeds of consumer goods or a commercial tort claim.
+			</section>
+		</section>
+		<section prefix="c">Future advances and other value. A security agreement may provide that collateral secures, or that accounts, chattel paper, payment intangibles, or promissory notes are sold in connection with, future advances or other value, whether or not the advances or value are given pursuant to commitment.
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-204; 1973, c. 509; 2000, c. 1007; 2024, c. 652.</history>
+</law>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="10" level="3">Indemnification</unit>
+	</structure>
+	<section_number>13.1-704</section_number>
+	<catch_line>Application of article</catch_line>
+	<text>
+		<section prefix="A">Unless the articles of incorporation or bylaws expressly provide otherwise, any authorization of indemnification or advances or reimbursement of expenses in the articles of incorporation or bylaws shall not be deemed to prevent the corporation from providing indemnity or advances or reimbursement of expenses permitted or mandated by this article.
+		</section>
+		<section prefix="B">A corporation, by a provision in its articles of incorporation or bylaws or in a resolution adopted or a contract approved by the board of directors or shareholders, may obligate itself in advance of the act or omission giving rise to a proceeding to provide indemnification in accordance with § 13.1-697 or subsection C and advance funds to pay for or reimburse expenses in accordance with § 13.1-699. Any such obligatory provision shall be deemed to satisfy the requirements for authorization referred to in subsection C of § 13.1-699 and subsection C of § 13.1-701.
+		</section>
+		<section prefix="C">Any corporation shall have power to make any further indemnity, including indemnity with respect to a proceeding by or in the right of the corporation, and to make additional provision for advances and reimbursement of expenses, to any director or officer that may be authorized by the articles of incorporation or any bylaw made by the shareholders or any resolution adopted, before or after the event, by the shareholders, except an indemnity against (i) his willful misconduct or (ii) a knowing violation of criminal law. Any such provision that obligates the corporation to provide indemnification to the fullest extent permitted by law shall be deemed, unless the articles of incorporation or any such bylaw or resolution expressly provides otherwise, also to obligate the corporation to advance funds to pay for or reimburse expenses to the fullest extent permitted by law in accordance with § 13.1-699 except that the applicable standard shall be conduct that does not constitute willful misconduct or a knowing violation of criminal law, rather than the standard of conduct prescribed in § 13.1-697. Unless the articles of incorporation, or any such bylaw or resolution expressly provide otherwise, any determination as to the right to any further indemnity shall be made in accordance with subsection B of § 13.1-701. Each such indemnity may continue as to a person who has ceased to have the capacity referred to above and may inure to the benefit of the heirs, executors, and administrators of such a person.
+		</section>
+		<section prefix="D">A right of indemnification or advance for expenses created under this article or under subsection B and in effect at the time of an act or omission shall not be reduced, eliminated, or impaired by any amendment of the articles of incorporation or bylaws or a resolution of the board of directors or shareholders adopted after the occurrence of such act or omission unless, in the case of a right created under subsection B, the provision creating such right and in effect at the time of such act or omission explicitly authorizes such reduction, elimination, or impairment after such act or omission has occurred.
+		</section>
+		<section prefix="E">Any provision pursuant to subsection B shall not obligate the corporation to indemnify or advance expenses to a director of a predecessor of the corporation, pertaining to conduct with respect to the predecessor, unless otherwise expressly provided. Any provision for indemnification or advance for expenses in the articles of incorporation or bylaws, or a resolution of the board of directors or shareholders of a predecessor of the corporation in a merger or in a contract to which the predecessor is a party, existing at the time the merger takes effect, shall be governed by subdivision A 4 of § 13.1-721.
+		</section>
+		<section prefix="F">This article does not limit a corporation's power to pay or reimburse expenses incurred by a director or an officer in connection with his or her appearance as a witness in a proceeding at a time when he or she is not a party.
+		</section>
+		<section prefix="G">This article does not limit a corporation's power to provide indemnity to, advance or reimburse expenses incurred by, or provide or maintain insurance on behalf of an agent or an employee who is not a director or officer.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-3.1; 1968, c. 570; 1975, c. 500; 1979, c. 99; 1985, c. 522; 1987, cc. 59, 257; 1988, c. 561; 2005, c. 765; 2007, c. 165; 2010, c. 782; 2019, c. 734.</history>
+</law>

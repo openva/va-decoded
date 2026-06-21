@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="III" level="2">Mineral Mines</unit>
+		<unit label="part" identifier="A" level="3">Mineral Mines Generally</unit>
+		<unit label="chapter" identifier="11" level="4">Mineral Mine Safety Act</unit>
+		<unit label="article" identifier="5" level="5">Mine Rescue Teams</unit>
+	</structure>
+	<section_number>45.2-1142</section_number>
+	<catch_line> Inspections; Mine Rescue Coordinator</catch_line>
+	<text>
+		<section prefix="A">The Director shall (i) inspect, or cause to be inspected, the rescue station of each state-designated mine rescue team four times each year; (ii) ensure that each rescue station is adequately equipped; and (iii) ensure that all team members are adequately trained.
+		</section>
+		<section prefix="B">The Director shall designate an employee of the Department as the Mine Rescue Coordinator, who shall perform the duties assigned by the Director.
+		</section>
+	</text>
+	<history>1997, c. 390, § 45.1-161.292:48; 2021, Sp. Sess. I, c. 387.</history>
+</law>

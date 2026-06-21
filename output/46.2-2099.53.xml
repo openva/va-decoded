@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="20" level="3">Regulation of Passenger Carriers</unit>
+		<unit label="article" identifier="15" level="4">Transportation Network Companies</unit>
+	</structure>
+	<section_number>46.2-2099.53</section_number>
+	<catch_line>Recordkeeping and reporting requirements for transportation network companies</catch_line>
+	<text>
+		<section prefix="A">Records maintained by a transportation network company shall be adequate to confirm compliance with subsection D of § 46.2-2099.48 and with §§ 46.2-2099.49 and 46.2-2099.50 and shall at a minimum include:
+			<section prefix="1">True and accurate results of each national criminal history records check for each individual that the transportation network company authorizes to act as a TNC partner;
+			</section>
+			<section prefix="2">True and accurate results of the driving history research report for each individual that the transportation network company authorizes to act as a TNC partner;
+			</section>
+			<section prefix="3">Driver's license records of TNC partners, including records associated with participation in a driver record monitoring program;
+			</section>
+			<section prefix="4">True and accurate results of the sex offender screening for each individual that the transportation network company authorizes to act as a TNC partner;
+			</section>
+			<section prefix="5">Proof of compliance with the requirements enumerated in subdivisions A 1 and 3 through 6 of § 46.2-2099.50;
+			</section>
+			<section prefix="6">Proof of compliance with the notice and disclosure requirements of subsection D of § 46.2-2099.48 and subsections D and E of § 46.2-2099.49; and
+			</section>
+			<section prefix="7">Proof that the transportation network company obtained certification from the TNC partner that the TNC partner secured the consent of each owner, lessor, and lessee of the vehicle for its registration as a TNC partner vehicle and for its use as a TNC partner vehicle by the TNC partner.
+				A transportation network company shall retain all records required under this subsection for a period of three years. Such records shall be retained in a manner that permits systematic retrieval and shall be made available to the Department in a format acceptable to the Commissioner for the purposes of conducting an audit on no more than an annual basis.
+			</section>
+		</section>
+		<section prefix="B">A transportation network company shall maintain the following records and make them available, in an acceptable format, on request to the Commissioner, a law-enforcement officer, an official of the Washington Metropolitan Area Transit Commission, or an airport owner and operator to investigate and resolve a complaint or respond to an incident:
+			<section prefix="1">Data regarding TNC partner activity while logged into the digital platform, including beginning and ending times and locations of each prearranged ride;
+			</section>
+			<section prefix="2">Records regarding any actions taken against a TNC partner;
+			</section>
+			<section prefix="3">Contracts or agreements between the transportation network company and its TNC partners;
+			</section>
+			<section prefix="4">Information identifying each TNC partner, including the TNC partner's name, date of birth, and driver's license number and the state issuing the license; and
+			</section>
+			<section prefix="5">Information identifying each TNC partner vehicle the transportation network company has authorized, including the vehicle's make, model, model year, vehicle identification number, and license plate number and the state issuing the license plate.
+				Requests for information pursuant to subdivision 2 or 3 shall be in writing.
+			</section>
+		</section>
+		<section prefix="C">Information obtained by the Department, law-enforcement officers, officials of the Washington Metropolitan Area Transit Commission, or airport owners and operators pursuant to this section shall be considered privileged information and shall only be used by the Department, law-enforcement officers, officials of the Washington Metropolitan Area Transit Commission, and airport owners and operators for purposes specified in subsection A or B. Such information shall not be subject to disclosure except on the written request of the Commissioner, a law-enforcement officer, an official of the Washington Metropolitan Area Transit Commission, or an airport owner and operator who requires such information for the purposes specified in subsection A or B.
+		</section>
+		<section prefix="D">Except as provided in subsection C, information obtained by the Department, law-enforcement officers, officials of the Washington Metropolitan Area Transit Commission, or airport owners and operators pursuant to this section shall not be disclosed to anyone without the transportation network company's express written permission and shall not be subject to disclosure through a court order or through a third-party request submitted pursuant to the Virginia Freedom of Information Act (§ 2.2-3700 et seq.). This provision shall not be construed to mean that a person is denied the right to seek such information directly from a transportation network company during a court proceeding.
+		</section>
+		<section prefix="E">Except as required under this section, a transportation network company shall not disclose any personal information, as defined in § 2.2-3801, about a user of its digital platform unless:
+			<section prefix="1">The transportation network company obtains the user's consent to disclose the personal information;
+			</section>
+			<section prefix="2">The disclosure is necessary to comply with a legal obligation; or
+			</section>
+			<section prefix="3">The disclosure is necessary to protect or defend the terms and conditions for use of the service or to investigate violations of the terms and conditions.
+				This limitation regarding disclosure does not apply to the disclosure of aggregated user data or to information about the user that is not personal information as defined in § 2.2-3801.
+			</section>
+		</section>
+	</text>
+	<history>2015, cc. 2, 3.</history>
+</law>

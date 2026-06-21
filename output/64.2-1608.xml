@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="B" level="3">Powers of Attorney</unit>
+		<unit label="chapter" identifier="16" level="4">Uniform Power of Attorney Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>64.2-1608</section_number>
+	<catch_line>Termination of power of attorney or agent's authority</catch_line>
+	<text>
+		<section prefix="A">A power of attorney terminates when:
+			<section prefix="1">The principal dies;
+			</section>
+			<section prefix="2">The principal becomes a vulnerable adult, if the power of attorney is not durable;
+			</section>
+			<section prefix="3">The principal revokes the power of attorney;
+			</section>
+			<section prefix="4">The power of attorney provides that it terminates;
+			</section>
+			<section prefix="5">The purpose of the power of attorney is accomplished; or
+			</section>
+			<section prefix="6">The principal revokes the agent's authority or the agent dies, becomes a vulnerable adult, or resigns, and the power of attorney does not provide for another agent to act under the power of attorney.
+			</section>
+		</section>
+		<section prefix="B">An agent's authority terminates when:
+			<section prefix="1">The principal revokes the authority;
+			</section>
+			<section prefix="2">The agent dies, becomes a vulnerable adult, or resigns;
+			</section>
+			<section prefix="3">Unless the power of attorney otherwise provides, an action is filed (i) for the divorce or annulment of the agent's marriage to the principal or their legal separation, (ii) by either the agent or principal for separate maintenance from the other, or (iii) by either the agent or principal for custody or visitation of a child in common with the other;
+			</section>
+			<section prefix="4">The agent is convicted of financial exploitation of the principal under § 18.2-178.2; or
+			</section>
+			<section prefix="5">The power of attorney terminates.
+			</section>
+		</section>
+		<section prefix="C">Unless the power of attorney otherwise provides, an agent's authority is exercisable until the authority terminates under subsection B, notwithstanding a lapse of time since the execution of the power of attorney.
+		</section>
+		<section prefix="D">Termination of an agent's authority or of a power of attorney is not effective as to the agent or another person that, without actual knowledge of the termination, acts in good faith under the power of attorney. An act so performed, unless otherwise invalid or unenforceable, binds the principal and the principal's successors in interest.
+		</section>
+		<section prefix="E">Incapacity of the principal of a power of attorney that is not durable does not revoke or terminate the power of attorney as to an agent or other person that, without actual knowledge of the incapacity, acts in good faith under the power of attorney. An act so performed, unless otherwise invalid or unenforceable, binds the principal and the principal's successors in interest.
+		</section>
+		<section prefix="F">The execution of a power of attorney does not revoke a power of attorney previously executed by the principal unless the subsequent power of attorney provides that the previous power of attorney is revoked or that all other powers of attorney are revoked.
+		</section>
+	</text>
+	<history>2010, cc. 455, 632, § 26-81; 2012, cc. 57, 614; 2022, cc. 397, 654.</history>
+</law>

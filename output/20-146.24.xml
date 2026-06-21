@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="3" level="3">Enforcement</unit>
+	</structure>
+	<section_number>20-146.24</section_number>
+	<catch_line>Duty to enforce</catch_line>
+	<text>
+		<section prefix="A">A court of this Commonwealth shall recognize and enforce a child custody determination of a court of another state if the latter court exercised jurisdiction in substantial conformity with this act or the determination was made under factual circumstances meeting the jurisdictional standards of this act and the determination has not been modified in accordance with this act.
+		</section>
+		<section prefix="B">A court of this Commonwealth may utilize any remedy available under other law of this Commonwealth to enforce a child custody determination made by a court of another state. The remedies provided in this article are cumulative and do not affect the availability of other remedies to enforce a child custody determination.
+		</section>
+	</text>
+	<history>1979, c. 229, § 20-138; 2001, c. 305.</history>
+</law>

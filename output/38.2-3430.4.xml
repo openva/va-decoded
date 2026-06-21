@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="4.1" level="3">Individual Health Insurance Coverage</unit>
+	</structure>
+	<section_number>38.2-3430.4</section_number>
+	<catch_line>Special rules for network plans</catch_line>
+	<text>
+		A health insurance issuer that offers health insurance coverage in the individual market may:
+		<section prefix="1">Limit the eligible individuals who may be enrolled under such coverage to those who live, reside, or work within the service area for such network plan;
+		</section>
+		<section prefix="2">Within the service area of such plan, deny such coverage to such individuals if the health insurance issuer has demonstrated to the Commission that: (i) it will not have the capacity to deliver services adequately to additional individual enrollees because of its obligations to existing group contract holders, enrollees and enrollees covered under individual contracts; and (ii) it is applying this section uniformly to individuals without regard to any health status-related factor of such individuals and without regard to whether the individuals are eligible individuals;
+		</section>
+		<section prefix="3">A health insurance issuer, upon denying health insurance coverage in any service area in accordance with subdivision 2, may not offer coverage in the individual market within such service area for a period of 180 days after such coverage is denied.
+		</section>
+	</text>
+	<history>1997, cc. 807, 913; 1998, c. 24.</history>
+</law>

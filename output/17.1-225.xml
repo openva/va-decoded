@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="2" level="2">Clerks, Clerks' Offices and Records</unit>
+		<unit label="article" identifier="3" level="3">Records, Recordation and Indexing Generally</unit>
+	</structure>
+	<section_number>17.1-225</section_number>
+	<catch_line>Remote access to nonconfidential court records</catch_line>
+	<text>
+		The clerk of the circuit court of any county or city may provide remote access, including Internet access, to all nonconfidential court records on an automated case management or other system maintained by his office and described in § 17.1-242. The clerk shall be responsible for insuring that proper security measures are implemented and maintained to prevent remote access users from obtaining any data that are confidential under this Code and to prevent the modification or destruction of any records by remote access users. For purposes of this section, remote access users are those individuals who are not employees of the clerk's office. Secure remote access to land records shall be governed by § 17.1-294.
+	</text>
+	<history>1985, c. 489, § 17-59.2; 1993, c. 445; 1997, c. 413; 1998, c. 872; 2001, c. 497; 2008, cc. 823, 833; 2014, c. 460.</history>
+</law>

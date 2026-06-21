@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="2" level="2">Clerks, Clerks' Offices and Records</unit>
+		<unit label="article" identifier="7" level="3">Fees</unit>
+	</structure>
+	<section_number>17.1-275.7</section_number>
+	<catch_line>Fixed misdemeanor fee</catch_line>
+	<text>
+		In circuit court, upon (i) conviction of any and each misdemeanor, not originally charged as a felony; (ii) a deferred disposition of proceedings in the case of any and each misdemeanor not originally charged as a felony and deferred pursuant to the terms and conditions of § 4.1-305, 16.1-278.8, 16.1-278.9, 18.2-57.3, 19.2-298.02, 19.2-303.2, or 19.2-303.6; (iii) any and each conviction of a traffic infraction or referral to a driver improvement clinic or traffic school in lieu of a finding of guilt for a traffic infraction; or (iv) proof of compliance with law under §§ 46.2-104 and 46.2-1158.02, there shall be assessed as court costs a fee of $80, to be known as the fixed misdemeanor fee. However, this section shall not apply to those proceedings provided for in § 17.1-275.8. This fee shall be in addition to any fee assessed in the district court.
+		The amount collected, in whole or in part, for the fixed misdemeanor fee shall be apportioned, as provided by law, to the following funds in the fractional amounts designated:
+		<section prefix="1">Sentencing/supervision fee (General Fund) (.0125000);
+		</section>
+		<section prefix="2">Witness expenses/expert witness fee (General Fund)(.0250000);
+		</section>
+		<section prefix="3">Virginia Crime Victim-Witness Fund (.0375000);
+		</section>
+		<section prefix="4">Intensified Drug Enforcement Jurisdiction Fund (.0500000);
+		</section>
+		<section prefix="5">Criminal Injuries Compensation Fund (.2500000);
+		</section>
+		<section prefix="6">Commonwealth's Attorney Fund (state share) (.0937500);
+		</section>
+		<section prefix="7">Commonwealth's Attorney Fund (local share) (.0937500);
+		</section>
+		<section prefix="8">Regional Criminal Justice Academy Training Fund (.0125000);
+		</section>
+		<section prefix="9">Warrant fee, as prescribed by § 17.1-272 (.1500000);
+		</section>
+		<section prefix="10">Courthouse Construction/Maintenance Fund (.0250000); and
+		</section>
+		<section prefix="11">Clerk of the circuit court (.2500000).
+		</section>
+	</text>
+	<history>2002, c. 831; 2003, c. 1039; 2005, c. 631; 2009, c. 756; 2011, cc. 283, 565; 2020, c. 1004; 2020, Sp. Sess. I, c. 21.</history>
+</law>

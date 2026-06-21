@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="5" level="3">Transfer of Interests and Rights</unit>
+	</structure>
+	<section_number>59.1-505.2</section_number>
+	<catch_line>Title to copy</catch_line>
+	<text>
+		<section prefix="a">In a license:
+			<section prefix="1">title to a copy is determined by the license;
+			</section>
+			<section prefix="2">a licensee's right under the license to possession or control of a copy is governed by the license and does not depend solely on title to the copy; and
+			</section>
+			<section prefix="3">if a licensor reserves title to a copy, the licensor retains title to that copy and any copies made of it, unless the license grants the licensee a right to make and sell copies to others, in which case the reservation of title applies only to copies delivered to the licensee by the licensor.
+			</section>
+		</section>
+		<section prefix="b">If an agreement provides for transfer of title to a copy, title passes:
+			<section prefix="1">at the time and place specified in the agreement; or
+			</section>
+			<section prefix="2">if the agreement does not specify a time and place:
+			</section>
+		</section>
+		<section prefix="A">with respect to delivery of a copy on a tangible medium, at the time and place the licensor completed its obligations with respect to tender of the copy; or
+		</section>
+		<section prefix="B">with respect to electronic delivery of a copy, if a first sale occurs under federal copyright law, at the time and place at which the licensor completed its obligations with respect to tender of the copy.
+		</section>
+		<section prefix="c">If the party to which title passes under the contract refuses delivery of the copy or rejects the terms of the agreement, title revests in the licensor.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

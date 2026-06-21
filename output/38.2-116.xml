@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions</unit>
+		<unit label="article" identifier="2" level="3">Insurance Classified and Defined</unit>
+	</structure>
+	<section_number>38.2-116</section_number>
+	<catch_line>Animal</catch_line>
+	<text>
+		"Animal insurance" means insurance against loss of or damage to any animal resulting from any cause.
+	</text>
+	<history>1952, c. 317, § 38.1-13; 1986, c. 562.</history>
+</law>

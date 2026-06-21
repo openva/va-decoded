@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Taxation</unit>
+		<unit label="article" identifier="4" level="3">Computation of Tax Rate</unit>
+	</structure>
+	<section_number>60.2-532</section_number>
+	<catch_line>Pool cost charges</catch_line>
+	<text>
+		<section prefix="A">As of January 1 of each year, to all experience rating tax rates established pursuant to § 60.2-531, to all assigned tax rates established pursuant to §§ 60.2-515, 60.2-526, 60.2-527 and 60.2-538, there shall be added the pool cost charges as determined in subsection B of this section.
+		</section>
+		<section prefix="B">The pool cost charge rate rounded to the nearest one-hundredth of a percent shall be determined as follows:
+			<section prefix="1">Pool costs for a given calendar year shall be those costs defined in subdivision 2 of this subsection for the thirty-six consecutive calendar month period ending on June 30 immediately preceding that calendar year. The pool cost charge rate shall be pool costs divided by payrolls for such period.
+			</section>
+			<section prefix="2">Pool costs shall consist of (i) benefit charges which cannot be assigned to an individual employer pursuant to §§ 60.2-210, 60.2-212 through 60.2-219, or subsection C of § 60.2-528, or cannot be charged to an individual employer due to his becoming an inactive account pursuant to § 60.2-210 or § 60.2-509, (ii) the difference in the amount the Commission pays pursuant to subdivision 2 of subsection A of § 60.2-609 and the amount the Commission receives pursuant to subdivision 3 of subsection A of § 60.2-609, and (iii) the difference between the benefit charges of all employers with a maximum experience rating tax rate and the amount of the taxes resulting from applying the maximum experience rating tax rate against the payrolls of the same employers. The term "payrolls" as used in this section shall mean the taxable payroll on which taxes have been paid on or before September 30 immediately following such June 30.
+			</section>
+			<section prefix="3">When the fund balance factor for the most recent twelve-month period ending on June 30 of the immediately preceding calendar year is greater than fifty percent, interest earned on the balance which shall stand to the credit of the account of the Commonwealth of Virginia in the Unemployment Trust Fund in the treasury of the United States shall be subtracted from pool costs, except that in no instance shall pool costs be less than zero.
+			</section>
+		</section>
+	</text>
+	<history>1981, c. 606, § 60.1-84.2; 1984, c. 458; 1986, c. 480; 1987, c. 114; 1990, c. 908; 1993, c. 249.</history>
+</law>

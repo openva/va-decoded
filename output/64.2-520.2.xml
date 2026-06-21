@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="5" level="3">Personal Representatives and Administration of Estates</unit>
+		<unit label="article" identifier="3" level="4">Authority and General Duties</unit>
+	</structure>
+	<section_number>64.2-520.2</section_number>
+	<catch_line>Reliance on certificate of qualification of a personal representative</catch_line>
+	<text>
+		<section prefix="A">Any individual or entity conducting business in good faith with a personal representative who presents a currently effective certificate of qualification may presume that the personal representative is properly authorized to act as to any matter or transaction. A person that refuses in violation of this section to accept a certificate of qualification is subject to (i) a court order mandating acceptance of the certificate of qualification and (ii) liability for reasonable attorney fees and costs incurred in any action or proceeding that confirms the validity of the certificate of qualification or mandates acceptance of the certificate of qualification.
+		</section>
+		<section prefix="B">A person shall either accept or reject a certificate of qualification no later than seven business days after presentation of such certificate of qualification for acceptance. A person is not required to accept a certificate of qualification for a transaction if:
+			<section prefix="1">Engaging in the transaction with the personal representative would be inconsistent with state or federal law;
+			</section>
+			<section prefix="2">The person has actual knowledge of the termination of the personal representative's authority or of the certificate of qualification before exercise of the power;
+			</section>
+			<section prefix="3">The person in good faith believes that the certificate of qualification is not valid or that the personal representative does not have the authority to perform the act requested; or
+			</section>
+			<section prefix="4">The person believes in good faith that the transaction may involve, facilitate, result in, or contribute to financial exploitation.
+			</section>
+		</section>
+	</text>
+	<history>2020, c. 702.</history>
+</law>

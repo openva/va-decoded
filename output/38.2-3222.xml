@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="32" level="2">Standard Nonforfeiture Provisions for Life Insurance</unit>
+	</structure>
+	<section_number>38.2-3222</section_number>
+	<catch_line>Computation of present value</catch_line>
+	<text>
+		Any paid-up annuity benefit available under a contract shall be such that its present value on the date annuity payments are to commence at least equals the minimum nonforfeiture amount on that date. The present value shall be computed using the mortality table, if any, and the interest rate or rates specified in the contract for determining the minimum paid-up annuity benefits guaranteed in the contract.
+	</text>
+	<history>1979, c. 437, § 38.1-470.1; 1986, c. 562; 2004, c. 313.</history>
+</law>

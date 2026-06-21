@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="16" level="3">Transition Provisions</unit>
+	</structure>
+	<section_number>13.1-939</section_number>
+	<catch_line>Saving provision</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsection B, the repeal of a statute by this Act does not affect:
+			<section prefix="1">The operation of the statute or any action taken under it before its repeal;
+			</section>
+			<section prefix="2">Any ratification, right, remedy, privilege, obligation or liability acquired, accrued, or incurred under the statute before its repeal;
+			</section>
+			<section prefix="3">Any violation of the statute, or any penalty, forfeiture or punishment incurred because of the violation, before its repeal; or
+			</section>
+			<section prefix="4">Any proceeding commenced, or reorganization or dissolution authorized by the board of directors, under the statute before its repeal, and the proceeding, reorganization or dissolution may be completed in accordance with the statute as if it had not been repealed.
+			</section>
+		</section>
+		<section prefix="B">If a penalty or punishment imposed for violation of a statute repealed by this Act is reduced by this Act, the penalty or punishment if not already imposed shall be imposed in accordance with this Act.
+		</section>
+		<section prefix="C">If any provision of this chapter is deemed to modify, limit, or supersede the federal Electronic Signatures in Global and National Commerce Act, 15 U.S.C. § 7001 et seq., the provisions of this chapter shall control to the maximum extent permitted by 15 U.S.C. § 7002(a)(2).
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-292; 1956, c. 428; 1985, c. 522; 2007, c. 925; 2010, c. 171.</history>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="21" level="3">Regulation of Property Carriers</unit>
+		<unit label="article" identifier="4" level="4">Household Goods Carriers</unit>
+	</structure>
+	<section_number>46.2-2168</section_number>
+	<catch_line>Claims</catch_line>
+	<text>
+		<section prefix="A">Every household goods carrier that receives a written claim for loss of or damage to property transported by it shall:
+			<section prefix="1">Acknowledge receipt of such claim in writing to the claimant within thirty calendar days after its receipt by the carrier. The carrier shall, at the time such claim is received, cause the date of receipt to be recorded on the claim;
+			</section>
+			<section prefix="2">Pay, decline or make a firm compromise settlement offer in writing to the claimant within 120 days after receipt of the claim by the carrier or its agent.
+			</section>
+		</section>
+		<section prefix="B">If the claim cannot be processed and disposed of within 120 days after the receipt thereof, the carrier shall, at that time and the expiration of each succeeding thirty-day period while the claim remains pending, advise the claimant in writing of the status of the claim and the reasons for the delay in making final disposition thereof.
+		</section>
+		<section prefix="C">No household goods carrier shall provide by contract or otherwise a shorter period for the filing of loss and damage claims than thirty calendar days, and for the institution of suits than two years, such period for institution of suits to be computed from the day when notice in writing is given by the carrier to the claimant that the carrier has disallowed the claim or any part or parts thereof specified in the notice.
+		</section>
+	</text>
+	<history>2001, c. 596.</history>
+</law>

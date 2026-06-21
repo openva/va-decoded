@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="7" level="2">Crimes Involving Health and Safety</unit>
+		<unit label="article" identifier="1" level="3">Drugs</unit>
+	</structure>
+	<section_number>18.2-251.1</section_number>
+	<catch_line>Possession or distribution of marijuana for medical purposes permitted</catch_line>
+	<text>
+		<section prefix="A">No person shall be prosecuted under § 18.2-250 or § 18.2-250.1 for the possession of marijuana or tetrahydrocannabinol when that possession occurs pursuant to a valid prescription issued by a medical doctor in the course of his professional practice for treatment of cancer or glaucoma.
+		</section>
+		<section prefix="B">No medical doctor shall be prosecuted under § 18.2-248 or § 18.2-248.1 for dispensing or distributing marijuana or tetrahydrocannabinol for medical purposes when such action occurs in the course of his professional practice for treatment of cancer or glaucoma.
+		</section>
+		<section prefix="C">No pharmacist shall be prosecuted under §§ 18.2-248 to 18.2-248.1 for dispensing or distributing marijuana or tetrahydrocannabinol to any person who holds a valid prescription of a medical doctor for such substance issued in the course of such doctor's professional practice for treatment of cancer or glaucoma.
+		</section>
+	</text>
+	<history>1979, c. 435.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="7" level="2">Vital Records</unit>
+		<unit label="article" identifier="1" level="3">Definitions and Administrative Provisions</unit>
+	</structure>
+	<section_number>32.1-254</section_number>
+	<catch_line>County and city registrars designated; deputies; special registrars</catch_line>
+	<text>
+		<section prefix="A">Each county and city health director shall be the county or city registrar of vital records and health statistics for his jurisdiction and shall appoint one or more deputies in the county or city health department. Any county or city registrar may recommend that the State Registrar appoint a special registrar when necessary to facilitate registration in his county or city.
+		</section>
+		<section prefix="B">When there is no duly appointed county or city health director, the State Registrar shall appoint a county or city registrar to serve pending the appointment of a health director.
+		</section>
+	</text>
+	<history>Code 1950, § 32-353.10; 1960, c. 451; 1979, c. 711.</history>
+</law>

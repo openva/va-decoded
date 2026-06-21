@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="4" level="5">Ventilation, Mine Gases, and Other Hazardous Conditions</unit>
+	</structure>
+	<section_number>45.2-836</section_number>
+	<catch_line> Quantity of air</catch_line>
+	<text>
+		<section prefix="A">The quantity of air passing through the last open crosscut shall be at least 9,000 cubic feet per minute. However, the quantity of air reaching the last open crosscut in a pillar-recovery section may be less than 9,000 cubic feet per minute if at least 9,000 cubic feet of air per minute is being delivered to the intake end of the pillar line.
+		</section>
+		<section prefix="B">The air current at a working face shall, under all conditions, have a sufficient volume and velocity to readily dilute and carry away smoke from blasting and any flammable or harmful gases and dust.
+		</section>
+		<section prefix="C">In a longwall or shortwall mining system:
+			<section prefix="1">The quantity of air shall be at least 30,000 cubic feet per minute reaching the working face, unless otherwise approved by the Chief; and
+			</section>
+			<section prefix="2">The velocity of air provided to control dust at designated locations on the longwall or shortwall face shall be maintained in accordance with the provisions of the mine ventilation plan approved by MSHA.
+			</section>
+		</section>
+		<section prefix="D">Ventilation shall be maintained during the installation or removal of mechanized mining equipment.
+		</section>
+	</text>
+	<history>Code 1950, §§ 45-4.1, 45-9, 45-12, 45-60.4, 45-74; 1954, c. 191; 1966, c. 594, §§ 45.1-5, 45.1-56; 1968, c. 310; 1976, c. 598; 1978, c. 120; 1984, c. 236; 1985, c. 448; 1987, c. 470; 1990, c. 963; 1993, c. 442; 1994, c. 28, § 45.1-161.219; 1996, c. 774; 2005, c. 3; 2021, Sp. Sess. I, c. 387.</history>
+</law>

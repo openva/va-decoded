@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="2" level="5">Electricity</unit>
+	</structure>
+	<section_number>45.2-811</section_number>
+	<catch_line> Communication systems</catch_line>
+	<text>
+		<section prefix="A">Telephone service or equivalent two-way communication facilities shall be provided between the top and each landing of each main shaft or slope. A telephone or equivalent two-way communication facility shall be located on the surface within 500 feet of each main portal and installed in either a building or a box-like structure that is designed to protect the facility from damage by inclement weather. At least one of these communication facilities shall be at a location where an authorized person who is always on duty when miners are underground can see or hear the facility and respond immediately in the event of an emergency.
+		</section>
+		<section prefix="B">Telephone lines, other than cables, shall be carried on insulators, installed on the opposite side from power or trolley wires, and insulated adequately where they cross power or trolley wires.
+		</section>
+		<section prefix="C">Lightning arrestors shall be provided at each point where a telephone circuit enters the mine and at each telephone on the surface. Where the telephone circuit enters a building or structure, a lightning arrestor is required only at the point at which the circuit enters such building or structure.
+		</section>
+		<section prefix="D">If a communication system other than telephones is used and its operation depends entirely upon power from the mine electric system, a means shall be provided to permit continued communication in the event the mine electric power fails or is cut off.
+		</section>
+		<section prefix="E">Communication systems equipped with audible and visual signals that become operative when telephone communication is being established between the phones of the communication station on the surface and the underground working sections shall be provided.
+		</section>
+		<section prefix="F">The Chief shall adopt regulations governing any disruption of communication in a mine.
+		</section>
+	</text>
+	<history>Code 1950, § 45-82.4; 1954, c. 191; 1966, c. 594, § 45.1-81; 1978, c. 118; 1979, c. 315; 1994, c. 28, § 45.1-161.191; 1996, c. 774; 1999, c. 256; 2021, Sp. Sess. I, c. 387.</history>
+</law>

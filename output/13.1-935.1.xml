@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="15" level="3">Records and Reports</unit>
+	</structure>
+	<section_number>13.1-935.1</section_number>
+	<catch_line>Inspection of records by directors</catch_line>
+	<text>
+		<section prefix="A">A director of a corporation is entitled to inspect and copy the books, records, and documents of the corporation at any reasonable time to the extent reasonably related to the performance of his duties as a director, including duties as a member of a committee, but not for any other purpose or in any manner that would violate any duty to the corporation.
+		</section>
+		<section prefix="B">The circuit court of the city or county where the corporation's principal office or, if none in the Commonwealth, its registered office is located may order inspection and copying of the books, records, and documents upon application of a director who has been refused such inspection rights, unless the corporation establishes that the director is not entitled to such inspection rights. The court shall dispose of an application under this subsection on an expedited basis.
+		</section>
+		<section prefix="C">If an order is issued, the court may include provisions protecting the corporation from undue burden or expense and prohibiting the director from using information obtained upon exercise of the inspection rights in a manner that would violate a duty to the corporation and may also order the corporation to reimburse the director for his reasonable costs, including reasonable counsel fees, incurred in connection with the application if the director proves that the corporation refused inspection without a reasonable basis for doubt about the director's right to inspect the records demanded.
+		</section>
+	</text>
+	<history>2007, c. 925.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.16</section_number>
+	<catch_line>Merger authorized; parties restricted</catch_line>
+	<text>
+		A series limited liability company may be party to a merger in accordance with Article 13 (§ 13.1-1069.1 et seq.), this section, and §§ 13.1-1099.17 through 13.1-1099.20 only if:
+		<section prefix="1">Each party to the merger is a limited liability company; and
+		</section>
+		<section prefix="2">The surviving company is not created in the merger.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

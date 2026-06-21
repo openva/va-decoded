@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="25.1" level="1">Eminent Domain</unit>
+		<unit label="chapter" identifier="2" level="2">Condemnation Procedures</unit>
+		<unit label="article" identifier="8" level="3">Dismissal of Proceedings</unit>
+	</structure>
+	<section_number>25.1-251</section_number>
+	<catch_line>Dismissal of proceedings by stipulation of parties; effect of dismissal; dropping parties</catch_line>
+	<text>
+		<section prefix="A">Before the vesting of title, or a lesser interest therein in any property in the manner prescribed in this chapter, the proceedings may be dismissed, in whole or in part, as to any such property upon the filing of a stipulation of dismissal by the parties affected thereby. If such parties so stipulate, the court may vacate any order that has been entered.
+		</section>
+		<section prefix="B">Except as otherwise provided in a stipulation of dismissal or order of the court, any dismissal is without prejudice.
+		</section>
+		<section prefix="C">The court may at any time drop a defendant unnecessarily or improperly joined.
+		</section>
+	</text>
+	<history>Code 1919, § 4387; 1934, p. 514; Code 1950, § 25-22; 1962, c. 426, § 25-46.34; 1972, c. 742; 2003, c. 940.</history>
+</law>

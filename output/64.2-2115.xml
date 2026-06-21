@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="D" level="3">Guardianship of Incapacitated Persons</unit>
+		<unit label="chapter" identifier="21" level="4">Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act</unit>
+		<unit label="article" identifier="3" level="5">Transfer of Guardianship or Conservatorship</unit>
+	</structure>
+	<section_number>64.2-2115</section_number>
+	<catch_line>Accepting guardianship or conservatorship transferred from another state</catch_line>
+	<text>
+		<section prefix="A">To confirm transfer of a guardianship or conservatorship transferred to the Commonwealth under provisions similar to § 64.2-2114, the guardian or conservator shall petition the court in the Commonwealth to accept the guardianship or conservatorship. The petition shall include a certified copy of the other state's provisional order of transfer.
+		</section>
+		<section prefix="B">Notice of a petition under subsection A shall be given to those persons that would be entitled to notice if the petition were a petition for the appointment of a guardian or issuance of a conservatorship order in both the transferring state and the Commonwealth. The notice shall be given in the same manner as notice is required to be given in the Commonwealth.
+		</section>
+		<section prefix="C">On the court's own motion or on request of the guardian or conservator, the incapacitated or protected person, or other person required to be notified of the proceeding, the court shall hold a hearing on a petition filed pursuant to subsection A.
+		</section>
+		<section prefix="D">The court shall issue an order provisionally granting a petition filed under subsection A unless:
+			<section prefix="1">An objection is made and the objector establishes that transfer of the proceeding would be contrary to the interests of the incapacitated or protected person; or
+			</section>
+			<section prefix="2">The guardian or conservator is ineligible for appointment in the Commonwealth.
+			</section>
+		</section>
+		<section prefix="E">The court shall issue a final order accepting the proceeding and appointing the guardian or conservator as guardian or conservator in the Commonwealth upon its receipt from the court from which the proceeding is being transferred of a final order issued under provisions similar to § 64.2-2114 transferring the proceeding to the Commonwealth.
+			The final order accepting transfer of a guardianship or conservatorship shall contain a determination of whether the guardianship or conservatorship needs to be modified to conform to the laws of the Commonwealth.
+		</section>
+		<section prefix="F">In granting a petition under this section, the court shall recognize a guardianship or conservatorship order from the other state, including the determination of the incapacitated or protected person's incapacity and the appointment of the guardian or conservator.
+		</section>
+		<section prefix="G">The denial by a court of the Commonwealth of a petition to accept a guardianship or conservatorship transferred from another state does not affect the ability of the guardian or conservator to seek appointment as guardian or conservator in the Commonwealth under Chapter 20 (§ 64.2-2000 et seq.) if the court has jurisdiction to make an appointment other than by reason of the provisional order of transfer.
+		</section>
+	</text>
+	<history>2011, c. 518, § 37.2-1047; 2012, c. 614.</history>
+</law>

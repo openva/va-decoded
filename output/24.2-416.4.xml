@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="3.1" level="3">Mail Registration</unit>
+	</structure>
+	<section_number>24.2-416.4</section_number>
+	<catch_line>Return of mail voter registration applications</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding the provisions of § 24.2-416, a mail voter registration application returned through the United States Postal Service shall be deemed to have been made as of the date of the postmark affixed to such application by the United States Postal Service. If no such postmark is affixed or if the postmark affixed by the United States Postal Service is illegible or bears no date, such application shall be deemed to have been timely if received through the United States mail no later than five days following the time for the closing of the registration books pursuant to § 24.2-416.
+		</section>
+		<section prefix="B">In any other case, a completed mail voter registration application shall be deemed timely if received by any general registrar or any person authorized to receive voter registration applications pursuant to § 24.2-415.1 by 5:00 p.m. on the final day of registration provided for in § 24.2-414.
+		</section>
+	</text>
+	<history>1996, cc. 72, 73; 2013, c. 680.</history>
+</law>

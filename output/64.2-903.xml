@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="9" level="3">Uniform Custodial Trust Act</unit>
+	</structure>
+	<section_number>64.2-903</section_number>
+	<catch_line>Form and effect of receipt and acceptance by custodial trustee; jurisdiction</catch_line>
+	<text>
+		<section prefix="A">Obligations of a custodial trustee, including the obligation to follow directions of the beneficiary, arise under this chapter upon the custodial trustee's acceptance, express or implied, of the custodial trust property.
+		</section>
+		<section prefix="B">The custodial trustee's acceptance may be evidenced by a writing stating in substance:
+			CUSTODIAL TRUSTEE'S RECEIPT AND ACCEPTANCE
+			I, ____________________ (name of custodial trustee), acknowledge receipt of the custodial trust property described below or in the attached instrument and accept the custodial trust as custodial trustee for ____________________ (name of beneficiary) under the Virginia Uniform Custodial Trust Act. I undertake to administer and distribute the custodial trust property pursuant to the Virginia Uniform Custodial Trust Act. My obligations as custodial trustee are subject to the directions of the beneficiary unless the beneficiary is designated as, is, or becomes incapacitated. The custodial trust property consists of ________________________________________.
+			Dated: ____________________
+			________________________________________(signature of custodial trustee)
+		</section>
+		<section prefix="C">Upon accepting custodial trust property, a person designated as custodial trustee under this chapter is subject to personal jurisdiction of the court with respect to any matter relating to the custodial trust.
+		</section>
+	</text>
+	<history>1990, c. 264, § 55-34.4; 2012, c. 614.</history>
+</law>

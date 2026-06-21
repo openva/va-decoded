@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="6" level="3">Flood Protection and Dam Safety</unit>
+		<unit label="article" identifier="2" level="4">Dam Safety Act</unit>
+	</structure>
+	<section_number>10.1-605</section_number>
+	<catch_line>Promulgation of regulations by the Board; guidance document</catch_line>
+	<text>
+		<section prefix="A">The Board shall adopt regulations to ensure that impounding structures in the Commonwealth are properly and safely constructed, maintained and operated. Dam safety regulations promulgated by the State Water Control Board shall remain in full force until amended in accordance with applicable procedures.
+		</section>
+		<section prefix="B">The Board's Impounding Structure Regulations shall not require any impounding structure in existence or under a construction permit prior to July 1, 2010, that is currently classified as high hazard, or is subsequently found to be high hazard through reclassification, to upgrade its spillway to pass a rainfall event greater than the maximum recorded within the Commonwealth, which shall be deemed to be 90 percent of the probable maximum precipitation.
+			<section prefix="1">Such an impounding structure shall be determined to be in compliance with the spillway requirements of the regulations provided that (i) the impounding structure will pass two-thirds of the reduced probable maximum precipitation requirement described in this subsection and (ii) the dam owner certifies annually and by January 15 that such impounding structure meets each of the following conditions:
+				a. The owner has a current emergency action plan that is approved by the Board and that is developed and updated in accordance with the regulations;
+				b. The owner has exercised the emergency action plan in accordance with the regulations and conducts a table-top exercise at least once every two years;
+				c. The Department has verification that both the local emergency management coordinator and the Virginia Department of Emergency Management have on file current emergency action plans and updates for the impounding structure;
+				d. That conditions at the impounding structure are monitored on a daily basis and as dictated by the emergency action plan;
+				e. The impounding structure is inspected at least annually by a professional engineer and all observed deficiencies are addressed within 120 days of such inspection;
+				f. The owner has a dam break inundation zone map developed in accordance with the regulations that is acceptable to the Department;
+				g. The owner is insured in an amount that will substantially cover the costs of downstream property losses to others that may result from a dam failure; and
+				h. The owner shall post the dam's emergency action plan on his website, or upon the request of the owner, the Department or another state agency responsible for providing emergency management services to citizens agrees to post the plan on its website. If the Department or another state agency agrees to post the plan on its website, the owner shall provide the plan in a format suitable for posting.
+			</section>
+			<section prefix="2">A dam owner who meets the conditions of subdivisions 1 a through 1 h, but has not provided record drawings to the Department for his impounding structure, shall submit a complete record report developed in accordance with the construction permit requirements of the Impounding Structure Regulations, excluding the required submittal of the record drawings.
+			</section>
+			<section prefix="3">A dam owner who fails to submit certifications required by subdivisions 1 a through 1 h in a timely fashion shall not enjoy the presumption that such impounding structure is deemed to be in compliance with the spillway requirements of the Board's Impounding Structure Regulations (4VAC50-20).
+			</section>
+			<section prefix="4">Any dam owner who has submitted the certifications required by subdivisions 1 a through 1 h shall make (i) such certifications, (ii) the emergency action plan required by subdivision 1 a, and (iii) the certificate of insurance required by subdivision 1 g available, upon request and within five business days, to any person. A dam owner may comply with the requirements of this subdivision by providing the same information on a website and directing the requestor to such website. A dam owner who fails to comply with this subdivision shall be subject to a civil penalty pursuant to § 10.1-609.
+			</section>
+		</section>
+		<section prefix="C">The Board's regulations shall establish an incremental damage analysis procedure that permits the spillway design flood requirement for an impounding structure to be reduced to the level at which dam failure shall not significantly increase downstream hazard to life or property, provided that the spillway design flood requirement shall not be reduced to below the 100-year flood event for high or significant hazard impounding structures, or to below the 50-year flood event for low hazard potential impounding structures.
+		</section>
+		<section prefix="D">The Board shall consider the impact of limited-use or private roadways with low traffic volume and low public safety risk that are downstream from or across an impounding structure in the determination of the hazard potential classification of an impounding structure.
+		</section>
+	</text>
+	<history>1982, c. 583, § 62.1-115.2; 1986, c. 9; 1988, c. 891; 2010, cc. 249, 270; 2011, c. 323; 2025, cc. 228, 241.</history>
+</law>

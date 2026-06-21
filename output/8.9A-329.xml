@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="3" level="3">Priority</unit>
+	</structure>
+	<section_number>8.9A-329</section_number>
+	<catch_line>Priority of security interests in letter-of-credit right</catch_line>
+	<text>
+		The following rules govern priority among conflicting security interests in the same letter-of-credit right:
+		<section prefix="1">A security interest held by a secured party having control of the letter-of-credit right under § 8.9A-107 has priority to the extent of its control over a conflicting security interest held by a secured party that does not have control.
+		</section>
+		<section prefix="2">Security interests perfected by control under § 8.9A-314 rank according to priority in time of obtaining control.
+		</section>
+	</text>
+	<history>2000, c. 1007.</history>
+</law>

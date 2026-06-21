@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="9" level="3">Virginia Estate Tax</unit>
+		<unit label="article" identifier="4" level="4">Recapture Tax on Certain Use-Valuations</unit>
+	</structure>
+	<section_number>58.1-931</section_number>
+	<catch_line>Imposition of tax</catch_line>
+	<text>
+		<section prefix="A">When the gross estate of a decedent at the date of death is of such value as to require filing a federal estate tax return and such estate contains certain farm or business real property which qualified for valuation under § 2032A of the Internal Revenue Code, and such property has been valued in the manner provided in § 2032A for the tax imposed under this chapter, a copy of the election made at the time of filing the federal estate tax return shall be attached to the Virginia estate tax return when filed. Such return shall also include an agreement signed by each person in being having an interest, whether or not in possession, in such property and consent to the application of § 2032A of the Internal Revenue Code.
+		</section>
+		<section prefix="B">If, within fifteen years after the decedent's death and before the death of the qualified heir, as defined in § 2032A(e)(1) of the Internal Revenue Code, a qualified heir disposes of any interest in the property, other than to a member of his family, as defined in subsection (e)(2) of such section, or ceases to use such property for qualified uses as defined in subsection (b) (2) of such section, there is hereby imposed an additional Virginia estate tax, computed as provided in subsection (c) of § 2032A of the Internal Revenue Code.
+		</section>
+	</text>
+	<history>Code 1950, § 58-238.38; 1981, c. 399; 1984, c. 675.</history>
+</law>

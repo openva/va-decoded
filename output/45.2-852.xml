@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="4" level="5">Ventilation, Mine Gases, and Other Hazardous Conditions</unit>
+	</structure>
+	<section_number>45.2-852</section_number>
+	<catch_line> Rock dusting</catch_line>
+	<text>
+		<section prefix="A">Every underground area of a mine, except an area in which the coal dust is too wet or too high in incombustible content to propagate an explosion, shall be rock-dusted to within 40 feet of every working face, unless such area is inaccessible or unsafe to enter or unless the Chief or his authorized representative permits an exception upon his finding that such exception does not pose a hazard to any miner. Every crosscut that is less than 40 feet from a working face shall also be rock-dusted.
+		</section>
+		<section prefix="B">Every other area of a mine shall be rock-dusted if conditions are found by a proper inspection to be so dusty as to constitute a hazard. If such conditions are found to exist, the Chief or his authorized representative shall require the necessary rock dusting to make every such area of the mine safe.
+		</section>
+		<section prefix="C">Coal dust, including float coal dust deposited on rock-dusted surfaces, loose coal, and other combustible material, shall be cleaned up and shall not be permitted to accumulate excessively in active workings or on electric equipment therein.
+		</section>
+	</text>
+	<history>Code 1950, § 45-77; 1954, c. 191; 1966, c. 594, § 45.1-67; 1978, c. 120; 1994, c. 28, § 45.1-161.235; 1999, c. 256; 2021, Sp. Sess. I, c. 387.</history>
+</law>

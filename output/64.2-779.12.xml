@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.1" level="4">Uniform Trust Decanting Act</unit>
+	</structure>
+	<section_number>64.2-779.12</section_number>
+	<catch_line>Trust limitation on decanting</catch_line>
+	<text>
+		<section prefix="A">An authorized fiduciary may not exercise the decanting power to the extent the first-trust instrument expressly prohibits exercise of:
+			<section prefix="1">The decanting power; or
+			</section>
+			<section prefix="2">A power granted by state law to the fiduciary to distribute part or all of the income or principal of the trust to another trust or to modify the trust.
+			</section>
+		</section>
+		<section prefix="B">Exercise of the decanting power is subject to any restriction in the first-trust instrument that expressly applies to exercise of:
+			<section prefix="1">The decanting power; or
+			</section>
+			<section prefix="2">A power granted by state law to a fiduciary to distribute part or all of the income or principal of the trust to another trust or to modify the trust.
+			</section>
+		</section>
+		<section prefix="C">A general prohibition of the amendment or revocation of a first trust, a spendthrift clause, or a clause restraining the voluntary or involuntary transfer of a beneficiary's interest does not preclude exercise of the decanting power.
+		</section>
+		<section prefix="D">Subject to subsections A and B, an authorized fiduciary may exercise the decanting power under this article even if the first-trust instrument permits the authorized fiduciary or another person to modify the first-trust instrument or to distribute part or all of the income or principal of the first trust to another trust.
+		</section>
+		<section prefix="E">If a first-trust instrument contains an express prohibition described in subsection A or an express restriction described in subsection B, the provision must be included in the second-trust instrument.
+		</section>
+	</text>
+	<history>2017, c. 592.</history>
+</law>

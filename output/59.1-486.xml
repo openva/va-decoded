@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="42.1" level="2">Uniform Electronic Transactions Act</unit>
+	</structure>
+	<section_number>59.1-486</section_number>
+	<catch_line>Provision of information in writing; presentation of records</catch_line>
+	<text>
+		<section prefix="a">If parties have agreed to conduct a transaction by electronic means and a law requires a person to provide, send, or deliver information in writing to another person, the requirement is satisfied if the information is provided, sent, or delivered, as the case may be, in an electronic record capable of retention by the recipient at the time of receipt. An electronic record is not capable of retention by the recipient if the sender or its information processing system inhibits the ability of the recipient to print or store the electronic record.
+		</section>
+		<section prefix="b">If a law other than this chapter requires a record (i) to be posted or displayed in a certain manner, (ii) to be sent, communicated, or transmitted by a specified method, or (iii) to contain information that is formatted in a certain manner, the following rules apply:
+			<section prefix="1">The record shall be posted or displayed in the manner specified in the other law.
+			</section>
+			<section prefix="2">Except as otherwise provided in subsection (d) (2), the record shall be sent, communicated, or transmitted by the method specified in the other law.
+			</section>
+			<section prefix="3">The record shall contain the information formatted in the manner specified in the other law.
+			</section>
+		</section>
+		<section prefix="c">If a sender inhibits the ability of a recipient to store or print an electronic record, the electronic record is not enforceable against the recipient.
+		</section>
+		<section prefix="d">The requirements of this section may not be varied by agreement, except:
+			<section prefix="1">To the extent a law other than this chapter requires information to be provided, sent, or delivered in writing but permits that requirement to be varied by agreement, the requirement under subsection (a) that the information be in the form of an electronic record capable of retention may also be varied by agreement; and
+			</section>
+			<section prefix="2">A requirement under a law other than this chapter to send, communicate, or transmit a record by United States mail, may be varied by agreement to the extent permitted by the other law.
+			</section>
+		</section>
+		<section prefix="e">Notwithstanding subsections (b) and (d), a governmental agency may by regulation alter requirements governing (i) the method of posting or display, (ii) the manner of communication or transmittal, including First Class or other United States mail requirements, or (iii) formatting requirements, with respect to the matters over which that agency has jurisdiction and with respect to transactions that the parties have agreed to conduct by electronic means.
+		</section>
+	</text>
+	<history>2000, c. 995.</history>
+</law>

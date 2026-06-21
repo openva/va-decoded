@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="III" level="2">Professions and Occupations Regulated by Boards Within the Department of Health Professions</unit>
+		<unit label="chapter" identifier="34" level="3">Drug Control Act</unit>
+		<unit label="article" identifier="5" level="4">Standards and Schedules</unit>
+	</structure>
+	<section_number>54.1-3453</section_number>
+	<catch_line>Placement of substance in Schedule V</catch_line>
+	<text>
+		The Board shall place a substance in Schedule V if it finds that:
+		<section prefix="1">The substance has low potential for abuse relative to the controlled substances listed in Schedule IV;
+		</section>
+		<section prefix="2">The substance has currently accepted medical use in treatment in the United States; and
+		</section>
+		<section prefix="3">The substance has limited physical dependence or psychological dependence liability relative to the controlled substances listed in Schedule IV.
+		</section>
+	</text>
+	<history>1972, c. 798, § 54-524.84:11; 1988, c. 765.</history>
+</law>

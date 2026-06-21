@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-422.5</section_number>
+	<catch_line>(Contingent effective date — See Editor's note) Internet root infrastructure providers</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Authority" means the Virginia Economic Development Partnership Authority.
+			"Eligible planning district" means Planning District 8.
+			"Internet root infrastructure provider" means an entity and its affiliated entities that is designated to operate one or more of the 13 Internet root servers of the Internet Assigned Names Authority (IANA) root and functions as the authoritative directory for one or more Top-Level Domains. This term does not include an Internet service provider, cable service provider, or similar company.
+			"Internet root server of the IANA root" means a Domain Name System server for one of the 13 root identities (A. - M.) that answers requests for the Domain Name System root zone of the Internet, redirecting requests for each Top-Level Domain to its respective nameservers.
+			"Memorandum of understanding" means a performance agreement or related document entered into by an Internet root infrastructure provider and the Authority on or after January 1, 2023, but before December 1, 2023, that sets forth the requirements for commitments to the Commonwealth.
+		</section>
+		<section prefix="B">1. For taxable years beginning on or after January 1, 2023, but before January 1, 2030, an Internet root infrastructure provider shall be subject to the provisions of subdivision B 3 of § 58.1-416 only if the Authority certifies to the Department that the taxpayer has at least 550 full-time employees with an average annual salary of $175,000 in an eligible planning district, has entered into a memorandum of understanding with the Authority, and has met the terms of such agreement.
+			<section prefix="2">For taxable years beginning on or after January 1, 2030, if the Authority certifies to the Department that all requirements of the memorandum of understanding have been satisfied, no additional certifications shall be required, and the Internet root infrastructure provider shall continue to be subject to the provisions of subdivision B 3 of § 58.1-416 in future taxable years.
+			</section>
+		</section>
+		<section prefix="C">The General Assembly finds that the presence of the Internet root infrastructure provider industry is essential to the continued fiscal health of the Commonwealth. If any provision of this section is for any reason held to be invalid or unconstitutional by the decision of a court of competent jurisdiction, that provision shall not be deemed severable.
+		</section>
+	</text>
+	<history>2023, cc. 405, 406.</history>
+</law>

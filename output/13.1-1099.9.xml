@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.9</section_number>
+	<catch_line>Remedies of judgment creditor of associated member or protected series assignee</catch_line>
+	<text>
+		Any provision of § 13.1-1041.1 that provides or restricts remedies available to a judgment creditor of a member of a limited liability company or owner of a membership interest of the series limited liability company applies to a judgment creditor of:
+		<section prefix="1">An associated member or protected series assignee of a protected series; or
+		</section>
+		<section prefix="2">A series limited liability company, to the extent the series limited liability company owns a protected series membership interest of a protected series.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

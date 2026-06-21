@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3116</section_number>
+	<catch_line>Commission to establish standards for simplified and readable life insurance and annuity policies</catch_line>
+	<text>
+		<section prefix="A">Pursuant to the authority granted under § 38.2-223, the Commission may issue rules and regulations establishing standards for simplified and readable life insurance policies and annuity contracts. The standards shall apply to all policy forms for annuities as defined in §§ 38.2-106 and 38.2-107 and life insurance as defined in §§ 38.2-102 through 38.2-105.
+		</section>
+		<section prefix="B">As used in this section, "policy form" means:
+			<section prefix="1">Any individual life insurance policy, plan or agreement, and any annuity contract delivered or issued for delivery in this Commonwealth;
+			</section>
+			<section prefix="2">Any policy, certificate or contract, including any riders, endorsements or amendments providing death benefits, delivered or issued for delivery in this Commonwealth by a fraternal benefit society;
+			</section>
+			<section prefix="3">Any group life insurance policy, contract, plan or agreement, including any riders, endorsements or amendments, delivered or issued for delivery in this Commonwealth, to a group with ten or fewer members; or
+			</section>
+			<section prefix="4">Any certificate, including any riders, endorsements or amendments, issued under a group life insurance policy delivered or issued for delivery in this Commonwealth.
+			</section>
+		</section>
+		<section prefix="C">No insurer shall issue a life insurance policy that has been filed with the Commission unless the Commission has determined that the policy form satisfies the readability standards established by the rules and regulations and complies with other statutory requirements.
+		</section>
+	</text>
+	<history>1986, c. 562.</history>
+</law>

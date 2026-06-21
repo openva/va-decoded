@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="3" level="2">Collection of Items: Payor Banks</unit>
+	</structure>
+	<section_number>8.4-302</section_number>
+	<catch_line>Payor bank's responsibility for late return of item</catch_line>
+	<text>
+		<section prefix="a">If an item is presented and received by a payor bank, the bank is accountable for the amount to:
+			<section prefix="1">a demand item, other than a documentary draft, whether properly payable or not if the bank, in any case where it is not also the depositary bank, retains the item beyond midnight of the banking day of receipt without settling for it or, regardless of whether it is also the depositary bank, does not pay or return the item or send notice of dishonor until after its midnight deadline; or
+			</section>
+			<section prefix="2">any other properly payable item unless, within the time allowed for acceptance or payment of that item, the bank either accepts or pays the item or returns it and accompanying documents.
+			</section>
+		</section>
+		<section prefix="b">The liability of a payor bank to pay an item pursuant to subsection (a) is subject to defenses based on breach of a presentment warranty (§ 8.4-207.2) or proof that the person seeking enforcement of the liability presented or transferred the item for the purpose of defrauding the payor bank.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-543.1 to 6-543.3, pp. 60, 61; 1964, c. 219; 1992, c. 693.</history>
+</law>

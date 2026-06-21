@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="47" level="2">Insurance Premium Finance Companies</unit>
+	</structure>
+	<section_number>38.2-4706</section_number>
+	<catch_line>Default charge; bad check charge</catch_line>
+	<text>
+		<section prefix="A">If any installment under a premium finance agreement is not paid in full within seven days after it is due, Sundays and holidays included, the insurance premium finance company may charge and collect a default charge not to exceed five percent of the installment. The default charge shall be collected only once on any installment.
+		</section>
+		<section prefix="B">An insurance premium finance company may charge and collect a fee, not in excess of twenty dollars, for each check returned to the insurance premium finance company because the drawer had no account or insufficient funds in the payor bank.
+		</section>
+	</text>
+	<history>1981, c. 107, § 38.1-740.2; 1986, c. 562; 1994, c. 123.</history>
+</law>

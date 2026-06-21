@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="11" level="3">Interstate Rendition</unit>
+	</structure>
+	<section_number>20-88.79</section_number>
+	<catch_line>Grounds for rendition</catch_line>
+	<text>
+		<section prefix="A">For purposes of this article, "governor" includes an individual performing the functions of governor or the executive authority of a state covered by this chapter.
+		</section>
+		<section prefix="B">The Governor of this Commonwealth may:
+			<section prefix="1">Demand that the governor of another state surrender an individual found in the other state who is charged criminally in this Commonwealth with having failed to provide for the support of an obligee; or
+			</section>
+			<section prefix="2">On the demand by the governor of another state, surrender an individual found in this Commonwealth who is charged criminally in another state with having failed to provide for the support of an obligee.
+			</section>
+		</section>
+		<section prefix="C">A provision for extradition of individuals not inconsistent with this chapter applies to the demand even if the individual whose surrender is demanded was not in the demanding state when the crime was allegedly committed and had not fled therefrom.
+		</section>
+	</text>
+	<history>1994, c. 673.</history>
+</law>

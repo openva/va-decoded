@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-400.1</section_number>
+	<catch_line>Minimum tax on telecommunications companies</catch_line>
+	<text>
+		<section prefix="A">A telecommunications company that is incorporated shall be subject to a minimum tax, instead of the corporate income tax imposed by § 58.1-400, at the applicable rate on its gross receipts for the calendar year which ends during the taxable year if the tax imposed by § 58.1-400 is less than the minimum tax imposed by this section. A telecommunications company that is organized as a limited liability company, partnership, corporation that has made an election under subchapter S of the Internal Revenue Code, or other entity treated as a pass-through entity shall be subject to the minimum tax in the manner prescribed by regulation.
+			The minimum tax shall be imposed at the rate of 0.5 percent of gross receipts.
+		</section>
+		<section prefix="B">In the case of an income tax return for a period of less than twelve months, the minimum tax shall be based on the gross receipts for the calendar year which ends during the taxable period or, if none, the most recent calendar year which ended before the taxable period. The minimum tax shall be prorated by the number of months in the taxable period.
+		</section>
+		<section prefix="C">The State Corporation Commission shall certify to the Department for each tax year as defined in § 58.1-2600 the name, address, and gross receipts for each telecommunications company. The Commission shall mail or otherwise deliver a copy of the certification to each affected telecommunications company.
+		</section>
+		<section prefix="D">The following words and terms, when used in this section, shall have the following meanings:
+			"Gross receipts" means all revenue from business done within the Commonwealth, including the proportionate part of interstate revenue attributable to the Commonwealth if such inclusion will result in annual gross receipts exceeding $5 million, with the following deductions:
+			<section prefix="1">Revenue billed on behalf of another such telephone company or person to the extent such revenues are later paid over to or settled with that company or person; and
+			</section>
+			<section prefix="2">Revenues received from a telecommunications company, or from a telephone utility company providing interstate communications service, for providing to the company any of the following: (i) unbundled network facilities, (ii) completion, origination or interconnection of telephone calls with the taxpayer's network, (iii) transport of telephone calls over taxpayer's network, or (iv) taxpayer's telephone services for resale.
+				"Telecommunications company" means a telephone company or other person holding a certificate of convenience and necessity granted by the State Corporation Commission authorizing telephone service; or a person authorized by the Federal Communications Commission to provide commercial mobile service as defined in § 332(d)(1) of the Communications Act of 1934, as amended, where such service includes cellular mobile radio communications services or broadband personal communications services; or a person holding a certificate issued pursuant to § 214 of the Communications Act of 1934, as amended, authorizing domestic telephone service and belonging to an affiliated group including a person holding a certificate of convenience and necessity granted by the State Corporation Commission authorizing telephone service; or a telegraph company or other person operating the apparatus necessary to communicate by telegraph. The term "affiliated group" shall have the meaning given in § 58.1-3700.1.
+			</section>
+		</section>
+	</text>
+	<history>1988, c. 899; 1995, c. 507; 1998, c. 897; 2000, c. 368; 2009, cc. 37, 152.</history>
+</law>

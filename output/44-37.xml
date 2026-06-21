@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="3" level="3">National Guard in General</unit>
+	</structure>
+	<section_number>44-37</section_number>
+	<catch_line>Discharge of enlisted persons</catch_line>
+	<text>
+		An enlisted person discharged from service in the Virginia National Guard shall receive a discharge in writing. The form and classification of such discharge shall be as prescribed by existing or subsequently amended National Guard regulations.
+	</text>
+	<history>1930, p. 955; Michie Code 1942, § 2673(27); 1958, c. 393.</history>
+</law>

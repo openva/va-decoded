@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="14" level="3">Industrial Loan Associations</unit>
+	</structure>
+	<section_number>6.2-1409</section_number>
+	<catch_line>Prepayment by borrower from association; rebates for unearned interest; prepayment penalty</catch_line>
+	<text>
+		<section prefix="A">Any individual borrowing from an association shall have the right to anticipate payment of his debt at any time.
+		</section>
+		<section prefix="B">If interest has been added to the face amount of the note, the borrower shall have the right, upon prepayment of the debt, to receive a rebate by way of credit for any unearned interest. The rebate shall be computed:
+			<section prefix="1">On loans (i) with an initial maturity and corresponding amortization period of 61 months or less and (ii) payable in equal periodic installments, in accordance with the Rule of 78 as illustrated in § 6.2-403 or by using any other method that is at least as favorable to such borrower; and
+			</section>
+			<section prefix="2">On other loans, under a method at least as favorable to the borrower as the actuarial method.
+			</section>
+		</section>
+		<section prefix="C">An association may charge a prepayment penalty not to exceed two percent of the amount of the prepayment, provided such prepayment penalty, including the percent thereof, is set forth in the contract of indebtedness and is disclosed to the borrower pursuant to applicable federal interest disclosure laws.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.84; 1990, c. 338; 1991, c. 171; 2010, c. 794.</history>
+</law>

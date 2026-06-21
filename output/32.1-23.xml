@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="1" level="2">Administration Generally</unit>
+		<unit label="article" identifier="3" level="3">Department of Health and State Health Commissioner</unit>
+	</structure>
+	<section_number>32.1-23</section_number>
+	<catch_line>Publication of information</catch_line>
+	<text>
+		<section prefix="A">The Commissioner may provide for the publication and distribution of such information as may contribute to the preservation of the public health and the prevention of disease.
+		</section>
+		<section prefix="B">The Commissioner shall establish, maintain and publicize a toll-free number to provide resource and referral information on pharmaceutical companies' free and discount drug programs for persons who demonstrate financial hardship or otherwise meet program eligibility criteria. Such information shall include, but not be limited to, available drugs, participating pharmaceutical companies, and application procedures for each of the pharmaceutical companies and dispensing methods. Such information shall also include the locations of various Pharmacy Connect programs accessible by that person. The Commissioner may contract with one or more public or private organizations to administer this resource and referral program.
+		</section>
+	</text>
+	<history>Code 1950, § 32-11; 1979, c. 711; 2001, c. 823; 2002, c. 896.</history>
+</law>

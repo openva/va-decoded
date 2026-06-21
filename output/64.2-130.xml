@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+		<unit label="article" identifier="3.1" level="4">Uniform Fiduciary Access to Digital Assets Act</unit>
+	</structure>
+	<section_number>64.2-130</section_number>
+	<catch_line>Custodian compliance and immunity</catch_line>
+	<text>
+		<section prefix="A">Not later than 60 days after receipt of the information required under §§ 64.2-121 through 64.2-129, a custodian shall comply with a request under this article from a fiduciary or designated recipient to disclose digital assets or terminate an account. If the custodian fails to comply, the fiduciary or designated recipient may apply to the court for an order directing compliance.
+		</section>
+		<section prefix="B">An order under subsection A directing compliance shall contain a finding that compliance is not in violation of 18 U.S.C. § 2702.
+		</section>
+		<section prefix="C">A custodian may notify the user that a request for disclosure or to terminate an account was made under this article.
+		</section>
+		<section prefix="D">A custodian may deny a request under this article from a fiduciary or designated recipient for disclosure of digital assets or to terminate an account if the custodian is aware of any lawful access to the account following the receipt of the fiduciary's request.
+		</section>
+		<section prefix="E">This article does not limit a custodian's ability to obtain or require a fiduciary or designated recipient requesting disclosure or termination under this article to obtain a court order that:
+			<section prefix="1">Specifies that an account belongs to a protected person or principal;
+			</section>
+			<section prefix="2">Specifies that there is sufficient consent from the protected person or principal to support the requested disclosure; and
+			</section>
+			<section prefix="3">Contains a finding required by law other than this article.
+			</section>
+		</section>
+		<section prefix="F">A custodian and its officer, employees, and agents are immune from liability for an act or omission done in good faith in compliance with this article.
+		</section>
+	</text>
+	<history>2017, cc. 33, 80.</history>
+</law>

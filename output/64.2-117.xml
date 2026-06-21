@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+		<unit label="article" identifier="3.1" level="4">Uniform Fiduciary Access to Digital Assets Act</unit>
+	</structure>
+	<section_number>64.2-117</section_number>
+	<catch_line>Applicability</catch_line>
+	<text>
+		<section prefix="A">This article applies to:
+			<section prefix="1">A fiduciary acting under a will or power of attorney executed before, on, or after July 1, 2017;
+			</section>
+			<section prefix="2">A personal representative acting for a decedent who died before, on, or after July 1, 2017;
+			</section>
+			<section prefix="3">A conservatorship proceeding commenced before, on, or after July 1, 2017;
+			</section>
+			<section prefix="4">A guardianship proceeding commenced before, on, or after July 1, 2017; and
+			</section>
+			<section prefix="5">A trustee acting under a trust created before, on, or after July 1, 2017.
+			</section>
+		</section>
+		<section prefix="B">This article applies to a custodian if the user resides in the Commonwealth or resided in the Commonwealth at the time of the user's death.
+		</section>
+		<section prefix="C">This article does not apply to a digital asset of an employer used by an employee in the ordinary course of the employer's business.
+		</section>
+	</text>
+	<history>2017, cc. 33, 80.</history>
+</law>

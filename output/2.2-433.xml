@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="3" level="5">Registration of Lobbyists</unit>
+	</structure>
+	<section_number>2.2-433</section_number>
+	<catch_line>Prohibited acts; violation a misdemeanor</catch_line>
+	<text>
+		<section prefix="A">No lobbyist shall:
+			<section prefix="1">Lobby in violation of the provisions of this article;
+			</section>
+			<section prefix="2">Make any expenditure, or obligate himself to do so, in connection with lobbying, unless he fully discloses the expenditure as required in this article; or
+			</section>
+			<section prefix="3">Misrepresent in any material respect or omit any information required to be reported pursuant to this article.
+			</section>
+		</section>
+		<section prefix="B">No lobbyist's principal shall:
+			<section prefix="1">Fail to file any statement required to be filed by the provisions of this article;
+			</section>
+			<section prefix="2">Misrepresent in any material respect or omit any information required to be reported pursuant to this article; or
+			</section>
+			<section prefix="3">Violate any of the provisions of this article.
+			</section>
+		</section>
+		<section prefix="C">Except as provided in subsection D of § 2.2-426, any lobbyist or lobbyist's principal violating any provision of this article shall be guilty of a Class 1 misdemeanor. However, a lobbyist who receives no compensation or anything of value for lobbying shall not be subject to the criminal penalties prescribed by this section.
+		</section>
+	</text>
+	<history>1994, cc. 857, 937, § 2.1-792; 2001, c. 844.</history>
+</law>

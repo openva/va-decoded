@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="9" level="3">Licensing of Managing General Agents</unit>
+	</structure>
+	<section_number>38.2-1360</section_number>
+	<catch_line>Required contract provisions</catch_line>
+	<text>
+		No insurer shall retain or act through a managing general agent unless there is in force a written contract between said insurer and its managing general agent that sets forth the responsibilities of each party and where both parties share responsibility for a particular function, specifies the division of such responsibilities, and that contains the following minimum provisions:
+		<section prefix="1">The insurer may terminate the contract for cause upon written notice to the managing general agent. The insurer may suspend the underwriting authority of the managing general agent during the pendency of any dispute regarding the cause for termination.
+		</section>
+		<section prefix="2">The managing general agent will render accounts to the insurer detailing all transactions and remit all funds due under the contract to the insurer on not less than a monthly basis.
+		</section>
+		<section prefix="3">All funds collected for the account of an insurer will be held by the managing general agent in a fiduciary capacity in a bank that is a qualified United States financial institution. This account shall be used for all payments on behalf of the insurer. The managing general agent may retain no more than three months' estimated claims payments and allocated loss adjustment expenses. The managing general agent shall maintain a separate bank account for each insurer it represents.
+		</section>
+		<section prefix="4">Separate records of business written by the managing general agent will be maintained. The insurer shall have reasonable access to and the right to copy all accounts and records related to its business in a form usable by the insurer, and the Commission shall have access to all books, bank accounts and records of the managing general agent in a form usable by the Commission. Such records shall be retained in order to accomplish the purpose of subdivision 9 of this section but in no case for a period of less than five years.
+		</section>
+		<section prefix="5">The contract may not be assigned in whole or part by the managing general agent.
+		</section>
+		<section prefix="6">Appropriate underwriting guidelines including:
+			a. The maximum annual premium volume;
+			b. The basis of the rates to be charged;
+			c. The types of risks that may be written;
+			d. Maximum limits of liability;
+			e. Applicable exclusions;
+			f. Territorial limitations;
+			g. Policy cancellation provisions; and
+			h. The maximum policy period.
+			The insurer shall have the right to cancel or nonrenew any policy of insurance subject to the applicable laws and regulations.
+		</section>
+		<section prefix="7">If the contract permits the managing general agent to settle claims on behalf of the insurer:
+			a. All claims must be reported to the insurer in a timely manner.
+			b. A copy of the claim file will be sent to the insurer at its request or as soon as it becomes known that the claim:
+			<section prefix="1">Has the potential to exceed one percent of the insurer's surplus to policyholders as of December 31 of the last completed calendar year, an amount set by the company, or any other amount deemed appropriate by the Commission, whichever is less;
+			</section>
+			<section prefix="2">Involves a coverage dispute;
+			</section>
+			<section prefix="3">May exceed the managing general agent's claims settlement authority;
+			</section>
+			<section prefix="4">Is open for more than six months; or
+			</section>
+			<section prefix="5">Is closed by payment of an amount exceeding one percent of the insurer's surplus to policyholders as of December 31 of the last completed calendar year, an amount set by the company, or any other amount deemed appropriate by the Commission, whichever is less.
+				c. All claim files will be the joint property of the insurer and the managing general agent. However, upon entry of an order of liquidation or the appointment of a receiver for the liquidation of an insurer, such files shall become the sole property of the insurer or its estate; the managing general agent shall have reasonable access to and the right to copy the files on a timely basis.
+				d. Any settlement authority granted to the managing general agent may be terminated for cause upon the insurer's written notice to the managing general agent or upon the termination of the contract. The insurer may suspend the settlement authority during the pendency of any dispute regarding the cause for termination.
+			</section>
+		</section>
+		<section prefix="8">Where electronic claims files are in existence, the contract must address the timely transmission of the data.
+		</section>
+		<section prefix="9">If the contract provides for a sharing of interim profits by the managing general agent, and the managing general agent has the authority to determine the amount of the interim profits by establishing loss reserves or controlling claim payments, or in any other manner, interim profits will not be paid to the managing general agent until the profits have been verified pursuant to subsection B of § 38.2-1361 (i) one year after they are earned for property insurance business and health insurance business and (ii) five years after they are earned on casualty insurance business.
+		</section>
+		<section prefix="10">The managing general agent shall not:
+			a. Bind reinsurance contracts or similar risk sharing arrangements, except that a managing general agent who acts on behalf of a ceding insurer may bind facultative reinsurance contracts by placing individual risks pursuant to obligatory facultative agreements provided that the contract between the insurer and the managing general agent contains reinsurance underwriting guidelines including, for both reinsurance assumed and ceded, a list of reinsurers with which such automatic agreements are in effect, the coverages and amounts or percentages that may be reinsured and commission schedules;
+			b. Commit the insurer to participate in insurance or reinsurance syndicates;
+			c. Appoint any agent unless (i) the agent is lawfully licensed to transact the type of insurance for which he is appointed and (ii) the insurer has notified the Commission of the managing general agent's authorization to appoint agents on its behalf;
+			d. Without prior approval of the insurer, pay or commit the insurer to pay a claim over a specified amount, net of reinsurance, which amount shall not exceed one percent of the insurer's surplus to policyholders as of December 31 of the last completed calendar year;
+			e. Collect any payment from a reinsurer or commit the insurer to any claim settlement with a reinsurer, without prior approval of the insurer. If prior approval is given, a report must be promptly forwarded to the insurer;
+			f. Permit any agent appointed by the managing general agent to serve on the insurer's board of directors;
+			g. Jointly employ an individual who is employed with the insurer; or
+			h. Utilize or engage a submanaging general agent.
+		</section>
+	</text>
+	<history>2001, c. 706.</history>
+</law>

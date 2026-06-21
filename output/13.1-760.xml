@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="17" level="3">Foreign Corporations</unit>
+	</structure>
+	<section_number>13.1-760</section_number>
+	<catch_line>Amended certificate of authority</catch_line>
+	<text>
+		<section prefix="A">A foreign corporation authorized to transact business in the Commonwealth shall obtain an amended certificate of authority from the Commission if it:
+			<section prefix="1">Changes its corporate name in the jurisdiction of its formation;
+			</section>
+			<section prefix="2">Changes its jurisdiction of formation; or
+			</section>
+			<section prefix="3">Abandons or changes the designated name adopted by the foreign corporation for use in the Commonwealth pursuant to subsection B of § 13.1-762.
+			</section>
+		</section>
+		<section prefix="B">The requirements of § 13.1-759 for obtaining an original certificate of authority apply to obtaining an amended certificate under this section.
+		</section>
+		<section prefix="C">Whenever the articles of incorporation of a foreign corporation that is authorized to transact business in the Commonwealth are amended, within 30 days after the amendment becomes effective, the foreign corporation shall file with the Commission a copy of such amendment duly authenticated by the Secretary of State or other official having custody of corporate records in its jurisdiction of formation.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13.1-112, 13.1-113; 1956, c. 428; 1976, c. 159; 1985, c. 522; 1986, c. 571; 1987, c. 431; 2015, c. 623; 2019, c. 734.</history>
+</law>

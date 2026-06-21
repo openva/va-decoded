@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="10.2" level="3">Virginia Land Conservation Foundation</unit>
+	</structure>
+	<section_number>10.1-1022.1</section_number>
+	<catch_line>Expenditure of funds for natural area protection</catch_line>
+	<text>
+		<section prefix="A">No matching grant shall be made from the Fund to any holder or public body for purchasing an interest in land for the protection of a natural area unless:
+			<section prefix="1">The holder or public body has demonstrated the necessary commitment and financial capability to manage the property; and
+			</section>
+			<section prefix="2">The Department has, after reviewing the grant application as provided in subsection B, recommended that the grant be made.
+			</section>
+		</section>
+		<section prefix="B">Natural area grant applications shall be submitted to the Foundation, which shall forward the application to the Department. The application shall include a budget for the proposed purchase and for the management of the property. The Department shall consider the following in making its recommendation on whether the grant should be made:
+			<section prefix="1">Whether the project will make a significant contribution to the protection of habitats for rare, threatened, or endangered plant or animal species, rare or state-significant natural communities, other ecological resources, or natural areas of Virginia;
+			</section>
+			<section prefix="2">Whether the area addresses a protection need identified in the Virginia Natural Heritage Plan;
+			</section>
+			<section prefix="3">The rarity of the elements targeted for conservation;
+			</section>
+			<section prefix="4">The size and viability of the site; and
+			</section>
+			<section prefix="5">Whether the holder or public body has the capability to protect the site from short-term and long-term stresses to the area.
+			</section>
+		</section>
+		<section prefix="C">Matching grant funds provided pursuant to this section shall be expended by the holder or public body within two years of receiving the funds, except that the Department may grant an extension of up to one year.
+		</section>
+		<section prefix="D">All property for which a matching grant is made pursuant to this section shall be dedicated as a natural area preserve as provided in § 10.1-213. Any such preserve that was purchased in fee simple by the holder or public body shall be open for public access for a reasonable amount of time each year, except as is necessary to protect sensitive resources or for management purposes, as determined by the holder or public body pursuant to an agreement with the Department.
+		</section>
+	</text>
+	<history>1999, cc. 900, 906; 2001, cc. 164, 168.</history>
+</law>

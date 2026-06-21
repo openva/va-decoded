@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="A" level="3">Coal Mines Generally</unit>
+		<unit label="chapter" identifier="5" level="4">Coal Mine Safety Act</unit>
+		<unit label="article" identifier="7" level="5">Mine Inspections</unit>
+	</structure>
+	<section_number>45.2-563</section_number>
+	<catch_line> Scheduling of mine inspections</catch_line>
+	<text>
+		<section prefix="A">The Chief and the Director shall schedule the inspections of mines under this article, to the extent deemed reasonable and prudent, in order to reduce their chronological proximity to inspections conducted by MSHA.
+		</section>
+		<section prefix="B">The Chief, the Director, and each mine inspector, to the extent deemed reasonable and prudent, shall schedule mine inspections to commence at a variety of hours of the day and days of the week, including evening and night shifts, weekends, and holidays.
+		</section>
+	</text>
+	<history>1994, c. 28, § 45.1-161.85; 2011, cc. 826, 862; 2021, Sp. Sess. I, c. 387.</history>
+</law>

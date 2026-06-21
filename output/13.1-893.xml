@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="10" level="3">Amendment of Articles of Incorporation and Bylaws</unit>
+	</structure>
+	<section_number>13.1-893</section_number>
+	<catch_line>Bylaw provisions increasing quorum or voting requirements for directors</catch_line>
+	<text>
+		<section prefix="A">A bylaw that increases a quorum or voting requirement for the board of directors may be amended or repealed:
+			<section prefix="1">If originally adopted by the members, only by the members, unless the bylaws otherwise provide; or
+			</section>
+			<section prefix="2">If adopted by the board of directors, either by the members or by the board of directors.
+			</section>
+		</section>
+		<section prefix="B">A bylaw adopted or amended by the members that increases a quorum or voting requirement for the board of directors may provide that it shall be amended or repealed only by a specified vote of either the members or the board of directors.
+		</section>
+		<section prefix="C">Action by the board of directors under subsection A to amend or repeal a bylaw that changes the quorum or voting requirement applicable to meetings of the board of directors shall be effective only if it meets the quorum requirement and is adopted by the vote required to take action under the quorum and voting requirement then in effect.
+		</section>
+	</text>
+	<history>1985, c. 522; 2007, c. 925.</history>
+</law>

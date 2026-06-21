@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="2" level="2">Clerks, Clerks' Offices and Records</unit>
+		<unit label="article" identifier="8" level="3">Secure Remote Access</unit>
+	</structure>
+	<section_number>17.1-293.1</section_number>
+	<catch_line>(Effective July 1, 2026) Online case information system; exceptions</catch_line>
+	<text>
+		<section prefix="A">The Executive Secretary shall make available a publicly viewable online case information system of certain nonconfidential information entered into the case management system for criminal cases in the circuit courts participating in the Executive Secretary's case management system and in the general district courts. Such system shall be searchable by defendant name across all participating courts, and search results shall be viewable free of charge.
+		</section>
+		<section prefix="B">Upon entry of a sealing order pursuant to § 19.2-392.7, 19.2-392.8, 19.2-392.11, 19.2-392.12, or 19.2-392.12:1, the Executive Secretary shall not make any offense that was ordered to be sealed available for online public viewing in an appellate court, circuit court, or district court case management system maintained by the Executive Secretary. Any offense that was sealed without a court order pursuant to § 19.2-392.6:1 or 19.2-392.17 shall not be available for online public viewing in any such system.
+		</section>
+		<section prefix="C">Upon entry of a sealing order pursuant to § 19.2-392.7, 19.2-392.8, 19.2-392.11, 19.2-392.12, or 19.2-392.12:1, any circuit court clerk who maintains a viewable online case management or case information system shall not make any offense that was ordered to be sealed available for online public viewing. Any offense that was sealed without a court order pursuant to § 19.2-392.6:1 or 19.2-392.17 shall not be available for online public viewing in any such system.
+		</section>
+	</text>
+	<history>2018, cc. 127, 584; 2021, Sp. Sess. I, c. 524, 542; 2023, cc. 554, 555; 2025, cc. 634, 671.</history>
+</law>

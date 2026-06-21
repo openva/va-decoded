@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="8" level="3">Remedies</unit>
+	</structure>
+	<section_number>59.1-508.16</section_number>
+	<catch_line>Limitations on electronic self-help</catch_line>
+	<text>
+		<section prefix="a">In this section,
+			<section prefix="1">"electronic self-help" means the use of electronic means to exercise a licensor's rights under § 59.1-508.15 (b); and
+			</section>
+			<section prefix="2">"wrongful use of electronic self-help" means use of electronic self-help other than in compliance with this section.
+			</section>
+		</section>
+		<section prefix="b">On cancellation of a license, electronic self-help is not permitted, except as provided in this section. Notwithstanding any provision to the contrary, electronic self-help is prohibited in mass-market transactions.
+		</section>
+		<section prefix="c">If the parties agree to permit electronic self-help, a licensee shall separately manifest assent to a term authorizing use of electronic self-help. In accordance with subsection (c) of § 59.1-501.12, a general assent to a license containing a term authorizing use of electronic self-help is not sufficient to manifest assent to the use of electronic self-help. The term must:
+			<section prefix="1">provide for notice of exercise as provided in subsection (d);
+			</section>
+			<section prefix="2">state the name of the person designated by the licensee to which notice of exercise must be given and the manner in which notice must be given and place to which notice must be sent to that person; and
+			</section>
+			<section prefix="3">provide a simple procedure for the licensee to change the designated person or place.
+			</section>
+		</section>
+		<section prefix="d">Before resorting to electronic self-help authorized by a term of the license, the licensor shall give notice in a record to the person designated by the licensee stating:
+			<section prefix="1">that the licensor intends to resort to electronic self-help as a remedy on or after forty-five days following receipt by the licensee of the notice;
+			</section>
+			<section prefix="2">the nature of the claimed breach that entitles the licensor to resort to self-help; and
+			</section>
+			<section prefix="3">the name, title, and address, including direct telephone number, facsimile number, or e-mail address, to which the licensee may communicate concerning the claimed breach.
+			</section>
+		</section>
+		<section prefix="e">A licensee may recover direct and incidental damages caused by wrongful use of electronic self-help. The licensee may also recover consequential damages for wrongful use of electronic self-help, whether or not those damages are excluded by the terms of the license, if:
+			<section prefix="1">within the period specified in subsection (d) (1), the licensee gives notice to the licensor's designated person describing in good faith the general nature and magnitude of damages;
+			</section>
+			<section prefix="2">the licensor has reason to know the damages of the type described in subsection (f) may result from the wrongful use of electronic self-help; or
+			</section>
+			<section prefix="3">the licensor does not provide the notice required in subsection (d).
+			</section>
+		</section>
+		<section prefix="f">Even if the licensor complies with subsections (c) and (d), electronic self-help may not be used if the licensor has reason to know that its use will result in substantial injury or harm to the public health or safety or grave harm to the public interest substantially affecting third persons not involved in the dispute.
+		</section>
+		<section prefix="g">A court of competent jurisdiction of the Commonwealth shall give prompt consideration to a petition for injunctive relief and may enjoin, temporarily or permanently, the licensor from exercising electronic self-help even if authorized by a license term or enjoin the licensee from misappropriation or misuse of computer information, as may be appropriate, upon consideration of the following:
+			<section prefix="1">harm of the kinds stated in subsection (f), or the threat thereof, whether or not the licensor has reason to know of those circumstances;
+			</section>
+			<section prefix="2">irreparable harm or threat of irreparable harm to the licensee or licensor;
+			</section>
+			<section prefix="3">that the party seeking the relief is more likely than not to succeed under his claim when it is finally adjudicated;
+			</section>
+			<section prefix="4">that all of the conditions to entitle a person to the relief under the laws of the Commonwealth have been fulfilled; and
+			</section>
+			<section prefix="5">that the party that may be adversely affected is adequately protected against loss, including a loss because of misappropriation or misuse of computer information, that he may suffer because the relief is granted under this chapter.
+			</section>
+		</section>
+		<section prefix="h">Before breach of contract, rights or obligations under this section may not be waived or varied by an agreement, but the parties may prohibit use of electronic self-help, and the parties, in the term referred to in subsection (c), may specify additional provisions more favorable to the licensee.
+		</section>
+		<section prefix="i">This section does not apply if the licensor obtains physical possession of a copy without a breach of the peace and without the use of electronic self-help; in which case, a lawfully obtained copy may be erased or disabled by electronic means.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2001, c. 763.</history>
+</law>

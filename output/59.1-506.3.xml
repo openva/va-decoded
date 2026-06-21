@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.3</section_number>
+	<catch_line>Submissions of information to satisfaction of party</catch_line>
+	<text>
+		If an agreement requires that submitted information be to the satisfaction of the recipient, the following rules apply:
+		<section prefix="1">Sections 59.1-506.6 through 59.1-506.10 and 59.1-507.4 through 59.1-507.7 do not apply to the submission.
+		</section>
+		<section prefix="2">If the information is not satisfactory to the recipient and the parties engage in efforts to correct the deficiencies in a manner and over a time consistent with the ordinary standards of the business, trade, or industry, neither the efforts nor the passage of time required for the efforts is an acceptance or a refusal of the submission.
+		</section>
+		<section prefix="3">Except as otherwise provided in paragraph (4), neither refusal nor acceptance occurs unless the recipient expressly refuses or accepts the submitted information, but the recipient may not use the submitted information before acceptance.
+		</section>
+		<section prefix="4">Silence and a failure to act in reference to a submission beyond a commercially reasonable time to respond entitle the submitting party to demand, in a record delivered to the recipient, a decision on the submission. If the recipient fails to respond within a reasonable time after receipt of the demand, the submission is deemed to have been refused.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

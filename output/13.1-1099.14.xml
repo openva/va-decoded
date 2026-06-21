@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.14</section_number>
+	<catch_line>Protected series may not be party to entity transaction</catch_line>
+	<text>
+		A protected series may not:
+		<section prefix="1">Be a party to a merger;
+		</section>
+		<section prefix="2">Convert to a different type of entity;
+		</section>
+		<section prefix="3">Domesticate as a protected series under the laws of a foreign jurisdiction; or
+		</section>
+		<section prefix="4">Be a party to or be formed, organized, established, or created in a transaction substantially like an interest exchange, a conversion, or a domestication.
+		</section>
+	</text>
+	<history>2019, c. 636; 2021, Sp. Sess. I, c. 487.</history>
+</law>

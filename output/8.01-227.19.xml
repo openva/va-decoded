@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="25" level="3">Winter Sports Safety Act</unit>
+	</structure>
+	<section_number>8.01-227.19</section_number>
+	<catch_line>Assumption of risks</catch_line>
+	<text>
+		<section prefix="A">A winter sports participant shall be presumed to have known the inherent risks of the winter sport in which he participates, to have fully appreciated the nature and extent of such risks, and to have voluntarily exposed himself to such risks, even if a particular risk was not specifically presented or stated to the participant by the operator. A passenger who uses a passenger tramway with the permission of an operator shall be presumed to have known the risks of winter sports that are applicable to the use of passenger tramways, to have fully appreciated the nature and extent of such risks, and to have voluntarily exposed himself to such risks, even if a particular risk was not specifically presented or stated to the individual by the operator. Such presumption may be rebutted by the participant or passenger by proving that the participant or passenger did not know the particular inherent risk of winter sports that proximately caused the injury or death or damage to property at issue, did not fully appreciate the nature and extent of such risk, or did not voluntarily expose himself to such risk.
+		</section>
+		<section prefix="B">An operator's negligence is not an inherent risk of winter sports, and a participant or passenger is not presumed to have accepted the risk of such negligence and the injuries proximately caused therefrom.
+		</section>
+		<section prefix="C">In determining if the presumption set forth in subsection A applies in a particular case, whether a particular circumstance or set of circumstances constitutes an inherent risk of winter sports shall be a question of law, and whether the participant or passenger assumed the particular inherent risk of winter sports shall be a question of fact.
+		</section>
+		<section prefix="D">Nothing herein shall prevent a participant or passenger from offering evidence that he did not know the particular inherent risk of winter sports that proximately caused the injury or death or damage to property at issue, did not fully appreciate the nature and extent of such risk, or did not voluntarily expose himself to such risk.
+		</section>
+	</text>
+	<history>2012, c. 713.</history>
+</law>

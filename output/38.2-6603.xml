@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="66" level="2">Commonwealth Health Reinsurance Program</unit>
+	</structure>
+	<section_number>38.2-6603</section_number>
+	<catch_line>Accounting; reports</catch_line>
+	<text>
+		<section prefix="A">The Commission shall keep an accounting for each benefit year of all:
+			<section prefix="1">Funds appropriated for reinsurance payments and administrative and operational expenses;
+			</section>
+			<section prefix="2">Requests for reinsurance payments received from eligible carriers;
+			</section>
+			<section prefix="3">Reinsurance payments made to eligible carriers; and
+			</section>
+			<section prefix="4">Administrative and operational expenses incurred for the Program.
+			</section>
+		</section>
+		<section prefix="B">By November 1 of each year, the Commission shall report to the House Committees on Labor and Commerce and Appropriations, the Senate Committees on Commerce and Labor and Finance and Appropriations, and the Governor on the operation of the Program. Such report shall be posted on the Commission's website and shall include, at a minimum, the following information for the relevant benefit year:
+			<section prefix="1">Amounts deposited into the Fund;
+			</section>
+			<section prefix="2">Requests for reinsurance payments received by eligible carriers;
+			</section>
+			<section prefix="3">Reinsurance payments made to eligible carriers;
+			</section>
+			<section prefix="4">Administrative and operational expenses incurred for the Program; and
+			</section>
+			<section prefix="5">Quantifiable impact of the Program on individual health insurance coverage rates.
+			</section>
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 480.</history>
+</law>

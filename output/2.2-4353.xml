@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="4" level="5">Prompt Payment</unit>
+	</structure>
+	<section_number>2.2-4353</section_number>
+	<catch_line>Date of postmark deemed to be date payment is made</catch_line>
+	<text>
+		In those cases where payment is made by mail, the date of postmark shall be deemed to be the date payment is made for purposes of this chapter.
+	</text>
+	<history>1984, c. 736, § 11-62.6; 2001, c. 844.</history>
+</law>

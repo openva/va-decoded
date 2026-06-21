@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="40" level="2">Virginia Assistive Technology Device Warranties Act</unit>
+	</structure>
+	<section_number>59.1-474</section_number>
+	<catch_line>Certain actions deemed void</catch_line>
+	<text>
+		<section prefix="A">Any manufacturer's exclusion or limitation of the implied warranties or consumer remedies prescribed by this chapter shall be deemed void.
+		</section>
+		<section prefix="B">Any purported waiver of rights to legal action or arbitration by a consumer within an assistive device purchase agreement shall be deemed void.
+		</section>
+	</text>
+	<history>1998, cc. 67, 242.</history>
+</law>

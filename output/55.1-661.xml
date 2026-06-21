@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="II" level="2">Real Estate Settlements and Recordation</unit>
+		<unit label="chapter" identifier="6" level="3">Recordation of Documents</unit>
+		<unit label="article" identifier="8" level="4">Uniform Real Property Electronic Recording Act</unit>
+	</structure>
+	<section_number>55.1-661</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article, unless the context requires a different meaning:
+		"Clerk"  means a clerk of the circuit court.
+		"Document"  means information that is:
+		<section prefix="1">Inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form; and
+		</section>
+		<section prefix="2">Eligible to be recorded in the land records maintained by the clerk.
+			"Electronic,"  as defined in Uniform Electronic Transactions Act (§ 59.1-479 et seq.), means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities.
+			"Electronic document"  means a document received by the clerk in electronic form.
+			"Electronic notarization"  means an official act by a notary public in accordance with the Virginia Notary Act (§ 47.1-1 et seq.) and § 55.1-618 with respect to an electronic document.
+			"Electronic signature,"  as defined in the Uniform Electronic Transactions Act (§ 59.1-479 et seq.), means an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.
+			"eRecording System"  is the automated electronic recording system implemented by the clerk for the recordation of electronic documents among the land records maintained by the clerk.
+			"Filer"  means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public body, public corporation, government, or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity that files an electronic document among the land records maintained by the clerk.
+			"Land records document"  means any writing authorized by law to be recorded, whether made on paper or in electronic format, that the clerk records affecting title to real property.
+		</section>
+	</text>
+	<history>2006, c. 745, § 55-142.10; 2019, c. 712.</history>
+</law>

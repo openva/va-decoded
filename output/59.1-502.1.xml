@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="2" level="3">Formation and Terms</unit>
+	</structure>
+	<section_number>59.1-502.1</section_number>
+	<catch_line>Formal requirements</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in this section, a contract requiring payment of a contract fee of $5,000 or more is not enforceable by way of action or defense unless:
+			<section prefix="1">the party against which enforcement is sought authenticated a record sufficient to indicate that a contract has been formed and which reasonably identifies the copy or subject matter to which the contract refers; or
+			</section>
+			<section prefix="2">the agreement is a license for an agreed duration of one year or less or which may be terminated at will by the party against which the contract is asserted.
+			</section>
+		</section>
+		<section prefix="b">A record is sufficient under subsection (a) even if it omits or incorrectly states a term, but the contract is not enforceable under that subsection beyond the number of copies or subject matter shown in the record.
+		</section>
+		<section prefix="c">A contract that does not satisfy the requirements of subsection (a) is nevertheless enforceable under that subsection if:
+			<section prefix="1">a performance was tendered or the information was made available by one party and the tender was accepted or the information accessed by the other; or
+			</section>
+			<section prefix="2">the party against which enforcement is sought admits in court, by pleading or by testimony or otherwise under oath, facts sufficient to indicate a contract has been made, but the agreement is not enforceable under this paragraph beyond the number of copies or the subject matter admitted.
+			</section>
+		</section>
+		<section prefix="d">Between merchants, if, within a reasonable time, a record in confirmation of the contract and sufficient against the sender is received and the party receiving it has reason to know its contents, the record satisfies subsection (a) against the party receiving it unless notice of objection to its contents is given in a record within a reasonable time after the confirming record is received.
+		</section>
+		<section prefix="e">An agreement that the requirements of this section need not be satisfied as to future transactions is effective if evidenced in a record authenticated by the person against which enforcement is sought.
+		</section>
+		<section prefix="f">A transaction within the scope of this chapter is not subject to a statute of frauds contained in another law of this Commonwealth.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

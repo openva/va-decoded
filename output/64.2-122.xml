@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+		<unit label="article" identifier="3.1" level="4">Uniform Fiduciary Access to Digital Assets Act</unit>
+	</structure>
+	<section_number>64.2-122</section_number>
+	<catch_line>Disclosure of other digital assets of deceased user</catch_line>
+	<text>
+		Unless the user prohibited disclosure of digital assets or the court directs otherwise, a custodian shall disclose to the personal representative of the estate of a deceased user a catalog of electronic communications sent or received by the user and digital assets, other than the content of electronic communications, of the user, if the representative gives the custodian:
+		<section prefix="1">A written request for disclosure in physical or electronic form;
+		</section>
+		<section prefix="2">A certified copy of the death certificate of the user;
+		</section>
+		<section prefix="3">A certified copy of the letter of appointment of the representative or a small-estate affidavit or court order; and
+		</section>
+		<section prefix="4">If requested by the custodian:
+			a. A number, username, address, or other unique subscriber or account identifier assigned by the custodian to identify the user's account;
+			b. Evidence linking the account to the user;
+			c. An affidavit stating that disclosure of the user's digital assets is reasonably necessary for administration of the estate; or
+			d. A finding by the court that (i) the user had a specific account with the custodian, identifiable by the information specified in subdivision a or (ii) disclosure of the user's digital assets is reasonably necessary for administration of the estate.
+		</section>
+	</text>
+	<history>2017, cc. 33, 80.</history>
+</law>

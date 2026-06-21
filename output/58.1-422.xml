@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-422</section_number>
+	<catch_line>Manufacturing companies; apportionment</catch_line>
+	<text>
+		<section prefix="A">For taxable years beginning on or after July 1, 2011, the Virginia taxable income of a manufacturing company, excluding income allocable under § 58.1-407, may be apportioned within and without the Commonwealth as provided in § 58.1-408 or as follows:
+			<section prefix="1">From July 1, 2011, until July 1, 2013, by multiplying such income by a fraction, the numerator of which is the property factor plus the payroll factor plus triple the sales factor and the denominator of which is five, except when the sales factor does not exist, the denominator of the fraction shall be the number of existing factors, and when the sales factor exists but the payroll factor or property factor does not exist, the denominator of the fraction shall be the number of existing factors plus two;
+			</section>
+			<section prefix="2">From July 1, 2013, until July 1, 2014, by multiplying such income by a fraction, the numerator of which is the property factor plus the payroll factor plus quadruple the sales factor and the denominator of which is six, except when the sales factor does not exist, the denominator of the fraction shall be the number of existing factors, and when the sales factor exists but the payroll factor or property factor does not exist, the denominator of the fraction shall be the number of existing factors plus three; and
+			</section>
+			<section prefix="3">From July 1, 2014, and thereafter, by multiplying such income by the sales factor.
+			</section>
+		</section>
+		<section prefix="B">If the taxpayer makes one or more of the elections described in subdivision A 1, A 2, or A 3, the taxpayer may not revoke the election for a period of three taxable years.
+			In addition, the taxpayer shall certify to the Department that the average weekly wage of its full-time employees is greater than the lower of the state or local average weekly wages for the taxpayer's industry.
+		</section>
+		<section prefix="C">If the average annual number of full-time employees of a manufacturing company for the first three taxable years (in which the manufacturing company used the alternative apportionment set forth in this section) is less than 90 percent of the base year employment, or the average wage of its full-time employees as certified by the taxpayer is not greater than the lower of the state or local average weekly wage, then the Department of Taxation shall assess the manufacturing company with additional taxes pursuant to this article computed as the difference between (i) the taxes that would have been due under the apportionment formula provided under § 58.1-408 for such three taxable years, minus (ii) the taxes due under the alternative apportionment provided under this section for such three taxable years. Interest shall accrue and shall be assessed on such additional taxes at the rate prescribed under § 58.1-15, with such interest accruing from the original due date for filing of the income tax return to the date of payment of such additional taxes.
+			Such additional taxes and interest are hereby imposed on manufacturing companies using the alternative apportionment set forth in this section.
+		</section>
+		<section prefix="D">As used in this section, unless the context requires another meaning:
+			"Base year employment" means the average number of full-time employees employed by the manufacturing company in the Commonwealth in the taxable year that ended immediately prior to the first taxable year in which the manufacturing company used the alternative apportionment set forth in this section.
+			"Full-time employee" means an employee of a manufacturing company who is employed for an indefinite duration in the Commonwealth for which the standard fringe benefits are paid by the manufacturing company, for which employment requires a minimum of either (i) 35 hours of an employee's time per week for the entire normal year of such manufacturing company's operations, which "normal year" shall consist of at least 48 weeks, or (ii) 1,680 hours per year.
+			"Manufacturing company" means a domestic or foreign corporation primarily engaged in activities that, in accordance with the North American Industrial Classification System (NAICS), United States Manual, United States Office of Management and Budget, 1997 Edition, would be included in Sector 11, 31, 32, or 33.
+		</section>
+		<section prefix="E">The General Assembly of Virginia finds that job creation is essential to the continued fiscal health of the Commonwealth. In this modern economy, states often compete for quality manufacturing jobs. Accordingly, the provisions of this section relating to manufacturing companies that increase their employment in Virginia are integral to the purpose of the election allowed pursuant to this section. If any provision of this section is for any reason held to be invalid or unconstitutional by the decision of a court of competent jurisdiction, that provision shall not be deemed severable.
+		</section>
+		<section prefix="F">Any eligible company, as defined in § 58.1-405.1, that elects to apportion its income pursuant to subsection A may subtract the value of its sales in the Commonwealth during the taxable year from the numerator of the ratio in subdivision A 3. Such eligible company may make such modification for the taxable year in which it first becomes eligible and for the six subsequent, consecutive taxable years, except for any year in which the eligible company's (i) total, cumulative new capital investment falls below the applicable initial threshold or (ii) number of new jobs falls below the applicable initial threshold.
+		</section>
+	</text>
+	<history>2009, c. 821; 2012, c. 427; 2018, cc. 801, 802.</history>
+</law>

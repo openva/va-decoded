@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="6" level="3">Deposits and Accounts</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>6.2-602</section_number>
+	<catch_line>Adverse claims to accounts</catch_line>
+	<text>
+		<section prefix="A">Notice to any financial institution doing business in the Commonwealth of an adverse claim to funds in an account with such institution shall not require the institution to recognize the adverse claim unless the adverse claimant shall either:
+			<section prefix="1">Procure a restraining order, injunction, or other appropriate order against the financial institution from an appropriate court; or
+			</section>
+			<section prefix="2">Execute to such financial institution, in form and with sureties acceptable to it, a bond indemnifying the institution from any and all liability, loss, damage, costs, and expenses, for and on account of the payment or recognition of such adverse claim, or the dishonor of, or failure to pay, any check, or failure to comply with any other order, of the person to whose credit the account is held.
+			</section>
+		</section>
+		<section prefix="B">This section shall not affect the provisions of Article 2 (§ 6.2-604 et seq.) of this chapter governing multiple-party accounts, and any claim by a party to such account shall be determined in accordance with the provisions therein.
+		</section>
+		<section prefix="C">This section shall not affect any notice of lien pursuant to § 8.01-502, any order of an appropriate court, or the issuance of a notice or other action issued by a state or federal governmental agency.
+		</section>
+	</text>
+	<history>1996, c. 963, § 6.1-2.9:7; 2010, c. 794.</history>
+</law>

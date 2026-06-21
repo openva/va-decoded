@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="32" level="2">Standard Nonforfeiture Provisions for Life Insurance</unit>
+	</structure>
+	<section_number>38.2-3224</section_number>
+	<catch_line>Calculation of paid-up annuity benefits</catch_line>
+	<text>
+		For contracts that do not provide cash surrender benefits, the present value of any paid-up annuity benefit available as a nonforfeiture option at any time prior to maturity shall not be less than the present value of that portion of the maturity value of the paid-up annuity benefit provided under the contract arising from considerations paid before the time the contract is surrendered in exchange for, or changed to, a deferred paid-up annuity. The present value shall be calculated for the period before the maturity date on the basis of the interest rate specified in the contract for accumulating the net considerations to determine the maturity value, and increased by any existing additional amounts credited by the insurer to the contract. For contracts that do not provide any death benefits before the beginning of any annuity payments, the present values shall be calculated on the basis of the interest rate and the mortality table specified in the contract for determining the maturity value of the paid-up annuity benefit. In no event shall the present value of a paid-up annuity benefit be less than the minimum nonforfeiture amount at that time.
+	</text>
+	<history>1979, c. 437, § 38.1-470.1; 1986, c. 562.</history>
+</law>

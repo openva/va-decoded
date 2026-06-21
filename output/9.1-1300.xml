@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="13" level="2">Domestic and Sexual Assault Policies</unit>
+	</structure>
+	<section_number>9.1-1300</section_number>
+	<catch_line>Domestic violence policies and procedures for law-enforcement agencies in the Commonwealth</catch_line>
+	<text>
+		The Virginia Department of State Police and the police and sheriff's departments of every political subdivision in the Commonwealth shall establish an arrest policy and procedures for domestic violence and family abuse cases. Any local police or sheriff's department is authorized to adopt an arrest policy that prescribes additional requirements under this section. Any policies and procedures established under this section shall at a minimum provide guidance to law-enforcement officers on the following:
+		<section prefix="1">The department's arrest policy;
+		</section>
+		<section prefix="2">The standards for determining who is the predominant physical aggressor pursuant to § 19.2-81.3;
+		</section>
+		<section prefix="3">The standards for completion of a required incident report to be filed with the department including the existence of any special circumstances which would dictate a course of action other than arrest;
+		</section>
+		<section prefix="4">The department's policy on providing transportation to an allegedly abused person;
+		</section>
+		<section prefix="5">The legal and community resources available to allegedly abused persons in the department's jurisdiction;
+		</section>
+		<section prefix="6">The department's policy on domestic violence incidents involving law-enforcement officers; and
+		</section>
+		<section prefix="7">The department's policy on the handling of cases involving repeat offenders of family abuse or domestic violence.
+		</section>
+	</text>
+	<history>2008, cc. 600, 771.</history>
+</law>

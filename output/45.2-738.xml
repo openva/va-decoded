@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="7" level="4">Requirements Applicable to Underground Coal Mines; Mine Construction</unit>
+		<unit label="article" identifier="7" level="5">Hoisting</unit>
+	</structure>
+	<section_number>45.2-738</section_number>
+	<catch_line> Shaft and slope conditions</catch_line>
+	<text>
+		<section prefix="A">Every shaft shall be equipped with safety gates at the top and at each landing. Safety gates shall be kept closed except when the cage is being loaded or unloaded.
+		</section>
+		<section prefix="B">At the bottom of each hoisting shaft and at each intermediate landing, a runaround shall be provided for safe passage from one side of the shaft to the other. This passageway shall be at least five feet in height and three feet in width.
+		</section>
+		<section prefix="C">Ice shall not be permitted to accumulate excessively in any shaft where miners are hoisted or lowered.
+		</section>
+		<section prefix="D">Positive-acting stopblocks or derails shall be installed near the top and at intermediate landings of slopes and surface inclines and at the approaches to all shaft landings.
+		</section>
+		<section prefix="E">Positive-acting stopblocks or derails shall be installed on the haulage track in the slope near the top of the slope. The stopblocks or derails shall be in a position to hold or stop any load to be lowered into the mine, including heavy mining equipment, until such time as the equipment is to be lowered into the mine by the hoist.
+		</section>
+	</text>
+	<history>Code 1950, § 45-68.4; 1954, c. 191; 1966, c. 594, §§ 45.1-69, 45.1-89.1; 1978, c. 729; 1983, c. 111; 1994, c. 28, § 45.1-161.156; 1996, c. 774; 2005, c. 3; 2021, Sp. Sess. I, c. 387.</history>
+</law>

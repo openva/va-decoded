@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions; Department of Motor Vehicles</unit>
+		<unit label="chapter" identifier="2" level="3">Department of Motor Vehicles</unit>
+		<unit label="article" identifier="3" level="4">Electronic Credentials Act</unit>
+	</structure>
+	<section_number>46.2-230</section_number>
+	<catch_line>Acceptance of electronic credentials</catch_line>
+	<text>
+		<section prefix="A">The possession or display of an electronic credential shall not relieve a person from the requirements of any provision in the Code of Virginia, the Virginia Administrative Code, or a local ordinance or regulation requiring the possession or display of a physical credential.
+		</section>
+		<section prefix="B">Any provision of the Code of Virginia, the Virginia Administrative Code, or a local ordinance or regulation with a display requirement, which may be satisfied by the display or possession of a physical credential for which the Department may issue an electronic credential, may be satisfied by displaying or possessing an electronic credential issued pursuant to this article. Acceptance of an electronic credential shall be at the discretion of the person to whom it is presented and subject to the conditions of this section.
+		</section>
+		<section prefix="C">If a person displays a profile, its display shall satisfy a display requirement if the profile provides sufficient data fields to satisfy the purpose for which it is being displayed.
+		</section>
+		<section prefix="D">If the Department, or another agency responsible for enforcing a display requirement, requires that an electronic credential or profile be verified through the verification system prior to acceptance in certain circumstances, the display requirement shall be deemed satisfied by presentation of an electronic credential or profile in those circumstances only if the electronic credential or profile is verified by the verification system.
+		</section>
+		<section prefix="E">The provisions of this section shall apply to the possession or display of similar electronic credentials or profiles issued by the government of another state of the United States, the District of Columbia, the United States, a foreign country, or a political subdivision of a foreign country to the extent that a physical credential from the same jurisdiction would satisfy the relevant display requirement.
+		</section>
+	</text>
+	<history>2017, c. 697.</history>
+</law>

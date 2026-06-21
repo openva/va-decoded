@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="8" level="2">Process</unit>
+		<unit label="article" identifier="4" level="3">Who to Be Served</unit>
+	</structure>
+	<section_number>8.01-304</section_number>
+	<catch_line>How process served on copartner or partnership, domestic or foreign limited liability partnership, and domestic or foreign limited partnership</catch_line>
+	<text>
+		<section prefix="A">Subject to § 8.01-286.1, process against a copartner or partnership may be served upon a general partner, and it shall be deemed service upon the partnership and upon each partner individually named in the action, provided the person served is not a plaintiff in the suit and provided the matter in suit is a partnership matter.
+			Provided further that process may be served upon a limited partner in any proceeding to enforce a limited partner's liability to the partnership.
+		</section>
+		<section prefix="B">A domestic or foreign limited liability partnership may also be served by personal service on its registered agent as provided in § 50-73.135 and by substituted service in accordance with subsection B of § 50-73.129, subsection F of § 50-73.134, subsection G of § 50-73.135, or § 50-73.140, as applicable.
+		</section>
+		<section prefix="C">A domestic or foreign limited partnership may also be served by personal service on its registered agent as provided in subsection A of § 50-73.7 and by substituted service in accordance with subsection B of § 50-73.7, subsection D of § 50-73.58, subsection C of § 50-73.58:1, subsection D of § 50-73.58:2, or subsection E of § 50-73.59, as applicable.
+		</section>
+	</text>
+	<history>Code 1950, § 8-59.1; 1950, p. 455; 1977, c. 617; 2005, c. 866; 2024, c. 454.</history>
+</law>

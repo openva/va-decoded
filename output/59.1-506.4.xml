@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.4</section_number>
+	<catch_line>Immediately completed performance</catch_line>
+	<text>
+		If a performance involves delivery of information or services which, because of their nature, may provide a licensee, immediately on performance or delivery, with substantially all the benefit of the performance or with other significant benefit that cannot be returned, the following rules apply:
+		<section prefix="1">Sections 59.1-506.7 through 59.1-506.10 and 59.1-507.4 through 59.1-507.7 do not apply.
+		</section>
+		<section prefix="2">The rights of the parties are determined under § 59.1-506.1 and the ordinary standards of the business, trade, or industry.
+		</section>
+		<section prefix="3">Before tender of the performance, a party entitled to receive the tender may inspect the media, labels, or packaging but may not view the information or otherwise receive the performance before completing any performance of its own that is then due.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

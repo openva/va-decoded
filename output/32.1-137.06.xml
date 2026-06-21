@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="1" level="3">Hospital and Nursing Home Licensure and Inspection</unit>
+	</structure>
+	<section_number>32.1-137.06</section_number>
+	<catch_line>Lyme disease test result information</catch_line>
+	<text>
+		<section prefix="A">Every laboratory reporting the results of a test for Lyme disease ordered in an office-based setting by a health care provider shall include a notice to be provided together with such test results when such test results are reported to the health care provider that states: PATIENTS UNDERGOING A LYME DISEASE TEST SHOULD BE AWARE THAT LYME DISEASE TESTS VARY AND MAY PRODUCE RESULTS THAT ARE INACCURATE. THIS MEANS A PATIENT MAY NOT BE ABLE TO RELY ON A POSITIVE OR NEGATIVE RESULT. HEALTH CARE PROVIDERS ARE ENCOURAGED TO DISCUSS LYME DISEASE TEST RESULTS WITH THE PATIENT FOR WHOM THE TEST WAS ORDERED.
+		</section>
+		<section prefix="B">A laboratory that complies with this section shall be immune from civil liability absent gross negligence or willful misconduct.
+		</section>
+	</text>
+	<history>2019, c. 435.</history>
+</law>

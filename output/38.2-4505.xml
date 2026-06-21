@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="45" level="2">Dental or Optometric Services Plans</unit>
+	</structure>
+	<section_number>38.2-4505</section_number>
+	<catch_line>Liability of participants</catch_line>
+	<text>
+		<section prefix="A">All dentists or optometrists participating in a plan shall be jointly and severally liable on all contracts made for the purpose of the plan by the nonstock corporation as agent for them. Each contract may be executed and signed by their agent on their behalf. A contract so signed shall be binding on the principals and not on the agent.
+		</section>
+		<section prefix="B">Actions for breach of these contracts may be brought against the principals by naming the agent as the sole defendant. A judgment in favor of the plaintiff may be satisfied out of the assets of the nonstock corporation or out of the assets of each of the principals.
+		</section>
+		<section prefix="C">Each participant shall be liable for his own torts and not for the torts of any other participant or of the agent.
+		</section>
+	</text>
+	<history>1980, c. 682, § 38.1-896; 1986, c. 562.</history>
+</law>

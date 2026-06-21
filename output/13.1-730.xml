@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="15" level="3">Appraisal Rights and Other Remedies</unit>
+	</structure>
+	<section_number>13.1-730</section_number>
+	<catch_line>Right to appraisal</catch_line>
+	<text>
+		<section prefix="A">A shareholder is entitled to appraisal rights, and to obtain payment of the fair value of that shareholder's shares, in the event of any of the following corporate actions:
+			<section prefix="1">Consummation of a merger to which the corporation is a party (i) if shareholder approval is required for the merger by § 13.1-718, or would be required but for the provisions of subsection G of § 13.1-718, except that appraisal rights shall not be available to any shareholder of the corporation with respect to shares of any class or series that remain outstanding after consummation of the merger or (ii) if the corporation is a subsidiary and the merger is governed by § 13.1-719;
+			</section>
+			<section prefix="2">Consummation of a share exchange in which the corporation is the acquired entity, except that appraisal rights shall not be available to any shareholder of the corporation with respect to shares of any class or series that are not acquired in the share exchange;
+			</section>
+			<section prefix="3">Consummation of a disposition of assets pursuant to § 13.1-724 if the disposition of assets is an interested transaction;
+			</section>
+			<section prefix="4">An amendment of the articles of incorporation with respect to a class or series of shares that reduces the number of shares of a class or series owned by the shareholder to a fraction of a share if the corporation has the obligation or right to repurchase the fractional share so created;
+			</section>
+			<section prefix="5">Any other merger, share exchange, disposition of assets, or amendment of the articles of incorporation, in each case to the extent provided by the articles of incorporation, bylaws, or a resolution of the board of directors;
+			</section>
+			<section prefix="6">Consummation of a domestication in which a domestic corporation becomes a foreign corporation if the shareholder does not receive shares in the foreign corporation resulting from the domestication that have terms as favorable to the shareholder in all material respects, and represent at least the same percentage interest in the total voting rights of the outstanding shares of the foreign corporation, as the shares held by the shareholder immediately before the domestication; or
+			</section>
+			<section prefix="7">Consummation of a conversion to an unincorporated entity pursuant to Article 12.2 (§ 13.1-722.8 et seq.).
+			</section>
+		</section>
+		<section prefix="B">Notwithstanding subsection A, the availability of appraisal rights under subdivisions A 1 through A 4, A 6, and A 7 shall be limited in accordance with the following provisions:
+			<section prefix="1">Appraisal rights shall not be available for the holders of shares of any class or series of shares that is:
+				a. A covered security under § 18(b)(1)(A) or (B) of the federal Securities Act of 1933;
+				b. Traded in an organized market and has at least 2,000 shareholders and a market value of at least $20 million, exclusive of the value of such shares held by the corporation's subsidiaries, senior executives, and directors and by any beneficial shareholder or any voting trust beneficial owner owning more than 10 percent of such shares; or
+				c. Issued by an open end management investment company registered with the U.S. Securities and Exchange Commission under the federal Investment Company Act of 1940 and that may be redeemed at the option of the holder at net asset value.
+			</section>
+			<section prefix="2">The applicability of subdivision 1 shall be determined as of:
+				a. The record date fixed to determine the shareholders entitled to receive notice of the meeting of shareholders to act upon the corporate action requiring appraisal rights or in the case of an offer made pursuant to subsection G of § 13.1-718, the date of such offer; or
+				b. The day before the effective date of such corporate action if there is no meeting of shareholders and no offer made pursuant to subsection G of § 13.1-718.
+			</section>
+			<section prefix="3">Subdivision 1 shall not be applicable and appraisal rights shall be available pursuant to subsection A for the holders of any class or series of shares who are required by the terms of the corporate action requiring appraisal rights to accept for such shares anything other than cash or shares of any class or any series of shares of any corporation, or any other proprietary interest of any other entity, that satisfies the standards set forth in subdivision 1 at the time the corporate action becomes effective.
+			</section>
+			<section prefix="4">Subdivision 1 shall not be applicable and appraisal rights shall be available pursuant to subsection A for the holders of any class or series of shares where the corporate action is an interested transaction.
+			</section>
+		</section>
+		<section prefix="C">Notwithstanding any other provision of this section, the articles of incorporation as originally filed or any amendment to the articles of incorporation may limit or eliminate appraisal rights for any class or series of preferred shares, except that (i) no such limitation or elimination shall be effective if the class or series does not have the right to vote separately as a voting group, alone or as a part of a group, on the action, and (ii) any such limitation or elimination contained in an amendment of the articles of incorporation that limits or eliminates appraisal rights for any of such shares that are outstanding immediately prior to the effective date of such amendment or that the corporation is or may be required to issue or sell thereafter pursuant to any conversion, exchange or other right existing immediately before the effective date of such amendment shall not apply to any corporate action that becomes effective within one year after the effective date of such amendment if such action would otherwise afford appraisal rights.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-85, 13.1-75, 13.1-78; 1956, c. 428; 1968, c. 733; 1972, c. 425; 1975, c. 500; 1984, c. 613; 1985, c. 522; 1986, c. 540; 1988, c. 442; 1990, c. 229; 1992, c. 575; 1996, c. 246; 1999, c. 288; 2005, c. 765; 2007, c. 165; 2010, c. 782; 2015, c. 611; 2019, c. 734.</history>
+</law>

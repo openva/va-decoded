@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>59.1-501.10</section_number>
+	<catch_line>Contractual choice of forum</catch_line>
+	<text>
+		<section prefix="a">The parties in their agreement may choose an exclusive judicial forum unless the choice is unreasonable or unjust.
+		</section>
+		<section prefix="b">A judicial forum specified in an agreement is not exclusive unless the agreement expressly so provides and, in a mass-market transaction, expressly and conspicuously so provides.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2001, c. 763.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="9" level="2">Regulation of Medical Assistance</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>32.1-318</section_number>
+	<catch_line>Knowing failure to deposit, transfer or maintain patient trust funds in separate account; penalty</catch_line>
+	<text>
+		<section prefix="A">Any person having any patient trust funds in his possession, custody or control, who, knowing that he is violating any statute or regulation, deliberately fails to deposit, transfer or maintain such funds in a separate, designated, trust bank account as required by such statute or regulation shall be guilty of a Class 1 misdemeanor.
+		</section>
+		<section prefix="B">"Patient trust funds" are funds received by any health care facility which belong to patients and are required by any state or federal statute or regulation to be kept in a separate trust bank account for the benefit of such patients.
+		</section>
+		<section prefix="C">This section shall not be construed to prevent a prosecution pursuant to Chapter 5 (§ 18.2-77 et seq.) of Title 18.2.
+		</section>
+	</text>
+	<history>1981, c. 255.</history>
+</law>

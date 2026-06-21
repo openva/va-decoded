@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="20" level="3">Regulation of Passenger Carriers</unit>
+		<unit label="article" identifier="11" level="4">Sight-Seeing Carriers by Boat and Special or Charter Party Carriers by Boat</unit>
+	</structure>
+	<section_number>46.2-2099.21</section_number>
+	<catch_line>Exemptions from operation of article</catch_line>
+	<text>
+		This article shall not be construed to include:
+		<section prefix="1">Persons engaged in operating boats exclusively for fishing;
+		</section>
+		<section prefix="2">Persons engaged in operating boats that have (i) an approved passenger capacity of twenty-five or less persons and (ii) are operated as special or charter parties under this chapter; or
+		</section>
+		<section prefix="3">The City of Hampton when acting as a sight-seeing carrier by boat or special or charter party carrier by boat.
+		</section>
+	</text>
+	<history>2001, c. 596; 2007, c. 813.</history>
+</law>

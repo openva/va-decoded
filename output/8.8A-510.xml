@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="5" level="2">Security Entitlements</unit>
+	</structure>
+	<section_number>8.8A-510</section_number>
+	<catch_line>Rights of purchaser of security entitlement from entitlement holder</catch_line>
+	<text>
+		<section prefix="a">In a case not covered by the priority rules in Title 8.9A or the rules stated in subsection (c), an action based on an adverse claim to a financial asset or security entitlement, whether framed in conversion, replevin, constructive trust, equitable lien, or other theory, may not be asserted against a person who purchases a security entitlement, or an interest therein, from an entitlement holder if the purchaser gives value, does not have notice of the adverse claim, and obtains control.
+		</section>
+		<section prefix="b">If an adverse claim could not have been asserted against an entitlement holder under § 8.8A-502, the adverse claim cannot be asserted against a person who purchases a security entitlement, or an interest therein, from the entitlement holder.
+		</section>
+		<section prefix="c">In a case not covered by the priority rules in Title 8.9A, a purchaser for value of a security entitlement, or an interest therein, who obtains control has priority over a purchaser of a security entitlement, or an interest therein, who does not obtain control. Except as otherwise provided in subsection (d), purchasers who have control rank according to priority in time of:
+			<section prefix="1">the purchaser's becoming the person for whom the securities account, in which the security entitlement is carried, is maintained, if the purchaser obtained control under subdivision (d) (1) of § 8.8A-106;
+			</section>
+			<section prefix="2">the securities intermediary's agreement to comply with the purchaser's entitlement orders with respect to security entitlements carried or to be carried in the securities account in which the security entitlement is carried, if the purchaser obtained control under subdivision (d) (2) of § 8.8A-106; or
+			</section>
+			<section prefix="3">if the purchaser obtained control through another person under subdivision (d) (3) of § 8.8A-106, the time on which priority would be based under this subsection if the other person were the secured party.
+			</section>
+		</section>
+		<section prefix="d">A securities intermediary as purchaser has priority over a conflicting purchaser who has control unless otherwise agreed by the securities intermediary.
+		</section>
+	</text>
+	<history>1996, c. 216; 2000, c. 1007.</history>
+</law>

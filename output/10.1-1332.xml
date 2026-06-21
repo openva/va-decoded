@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="13" level="3">Air Pollution Control Board</unit>
+		<unit label="article" identifier="5" level="4">Clean Coal Projects</unit>
+	</structure>
+	<section_number>10.1-1332</section_number>
+	<catch_line> Definitions</catch_line>
+	<text>
+		As used in this article, unless the context requires a different meaning:
+		"Center" means the Virginia Center for Coal and Energy Research.
+		"Clean coal project" means any project that uses any technology, including a technology applied at the precombustion, combustion, or postcombustion stage, at a new or existing facility that (i) will achieve significant reductions in air emissions of sulfur dioxide or oxides of nitrogen associated with the utilization of coal in the generation of electricity, process steam, or industrial products and is not in widespread use or (ii) is otherwise defined as clean coal technology pursuant to 42 U.S.C. § 7651n.
+	</text>
+	<history>2006, c. 939, § 67-400; 2021, Sp. Sess. I, c. 387.</history>
+</law>

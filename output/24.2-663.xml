@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="6" level="2">The Election</unit>
+		<unit label="article" identifier="4" level="3">Conduct of Election; Election Results</unit>
+	</structure>
+	<section_number>24.2-663</section_number>
+	<catch_line>When ballot void</catch_line>
+	<text>
+		If a printed ballot is found to have been voted for a greater number of names for any one office than the number of persons required to fill the office, or if the title of the office is erased, the ballot shall be considered void as to all the names designated to fill such office, but no further, and the ballot shall be counted for the other offices on the ballot. In the case of a ballot scanner machine, an election official is authorized to cause the ballot scanner to receive the ballot and count it in accordance with this section. No ballot shall be void for having been voted for fewer names than authorized.
+		If any person votes, either in person or absentee, more than one time in an election, all ballots received from such person shall be void and, if possible, not counted. If one such ballot has already been cast, any additional ballots received from such person shall be void and not counted.
+	</text>
+	<history>Code 1950, § 24-266; 1970, c. 462, § 24.1-140; 1978, c. 778; 1993, c. 641; 2013, c. 469; 2014, cc. 540, 576.</history>
+</law>

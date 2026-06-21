@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="3" level="5">Fire Prevention and Fire Control</unit>
+	</structure>
+	<section_number>45.2-822</section_number>
+	<catch_line> Fire prevention in transportation of mining equipment</catch_line>
+	<text>
+		<section prefix="A">Prior to moving or transporting any piece of off-track mining equipment in any area of the active workings where energized trolley wires or trolley feeder wires are present, (i) the piece of equipment shall be examined by a certified person to ensure that accumulations of coal dust, float coal dust, loose coal, oil, grease, and other combustible materials have been removed from such piece of equipment and (ii) a qualified person shall examine the trolley wires, trolley feeder wires, and the associated automatic circuit interrupting devices to ensure that proper short circuit protection exists.
+		</section>
+		<section prefix="B">A record shall be kept of the examinations required pursuant to subsection A and shall be made available, upon request, to the Chief or his authorized representative.
+		</section>
+		<section prefix="C">Off-track mining equipment shall not be moved or transported in any area of the active workings where energized trolley wires or trolley feeder wires are present unless under the direct supervision of a certified person who is physically present at all times during the moving or transporting of such equipment.
+		</section>
+		<section prefix="D">The frame of any unit of off-track mining equipment that is being moved or transported shall be covered on the top and on the trolley wire side with fire-resistant material.
+		</section>
+		<section prefix="E">Electrical contact shall be maintained between the mine track and the frame of any piece of off-track mining equipment that is being moved in a track and trolley entry. However, rubber-tired equipment need not be grounded to a transporting vehicle if no metal part of such rubber-tired equipment can come into contact with the transporting vehicle.
+		</section>
+		<section prefix="F">To avoid accidental contact with power lines, the equipment being transported or trammed shall be insulated or, if necessary, the assemblage shall be removed if the clearance to the power lines is six inches or less.
+		</section>
+		<section prefix="G">Sufficient prior notice shall be given to the Department so that a mine inspector, if he deems it necessary, can travel the route of the move before the actual move is made.
+		</section>
+		<section prefix="H">A minimum vertical clearance of one foot shall be maintained between the farthest projection of the piece of equipment that is being moved and the energized trolley wires or trolley feeder wires at all times during the movement or transportation of such equipment. If the height of the coal seam does not permit one foot of vertical clearance to be so maintained, the following additional precautions shall be taken:
+			<section prefix="1">Electric power shall be supplied to the trolley wires or trolley feeder wires only from outby the piece of equipment being moved or transported. Where direct current electric power is used and such electric power can be supplied only from inby the equipment being moved or transported, such power may be supplied from inby such equipment if a miner who has the means to cut off the power is in direct communication with the persons actually engaged in the moving or transporting operation and is stationed outby the equipment being moved;
+			</section>
+			<section prefix="2">The settings of automatic circuit interrupting devices used to provide short circuit protection for the trolley circuit shall be reduced to not more than one-half of the maximum current that could flow if the equipment being moved or transported were to come into contact with the trolley wire or trolley feeder wire;
+			</section>
+			<section prefix="3">At all times when the piece of equipment is being moved or transported, a miner shall be stationed at the first automatic circuit breaker outby the equipment being moved. Such miner shall be (i) in direct communication with the persons actually engaged in the moving or transporting operation and (ii) capable of communicating with the authorized person on the surface who is required to be on duty;
+			</section>
+			<section prefix="4">Where trolley phones are utilized to satisfy the requirements of subdivision 3, telephones or other equivalent two-way communication devices that can readily be connected with the mine communication system shall be carried by (i) the miner who is stationed at the first automatic circuit breaker outby the equipment being moved and (ii) by a miner who is actually engaged in the moving or transporting operation; and
+			</section>
+			<section prefix="5">No person shall be permitted to be inby the piece of equipment being moved or transported, or in the ventilating current of air that is passing over such equipment, except a person who is directly engaged in moving such equipment.
+			</section>
+		</section>
+		<section prefix="I">The provisions of subsection H shall not apply to a piece of mining equipment that is transported in a mine car if no part of the equipment extends above or over the sides of the mine car.
+		</section>
+	</text>
+	<history>Code 1950, § 45-14.1; 1954, c. 191; 1966, c. 594, § 45.1-89; 1974, c. 323; 1978, c. 118; 1984, c. 590; 1985, c. 500; 1994, c. 28, § 45.1-161.204; 2021, Sp. Sess. I, c. 387.</history>
+</law>

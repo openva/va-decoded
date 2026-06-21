@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="27" level="3">Uniform Powers of Appointment Act</unit>
+		<unit label="article" identifier="3" level="4">Exercise of Power of Appointment</unit>
+	</structure>
+	<section_number>64.2-2715</section_number>
+	<catch_line>Intent to exercise; after-acquired power</catch_line>
+	<text>
+		Unless the terms of the instrument exercising a power of appointment manifest a contrary intent:
+		<section prefix="1">Except as otherwise provided in subdivision 2, a blanket-exercise clause extends to a power acquired by the powerholder after executing the instrument containing the clause; and
+		</section>
+		<section prefix="2">If the powerholder is also the donor of the power, the clause does not extend to the power unless there is no gift-in-default clause or the gift-in-default clause is ineffective.
+		</section>
+	</text>
+	<history>2016, c. 266.</history>
+</law>

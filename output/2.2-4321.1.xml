@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4321.1</section_number>
+	<catch_line>Prohibited contracts; exceptions; determination by Department of Taxation; appeal; remedies</catch_line>
+	<text>
+		<section prefix="A">No state agency shall contract for goods or services with a nongovernmental source if the source, or any affiliate of the source, is subject to the provisions of (i) § 58.1-612 and fails or refuses to collect and remit the tax on its sales delivered by any means to locations within the Commonwealth or (ii) Article 2 (§ 58.1-320 et seq.) or Article 10 (§ 58.1-400 et seq.) of Chapter 3 of Title 58.1 and fails or refuses to remit any tax due thereunder. The provisions of clause (ii) shall not apply to any person that has (a) entered into a payment agreement with the Department of Taxation to pay the tax and is not delinquent under the terms of the agreement or (b) appealed the assessment of the tax in accordance with law and such appeal is pending.
+		</section>
+		<section prefix="B">A state agency may contract for goods or services with a source prohibited under subsection A in the event of an emergency or where the nongovernmental source is the sole source of such goods or services.
+		</section>
+		<section prefix="C">The determination of whether a source is a prohibited source shall be made by the Department of Taxation after providing the prohibited source with notice and an opportunity to respond to the proposed determination. The Department of Taxation shall notify the Department of General Services of its determination.
+		</section>
+		<section prefix="D">The Department of General Services shall post public notice of all prohibited sources on its public internet procurement website and on other appropriate websites.
+		</section>
+		<section prefix="E">The remedies provided in Article 5 (§ 2.2-4357 et seq.) of this chapter shall not apply to any determination made pursuant to this section and the sole remedy for any adverse determination shall be as provided in subsection F.
+		</section>
+		<section prefix="F">Any source aggrieved by a determination of the Department of Taxation made under this section may apply to the Tax Commissioner for correction of the determination. The Tax Commissioner shall respond within 30 days of receipt of the application for corrective action. Within 10 days after receipt of the Tax Commissioner's response, the aggrieved source may appeal to the Circuit Court for the City of Richmond. If it is determined that the determination of the Department of Taxation was arbitrary, capricious, or not in accordance with law, the sole relief shall be restoration of the source's eligibility to contract with state agencies. No claim for damages or attorney's fees shall be awarded.
+		</section>
+		<section prefix="G">Any action of the Department of Taxation, the Department of General Services, or of any state agency under this section shall be exempt from the provisions of the Administrative Process Act (§ 2.2-4000 et seq.).
+		</section>
+		<section prefix="H">For the purposes of this section, "state agency" means any authority, board, department, instrumentality, institution, agency or other unit of state government. State agency shall not include any public institution of higher education or any county, city or town or any local or regional governmental authority.
+		</section>
+	</text>
+	<history>2003, cc. 994, 1006; 2006, c. 408.</history>
+</law>

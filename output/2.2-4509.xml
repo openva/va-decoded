@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="45" level="4">Investment of Public Funds Act</unit>
+	</structure>
+	<section_number>2.2-4509</section_number>
+	<catch_line>Investment of funds in negotiable certificates of deposit and negotiable bank deposit notes</catch_line>
+	<text>
+		Notwithstanding any provision of law to the contrary, the Commonwealth and all public officers, municipal corporations, and other political subdivisions and all other public bodies of the Commonwealth may invest any or all of the moneys belonging to them or within their control, other than sinking funds, in negotiable certificates of deposit and negotiable bank deposit notes of domestic banks and domestic offices of foreign banks:
+		<section prefix="1">With maturities not exceeding one year, that have received at least two of the following ratings: (i) at least A-1 by Standard &amp; Poor's; (ii) at least P-1 by Moody's Investors Service, Inc.; or (iii) at least F1 by Fitch Ratings, Inc.; and
+		</section>
+		<section prefix="2">With maturities exceeding one year and not exceeding five years, that have received at least two of the following ratings: (i) at least AA by Standard &amp; Poor's; (ii) at least Aa by Moody's Investors Service, Inc.; or (iii) at least AA by Fitch Ratings, Inc.
+		</section>
+	</text>
+	<history>1998, cc. 20, 21, § 2.1-328.15; 2001, c. 844; 2020, c. 333.</history>
+</law>

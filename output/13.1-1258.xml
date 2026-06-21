@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="11" level="3">Merger</unit>
+	</structure>
+	<section_number>13.1-1258</section_number>
+	<catch_line>Approval</catch_line>
+	<text>
+		<section prefix="A">Unless otherwise provided in the articles of trust or the governing instrument of a business trust, a merger shall be approved by each business trust that is to merge by the affirmative vote of the trustees and the holders of two-thirds of the outstanding beneficial interests of such business trust.
+		</section>
+		<section prefix="B">A merger need be approved only by the trustees of a successor business trust if:
+			<section prefix="1">The merger does not reclassify or change its outstanding beneficial interests or otherwise amend its articles of trust or governing instrument; and
+			</section>
+			<section prefix="2">The beneficial interests to be issued or delivered in the merger are not more than twenty percent of the beneficial interests of the same class or series outstanding immediately before the merger becomes effective.
+			</section>
+		</section>
+		<section prefix="C">The merger shall be approved by any other business entity party to the merger in the manner required by the articles of incorporation or charter, declaration of trust, partnership agreement, or other organizational document of the other business entity and the laws of the jurisdiction where the other business entity is organized.
+		</section>
+	</text>
+	<history>2002, c. 621.</history>
+</law>

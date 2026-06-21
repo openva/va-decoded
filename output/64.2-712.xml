@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="2" level="4">Judicial Proceedings</unit>
+	</structure>
+	<section_number>64.2-712</section_number>
+	<catch_line>Proceedings to appoint or remove trustees</catch_line>
+	<text>
+		<section prefix="A">Proceedings to appoint or remove trustees may be brought by motion pursuant to §§ 64.2-1405 and 64.2-1406.
+		</section>
+		<section prefix="B">Proceedings to appoint or remove trustees also may be brought by petition or complaint. In such a proceeding, beneficiaries who are not qualified beneficiaries shall not be necessary parties, nor shall it be necessary to join (i) a trustee who has declined to accept the trust, resigned or been adjudicated an incapacitated person or (ii) the personal representative of a trustee.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-542.05; 2012, c. 614.</history>
+</law>

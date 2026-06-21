@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="18" level="3">Enforcement, Collection, Refund, Remedies and Review of State Taxes</unit>
+		<unit label="article" identifier="2" level="4">Corrections of Erroneous Assessments; Refunds</unit>
+	</structure>
+	<section_number>58.1-1835</section_number>
+	<catch_line>Abatement of any tax, interest, and penalty attributable to erroneous written advice by the Department</catch_line>
+	<text>
+		The Tax Commissioner shall abate any portion of any tax, interest, and penalty attributable to erroneous advice furnished to the taxpayer in writing by an employee of the Department acting in his official capacity if:
+		<section prefix="1">The written advice was reasonably relied upon by the taxpayer and was in response to a specific written request by the taxpayer;
+		</section>
+		<section prefix="2">The portion of the penalty or tax did not result from a failure by the taxpayer to provide adequate or accurate information; and
+		</section>
+		<section prefix="3">The facts of the case described in the written advice and the request therefor are the same, and the taxpayer's business or personal operations have not changed since the advice was rendered.
+		</section>
+	</text>
+	<history>1996, c. 634.</history>
+</law>

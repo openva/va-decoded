@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions; Department of Motor Vehicles</unit>
+		<unit label="chapter" identifier="2" level="3">Department of Motor Vehicles</unit>
+		<unit label="article" identifier="1" level="4">Powers and Duties of Department, Generally</unit>
+	</structure>
+	<section_number>46.2-209</section_number>
+	<catch_line>Release of information in Department records for motor vehicle research purposes</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section, "privileged information" means:
+			<section prefix="1">Personal information as defined in § 2.2-3801;
+			</section>
+			<section prefix="2">Driver information, defined as all data that relates to driver's license status and driver activity;
+			</section>
+			<section prefix="3">Special identification card information, defined as all data that relates to identification card status; and
+			</section>
+			<section prefix="4">Vehicle information, defined as title number and registration number.
+			</section>
+		</section>
+		<section prefix="B">Notwithstanding the provisions of subsections A and E of § 46.2-208, the Commissioner may furnish privileged information for motor vehicle research purposes, or in other cases wherein, in his opinion, highway safety or the general welfare of the public will be promoted by furnishing the information, and the recipient of the information has agreed in writing with the Commissioner or his designee that the information furnished will be used for no purpose other than the purpose for which it was furnished. No such information shall be used for solicitation of sales. The Commissioner shall not disclose, pursuant to this section, an individual's social security number or lack thereof, driver's license or special identification card number, Individual Tax ID Number, country of origin, immigration status, or place of birth or the type of document issued to the individual pursuant to Chapter 3 (§ 46.2-300 et seq.).
+		</section>
+		<section prefix="C">No privileged information released pursuant to this section shall be distributed by any recipient of such information to a third party for a purpose other than the purpose for which it was furnished. Privileged information requested by an entity that has been altered or aggregated may only be used for the original purposes specified in the written agreement and shall be subject to the protections of this section. Any agreement that does not allow third-party distribution shall include a statement that such distribution is prohibited. Such agreement may limit the scope of any authorized distribution.
+		</section>
+	</text>
+	<history>1976, c. 505, § 46.1-31.1; 1989, c. 727; 1994, c. 959; 1995, c. 118; 2021, Sp. Sess. I, c. 421.</history>
+</law>

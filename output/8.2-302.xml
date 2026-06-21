@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="3" level="2">General Obligation and Construction of Contract</unit>
+	</structure>
+	<section_number>8.2-302</section_number>
+	<catch_line>Unconscionable contract or clause</catch_line>
+	<text>
+		<section prefix="1">If the court as a matter of law finds the contract or any clause of the contract to have been unconscionable at the time it was made the court may refuse to enforce the contract, or it may enforce the remainder of the contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.
+		</section>
+		<section prefix="2">When it is claimed or appears to the court that the contract or any clause thereof may be unconscionable the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making the determination.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

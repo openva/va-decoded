@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="9" level="3">Indemnification</unit>
+	</structure>
+	<section_number>13.1-877</section_number>
+	<catch_line>Mandatory indemnification</catch_line>
+	<text>
+		Unless limited by its articles of incorporation, a corporation shall indemnify a director who entirely prevails in the defense of any proceeding to which he was a party because he is or was a director of the corporation against reasonable expenses incurred by him in connection with the proceeding.
+	</text>
+	<history>Code 1950, § 13.1-205.1; 1968, c. 689; 1975, c. 500; 1981, c. 57; 1985, c. 522.</history>
+</law>

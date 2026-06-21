@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="13" level="3">Air Pollution Control Board</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>10.1-1307.01</section_number>
+	<catch_line>Further duties of Board and Department; localities particularly affected</catch_line>
+	<text>
+		<section prefix="A">The Board, before promulgating a regulation under consideration, or the Department, before granting a variance to an existing regulation, or issuing a permit for the construction of a new major source or for a major modification to an existing source, if it is found that there is a locality particularly affected by the regulation, variance, or permit, shall, respectively:
+			<section prefix="1">Publish, or require the applicant to publish, a notice in a local paper of general circulation in each locality affected at least 30 days prior to the close of any public comment period. Such notice shall contain a statement of the estimated local impact of the proposed action, which at a minimum shall provide information regarding specific pollutants and the total quantity of each that may be emitted and shall list the type and quantity of any fuels to be used.
+			</section>
+			<section prefix="2">Mail the notice to the chief elected official and chief administrative officer of and the planning district commission for such locality.
+				Written comments shall be accepted by the Board for at least 15 days after any hearing on the regulation unless the Board votes to shorten the period. Written comments shall be accepted by the Department for at least 15 days after any hearing on the variance or permit.
+			</section>
+		</section>
+		<section prefix="B">If the Department finds, before granting any variance to an existing regulation or issuing any permit for (i) a new fossil fuel-fired generating facility with a capacity of 500 megawatts or more, (ii) a major modification to an existing source that is a fossil fuel-fired generating facility with a capacity of 500 megawatts or more, (iii) a new fossil fuel-fired compressor station facility used to transport natural gas, or (iv) a major modification to an existing source that is a fossil fuel-fired compressor station facility used to transport natural gas, that there is a locality particularly affected by such variance or permit, the Department shall:
+			<section prefix="1">Require the applicant to publish a notice in at least one local paper of general circulation in any locality particularly affected at least 60 days prior to the close of any public comment period. Such notice shall (i) contain a statement of the estimated local impact of the proposed action; (ii) provide information regarding specific pollutants and the total quantity of each that may be emitted; (iii) list the type, quantity, and source of any fuel to be used; (iv) advise the public as to the date and location of a public hearing; and (v) advise the public where to obtain information regarding the proposed action. The Department shall post such notice on the Department website and on a Department social media account.
+			</section>
+			<section prefix="2">Require the applicant to mail the notice to (i) the chief elected official of, chief administrative officer of, and planning district commission for each locality particularly affected; (ii) every public library and public school located within five miles of such facility; and (iii) the owner of each parcel of real property that is depicted as adjacent to the facility on the current real estate tax assessment maps of the locality.
+				Written comments shall be accepted by the Department for at least 30 days after any hearing on such variance or permit, unless the Director elects to shorten the period.
+			</section>
+		</section>
+		<section prefix="C">For the purposes of this section, the term "locality particularly affected" means any locality that bears any identified disproportionate material air quality impact that would not be experienced by other localities.
+		</section>
+	</text>
+	<history>1993, c. 944; 1997, c. 612; 2020, c. 1110; 2022, c. 356.</history>
+</law>

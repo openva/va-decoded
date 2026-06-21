@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+		<unit label="article" identifier="3.1" level="4">Uniform Fiduciary Access to Digital Assets Act</unit>
+	</structure>
+	<section_number>64.2-123</section_number>
+	<catch_line>Disclosure of content of electronic communications of principal</catch_line>
+	<text>
+		To the extent that a power of attorney expressly grants an agent authority over the content of electronic communications sent or received by the principal and unless directed otherwise by the principal or the court, a custodian shall disclose to the agent the content if the agent gives the custodian:
+		<section prefix="1">A written request for disclosure in physical or electronic form;
+		</section>
+		<section prefix="2">An original or copy of the power of attorney expressly granting the agent authority over the content of electronic communications of the principal;
+		</section>
+		<section prefix="3">A certification by the agent that the power of attorney is in effect; and
+		</section>
+		<section prefix="4">If requested by the custodian:
+			a. A number, username, address, or other unique subscriber or account identifier assigned by the custodian to identify the principal's account; or
+			b. Evidence linking the account to the principal.
+		</section>
+	</text>
+	<history>2017, cc. 33, 80.</history>
+</law>

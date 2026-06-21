@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="44.1" level="2">Automatic Dialing-Announcing Devices</unit>
+	</structure>
+	<section_number>59.1-518.2</section_number>
+	<catch_line>When automatic dialing-announcing devices prohibited</catch_line>
+	<text>
+		A caller shall not use an automatic dialing-announcing device in connection with making a commercial telephone solicitation unless:
+		<section prefix="1">The subscriber has knowingly or voluntarily requested, consented to, permitted, or authorized receipt of the message, or
+		</section>
+		<section prefix="2">The message is immediately preceded by a live operator who, after disclosing (i) the name of the entity sending the message, (ii) the purpose of the message, (iii) the kinds of goods or services the message is promoting, and (iv), if applicable, the fact that the message intends to solicit payment or the commitment of funds, obtains the subscriber's consent before the commercial telephone solicitation is delivered.
+		</section>
+	</text>
+	<history>2009, c. 699.</history>
+</law>

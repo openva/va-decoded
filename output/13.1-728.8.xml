@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="14.1" level="3">Control Share Acquisitions</unit>
+	</structure>
+	<section_number>13.1-728.8</section_number>
+	<catch_line>Appraisal rights</catch_line>
+	<text>
+		<section prefix="A">Unless otherwise provided in a corporation's articles of incorporation or bylaws before a control share acquisition has occurred, in the event shares acquired in a control share acquisition are accorded full voting rights and the acquiring person has beneficial ownership of shares entitled to cast a majority of the votes which could be cast in an election of directors, all shareholders of the public corporation other than the acquiring person have the right to appraisal rights and to obtain payment of the fair value of their shares under Article 15 (§ 13.1-729 et seq.) of this chapter as though such granting of voting rights were a corporate action described in subsection A of § 13.1-730, except that the provisions of subsection B of § 13.1-730 shall not be applicable and the failure to vote in favor of the granting of voting rights shall be deemed to constitute compliance with the requirements of subsection A of § 13.1-733.
+		</section>
+		<section prefix="B">For the purposes of this section, "fair value" shall in no event be less than the highest price per share paid in the control share acquisition, as adjusted for any subsequent share dividends or reverse share splits or similar changes.
+		</section>
+	</text>
+	<history>1989, c. 14; 2005, c. 765.</history>
+</law>

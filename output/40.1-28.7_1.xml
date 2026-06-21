@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3" level="2">Protection of Employees</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>40.1-28.7:1</section_number>
+	<catch_line>Genetic testing or genetic characteristics as a condition of employment</catch_line>
+	<text>
+		<section prefix="A">No employer shall:
+			<section prefix="1">Request, require, solicit or administer a genetic test, as defined in § 38.2-508.4, to any person as a condition of employment; or
+			</section>
+			<section prefix="2">Refuse to hire, fail to promote, discharge or otherwise adversely affect any terms or conditions of employment of any employee or prospective employee solely on the basis of a genetic characteristic, as defined in § 38.2-508.4, or the results of a genetic test, regardless of how the employer obtained such information or results. Nothing in this section shall preclude the use of information related to a criminal investigation.
+			</section>
+		</section>
+		<section prefix="B">The employee may bring an action in a court of competent jurisdiction over the employer who took adverse action against the employee in violation of this section. Any such action shall be brought within 180 days from the date of the adverse action. The court may, in its discretion, award actual or punitive damages, including back pay with interest at the judgment rate as provided in § 6.2-302, or injunctive relief.
+		</section>
+		<section prefix="C">Nothing in this section shall be construed to require the Department of Labor and Industry to conduct any investigations or enforcement actions.
+		</section>
+		<section prefix="D">As used in subdivision A 2 of this section, "terms and conditions of employment" shall not include any long term care, life or disability insurance policy.
+		</section>
+	</text>
+	<history>2002, cc. 565, 659.</history>
+</law>

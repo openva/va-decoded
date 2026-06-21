@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Shares and Distributions</unit>
+	</structure>
+	<section_number>13.1-642</section_number>
+	<catch_line>Subscription for shares before incorporation</catch_line>
+	<text>
+		<section prefix="A">A subscription for shares entered into before incorporation is irrevocable for six months unless the subscription agreement provides a longer or shorter period or all the subscribers agree to revocation.
+		</section>
+		<section prefix="B">The board of directors may determine the payment terms of subscriptions for shares that were entered into before incorporation, unless the subscription agreement specifies them. A call for payment by the board of directors must be uniform so far as practicable as to all shares of the same class or series, unless the subscription agreement specifies otherwise.
+		</section>
+		<section prefix="C">Shares issued pursuant to subscriptions entered into before incorporation are fully paid and nonassessable when the corporation receives the consideration specified in the subscription agreement.
+		</section>
+		<section prefix="D">If a subscriber defaults in payment of cash or property under a subscription agreement entered into before incorporation, the corporation may collect the amount owed as any other debt. The articles of incorporation, bylaws, or the subscription agreement may prescribe other penalties for nonpayment but a subscription and the installments already paid on it may not be forfeited unless the corporation demands the amount due by written notice to the subscriber and it remains unpaid for at least 20 days after the effective date of the notice.
+		</section>
+		<section prefix="E">If a subscription for unissued shares is forfeited for nonpayment under subsection D, the corporation may sell the shares subscribed for. If the shares are sold by reason of any forfeiture for more than the amount due on the subscription, the corporation shall pay the excess, after deducting the expense of sale, to the subscriber or the subscriber's representative.
+		</section>
+		<section prefix="F">A subscription agreement entered into after incorporation is a contract between the subscriber and the corporation subject to § 13.1-643.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-98, 13.1-15; 1956, c. 428; 1972, c. 580; 1975, c. 500; 1985, c. 522; 2005, c. 765; 2019, c. 734.</history>
+</law>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3407.4:2</section_number>
+	<catch_line>Requirements for prescription benefit cards</catch_line>
+	<text>
+		<section prefix="A">Each (i) insurer proposing to issue individual or group accident and sickness insurance policies providing hospital, medical and surgical or major medical coverage on an expense incurred basis, (ii) corporation providing individual or group accident and sickness subscription contracts, and (iii) health maintenance organization providing a health care plan for health care services, whose policy, contract or plan, including any certificate or evidence of coverage issued in connection with such policy, contract or plan, includes coverage for prescription drugs on an outpatient basis, shall provide its insureds, subscribers or enrollees a prescription benefit card, health insurance benefit card or other technology that complies with the National Council for Prescription Drug Programs Pharmacy ID Card Implementation Guide in effect at the time of card issuance or includes, at a minimum, the following data elements:
+			<section prefix="1">The name or identifying trademark of the insurer, corporation, or health maintenance organization or, if another entity administers the prescription benefit, the name or identifying trademark of the benefit administrator;
+			</section>
+			<section prefix="2">The insured's, subscriber's, or enrollee's name and identification number;
+			</section>
+			<section prefix="3">The telephone number that providers may call for pharmacy benefit assistance; and
+			</section>
+			<section prefix="4">The electronic transaction routing information and other numbers required by the insurer, corporation, health maintenance organization or benefit administrator to electronically process a prescription claim.
+			</section>
+		</section>
+		<section prefix="B">The prescription benefit card, health insurance benefit card, or other technology shall be issued to each insured, subscriber or enrollee, and shall upon any changes in the required data elements set forth in subsection A, either reissue the card or provide the insured, subscriber or enrollee such corrective information as may be required to electronically process a prescription claim. Notwithstanding the requirements of § 38.2-4300 and subdivision A 2 of § 38.2-4306, a prescription benefit card, health benefit card or other technology issued pursuant to this section shall not be considered part of the evidence of coverage and shall not be required to be filed with or approved by the Commission.
+		</section>
+		<section prefix="C">An insurer, corporation, or health maintenance organization may comply with this section by issuing to each insured, subscriber or enrollee a health insurance benefit card that contains data elements related to both prescription and non-prescription health insurance benefits.
+		</section>
+		<section prefix="D">Compliance with any federal law or regulation that requires the prescription benefit data elements on a prescription benefit card or health insurance benefit card pursuant to subsection A shall be deemed to be compliance with this section.
+		</section>
+		<section prefix="E">The provisions of this section shall not apply to (i) short-term travel, or accident-only, policies, (ii) short-term nonrenewable policies of not more than six months' duration, (iii) such an insurer, corporation, or health maintenance organization that does not include coverage for prescription drugs; or (iv) any health maintenance organization that operates or maintains its own pharmacies and dispenses, on an annual basis, over ninety-five percent of prescription drugs or devices to its enrollees at its own pharmacies.
+		</section>
+		<section prefix="F">The provisions of this section shall apply to contracts, policies or plans delivered, issued for delivery or renewed in this Commonwealth on and after July 1, 2002.
+		</section>
+	</text>
+	<history>2001, c. 334.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="22" level="3">Statewide Sickle Cell Disease Registry</unit>
+	</structure>
+	<section_number>32.1-73.24</section_number>
+	<catch_line>Confidential nature of information supplied; publication; reciprocal data-sharing agreements</catch_line>
+	<text>
+		<section prefix="A">The Commissioner and all persons to whom information is submitted in accordance with § 32.1-73.22 shall keep such information confidential. Except as authorized by the Commissioner in accordance with the provisions of § 32.1-41, no release of any such information shall be made except in the form of statistical or other studies that do not identify individual cases.
+		</section>
+		<section prefix="B">The Commissioner may enter into reciprocal data-sharing agreements with other sickle cell disease registries for the exchange of information. Upon the provision of satisfactory assurances for the preservation of the confidentiality of such information, patient-identifying information may be exchanged with other sickle cell disease registries that have entered into reciprocal data-sharing agreements with the Commissioner.
+		</section>
+	</text>
+	<history>2024, c. 437.</history>
+</law>

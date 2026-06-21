@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="4" level="4">Payment and Reporting of Tax on Motor Fuel</unit>
+	</structure>
+	<section_number>58.1-2234</section_number>
+	<catch_line>Monthly reconciling returns</catch_line>
+	<text>
+		<section prefix="A">A licensed distributor or a licensed importer who deducts exempt sales under subsection A of § 58.1-2233 or sales of aviation jet fuel to a licensed aviation consumer under subsection B of § 58.1-2233 when paying tax to a supplier shall file a monthly reconciling return for the exempt sales and sales to a licensed aviation consumer. The return shall list the following information and any other information required by the Commissioner:
+			<section prefix="1">The number of gallons for which a deduction was taken during the month, by supplier;
+			</section>
+			<section prefix="2">The number of gallons sold in exempt sales during the month, by type of sale, and the purchasers of the fuel in the exempt sales; and
+			</section>
+			<section prefix="3">The number of gallons of aviation jet fuel sold without collection of the tax during the month, and the purchasers of the fuel.
+			</section>
+		</section>
+		<section prefix="B">If the number of gallons for which a licensed distributor or licensed importer takes a deduction during a month exceeds the number of exempt gallons sold or, in the case of aviation jet fuel, the number of gallons sold without collection of the tax, the licensed distributor or licensed importer shall pay tax on the difference at the rate imposed by § 58.1-2217. The licensed distributor or licensed importer shall not be allowed a percentage discount on any tax payable under this subsection.
+		</section>
+		<section prefix="C">If the number of gallons for which a licensed distributor or licensed importer takes a deduction during a month is less than the number of exempt gallons sold or, in the case of aviation jet fuel, is less than the number of gallons sold without collection of the tax, the Commissioner shall refund the amount of tax paid on the difference. The Commissioner shall reduce the amount of the refund by the amount of the percentage discount received on the fuel.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758.</history>
+</law>

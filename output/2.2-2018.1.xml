@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="20.1" level="4">Virginia Information Technologies Agency</unit>
+		<unit label="article" identifier="2" level="5">Division of Project Management</unit>
+	</structure>
+	<section_number>2.2-2018.1</section_number>
+	<catch_line>Project and procurement investment business case approval</catch_line>
+	<text>
+		<section prefix="A">Executive branch agencies shall obtain CIO approval prior to the initiation of any Commonwealth information technology project or procurement. When selecting an information technology investment, executive branch agencies and public institutions of higher education shall submit to the Division an investment business case, outlining the business value of the investment, the proposed technology solution, if known, and an explanation of how the project will support the agency strategic plan, the agency's secretariat's strategic plan, and the Commonwealth strategic plan for information technology developed and approved pursuant to subdivision A 3 of § 2.2-2007.1. The Division may require the submission of additional information if needed to adequately review any such proposal.
+		</section>
+		<section prefix="B">The Division shall review each investment business case submitted in accordance with this section and recommend its approval or rejection to the CIO pursuant to the policies and procedures developed in § 2.2-2016.1.
+		</section>
+		<section prefix="C">In accordance with policies and standards outlined in the Commonwealth Project Management Standard, the CIO shall review the business case for any Commonwealth information technology project or procurement and approve or disapprove.
+		</section>
+	</text>
+	<history>2011, c. 739; 2015, c. 768; 2016, c. 296.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="9" level="3">Foreign Business Trusts</unit>
+	</structure>
+	<section_number>13.1-1245</section_number>
+	<catch_line>Amendments; amended applications for registration</catch_line>
+	<text>
+		<section prefix="A">Whenever the articles of trust or other constituent document of a foreign business trust that is registered to transact business in the Commonwealth is amended or corrected, the foreign business trust shall promptly file with the Commission a copy of the amendment or correction duly authenticated by the Secretary of State or other official having custody of the business trust records in the state or other jurisdiction of its formation.
+		</section>
+		<section prefix="B">If any statement in the application for registration of a foreign business trust was false when made or any arrangements or other facts described have changed, making the application inaccurate in any respect, the foreign business trust shall promptly file with the Commission an amended application for registration amending such statement or information. The amended application for registration shall be made on a form prescribed and furnished by the Commission.
+		</section>
+	</text>
+	<history>2002, c. 621; 2008, c. 101.</history>
+</law>

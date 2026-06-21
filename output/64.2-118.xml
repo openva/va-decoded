@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+		<unit label="article" identifier="3.1" level="4">Uniform Fiduciary Access to Digital Assets Act</unit>
+	</structure>
+	<section_number>64.2-118</section_number>
+	<catch_line>User direction for disclosure of digital assets</catch_line>
+	<text>
+		<section prefix="A">A user may use an online tool to direct the custodian to disclose to a designated recipient or not to disclose some or all of the user's digital assets, including the content of electronic communications. If the online tool allows the user to modify or delete a direction at all times, a direction regarding disclosure using an online tool overrides a contrary direction by the user in a will, trust, power of attorney, or other record.
+		</section>
+		<section prefix="B">If a user has not used an online tool to give direction under subsection A or if the custodian has not provided an online tool, the user may allow or prohibit in a will, trust, power of attorney, or other record disclosure to a fiduciary of some or all of the user's digital assets, including the content of electronic communications sent or received by the user.
+		</section>
+		<section prefix="C">A user's direction under subsection A or B overrides a contrary provision in a terms-of-service agreement that does not require the user to act affirmatively and distinctly from the user's assent to the terms of service.
+		</section>
+	</text>
+	<history>2017, cc. 33, 80.</history>
+</law>

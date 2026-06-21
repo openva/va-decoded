@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="4" level="2">Health Care Planning</unit>
+		<unit label="article" identifier="1.1" level="3">Medical Care Facilities Certificate of Public Need</unit>
+	</structure>
+	<section_number>32.1-102.3:1.1</section_number>
+	<catch_line>Continuing care retirement communities accessing medical assistance</catch_line>
+	<text>
+		<section prefix="A">A nursing facility in Planning District 8 in a continuing care retirement community registered with the State Corporation Commission pursuant to Chapter 49 (§ 38.2-4900 et seq.) of Title 38.2, which is not already certified for participation in the Medical Assistance Program, may be certified for participation in the Medical Assistance Program, without regard to any condition of a certificate of public need, so long as:
+			<section prefix="1">The nursing facility is no longer operating under an open admissions period;
+			</section>
+			<section prefix="2">Any residents who qualify and receive medical assistance under the state program must have been residents of the continuing care retirement community for at least three years;
+			</section>
+			<section prefix="3">Not more than 25 percent of the nursing home beds of the facility, or 15 nursing home beds, whichever is fewer, may be occupied by individuals receiving benefits at any given time; and
+			</section>
+			<section prefix="4">Any resident who qualifies for and receives medical assistance under the state program in a continuing care retirement community nursing facility must have first exhausted any refundable entrance fee paid on the resident's behalf, as defined in § 38.2-4900, as a result of expenditures for that resident's care in the continuing care retirement community.
+			</section>
+		</section>
+		<section prefix="B">Nothing in this section shall alter the conditions of a continuing care retirement community's participation in the Medical Assistance Program if that continuing care retirement community was certified for participation prior to July 1, 2010.
+			For the purposes of this section, "open admissions period" means a time during which a facility may take admissions directly into its nursing home beds without the signing of a standard contract.
+		</section>
+	</text>
+	<history>2008, c. 857; 2011, c. 155; 2019, cc. 299, 384.</history>
+</law>

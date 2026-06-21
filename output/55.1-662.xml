@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="II" level="2">Real Estate Settlements and Recordation</unit>
+		<unit label="chapter" identifier="6" level="3">Recordation of Documents</unit>
+		<unit label="article" identifier="8" level="4">Uniform Real Property Electronic Recording Act</unit>
+	</structure>
+	<section_number>55.1-662</section_number>
+	<catch_line>Validity of electronically filed and recorded land records</catch_line>
+	<text>
+		<section prefix="A">If a law requires, as a condition for recording, that a land records document be an original, be on paper or another tangible medium, or be in writing, an electronic land records document satisfying this article satisfies the law.
+		</section>
+		<section prefix="B">If a law requires, as a condition for recording, that a land records document be signed, an electronic signature satisfies the law.
+		</section>
+		<section prefix="C">A requirement that a land records document or a signature associated with a land records document be notarized, acknowledged, verified, witnessed, or made under oath is satisfied if the electronic notarization of the person authorized to perform that act, and all other information required to be included, is attached to or logically associated with the land records document or signature. A physical or electronic image of a stamp, impression, or seal of the notary is not required to accompany an electronic signature.
+		</section>
+	</text>
+	<history>2006, c. 745, § 55-142.11; 2019, c. 712.</history>
+</law>

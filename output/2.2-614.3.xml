@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="6" level="4">General Provisions</unit>
+		<unit label="article" identifier="1" level="5">In General</unit>
+	</structure>
+	<section_number>2.2-614.3</section_number>
+	<catch_line>Charitable organization; certain government action prohibited</catch_line>
+	<text>
+		A government agency shall not require any charitable organization to:
+		<section prefix="1">Disclose individual demographic information concerning employees, officers, directors, trustees, members, or owners, without the prior written consent of such individuals;
+		</section>
+		<section prefix="2">Disclose individual demographic information concerning any person, or the employees, officers, directors, trustees, members or owners of any entity that has received monetary or in-kind contributions from or contracted with a charitable organization without the prior written consent of such individuals;
+		</section>
+		<section prefix="3">Include in the membership of the governing board or officers of the charitable organization an individual based on his demographic characteristics;
+		</section>
+		<section prefix="4">Prohibit an individual from serving as a board member or officer based upon the individual's familial relationship to other board members or officers or to a donor;
+		</section>
+		<section prefix="5">Include in the membership of the governing board one or more individuals who do not share a familial relationship with other board members or officers or with the donor; or
+		</section>
+		<section prefix="6">Distribute its funds to or contract with any individual or entity based upon the demographic characteristics of the employees, officers, directors, trustees, members, or owners of the individual or entity, or based on populations, locations, or communities served by the individual or entity, except as a lawful condition on the expenditure of the funds imposed by the donor.
+			As used in this section:
+			"Charitable organization" means any nonstock corporate or other entity that has been granted tax-exempt status under § 509(a) of the Internal Revenue Code.
+			"Government agency" means any authority, board, department, instrumentality, institution, agency, or other unit of state government and any county, city, or town.
+			Nothing in this section shall prohibit a government agency from obtaining information from a charitable organization pursuant to a subpoena, civil investigative demand, or other compulsory process. Nothing in this section shall alter or limit the filing requirements applicable to charitable organizations under Chapter 8 (§ 18.2-325 et seq.) of Title 18.2 or Chapter 5 (§ 57-48 et seq.) of Title 57.
+		</section>
+	</text>
+	<history>2011, c. 873.</history>
+</law>

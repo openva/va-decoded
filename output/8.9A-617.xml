@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="1" level="3">Default and Enforcement of Security Interest</unit>
+	</structure>
+	<section_number>8.9A-617</section_number>
+	<catch_line>Rights of transferee of collateral</catch_line>
+	<text>
+		<section prefix="a">Effects of disposition. A secured party's disposition of collateral after default:
+			<section prefix="1">transfers to a transferee for value all of the debtor's rights in the collateral;
+			</section>
+			<section prefix="2">discharges the security interest under which the disposition is made; and
+			</section>
+			<section prefix="3">discharges any subordinate security interest or other subordinate lien.
+			</section>
+		</section>
+		<section prefix="b">Rights of good-faith transferee. A transferee that acts in good faith takes free of the rights and interests described in subsection (a), even if the secured party fails to comply with this title or the requirements of any judicial proceeding.
+		</section>
+		<section prefix="c">Rights of other transferee. If a transferee does not take free of the rights and interests described in subsection (a), the transferee takes the collateral subject to:
+			<section prefix="1">the debtor's rights in the collateral;
+			</section>
+			<section prefix="2">the security interest or agricultural lien under which the disposition is made; and
+			</section>
+			<section prefix="3">any other security interest or other lien.
+			</section>
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-504; 1973, c. 509; 2000, c. 1007.</history>
+</law>

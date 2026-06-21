@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="17" level="3">Miscellaneous Taxes</unit>
+		<unit label="article" identifier="1" level="4">Soft Drink Excise Tax</unit>
+	</structure>
+	<section_number>58.1-1702</section_number>
+	<catch_line>Tax levied</catch_line>
+	<text>
+		There is hereby levied, in addition to all other taxes now imposed by law, a state excise tax on every wholesaler or distributor of carbonated soft drinks. The tax shall be based upon the gross receipts of each wholesaler or distributor from the sale of such soft drinks and shall be determined according to the following schedule:
+		<section prefix="1">The tax shall be $50 if gross receipts do not exceed $100,000;
+		</section>
+		<section prefix="2">The tax shall be $100 if gross receipts exceed $100,000 but do not exceed $250,000;
+		</section>
+		<section prefix="3">The tax shall be $250 if gross receipts exceed $250,000 but do not exceed $500,000;
+		</section>
+		<section prefix="4">The tax shall be $750 if gross receipts exceed $500,000 but do not exceed $1,000,000;
+		</section>
+		<section prefix="5">The tax shall be $1,500 if gross receipts exceed $1,000,000 but do not exceed $3,000,000;
+		</section>
+		<section prefix="6">The tax shall be $3,000 if gross receipts exceed $3,000,000 but do not exceed $5,000,000;
+		</section>
+		<section prefix="7">The tax shall be $4,500 if gross receipts exceed $5,000,000 but do not exceed $10,000,000;
+		</section>
+		<section prefix="8">The tax shall be $7,200 if gross receipts exceed $10,000,000 but do not exceed $25,000,000;
+		</section>
+		<section prefix="9">The tax shall be $18,000 if gross receipts exceed $25,000,000 but do not exceed $50,000,000; and
+		</section>
+		<section prefix="10">The tax shall be $33,000 if the gross receipts exceed $50,000,000.
+		</section>
+	</text>
+	<history>Code 1950, § 58-404.02; 1977, c. 616; 1979, c. 134; 1984, c. 675; 2002, c. 15.</history>
+</law>

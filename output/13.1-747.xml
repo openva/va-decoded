@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="16" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-747</section_number>
+	<catch_line>Grounds for judicial dissolution</catch_line>
+	<text>
+		<section prefix="A">The circuit court in any city or county described in subsection C may dissolve a corporation:
+			<section prefix="1">In a proceeding by a shareholder of a corporation that is not a public corporation if it is established that:
+				a. The directors are deadlocked in the management of the corporate affairs, the shareholders are unable to break the deadlock, and irreparable injury to the corporation is threatened or being suffered, or the business and affairs of the corporation can no longer be conducted to the advantage of the shareholders generally, because of the deadlock;
+				b. The directors or those in control of the corporation have acted, are acting, or will act in a manner that is illegal, oppressive, or fraudulent;
+				c. The shareholders are deadlocked in voting power and have failed, for a period that includes at least two consecutive annual meeting dates, to elect successors to directors whose terms have expired; or
+				d. The corporate assets are being misapplied or wasted;
+			</section>
+			<section prefix="2">In a proceeding by a creditor if it is established that:
+				a. The creditor's claim has been reduced to judgment, the execution on the judgment returned unsatisfied, and the corporation is insolvent; or
+				b. The corporation has admitted in writing that the creditor's claim is due and owing and the corporation is insolvent;
+			</section>
+			<section prefix="3">In a proceeding by the corporation to have its voluntary dissolution continued under court supervision;
+			</section>
+			<section prefix="4">In a proceeding by a shareholder if the corporation has abandoned its business and has failed within a reasonable time to liquidate and distribute its assets and terminate its corporate existence;
+			</section>
+			<section prefix="5">Upon application by the board of directors when it is established that circumstances make it impossible to obtain a representative vote by shareholders on the question of dissolution and that the continuation of the business of the corporation is not in the interest of the shareholders but it is in their interest that the assets and business be liquidated; or
+			</section>
+			<section prefix="6">When the Commission has instituted a proceeding for the involuntary termination of corporate existence and entered an order finding that the corporate existence of the corporation should be terminated but that liquidation of its business and affairs should precede the entry of an order of termination of corporate existence.
+			</section>
+		</section>
+		<section prefix="B">The circuit court in the city or county named in subsection C shall have full power to liquidate the assets and business of the corporation at any time after the termination of corporate existence, pursuant to the provisions of this article upon the application of any person, for good cause, with regard to any assets or business that may remain. The jurisdiction conferred by this clause may also be exercised by any such court in any city or county where any property may be situated whether of a domestic or a foreign corporation that ceased to exist.
+		</section>
+		<section prefix="C">Venue for a proceeding brought under this section lies in the city or county where the corporation's principal office is or was located, or, if none in the Commonwealth, where its registered office is or was last located.
+		</section>
+		<section prefix="D">It is not necessary to make directors or shareholders parties to a proceeding to be brought under this section unless relief is sought against them individually.
+		</section>
+		<section prefix="E">A court in a proceeding brought to dissolve a corporation may issue injunctions, appoint a receiver or custodian pendente lite with such powers and duties as the court may direct, take other action required to preserve the corporate assets wherever located, and carry on the business of the corporation until a full hearing can be held.
+		</section>
+		<section prefix="F">Within 15 days of the commencement of a proceeding to dissolve a corporation under subdivision A 1, the corporation shall deliver to all shareholders, other than the petitioner, a notice stating that the corporation and the shareholders are entitled to avoid the dissolution of the corporation by electing to purchase the petitioner's shares under § 13.1-749.1 and accompanied by a copy of that section.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-94; 1956, c. 428; 1959, Ex. Sess., c. 57; 1968, c. 112; 1985, c. 522; 2005, c. 765; 2007, c. 165; 2019, c. 734.</history>
+</law>

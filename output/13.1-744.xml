@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="16" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-744</section_number>
+	<catch_line>Revocation of dissolution</catch_line>
+	<text>
+		<section prefix="A">A corporation may revoke its dissolution at any time prior to the effective date of its certificate of termination of corporate existence.
+		</section>
+		<section prefix="B">Revocation of dissolution shall be authorized in the same manner as the dissolution was authorized unless that authorization permitted revocation by action of the board of directors alone, in which event the board of directors may revoke the dissolution without shareholder action.
+		</section>
+		<section prefix="C">After the revocation of dissolution is authorized, the corporation may revoke the dissolution by delivering to the Commission for filing articles of revocation of dissolution that set forth:
+			<section prefix="1">The name of the corporation;
+			</section>
+			<section prefix="2">The effective date of the dissolution that was revoked;
+			</section>
+			<section prefix="3">The date that the revocation of dissolution was authorized;
+			</section>
+			<section prefix="4">If the corporation's board of directors revoked the dissolution, a statement to that effect and if dissolution was authorized by the shareholders, a statement that revocation was permitted by action of the board of directors alone pursuant to that authorization; and
+			</section>
+			<section prefix="5">If shareholder action was required to revoke the dissolution, the information required by subdivision 3 of subsection A of § 13.1-743.
+			</section>
+		</section>
+		<section prefix="D">If the Commission finds that the articles of revocation of dissolution comply with the requirements of law and that all required fees have been paid, it shall issue a certificate of revocation of dissolution.
+		</section>
+		<section prefix="E">When the certificate of revocation of dissolution is effective, it relates back to and takes effect as of the effective date of the certificate of dissolution and the corporation resumes carrying on its business as if the dissolution had never occurred.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13.1-85, 13.1-86; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2019, c. 734.</history>
+</law>

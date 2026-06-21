@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="4" level="4">Allocation of Receipts: Receipts from Entity</unit>
+	</structure>
+	<section_number>64.2-1048</section_number>
+	<catch_line>Character of receipts from entity</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Capital distribution" means an entity distribution of money that is a (i) return of capital or (ii) distribution in total or partial liquidation of the entity.
+			"Entity" means a corporation, partnership, limited liability company, regulated investment company, real estate investment trust, common trust fund, or any other organization or arrangement in which a fiduciary owns or holds an interest, whether or not the entity is a taxpayer for federal income tax purposes. "Entity" does not include (i) a trust or estate to which § 64.2-1049 applies, (ii) a business or other activity to which § 64.2-1050 applies that is not conducted by an entity described above, (iii) an asset-backed security, or (iv) an instrument or arrangement to which § 64.2-1063 applies.
+			"Entity distribution" means a payment or transfer by an entity made to a person in the person's capacity as an owner or holder of an interest in the entity.
+		</section>
+		<section prefix="B">In this section, an attribute or action of an entity includes an attribute or action of any other entity in which the entity owns or holds an interest, including an interest owned or held indirectly through another entity.
+		</section>
+		<section prefix="C">Except as otherwise provided in subdivisions D 2, 3, and 4, a fiduciary shall allocate to income:
+			<section prefix="1">Money received in an entity distribution; and
+			</section>
+			<section prefix="2">Tangible personal property of nominal value received from the entity.
+			</section>
+		</section>
+		<section prefix="D">A fiduciary shall allocate to principal:
+			<section prefix="1">Property received in an entity distribution that is not:
+				a. Money; or
+				b. Tangible personal property of nominal value;
+			</section>
+			<section prefix="2">Money received in an entity distribution in an exchange for part or all of the fiduciary's interest in the entity, to the extent the entity distribution reduces the fiduciary's interest in the entity relative to the interests of other persons that own or hold interests in the entity;
+			</section>
+			<section prefix="3">Money received in an entity distribution that the fiduciary determines or estimates is a capital distribution; and
+			</section>
+			<section prefix="4">Money received in an entity distribution from an entity that is:
+				a. A regulated investment company or real estate investment trust if the money received is a capital gain dividend for federal income tax purposes; or
+				b. Treated for federal income tax purposes comparably to the treatment described in subdivision a.
+			</section>
+		</section>
+		<section prefix="E">A fiduciary may determine or estimate that money received in an entity distribution is a capital distribution:
+			<section prefix="1">By relying without inquiry or investigation on a characterization of the entity distribution provided by or on behalf of the entity, unless the fiduciary:
+				a. Determines, on the basis of information known to the fiduciary, that the characterization is or may be incorrect; or
+				b. Owns or holds more than 50 percent of the voting interest in the entity;
+			</section>
+			<section prefix="2">By determining or estimating, on the basis of information known to the fiduciary or provided to the fiduciary by or on behalf of the entity, that the total amount of money and property received by the fiduciary in the entity distribution or a series of related entity distributions is or will be greater than 20 percent of the fair market value of the fiduciary's interest in the entity; or
+			</section>
+			<section prefix="3">If neither subdivision 1 nor 2 applies, by considering the factors in subsection F and the information known to the fiduciary or provided to the fiduciary by or on behalf of the entity.
+			</section>
+		</section>
+		<section prefix="F">In making a determination or estimate under subdivision E 3, a fiduciary may consider:
+			<section prefix="1">A characterization of an entity distribution provided by or on behalf of the entity;
+			</section>
+			<section prefix="2">The amount of money or property received in:
+				a. The entity distribution; or
+				b. What the fiduciary determines is or will be a series of related entity distributions;
+			</section>
+			<section prefix="3">The amount described in subdivision 2 compared to the amount the fiduciary determines or estimates is, during the current or preceding accounting periods:
+				a. The entity's operating income;
+				b. The proceeds of the entity's sale or other disposition of:
+				<section prefix="1">All or part of the business or other activity conducted by the entity;
+				</section>
+				<section prefix="2">One or more business assets that are not sold to customers in the ordinary course of the business or other activity conducted by the entity; or
+				</section>
+				<section prefix="3">One or more assets other than business assets, unless the entity's primary activity is to invest in assets to realize gain on the disposition of all or some of the assets;
+					c. If the entity's primary activity is to invest in assets to realize gain on the disposition of all or some of the assets, the gain realized on the disposition;
+					d. The entity's regular, periodic entity distributions;
+					e. The amount of money the entity has accumulated;
+					f. The amount of money the entity has borrowed;
+					g. The amount of money the entity has received from the sources described in §§ 64.2-1054, 64.2-1057, 64.2-1058, and 64.2-1059; and
+					h. The amount of money the entity has received from a source not otherwise described in this subdivision; and
+				</section>
+			</section>
+			<section prefix="4">Any other factor the fiduciary determines is relevant.
+			</section>
+		</section>
+		<section prefix="G">If, after applying subsections C through F, a fiduciary determines that a part of an entity distribution is a capital distribution but is in doubt about the amount of the entity distribution that is a capital distribution, the fiduciary shall allocate to principal the amount of the entity distribution that is in doubt.
+		</section>
+		<section prefix="H">If a fiduciary receives additional information about the application of this section to an entity distribution before the fiduciary has paid part of the entity distribution to a beneficiary, the fiduciary may consider the additional information before making the payment to the beneficiary and may change a decision to make the payment to the beneficiary.
+		</section>
+		<section prefix="I">If a fiduciary receives additional information about the application of this section to an entity distribution after the fiduciary has paid part of the entity distribution to a beneficiary, the fiduciary is not required to change or recover the payment to the beneficiary but may consider that information in determining whether to exercise the power to adjust under § 64.2-1038.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

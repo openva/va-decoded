@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1437</section_number>
+	<catch_line>Limitations on mortgages</catch_line>
+	<text>
+		<section prefix="A">The amount of any loan secured by a mortgage or deed of trust referred to in §§ 38.2-1434 through 38.2-1436 shall not exceed the following percentages of the fair market value of the real estate:
+			<section prefix="1">Seventy-five percent for a leasehold loan made pursuant to subdivision 2 of § 38.2-1434;
+			</section>
+			<section prefix="2">Ninety percent for a loan made to an employee of the insurer, other than a director or trustee thereof, whether such loan be made in connection with the initial employment of the employee or in connection with the transfer of the place of employment of the employee; or
+			</section>
+			<section prefix="3">Eighty percent for all other loans.
+				However, the percentage limits specified in this subsection may be exceeded if the excess is (i) insured or guaranteed or is to be insured or guaranteed by the United States, any state or any agency of either or (ii) insured by an insurer licensed to insure mortgage guaranty risks in this Commonwealth.
+			</section>
+		</section>
+		<section prefix="B">Any loan made pursuant to §§ 38.2-1434 through 38.2-1436 not in compliance with the requirements of subsection A of this section shall be classified as a Category 2 investment in its entirety.
+		</section>
+		<section prefix="C">The fair market value of the real estate interest mortgaged shall be determined by a written appraisal of at least one competent real estate appraiser as of the date of the initial loan commitment, which appraiser shall not be an employee of the insurer nor an employee of any company controlled by or under common control with the insurer. If the loan commitment is revised to reflect a change in the value of the real estate, the fair market value shall be determined as of the date of that revision.
+		</section>
+		<section prefix="D">Buildings and other improvements on the mortgaged premises shall be insured against fire loss for the benefit of the mortgagee in an amount not less than the lesser of their insurable value or the unpaid principal balance of the obligation.
+		</section>
+		<section prefix="E">The maximum term of any mortgage or deed of trust referred to in §§ 38.2-1434 through 38.2-1436 secured by real property primarily improved by a single-family residence shall not exceed thirty years.
+		</section>
+		<section prefix="F">A domestic insurer shall not invest, under §§ 38.2-1434 through 38.2-1436, more than two percent of its admitted assets, directly or indirectly, in mortgages covering any one secured location, nor more than four percent in the mortgages of any one obligor.
+		</section>
+	</text>
+	<history>1983, c. 457, § 38.1-217.40; 1986, c. 562; 1992, c. 588.</history>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="50" level="4">Interest on Certain Obligations of Government Instrumentalities</unit>
+	</structure>
+	<section_number>2.2-5002.1</section_number>
+	<catch_line>Commonwealth tax-supported debt authorizations and treatment of net original issue premium</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"De minimis amount" means an amount not to exceed two percent of the principal amount of tax-supported debt to be issued or incurred as part of the same series or issue;
+			"Net original issue premium" means the amount in excess of the principal amount of an issue or series of tax-supported debt to be paid by the initial purchaser or purchasers at original issuance or incurrence, less (i) the accrued interest, if any, on such tax-supported debt and (ii) any discount or discounts received by the initial purchaser or purchasers on any maturities or portions of such tax-supported debt; and
+			"Tax-supported debt" means, collectively, bonds, notes or other obligations constituting tax-supported debt within the meaning of § 2.2-4903 issued or incurred on or after July 1, 2012.
+		</section>
+		<section prefix="B">Notwithstanding any provision to the contrary contained in any general or special law of the Commonwealth, each state agency, institution, board, or authority that has been authorized to issue or incur or have outstanding tax-supported debt at one time or from time to time up to a specific principal amount or aggregate principal amount, shall in determining compliance with such authorization treat as principal the amount of any net original issue premium in excess of a de minimis amount received from the issuance or incurrence of such tax-supported debt.
+		</section>
+		<section prefix="C">The provisions of this section shall not apply to refunding tax-supported debt, which, to the extent otherwise authorized by law, may be issued or incurred with or without original issue premium in a principal amount up to the amount necessary to pay at maturity or redeem the tax-supported debt to be refunded and pay all issuance costs and other financing expenses of the refunding.
+		</section>
+		<section prefix="D">The Treasury Board shall have the power to establish guidelines to carry out the intent of this section.
+		</section>
+	</text>
+	<history>2012, c. 324.</history>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="16" level="2">Evidence and Witnesses</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>19.2-270.7</section_number>
+	<catch_line>Determining decibel level of sound with proper equipment; certificate as to accuracy of equipment</catch_line>
+	<text>
+		A law-enforcement officer may use equipment deemed proper pursuant to subsection C of § 2.2-1112 to determine the decibel level of any sound, including noise. The results of such determinations shall be accepted as prima facie evidence of the decibel level of the sound in any court or legal proceeding where the decibel level of the sound is at issue.
+		In any court or legal proceeding in which any question arises about the calibration or accuracy of such equipment used to determine the decibel level of sound, a certificate, or a true copy thereof, showing the calibration or testing for accuracy of the equipment, and when and by whom the calibration or test was made, shall be admissible as evidence of the facts therein stated. No calibration or testing of such equipment shall be valid for longer than 12 months.
+	</text>
+	<history>2010, c. 558.</history>
+</law>

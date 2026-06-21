@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="53" level="2">Consumer Data Protection Act</unit>
+	</structure>
+	<section_number>59.1-580</section_number>
+	<catch_line>Data protection assessments</catch_line>
+	<text>
+		<section prefix="A">A controller shall conduct and document a data protection assessment of each of the following processing activities involving personal data:
+			<section prefix="1">The processing of personal data for purposes of targeted advertising;
+			</section>
+			<section prefix="2">The sale of personal data;
+			</section>
+			<section prefix="3">The processing of personal data for purposes of profiling, where such profiling presents a reasonably foreseeable risk of (i) unfair or deceptive treatment of, or unlawful disparate impact on, consumers; (ii) financial, physical, or reputational injury to consumers; (iii) a physical or other intrusion upon the solitude or seclusion, or the private affairs or concerns, of consumers, where such intrusion would be offensive to a reasonable person; or (iv) other substantial injury to consumers;
+			</section>
+			<section prefix="4">The processing of sensitive data; and
+			</section>
+			<section prefix="5">Any processing activities involving personal data that present a heightened risk of harm to consumers.
+			</section>
+		</section>
+		<section prefix="B">Each controller that offers any online service, product, or feature directed to consumers whom such controller has actual knowledge are children shall conduct a data protection assessment for such online service, product, or feature that addresses (i) the purpose of such online service, product, or feature; (ii) the categories of known children's personal data that such online service, product, or feature processes; and (iii) the purposes for which such controller processes known children's personal data with respect to such online service, product, or feature.
+		</section>
+		<section prefix="C">Data protection assessments conducted pursuant to this section shall identify and weigh the benefits that may flow, directly and indirectly, from the processing to the controller, the consumer, other stakeholders, and the public against the potential risks to the rights of the consumer associated with such processing, as mitigated by safeguards that can be employed by the controller to reduce such risks. The use of de-identified data and the reasonable expectations of consumers, as well as the context of the processing and the relationship between the controller and the consumer whose personal data will be processed, shall be factored into this assessment by the controller.
+		</section>
+		<section prefix="D">The Attorney General may request, pursuant to a civil investigative demand, that a controller disclose any data protection assessment that is relevant to an investigation conducted by the Attorney General, and the controller shall make the data protection assessment available to the Attorney General. The Attorney General may evaluate the data protection assessment for compliance with the responsibilities set forth in § 59.1-578. Data protection assessments shall be confidential and exempt from public inspection and copying under the Virginia Freedom of Information Act (§ 2.2-3700 et seq.). The disclosure of a data protection assessment pursuant to a request from the Attorney General shall not constitute a waiver of attorney-client privilege or work product protection with respect to the assessment and any information contained in the assessment.
+		</section>
+		<section prefix="E">A single data protection assessment may address a comparable set of processing operations that include similar activities.
+		</section>
+		<section prefix="F">Data protection assessments conducted by a controller for the purpose of compliance with other laws or regulations may comply under this section if the assessments have a reasonably comparable scope and effect.
+		</section>
+		<section prefix="G">Data protection assessment requirements shall apply to processing activities created or generated after January 1, 2023, and are not retroactive.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, cc. 35, 36; 2024, cc. 840, 844.</history>
+</law>

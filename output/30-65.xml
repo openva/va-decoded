@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="8" level="2">Legislative Program Review and Evaluation Act</unit>
+	</structure>
+	<section_number>30-65</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, the terms below shall be interpreted as follows:
+		<section prefix="1">The term "agency" means any agency, authority, board, department, division, commission, institution, bureau, or like governmental entity of the Commonwealth and includes any entity, public or private, with which any of the foregoing has entered into a contractual relationship to accomplish an agency program.
+		</section>
+		<section prefix="2">The term "functional area" means that grouping of state governmental activities, programs, and agencies which constitute a single budget function as identified and classified in the Virginia State Government Program Structure.
+		</section>
+		<section prefix="3">The term "discretionary selection" refers to the procedure set forth in § 30-67 whereby programs and agencies, contained wholly or in part within functional areas, are selected for legislative review and evaluation under the provisions of this chapter.
+		</section>
+	</text>
+	<history>1978, c. 388.</history>
+</law>

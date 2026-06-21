@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="3" level="4">Unitrust</unit>
+	</structure>
+	<section_number>64.2-1040</section_number>
+	<catch_line>Application; duties and remedies</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection B, this article applies to:
+			<section prefix="1">An income trust, unless the terms of the trust expressly prohibit use of this article by a specific reference to this article or an explicit expression of intent that net income not be calculated as a unitrust amount; and
+			</section>
+			<section prefix="2">An express unitrust, except to the extent the terms of the trust explicitly:
+				a. Prohibit use of this article by a specific reference to this article;
+				b. Prohibit conversion to an income trust; or
+				c. Limit changes to the method of calculating the unitrust amount.
+			</section>
+		</section>
+		<section prefix="B">This article does not apply to a trust described in § 170(f)(2)(B), 642(c)(5), 664(d), 2702(a)(3)(A)(ii) or (iii), or 2702(b) of the Internal Revenue Code of 1986, as amended.
+		</section>
+		<section prefix="C">An income trust to which this article applies under subdivision A 1 may be converted to a unitrust under this article regardless of the terms of the trust concerning distributions. Conversion to a unitrust under this article does not affect other terms of the trust concerning distributions of income or principal.
+		</section>
+		<section prefix="D">This article applies to an estate only to the extent a trust is a beneficiary of the estate. To the extent of the trust's interest in the estate, the estate may be administered as a unitrust, the administration of the estate as a unitrust may be discontinued, or the percentage or method used to calculate the unitrust amount may be changed, in the same manner as for a trust under this article.
+		</section>
+		<section prefix="E">This article does not create a duty to take or consider action under this article or to inform a beneficiary about the applicability of this article.
+			F A fiduciary that in good faith takes or fails to take an action under this article is not liable to a person affected by the action or inaction.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

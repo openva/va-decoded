@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="8" level="4">Department of Accounts</unit>
+		<unit label="article" identifier="2" level="5">Claims Against Commonwealth</unit>
+	</structure>
+	<section_number>2.2-814</section_number>
+	<catch_line>To whom claims presented; Comptroller to furnish forms</catch_line>
+	<text>
+		<section prefix="A">Any person having any pecuniary claim against the Commonwealth upon any legal ground shall present the same to the head of the department, division, institution or agency of the Commonwealth responsible for the alleged act or omission which, if proved, gives rise to the claim. If, however, the claimant cannot identify the alleged act or omission with any single department, division, institution or agency of the Commonwealth, then the claim shall be presented to the Comptroller.
+		</section>
+		<section prefix="B">The Comptroller shall supply the several clerks of record and, upon request, each head of a department, division, institution or agency mentioned in subsection A with the necessary forms to be used by them for accounts payable out of the state treasury.
+		</section>
+	</text>
+	<history>Code 1950, §§ 2-193, 2-194; 1960, c. 240; 1966, c. 677, §§ 2.1-223.1, 2.1-223.2; 2001, c. 844.</history>
+</law>

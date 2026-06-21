@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="11" level="3">Amendment of Articles of Incorporation and Bylaws</unit>
+	</structure>
+	<section_number>13.1-705</section_number>
+	<catch_line>Authority to amend articles of incorporation</catch_line>
+	<text>
+		<section prefix="A">A corporation may amend its articles of incorporation at any time to add or change a provision that is required or permitted in the articles as of the effective date of the amendment or to delete a provision that is not required to be contained in the articles of incorporation.
+		</section>
+		<section prefix="B">A shareholder of the corporation does not have a vested property right resulting from any provision in the articles of incorporation, including provisions relating to management, control, capital structure, dividend entitlement, purpose, or duration of the corporation.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-55; 1956, c. 428; 1958, c. 564; 1985, c. 522; 2019, c. 734.</history>
+</law>

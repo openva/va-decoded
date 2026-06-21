@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="20" level="3">Regulation of Passenger Carriers</unit>
+		<unit label="article" identifier="15" level="4">Transportation Network Companies</unit>
+	</structure>
+	<section_number>46.2-2099.52</section_number>
+	<catch_line>TNC insurance</catch_line>
+	<text>
+		<section prefix="A">At all times during the operation of a TNC partner vehicle, a transportation network company or TNC partner shall keep in force TNC insurance as provided in this section.
+		</section>
+		<section prefix="B">The following requirements shall apply to TNC insurance from the moment a TNC partner accepts a prearranged ride request on a transportation network company's digital platform until the TNC partner completes the transaction on the digital platform or until the prearranged ride is complete, whichever is later:
+			<section prefix="1">TNC insurance shall provide motor vehicle liability coverage. Such coverage shall be primary and the minimum amount of liability coverage for death, bodily injury, and property damage shall be $1 million.
+			</section>
+			<section prefix="2">TNC insurance shall provide uninsured motorist coverage and underinsured motorist coverage as required by § 38.2-2206. With regard to such underinsured motorist coverage that applies solely from the moment a passenger enters a TNC partner vehicle until the passenger exits the vehicle, it shall be paid without any credit for the bodily injury and property damage coverage available for payment, and neither the TNC nor the TNC partner shall elect to refuse the change in underinsured motorist coverage pursuant to subsection C of § 38.2-2202.
+			</section>
+			<section prefix="3">The requirements of this subsection may be satisfied by any of the following:
+				a. TNC insurance maintained by a TNC partner;
+				b. TNC insurance maintained by a transportation network company; or
+				c. Any combination of subdivisions a and b.
+				A transportation network company may meet its obligations under this subsection through a policy obtained by a TNC partner under subdivision a or c only if the transportation network company verifies that the policy is maintained by the TNC partner.
+			</section>
+			<section prefix="4">Insurers providing insurance coverage under this subsection shall have the exclusive duty to defend any liability claim, including any claim against a TNC partner, arising from an accident occurring within the time periods specified in this subsection. Neither the TNC partner's nor the vehicle owner's personal automobile insurance policy shall have the duty to defend or indemnify the TNC partner's activities in connection with the transportation network company, unless the policy expressly provides otherwise for the period of time to which this subsection is applicable or the policy contains an amendment or endorsement to provide that coverage.
+			</section>
+			<section prefix="5">Coverage under a TNC insurance policy shall not be dependent on a personal automobile insurance policy first denying a claim, nor shall a personal automobile insurance policy be required to first deny a claim.
+			</section>
+			<section prefix="6">Nothing in this subsection shall be construed to require a personal automobile insurance policy to provide primary or excess coverage. Neither the TNC partner's nor the vehicle owner's personal automobile insurance policy shall provide any coverage to the TNC partner, the vehicle owner, or any third party, unless the policy expressly provides for that coverage during the period of time to which this subsection is applicable or the policy contains an amendment or endorsement to provide that coverage.
+			</section>
+		</section>
+		<section prefix="C">The following requirements shall apply to TNC insurance (i) from the moment a TNC partner logs on to a transportation network company's associated digital platform until the TNC partner accepts a request to transport a passenger and (ii) from the moment the TNC partner completes the transaction on the digital platform or the prearranged ride is complete, whichever is later, until the TNC partner either accepts another prearranged ride request on the digital platform or logs off the digital platform:
+			<section prefix="1">TNC insurance shall provide motor vehicle liability coverage. Such coverage shall be primary and shall provide liability coverage of at least $50,000 per person and $100,000 per incident for death and bodily injury and at least $25,000 for property damage. TNC insurance shall provide uninsured motorist coverage and underinsured motorist coverage as required by § 38.2-2206.
+			</section>
+			<section prefix="2">The requirements for the coverage required by this subsection may be satisfied by any of the following:
+				a. TNC insurance maintained by a TNC partner;
+				b. TNC insurance maintained by a transportation network company that provides coverage in the event that a TNC partner's insurance policy under subdivision a has ceased to exist or has been canceled or in the event that the TNC partner does not otherwise maintain TNC insurance; or
+				c. Any combination of subdivisions a and b.
+				A transportation network company may meet its obligations under this subsection through a policy obtained by a TNC partner pursuant to subdivision a or c only if the transportation network company verifies that the policy is maintained by the TNC partner and is specifically written to cover the TNC partner's use of a vehicle in connection with a transportation network company's digital platform.
+			</section>
+		</section>
+		<section prefix="D">In the event that the digital platform becomes inaccessible due to failure or malfunction while a TNC partner is en route to or transporting a passenger during a prearranged ride described in subsection B, TNC insurance coverage shall be presumed to be that required in subdivision B 1 until the passenger exits the vehicle.
+		</section>
+		<section prefix="E">In every instance where TNC insurance maintained by a TNC partner to fulfill the insurance obligations of this section has lapsed or ceased to exist, the transportation network company shall provide the coverage required by this section beginning with the first dollar of a claim.
+		</section>
+		<section prefix="F">This section shall not limit the liability of a transportation network company arising out of an accident involving a TNC partner in any action for damages against a transportation network company for an amount above the required insurance coverage.
+		</section>
+		<section prefix="G">Any person, or an attorney acting on his behalf, who suffers a loss in an automobile accident with a reasonable belief that the accident involves a TNC partner vehicle driven by a TNC partner in connection with a transportation network company and who provides the transportation network company with the date, approximate time, and location of the accident, and if available the name of the TNC partner and if available the accident report, may request in writing from the transportation network company information relating to the insurance coverage and the company providing the coverage. The transportation network company shall respond electronically or in writing within 30 days. The transportation network company's response shall contain the following information: (i) whether, at the approximate time of the accident, the TNC partner was logged into the transportation network company's digital platform and, if so logged in, whether a trip request had been accepted or a passenger was in the TNC partner vehicle; (ii) the name of the insurance carrier providing primary coverage; and (iii) the identity and last known address of the TNC partner.
+		</section>
+		<section prefix="H">No contract, receipt, rule, or regulation shall exempt any transportation network company from the liability that would exist had no contract been made or entered into, and no such contract, receipt, rule, or regulation for exemption from liability for injury or loss occasioned by the neglect or misconduct of such transportation network company shall be valid. The liability referred to in this subsection shall mean the liability imposed by law upon a transportation network company for any loss, damage, or injury to passengers in its custody and care as a transportation network company.
+		</section>
+		<section prefix="I">Any insurance required by this section may be placed with an insurer that has been admitted in Virginia or with an insurer providing surplus lines insurance as defined in § 38.2-4805.2.
+		</section>
+		<section prefix="J">Any insurance policy required by this section shall satisfy the financial responsibility requirement for a motor vehicle under § 46.2-706 during the period such vehicle is being operated as a TNC partner vehicle.
+		</section>
+		<section prefix="K">The Department shall not issue the certificate of fitness required under § 46.2-2099.45 to any transportation network company that has not certified to the Department that every TNC partner vehicle it has authorized to operate on its digital platform is covered by an insurance policy that meets the requirements of this section.
+		</section>
+		<section prefix="L">Each transportation network company shall keep on file with the Department proof of an insurance policy maintained by the transportation network company in accordance with this section. Such proof shall be in a form acceptable to the Commissioner. A record of the policy shall remain in the files of the Department six months after the certificate is revoked or suspended for any cause.
+		</section>
+		<section prefix="M">The Department may suspend a certificate if the certificate holder fails to comply with the requirements of this section. Any person whose certificate has been suspended pursuant to this subsection may request a hearing as provided in subsection D of § 46.2-2011.26.
+		</section>
+		<section prefix="N">In a claims coverage investigation, a transportation network company and its insurer shall cooperate with insurers involved in the claims coverage investigation to facilitate the exchange of information, including the dates and times of any accident involving a TNC partner and the precise times that the TNC partner logged in and was logged out of the transportation network company's digital platform.
+		</section>
+	</text>
+	<history>2015, cc. 2, 3; 2023, cc. 321, 322.</history>
+</law>

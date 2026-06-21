@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.7" level="1">Commercial Code — Warehouse Receipts, Bills of Lading and Other Documents of Title</unit>
+		<unit label="part" identifier="1" level="2">General</unit>
+	</structure>
+	<section_number>8.7-105.1</section_number>
+	<catch_line>Reissuance in alternative medium</catch_line>
+	<text>
+		<section prefix="1">Upon request of a person entitled under an electronic document, the issuer of the electronic document may issue a tangible document as a substitute for the electronic document if:
+			<section prefix="a">the person entitled under the electronic document surrenders control of the document to the issuer; and
+			</section>
+			<section prefix="b">the tangible document when issued contains a statement that it is issued in substitution for the electronic document.
+			</section>
+		</section>
+		<section prefix="2">Upon issuance of a tangible document in substitution for an electronic document in accordance with subsection (1):
+			<section prefix="a">the electronic document ceases to have any effect or validity; and
+			</section>
+			<section prefix="b">the person that procured issuance of the tangible document warrants to all subsequent persons entitled under the tangible document that the warrantor was a person entitled under the electronic document when the warrantor surrendered control of the electronic document to the issuer.
+			</section>
+		</section>
+		<section prefix="3">Upon request of a person entitled under a tangible document, the issuer of the tangible document may issue an electronic document as a substitute for the tangible document if:
+			<section prefix="a">the person entitled under the tangible document surrenders possession of the document to the issuer; and
+			</section>
+			<section prefix="b">the electronic document when issued contains a statement that it is issued in substitution for the tangible document.
+			</section>
+		</section>
+		<section prefix="4">Upon issuance of an electronic document in substitution for a tangible document in accordance with subsection (3):
+			<section prefix="a">the tangible document ceases to have any effect or validity; and
+			</section>
+			<section prefix="b">the person that procured issuance of the electronic document warrants to all subsequent persons entitled under the electronic document that the warrantor was a person entitled under the tangible document when the warrantor surrendered possession of the tangible document to the issuer.
+			</section>
+		</section>
+	</text>
+	<history>2004, c. 200.</history>
+</law>

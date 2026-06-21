@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="13" level="3">Credit Unions</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>6.2-1302.1</section_number>
+	<catch_line>Virtual currency custody services</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Custody services" means the role of a credit union in the safekeeping and custody of various customer assets.
+			"Virtual currency" has the same meaning as provided in § 6.2-818.1.
+		</section>
+		<section prefix="B">A credit union may provide its customers with virtual currency custody services so long as the credit union has adequate protocols in place to effectively manage risks and comply with applicable laws and, prior to offering virtual currency custody services, the credit union has carefully examined the risks in offering such services through a methodical self-assessment process. If a credit union engages in virtual currency custody services, the credit union shall:
+			<section prefix="1">Implement effective risk management systems and controls to measure, monitor, and control relevant risks associated with custody of digital assets such as virtual currency;
+			</section>
+			<section prefix="2">Confirm that it has adequate insurance coverage for such services; and
+			</section>
+			<section prefix="3">Maintain a service provider oversight program, to the extent that the credit union engages with a service provider to provide virtual currency custody services, to address risks to service provider relationships as a result of engaging in virtual currency custody services.
+			</section>
+		</section>
+		<section prefix="C">A credit union may provide virtual currency custody services in a fiduciary or nonfiduciary capacity. In providing such services in a nonfiduciary capacity, the credit union shall act as a bailee, taking possession of the customer's asset for safekeeping while legal title remains with the customer, such that the customer retains direct control over the keys associated with his virtual currency. To provide such services in a fiduciary capacity, the credit union shall obtain approval from the Commission as required by subsection D. In providing virtual currency custody services in a fiduciary capacity, the credit union shall receive control of the customer's virtual currency, and new private keys shall be created to be held by the credit union. If approved by the Commission to provide virtual currency custody services in a fiduciary capacity, a credit union shall have authority to manage virtual currency assets as it would any other type of asset held in such capacity.
+		</section>
+		<section prefix="D">No credit union shall provide virtual currency custody services in a fiduciary capacity without first obtaining authorization to do so from the Commission. The Commission shall not grant such authority until it finds that the credit union has satisfied the following requirements:
+			<section prefix="1">The credit union's capital structure is sufficiently strong to support the undertaking to provide virtual currency custody services;
+			</section>
+			<section prefix="2">The personnel who will direct the proposed virtual currency custody services have adequate experience, training, and sufficient resources to ensure compliance with laws and regulations and to protect the operations of the credit union; and
+			</section>
+			<section prefix="3">Granting such authority to the credit union is in the public interest.
+			</section>
+		</section>
+		<section prefix="E">The Commission may impose conditions on the authority granted to any credit union pursuant to subsection D and may suspend or revoke such authority if it finds that the credit union has failed to comply with any laws or regulations applicable to virtual currency custody services or any existing conditions imposed by the Commission or if the services are otherwise being provided in an unsafe or unsound manner.
+		</section>
+	</text>
+	<history>2023, c. 303.</history>
+</law>

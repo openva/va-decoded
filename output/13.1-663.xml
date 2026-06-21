@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Shareholders</unit>
+	</structure>
+	<section_number>13.1-663</section_number>
+	<catch_line>Proxies</catch_line>
+	<text>
+		<section prefix="A">A shareholder may vote the shareholder's shares in person or by proxy.
+		</section>
+		<section prefix="B">A shareholder, or the shareholder's agent or attorney-in-fact, may appoint a proxy to vote or otherwise act for the shareholder by signing an appointment form or by an electronic transmission. An electronic transmission shall contain or be accompanied by information from which the recipient can determine the date of the transmission and that the transmission was authorized by the sender or the sender's agent or attorney-in-fact.
+		</section>
+		<section prefix="C">An appointment of a proxy is effective when a signed appointment form or an electronic transmission of the appointment is received by the inspectors of election or the officer or agent of the corporation authorized to count votes. An appointment is valid for the term provided in the appointment form and, if no term is provided, is valid for 11 months unless the appointment is irrevocable under subsection D.
+		</section>
+		<section prefix="D">An appointment of a proxy is revocable unless the appointment form or electronic transmission states that it is irrevocable and the appointment is coupled with an interest. Appointments coupled with an interest include the appointment of:
+			<section prefix="1">A pledgee;
+			</section>
+			<section prefix="2">A person who purchased or agreed to purchase the shares;
+			</section>
+			<section prefix="3">A creditor of the corporation who extended it credit under terms requiring the appointment;
+			</section>
+			<section prefix="4">An employee of the corporation whose employment contract requires the appointment; or
+			</section>
+			<section prefix="5">A party to a voting agreement created under § 13.1-671.
+			</section>
+		</section>
+		<section prefix="E">The death or incapacity of the shareholder appointing a proxy does not affect the right of the corporation to accept the proxy's authority unless notice of the death or incapacity is received by the corporation's secretary or other officer or agent authorized to count votes before the proxy exercises authority under the appointment.
+		</section>
+		<section prefix="F">An appointment made irrevocable under subsection D is revoked when the interest with which it is coupled is extinguished.
+		</section>
+		<section prefix="G">Unless it otherwise provides, an appointment made irrevocable under subsection D continues in effect after a transfer of the shares and a transferee takes subject to the appointment, except that a transferee for value of shares subject to an irrevocable appointment may revoke the appointment if the transferee did not know of its existence when acquiring the shares and the existence of the irrevocable appointment was not noted conspicuously on the certificate representing the shares or on the information statement for shares without certificates.
+		</section>
+		<section prefix="H">Subject to § 13.1-665 and to any express limitation on the proxy's authority stated in the appointment form or electronic transmission, a corporation is entitled to accept the proxy's vote or other action as that of the shareholder making the appointment.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-193 to 13-198, 13-203, 13.1-32; 1956, c. 428; 1958, c. 564; 1975, c. 500; 1984, c. 366; 1985, c. 522; 1991, c. 405; 2005, c. 765; 2010, c. 782; 2019, c. 734.</history>
+</law>

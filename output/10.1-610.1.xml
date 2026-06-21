@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="6" level="3">Flood Protection and Dam Safety</unit>
+		<unit label="article" identifier="2" level="4">Dam Safety Act</unit>
+	</structure>
+	<section_number>10.1-610.1</section_number>
+	<catch_line>Monitoring progress of work</catch_line>
+	<text>
+		<section prefix="A">During the maintenance, construction, or alteration of any dam or reservoir, the Department shall make periodic inspections for the purpose of securing conformity with the approved plans and specifications. The Department shall require the owner to perform at his expense such work or tests as necessary to obtain information sufficient to enable the Department to determine whether conformity with the approved plans and specifications is being secured.
+		</section>
+		<section prefix="B">If, after any inspections, investigations, or examinations, or at any time as the work progresses, or at any time prior to issuance of a certificate of approval, it is found by the Director that project modifications or changes are necessary to ensure conformity with the approved plans and specifications, the Director may issue an administrative order to the owner to comply with the plans and specifications. Within 15 calendar days after being served by personal service or by mail with a copy of an order issued pursuant to this section, any owner shall have the right to petition the Board for a hearing. A timely filed petition shall stay the effect of the administrative order. The hearing shall be conducted before the Board or a designated member of the Board pursuant to § 2.2-4019. The Board shall have the authority to affirm, modify, amend, or cancel the administrative order. Any owner aggrieved by a decision of the Board after a hearing shall have the right to judicial review of the final Board decision pursuant to the provisions of the Administrative Process Act (§ 2.2-4000 et seq.).
+		</section>
+		<section prefix="C">Following the Board hearing, subject to judicial review of the final decision of the Board, if conditions are revealed that will not permit the construction of a safe dam or reservoir, the certificate of approval may be revoked. As part of the revocation, the Board may compel the owner to remove the incomplete structure sufficiently to eliminate any safety hazard to life or property.
+		</section>
+	</text>
+	<history>2006, c. 30.</history>
+</law>

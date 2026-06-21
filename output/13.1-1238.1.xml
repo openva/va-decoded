@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="8" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-1238.1</section_number>
+	<catch_line>Automatic cancellation of business trust existence</catch_line>
+	<text>
+		<section prefix="A">Whether or not the notice described in subsection B of § 13.1-1254 is mailed, if any business trust fails to pay its annual registration fee on or before December 31 of the year assessed, its existence shall be automatically canceled as of that day.
+		</section>
+		<section prefix="B">If any business trust whose registered agent has filed with the Commission a statement of resignation pursuant to § 13.1-1222 fails to file a statement of change pursuant to § 13.1-1221 within 31 days after the date on which the statement of resignation was filed, the Commission shall mail notice to the business trust of impending cancellation of its existence. If the business trust fails to file the statement of change before the last day of the second month immediately following the month in which the impending cancellation notice was mailed, the existence of the business trust shall be automatically canceled as of that day.
+		</section>
+		<section prefix="C">The properties and affairs of a business trust whose existence has been canceled pursuant to this section shall pass automatically to its trustees as trustees in liquidation. The trustees shall then proceed to (i) collect the assets of the business trust; (ii) sell, convey, and dispose of such of its properties as are not to be distributed in kind to its beneficial owners; (iii) pay, satisfy, and discharge its liabilities and obligations; and (iv) do all other acts required to liquidate its business and affairs. After paying or adequately providing for the payment of all its obligations, the liquidating trustees shall distribute the remainder of its assets, either in cash or in kind, among its beneficial owners according to their respective rights and interests.
+		</section>
+		<section prefix="D">No beneficial owner, trustee, or other agent of a business trust shall have any personal obligation for any liabilities of the business trust, whether such liabilities arise in contract, tort, or otherwise, solely by reason of the cancellation of the business trust's existence pursuant to this section.
+		</section>
+	</text>
+	<history>2008, c. 101; 2013, c. 25.</history>
+</law>

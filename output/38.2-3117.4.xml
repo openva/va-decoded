@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="1.1" level="3">Use of Retained Asset Accounts</unit>
+	</structure>
+	<section_number>38.2-3117.4</section_number>
+	<catch_line>Disclosures for retained asset accounts to beneficiaries</catch_line>
+	<text>
+		The insurer shall provide the following written disclosures to the beneficiary of a policy before the retained asset account is selected, if optional, or established, if not optional:
+		<section prefix="1">Payment of the full benefit amount is accomplished by delivery of the draft book or check book;
+		</section>
+		<section prefix="2">One draft or check may be written to access the entire amount, including interest, of the retained asset account at any time;
+		</section>
+		<section prefix="3">Whether other available settlement options are preserved until the entire balance is withdrawn or the balance drops below the insurer's minimum balance requirements;
+		</section>
+		<section prefix="4">A statement identifying the account as either a checking account or a draft account and an explanation of how the account works;
+		</section>
+		<section prefix="5">Information about the account services provided and contact information where the beneficiary may request and obtain more details about such services;
+		</section>
+		<section prefix="6">A description of fees charged, if applicable;
+		</section>
+		<section prefix="7">The frequency of statements showing the current account balance, the interest credited, drafts or checks written, and any other account activity;
+		</section>
+		<section prefix="8">The minimum interest rate to be credited to the account and how the actual interest rate will be determined;
+		</section>
+		<section prefix="9">The interest earned on the account may be taxable;
+		</section>
+		<section prefix="10">Retained asset account funds held by insurance companies are not insured by the Federal Deposit Insurance Corporation but are guaranteed by the state guaranty association. The beneficiary should be advised to contact the National Organization of Life and Health Insurance Guaranty Associations via the association's website to learn more about the coverage limitations to the account under a state guaranty association; and
+		</section>
+		<section prefix="11">A description of the insurer's policy regarding retained asset accounts that become inactive.
+		</section>
+	</text>
+	<history>2011, cc. 194, 227.</history>
+</law>

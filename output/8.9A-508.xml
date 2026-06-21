@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="5" level="2">Filing</unit>
+		<unit label="subpart" identifier="1" level="3">Filing Office, Contents and Effectiveness of Financing Statement</unit>
+	</structure>
+	<section_number>8.9A-508</section_number>
+	<catch_line>Effectiveness of financing statement if new debtor becomes bound by security agreement</catch_line>
+	<text>
+		<section prefix="a">Financing statement naming original debtor. Except as otherwise provided in this section, a filed financing statement naming an original debtor is effective to perfect a security interest in collateral in which a new debtor has or acquires rights to the extent that the financing statement would have been effective had the original debtor acquired rights in the collateral.
+		</section>
+		<section prefix="b">Financing statement becoming seriously misleading. If the difference between the name of the original debtor and that of the new debtor causes a filed financing statement that is effective under subsection (a) to be seriously misleading under § 8.9A-506:
+			<section prefix="1">the financing statement is effective to perfect a security interest in collateral acquired by the new debtor before, and within four months after, the new debtor becomes bound under § 8.9A-203 (d); and
+			</section>
+			<section prefix="2">the financing statement is not effective to perfect a security interest in collateral acquired by the new debtor more than four months after the new debtor becomes bound under § 8.9A-203 (d) unless an initial financing statement providing the name of the new debtor is filed before the expiration of that time.
+			</section>
+		</section>
+		<section prefix="c">When section not applicable. This section does not apply to collateral as to which a filed financing statement remains effective against the new debtor under § 8.9A-507 (a).
+		</section>
+	</text>
+	<history>2000, c. 1007.</history>
+</law>

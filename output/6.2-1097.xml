@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="10" level="3">Entities Conducting Trust Business</unit>
+		<unit label="article" identifier="6" level="4">Trust Powers of Savings Institutions</unit>
+	</structure>
+	<section_number>6.2-1097</section_number>
+	<catch_line>Effect on trust accounts of appointment of receiver for association or of voluntary dissolution of association</catch_line>
+	<text>
+		<section prefix="A">If a receiver is appointed for an association, the receiver shall, pursuant to the orders of the Commission and of any court having jurisdiction, proceed to close such of the association's trust accounts as can be closed promptly and shall promptly transfer all other such accounts to substitute fiduciaries.
+		</section>
+		<section prefix="B">If an association exercising trust powers commences a voluntary dissolution, the liquidating agent shall proceed at once to liquidate the affairs of the trust department as follows:
+			<section prefix="1">All trusts and estates over which a court is exercising jurisdiction shall be closed or disposed of as soon as practicable in accordance with the orders or instructions of such court;
+			</section>
+			<section prefix="2">All other trust accounts which can be closed promptly shall be closed as soon as practicable and final accountings made therefor; and
+			</section>
+			<section prefix="3">All remaining trust accounts shall be transferred by appropriate legal proceedings to substitute fiduciaries.
+			</section>
+		</section>
+	</text>
+	<history>1984, c. 303, § 6.1-195.94; 2010, c. 794.</history>
+</law>

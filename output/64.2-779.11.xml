@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.1" level="4">Uniform Trust Decanting Act</unit>
+	</structure>
+	<section_number>64.2-779.11</section_number>
+	<catch_line>Protection of charitable interest</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Determinable charitable interest" means a charitable interest that is a right to a mandatory distribution currently, periodically, on the occurrence of a specified event, or after the passage of a specified time and that is unconditional or will be held solely for charitable purposes.
+			"Unconditional" means not subject to the occurrence of a specified event that is not certain to occur, other than a requirement in a trust instrument that a charitable organization be in existence or qualify under a particular provision of the United States Internal Revenue Code of 1986 on the date of the distribution, if the charitable organization meets the requirement on the date of determination.
+		</section>
+		<section prefix="B">If a first trust contains a determinable charitable interest, the Attorney General has the rights of a qualified beneficiary and may represent and bind the charitable interest.
+		</section>
+		<section prefix="C">If a first trust contains a charitable interest, the second trust or trusts may not:
+			<section prefix="1">Diminish the charitable interest;
+			</section>
+			<section prefix="2">Diminish the interest of an identified charitable organization that holds the charitable interest;
+			</section>
+			<section prefix="3">Alter any charitable purpose stated in the first-trust instrument; or
+			</section>
+			<section prefix="4">Alter any condition or restriction related to the charitable interest.
+			</section>
+		</section>
+		<section prefix="D">If there are two or more second trusts, the second trusts shall be treated as one trust for purposes of determining whether the exercise of the decanting power diminishes the charitable interest or diminishes the interest of an identified charitable organization for purposes of subsection C.
+		</section>
+		<section prefix="E">If a first trust contains a determinable charitable interest, the second trust or trusts that include a charitable interest pursuant to subsection C must be administered under the law of the Commonwealth unless:
+			<section prefix="1">The Attorney General, after receiving notice under § 64.2-779.5, fails to object in a signed record delivered to the authorized fiduciary within the notice period;
+			</section>
+			<section prefix="2">The Attorney General consents in a signed record to the second trust or trusts being administered under the law of another jurisdiction; or
+			</section>
+			<section prefix="3">The court approves the exercise of the decanting power.
+			</section>
+		</section>
+		<section prefix="F">This article does not limit the powers and duties of the Attorney General under law of the Commonwealth other than this article.
+		</section>
+	</text>
+	<history>2017, c. 592.</history>
+</law>

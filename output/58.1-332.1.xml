@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="3" level="4">Tax Credits for Individuals</unit>
+	</structure>
+	<section_number>58.1-332.1</section_number>
+	<catch_line>Credit for taxes paid to a foreign country on retirement income</catch_line>
+	<text>
+		<section prefix="A">Whenever a Virginia resident has become liable to a foreign country for income tax paid on any pension or retirement income to the extent that such income is included in federal adjusted gross income for the taxable year, derived from foreign sources as a result of past employment in a foreign country and subject to taxation under this chapter, the amount of such tax payable by him shall, upon proof of such payment, be credited on the taxpayer's return with the income tax so paid to the foreign country. The credit allowable under this section shall not exceed: (i) such proportion of the income tax otherwise payable by him under this chapter as his income upon which the tax imposed by the foreign country was computed bears to his Virginia taxable income upon which the tax imposed by this Commonwealth was computed or (ii) the income tax otherwise payable under this chapter, in the event that the income upon which the tax imposed by the foreign country is computed is less than the Virginia taxable income upon which the tax imposed by this Commonwealth is computed.
+		</section>
+		<section prefix="B">For purposes of determining this credit, the foreign currency must be translated into United States dollars using the prevailing rate of exchange which most nearly reflects the value of the foreign currency at the time the taxes were actually paid to the foreign country.
+		</section>
+		<section prefix="C">As used in this section, a foreign country shall include all possessions of the United States. Any foreign country which does not qualify for the federal foreign tax credit under § 901(j) of the Internal Revenue Code will also be disqualified for the credit allowed under this section.
+		</section>
+	</text>
+	<history>1998, c. 292.</history>
+</law>

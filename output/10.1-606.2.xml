@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="6" level="3">Flood Protection and Dam Safety</unit>
+		<unit label="article" identifier="2" level="4">Dam Safety Act</unit>
+	</structure>
+	<section_number>10.1-606.2</section_number>
+	<catch_line>Mapping of dam break inundation zones</catch_line>
+	<text>
+		<section prefix="A">An owner of an impounding structure shall prepare a map of the dam break inundation zone or provide the limits of the dam break inundation zone in an acceptable electronic format for the impounding structure in accordance with criteria set out in the Virginia Impounding Structure Regulations (4VAC50-20). Existing maps prepared by the locality in accordance with these regulations may be used for this purpose.
+		</section>
+		<section prefix="B">All maps or limits of the inundation zone prepared in accordance with subsection A shall be filed with the Department, the local emergency management coordinator as designated by the locality, and the offices with plat and plan approval authority or zoning responsibilities as designated by the locality for each locality in which the dam break inundation zone resides.
+		</section>
+		<section prefix="C">Owners of impounding structures may be eligible for matching grants from the Dam Safety, Flood Prevention and Protection Assistance Fund and other sources of funding available to the Director to assist in the development of dam break inundation zone maps and for conducting incremental damage assessments in accordance with the Virginia Impounding Structure Regulations.
+		</section>
+		<section prefix="D">All properties identified within the dam break inundation zone shall be incorporated by the owner into the dam safety emergency action plan of that impounding structure so as to ensure the proper notification of persons downstream and other affected persons or property owners in the event of an emergency condition at the impounding structure.
+		</section>
+	</text>
+	<history>2008, c. 491; 2025, cc. 228, 241.</history>
+</law>

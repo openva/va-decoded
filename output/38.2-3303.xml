@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="1" level="3">Life Insurance Policies; Annuities</unit>
+	</structure>
+	<section_number>38.2-3303</section_number>
+	<catch_line>Grace period</catch_line>
+	<text>
+		<section prefix="A">Each individual life insurance policy shall contain a provision that the insured is entitled to a grace period of not less than thirty-one days within which the payment of any premium after the first premium may be made, subject at the insurer's option to an interest charge that is not to exceed six percent per year for the number of days of grace elapsing before the payment of the premium.
+		</section>
+		<section prefix="B">The provision shall also state that during the grace period the policy shall continue in full force, but if a claim arises under the policy during the grace period before the overdue premium or any overdue premium installment is paid, the amount of any earned overdue premium or installment through the policy month of death with interest may be deducted from any amount payable under the policy in settlement. The grace period shall start on the premium payment due date.
+		</section>
+	</text>
+	<history>Code 1950, § 38-371(2); 1950, p. 179; 1952, c. 317, § 38.1-392; 1986, c. 562.</history>
+</law>

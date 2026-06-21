@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="9" level="2">School Property</unit>
+		<unit label="article" identifier="4" level="3">Indoor Air Quality; Inspection and Evaluation</unit>
+	</structure>
+	<section_number>22.1-141.5</section_number>
+	<catch_line>Industry-recognized uniform inspection and evaluation</catch_line>
+	<text>
+		<section prefix="A">At least once every four years, each local school division shall provide for an industry-recognized uniform inspection and evaluation of the heating, ventilation, and air conditioning system in each public school building in the local school division. Such inspection and evaluation shall be performed by a certified testing, adjusting, and balancing technician, an industrial hygienist certified by the American Board of Industrial Hygiene, a technician with a Master HVAC License from the Department of Professional and Occupational Regulation, or a mechanical engineer. Such heating, ventilation, and air conditioning systems inspection and evaluation shall include:
+			<section prefix="1">Testing for maximum filter efficiency;
+			</section>
+			<section prefix="2">Physical measurements of outside air delivery rate;
+			</section>
+			<section prefix="3">Verification of the appropriate condition and operation of ventilation components;
+			</section>
+			<section prefix="4">Measurement of air distribution system outside air, return air, and supply air and static pressure readings across all air handling unit components, including filters, coils, and fans;
+			</section>
+			<section prefix="5">Verification of unit operation and that required maintenance has been performed in accordance with the most recent indoor ventilation standards promulgated by the American Society of Heating, Refrigerating and Air-Conditioning Engineers;
+			</section>
+			<section prefix="6">Verification of carbon dioxide sensors and acceptable carbon dioxide concentrations indoors; and
+			</section>
+			<section prefix="7">Collection of field data for the installation of mechanical ventilation if none exists.
+			</section>
+		</section>
+		<section prefix="B">The portion of the uniform inspection and evaluation required pursuant to subsection A that relates to the ventilation system shall identify the extent to which each school's current ventilation system components, including any existing central or noncentral mechanical ventilation system, are operating in such a manner as to provide appropriate ventilation to the school building in accordance with the most recent indoor ventilation standards promulgated by the American Society of Heating, Refrigerating and Air-Conditioning Engineers.
+		</section>
+		<section prefix="C">Each local school division shall prepare a written report of the results of the uniform inspection and evaluation required pursuant to subsection A that includes any corrective actions necessary to be performed on the mechanical ventilation system or the heating, ventilation, and air conditioning infrastructure, including installation of filters meeting the most optimal level of filtration available for a given heating, ventilation, and air conditioning system, installation of carbon dioxide sensors, and additional maintenance, repairs, upgrades, or replacement. Each local school division shall make such report available for public inspection at a regularly scheduled local school board meeting and on the local school board's public website.
+		</section>
+		<section prefix="D">No local school division is required to provide for a uniform inspection and evaluation pursuant to subsection A for any school building that will cease to be used as a school within one year of such a planned inspection and evaluation.
+		</section>
+	</text>
+	<history>2025, cc. 632, 668.</history>
+</law>

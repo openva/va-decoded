@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="24" level="3">Space Flight Liability and Immunity Act</unit>
+	</structure>
+	<section_number>8.01-227.10</section_number>
+	<catch_line>Warning required</catch_line>
+	<text>
+		<section prefix="A">Every space flight entity providing space flight activities to a participant shall have each participant sign the warning statement specified in subsection B.
+		</section>
+		<section prefix="B">The warning statement described in subsection A shall contain, at a minimum and in addition to any language required by federal law, the following statement:
+			"WARNING AND ACKNOWLEDGEMENT: I understand and acknowledge that, under Virginia law, there is no civil liability for bodily injury, including death, emotional injury, or property damage sustained by a participant in space flight activities provided by a space flight entity if such injury or damage results from the risks of the space flight activity. I have given my informed consent to participate in space flight activities after receiving a description of the risks of space flight activities as required by federal law pursuant to 49 U.S.C. § 70105 and 14 C.F.R. § 460.45. The consent that I have given acknowledges that the risks of space flight activities include, but are not limited to, risks of bodily injury, including death, emotional injury, and property damage. I understand and acknowledge that I am participating in space flight activities at my own risk. I have been given the opportunity to consult with an attorney before signing this statement."
+		</section>
+		<section prefix="C">Failure to comply with the requirements concerning the warning statement provided in this section shall prevent a space flight entity from invoking the privileges of immunity provided by this article.
+		</section>
+	</text>
+	<history>2007, c. 893.</history>
+</law>

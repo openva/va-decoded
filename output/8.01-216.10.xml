@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="19.1" level="3">Virginia Fraud Against Taxpayers Act</unit>
+	</structure>
+	<section_number>8.01-216.10</section_number>
+	<catch_line>Civil investigative demands; issuance; sharing information</catch_line>
+	<text>
+		<section prefix="A">Whenever the Attorney General or his designee has reason to believe that any person may be in possession, custody, or control of any documentary material or information relevant to a false claims law investigation, the Attorney General or his designee may, before commencing a civil proceeding or making an election under this article, issue in writing and cause to be served upon such person, a civil investigative demand requiring such person (i) to produce such documentary material for inspection and copying, (ii) to answer in writing written interrogatories with respect to such documentary material or information, (iii) to give oral testimony concerning such documentary material or information, or (iv) to furnish any combination of such material, answers, or testimony.
+		</section>
+		<section prefix="B">Whenever a civil investigative demand is an express demand for any product of discovery, the Attorney General shall cause to be served, in any manner authorized by this article, a copy of such demand upon the person from whom the discovery was obtained and shall notify the person to whom such demand is issued of the date on which such copy was served.
+		</section>
+		<section prefix="C">Any information obtained by the Attorney General or his designee pursuant to this section may be shared with any qui tam relator and any state or federal governmental entity if the Attorney General or his designee determines that such information is necessary as part of any false claims investigation.
+		</section>
+	</text>
+	<history>2002, c. 842; 2011, c. 676; 2012, c. 479.</history>
+</law>

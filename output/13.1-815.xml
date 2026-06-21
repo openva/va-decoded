@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="2" level="3">Fees</unit>
+	</structure>
+	<section_number>13.1-815</section_number>
+	<catch_line>Fees to be collected by Commission; payment of fees prerequisite to Commission action; exceptions</catch_line>
+	<text>
+		<section prefix="A">The Commission shall assess the registration fees and shall charge and collect the filing fees, charter fees and entrance fees imposed by law. The Commission shall have authority to certify to the Comptroller directing refund of any overpayment of a fee, or of any fee collected for a document that is not accepted for filing, at any time within one year from the date of its payment. When the Commission receives payment of an annual registration fee assessed against a domestic or foreign corporation, such payment shall be applied against any unpaid annual registration fees previously assessed against such corporation, including any penalties incurred thereon, beginning with the assessment or penalty that has remained unpaid for the longest period of time.
+		</section>
+		<section prefix="B">The Commission shall not file or issue with respect to any domestic or foreign corporation any document or certificate specified in this chapter, except the annual report required by § 13.1-936, a statement of change pursuant to § 13.1-834 or 13.1-926, and a statement of resignation pursuant to § 13.1-835 or 13.1-927, until all fees, charges, fines, penalties, and interest assessed, imposed, charged, or to be collected by the Commission pursuant to this chapter or Title 12.1 have been paid by or on behalf of such corporation. Notwithstanding the foregoing, the Commission may file or issue any document or certificate with respect to a domestic or foreign corporation that has been assessed an annual registration fee if the document or certificate is filed or issued with an effective date that is on or before the due date of the corporation's annual registration payment in any year, provided that the Commission shall not issue a certificate of domestication with respect to a foreign corporation or a certificate of entity conversion with respect to a domestic corporation that will become a domestic eligible entity until the annual registration fee has been paid by or on behalf of that corporation.
+		</section>
+		<section prefix="C">A domestic or foreign corporation shall not be required to pay the annual registration fee assessed against it pursuant to subsection B of § 13.1-936.1 in any year if (i) the Commission issues or files any of the following types of certificate or instrument and (ii) the certificate or instrument is effective on or before the annual registration fee due date:
+			<section prefix="1">A certificate of termination of corporate existence or a certificate of incorporation surrender for a domestic corporation;
+			</section>
+			<section prefix="2">A certificate of withdrawal for a foreign corporation;
+			</section>
+			<section prefix="3">A certificate of merger or an authenticated copy of an instrument of merger for a domestic or foreign corporation that has merged into a surviving domestic corporation or eligible entity, or into a surviving foreign corporation or eligible entity; or
+			</section>
+			<section prefix="4">An authenticated copy of an instrument of entity conversion for a foreign corporation that has converted to a different entity type.
+				The Commission shall cancel the annual registration fee assessments specified in this subsection that remain unpaid.
+			</section>
+		</section>
+		<section prefix="D">Annual registration fee assessments that have been paid shall not be refunded.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-284; 1956, c. 428; 1985, c. 522; 1988, c. 405; 1989, c. 152; 1997, c. 216; 2003, c. 374; 2006, c. 659; 2007, cc. 810, 925; 2009, c. 216; 2010, c. 753; 2015, c. 623; 2021, Sp. Sess. I, c. 487.</history>
+</law>

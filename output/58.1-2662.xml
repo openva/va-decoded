@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="26" level="3">Taxation of Public Service Corporations</unit>
+		<unit label="article" identifier="6" level="4">Regulatory Revenue Taxes of Public Service Corporations</unit>
+	</structure>
+	<section_number>58.1-2662</section_number>
+	<catch_line>Computation of revenue tax on railroads</catch_line>
+	<text>
+		The special regulatory revenue tax levied pursuant to § 58.1-2660 shall be based upon the gross transportation receipts of each railroad for the year ending December 31 preceding, to be ascertained in the following manner:
+		<section prefix="1">When the road of the corporation lies wholly within the Commonwealth, the tax shall be based upon the entire gross transportation receipts of such corporation.
+		</section>
+		<section prefix="2">When the road of the corporation lies partly within and partly without the Commonwealth, or is operated as a part of a line or system extending beyond the Commonwealth, the tax shall be based upon the gross transportation receipts earned within the Commonwealth, to be determined by ascertaining the average gross transportation receipts per mile over its whole extent within and without the Commonwealth and multiplying the result by the number of miles operated within the Commonwealth. From the sum so ascertained there may be deducted a reasonable sum due to any excess of value of the terminal facilities or other similar advantages situated in other states over similar facilities or advantages situated in the Commonwealth.
+		</section>
+	</text>
+	<history>Code 1950, § 58-664; 1970, c. 773; 1979, c. 443; 1980, c. 282; 1982, c. 62; 1983, c. 547; 1984, c. 675.</history>
+</law>

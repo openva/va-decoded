@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="8" level="3">Remedies</unit>
+	</structure>
+	<section_number>59.1-508.10</section_number>
+	<catch_line>Recoupment</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in subsection (b), an aggrieved party, upon notifying the party in breach of contract of its intention to do so, may deduct all or any part of the damages resulting from the breach from any payments still due under the same contract.
+		</section>
+		<section prefix="b">If a breach of contract is not material with reference to the particular performance, an aggrieved party may exercise its rights under subsection (a) only if the agreement does not require further affirmative performance by the other party and the amount of damages deducted can be readily liquidated under the agreement.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

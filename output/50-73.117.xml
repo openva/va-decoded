@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="8" level="3">Winding up Partnership Business</unit>
+	</structure>
+	<section_number>50-73.117</section_number>
+	<catch_line>Events causing dissolution and winding up of partnership business</catch_line>
+	<text>
+		A partnership is dissolved, and its business shall be wound up, only upon the occurrence of any of the following events:
+		<section prefix="1">In a partnership at will, the partnership's having notice from a partner, other than a partner who is dissociated under subdivisions 2 through 12 of § 50-73.109, of that partner's express will to withdraw as a partner, on a later date specified by the partner in the notice or, if no later date is specified, the date of notice;
+		</section>
+		<section prefix="2">In a partnership for a definite term or particular undertaking:
+			a. Within 90 days after a partner's dissociation by death or otherwise under subdivisions 6 through 12 of § 50-73.109 or wrongful dissociation under subsection B of § 50-73.110, the express will of at least one half of the remaining partners to wind up the partnership's business, for which purpose a partner's rightful dissociation pursuant to subdivision B 2 a of § 50-73.110 constitutes the expression of that partner's will to wind up the partnership business;
+			b. The express will of all of the partners to wind up the partnership business; or
+			c. The expiration of the term or the completion of the undertaking;
+		</section>
+		<section prefix="3">An event agreed to in the partnership agreement resulting in the winding up of the partnership business;
+		</section>
+		<section prefix="4">An event that makes it unlawful for all or substantially all of the business of the partnership to be continued, but a cure of illegality within 90 days after notice to the partnership of the event is effective retroactively to the date of the event for purposes of this section;
+		</section>
+		<section prefix="5">On application by a partner, a judicial determination that:
+			a. The economic purpose of the partnership is likely to be unreasonably frustrated;
+			b. Another partner has engaged in conduct relating to the partnership business which makes it not reasonably practicable to carry on the business in partnership with that partner; or
+			c. It is not otherwise reasonably practicable to carry on the partnership business in conformity with the partnership agreement; or
+		</section>
+		<section prefix="6">On application by a transferee of a partner's transferable interest, a judicial determination that it is equitable to wind up the partnership business:
+			a. After the expiration of the term or completion of the undertaking, if the partnership was for a definite term or particular undertaking at the time of the transfer or entry of the charging order that gave rise to the transfer; or
+			b. At any time, if the partnership was a partnership at will at the time of the transfer or entry of the charging order that gave rise to the transfer.
+		</section>
+	</text>
+	<history>1996, c. 292; 2006, c. 912.</history>
+</law>

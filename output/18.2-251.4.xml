@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="7" level="2">Crimes Involving Health and Safety</unit>
+		<unit label="article" identifier="1" level="3">Drugs</unit>
+	</structure>
+	<section_number>18.2-251.4</section_number>
+	<catch_line>Defeating drug and alcohol screening tests; penalty</catch_line>
+	<text>
+		<section prefix="A">It is unlawful for a person to:
+			<section prefix="1">Sell, give away, distribute, transport or market human urine in the Commonwealth with the intent of using the urine to defeat a drug or alcohol screening test;
+			</section>
+			<section prefix="2">Attempt to defeat a drug or alcohol screening test by the substitution of a sample;
+			</section>
+			<section prefix="3">Adulterate a urine or other bodily fluid sample with the intent to defraud a drug or alcohol screening test.
+			</section>
+		</section>
+		<section prefix="B">A violation of this section is a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>2001, c. 379.</history>
+</law>

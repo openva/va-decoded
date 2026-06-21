@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="2" level="2">Parties</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>8.01-6.3</section_number>
+	<catch_line>Actions or suits against fiduciaries; style of the case; amendment of pleading</catch_line>
+	<text>
+		<section prefix="A">In any action or suit required to be prosecuted or defended by or in the name of a fiduciary, including a personal representative, trustee, conservator, or guardian, the style of the case in regard to the fiduciary shall be substantially in the following form: "(Name of fiduciary), (type of fiduciary relationship), (Name of the subject of the fiduciary relationship)."
+		</section>
+		<section prefix="B">Any pleading filed that does not conform to the requirements of subsection A but otherwise identifies the proper parties shall be amended on the motion of any party or by the court on its own motion. Such amendment relates back to the date of the original pleading.
+		</section>
+	</text>
+	<history>2010, c. 437.</history>
+</law>

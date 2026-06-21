@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="7" level="2">Crimes Involving Health and Safety</unit>
+		<unit label="article" identifier="1.2" level="3">Sale of Ephedrine or Related Compounds</unit>
+	</structure>
+	<section_number>18.2-265.8</section_number>
+	<catch_line>Real-time electronic recording of sales of ephedrine or related compounds; memorandum of understanding</catch_line>
+	<text>
+		<section prefix="A">The Department shall enter into a memorandum of understanding with an appropriate entity to establish the Commonwealth's participation in a real-time electronic recordkeeping and monitoring system for the sale of ephedrine or related compounds. The memorandum of understanding shall include the following:
+			<section prefix="1">A real-time electronic recordkeeping and monitoring system shall be provided at no charge to the Commonwealth or to participating pharmacies and retail distributors and shall be approved by the Department.
+			</section>
+			<section prefix="2">The system shall provide, at no charge to participating pharmacies and retail distributors, appropriate training, 24-hour online support, and a toll-free telephone help line that is staffed 24 hours a day.
+			</section>
+			<section prefix="3">The system shall be able to communicate in real time with similar systems operated in other states and the District of Columbia and similar systems containing information submitted by more than one state.
+			</section>
+			<section prefix="4">The system shall comply with information exchange standards adopted by the National Information Exchange Model.
+			</section>
+			<section prefix="5">The system shall include a stop sales alert, which shall be a notification that completion of the sale would result in the seller or purchaser violating the quantity limits set forth in § 18.2-265.7, with an override function that may be used by a pharmacy or retail distributor under the circumstances set forth in § 18.2-265.9 and shall record each instance in which the override function is utilized.
+			</section>
+			<section prefix="6">The system shall provide for the recording of the following:
+				a. The date and time of the transaction;
+				b. The name, address, date of birth, and photo identification number of the purchaser; the type of identification; and the government or educational institution of issuance;
+				c. The number of packages purchased; the total number of grams of ephedrine or related compounds per package; and the name of the compound, mixture, or preparation containing ephedrine or related compounds; and
+				d. The signature of the purchaser or unique number connecting the transaction to a paper signature maintained at the retail premises.
+			</section>
+			<section prefix="7">The system shall ensure that submitted data is retained within the system for at least two years from the date of submission.
+			</section>
+		</section>
+		<section prefix="B">The Department shall provide a process for a pharmacy or retail distributor to apply for, obtain, and periodically renew an exemption from the requirement to report transactions to the electronic system if the pharmacy or retail distributor lacks broadband access or maintains a sales volume of less than 72 grams of ephedrine or related compounds in a 30-day period.
+		</section>
+		<section prefix="C">The Superintendent of State Police shall promulgate regulations pursuant to the Administrative Process Act (§ 2.2-4000 et seq.) for the implementation of this section. Regulations adopted under this section shall be deemed a customary police function for purposes of subdivision B 6 of § 2.2-4002.
+		</section>
+	</text>
+	<history>2012, cc. 160, 252.</history>
+</law>

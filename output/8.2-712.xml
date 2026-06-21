@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="7" level="2">Remedies</unit>
+	</structure>
+	<section_number>8.2-712</section_number>
+	<catch_line>"Cover"; buyer's procurement of substitute goods</catch_line>
+	<text>
+		<section prefix="1">After a breach within the preceding section [§ 8.2-711] the buyer may "cover" by making in good faith and without unreasonable delay any reasonable purchase of or contract to purchase goods in substitution for those due from the seller.
+		</section>
+		<section prefix="2">The buyer may recover from the seller as damages the difference between the cost of cover and the contract price together with any incidental or consequential damages as hereinafter defined (§ 8.2-715), but less expenses saved in consequence of the seller's breach.
+		</section>
+		<section prefix="3">Failure of the buyer to effect cover within this section does not bar him from any other remedy.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

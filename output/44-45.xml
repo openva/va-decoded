@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="4" level="3">National Guard Courts-Martial</unit>
+	</structure>
+	<section_number>44-45</section_number>
+	<catch_line>Summary courts-martial</catch_line>
+	<text>
+		<section prefix="A">In the National Guard for servicemembers on orders for duty under Title 32 of the United States Code or active state duty, the first commanding officer in the rank of lieutenant colonel or above may convene a summary court-martial, consisting of one commissioned officer. Proceedings conducted under the provisions of this section shall be informal.
+		</section>
+		<section prefix="B">A summary court-martial shall have the authority to impose fines of not more than $500, to impose forfeitures of two-thirds pay for one month, to restrict to limits, to impose extra duty, to require confinement for not more than seven days, and to reduce enlisted persons one or more pay grades.
+		</section>
+	</text>
+	<history>1930, p. 956; Michie Code 1942, § 2673(35); 1958, c. 393; 1964, c. 227; 1976, c. 399; 1977, c. 74; 2011, cc. 572, 586.</history>
+</law>

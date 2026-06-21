@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="IV" level="2">Food and Drink; Weights and Measures</unit>
+		<unit label="chapter" identifier="55" level="3">Vinegar</unit>
+	</structure>
+	<section_number>3.2-5506</section_number>
+	<catch_line>Sales of certain vinegar prohibited</catch_line>
+	<text>
+		No person shall sell, offer to sell, or have in possession for sale in the Commonwealth:
+		<section prefix="1">Any vinegar defined in § 3.2-5500 that does not comply with such definitions.
+		</section>
+		<section prefix="2">Any adulterated or misbranded vinegar.
+		</section>
+		<section prefix="3">Any vinegar or product in imitation of any vinegar so defined.
+		</section>
+		<section prefix="4">Any vinegar to which any artificial coloring matter has been added of any kind whatever, or that contains any substance or ingredient not derived exclusively from the fruit, grain, sugar or syrup from which it purports to have been derived.
+		</section>
+	</text>
+	<history>Code 1950, § 3-696; 1964, c. 554; 1966, c. 702, § 3.1-905; 2008, c. 860.</history>
+</law>

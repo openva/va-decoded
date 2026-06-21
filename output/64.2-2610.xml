@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="26" level="3">Uniform Disclaimer of Property Interests Act</unit>
+	</structure>
+	<section_number>64.2-2610</section_number>
+	<catch_line>Delivery or filing</catch_line>
+	<text>
+		<section prefix="A">In this section, "beneficiary designation" means an instrument, other than an instrument creating a trust, naming the beneficiary of (i) an annuity or insurance policy; (ii) an account with a designation for payment on death; (iii) a security registered in beneficiary form; (iv) a pension, profit-sharing, retirement, or other employment-related benefit plan; or (v) any other nonprobate transfer at death.
+		</section>
+		<section prefix="B">Subject to subsections C through L, delivery of a disclaimer may be effected by personal delivery, first-class mail, or any other method likely to result in its receipt.
+		</section>
+		<section prefix="C">In the case of an interest created under the law of intestate succession or an interest created by will, other than an interest in a testamentary trust, (i) a disclaimer shall be delivered to the personal representative of the decedent's estate or (ii) if no personal representative is then serving, it shall be filed with a court having jurisdiction to appoint the personal representative.
+		</section>
+		<section prefix="D">In the case of an interest in a testamentary trust, (i) a disclaimer shall be delivered to the trustee then serving or, if no trustee is then serving, to the personal representative of the decedent's estate or (ii) if no personal representative is then serving, it shall be filed with a court having jurisdiction to enforce the trust.
+		</section>
+		<section prefix="E">In the case of an interest in an inter vivos trust, (i) a disclaimer shall be delivered to the trustee then serving; (ii) if no trustee is then serving, it shall be filed with a court having jurisdiction to enforce the trust; or (iii) if the disclaimer is made before the time the instrument creating the trust becomes irrevocable, it shall be delivered to the settlor of a revocable trust or the transferor of the interest.
+		</section>
+		<section prefix="F">In the case of an interest created by a beneficiary designation made before the time the designation becomes irrevocable, a disclaimer shall be delivered to the person making the beneficiary designation.
+		</section>
+		<section prefix="G">In the case of an interest created by a beneficiary designation made after the time the designation becomes irrevocable, a disclaimer shall be delivered to the person obligated to distribute the interest.
+		</section>
+		<section prefix="H">In the case of a disclaimer by a surviving holder of jointly held property, the disclaimer shall be delivered to the person to whom the disclaimed interest passes.
+		</section>
+		<section prefix="I">In the case of a disclaimer by an object or taker in default of exercise of a power of appointment at any time after the power was created, (i) the disclaimer shall be delivered to the holder of the power or to the fiduciary acting under the instrument that created the power or (ii) if no fiduciary is then serving, it shall be filed with a court having authority to appoint the fiduciary.
+		</section>
+		<section prefix="J">In the case of a disclaimer by an appointee of a nonfiduciary power of appointment, (i) the disclaimer shall be delivered to the holder, the personal representative of the holder's estate, or the fiduciary under the instrument that created the power or (ii) if no fiduciary is then serving, it shall be filed with a court having authority to appoint the fiduciary.
+		</section>
+		<section prefix="K">In the case of a disclaimer by a fiduciary of a power over a trust or estate, the disclaimer shall be delivered as provided in subsection C, D, or E, as if the power disclaimed were an interest in property.
+		</section>
+		<section prefix="L">In the case of a disclaimer of a power by an agent, the disclaimer shall be delivered to the principal or the principal's representative.
+		</section>
+	</text>
+	<history>2003, c. 253, § 64.1-196.11; 2012, c. 614.</history>
+</law>

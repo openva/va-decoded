@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="A" level="3">General Provisions</unit>
+		<unit label="chapter" identifier="35" level="4">Information Technology Access Act</unit>
+	</structure>
+	<section_number>2.2-3505</section_number>
+	<catch_line>Designation of covered entity digital accessibility coordinator</catch_line>
+	<text>
+		<section prefix="A">The head of each covered entity or his designee may designate an employee to serve as such covered entity's digital accessibility coordinator. The digital accessibility coordinator shall be responsible for ensuring that the covered entity complies with state and federal laws, including the Virginians with Disabilities Act (§ 51.5-1 et seq.) and the Virginia Human Rights Act (§ 2.2-3900 et seq.), to ensure that the ICT and other products or services can be accessed by persons with disabilities. The covered entity's digital accessibility coordinator shall also be responsible for developing and implementing the covered entity's digital accessibility policy.
+		</section>
+		<section prefix="B">Each covered entity shall publish, in a conspicuous and easily accessible location on its website, the name, phone number, email address, and office address of the covered entity's digital accessibility coordinator or other person to whom reports of barriers to digital accessibility may be reported. The digital accessibility coordinator or other person designated by the covered entity shall develop procedures to review and respond to reports of barriers to digital accessibility.
+		</section>
+	</text>
+	<history>2025, c. 571.</history>
+</law>

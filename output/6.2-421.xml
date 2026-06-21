@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="4" level="3">Certain Lending Practices</unit>
+		<unit label="article" identifier="2" level="4">Loans Secured by Lien on Real Estate</unit>
+	</structure>
+	<section_number>6.2-421</section_number>
+	<catch_line>Certain contracts to permit prepayment; amount of prepayment penalty</catch_line>
+	<text>
+		<section prefix="A">For the purpose of this section:
+			<section prefix="1">"First deed of trust" or "first mortgage" includes all deeds of trust and mortgages, and amendments thereto, that are made by the same grantor or mortgagor, secure notes held by the same holder, convey substantially the same real estate, and are superior to all other deeds of trust or mortgages on the real estate; and
+			</section>
+			<section prefix="2">"Real estate" includes a leasehold estate of not less than 25 years.
+			</section>
+		</section>
+		<section prefix="B">Every loan contract, except as provided in subsection D, that is secured by a first deed of trust or first mortgage on real estate if the principal amount of the loan is less than $75,000, shall:
+			<section prefix="1">Permit the prepayment of the unpaid principal at any time; and
+			</section>
+			<section prefix="2">Not provide for a prepayment penalty in excess of one percent of the unpaid principal balance.
+			</section>
+		</section>
+		<section prefix="C">Any prepayment penalty provision in violation of subdivision B 2 shall be unenforceable as to the amount in excess of one percent of such balance.
+		</section>
+		<section prefix="D">The provisions of:
+			<section prefix="1">Subsections B and C shall not apply to secured or unsecured notes evidencing installment sales contracts; and
+			</section>
+			<section prefix="2">Subdivision B 2 and subsection C shall not apply to any loan contract that is (i) subject to § 6.2-422 or 6.2-1409 or (ii) governmentally regulated as to prepayment privilege.
+			</section>
+		</section>
+	</text>
+	<history>1987, c. 622, §§ 6.1-330.69, 6.1-330.81; 2010, c. 794.</history>
+</law>

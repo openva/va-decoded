@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>10.1-1406.2</section_number>
+	<catch_line> Conditional exemption for coal and mineral mining overburden or solid waste</catch_line>
+	<text>
+		The provisions of this chapter shall not apply to coal or mineral mining overburden returned to the mine site or solid wastes from the extraction, beneficiation, and processing of coal or minerals that are managed in accordance with requirements promulgated by the Department of Energy.
+	</text>
+	<history>1999, cc. 584, 613, 947; 2021, Sp. Sess. I, c. 532.</history>
+</law>

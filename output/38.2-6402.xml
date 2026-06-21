@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="64" level="2">Guaranteed Asset Protection Waivers</unit>
+	</structure>
+	<section_number>38.2-6402</section_number>
+	<catch_line>Contractual liability or other insurance policies</catch_line>
+	<text>
+		<section prefix="A">Contractual liability or other insurance policies insuring GAP waivers shall state the obligation of the insurer to reimburse or pay to the creditor any sums the creditor is legally obligated to waive under the GAP waivers issued by the creditor and purchased or held by the borrower.
+		</section>
+		<section prefix="B">Coverage under a contractual liability or other insurance policy insuring a GAP waiver shall also cover any subsequent assignee upon the assignment, sale, or transfer of the finance agreement.
+		</section>
+		<section prefix="C">Coverage under a contractual liability or other insurance policy insuring a GAP waiver shall remain in effect unless canceled or terminated in compliance with applicable insurance laws of the Commonwealth.
+		</section>
+		<section prefix="D">The cancellation or termination of a contractual liability or other insurance policy shall not reduce the insurer's responsibility for GAP waivers issued by the creditor prior to the date of cancellation or termination and for which a premium has been received by the insurer.
+		</section>
+	</text>
+	<history>2019, cc. 799, 800.</history>
+</law>

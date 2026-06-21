@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="16.1" level="1">Courts Not of Record</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Juvenile Justice Information System</unit>
+	</structure>
+	<section_number>16.1-224</section_number>
+	<catch_line>Data submissions by court service units</catch_line>
+	<text>
+		<section prefix="A">All court service units serving juvenile and domestic relations district courts shall make data submissions to the Virginia Juvenile Justice Information System of any persons referred to an intake officer of a court service unit pursuant to § 16.1-260, except that no data submission shall be required for a juvenile charged with a traffic infraction as defined in § 46.2-100.
+		</section>
+		<section prefix="B">In the case of a juvenile who is alleged to be delinquent and who is referred to a court service unit pursuant to § 16.1-260, the data submissions required by subsection A of this section shall contain the name, date of birth and, if any, the social security number of the juvenile before the court. The data submissions concerning all other children coming before a juvenile and domestic relations district court, except those charged with traffic infractions, may in accordance with standards adopted by the Department of Juvenile Justice, contain information identifying the child.
+		</section>
+		<section prefix="C">The court service unit shall make a data submission to the Virginia Juvenile Justice Information System of the final disposition of each case reported to the System. When the court service unit reports a disposition of a case which is other than a finding of guilty, the name and other personal identification of the juvenile shall be deleted from the data submissions required by subsection B of this section and from the report of final disposition required by this subsection.
+		</section>
+	</text>
+	<history>1976, c. 589; 1978, c. 684; 1988, c. 541.</history>
+</law>

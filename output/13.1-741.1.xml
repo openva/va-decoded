@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="15" level="3">Appraisal Rights and Other Remedies</unit>
+	</structure>
+	<section_number>13.1-741.1</section_number>
+	<catch_line>Limitations on other remedies for fundamental transactions</catch_line>
+	<text>
+		<section prefix="A">Except for action taken before the Commission pursuant to § 13.1-614 or as provided in subsection B, the legality of a proposed or completed corporate action described in subsection A of § 13.1-730 may not be contested, nor may the corporate action be enjoined, set aside or rescinded, in a legal or equitable proceeding by a shareholder after the shareholders have approved the corporate action.
+		</section>
+		<section prefix="B">Subsection A does not apply to a corporate action that:
+			<section prefix="1">Was not authorized and approved in accordance with the applicable provisions of:
+				a. Article 11 (§ 13.1-705 et seq.), Article 12 (§ 13.1-715.1 et seq.), Article 12.1 (§ 13.1-722.1:1 et seq.), Article 12.2 (§ 13.1-722.8 et seq.), or Article 13 (§ 13.1-723 et seq.);
+				b. The articles of incorporation or bylaws; or
+				c. The resolution of the board of directors authorizing the corporate action;
+			</section>
+			<section prefix="2">Was procured as a result of fraud, a material misrepresentation, or an omission of a material fact necessary to make statements made, in light of the circumstances in which they were made, not misleading;
+			</section>
+			<section prefix="3">Is an interested transaction, unless it has been recommended by the board of directors in the same manner as is provided in subsection B of § 13.1-691 or has been approved by the shareholders in the same manner as is provided in subsection C of § 13.1-691 as if the interested transaction were a director's conflict of interests transaction; or
+			</section>
+			<section prefix="4">Is adopted or taken by less than unanimous consent of the voting shareholders pursuant to § 13.1-657 if:
+				a. The challenge to the corporate action is brought by a shareholder who did not consent to the corporate action and as to whom notice of the approval of the corporate action was not effective at least 10 days before the corporate action was effected; and
+				b. The proceeding challenging the corporate action is commenced within 10 days after notice of the adoption or taking of the corporate action is effective as to the shareholder bringing the proceeding.
+			</section>
+		</section>
+		<section prefix="C">Any remedial action with respect to corporate action described in subsection A of § 13.1-730 shall not limit the scope of, or be inconsistent with, any provision of § 13.1-614.
+		</section>
+	</text>
+	<history>2007, c. 165; 2008, c. 91; 2015, c. 611; 2019, c. 734.</history>
+</law>

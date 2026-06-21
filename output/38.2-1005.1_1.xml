@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="10" level="2">Organization, Admission and Licensing of Insurers</unit>
+		<unit label="article" identifier="1.1" level="3">Formation of Mutual Insurance Holding Company; Conversion of Mutual Holding Company to Stock Holding Company</unit>
+	</structure>
+	<section_number>38.2-1005.1:1</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article:
+		"Converted company" means a stock insurance company incorporated and organized under the laws of this Commonwealth that continues in existence after a reorganization under this article in connection with the formation of a mutual holding company.
+		"Converted mutual holding company" means the stock corporation into which a mutual holding company has been converted pursuant to § 38.2-1005.1:9.
+		"Eligible member" means a member as of the date the board of directors of a mutual company adopts a plan of MHC conversion under this article. For the conversion of a mutual holding company, the term eligible member means a member of the mutual holding company who is of record on the date the board of directors of the mutual holding company adopts a plan of conversion authorized pursuant to this article.
+		"Intermediate holding company" means a corporation authorized to issue one or more classes of capital stock, the corporate purposes of which include holding, directly or indirectly, the voting stock of a converted company.
+		"Member" means a person who, on the records of a mutual company and pursuant to the articles of incorporation or bylaws of a mutual company, is deemed to be the holder of a membership interest in a mutual company. The term member also includes a person insured under a group policy if:
+		<section prefix="1">The person is insured or covered under a group life insurance policy or group annuity contract under which funds are accumulated and allocated to the respective persons covered under such policy or contract;
+		</section>
+		<section prefix="2">The person has the right to direct the application of the funds so allocated;
+		</section>
+		<section prefix="3">The group policyholder does not pay any portion of the premiums or deposits for the policy or contract; and
+		</section>
+		<section prefix="4">The mutual company has the names and addresses of the persons covered under the group life insurance policy or group annuity contract.
+			When a plan of MHC conversion has become effective under this article, the term "member" shall mean a member of the mutual holding company created by such plan.
+			"Mutual company" means a mutual insurance company incorporated and organized under the laws of this Commonwealth and licensed pursuant to Chapter 10 (§ 38.2-1000 et seq.) of this title.
+			"Mutual holding company" or "MHC" means a corporation organized under the provisions of the Virginia Nonstock Corporation Act (§ 13.1-801 et seq.) in connection with the reorganization of a mutual company under this article. A MHC shall be subject to the provisions of this article and any other provisions of this title that are applicable to mutual companies and not inconsistent with the provisions of this article. The articles of incorporation of a MHC shall state:
+		</section>
+		<section prefix="1">That the corporation is organized under this article as a MHC;
+		</section>
+		<section prefix="2">That the MHC shall hold not less than a majority of the shares of voting stock of a converted company or an intermediate holding company that, in turn, directly or indirectly holds all of the voting shares of a converted company;
+		</section>
+		<section prefix="3">That the corporation is not authorized to issue capital stock except in accordance with the provisions of § 38.2-1005.1:9;
+		</section>
+		<section prefix="4">That its members shall have the rights specified in this article and its articles of incorporation and bylaws; and
+		</section>
+		<section prefix="5">That its assets shall be subject to inclusion in the estate of the converted company in any proceeding initiated against the converted company under Chapter 15 (§ 38.2-1500 et seq.) of this title.
+			"Plan of MHC conversion" or "plan" means a plan adopted pursuant to this article by the board of directors of a mutual company for the conversion of a mutual company into a direct or indirect stock subsidiary of a mutual holding company.
+			"Policy" includes any group or individual policy or contract issued by a mutual company, including an annuity contract, but does not include a certificate of insurance issued in connection with a group policy or contract.
+			"Policyholder" means the holder of a policy other than a reinsurance contract.
+		</section>
+	</text>
+	<history>2001, c. 726.</history>
+</law>

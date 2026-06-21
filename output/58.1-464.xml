@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="16" level="4">Income Tax Withholding</unit>
+	</structure>
+	<section_number>58.1-464</section_number>
+	<catch_line>Miscellaneous payroll period applicable to withholding in payment of certain wages; withholding on basis of average wages</catch_line>
+	<text>
+		<section prefix="A">If wages are paid with respect to a period which is not a payroll period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll period containing a number of days including Sundays and holidays, equal to the number of days in the period with respect to which such wages are paid.
+		</section>
+		<section prefix="B">In any case in which wages are paid by an employer without regard to any payroll period or other period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll period containing a number of days equal to the number of days, including Sundays and holidays, which have elapsed since the date of the last payment of such wages by such employer during the calendar year, or the date of commencement of employment with such employer during such year, or January 1 of such year, whichever is the later.
+		</section>
+		<section prefix="C">The Tax Commissioner may, by regulations, authorize employers:
+			<section prefix="1">To estimate the wages which will be paid to any employee in any quarter of the calendar year;
+			</section>
+			<section prefix="2">To determine the amount to be deducted and withheld upon each payment of wages to such employee during such quarter as if the appropriate average of the wages so estimated constituted the actual wages paid; and
+			</section>
+			<section prefix="3">To deduct and withhold upon any payment of wages to such employee during such quarter such amount as may be necessary to adjust the amount actually deducted and withheld upon the wages of such employee during such quarter to the amount that would be required to be deducted and withheld during such quarter without regard to this subsection C.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.5; 1962, c. 612; 1984, c. 675.</history>
+</law>

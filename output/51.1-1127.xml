@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="51.1" level="1">Pensions, Benefits, and Retirement</unit>
+		<unit label="chapter" identifier="11" level="2">Sickness and Disability Program</unit>
+		<unit label="article" identifier="4" level="3">Work-Related Disability Benefits</unit>
+	</structure>
+	<section_number>51.1-1127</section_number>
+	<catch_line>Cessation of supplemental disability benefits</catch_line>
+	<text>
+		Supplemental disability benefits shall cease to be paid to a participating employee upon the first to occur of the following:
+		<section prefix="1">The end of the period of supplemental disability coverage as provided in subsection G of § 51.1-1121 or subsection F of § 51.1-1123;
+		</section>
+		<section prefix="2">The date of death of the participating employee;
+		</section>
+		<section prefix="3">On the date benefits under the Act cease to be paid, if the participating employee is a member of the retirement system and is receiving benefits under the Act on his normal retirement date;
+		</section>
+		<section prefix="4">On the date benefits under the Act cease to be paid, if the participating employee is a not a member of the retirement system and is receiving benefits under the Act on the date he attains age 65;
+		</section>
+		<section prefix="5">On his normal retirement date, if the participating employee is a member of the retirement system and is no longer receiving benefits under the Act on his normal retirement date;
+		</section>
+		<section prefix="6">On the date the employee attains age 65, if the participating employee is a not a member of the retirement system and is no longer receiving benefits under the Act; or
+		</section>
+		<section prefix="7">The effective date of the participating employee's service retirement under any provision of this title.
+		</section>
+	</text>
+	<history>1998, c. 774; 1999, c. 144; 2001, c. 694; 2012, c. 417.</history>
+</law>

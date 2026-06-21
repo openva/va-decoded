@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="8" level="3">Remedies</unit>
+	</structure>
+	<section_number>59.1-508.13</section_number>
+	<catch_line>Continuing use</catch_line>
+	<text>
+		On breach of contract by a licensor, the following rules apply:
+		<section prefix="1">A licensee that has not canceled the contract may continue to use the information and informational rights under the contract. If the licensee continues to use the information or informational rights, the licensee is bound by all terms of the contract, including contractual use terms, obligations not to compete, and obligations to pay contract fees.
+		</section>
+		<section prefix="2">The licensee may pursue any remedy for breach which has not been waived.
+		</section>
+		<section prefix="3">The licensor's rights remain in effect but are subject to the licensee's remedy for breach, including any right of recoupment or setoff.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

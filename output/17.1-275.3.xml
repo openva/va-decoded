@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="2" level="2">Clerks, Clerks' Offices and Records</unit>
+		<unit label="article" identifier="7" level="3">Fees</unit>
+	</structure>
+	<section_number>17.1-275.3</section_number>
+	<catch_line>Fixed felony revocation fee</catch_line>
+	<text>
+		Upon the partial or full revocation of suspension of sentence or probation of a convicted felon pursuant to § 19.2-306, other than a revocation for failure to pay previously assessed court costs, there shall be assessed as court costs a fee of $158 to be known as the fixed felony revocation fee. A single fixed felony revocation fee shall be assessed per defendant per hearing without regard to the number of revocations being considered.
+		The amount collected, in whole or in part, for the fixed felony revocation fee shall be apportioned to the following funds in the fractional amounts designated:
+		<section prefix="1">Virginia Crime Victim-Witness Fund (.0189873);
+		</section>
+		<section prefix="2">Intensified Drug Enforcement Jurisdiction Fund (.0253165);
+		</section>
+		<section prefix="3">Court reporter fund (.2105696);
+		</section>
+		<section prefix="4">Witness expenses/expert witness fund (.0126582);
+		</section>
+		<section prefix="5">Commonwealth's attorney fund (state share) (.1265823);
+		</section>
+		<section prefix="6">Commonwealth's attorney fund (local share) (.1265823);
+		</section>
+		<section prefix="7">Criminal Injuries Compensation Fund (.1898734);
+		</section>
+		<section prefix="8">Regional Criminal Justice Academy Training Fund (.0063291);
+		</section>
+		<section prefix="9">Warrant fee (.0759494); and
+		</section>
+		<section prefix="10">Clerk of the circuit court (.2071519).
+		</section>
+	</text>
+	<history>1999, c. 9; 2003, c. 1039; 2011, c. 565.</history>
+</law>

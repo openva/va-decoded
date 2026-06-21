@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="11.1" level="3">Domestication</unit>
+	</structure>
+	<section_number>13.1-898.4</section_number>
+	<catch_line>Articles of domestication</catch_line>
+	<text>
+		<section prefix="A">After the domestication of a foreign corporation is approved in the manner required by the laws of the jurisdiction in which the corporation is incorporated, the corporation shall file with the Commission articles of domestication setting forth:
+			<section prefix="1">The name of the corporation immediately prior to the filing of the articles of domestication and, if that name is unavailable for use in the Commonwealth or the corporation desires to change its name in connection with the domestication, a name that satisfies the requirements of § 13.1-829;
+			</section>
+			<section prefix="2">The plan of domestication;
+			</section>
+			<section prefix="3">The original jurisdiction of the corporation and the date the corporation was incorporated in that jurisdiction, and each subsequent jurisdiction and the date the corporation was domesticated in each such jurisdiction, if any, prior to the filing of the articles of domestication; and
+			</section>
+			<section prefix="4">A statement that the domestication is permitted by the laws of the jurisdiction in which the corporation is incorporated and that the corporation has complied with those laws in effecting the domestication.
+			</section>
+		</section>
+		<section prefix="B">If the Commission finds that the articles of domestication comply with the requirements of law and that all required fees have been paid, it shall issue a certificate of domestication.
+		</section>
+		<section prefix="C">The certificate of domestication shall become effective pursuant to § 13.1-806.
+		</section>
+		<section prefix="D">A foreign corporation's existence as a domestic corporation shall begin when the certificate of domestication is effective. Upon becoming effective, the certificate of domestication shall be conclusive evidence that all conditions precedent required to be performed by the foreign corporation have been complied with and that the corporation has been incorporated under this Act.
+		</section>
+		<section prefix="E">If the foreign corporation is authorized to transact business in the Commonwealth under Article 14 (§ 13.1-919 et seq.), its certificate of authority shall be canceled automatically on the effective date of the certificate of domestication issued by the Commission.
+		</section>
+	</text>
+	<history>2003, c. 374; 2007, c. 925; 2012, c. 130.</history>
+</law>

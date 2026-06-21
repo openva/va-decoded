@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.1" level="4">Uniform Trust Decanting Act</unit>
+	</structure>
+	<section_number>64.2-779.22</section_number>
+	<catch_line>Settlor</catch_line>
+	<text>
+		<section prefix="A">For purposes of law of the Commonwealth other than this article and subject to subsection B, a settlor of a first trust is deemed to be the settlor of the second trust with respect to the portion of the income or principal of the first trust subject to the exercise of the decanting power.
+		</section>
+		<section prefix="B">In determining settlor intent with respect to a second trust, the intent of a settlor of the first trust, a settlor of the second trust, and the authorized fiduciary may be considered.
+		</section>
+	</text>
+	<history>2017, c. 592.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="1.1" level="2">General Assembly Salaries and Expenses</unit>
+		<unit label="article" identifier="1" level="3">Salaries and Expenses Generally</unit>
+	</structure>
+	<section_number>30-19.14</section_number>
+	<catch_line>Office expenses; taxes and withholding</catch_line>
+	<text>
+		<section prefix="A">Each member of the General Assembly shall receive as an allowance for office expenses and supplies such sums as shall be set forth in the general appropriation act.
+		</section>
+		<section prefix="B">Notwithstanding any provision of law, all payments to members of the General Assembly made in accordance with subsection A shall be subject to such taxes and tax withholding as applicable to other nonvouchered allowances, except for any member of the General Assembly who has established an individual "accountable plan" as defined in § 1.62-2(c)(2) of the Internal Revenue Code Tax Regulations.
+		</section>
+	</text>
+	<history>1976, c. 735, § 14.1-18.2; 1984, c. 161; 1998, c. 872; 2001, c. 785.</history>
+</law>

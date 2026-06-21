@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="18" level="4">Department of the Treasury</unit>
+		<unit label="article" identifier="4" level="5">Revenue Stabilization Fund</unit>
+	</structure>
+	<section_number>2.2-1830</section_number>
+	<catch_line>Decline in forecasted revenues</catch_line>
+	<text>
+		In the event that a revised general fund forecast presented to the General Assembly reflects a decline when compared to total general fund revenues appropriated, and the decrease is more than two percent of certified tax revenues collected in the most recently ended fiscal year, the General Assembly may appropriate an amount for transfer from the Fund to the general fund to stabilize the revenues of the Commonwealth. However, in no event shall the transfer exceed more than one-half of the forecasted shortfall in revenues.
+	</text>
+	<history>1992, c. 316, § 2.1-191.3; 2001, c. 844.</history>
+</law>

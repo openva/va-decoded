@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="6" level="2">Insurance Information and Privacy Protection</unit>
+		<unit label="article" identifier="2" level="3">Insurance Data Security Act</unit>
+	</structure>
+	<section_number>38.2-628</section_number>
+	<catch_line>Confidentiality</catch_line>
+	<text>
+		<section prefix="A">Any documents, materials, or other information in the control or possession of the Bureau that are furnished by a licensee or an employee or agent thereof acting on behalf of licensee pursuant to subsection H of § 38.2-623 or subdivisions B 2, 3, 4, 5, 8, 10, and 11 § 38.2-625, or that are obtained by the Commissioner in an investigation or examination pursuant to § 38.2-627, shall be confidential by law and privileged, shall not be subject to § 12.1-19, shall not be subject to subpoena, and shall not be subject to discovery or admissible in evidence in any private civil action. However, the Commissioner is authorized to use the documents, materials, or other information in the furtherance of any regulatory or legal action brought as a part of the Commissioner's duties.
+		</section>
+		<section prefix="B">Neither the Commissioner nor any person who received documents, materials, or other information while acting under the authority of the Commissioner shall be permitted or required to testify in any private civil action concerning any confidential documents, materials, or information subject to subsection A.
+		</section>
+		<section prefix="C">In order to assist in the performance of the Commissioner's duties under this article, the Commissioner may:
+			<section prefix="1">Share documents, materials, or other information, including the confidential and privileged documents, materials, or information subject to subsection A, with other state, federal, and international regulatory agencies; with the National Association of Insurance Commissioners (NAIC), its affiliates, or its subsidiaries; and with state, federal, and international law-enforcement authorities, provided that the recipient agrees in writing to maintain the confidentiality and privileged status of the documents, materials, or other information;
+			</section>
+			<section prefix="2">Receive documents, materials, or information, including otherwise confidential and privileged documents, materials, or information, from the NAIC, its affiliates, or its subsidiaries and from regulatory and law-enforcement officials of other foreign or domestic jurisdictions, and shall maintain as confidential or privileged any documents, materials, or information received with notice or the understanding that it is confidential or privileged under the laws of the jurisdiction that is the source of the documents, materials, or information;
+			</section>
+			<section prefix="3">Share documents, materials, or other information subject to subsection A with a third-party consultant or vendor provided the consultant agrees in writing to maintain the confidentiality and privileged status of the documents, materials, or other information; and
+			</section>
+			<section prefix="4">Enter into agreements governing sharing and use of information consistent with this subsection.
+			</section>
+		</section>
+		<section prefix="D">No waiver of any applicable privilege or claim of confidentiality in the documents, materials, or information shall occur as a result of disclosure to the Commissioner under this section or as a result of sharing as authorized in subsection C.
+		</section>
+		<section prefix="E">Documents, materials, or other information in the possession or control of the NAIC or a third-party consultant or vendor as a result of an examination or investigation pursuant to subsection H of § 38.2-623 or subdivisions B 2, 3, 4, 5, 8, 10, and 11 of § 38.2-625 shall be confidential by law and privileged, shall not be subject to § 12.1-19, shall not be subject to subpoena, and shall not be subject to discovery in any private civil action.
+		</section>
+		<section prefix="F">Nothing in this article shall prohibit the Commissioner from releasing final, adjudicated actions that are open to public inspection to a database or other clearinghouse service maintained by the NAIC, its affiliates, or its subsidiaries.
+		</section>
+	</text>
+	<history>2020, c. 264.</history>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="12" level="2">Preliminary Hearing</unit>
+	</structure>
+	<section_number>19.2-187.1</section_number>
+	<catch_line>Procedures for notifying accused of certificate of analysis; waiver; continuances</catch_line>
+	<text>
+		<section prefix="A">In any trial and in any hearing other than a preliminary hearing, in which the attorney for the Commonwealth intends to offer a certificate of analysis into evidence in lieu of testimony pursuant to § 19.2-187, the attorney for the Commonwealth shall:
+			<section prefix="1">Provide by mail, delivery, or otherwise, a copy of the certificate to counsel of record for the accused, or to the accused if he is proceeding pro se, at no charge, no later than 28 days prior to the hearing or trial;
+			</section>
+			<section prefix="2">Provide simultaneously with the copy of the certificate so provided under subdivision 1 a notice to the accused of his right to object to having the certificate admitted without the person who performed the analysis or examination being present and testifying;
+				2a. When the attorney for the Commonwealth intends to present such testimony through two-way video conferencing, attach to the copy of the certificate provided under subdivision 1 a notice on a page separate from the notice in subdivision 2 specifying that the person who performed the analysis or examination may testify by two-way video conferencing and that the accused has a right to object to such two-way video testimony; and
+			</section>
+			<section prefix="3">File a copy of the certificate and notice with the clerk of the court hearing the matter (i) on the day that the certificate and notice are provided to the accused or (ii) in the case of a breath test certificate for a violation of any offense listed in subsection E of § 18.2-270, no later than three business days following the day that the certificate and notice are provided to the accused.
+			</section>
+		</section>
+		<section prefix="B">The accused may object in writing to admission of the certificate of analysis, in lieu of testimony, as evidence of the facts stated therein and of the results of the analysis or examination. Such objection shall be filed with the court hearing the matter, with a copy to the attorney for the Commonwealth, no more than 14 days after the certificate and notice were filed with the clerk by the attorney for the Commonwealth or the objection shall be deemed waived. If timely objection is made, the certificate shall not be admissible into evidence unless (i) the testimony of the person who performed the analysis or examination is admitted into evidence describing the facts and results of the analysis or examination during the Commonwealth's case-in-chief at the hearing or trial and that person is present and subject to cross-examination by the accused, (ii) the objection is waived by the accused or his counsel in writing or before the court, or (iii) the parties stipulate before the court to the admissibility of the certificate. If the accused demands, at hearing or trial, the presence of the person who performed the analysis or examination and he is thereafter found guilty of the charge or charges for which he demanded the presence of such witness, $50 for expenses related to the witness's appearance at hearing or trial shall be charged to the accused as court costs.
+		</section>
+		<section prefix="B1">Except as provided in subsection D of § 19.2-187, when the attorney for the Commonwealth gives notice to the accused of intent to present testimony by two-way video conferencing, the accused may object in writing to the admission of such testimony and may file an objection as provided in subsection B. The provisions of subsection B shall apply to such objection mutatis mutandis.
+		</section>
+		<section prefix="B2">The two-way video testimony permitted by this section shall comply with the provisions of subsection B of § 19.2-3.1. In addition, unless otherwise agreed by the parties and the court, (i) all orders pertaining to witnesses apply to witnesses testifying by video conferencing; (ii) upon request, all materials read or used by the witness during his testimony shall be identified on the video; and (iii) any witness testifying by video conferencing shall certify at the conclusion of his testimony, under penalty of perjury, that he did not engage in any off-camera communications with any person during his testimony.
+		</section>
+		<section prefix="C">Where the person who performed the analysis and examination is not available for hearing or trial and the attorney for the Commonwealth has used due diligence to secure the presence of the person, the court shall order a continuance. Any continuances ordered pursuant to this subsection shall total not more than 90 days if the accused has been held continuously in custody and not more than 180 days if the accused has not been held continuously in custody.
+		</section>
+		<section prefix="D">Any objection by counsel for the accused, or the accused if he is proceeding pro se, to timeliness of the receipt of notice required by subsection A shall be made before hearing or trial upon his receipt of actual notice unless the accused did not receive actual notice prior to hearing or trial. A showing by the Commonwealth that the notice was mailed, delivered, or otherwise provided in compliance with the time requirements of this section shall constitute prima facie evidence that the notice was timely received by the accused. If the court finds upon the accused's objection made pursuant to this subsection, that he did not receive timely notice pursuant to subsection A, the accused's objection shall not be deemed waived and if the objection is made prior to hearing or trial, a continuance shall be ordered if requested by either party. Any continuance ordered pursuant to this subsection shall be subject to the time limitations set forth in subsection C.
+		</section>
+		<section prefix="E">Nothing in this section shall prohibit the admissibility of a certificate of analysis when the person who performed the analysis and examination testifies at trial or the hearing concerning the facts stated therein and of the results of the analysis or examination.
+		</section>
+		<section prefix="F">The accused in any hearing or trial in which a certificate of analysis is offered into evidence shall have the right to call the person performing such analysis or examination or involved in the chain of custody as a witness therein, and examine him in the same manner as if he had been called as an adverse witness. Such witness shall be summoned and appear at the cost of the Commonwealth; however, if the accused calls the person performing such analysis or examination as a witness and is found guilty of the charge or charges for which such witness is summoned, $50 for expenses related to that witness's appearance at hearing or trial shall be charged to the accused as court costs.
+		</section>
+		<section prefix="G">Nothing in this section shall be construed as requiring a locality to purchase a two-way electronic video and audio communication system. Any decision to purchase such a system is at the discretion of the locality.
+		</section>
+	</text>
+	<history>1976, c. 245; 1979, c. 364; 2009, Sp. Sess. I, cc. 1, 4; 2010, cc. 555, 656, 800; 2011, c. 32; 2017, c. 669.</history>
+</law>

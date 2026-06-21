@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="14" level="2">Evidence</unit>
+		<unit label="article" identifier="9" level="3">Miscellaneous Provisions</unit>
+	</structure>
+	<section_number>8.01-420.4:1</section_number>
+	<catch_line>Taking of depositions; corporate officers</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section, "officer" means the president, chief executive officer, chief operating officer, or chief financial officer of a publicly traded company or of a subsidiary of such company that employs 250 or more people.
+		</section>
+		<section prefix="B">In any action in which an officer's publicly traded company is a party, if a party issues a witness subpoena for the deposition of an officer prior to taking the deposition of a corporate representative pursuant to Supreme Court Rule 4:5(b)(6), and the officer, or company on the officer's behalf, files a motion for a protective order asserting that the discovery sought is obtainable from some other source that is more convenient, less burdensome, or less expensive, in order to defeat such motion for a protective order, the burden is on the party seeking the deposition to show that (i) the officer's deposition is reasonably calculated to lead to the discovery of admissible evidence, (ii) the officer may have personal knowledge of discoverable information that cannot reasonably be discovered through other means, and (iii) a deposition of a representative other than the officer or other methods of discovery are unsatisfactory, insufficient, or inadequate.
+		</section>
+		<section prefix="C">A motion for a protective order filed pursuant to subsection B shall include one or more proposed corporate employees available to be deposed instead of the officer, along with a description of the employee's role in the corporation, his knowledge relevant to the subject matter of the litigation, and the source of such knowledge, provided that the party opposing the motion has stated with reasonable particularity the matters on which the officer's examination is requested.
+		</section>
+		<section prefix="D">If a protective order is issued and the party seeking the deposition subsequently learns that the requirements set forth in subsection B can be met, then the party seeking the deposition may file for modification or lifting of the protective order.
+		</section>
+		<section prefix="E">The provisions of this section apply to a subpoena issued pursuant to the Uniform Interstate Depositions and Discovery Act (§ 8.01-412.8 et seq.) consistent with the provisions of subsection E of § 8.01-412.10.
+		</section>
+	</text>
+	<history>2019, cc. 9, 50.</history>
+</law>

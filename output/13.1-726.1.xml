@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="14" level="3">Affiliated Transactions</unit>
+	</structure>
+	<section_number>13.1-726.1</section_number>
+	<catch_line>Determination by disinterested directors</catch_line>
+	<text>
+		A majority of the disinterested directors shall have the power to determine for the purposes of this article:
+		<section prefix="1">Whether a person is an interested shareholder;
+		</section>
+		<section prefix="2">The number of voting shares beneficially owned by any person;
+		</section>
+		<section prefix="3">Whether a person is an affiliate or associate of another;
+		</section>
+		<section prefix="4">Whether the securities to be issued or transferred by the corporation or any of its subsidiaries to any interested shareholder have an aggregate fair market value equal to or greater than five percent of the aggregate fair market value of all of the outstanding voting shares of the corporation or any of its subsidiaries as of the determination date; and
+		</section>
+		<section prefix="5">Whether the assets or amount of indebtedness guaranteed that may be the subject of any affiliated transaction constitutes more than five percent of the consolidated net worth of the corporation.
+		</section>
+	</text>
+	<history>1988, c. 442.</history>
+</law>

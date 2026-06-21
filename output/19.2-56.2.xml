@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="5" level="2">Search Warrants</unit>
+	</structure>
+	<section_number>19.2-56.2</section_number>
+	<catch_line>Application for and issuance of search warrant for a tracking device; installation and use</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Judicial officer" means a judge, magistrate, or other person authorized to issue criminal warrants.
+			"Law-enforcement officer" shall have the same meaning as in § 9.1-101.
+			"Tracking device" means an electronic or mechanical device that permits a person to remotely determine or track the position or movement of a person or object. "Tracking device" includes devices that store geographic data for subsequent access or analysis and devices that allow for the real-time monitoring of movement.
+			"Use of a tracking device" includes the installation, maintenance, and monitoring of a tracking device but does not include the interception of wire, electronic, or oral communications or the capture, collection, monitoring, or viewing of images.
+		</section>
+		<section prefix="B">A law-enforcement officer may apply for a search warrant from a judicial officer to permit the use of a tracking device. Each application for a search warrant authorizing the use of a tracking device shall be made in writing, upon oath or affirmation, to a judicial officer for the circuit in which the tracking device is to be installed, or where there is probable cause to believe the offense for which the tracking device is sought has been committed, is being committed, or will be committed.
+			The law-enforcement officer shall submit an affidavit, which may be filed by electronically transmitted (i) facsimile process or (ii) electronic record as defined in § 59.1-480, and shall include:
+			<section prefix="1">The identity of the applicant and the identity of the law-enforcement agency conducting the investigation;
+			</section>
+			<section prefix="2">The identity of the vehicle, container, item, or object to which, in which, or on which the tracking device is to be attached, placed, or otherwise installed; the name of the owner or possessor of the vehicle, container, item, or object described, if known; and the jurisdictional area in which the vehicle, container, item, or object described is expected to be found, if known;
+			</section>
+			<section prefix="3">Material facts constituting the probable cause for the issuance of the search warrant and alleging substantially the offense in relation to which such tracking device is to be used and a showing that probable cause exists that the information likely to be obtained will be evidence of the commission of such offense; and
+			</section>
+			<section prefix="4">The name of the county or city where there is probable cause to believe the offense for which the tracking device is sought has been committed, is being committed, or will be committed.
+			</section>
+		</section>
+		<section prefix="C">1. If the judicial officer finds, based on the affidavit submitted, that there is probable cause to believe that a crime has been committed, is being committed, or will be committed and that there is probable cause to believe the information likely to be obtained from the use of the tracking device will be evidence of the commission of such offense, the judicial officer shall issue a search warrant authorizing the use of the tracking device. The search warrant shall authorize the use of the tracking device from within the Commonwealth to track a person or property for a reasonable period of time, not to exceed 30 days from the issuance of the search warrant. The search warrant shall authorize the collection of the tracking data contained in or obtained from the tracking device but shall not authorize the interception of wire, electronic, or oral communications or the capture, collection, monitoring, or viewing of images.
+			<section prefix="2">The affidavit shall be certified by the judicial officer who issues the search warrant and shall be delivered to and preserved as a record by the clerk of the circuit court of the county or city where there is probable cause to believe the offense for which the tracking device has been sought has been committed, is being committed, or will be committed. The affidavit shall be delivered by the judicial officer or his designee or agent in person; mailed by certified mail, return receipt requested; or delivered by electronically transmitted facsimile process or by use of filing and security procedures as defined in the Uniform Electronic Transactions Act (§ 59.1-479 et seq.) for transmitting signed documents.
+			</section>
+			<section prefix="3">By operation of law, the affidavit, search warrant, return, and any other related materials or pleadings shall be sealed. Upon motion of the Commonwealth or the owner or possessor of the vehicle, container, item, or object that was tracked, the circuit court may unseal such documents if it appears that the unsealing is consistent with the ends of justice or is necessary to reasonably inform such person of the nature of the evidence to be presented against him or to adequately prepare for his defense.
+			</section>
+			<section prefix="4">The circuit court may, for good cause shown, grant one or more extensions, not to exceed 30 days each.
+			</section>
+		</section>
+		<section prefix="D">1. The search warrant shall command the law-enforcement officer to complete the installation authorized by the search warrant within 15 days after issuance of the search warrant.
+			<section prefix="2">The law-enforcement officer executing the search warrant shall enter on it the exact date and time the device was installed and the period during which it was used.
+			</section>
+			<section prefix="3">Law-enforcement officers shall be permitted to monitor the tracking device during the period authorized in the search warrant, unless the period is extended as provided for in this section.
+			</section>
+			<section prefix="4">Law-enforcement officers shall remove the tracking device as soon as practical, but not later than 10 days after the use of the tracking device has ended. Upon request, and for good cause shown, the circuit court may grant one or more extensions for such removal for a period not to exceed 10 days each.
+			</section>
+			<section prefix="5">In the event that law-enforcement officers are unable to remove the tracking device as required by subdivision 4, the law-enforcement officers shall disable the device, if possible, and all use of the tracking device shall cease.
+			</section>
+			<section prefix="6">Within 10 days after the use of the tracking device has ended, the executed search warrant shall be returned to the circuit court of the county or city where there is probable cause to believe the offense for which the tracking device has been sought has been committed, is being committed, or will be committed, as designated in the search warrant, where it shall be preserved as a record by the clerk of the circuit court.
+			</section>
+		</section>
+		<section prefix="E">Within 10 days after the use of the tracking device has ended, a copy of the executed search warrant shall be served on the person who was tracked and the person whose property was tracked. Service may be accomplished by delivering a copy to the person who, or whose property, was tracked or by leaving a copy with any individual found at the person's usual place of abode who is a member of the person's family, other than a temporary sojourner or guest, and who is 16 years of age or older and by mailing a copy to the person's last known address. Upon request, and for good cause shown, the circuit court may grant one or more extensions for such service for a period not to exceed 30 days each. Good cause shall include, but not be limited to, a continuing criminal investigation, the potential for intimidation, the endangerment of an individual, or the preservation of evidence.
+		</section>
+		<section prefix="F">The disclosure or publication, without authorization of a circuit court, by a court officer, law-enforcement officer, or other person responsible for the administration of this section of the existence of a search warrant issued pursuant to this section, application for such search warrant, any affidavit filed in support of such warrant, or any return or data obtained as a result of such search warrant that is sealed by operation of law is punishable as a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>2012, cc. 636, 679; 2018, cc. 84, 215.</history>
+</law>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="14" level="4">Accounting, Returns, Procedures for Corporations</unit>
+	</structure>
+	<section_number>58.1-442</section_number>
+	<catch_line>Separate, combined, or consolidated returns of affiliated corporations</catch_line>
+	<text>
+		<section prefix="A">Corporations that are affiliated within the meaning of § 58.1-302 may, for any taxable year, file separate returns, file a combined return, or file a consolidated return of net income for the purpose of this chapter, and the taxes thereunder shall be computed and determined upon the basis of the type of return filed. Following an election to file on a separate, consolidated, or combined basis all returns thereafter filed shall be upon the same basis unless permission to change is granted by the Department.
+		</section>
+		<section prefix="B">For the purpose of subsection A:
+			<section prefix="1">A consolidated return shall mean a single return for a group of corporations affiliated within the meaning of § 58.1-302, prepared in accordance with the principles of § 1502 of the Internal Revenue Code and regulations promulgated thereunder. Permission to file a consolidated return shall not be denied to a group of affiliated corporations filing a consolidated federal return solely because two or more members of such affiliated group would be required to use different apportionment factors if separate returns were filed. The Tax Commissioner shall promulgate regulations setting forth the manner in which such an affiliated group shall compute its Virginia taxable income.
+			</section>
+			<section prefix="2">A combined return shall mean a single return for a group of corporations affiliated within the meaning of § 58.1-302, in which income or loss is separately determined in accordance with subdivisions a through d:
+				a. Virginia taxable income or loss is computed separately for each corporation;
+				b. Allocable income is allocated to the state of commercial domicile separately for each corporation;
+				c. Apportionable income or loss is computed, utilizing separate apportionment factors for each corporation;
+				d. Income or loss computed in accordance with subdivisions a, b, and c is combined and reported on a single return for the affiliated group.
+			</section>
+		</section>
+		<section prefix="C">Notwithstanding subsection A, a group of corporations may apply to the Tax Commissioner for permission to change the basis of the type of return filed (i) from consolidated to separate or (ii) from separate or combined to consolidated, if such corporations are affiliated within the meaning of § 58.1-302 and the affiliated group of which they are members, as it has existed from time to time, has filed on the same basis for at least the preceding 12 years. Permission shall be granted if the affiliated group agrees to file returns computing its Virginia income tax liability under both the new filing method and the former method and will pay the greater of the two amounts for the taxable year in which the new election is effective and for the immediately succeeding taxable year.
+		</section>
+		<section prefix="D">Notwithstanding subsections A and C, for taxable years beginning on and after January 1, 2023, but before January 1, 2025, a group of corporations may elect to change the basis of the type of return filed from combined to consolidated, if (i) such corporations are affiliated within the meaning of § 58.1-302; (ii) the affiliated group of which they are members, as it has existed from time to time, has filed on the same basis for at least the preceding 20 years; and (iii) on or before January 1, 2022, at least one member of the affiliated group of which they are members is a related entity within the meaning of § 58.1-302 to a state or national bank that is exempt from filing a Virginia corporate income tax return under subdivision 3 of § 58.1-401.
+			Any eligible affiliated group that elects to change the basis of the type of return pursuant to this subsection shall be required to agree to file returns computing its Virginia income tax liability under both the new filing method and the former method and shall pay the greater of the two amounts for the taxable year in which the new election is effective and for the immediately succeeding taxable year. A taxpayer shall provide notification to the Department of Taxation that an election pursuant to this subsection is being made. Such notification shall be submitted on forms as prescribed by the Department of Taxation.
+		</section>
+		<section prefix="E">If any provision of subsection D is for any reason held to be invalid or unconstitutional by the decision of a court of competent jurisdiction, then that provision shall not be deemed severable, and all provisions of subsection D shall expire and be unavailable for any affiliated group that has not made the election as of the date of such decision.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.079; 1971, Ex. Sess., c. 171; 1981, c. 402; 1984, c. 675; 1990, c. 619; 2003, c. 166; 2022, cc. 274, 416, 417; 2023, cc. 520, 521.</history>
+</law>

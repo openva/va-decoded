@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.8</section_number>
+	<catch_line>Copy; right to inspect; payment before inspection</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in §§ 59.1-506.3 and 59.1-506.4, if performance requires delivery of a copy, the following rules apply:
+			<section prefix="1">Except as otherwise provided in this section, the party receiving the copy has a right before payment or acceptance to inspect the copy at a reasonable place and time and in a reasonable manner to determine conformance to the contract.
+			</section>
+			<section prefix="2">The party making the inspection shall bear the expenses of inspection.
+			</section>
+			<section prefix="3">A place or method of inspection or an acceptance standard fixed by the parties is presumed to be exclusive. However, the fixing of a place, method, or standard does not postpone identification to the contract or shift the place for delivery, passage of title, or risk of loss. If compliance with the place or method becomes impossible, inspection must be made as provided in this section unless the place or method fixed by the parties was an indispensable condition the failure of which voids the contract.
+			</section>
+			<section prefix="4">A party's right to inspect is subject to existing obligations of confidentiality.
+			</section>
+		</section>
+		<section prefix="b">If a right to inspect exists under subsection (a) but the agreement is inconsistent with an opportunity to inspect before payment, the party does not have a right to inspect before payment.
+		</section>
+		<section prefix="c">If a contract requires payment before inspection of a copy, nonconformity in the tender does not excuse the party receiving the tender from making payment unless:
+			<section prefix="1">the nonconformity appears without inspection and would justify refusal under § 59.1-507.4; or
+			</section>
+			<section prefix="2">despite tender of the required documents, the circumstances would justify an injunction against honor of a letter of credit under Title 8.5A.
+			</section>
+		</section>
+		<section prefix="d">Payment made under circumstances described in subsection (b) or (c) is not an acceptance of the copy and does not impair a party's right to inspect or preclude any of the party's remedies.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

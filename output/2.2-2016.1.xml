@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="20.1" level="4">Virginia Information Technologies Agency</unit>
+		<unit label="article" identifier="2" level="5">Division of Project Management</unit>
+	</structure>
+	<section_number>2.2-2016.1</section_number>
+	<catch_line>Additional powers and duties of the CIO relating to project management</catch_line>
+	<text>
+		<section prefix="A">The CIO shall have the following duties related to the management of information technology projects:
+			<section prefix="1">Develop policies, standards, and guidelines that require the Division to review and recommend to the CIO Commonwealth information technology projects proposed by executive branch agencies. Such policies, standards, and guidelines shall include in the review an assessment of the (i) degree to which the project is consistent with the Commonwealth's overall strategic plan; (ii) technical feasibility of the project; (iii) benefits to the Commonwealth of the project, including customer service improvements; (iv) risks associated with the project; (v) continued funding requirements; and (vi) past performance by the executive branch agency on other projects.
+			</section>
+			<section prefix="2">Develop a Commonwealth Project Management Standard for information technology projects by executive branch agencies that establishes a methodology for the initiation, planning, execution, and closeout of information technology projects and related procurements. Such methodology shall include the establishment of appropriate oversight for information technology projects. The basis for the governance and oversight of information technology projects shall include, but not be limited to, an assessment of the project's risk and complexity. The Commonwealth Project Management Standard shall require that all such projects conform to the Commonwealth strategic plan for information technology developed and approved pursuant to subdivision A 3 of § 2.2-2007.1 and the strategic plans of agencies developed and approved pursuant to § 2.2-2014. All executive branch agencies shall conform to the requirements of the Commonwealth Project Management Standard.
+			</section>
+			<section prefix="3">Establish minimum qualifications and training standards for project managers.
+			</section>
+			<section prefix="4">Establish an information clearinghouse that identifies best practices and new developments and contains detailed information regarding the Commonwealth's previous experiences with the development of major information technology projects.
+			</section>
+			<section prefix="5">Review and approve or disapprove the selection or termination of any Commonwealth information technology project. The CIO shall disapprove any executive branch agency request to initiate a major information technology project or related procurement if funding for such project has not been included in the budget bill in accordance with § 2.2-1509.3, unless the Governor has determined that an emergency exists and a major information technology project is necessary to address the emergency. The CIO shall disapprove any Commonwealth information technology projects that do not conform to the Commonwealth strategic plan for information technology developed and approved pursuant to subdivision A 3 of § 2.2-2007.1 or to the strategic plan of executive branch agencies developed and approved pursuant to § 2.2-2014.
+			</section>
+			<section prefix="6">Establish Internal Agency Oversight Committees and Secretariat Oversight Committees as necessary and in accordance with § 2.2-2021.
+			</section>
+		</section>
+		<section prefix="B">The CIO may direct the modification, termination, or suspension of any Commonwealth information technology project that, as the result of a periodic review authorized by subdivision A 5 of § 2.2-2007, has not met the performance measures agreed to by the CIO and sponsoring executive branch agency, or if he otherwise deems such action appropriate and consistent with the terms of any affected contracts.
+			Nothing in this subsection shall be construed to supersede the responsibility of a governing board for the management and operation of a public institution of higher education.
+			The provisions of this subsection shall not apply to research projects, research initiatives, or instructional programs at public institutions of higher education. However, technology investments in research projects, research initiatives, or instructional programs at such institutions estimated to cost $1 million or more of general fund appropriations may be reviewed as provided in subdivision A 5 of § 2.2-2007. The CIO and the Secretary of Education, in consultation with public institutions of higher education, shall develop and provide to such institution criteria to be used in determining whether projects are mission-critical.
+		</section>
+	</text>
+	<history>2016, c. 296.</history>
+</law>

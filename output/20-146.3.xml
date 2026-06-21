@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>20-146.3</section_number>
+	<catch_line>Application to Indian tribes</catch_line>
+	<text>
+		<section prefix="A">A child custody proceeding that pertains to an Indian child as defined in the Indian Child Welfare Act, 25 U.S.C. § 1901 et seq., is not subject to this act to the extent that it is governed by the Indian Child Welfare Act.
+		</section>
+		<section prefix="B">A court of this Commonwealth shall treat a tribe as if it were a state of the United States for the purpose of applying this article and Article 2 (§ 20-146.12 et seq.) of this chapter.
+		</section>
+		<section prefix="C">A child custody determination made by a tribe under factual circumstances in substantial conformity with the jurisdictional standards of this act must be recognized and enforced under Article 3 (§ 20-146.22 et seq.) of this chapter.
+		</section>
+	</text>
+	<history>2001, c. 305.</history>
+</law>

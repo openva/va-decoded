@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="21.2" level="2">Mediation</unit>
+	</structure>
+	<section_number>8.01-581.26</section_number>
+	<catch_line>Vacating orders and agreements</catch_line>
+	<text>
+		Upon the filing of an independent action by a party, the court shall vacate a mediated agreement reached in a mediation pursuant to this chapter, or vacate an order incorporating or resulting from such agreement, where:
+		<section prefix="1">The agreement was procured by fraud or duress, or is unconscionable;
+		</section>
+		<section prefix="2">If property or financial matters in domestic relations cases involving divorce, property, support or the welfare of a child are in dispute, the parties failed to provide substantial full disclosure of all relevant property and financial information; or
+		</section>
+		<section prefix="3">There was evident partiality or misconduct by the mediator, prejudicing the rights of any party.
+			For purposes of this section, "misconduct" includes failure of the mediator to inform the parties at the commencement of the mediation process that: (i) the mediator does not provide legal advice, (ii) any mediated agreement may affect the legal rights of the parties, (iii) each party to the mediation has the opportunity to consult with independent legal counsel at any time and is encouraged to do so, and (iv) each party to the mediation should have any draft agreement reviewed by independent counsel prior to signing the agreement.
+		</section>
+	</text>
+	<history>2002, c. 718.</history>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="1" level="2">Short Title and General Matters</unit>
+	</structure>
+	<section_number>8.8A-109</section_number>
+	<catch_line>Warranties in indirect holding</catch_line>
+	<text>
+		<section prefix="a">A person who originates an entitlement order to a securities intermediary warrants to the securities intermediary that:
+			<section prefix="1">the entitlement order is made by an appropriate person, or if the entitlement order is by an agent, the agent has actual authority to act on behalf of the appropriate person; and
+			</section>
+			<section prefix="2">there is no adverse claim to the security entitlement.
+			</section>
+		</section>
+		<section prefix="b">A person who delivers a security certificate to a securities intermediary for credit to a securities account or originates an instruction with respect to an uncertificated security directing that the uncertificated security be credited to a securities account makes to the securities intermediary the warranties specified in § 8.8A-108 (a) or (b).
+		</section>
+		<section prefix="c">If a securities intermediary delivers a security certificate to its entitlement holder or causes its entitlement holder to be registered as the owner of an uncertificated security, the securities intermediary makes to the entitlement holder the warranties specified in § 8.8A-108 (a) or (b).
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

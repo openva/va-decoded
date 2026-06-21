@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="V" level="2">Occupations Regulated by Local Governing Bodies</unit>
+		<unit label="chapter" identifier="40" level="3">Pawnbrokers</unit>
+	</structure>
+	<section_number>54.1-4003</section_number>
+	<catch_line>Bond required; private action on bond</catch_line>
+	<text>
+		<section prefix="A">No natural person shall be licensed as a pawnbroker or engage in the business of a pawnbroker without having in existence a bond with surety in the minimum amount of $50,000 to secure the payment of any judgment recovered under the provisions of subsection B.
+		</section>
+		<section prefix="B">Any person who recovers a judgment against a licensed pawnbroker for the pawnbroker's misconduct may maintain an action in his own name upon the bond of the pawnbroker if the execution issued upon such judgment is wholly or partially unsatisfied.
+		</section>
+	</text>
+	<history>Code 1950, § 54-845; 1988, c. 765; 1998, c. 848; 2019, c. 238.</history>
+</law>

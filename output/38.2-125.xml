@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions</unit>
+		<unit label="article" identifier="2" level="3">Insurance Classified and Defined</unit>
+	</structure>
+	<section_number>38.2-125</section_number>
+	<catch_line>Aircraft</catch_line>
+	<text>
+		"Aircraft insurance" means insurance against:
+		<section prefix="1">Loss of or damage to aircraft and its equipment, resulting from any cause, and against legal liability of the insured for loss of or damage to the property of another resulting from the ownership, maintenance or use of aircraft and against loss, damage or expense incident to a claim of liability; or
+		</section>
+		<section prefix="2">Legal liability of the insured, and against loss, damage, or expense incident to a claim of liability, arising out of the death or injury of any person resulting from the ownership, maintenance or use of aircraft.
+			Any policy of "aircraft insurance" covering legal liability of the insured under subdivision 2 of this section may include appropriate provisions obligating the insurer to pay medical, chiropractic, hospital, surgical, and funeral expenses arising out of the death or injury of any person.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-21; 1956, c. 678; 1962, c. 253; 1983, c. 448; 1984, c. 311; 1986, c. 562.</history>
+</law>

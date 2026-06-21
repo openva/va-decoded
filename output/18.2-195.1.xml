@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="6" level="2">Crimes Involving Fraud</unit>
+		<unit label="article" identifier="6" level="3">Offenses Relating to Credit Cards</unit>
+	</structure>
+	<section_number>18.2-195.1</section_number>
+	<catch_line>Credit card factoring</catch_line>
+	<text>
+		<section prefix="A">Any authorized person who presents to the issuer or acquirer for payment a credit card or credit card number transaction record of a sale which was not made by such person or his agent or employee, without the express authorization of the acquirer and with intent to defraud the issuer, acquirer or cardholder, is guilty of a Class 5 felony. If such act is done without authorization of the acquirer but without intent to defraud, he shall be guilty of a Class 1 misdemeanor.
+		</section>
+		<section prefix="B">Any person who, without the express authorization of the acquirer and with intent to defraud the issuer, acquirer or cardholder, employs or otherwise causes an authorized person to remit to an acquirer or issuer a credit card transaction record of sale that was not made by the authorized person is guilty of a Class 5 felony. If such act is done without the authorization of the acquirer but without intent to defraud, he shall be guilty of a Class 1 misdemeanor.
+		</section>
+		<section prefix="C">As used in this section, "authorized person" means a person authorized by the acquirer to furnish money, goods, services or anything else of value upon presentation of a credit card or credit card number by a cardholder and includes an agent or employee of a person having such authority.
+		</section>
+	</text>
+	<history>1991, c. 546.</history>
+</law>

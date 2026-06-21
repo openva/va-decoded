@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="II" level="2">Boards, Councils, Foundations, and Commissions</unit>
+		<unit label="part" identifier="B" level="3">Commodity Boards</unit>
+		<unit label="chapter" identifier="14" level="4">Corn Board</unit>
+	</structure>
+	<section_number>3.2-1414</section_number>
+	<catch_line>Falsification of records; misdemeanor</catch_line>
+	<text>
+		It is a Class 1 misdemeanor:
+		<section prefix="1">For any handler knowingly to report falsely to the Tax Commissioner the quantity of corn handled by him during any period.
+		</section>
+		<section prefix="2">For any handler to falsify the records of the corn handled by him.
+		</section>
+		<section prefix="3">For any handler to preserve the records of the corn handled by him for less than three years from the time such corn was handled.
+		</section>
+	</text>
+	<history>1980, c. 395, § 3.1-1049; 2008, c. 860.</history>
+</law>

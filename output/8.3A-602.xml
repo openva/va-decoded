@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="6" level="2">Discharge and Payment</unit>
+	</structure>
+	<section_number>8.3A-602</section_number>
+	<catch_line>Payment</catch_line>
+	<text>
+		<section prefix="a">Subject to subsection (b), an instrument is paid to the extent payment is made (i) by or on behalf of a party obliged to pay the instrument, and (ii) to a person entitled to enforce the instrument. To the extent of the payment, the obligation of the party obliged to pay the instrument is discharged even though payment is made with knowledge of a claim to the instrument under § 8.3A-306 by another person.
+		</section>
+		<section prefix="b">The obligation of a party to pay the instrument is not discharged under subsection (a) if:
+			<section prefix="1">a claim to the instrument under § 8.3A-306 is enforceable against the party receiving payment and (i) payment is made with knowledge by the payor that payment is prohibited by injunction or similar process of a court of competent jurisdiction, or (ii) in the case of an instrument other than a cashier's check, teller's check, or certified check, the party making payment accepted, from the person having a claim to the instrument, indemnity against loss resulting from refusal to pay the person entitled to enforce the instrument; or
+			</section>
+			<section prefix="2">the person making payment knows that the instrument is a stolen instrument and pays a person it knows is in wrongful possession of the instrument.
+			</section>
+		</section>
+		<section prefix="c">Within 90 days following payment in full of the obligation represented by an instrument, the holder of the instrument shall return it to the maker or his agent, unless it no longer is in existence. If the instrument no longer is in existence, upon request from the maker or his agent, the holder shall give written confirmation that the instrument no longer is in existence and the obligation has been paid in full, within 90 days of such request. In such event the holder shall be deemed to have satisfied its obligation under this subsection.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-403, 6-472, 6-473, 6-524 through 6-530; 1964, c. 219, § 8.3-603; 1992, c. 693; 2003, c. 342.</history>
+</law>

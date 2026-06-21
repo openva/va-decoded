@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="1" level="1">General Provisions</unit>
+		<unit label="chapter" identifier="2.1" level="2">Common Law and Rules of Construction</unit>
+		<unit label="article" identifier="2" level="3">Rules of Construction and Definitions</unit>
+	</structure>
+	<section_number>1-228</section_number>
+	<catch_line>Oath</catch_line>
+	<text>
+		"Oath" includes affirmation.
+	</text>
+	<history>Code 1919, § 5; Code 1950, § 1-13; 1950, p. 22, § 1-13.16; 2005, c. 839.</history>
+</law>

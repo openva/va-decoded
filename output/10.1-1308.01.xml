@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="13" level="3">Air Pollution Control Board</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>10.1-1308.01</section_number>
+	<catch_line>Qualified fumigation facilities</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section, a "qualified fumigation facility" means a facility that:
+			<section prefix="1">Conducts commodity fumigation using any chemical regulated under Section 112(b) of the federal Clean Air Act of foods, products, components, livestock or materials including fumigation subject to regulation by either the U.S. Department of Agriculture or the U.S. Food and Drug Administration, or conducts such fumigation as required by other international, federal, or state regulations or requirements;
+			</section>
+			<section prefix="2">Is not otherwise exempt under regulations of the Board for toxic air pollutants;
+			</section>
+			<section prefix="3">Has the potential to emit less than 10 tons per year of any hazardous air pollutant or 25 tons per year of any combination of hazardous air pollutants regulated by the Board pursuant to its regulations in Articles 4 (9VAC5-60-200 et seq.) and 5 (9VAC5-60-300 et seq.) of Chapter 60 (9VAC5-60); or is not otherwise subject to regulation under the provisions of the federal Clean Air Act (42 U.S.C. § 7401 et seq.) related to hazardous air pollutants. For determining potential to emit, "facility" means any building, structure, facility or installation that emits or may emit any regulated air pollutant. A facility shall include all of the pollutant-emitting activities that belong to the same industrial grouping, are located on one or more contiguous or adjacent properties, and are under the control of the same person or persons under common control;
+			</section>
+			<section prefix="4">Operates in compliance with all federal and state regulations for licensing and operation of fumigation facilities and licensing of fumigant applicators; and
+			</section>
+			<section prefix="5">Conducts fumigation activities that are, at a minimum, one of the following:
+				a. Performed in buildings or locations within the facility that are no closer than 300 feet from any building, structure, or area not within the facility if such building, structure, or area is regularly occupied by the public. The conditions in this subdivision may be waived or reduced by the Department, in consultation with the Department of Agriculture and Consumer Services;
+				b. Performed in buildings or containers that are sealed during fumigation and that voluntarily employ capture and control technologies for the fumigant emissions; or
+				c. Monitored utilizing equipment and methods recognized by the National Institute for Occupational Safety and Health, or other equipment and methods widely accepted as an industry standard, to ensure the applicable fumigant airborne concentrations referenced in the permissible exposure limits established by the Department of Labor and Industry or the parts per million standard stipulated in the federally approved pesticide labeling, whichever is more stringent, is not exceeded at the fence or property line during active fumigation and fumigation aeration.
+			</section>
+		</section>
+		<section prefix="B">The operator of a qualified fumigation facility shall provide to the Department, by first-class mail, facsimile, or electronic mail:
+			<section prefix="1">A written notice prior to conducting fumigation activity at the facility that shall include:
+				a. Exact physical location at the facility of the particular fumigation operation and distance from any building, structure, or other area regularly occupied by the public;
+				b. Object being fumigated (e.g. rail car, truck container, warehouse, bin, storage silo, open pallet of product);
+				c. Product being fumigated;
+				d. Number of objects and quantity of product being fumigated;
+				e. Containment system (e.g. tarp, sealed container);
+				f. Fumigant to be used;
+				g. Expected quantity of fumigant to be used;
+				h. Expected duration of fumigation;
+				i. Expected duration of aeration;
+				j. Material safety data sheet (MSDS) for fumigant; and
+				k. A brief description of capture and control device, if used pursuant to subdivision A 5 b.
+			</section>
+			<section prefix="2">A written report completed within four business days following the completion of the fumigation activity that shall include:
+				a. Total quantity of fumigant actually used;
+				b. Actual duration of aeration; and
+				c. Monitoring results for fumigation operations conducted pursuant to subdivision A 5 c.
+			</section>
+		</section>
+		<section prefix="C">Prior to the application of fumigant at the site, a facility shall post visible and legible signs at the facility fence or property line closest to any public right-of-way. The signs shall remain in place until completion of the aeration process and shall conform to the format for placards mandated by the federally approved fumigant label.
+		</section>
+		<section prefix="D">In-transit fumigations where the planned aeration is scheduled to occur outside of the Commonwealth are not subject to Board regulations.
+		</section>
+	</text>
+	<history>2011, c. 393.</history>
+</law>

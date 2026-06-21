@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="4.1" level="1">Alcoholic Beverage and Cannabis Control</unit>
+		<unit label="subtitle" identifier="I" level="2">Alcoholic Beverage Control Act</unit>
+		<unit label="chapter" identifier="5" level="3">Beer Franchise Act</unit>
+	</structure>
+	<section_number>4.1-515</section_number>
+	<catch_line>Waiver prohibited; conflicts of laws</catch_line>
+	<text>
+		<section prefix="A">No brewery shall require any wholesaler to waive compliance with any provision of this chapter. Any contract or agreement purporting to do so is void and unenforceable to the extent of the waiver or variance. Nothing in this chapter shall limit or prohibit good faith settlements of disputes voluntarily entered into between the parties.
+		</section>
+		<section prefix="B">Any contract between a brewery and a beer wholesaler pursuant to which the wholesaler is to market the brewery's products in the Commonwealth shall be governed by the laws of the Commonwealth as the place of performance notwithstanding the fact that such contract may have been made in another state or the fact that such contract may provide that it is to be governed by the laws of another state.
+		</section>
+	</text>
+	<history>1978, c. 579, § 4-118.16; 1989, c. 272; 1993, c. 866.</history>
+</law>

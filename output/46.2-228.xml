@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions; Department of Motor Vehicles</unit>
+		<unit label="chapter" identifier="2" level="3">Department of Motor Vehicles</unit>
+		<unit label="article" identifier="3" level="4">Electronic Credentials Act</unit>
+	</structure>
+	<section_number>46.2-228</section_number>
+	<catch_line>Design of electronic credentials</catch_line>
+	<text>
+		<section prefix="A">The Department and other agencies that enter into an agreement with the Department pursuant to subsection C of § 46.2-226 may create and issue profiles to be used in those circumstances where the display of the data fields would satisfy the purpose for which the profile is being presented.
+		</section>
+		<section prefix="B">Electronic credentials and electronic credential systems shall be designed so that there is no need for the credential holder to relinquish possession of the device in which the electronic credential system is installed in order to present the credential or for the person to whom the credential is presented to search the verification system to confirm the validity of the credential.
+		</section>
+		<section prefix="C">Electronic credential and verification systems shall be designed to protect the credential holder's privacy, including by use of privacy-enhancing technologies or other appropriate methods. If the Department enters into an agreement with the owner of a third-party electronic credential system, the agreement shall require the owner of that system to take appropriate measures to protect the credential holder's privacy.
+		</section>
+	</text>
+	<history>2017, c. 697.</history>
+</law>

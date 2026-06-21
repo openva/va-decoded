@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="III" level="2">Mineral Mines</unit>
+		<unit label="part" identifier="B" level="3">Underground Mineral Mines</unit>
+		<unit label="chapter" identifier="14" level="4">Requirements Applicable to Underground Mineral Mines</unit>
+	</structure>
+	<section_number>45.2-1404</section_number>
+	<catch_line> Standards for regulations</catch_line>
+	<text>
+		In adopting regulations pursuant to § 45.2-1401 or 45.2-1402, the Director shall consider:
+		<section prefix="1">Standards utilized and generally recognized by the underground mineral mining industry;
+		</section>
+		<section prefix="2">Standards established by recognized professional mineral mining organizations and groups;
+		</section>
+		<section prefix="3">The federal mine safety law;
+		</section>
+		<section prefix="4">Research, demonstrations, experiments, and any other information available regarding the maintenance of a reasonable degree of safety protection, including the latest available scientific data in the field, the technical and economic feasibility of such standards, and experience gained under the Act and other mine safety laws; and
+		</section>
+		<section prefix="5">Any other criteria necessary to ensure the safety and health of miners and other persons or property likely to be affected by any underground mineral mine or related operation.
+		</section>
+	</text>
+	<history>1994, c. 28, § 45.1-161.295; 2021, Sp. Sess. I, c. 387.</history>
+</law>

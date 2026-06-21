@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="III" level="2">Rental Conveyances</unit>
+		<unit label="chapter" identifier="12" level="3">Virginia Residential Landlord and Tenant Act</unit>
+		<unit label="article" identifier="4" level="4">Tenant Remedies</unit>
+	</structure>
+	<section_number>55.1-1237</section_number>
+	<catch_line>Notice to tenant in event of foreclosure</catch_line>
+	<text>
+		<section prefix="A">The landlord of a dwelling unit used as a single-family residence shall give written notice to the tenant or any prospective tenant of such dwelling unit that the landlord has received a notice of a mortgage default, mortgage acceleration, or foreclosure sale relative to the loan on the dwelling unit within five business days after written notice from the lender is received by the landlord. This requirement shall not apply (i) to any managing agent who does not receive a copy of such written notice from the lender or (ii) if the tenant or prospective tenant provides a copy of the written notice from the lender to the landlord or the managing agent.
+		</section>
+		<section prefix="B">If the landlord fails to provide the notice required by this section, the tenant shall have the right to terminate the rental agreement upon written notice to the landlord at least five business days prior to the effective date of termination. If the tenant terminates the rental agreement, the landlord shall make disposition of the tenant's security deposit in accordance with law or the provisions of the rental agreement, whichever is applicable.
+		</section>
+		<section prefix="C">If the dwelling unit is foreclosed upon and there is a tenant in such dwelling unit on the date of the foreclosure sale, the successor in interest who acquires the dwelling unit at the foreclosure sale shall assume such interest subject to the following:
+			<section prefix="1">If the successor in interest acquires the dwelling unit for the purpose of occupying such unit as his primary residence, the successor in interest shall provide written notice to the tenant, in accordance with the provisions of § 55.1-1202, notifying the tenant that the rental agreement is terminated and that the tenant must vacate the dwelling unit on a date not less than 90 days after the date of such written notice.
+			</section>
+			<section prefix="2">If the successor in interest acquires the dwelling unit for any other purpose, the successor in interest shall acquire the dwelling unit subject to the rental agreement and the tenant shall be permitted to occupy the dwelling unit for the remaining term of the lease, provided, however, that the successor in interest may terminate the rental agreement pursuant to § 55.1-1245 or the terms of the rental agreement. The successor in interest shall provide written notice to the tenant, in accordance with the provisions of § 55.1-1202, informing the tenant of such.
+				The terms of the terminated rental agreement remain in effect except that the tenant shall make rental payments (i) to the successor owner as directed in a written notice to the tenant in this subsection; (ii) to the managing agent of the owner, if any, or successor owner; or (iii) into a court escrow account pursuant to the provisions of § 55.1-1244; however, there is no obligation of a tenant to file a tenant's assertion and pay rent into escrow. Where there is not a managing agent designated in the rental agreement, the tenant shall remain obligated for payment of the rent but shall not be held to be delinquent or assessed a late charge until the successor owner provides written notice identifying the name, address, and telephone number of the party to which the rent should be paid.
+			</section>
+		</section>
+	</text>
+	<history>2018, c. 221, § 55-248.21:3; 2019, c. 712; 2021, Sp. Sess. I, c. 426.</history>
+</law>

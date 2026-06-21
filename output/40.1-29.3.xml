@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3" level="2">Protection of Employees</unit>
+		<unit label="article" identifier="2" level="3">Pay; Assignment of Wages; Sale of Merchandise to Employees</unit>
+	</structure>
+	<section_number>40.1-29.3</section_number>
+	<catch_line>Overtime for certain employees</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Carrier" means an air carrier that is subject to the provisions of the federal Railway Labor Act, 45 U.S.C. § 181 et seq.
+			"Derivative carrier" means a carrier that meets the two-part test used by the federal National Mediation Board to determine if a carrier is considered a derivative carrier.
+			"Employee" means an individual employed by a derivative carrier.
+		</section>
+		<section prefix="B">An employer shall pay each employee an overtime premium at a rate not less than one and one-half times the employee's regular rate for any hours worked by an employee in excess of 40 hours in any one workweek. An employee's regular rate shall be calculated as the employee's hourly rate of pay plus any other non-overtime wages paid or allocated for that workweek, excluding any amounts that would be excluded from the regular rate by the federal Fair Labor Standards Act, 29 U.S.C. § 201 et seq., and its implementing regulations for an individual covered by such federal act, divided by the total number of hours worked in that workweek.
+		</section>
+		<section prefix="C">If an employer fails to pay overtime wages to an employee in accordance with this section, the employee may bring an action against the employer in a court of competent jurisdiction to recover payment of the overtime wages, and the court shall award the overtime wages owed, an additional equal amount as liquidated damages, and reasonable attorney fees and costs; however, if the employer shows to the satisfaction of the court that the act or omission giving rise to such action was in good faith and that he had reasonable grounds for believing that his act or omission was not a violation of this section, the court may, in its discretion, award no liquidated damages or award any amount thereof not to exceed the amount of the unpaid overtime wages.
+		</section>
+		<section prefix="D">An action under this section shall be commenced within two years after the cause of action accrued, except that a cause of action arising out of a willful violation may be commenced within three years after the cause of action accrued.
+		</section>
+	</text>
+	<history>2022, cc. 461, 462.</history>
+</law>

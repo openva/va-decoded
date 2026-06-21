@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="12" level="3">Abandoned, Immobilized, Unattended and Trespassing Vehicles; Parking</unit>
+		<unit label="article" identifier="1" level="4">Abandoned Vehicles</unit>
+	</structure>
+	<section_number>46.2-1200.2</section_number>
+	<catch_line>Vehicles registered to active duty military personnel</catch_line>
+	<text>
+		Whenever a vehicle is shown by the Department records to be owned by a person who has indicated that he is on active military duty or service, the Department shall include such information in response to requests for vehicle information pursuant to the requirements of this chapter.
+		Notwithstanding any provisions of this chapter, any person disposing of a vehicle under the provisions of this chapter shall determine whether the provisions of the federal Servicemembers Civil Relief Act (50 U.S.C. § 3901 et seq.) (the Act) apply to the circumstances of such disposition. The presence on a vehicle record of an indicator that the owner is on active military duty or service shall be an indication that the Act may apply. However, should the person determine that the Act applies, the indicator on the vehicle record shall not satisfy any obligation under the Act to ascertain the owner's military status, nor shall the absence of an indicator suffice to establish that the owner is not on active military duty or service.
+	</text>
+	<history>2008, c. 171; 2021, Sp. Sess. I, c. 374.</history>
+</law>

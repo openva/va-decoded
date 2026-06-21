@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="27" level="2">Basic Property Insurance Residual Market Facility and Joint Underwriting Association</unit>
+	</structure>
+	<section_number>38.2-2701</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter:
+		"Basic property insurance" means insurance against direct loss to any property caused by perils defined and limited in the standard fire policy prescribed in §§ 38.2-2101 through 38.2-2112, and in the extended coverage endorsement approved by the Commission pursuant to § 38.2-2117 and such additional lines of insurance and forms of coverage as may be recommended by the governing body of the residual market facility and approved by the Commission.
+		"Inspection service" means any organization designated or approved by the Commission to determine the insurability and conditions of the properties for which basic property insurance is sought.
+		"Net direct premiums written" means gross direct premiums written in this Commonwealth on all policies of basic property insurance and the basic property insurance component of multi-peril policies less (i) all return premiums on those policies, (ii) dividends paid or credited to policyholders, and (iii) the unused or unabsorbed portions of premium deposits.
+		"Qualified property" means all real property and all tangible personal property at a fixed location in this Commonwealth, whether or not the property is subject to exposure from an external hazard located on property that is neither owned nor controlled by the prospective insured, and whether or not the property is subject to exposure from riot hazard, where the property:
+		<section prefix="1">Is not used for manufacturing purposes;
+		</section>
+		<section prefix="2">Complies with applicable state laws and regulations and local building codes and ordinances;
+		</section>
+		<section prefix="3">Is not commonly owned or controlled, or combinable for rating purposes, with property insured for similar coverages elsewhere; and
+		</section>
+		<section prefix="4">Has characteristics of ownership, condition or occupancy that do not violate any public policy.
+			"Residual market facility" means any organization approved by the Commission to equitably distribute the responsibility to provide basic property insurance on qualified property among insurers licensed to write basic property insurance or other insurance containing a basic property insurance component.
+		</section>
+	</text>
+	<history>1968, c. 559, § 38.1-747; 1980, c. 156; 1982, c. 664; 1986, c. 562; 1987, c. 520; 1995, c. 119.</history>
+</law>

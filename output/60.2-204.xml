@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="2" level="2">Definitions</unit>
+	</structure>
+	<section_number>60.2-204</section_number>
+	<catch_line>Base period</catch_line>
+	<text>
+		"Base period" means the first four of the last five completed calendar quarters immediately preceding the first day of the claimant's benefit year; however, if the claimant has earned insufficient wages in the first four of the last five completed calendar quarters to become eligible for benefits, then such claimant's "base period" shall be the four most recent completed calendar quarters immediately preceding the first day of the claimant's benefit year.
+	</text>
+	<history>Code 1950, § 60-6.1; 1956, c. 440; 1968, c. 738, § 60.1-6; 1974, c. 466; 1986, c. 480; 2003, c. 383.</history>
+</law>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="2" level="4">Governor's Secretaries</unit>
+		<unit label="article" identifier="2" level="5">Secretary of Administration</unit>
+	</structure>
+	<section_number>2.2-203.2:5</section_number>
+	<catch_line>Additional duties of the Secretary; technology programs</catch_line>
+	<text>
+		Unless the Governor expressly reserves such power to himself, the Secretary may, with regard to strategy development, planning, and budgeting for technology programs in the Commonwealth:
+		<section prefix="1">Continuously monitor and analyze the technology investments and strategic initiatives of other states to ensure that the Commonwealth remains competitive.
+		</section>
+		<section prefix="2">Designate specific projects as enterprise information technology projects, prioritize the implementation of enterprise information technology projects, and establish enterprise oversight committees to provide ongoing oversight for enterprise information technology projects. At the discretion of the Governor, the Secretary shall designate a state agency or public institution of higher education as the business sponsor responsible for implementing an enterprise information technology project and shall define the responsibilities of lead agencies that implement enterprise information technology projects. For purposes of this subdivision, "enterprise" means an organization with common or unifying business interests. An enterprise may be defined at the Commonwealth level or Secretariat level for programs and project integration within the Commonwealth, Secretariats, or multiple agencies.
+		</section>
+		<section prefix="3">Establish Internal Agency Oversight Committees and Secretariat Oversight Committees as necessary and in accordance with § 2.2-2021.
+		</section>
+		<section prefix="4">Review and approve the Commonwealth strategic plan for information technology, as developed and recommended by the Chief Information Officer pursuant to subdivision A 3 of § 2.2-2007.1.
+		</section>
+		<section prefix="5">Communicate regularly with the Governor and other Secretaries regarding issues related to the provision of information technology services in the Commonwealth, statewide technology initiatives, and investments and other efforts needed to achieve the Commonwealth's information technology strategic goals.
+		</section>
+	</text>
+	<history>2020, c. 738.</history>
+</law>

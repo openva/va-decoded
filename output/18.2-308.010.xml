@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="7" level="2">Crimes Involving Health and Safety</unit>
+		<unit label="article" identifier="6.1" level="3">Concealed Weapons and Concealed Handgun Permits</unit>
+	</structure>
+	<section_number>18.2-308.010</section_number>
+	<catch_line>Renewal of concealed handgun permit</catch_line>
+	<text>
+		<section prefix="A">1. Persons who previously have held a concealed handgun permit shall be issued, upon application as provided in § 18.2-308.02, a new five-year permit unless it is found that the applicant is subject to any of the disqualifications set forth in § 18.2-308.09. Persons who previously have been issued a concealed handgun permit pursuant to this article shall not be required to appear in person to apply for a new five-year permit pursuant to this section, and the application for the new permit, including a photocopy of the applicant's valid photo identification, may be submitted via the United States mail. The circuit court that receives the application shall promptly notify an applicant if the application is incomplete or if the fee submitted for the permit pursuant to § 18.2-308.03 is incorrect.
+			<section prefix="2">If a new five-year permit is issued while an existing permit remains valid, the new five-year permit shall become effective upon the expiration date of the existing permit, provided that the application is received by the court at least 90 days but no more than 180 days prior to the expiration of the existing permit.
+			</section>
+			<section prefix="3">Any order denying issuance of the new permit shall be in accordance with subsection A of § 18.2-308.08.
+			</section>
+		</section>
+		<section prefix="B">If a permit holder is a member of the Virginia National Guard, Armed Forces of the United States, or the Armed Forces Reserves of the United States, and his five-year permit expires during an active-duty military deployment outside of the permittee's county or city of residence, such permit shall remain valid for 90 days after the end date of the deployment. In order to establish proof of continued validity of the permit, such a permittee shall carry with him and display, upon request of a law-enforcement officer, a copy of the permittee's deployment orders or other documentation from the permittee's commanding officer that order the permittee to travel outside of his county or city of residence and that indicate the start and end date of such deployment.
+		</section>
+		<section prefix="C">If the clerk has an electronic system for, and issuance of, concealed handgun permits and such system has the capability of sending electronic notices to permit holders and if a permit holder requests such notice on the concealed handgun application form, the clerk that issued the permit shall notify the permit holder by electronic mail at least 90 days prior to the permit expiration date that the permit will expire. The failure of a clerk to send the notice required by this subsection or the failure of the permit holder to receive such notice shall not extend the validity of the existing permit beyond its expiration date.
+		</section>
+	</text>
+	<history>2013, c. 746; 2017, cc. 99, 237.</history>
+</law>

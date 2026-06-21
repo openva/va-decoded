@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="10" level="3">Standard Valuation</unit>
+	</structure>
+	<section_number>38.2-1372</section_number>
+	<catch_line>Reserve valuation method; life insurance and endowment benefits</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in §§ 38.2-1373, 38.2-1376, and 38.2-1378, reserves according to the Commissioners reserve valuation method for the life insurance and endowment benefits of policies providing for a uniform amount of insurance and requiring the payment of uniform premiums shall be the excess, if any, of the present value, at the date of valuation, of the future guaranteed benefits provided for by those policies, over the then-present value of any future modified net premiums for those policies. The modified net premiums for a policy shall be the uniform percentage of the respective contract premiums for the benefits, excluding any extra premiums charged because of impairments or special hazards, such that the present value, at the date of issue of the policy, of all modified net premiums shall be equal to the sum of the then-present value of the benefits provided for by the policy and the excess of subdivision 1 over subdivision 2, as follows:
+			<section prefix="1">A net level annual premium equal to the present value, at the date of issue, of the benefits provided for after the first policy year, divided by the present value, at the date of issue, of an annuity of one per annum payable on the first and each subsequent anniversary of the policy on which a premium falls due. However, the net level annual premium shall not exceed the net level annual premium on the nineteen-year premium whole life plan for insurance of the same amount at an age one year higher than the age at issue of the policy.
+			</section>
+			<section prefix="2">A net one-year term premium for the benefits provided for in the first policy year.
+			</section>
+		</section>
+		<section prefix="B">For a life insurance policy issued on or after January 1, 1986, for which the contract premium in the first policy year exceeds that of the second year and for which no comparable additional benefit is provided in the first year for the excess, and that provides an endowment benefit or a cash surrender value or a combination in an amount greater than the excess premium, the reserve according to the Commissioners reserve valuation method as of any policy anniversary occurring on or before the assumed ending date, defined herein as the first policy anniversary on which the sum of any endowment benefit and any cash surrender value then available is greater than the excess premium, shall, except as otherwise provided in § 38.2-1376, be the greater of the reserve as of the policy anniversary calculated as described in subsection A and the reserve as of the policy anniversary calculated as described in that subsection but with (i) the value defined in subdivision A 1 being reduced by 15 percent of the amount of such excess first-year premium, (ii) all present values of benefits and premiums being determined without reference to premiums or benefits provided for by the policy after the assumed ending date, (iii) the policy being assumed to mature on that date as an endowment, and (iv) the cash surrender value provided on that date being considered as an endowment benefit. In making the above comparison, the mortality and interest bases stated in §§ 38.2-1369 and 38.2-1371 shall be used.
+		</section>
+		<section prefix="C">Reserves according to the Commissioners reserve valuation method shall be calculated by a method consistent with the principles of the preceding subsections for:
+			<section prefix="1">Life insurance policies providing for a varying amount of insurance or requiring the payment of varying premiums;
+			</section>
+			<section prefix="2">Group annuity and pure endowment contracts purchased under a retirement plan or plan of deferred compensation, established or maintained by an employer, including a partnership or sole proprietorship, or by an employee organization, or by both, other than a plan providing individual retirement accounts or individual retirement annuities under § 408 of the Internal Revenue Code, as now or hereafter amended;
+			</section>
+			<section prefix="3">Disability and accidental death benefits in all policies and contracts; and
+			</section>
+			<section prefix="4">All other benefits, except life insurance and endowment benefits in life insurance policies and benefits provided by all other annuity and pure endowment contracts.
+			</section>
+		</section>
+	</text>
+	<history>2014, c. 571.</history>
+</law>

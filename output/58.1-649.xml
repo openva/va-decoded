@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="6.2" level="3">Virginia Communications Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-649</section_number>
+	<catch_line>Sourcing rules for communication services</catch_line>
+	<text>
+		<section prefix="A">Except for the defined communication services in subsection C, the sale of communications service sold on a call-by-call basis shall be sourced to the Commonwealth when the call (i) originates and terminates in the Commonwealth or (ii) either originates or terminates in the Commonwealth and the service address is also located in the Commonwealth.
+		</section>
+		<section prefix="B">Except for the defined communication services in subsection C, a sale of communication services sold on a basis other than a call-by-call basis, shall be sourced to the customer's place of primary use.
+		</section>
+		<section prefix="C">The sale of the following communication services shall be sourced to the Commonwealth as follows:
+			<section prefix="1">Subject to the definitions and exclusions of the federal Mobile Telecommunications Sourcing Act, 4 U.S.C. § 116, a sale of mobile communication services shall be sourced to the customer's place of primary use.
+			</section>
+			<section prefix="2">A sale of postpaid calling service shall be sourced to the origination point of the communications signal as first identified by either (i) the seller's communications system, or (ii) information received by the seller from its service provider, where the system used to transport such signals is not that of the seller.
+			</section>
+			<section prefix="3">A sale of a private communications service shall be sourced as follows:
+				a. Service for a separate charge related to a customer channel termination point shall be sourced to each jurisdiction in which such customer channel termination point is located;
+				b. Service where all customer termination points are located entirely within one jurisdiction shall be sourced to such jurisdiction in which the customer channel termination points are located;
+				c. Service for segments of a channel between two customer channel termination points located in different jurisdictions and which segments of a channel are separately charged shall be sourced 50% to each jurisdiction in which the customer channel termination points are located; and
+				d. Service for segments of a channel located in more than one jurisdiction and which segments are not separately billed shall be sourced in each jurisdiction based on a percentage determined by dividing the number of customer channel termination points in each jurisdiction by the total number of customer channel termination points.
+			</section>
+		</section>
+	</text>
+	<history>2006, c. 780.</history>
+</law>

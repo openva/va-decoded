@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="42.1" level="1">Libraries</unit>
+		<unit label="chapter" identifier="7" level="2">Virginia Public Records Act</unit>
+	</structure>
+	<section_number>42.1-82</section_number>
+	<catch_line>Duties and powers of Library Board</catch_line>
+	<text>
+		<section prefix="A">The State Library Board shall:
+			<section prefix="1">Issue regulations concerning procedures for the disposal, physical destruction or other disposition of public records containing social security numbers. The procedures shall include all reasonable steps to destroy such documents by (i) shredding, (ii) erasing, or (iii) otherwise modifying the social security numbers in those records to make them unreadable or undecipherable by any means.
+			</section>
+			<section prefix="2">Issue regulations and guidelines designed to facilitate the creation, preservation, storage, filing, reformatting, management, and destruction of public records by agencies. Such regulations shall mandate procedures for records management and include recommendations for the creation, retention, disposal, or other disposition of public records.
+			</section>
+		</section>
+		<section prefix="B">The State Library Board may establish advisory committees composed of persons with expertise in the matters under consideration to assist the Library Board in developing regulations and guidelines.
+		</section>
+	</text>
+	<history>1976, c. 746; 1977, c. 501; 1981, c. 637; 1990, c. 778; 1994, cc. 64, 955; 2003, cc. 914, 918; 2005, c. 787; 2006, c. 60.</history>
+</law>

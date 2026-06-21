@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="18" level="2">Sentence; Judgment; Execution of Sentence</unit>
+		<unit label="article" identifier="1.1" level="3">DNA Analysis and Data Bank</unit>
+	</structure>
+	<section_number>19.2-310.5</section_number>
+	<catch_line>DNA data bank</catch_line>
+	<text>
+		<section prefix="A">It shall be the duty of the Department to receive samples of human biological evidence and to analyze, classify, and file the results of DNA identification characteristics profiles of samples of human biological evidence submitted pursuant to § 19.2-310.2 or 19.2-310.2:1 and to make such information available as provided in this section. The results of an analysis and comparison of evidence submitted to the Department pursuant to § 9.1-1101 to the identification characteristics of human biological evidence so analyzed, classified, and filed shall be made available directly to duly authorized members of federal, state, and local law-enforcement agencies or private police departments that have been designated as criminal justice agencies by the Department of Criminal Justice Services as defined by § 9.1-101, attorneys for the Commonwealth or attorneys for the United States Department of Justice, or the Office of the Chief Medical Examiner upon request made in furtherance of an official investigation or prosecution of any criminal offense, or to an accused or his attorney pursuant to § 9.1-1104. The Department shall confirm whether or not there is a DNA profile on file for a specific individual if a federal, state, or local law-enforcement officer or any federal, state, or local criminal justice agency that participates in the National DNA Index System requests that information in furtherance of an official investigation of any criminal offense. For law-enforcement identification purposes, the Department shall provide to any federal, state, or local criminal justice agency that participates in the National DNA Index System the personally identifiable information for any confirmed candidate match associated with a DNA data bank record. The name of the requestor and the purpose for which the information is requested shall be maintained on file with the Department.
+		</section>
+		<section prefix="B">The Department shall adopt regulations governing (i) the methods of obtaining information from the data bank in accordance with this section and (ii) procedures for verification of the identity and authority of the requestor. The Department shall specify the positions in that agency which require regular access to the data bank and samples submitted as a necessary function of the job.
+		</section>
+		<section prefix="C">The Department shall create a separate statistical database comprised of DNA profiles of samples of human biological evidence of persons whose identity is unknown. Nothing in this section or § 19.2-310.6 shall prohibit the Department from sharing or otherwise disseminating the information in the statistical database with law-enforcement or criminal justice agencies within or without the Commonwealth.
+		</section>
+		<section prefix="D">The Department may charge a reasonable fee to search and provide a comparative analysis of DNA profiles in the data bank to any authorized law-enforcement agency outside of the Commonwealth.
+		</section>
+	</text>
+	<history>1990, c. 669; 1998, c. 280; 2000, c. 284; 2002, cc. 753, 773; 2005, cc. 868, 881; 2010, c. 502; 2011, cc. 66, 171, 638; 2024, c. 210.</history>
+</law>

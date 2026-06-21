@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="8" level="2">Insurance and Self-Insurance</unit>
+	</structure>
+	<section_number>65.2-821.1</section_number>
+	<catch_line>Payment and reimbursement practices; prohibitions</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Contracting entity" means (i) a person that enters into a provider contract with a provider or (ii) an intended beneficiary of the rights of such person under the provider contract.
+			"Employer" means the employer; any insurance carrier, group self-insured association, or other person providing coverage for the employer's obligation to provide medical service to a claimant under this title; or any third-party administrator acting on behalf of the employer.
+			"PPO network" means the multiple provider contracts available to an employer pursuant to a PPO network arrangement.
+			"PPO network arrangement" means an arrangement under which the PPO network arranger sells, conveys, or otherwise transfers to an employer the ability to discount payments or reimbursements to a provider pursuant to the terms of multiple provider contracts to which the PPO network arranger is a direct party.
+			"PPO network arranger" means a person that operates a PPO network arrangement.
+			"Provider," "transition date," and "Virginia fee schedule" have the meaning assigned thereto in § 65.2-605. "Provider" includes a provider's employer or professional business entity.
+			"Provider contract" means an agreement between a contracting entity and a provider pursuant to which the provider agrees to deliver medical services to a claimant under this title in exchange for payment or reimbursement of an agreed-upon amount.
+			"Third-party administrator" means a person that administers, processes, handles, or pays claims to providers on behalf of an employer.
+		</section>
+		<section prefix="B">On and after the transition date:
+			<section prefix="1">No employer shall pay or reimburse a provider for medical services provided to a claimant less than the amount provided for in the applicable Virginia fee schedule or other amount determined as provided in subdivision B 2 or 3 of § 65.2-605 unless:
+				a. The employer has directly entered into:
+				<section prefix="1">A provider contract with the provider;
+				</section>
+				<section prefix="2">A contract with a contracting entity that has entered into a provider contract with the provider; or
+				</section>
+				<section prefix="3">A contract with a PPO network arranger that authorizes the employer to use a PPO network to derive a benefit from a provider contract; and
+					b. The provider has agreed to provide medical services to the claimant for an agreed-upon reimbursement or contractual amount as set forth in a provider contract referenced in subdivision a.
+				</section>
+			</section>
+			<section prefix="2">A person with whom an employer has directly contracted as described in subdivision 1 a shall not sell, lease, or otherwise disseminate data regarding the payment or reimbursement amounts or terms of a provider contract without the express written consent and prior notification of all parties to the provider contract; however, the express written request from, and prior notification to, a provider shall not be required if the provider's identity has been redacted from such data.
+			</section>
+			<section prefix="3">If an employer uses or relies on a contract described in subdivision 1 a to discount a payment or reimbursement to a provider, the employer shall notify the provider, at the time it remits the payment or reimbursement, of (i) the name of the provider, contracting entity, or PPO network arranger with whom the employer directly contracted and (ii) how, if other than by a direct contract between the employer and the provider, the employer acquired the right to discount the payment or reimbursement to the provider.
+			</section>
+			<section prefix="4">If an employer uses or relies on a contract with a PPO network arranger described in subdivision 1 a (3) to discount a payment or reimbursement to a provider, the employer shall not shop for the lowest discount for a specific provider among the provider contracts held in multiple PPO networks. This prohibition shall not bar an employer that has entered into a PPO network arrangement and selected a provider contract in the PPO network from availing itself of all discounts provided pursuant to the selected provider contract in the PPO network.
+			</section>
+		</section>
+		<section prefix="C">Any person who suffers loss as a result of a violation of this section shall be entitled to initiate an action at the Commission to recover actual damages and interest from the date of the violation until entry of the final award. If the Commission finds that the violation resulted from gross negligence or willful misconduct, it may increase damages to an amount not to exceed three times the actual damages.
+		</section>
+	</text>
+	<history>2016, cc. 279, 290.</history>
+</law>

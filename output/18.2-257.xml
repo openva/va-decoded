@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="7" level="2">Crimes Involving Health and Safety</unit>
+		<unit label="article" identifier="1" level="3">Drugs</unit>
+	</structure>
+	<section_number>18.2-257</section_number>
+	<catch_line>Attempts</catch_line>
+	<text>
+		<section prefix="a">Any person who attempts to commit any offense defined in this article or in the Drug Control Act (§ 54.1-3400 et seq.) which is a felony shall be imprisoned for not less than one nor more than ten years; provided, however, that any person convicted of attempting to commit a felony for which a lesser punishment may be imposed may be punished according to such lesser penalty.
+		</section>
+		<section prefix="b">Any person who attempts to commit any offense defined in this article or in the Drug Control Act which is a misdemeanor shall be guilty of a Class 2 misdemeanor; provided, however, that any person convicted of attempting to commit a misdemeanor for which a lesser punishment may be imposed may be punished according to such lesser penalty.
+		</section>
+	</text>
+	<history>Code 1950, § 54-524.104:1; 1972, c. 798; 1973, c. 447; 1975, cc. 14, 15; 1979, c. 435.</history>
+</law>

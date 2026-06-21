@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.2</section_number>
+	<catch_line>Associated assets</catch_line>
+	<text>
+		<section prefix="A">Only an asset of a protected series may be an associated asset of the protected series. Only an asset of a series limited liability company may be an associated asset of the series limited liability company.
+		</section>
+		<section prefix="B">An asset of a protected series is an associated asset of the protected series only if the protected series creates and maintains records that state the name of the protected series and describe the asset with sufficient specificity to permit a disinterested, reasonable individual to:
+			<section prefix="1">Identify the asset and distinguish it from any other assets of the protected series, any assets of the series limited liability company, and any assets of any other protected series of the series limited liability company;
+			</section>
+			<section prefix="2">Determine when and from what person the protected series acquired the asset or how the asset otherwise became an asset of the protected series; and
+			</section>
+			<section prefix="3">If the protected series acquired the asset from the series limited liability company or another protected series of the series limited liability company, determine any consideration paid, the payor, and the payee.
+			</section>
+		</section>
+		<section prefix="C">An asset of a series limited liability company is an associated asset of the series limited liability company only if the series limited liability company creates and maintains records that state the name of the series limited liability company and describe the asset with sufficient specificity to permit a disinterested, reasonable individual to:
+			<section prefix="1">Identify the asset and distinguish it from any other assets of the series limited liability company and any assets of any protected series of the series limited liability company;
+			</section>
+			<section prefix="2">Determine when and from what person the series limited liability company acquired the asset or how the asset otherwise became an asset of the series limited liability company; and
+			</section>
+			<section prefix="3">If the series limited liability company acquired the asset from a protected series of the series limited liability company, determine any consideration paid, the payor, and the payee.
+			</section>
+		</section>
+		<section prefix="D">The records and recordkeeping required by subsections B and C may be organized by specific listing, category, type, quantity, or computational or allocational formula or procedure, including a percentage or share of any asset, or in any other reasonable manner.
+		</section>
+		<section prefix="E">To the extent permitted by the law of the Commonwealth other than this article, a series limited liability company or a protected series of the series limited liability company may hold an associated asset directly or indirectly, through a representative, nominee, or similar arrangement, except that:
+			<section prefix="1">A protected series shall not hold an associated asset in the name of the series limited liability company or another protected series of the series limited liability company; and
+			</section>
+			<section prefix="2">The series limited liability company may not hold an associated asset in the name of a protected series of the series limited liability company.
+			</section>
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

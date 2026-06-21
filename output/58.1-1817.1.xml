@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="18" level="3">Enforcement, Collection, Refund, Remedies and Review of State Taxes</unit>
+		<unit label="article" identifier="1" level="4">Collection of State Taxes</unit>
+	</structure>
+	<section_number>58.1-1817.1</section_number>
+	<catch_line>Waiver of tax penalties for small businesses</catch_line>
+	<text>
+		As used in this section, "small business" means an independently owned and operated business that has been organized pursuant to Virginia law or maintains a principal place of business in Virginia and has 10 or fewer employees.
+		Any penalties related to taxes administered by the Department shall be waived for a small business during its first two years of operation, provided that such small business enters into an agreement pursuant to § 58.1-1817. However, the Department shall not be required to waive the penalty imposed by § 58.1-1816 or any civil penalties for the failure to remit state sales or withholding taxes.
+	</text>
+	<history>2017, c. 718.</history>
+</law>

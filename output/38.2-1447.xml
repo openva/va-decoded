@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="4" level="3">Asset Protection Act</unit>
+	</structure>
+	<section_number>38.2-1447</section_number>
+	<catch_line>Exception</catch_line>
+	<text>
+		<section prefix="A">This article shall not apply to those assets of any insurer that are held, deposited, pledged, hypothecated or otherwise encumbered as provided herein to secure, offset, protect, or meet those reserve liabilities of such insurer which are established, incurred, or required under the provisions of a reinsurance agreement whereby such insurer has reinsured the insurance policy liabilities of a ceding insurer, provided:
+			<section prefix="1">The ceding insurer and the reinsurer are both licensed to transact business in this Commonwealth; and
+			</section>
+			<section prefix="2">Pursuant to a written agreement between the ceding insurer and the reinsurer, reserve assets substantially equal to the reserve liabilities required to be established by the ceding insurer on the reinsured business are either (i) deposited by or are withheld from the reinsurer and are in the custody of the ceding insurer as security for the payment of the reinsurer's obligations under the reinsurance agreement, and such assets are held subject to withdrawal by and under control of the ceding insurer or (ii) are deposited and held in a trust account for such purpose and under such conditions with a qualified United States financial institution defined as eligible to act as a fiduciary of a trust by § 38.2-1316.1.
+			</section>
+		</section>
+		<section prefix="B">The Commission shall have the right to examine any such assets, reinsurance agreements, or deposit arrangements at any time in accordance with its authority to make examinations of insurers as conferred by other provisions of this title.
+		</section>
+	</text>
+	<history>1992, c. 588.</history>
+</law>

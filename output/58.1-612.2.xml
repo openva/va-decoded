@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="6" level="3">Retail Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-612.2</section_number>
+	<catch_line>Tax collectible from accommodations providers and intermediaries</catch_line>
+	<text>
+		<section prefix="A">For any retail sale of accommodations not facilitated by an accommodations intermediary, the accommodations provider shall collect the retail sales and use taxes imposed in accordance with this chapter, computed on the total charges for the accommodations, and shall remit the same to the Department and shall be liable for the same.
+		</section>
+		<section prefix="B">For any retail sale of accommodations facilitated by an accommodations intermediary, the accommodations intermediary shall be deemed under this chapter as a dealer making a retail sale of an accommodation. The accommodations intermediary shall collect the retail sales and use taxes imposed in accordance with this chapter, computed on the room charge, and shall remit the same to the Department and shall be liable for the same.
+		</section>
+		<section prefix="C">For any transaction for the retail sale of accommodations involving two or more parties that meet the definition of accommodations intermediary, nothing in this section shall prohibit such parties from making an agreement regarding which party shall be responsible for collecting and remitting the tax, so long as the party so responsible is registered as a dealer with the Department. In such event, the party agreeing to collect and remit the tax shall be the sole party liable for the tax, and the other parties to such agreement shall not be liable for such tax.
+		</section>
+		<section prefix="D">For any retail sale of accommodations facilitated by an accommodations intermediary, nothing herein shall relieve the accommodations provider from liability for retail sales and use taxes on any amounts charged directly to the customer by the accommodations provider that are not collected by the accommodations intermediary.
+		</section>
+		<section prefix="E">For any retail sale of accommodations not facilitated by an accommodations intermediary, the accommodations provider shall separately state the amount of the tax on the bill, invoice, or similar documentation and shall add the tax to the total charges charged to the transient by the accommodations provider. For any retail sale of accommodations facilitated by an accommodations intermediary, the accommodations intermediary shall separately state the amount of the tax on the bill, invoice, or similar documentation and shall add the tax to the room charge; thereafter, such tax shall be a debt from the customer to the accommodations intermediary, recoverable at law in the same manner as other debts.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 383; 2022, cc. 7, 640.</history>
+</law>

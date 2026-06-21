@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="1" level="3">Default and Enforcement of Security Interest</unit>
+	</structure>
+	<section_number>8.9A-609</section_number>
+	<catch_line>Secured party's right to take possession after default</catch_line>
+	<text>
+		<section prefix="a">Possession; rendering equipment unusable; disposition on debtor's premises. After default, a secured party:
+			<section prefix="1">may take possession of the collateral; and
+			</section>
+			<section prefix="2">without removal, may render equipment unusable and dispose of collateral on a debtor's premises under § 8.9A-610.
+			</section>
+		</section>
+		<section prefix="b">Judicial and nonjudicial process. A secured party may proceed under subsection (a):
+			<section prefix="1">pursuant to judicial process; or
+			</section>
+			<section prefix="2">without judicial process, if it proceeds without breach of the peace.
+			</section>
+		</section>
+		<section prefix="c">Assembly of collateral. If so agreed, and in any event after default, a secured party may require the debtor to assemble the collateral and make it available to the secured party at a place to be designated by the secured party which is reasonably convenient to both parties.
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-503; 2000, c. 1007.</history>
+</law>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>59.1-501.3</section_number>
+	<catch_line>Scope; exclusions</catch_line>
+	<text>
+		<section prefix="a">This chapter applies to computer information transactions.
+		</section>
+		<section prefix="b">Except for subject matter excluded in subsection (d), if a computer information transaction includes subject matter other than computer information or subject matter excluded under subsection (d), the following rules apply:
+			<section prefix="1">If a transaction includes computer information and goods, this chapter applies to the part of the transaction involving computer information, informational rights in it, and creation or modification of it. However, if a copy of a computer program is contained in and sold or leased as part of goods, this chapter applies to the copy and the computer program only if:
+			</section>
+		</section>
+		<section prefix="A">the goods are a computer or computer peripheral; or
+		</section>
+		<section prefix="B">giving the buyer or lessee of the goods access to or use of the program is ordinarily a material purpose of transactions in goods of the type sold or leased.
+			<section prefix="2">Subject to subsection (d)(2)(A), if a transaction includes an agreement for creating or for obtaining rights to create computer information and a motion picture, this chapter does not apply to the agreement if the dominant character of the agreement is for creating or obtaining rights to create a motion picture. In all other such agreements, this chapter does not apply to the part of the agreement that involves a motion picture excluded under subsection (d)(2), but does apply to the computer information.
+			</section>
+			<section prefix="3">In all other cases, this chapter applies to the entire transaction if the computer information and informational rights, or access to them, is the primary subject matter, but otherwise applies only to the part of the transaction involving computer information, informational rights in it, and creation or modification of it.
+			</section>
+		</section>
+		<section prefix="c">To the extent of a conflict between this chapter and Title 8.9A, Title 8.9A governs.
+		</section>
+		<section prefix="d">This chapter does not apply to:
+			<section prefix="1">a financial services transaction;
+			</section>
+			<section prefix="2">an insurance services transaction;
+			</section>
+			<section prefix="3">an agreement to create, perform or perform in, include information in, acquire, use, distribute, modify, reproduce, have access to, adapt, make available, transmit, license, or display:
+			</section>
+		</section>
+		<section prefix="A">a motion picture or audio or visual programming other than in (i) a mass-market transaction or (ii) a submission of an idea or information or release of informational rights that may result in making a motion picture or a similar information product; or
+		</section>
+		<section prefix="B">sound recording, musical work, or phonorecord as defined or used in Title 17 of the United States Code as of July 1, 1999, or an enhanced sound recording, other than in the submission of an idea or information or release of informational rights that may result in the creation of such material or a similar information product.
+			<section prefix="4">a compulsory license;
+			</section>
+			<section prefix="5">a contract of employment of an individual, other than an individual hired as an independent contractor, unless such independent contractor is a freelancer in the news reporting industry as that term is commonly understood in that industry;
+			</section>
+			<section prefix="6">a contract that does not require that information be furnished as computer information or in which under the agreement the form of the information as computer information is otherwise insignificant with respect to the primary subject matter of the part of the transaction pertaining to the information;
+			</section>
+			<section prefix="7">unless otherwise agreed in a record between the parties:
+			</section>
+		</section>
+		<section prefix="A">telecommunications products or services provided pursuant to federal or state tariffs; or
+		</section>
+		<section prefix="B">telecommunications products or services provided pursuant to agreements required or permitted to be filed by the service provider with a federal or state authority regulating these services or under pricing subject to approval by a federal or state regulatory authority; or
+			<section prefix="8">subject matter within the scope of Titles 8.3, 8.4, 8.4A, 8.5A, 8.7, or 8.8A.
+			</section>
+		</section>
+		<section prefix="e">As used in subsection (d)(2)(B), "enhanced sound recording" means a separately identifiable product or service the dominant character of which consists of recorded sounds but which includes (i) statements or instructions whose purpose is to allow or control the perception, reproduction, or communication of those sounds or (ii) other information so long as recorded sounds constitute the dominant character of the product or service despite the inclusion of the other information.
+		</section>
+		<section prefix="f">As used in this section, "motion picture" means:
+			<section prefix="1">"motion picture" as defined in Title 17 of the United States Code as of July 1, 1999; or
+			</section>
+			<section prefix="2">a separately identifiable product or service the dominant character of which consists of a linear motion picture, but which includes (i) statements or instructions whose purpose is to allow or control the perception, reproduction, or communication of the motion picture or (ii) other information so long as the motion picture constitutes the dominant character of the product or service despite the inclusion of the other information.
+			</section>
+		</section>
+		<section prefix="g">As used in this section, "audio or visual programming" means audio or visual programming that is provided by broadcast, satellite, or cable as defined or used in the federal Communications Act of 1934 (47 U.S.C. § 151 et seq.) and related regulations as they existed on July 1, 1999, or by similar methods of delivery.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2001, c. 763; 2004, c. 794; 2011, c. 369.</history>
+</law>

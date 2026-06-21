@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="9.1" level="4">Reporting Adjustments to Federal Taxable Income from Federal Partnership Audits</unit>
+	</structure>
+	<section_number>58.1-399.2</section_number>
+	<catch_line>Tiered partners</catch_line>
+	<text>
+		<section prefix="A">The following categories of partners shall be subject to the reporting and payment requirements specified in § 58.1-399, entitled to make elections as provided in § 58.1-399.1, and entitled to elect an alternative reporting and payment method as provided in § 58.1-399.3:
+			<section prefix="1">Any direct tiered partner of an audited partnership;
+			</section>
+			<section prefix="2">Any indirect tiered partner of an audited partnership; and
+			</section>
+			<section prefix="3">Any partner of a partner specified in subdivision 1 or 2.
+			</section>
+		</section>
+		<section prefix="B">A partner subject to the provisions of subsection A shall make required reports and payments no later than 90 days after the time for filing and providing statements to tiered partners and their partners pursuant to the provisions of § 6226 of the Internal Revenue Code and any regulations promulgated thereunder. The Department may establish procedures and deadlines for reports and payments required pursuant to this section.
+		</section>
+	</text>
+	<history>2020, c. 1030.</history>
+</law>

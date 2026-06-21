@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="11" level="3">Amendment of Articles of Incorporation and Bylaws</unit>
+	</structure>
+	<section_number>13.1-706</section_number>
+	<catch_line>Amendment of articles of incorporation by the board of directors</catch_line>
+	<text>
+		<section prefix="A">Where no shares of the corporation are issued and outstanding, a corporation's board of directors may adopt an amendment of the corporation's articles of incorporation without shareholder approval.
+		</section>
+		<section prefix="B">Unless the articles of incorporation provide otherwise, a corporation's board of directors may adopt amendments of the corporation's articles of incorporation without shareholder approval:
+			<section prefix="1">To delete the names and addresses of the initial directors;
+			</section>
+			<section prefix="2">To delete the name of the initial registered agent or the address of the initial registered office, if a statement of change described in § 13.1-635 is on file with the Commission;
+			</section>
+			<section prefix="3">If the corporation has only one class of shares outstanding:
+				a. To change each issued and unissued authorized share of the class into a greater number of whole shares of that class; or
+				b. To increase the number of authorized shares of the class to the extent necessary to permit the issuance of shares as a share dividend;
+			</section>
+			<section prefix="4">To eliminate or change the par value of the shares of any class or series;
+			</section>
+			<section prefix="5">To change the corporate name;
+			</section>
+			<section prefix="6">If the corporation has or will become a holding company under § 13.1-719.1, to change the corporate name to the former name of the constituent corporation;
+			</section>
+			<section prefix="7">If the corporation is registered as an open-end management investment company under the federal Investment Company Act of 1940, to increase or decrease the aggregate number of shares or the number of shares of any class or series within any class that the corporation is authorized to issue;
+			</section>
+			<section prefix="8">To delete a class or series of shares from the articles of incorporation when there are no shares of the class or series, including any rights to any such shares, outstanding; or
+			</section>
+			<section prefix="9">To make any other change expressly permitted by this chapter to be made without shareholder approval.
+			</section>
+		</section>
+	</text>
+	<history>1985, c. 522; 1989, c. 483; 1990, c. 292; 2005, c. 765; 2006, c. 330; 2015, c. 623; 2019, c. 734.</history>
+</law>

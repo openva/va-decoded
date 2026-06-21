@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="8" level="3">Derivative Actions</unit>
+	</structure>
+	<section_number>13.1-1042</section_number>
+	<catch_line>Right of action; standing; condition precedent; stay of proceeding</catch_line>
+	<text>
+		<section prefix="A">A member shall not commence or maintain a derivative proceeding unless the member fairly and adequately represents the interests of the limited liability company in enforcing the right of the limited liability company and is a proper plaintiff pursuant to § 13.1-1043.
+		</section>
+		<section prefix="B">No member may commence a derivative proceeding until:
+			<section prefix="1">A written demand has been made on the limited liability company to take suitable action; and
+			</section>
+			<section prefix="2">Ninety days have expired from the date delivery of the demand was made unless (i) the member has been notified before the expiration of 90 days that the demand has been rejected by the limited liability company or (ii) irreparable injury to the limited liability company would result by waiting until the end of the 90-day period.
+			</section>
+		</section>
+		<section prefix="C">If the limited liability company commences a review and evaluation of the allegations made in the demand or complaint, the court may stay any derivative proceeding for such period as the court deems appropriate.
+		</section>
+	</text>
+	<history>1991, c. 168; 2011, c. 379.</history>
+</law>

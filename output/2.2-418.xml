@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="3" level="5">Registration of Lobbyists</unit>
+	</structure>
+	<section_number>2.2-418</section_number>
+	<catch_line>Statement of intent and purposes</catch_line>
+	<text>
+		The General Assembly finds and declares the following:
+		<section prefix="1">The operation of open and responsible government requires the fullest opportunity to be afforded to the people to petition their government for the redress of grievances and to express freely their opinions on legislative and executive actions.
+		</section>
+		<section prefix="2">The identity and expenditures of certain persons who attempt to influence legislative and executive actions with respect to legislation and executive orders should be publicly identified to preserve and maintain the integrity of government.
+		</section>
+	</text>
+	<history>1994, cc. 857, 937, § 2.1-779; 2001, c. 844.</history>
+</law>

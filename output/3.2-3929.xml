@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="39" level="3">Pesticide Control</unit>
+		<unit label="article" identifier="3" level="4">Pesticide Application and Certification</unit>
+	</structure>
+	<section_number>3.2-3929</section_number>
+	<catch_line>Restricted use pesticides prohibited; exceptions; training required</catch_line>
+	<text>
+		<section prefix="A">No person shall use any pesticide classified for restricted use unless that person: (i) has first complied with the certification requirements of the Board; (ii) is under the direct supervision of a certified applicator on-site and training for certification as a commercial applicator or registered technician; or (iii) is producing an agricultural commodity while under the direct supervision of a private applicator on property owned or leased by that private applicator.
+		</section>
+		<section prefix="B">The Board may specify by regulation the amount of training and service required to qualify a person for each classification or subclassification of certification as a commercial applicator or registered technician.
+		</section>
+	</text>
+	<history>1975, c. 377, § 3.1-249.3; 1989, c. 575, § 3.1-249.51; 1993, c. 773; 1995, c. 103; 2008, c. 860.</history>
+</law>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="5" level="2">Performance</unit>
+	</structure>
+	<section_number>8.2-509</section_number>
+	<catch_line>Risk of loss in the absence of breach</catch_line>
+	<text>
+		<section prefix="1">Where the contract requires or authorizes the seller to ship the goods by carrier:
+			<section prefix="a">if it does not require him to deliver them at a particular destination, the risk of loss passes to the buyer when the goods are duly delivered to the carrier even though the shipment is under reservation (§ 8.2-505); but
+			</section>
+			<section prefix="b">if it does require him to deliver them at a particular destination and the goods are there duly tendered while in the possession of the carrier, the risk of loss passes to the buyer when the goods are there duly so tendered as to enable the buyer to take delivery.
+			</section>
+		</section>
+		<section prefix="2">Where the goods are held by a bailee to be delivered without being moved, the risk of loss passes to the buyer:
+			<section prefix="a">on his receipt of possession or control of a negotiable document of title covering the goods; or
+			</section>
+			<section prefix="b">on acknowledgement by the bailee of the buyer's right to possession of the goods; or
+			</section>
+			<section prefix="c">after his receipt of possession or control of a nonnegotiable document of title or other direction to deliver in a record, as provided in subsection (4) (b) of § 8.2-503.
+			</section>
+		</section>
+		<section prefix="3">In any case not within subsection (1) or (2), the risk of loss passes to the buyer on his receipt of the goods if the seller is a merchant; otherwise the risk passes to the buyer on tender of delivery.
+		</section>
+		<section prefix="4">The provisions of this section are subject to contrary agreement of the parties and to the provisions of this title on sale on approval (§ 8.2-327) and on effect of breach on risk of loss (§ 8.2-510).
+		</section>
+	</text>
+	<history>1964, c. 219; 2004, c. 200.</history>
+</law>

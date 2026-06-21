@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="17" level="3">Police and Public Order</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>15.2-1723.2</section_number>
+	<catch_line>(Effective July 1, 2026) Facial recognition technology; approval</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section, "facial recognition technology" means an electronic system for enrolling, capturing, extracting, comparing, and matching an individual's geometric facial data to identify individuals in photos, videos, or real time. "Facial recognition technology" does not include the use of an automated or semi-automated process to redact a recording in order to protect the privacy of a subject depicted in the recording prior to release or disclosure of the recording outside of the law-enforcement agency if the process does not generate or result in the retention of any biometric data or surveillance information.
+		</section>
+		<section prefix="B">No local law-enforcement agency shall purchase or deploy facial recognition technology unless such purchase or deployment of facial recognition technology is expressly authorized by statute. For purposes of this section, a statute that does not refer to facial recognition technology shall not be construed to provide express authorization. Such statute shall require that any facial recognition technology purchased or deployed by the local law-enforcement agency be maintained under the exclusive control of such local law-enforcement agency and that any data contained by such facial recognition technology be kept confidential, not be disseminated or resold, and be accessible only by a search warrant issued pursuant to Chapter 5 (§ 19.2-52 et seq.) of Title 19.2 or an administrative or inspection warrant issued pursuant to law.
+		</section>
+		<section prefix="C">Nothing in this section shall apply to commercial air service airports.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 537.</history>
+</law>

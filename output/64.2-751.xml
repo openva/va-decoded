@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="6" level="4">Revocable Trusts</unit>
+	</structure>
+	<section_number>64.2-751</section_number>
+	<catch_line>Revocation or amendment of revocable trust</catch_line>
+	<text>
+		<section prefix="A">Unless the terms of a trust expressly provide that the trust is irrevocable, the settlor may revoke or amend the trust. This subsection does not apply to a trust created under an instrument executed before July 1, 2006.
+		</section>
+		<section prefix="B">If a revocable trust is created or funded by more than one settlor:
+			<section prefix="1">To the extent the trust consists of community property, the trust may be revoked by either spouse acting alone but may be amended only by joint action of both spouses;
+			</section>
+			<section prefix="2">To the extent the trust consists of property other than community property, each settlor may revoke or amend the trust with regard to the portion of the trust property attributable to that settlor's contribution; and
+			</section>
+			<section prefix="3">Upon the revocation or amendment of the trust by fewer than all of the settlors, the trustee shall promptly notify the other settlors of the revocation or amendment.
+			</section>
+		</section>
+		<section prefix="C">The settlor may revoke or amend a revocable trust:
+			<section prefix="1">By substantial compliance with a method provided in the terms of the trust; or
+			</section>
+			<section prefix="2">If the terms of the trust do not provide a method, by any method manifesting clear and convincing evidence of the settlor's intent.
+			</section>
+		</section>
+		<section prefix="D">Upon revocation of a revocable trust, the trustee shall deliver the trust property as the settlor directs.
+		</section>
+		<section prefix="E">A settlor's powers with respect to revocation, amendment, or distribution of trust property may be exercised by an agent, acting in accordance with § 64.2-1612, under a power of attorney that expressly authorizes such action except to the extent expressly prohibited by the terms of the trust.
+		</section>
+		<section prefix="F">A conservator of the settlor or, if no conservator has been appointed, a guardian of the settlor may exercise a settlor's powers with respect to revocation, amendment, or distribution of trust property only (i) to the extent expressly authorized by the terms of the trust or (ii) if authorized by the court supervising the conservatorship or guardianship for good cause shown.
+		</section>
+		<section prefix="G">A trustee who does not know that a trust has been revoked or amended is not liable to the settlor or settlor's successors in interest for distributions made and other actions taken on the assumption that the trust had not been amended or revoked.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-546.02; 2010, cc. 455, 632; 2012, c. 614.</history>
+</law>

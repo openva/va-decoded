@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="8" level="3">Offenses Relating to Railroads and Other Utilities</unit>
+	</structure>
+	<section_number>18.2-166</section_number>
+	<catch_line>Disclosing or inducing disclosure of certain information concerning customers of telephone companies</catch_line>
+	<text>
+		Any person:
+		<section prefix="1">Who is an employee of a telephone company, or an employee of a company which prints or otherwise handles lists of telephone customers for a telephone company and who discloses to another the names, addresses, or telephone numbers of any two or more customers of telephone service, knowing that such disclosure is without the consent of the telephone company furnishing said service; or
+		</section>
+		<section prefix="2">Who knowingly induces such an employee to make such disclosure by giving, offering, or promising to such employee any gift, gratuity, or thing of value, or by doing or promising to do any act beneficial to such employee; or
+		</section>
+		<section prefix="3">Who takes, copies, or compiles any list containing the aforesaid information knowing that such conduct is without the consent of the telephone company furnishing said service; or
+		</section>
+		<section prefix="4">Who attempts, aids or abets another, or conspires with another, to commit any of the aforesaid acts,
+			shall be guilty of a Class 3 misdemeanor.
+		</section>
+	</text>
+	<history>Code 1950, § 18.1-417.1; 1968, c. 332; 1975, cc. 14, 15.</history>
+</law>

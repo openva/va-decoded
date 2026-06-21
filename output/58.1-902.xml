@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="9" level="3">Virginia Estate Tax</unit>
+		<unit label="article" identifier="1" level="4">Substantive Provisions Generally</unit>
+	</structure>
+	<section_number>58.1-902</section_number>
+	<catch_line>Tax on transfer of taxable estate of residents; amounts; credit; property of resident defined</catch_line>
+	<text>
+		<section prefix="A">A tax in the amount of the federal credit is imposed on the transfer of the taxable estate of every resident, subject, where applicable, to the credit provided for in subsection B.
+		</section>
+		<section prefix="B">If the real and tangible personal property of a resident is located outside of the Commonwealth and is subject to a death tax imposed by another state for which a credit is allowed under § 2011 of the Internal Revenue Code of 1954, as amended or renumbered, or the successor provision of the laws of the United States relating to federal estate taxes, the amount of tax due under this section shall be credited with the lesser of:
+			<section prefix="1">The amount of the death tax paid the other state and credited against the federal estate tax; or
+			</section>
+			<section prefix="2">An amount computed by multiplying the federal credit by a fraction, the numerator of which is the value of that part of the gross estate over which another state or states have jurisdiction to the same extent to which Virginia would exert jurisdiction under this chapter with respect to the residents of such other state or states and the denominator of which is the value of the decedent's gross estate.
+			</section>
+		</section>
+		<section prefix="C">Property of a resident includes:
+			<section prefix="1">Real property situated in the Commonwealth of Virginia;
+			</section>
+			<section prefix="2">Tangible personal property having an actual situs in the Commonwealth of Virginia; and
+			</section>
+			<section prefix="3">Intangible personal property owned by the resident regardless of where it is located.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 58-238.3; 1978, c. 838; 1984, c. 675.</history>
+</law>

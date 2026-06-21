@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="2" level="4">Individual Income Tax</unit>
+	</structure>
+	<section_number>58.1-325</section_number>
+	<catch_line>Virginia taxable income of nonresident individuals, partners, beneficiaries and certain shareholders</catch_line>
+	<text>
+		<section prefix="A">The Virginia taxable income of a nonresident individual, partner or beneficiary shall be an amount bearing the same proportion to his Virginia taxable income, computed as though he were a resident, as the net amount of his income, gain, loss and deductions from Virginia sources bears to the net amount of his income, gain, loss and deductions from all sources.
+		</section>
+		<section prefix="B">For a nonresident individual who is a shareholder in an electing small business corporation (S corporation), there shall be included in his Virginia taxable income his share of the taxable income of such corporation, and his share of any net operating loss of such corporation shall be deductible from his Virginia taxable income.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.013; 1971, Ex. Sess., c. 171; 1972, c. 827; 1973, cc. 198, 345, 458; 1974, c. 682; 1975, c. 46; 1976, cc. 528, 694, 781; 1977, cc. 297, 612; 1978, cc. 67, 158; 1979, cc. 226, 596; 1981, cc. 402, 414; 1982, c. 633; 1983, cc. 452, 472; 1984, cc. 153, 162, 636, 674, 675, 729.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="9" level="3">Foreign Limited Partnerships</unit>
+	</structure>
+	<section_number>50-73.53</section_number>
+	<catch_line>Authority to transact business required; governing law</catch_line>
+	<text>
+		<section prefix="A">A foreign limited partnership may not transact business in the Commonwealth until it obtains a certificate of registration from the Commission.
+		</section>
+		<section prefix="B">Subject to the Constitution of this Commonwealth, (i) the laws of the state or other jurisdiction under which a foreign limited partnership is formed govern its formation and internal affairs and the liability of its limited partners, and (ii) a foreign limited partnership may not be denied a certificate of registration by reason of any difference between those laws and the laws of this Commonwealth. However, a foreign limited partnership holding a valid certificate of registration to transact business in the Commonwealth shall have no greater rights and privileges than a domestic limited partnership. The certificate of registration shall not be deemed to authorize the foreign limited partnership to exercise any of its powers or purposes that a domestic limited partnership is forbidden by law to exercise in the Commonwealth.
+		</section>
+	</text>
+	<history>1985, c. 607; 2007, c. 631.</history>
+</law>

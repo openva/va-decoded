@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="B" level="3">Powers of Attorney</unit>
+		<unit label="chapter" identifier="16" level="4">Uniform Power of Attorney Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>64.2-1604</section_number>
+	<catch_line>Validity of power of attorney</catch_line>
+	<text>
+		<section prefix="A">A power of attorney executed in the Commonwealth on or after July 1, 2010, is valid if its execution complies with § 64.2-1603.
+		</section>
+		<section prefix="B">A power of attorney executed in the Commonwealth before July 1, 2010, is valid if its execution complied with the law of the Commonwealth as it existed at the time of execution.
+		</section>
+		<section prefix="C">A power of attorney executed other than in the Commonwealth is valid in the Commonwealth if, when the power of attorney was executed, the execution complied with (i) the law of the jurisdiction that determines the meaning and effect of the power of attorney pursuant to § 64.2-1605; (ii) the requirements for a military power of attorney pursuant to 10 U.S.C. § 1044b, as amended; or (iii) the laws of the Commonwealth.
+		</section>
+		<section prefix="D">Except as otherwise provided by statute other than this chapter, a photocopy or electronically transmitted copy of an original power of attorney has the same effect as the original.
+		</section>
+		<section prefix="E">An agent in possession of a general, special, or limited power of attorney or other writing vesting any power or authority in him shall, where the instrument is otherwise valid, be deemed to possess the powers and authority granted by such instrument notwithstanding any failure of the principal to deliver the instrument to him, and persons dealing with such agent shall have no obligation to inquire into the manner or circumstances by which such possession was acquired, provided, however, that nothing herein shall preclude the court from considering such manner or circumstances as relevant factors in any proceeding brought to terminate, suspend, or limit the authority of the agent.
+		</section>
+	</text>
+	<history>2010, cc. 455, 632, § 26-77; 2012, c. 614.</history>
+</law>

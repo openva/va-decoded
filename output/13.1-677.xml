@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="9" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-677</section_number>
+	<catch_line>Terms of directors generally</catch_line>
+	<text>
+		<section prefix="A">The terms of the initial directors of a corporation expire at the first shareholders' meeting at which directors are elected, unless their terms are staggered pursuant to § 13.1-678, in which case the term shall expire at the applicable second or third annual shareholders' meeting.
+		</section>
+		<section prefix="B">The terms of all other directors expire at the next, or if the terms are staggered pursuant to § 13.1-678, at the applicable second or third annual shareholders' meeting following their election, except to the extent a shorter term is specified in the articles of incorporation in the event of a director nominee failing to receive a specified vote for election.
+		</section>
+		<section prefix="C">A decrease in the number of directors does not shorten an incumbent director's term.
+		</section>
+		<section prefix="D">The term of a director elected by the board of directors to fill a vacancy expires at the next shareholders' meeting at which directors are elected.
+		</section>
+		<section prefix="E">Except to the extent otherwise provided in the articles of incorporation, despite the expiration of a director's term, the director continues to serve until the director's successor is elected and qualifies or until there is a decrease in the number of directors.
+		</section>
+		<section prefix="F">Notwithstanding the foregoing provisions, the terms of the directors of a corporation registered under the federal Investment Company Act of 1940 shall expire according to, and otherwise be governed by, the provisions of the federal Investment Company Act of 1940.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-36; 1956, c. 428; 1968, c. 87; 1973, c. 50; 1974, c. 662; 1977, c. 123; 1982, c. 104; 1985, c. 522; 1990, c. 228; 2005, c. 765; 2007, c. 165; 2019, c. 734.</history>
+</law>

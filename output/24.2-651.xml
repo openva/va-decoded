@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="6" level="2">The Election</unit>
+		<unit label="article" identifier="4" level="3">Conduct of Election; Election Results</unit>
+	</structure>
+	<section_number>24.2-651</section_number>
+	<catch_line>Voter who is challenged; how challenge tried</catch_line>
+	<text>
+		Any qualified voter may, and the officers of election shall, challenge the vote of any person who is listed on the pollbook but is known or suspected not to be a qualified voter.
+		The individual making the challenge shall complete and sign the following statement on a form provided by the State Board:
+		"I do hereby state, subject to penalties for hindering, intimidating, or interfering with a qualified voter pursuant to § 24.2-607, that I am a qualified voter of this Commonwealth or an officer of election and that, to the best of my knowledge, information, and belief, _______________ is not a qualified voter of this precinct by reason of (please check each of the following reasons that is applicable):
+		<section prefix="1">The named person is not a citizen of the United States;
+		</section>
+		<section prefix="2">The named person is not now 18 years of age or, in the case of a primary election or a special election held on a date other that a general election date, will not reach the age of 18 before the next general election;
+		</section>
+		<section prefix="3">The named person is not a resident of the Commonwealth (or, if he has not been a resident of the Commonwealth within the preceding 30 days, he is attempting to vote for an office or issue other than electors of President and Vice President of the United States);
+		</section>
+		<section prefix="4">The named person is not a resident of this precinct (or he has not been a resident of this precinct since the second preceding general federal election and has not continued to be a resident of this county or city and this congressional district);
+		</section>
+		<section prefix="5">The named person is not a resident of the town in the case of a town election;
+		</section>
+		<section prefix="6">The named person has been disqualified from voting by the Constitution and laws of the Commonwealth and this disqualification has not been removed by proper authority;
+		</section>
+		<section prefix="7">The named person is not the identical person he represents himself to be; or
+		</section>
+		<section prefix="8">The named person has voted in this election at this or another voting place (state when and where the named person previously voted in this election: _______________)."
+			Upon receipt of a signed challenge from a qualified voter or officer of election, an officer of election shall explain to the challenged voter the qualifications of a voter and may examine him concerning his qualifications.
+			The officers of election are hereby authorized to administer the necessary oath or affirmation to any witness brought before them to testify as to the qualifications of any person offering to vote.
+			If the person being challenged insists that he is qualified and the challenge is not withdrawn, one of the officers shall give him a form containing the following statement:
+			"I do hereby state, subject to felony penalties for making false statements pursuant to § 24.2-1016, that I am a citizen of the United States, that I am at least 18 years of age (or will be on the __________ day of __________, _____) that I am a resident of the Commonwealth of Virginia (or that I have been a resident of this Commonwealth within the preceding 30 days and am voting only for electors of President and Vice President of the United States), and that, according to the best of my knowledge, information and belief, I am not disqualified from voting by the Constitution and laws of this Commonwealth; that my full name is _______________; that in such name I was duly registered as a voter of this precinct; that I am now or at some time since the last November general election have been an actual resident of this precinct or that I have been an actual resident of this precinct at some time since the second preceding general federal election and have been and continue to be a resident of this county or city and this congressional district; if I am voting in a town election today, that I am currently a resident of that town; that I am the identical person I represent myself to be; and that I have not voted in this election at this or any voting place and will not vote in this election at any other voting place."
+			If the person challenged refuses to sign the statement, he shall not be permitted to vote. If, however, he signs the statement, he shall be permitted to vote on the voting system in use at the precinct, unless he is required to cast a provisional ballot pursuant to § 24.2-651.1.
+			When the voter has signed the statement and is permitted to vote, the officers of election shall mark his name on the pollbook with the first or next consecutive number from the voter count form, or shall enter that the voter has voted if the pollbook is in electronic form, and shall indicate on the pollbook that he has signed the required statement in accordance with the instructions of the State Board.
+			If the envelope containing a voted absentee ballot has been properly signed by the voter, such ballot shall not be subject to challenge pursuant to this section.
+		</section>
+	</text>
+	<history>Code 1950, §§ 24-253, 24-254, 24-325; 1970, c. 462, § 24.1-133; 1971, Ex. Sess., c. 265; 1972, c. 620; 1977, c. 490; 1978, c. 778; 1980, c. 639; 1981, c. 425; 1983, c. 461; 1993, c. 641; 1997, c. 346; 2003, c. 1015; 2007, c. 375; 2012, cc. 838, 839.</history>
+</law>

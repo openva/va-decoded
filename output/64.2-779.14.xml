@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.1" level="4">Uniform Trust Decanting Act</unit>
+	</structure>
+	<section_number>64.2-779.14</section_number>
+	<catch_line>Relief from liability and indemnification</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in this section, a second-trust instrument may not relieve an authorized fiduciary from liability for breach of trust to a greater extent than the first-trust instrument.
+		</section>
+		<section prefix="B">A second-trust instrument may provide for indemnification of an authorized fiduciary of the first trust or another person acting in a fiduciary capacity under the first trust for any liability or claim that would have been payable from the first trust if the decanting power had not been exercised.
+		</section>
+		<section prefix="C">A second-trust instrument may not reduce fiduciary liability in the aggregate.
+		</section>
+		<section prefix="D">Subject to subsection C, a second-trust instrument may divide and reallocate fiduciary powers among fiduciaries, including one or more trustees, distribution advisors, investment advisors, trust protectors, or other persons, and relieve a fiduciary from liability for an act or failure to act of another fiduciary as permitted by law of the Commonwealth other than this article.
+		</section>
+	</text>
+	<history>2017, c. 592.</history>
+</law>

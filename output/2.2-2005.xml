@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="20.1" level="4">Virginia Information Technologies Agency</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-2005</section_number>
+	<catch_line>Creation of Agency; appointment of Chief Information Officer</catch_line>
+	<text>
+		<section prefix="A">There is hereby created the Virginia Information Technologies Agency (VITA), which shall serve as the agency responsible for administration and enforcement of the provisions of this Chapter.
+		</section>
+		<section prefix="B">The Governor shall appoint a Chief Information Officer of the Commonwealth (the CIO) to oversee the operation of VITA. The CIO shall exercise the powers and perform the duties conferred or imposed upon him by law and perform such other duties as may be required by the Governor and the Secretary of Administration.
+		</section>
+	</text>
+	<history>2003, cc. 981, 1021; 2009, c. 826; 2010, cc. 136, 145; 2016, c. 296; 2020, c. 738.</history>
+</law>

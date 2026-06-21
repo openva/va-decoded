@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="1" level="3">Default and Enforcement of Security Interest</unit>
+	</structure>
+	<section_number>8.9A-622</section_number>
+	<catch_line>Effect of acceptance of collateral</catch_line>
+	<text>
+		<section prefix="a">Effect of acceptance. A secured party's acceptance of collateral in full or partial satisfaction of the obligation it secures:
+			<section prefix="1">discharges the obligation to the extent consented to by the debtor;
+			</section>
+			<section prefix="2">transfers to the secured party all of a debtor's rights in the collateral;
+			</section>
+			<section prefix="3">discharges the security interest or agricultural lien that is the subject of the debtor's consent and any subordinate security interest or other subordinate lien; and
+			</section>
+			<section prefix="4">terminates any other subordinate interest.
+			</section>
+		</section>
+		<section prefix="b">Discharge of subordinate interest notwithstanding noncompliance. A subordinate interest is discharged or terminated under subsection (a), even if the secured party fails to comply with this title.
+		</section>
+	</text>
+	<history>2000, c. 1007.</history>
+</law>

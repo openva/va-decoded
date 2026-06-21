@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="1" level="1">General Provisions</unit>
+		<unit label="chapter" identifier="2.1" level="2">Common Law and Rules of Construction</unit>
+		<unit label="article" identifier="2" level="3">Rules of Construction and Definitions</unit>
+	</structure>
+	<section_number>1-205</section_number>
+	<catch_line>Bond with surety</catch_line>
+	<text>
+		"Bond with surety" includes the payment in cash of the full amount of the required bond and, in such case, no surety shall be required.
+	</text>
+	<history>1977, c. 156, § 1-13.1:1; 2005, c. 839.</history>
+</law>

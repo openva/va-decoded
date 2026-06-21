@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="6" level="2">Interception of Wire, Electronic or Oral Communications</unit>
+	</structure>
+	<section_number>19.2-70.1</section_number>
+	<catch_line>General prohibition on pen register and trap and trace device use; exceptions</catch_line>
+	<text>
+		Except as provided in this section, no person may install or use a pen register or a trap and trace device without first obtaining a court order under § 19.2-70.2.
+		However, a court order shall not be required for use of a pen register or trap and trace device by a provider of electronic or wire communication service (i) relating to the operation, maintenance, and testing of a wire or electronic communication service or to the protection of the rights or property of the provider, or to the protection of users of that service from abuse of service or unlawful use of service; (ii) to record the fact that a wire or electronic communication was initiated or completed in order to protect such provider, another provider furnishing service toward the completion of the wire communication, or a user of that service, from fraudulent, unlawful or abusive use of service; or (iii) where the consent of the user of that service has been obtained.
+		Any person who knowingly violates this section shall be guilty of a Class 1 misdemeanor.
+	</text>
+	<history>1988, c. 889.</history>
+</law>

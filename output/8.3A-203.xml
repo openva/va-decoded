@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="2" level="2">Negotiation, Transfer, and Endorsement</unit>
+	</structure>
+	<section_number>8.3A-203</section_number>
+	<catch_line>Transfer of instrument; rights acquired by transfer</catch_line>
+	<text>
+		<section prefix="a">An instrument is transferred when it is delivered by a person other than its issuer for the purpose of giving to the person receiving delivery the right to enforce the instrument.
+		</section>
+		<section prefix="b">Transfer of an instrument, whether or not the transfer is a negotiation, vests in the transferee any right of the transferor to enforce the instrument, including any right as a holder in due course, but the transferee cannot acquire rights of a holder in due course by a transfer, directly or indirectly, from a holder in due course if the transferee engaged in fraud or illegality affecting the instrument.
+		</section>
+		<section prefix="c">Unless otherwise agreed, if an instrument is transferred for value and the transferee does not become a holder because of lack of endorsement by the transferor, the transferee has a specifically enforceable right to the unqualified endorsement of the transferor, but negotiation of the instrument does not occur until the endorsement is made.
+		</section>
+		<section prefix="d">If a transferor purports to transfer less than the entire instrument, negotiation of the instrument does not occur. The transferee obtains no rights under this title and has only the rights of a partial assignee.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-379, 6-382 through 6-384, 6-401, 6-410; 1964, c. 219, §§ 8.3-201, 8.3-202; 1992, c. 693.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="36" level="1">Housing</unit>
+		<unit label="chapter" identifier="5.1" level="2">Virginia Fair Housing Law</unit>
+	</structure>
+	<section_number>36-96.14</section_number>
+	<catch_line>Issuance of a charge</catch_line>
+	<text>
+		Upon failure to resolve a complaint by conciliation and after consultation with the Office of the Attorney General, the Board shall issue a charge on behalf of the aggrieved person or persons and shall immediately refer the charge to the Attorney General, who shall proceed with the charge as directed by § 36-96.16. The Board may not issue a charge under this section regarding an alleged discriminatory housing practice after the beginning of a trial of a civil action commenced by the aggrieved party under an Act of Congress or a state law seeking relief with respect to that discriminatory housing practice.
+		<section prefix="1">Such charge:
+			a. Shall consist of a short and plain statement of the facts upon which the Board has found reasonable cause to believe that a discriminatory housing practice has occurred or is about to occur;
+			b. Shall be based on the final investigative report; and
+			c. Need not be limited to the acts or grounds alleged in the complaint filed under § 36-96.9.
+		</section>
+		<section prefix="2">After the Board issues a charge under this section, the Board shall cause a copy thereof to be served on each respondent named in such charge and on each aggrieved person on whose behalf the complaint was filed.
+		</section>
+	</text>
+	<history>1991, c. 557.</history>
+</law>

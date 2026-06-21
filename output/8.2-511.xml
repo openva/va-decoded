@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="5" level="2">Performance</unit>
+	</structure>
+	<section_number>8.2-511</section_number>
+	<catch_line>Tender of payment by buyer; payment by check</catch_line>
+	<text>
+		<section prefix="1">Unless otherwise agreed tender of payment is a condition to the seller's duty to tender and complete any delivery.
+		</section>
+		<section prefix="2">Tender of payment is sufficient when made by any means or in any manner current in the ordinary course of business unless the seller demands payment in legal tender and gives any extension of time reasonably necessary to procure it.
+		</section>
+		<section prefix="3">Subject to the provisions of this act on the effect of an instrument on an obligation (§ 8.3A-310), payment by check is conditional and is defeated as between the parties by dishonor of the check on due presentment.
+		</section>
+	</text>
+	<history>1964, c. 219; 1992, c. 693.</history>
+</law>

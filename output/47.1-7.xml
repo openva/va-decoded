@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="47.1" level="1">Notaries and Out-Of-State Commissioners</unit>
+		<unit label="chapter" identifier="2" level="2">Appointment</unit>
+	</structure>
+	<section_number>47.1-7</section_number>
+	<catch_line>Additional requirements for performing electronic notarial acts</catch_line>
+	<text>
+		<section prefix="A">An applicant shall submit a registration form established by the Secretary for registering and being commissioned as an electronic notary public, which shall include:
+			<section prefix="1">The applicant's full legal and official notary names;
+			</section>
+			<section prefix="2">A general description of the technology or technologies the registrant will use to create an electronic signature in performing official acts;
+			</section>
+			<section prefix="3">Certification of compliance to the Secretary of the Commonwealth with electronic notary standards developed in accordance with § 47.1-6.1; and
+			</section>
+			<section prefix="4">The electronic mail address of the registrant.
+			</section>
+		</section>
+		<section prefix="B">The registration form shall (i) be signed by the applicant using the electronic signature described in the form; (ii) include any decrypting instructions, codes, keys, or software that allow the registration to be read; and (iii) be transmitted electronically to the Secretary.
+		</section>
+		<section prefix="C">Nothing herein shall be construed to prevent an electronic notary from using updated technology or technologies during the term of the commission; however, the electronic notary shall notify the Secretary electronically within 90 days of installation or use of such updated technology or technologies and provide a brief description thereof.
+		</section>
+	</text>
+	<history>2007, cc. 269, 590; 2009, c. 160; 2011, cc. 731, 834.</history>
+</law>

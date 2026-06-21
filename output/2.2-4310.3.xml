@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4310.3</section_number>
+	<catch_line>Fiscal data pertaining to certain enhancement or remedial measures</catch_line>
+	<text>
+		The Department of General Services shall make available a dashboard of purchase order reports from the Commonwealth's statewide electronic procurement system known as eVA. The dashboard shall include aggregated data showing (i) current fiscal year purchase orders, (ii) purchase orders from the previous fiscal year, and (iii) other relevant data derived from any enhancement or remedial measure implemented by the Governor pursuant to subsection C of § 2.2-4310.
+	</text>
+	<history>2016, c. 578.</history>
+</law>

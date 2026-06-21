@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="24" level="2">Fidelity and Surety Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-2400</section_number>
+	<catch_line>Class of insurance to which chapter applies</catch_line>
+	<text>
+		This chapter applies to fidelity and surety insurance as defined in §§ 38.2-120 and 38.2-121.
+	</text>
+	<history>1952, c. 317, § 38.1-639; 1986, c. 562.</history>
+</law>

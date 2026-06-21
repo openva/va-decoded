@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="2" level="3">Actions on Contracts Generally</unit>
+	</structure>
+	<section_number>8.01-27.2</section_number>
+	<catch_line>Civil recovery for giving bad check</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in Chapter 12 (§ 55.1-1200 et seq.) or Chapter 14 (§ 55.1-1400 et seq.) of Title 55.1, in the event a check, draft or order, the payment of which has been refused by the drawee because of lack of funds in or credit with such drawee, is not paid in full within thirty days after receipt by the drawer of (i) written notice by registered, certified, or regular mail with the sender retaining an affidavit of service of mailing or other sufficient proof of mailing, which may be a U.S. Postal Certificate of Mailing or (ii) if for nonpayment of rent under § 55.1-1245 or 55.1-1415, written notice in accordance therewith, from the payee that the check, draft or order has been returned unpaid, the payee may recover from the drawer in a civil action brought by the filing of a warrant in debt, the lesser of $250 or three times the amount of the check, draft or order. The amount recovered as authorized by this section shall be in addition to the amounts authorized for recovery under § 8.01-27.1. No action may be initiated under this section if any action has been initiated under § 18.2-181. The drawer shall be obligated to pay the cost of service and the cost of mailing, as applicable.
+		</section>
+		<section prefix="B">If an electronic funds transfer has been rejected because of insufficient funds or a stop-payment order has been placed in bad faith by the authorizing party, the authorizing party and the payee shall have the same rights and remedies as if the drawer had issued a bad check under § 8.01-27.1. For purposes of this subsection, "electronic funds transfer" has the same meaning as provided in 15 U.S.C. § 1693(a).
+		</section>
+	</text>
+	<history>1985, c. 579; 1988, c. 433; 1992, c. 501; 2002, c. 763; 2008, c. 489; 2013, c. 63.</history>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="1" level="1">General Provisions</unit>
+		<unit label="chapter" identifier="2.1" level="2">Common Law and Rules of Construction</unit>
+		<unit label="article" identifier="1" level="3">Common Law and Acts of Parliament</unit>
+	</structure>
+	<section_number>1-200</section_number>
+	<catch_line>The common law</catch_line>
+	<text>
+		The common law of England, insofar as it is not repugnant to the principles of the Bill of Rights and Constitution of this Commonwealth, shall continue in full force within the same, and be the rule of decision, except as altered by the General Assembly.
+	</text>
+	<history>Code 1919, § 2, § 1-10; 2005, c. 839.</history>
+</law>

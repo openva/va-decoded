@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3" level="4">Litter Control and Recycling</unit>
+	</structure>
+	<section_number>10.1-1422.02</section_number>
+	<catch_line>Litter Control and Recycling Fund Advisory Board established; duties and responsibilities</catch_line>
+	<text>
+		There is hereby created the Litter Control and Recycling Fund Advisory Board. The Advisory Board shall:
+		<section prefix="1">Review applications received by the Department for grants from the Fund and make recommendations to the Director for the award of all grants authorized pursuant to § 10.1-1422.01;
+		</section>
+		<section prefix="2">Promote the control, prevention and elimination of litter from the Commonwealth and encourage the recycling of discarded materials to the maximum practical extent; and
+		</section>
+		<section prefix="3">Advise the Director on such other litter control and recycling matters as may be requested by the Director or any other state agency.
+		</section>
+	</text>
+	<history>1995, c. 417.</history>
+</law>

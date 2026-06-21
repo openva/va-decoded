@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="53" level="2">Health Insurance Reform Commission</unit>
+	</structure>
+	<section_number>30-342</section_number>
+	<catch_line>Powers and duties</catch_line>
+	<text>
+		The Commission shall have the following powers and duties:
+		<section prefix="1">Monitor the work of appropriate federal and state agencies in implementing the provisions of the federal Patient Protection and Affordable Care Act (the Act), including amendments thereto and regulations promulgated thereunder;
+		</section>
+		<section prefix="2">Receive information provided to the Commission pursuant to § 30-343 and, on the basis of such information, assess the implications of the Act's implementation on residents of the Commonwealth, businesses operating within the Commonwealth, and the general fund of the Commonwealth;
+		</section>
+		<section prefix="3">Consider the development of a comprehensive strategy for implementing health reform in Virginia, including recommendations for innovative health care solutions independent of the approach embodied in the Act that meet the needs of Virginia's citizens and government by creating an improved health system that will serve as an economic driver for the Commonwealth while allowing for more effective and efficient delivery of high quality care at lower cost;
+		</section>
+		<section prefix="4">Receive periodic reports from the Bureau of Insurance of the State Corporation Commission (the Bureau) pursuant to § 30-343 and recommend, in accordance with the provisions of § 30-343.1, health benefits required to be included within the scope of the essential health benefits provided under health insurance products offered in the Commonwealth, including any benefits that are not required to be provided by the terms of the Act;
+		</section>
+		<section prefix="5">Upon request of the Chairman of the House Committee on Labor and Commerce or Senate Committee on Commerce and Labor, assess proposed mandated benefits and providers as provided in § 30-343 and recommend whether, on the basis of such assessments, mandated benefits and providers be providers under health care plans offered through a health benefit exchange, outside a health benefit exchange, neither, or both;
+		</section>
+		<section prefix="6">Conduct other studies of mandated benefits and provider issues as requested by the General Assembly; and
+		</section>
+		<section prefix="7">Develop such recommendations as may be appropriate for legislative and administrative consideration in order to increase access to health insurance coverage, ensure that the costs to business and individual purchasers of health insurance coverage are reasonable, and encourage a robust market for health insurance products in the Commonwealth.
+		</section>
+	</text>
+	<history>2013, c. 709; 2015, c. 698; 2023, cc. 698, 699.</history>
+</law>

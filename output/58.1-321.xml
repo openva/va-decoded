@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="2" level="4">Individual Income Tax</unit>
+	</structure>
+	<section_number>58.1-321</section_number>
+	<catch_line>Exemptions and exclusions</catch_line>
+	<text>
+		<section prefix="A">No tax levied pursuant to § 58.1-320 is imposed, nor any return required to be filed, by:
+			<section prefix="1">A single individual where the Virginia adjusted gross income plus the modification specified in subdivision 5 of § 58.1-322.03 for such taxable year is less than $11,650 for taxable years beginning on and after January 1, 2010, but before January 1, 2012.
+				A single individual where the Virginia adjusted gross income plus the modification specified in subdivision 5 of § 58.1-322.03 for such taxable year is less than $11,950 for taxable years beginning on and after January 1, 2012.
+			</section>
+			<section prefix="2">An individual and spouse if their combined Virginia adjusted gross income plus the modification specified in subdivision 5 of § 58.1-322.03 is less than $23,300 for taxable years beginning on and after January 1, 2010 (or one-half of such amount in the case of a married individual filing a separate return) but before January 1, 2012, and less than $23,900 for taxable years beginning on and after January 1, 2012 (or one-half of such amount in the case of a married individual filing a separate return).
+				For the purposes of this section, "Virginia adjusted gross income" means federal adjusted gross income for the taxable years with the modifications specified in §§ 58.1-322.01 and 58.1-322.02.
+			</section>
+		</section>
+		<section prefix="B">Persons in the Armed Forces of the United States stationed on military or naval reservations within Virginia who are not domiciled in Virginia shall not be held liable to income taxation for compensation received from military or naval service.
+		</section>
+		<section prefix="C">For taxable years beginning on and after January 1, 2020, but before January 1, 2026, any amount that is includible in the federal adjusted gross income of an eligible veteran by reason of the whole or partial discharge of any loan described in § 108(f)(5)(B) of the Internal Revenue Code shall be excluded from Virginia adjusted gross income. This exclusion shall apply only to those discharges that (i) are described in clauses (i), (ii), and (iii) of § 108(f)(5)(A) of the Internal Revenue Code and (ii) occur after December 31, 2017. For the purposes of this subsection, "eligible veteran" means a veteran who has been rated by the U.S. Department of Veterans Affairs, or its successor agency pursuant to federal law, to have a 100 percent service-connected, permanent, and total disability.
+		</section>
+	</text>
+	<history>Code 1950, §§ 58-151.03, 58.1-016; 1971, Ex. Sess., c. 171; 1972, cc. 310, 827; 1978, cc. 159, 796; 1981, c. 402; 1984, c. 675; 1987, c. 9; 1993, c. 803; 2004, Sp. Sess. I, c. 3; 2007, cc. 527, 543; 2017, c. 444; 2020, c. 606.</history>
+</law>

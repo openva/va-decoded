@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="5" level="2">Search Warrants</unit>
+	</structure>
+	<section_number>19.2-56.1</section_number>
+	<catch_line>Warrant issued for search of attorney's office</catch_line>
+	<text>
+		<section prefix="A">Any warrant sought for the search of a premises or the contents thereof belonging to or under the control of any licensed attorney-at-law to search for evidence of any crime solely involving a client of such attorney shall be issued only by a circuit court judge. Any evidence seized pursuant to this section shall be inventoried forthwith by the clerk of the issuing court and sealed by the issuing judge. As soon thereafter as is practicable, the issuing judge shall conduct an in camera inspection of the seized evidence in the presence of the attorney from whom the evidence was seized. Following such inspection the issuing judge shall return any evidence so seized which is determined to be within the scope of the attorney-client privilege and not otherwise subject to seizure.
+		</section>
+		<section prefix="B">Nothing herein shall bar the standing of the client to challenge the admissibility of any evidence seized pursuant to this section in any trial or proceeding.
+		</section>
+	</text>
+	<history>1986, c. 636.</history>
+</law>

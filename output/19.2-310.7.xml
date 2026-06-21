@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="18" level="2">Sentence; Judgment; Execution of Sentence</unit>
+		<unit label="article" identifier="1.1" level="3">DNA Analysis and Data Bank</unit>
+	</structure>
+	<section_number>19.2-310.7</section_number>
+	<catch_line>(Effective July 1, 2026) Expungement when DNA taken for a conviction</catch_line>
+	<text>
+		<section prefix="A">A person whose DNA profile has been included in the data bank pursuant to § 19.2-310.2 may request expungement on the grounds that the conviction on which the authority for including his DNA profile was based has been reversed and the case dismissed. Provided that the person's DNA profile is not otherwise required to be included in the data bank pursuant to § 9.1-903, 16.1-299.1, 19.2-310.2, or 19.2-310.2:1, the Department of Forensic Science shall purge all records and identifiable information in the data bank pertaining to the person and destroy all samples from the person upon receipt of (i) a written request for expungement pursuant to this section and (ii) a certified copy of the court order reversing and dismissing the conviction.
+		</section>
+		<section prefix="B">Entry of a sealing order pursuant to § 19.2-392.7 , 19.2-392.12, or 19.2-392.12:1 shall not serve as grounds for expungement of a person's DNA profile or any records in the data bank relating to that DNA profile.
+		</section>
+	</text>
+	<history>1990, c. 669; 2002, cc. 753, 773; 2005, cc. 868, 881; 2015, cc. 209, 437; 2021, Sp. Sess. I, cc. 524, 542; 2025, cc. 634, 671.</history>
+</law>

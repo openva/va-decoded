@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="1" level="3">Law Governing Perfection and Priority</unit>
+	</structure>
+	<section_number>8.9A-305</section_number>
+	<catch_line>Law governing perfection and priority of security interests in investment property</catch_line>
+	<text>
+		<section prefix="a">Governing law; general rules. Except as otherwise provided in subsection (c), the following rules apply:
+			<section prefix="1">While a security certificate is located in a jurisdiction, the local law of that jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in the certificated security represented thereby.
+			</section>
+			<section prefix="2">The local law of the issuer's jurisdiction as specified in § 8.8A-110 (d) governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in an uncertificated security.
+			</section>
+			<section prefix="3">The local law of the securities intermediary's jurisdiction as specified in § 8.8A-110 (e) governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in a security entitlement or securities account.
+			</section>
+			<section prefix="4">The local law of the commodity intermediary's jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in a commodity contract or commodity account.
+			</section>
+			<section prefix="5">Paragraphs (2), (3), and (4) apply even if the transaction does not bear any relation to the jurisdiction.
+			</section>
+		</section>
+		<section prefix="b">Commodity intermediary's jurisdiction. The following rules determine a commodity intermediary's jurisdiction for purposes of this part:
+			<section prefix="1">If an agreement between the commodity intermediary and commodity customer governing the commodity account expressly provides that a particular jurisdiction is the commodity intermediary's jurisdiction for purposes of this part, this title, or the Uniform Commercial Code, that jurisdiction is the commodity intermediary's jurisdiction.
+			</section>
+			<section prefix="2">If paragraph (1) does not apply and an agreement between the commodity intermediary and commodity customer governing the commodity account expressly provides that the agreement is governed by the law of a particular jurisdiction, that jurisdiction is the commodity intermediary's jurisdiction.
+			</section>
+			<section prefix="3">If neither paragraph (1) nor paragraph (2) applies and an agreement between the commodity intermediary and commodity customer governing the commodity account expressly provides that the commodity account is maintained at an office in a particular jurisdiction, that jurisdiction is the commodity intermediary's jurisdiction.
+			</section>
+			<section prefix="4">If none of the preceding paragraphs applies, the commodity intermediary's jurisdiction is the jurisdiction in which the office identified in an account statement as the office serving the commodity customer's account is located.
+			</section>
+			<section prefix="5">If none of the preceding paragraphs applies, the commodity intermediary's jurisdiction is the jurisdiction in which the chief executive office of the commodity intermediary is located.
+			</section>
+		</section>
+		<section prefix="c">When perfection governed by law of jurisdiction where debtor located. The local law of the jurisdiction in which the debtor is located governs:
+			<section prefix="1">perfection of a security interest in investment property by filing;
+			</section>
+			<section prefix="2">automatic perfection of a security interest in investment property created by a broker or securities intermediary; and
+			</section>
+			<section prefix="3">automatic perfection of a security interest in a commodity contract or commodity account created by a commodity intermediary.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 55-9; 1964, c. 219, § 8.9-103; 1973, c. 509; 1984, c. 613; 1996, c. 216; 1997, c. 343; 2000, c. 1007; 2024, c. 652.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Taxation</unit>
+		<unit label="article" identifier="4" level="3">Computation of Tax Rate</unit>
+	</structure>
+	<section_number>60.2-536.3</section_number>
+	<catch_line>Violations; penalties</catch_line>
+	<text>
+		<section prefix="A">If a person knowingly transfers, or attempts to transfer, any trade or business where the sole or primary purpose is to obtain a lower unemployment tax rate, or if a person knowingly advises another person to engage, or attempt to engage, in such transfer, such person shall be subject, in addition to the criminal penalties set forth in § 18.2-204.3, to the following additional rate of contributions and civil penalty:
+			<section prefix="1">If the person is an employer, he shall be assigned the highest rate assignable under this chapter for the calendar year during which such violation or attempted violation occurred, and for the next calendar year immediately following such year. However, if the employer is already at such highest rate for that year, or if the amount of increase in the employer's rate would be less than two percent for any such year, then an additional rate of contributions of two percent of taxable wages shall be imposed for such year, which shall be paid into the benefit account of the Unemployment Compensation Fund pursuant to § 60.2-301.
+			</section>
+			<section prefix="2">If the person is not an employer, he shall be subject to a civil penalty of $5,000, which shall be paid into the Special Unemployment Compensation Administration Fund pursuant to § 60.2-314.
+			</section>
+		</section>
+		<section prefix="B">Final orders of the Commission with respect to the provisions of § 60.2-536.1 may be recorded, enforced, and satisfied as orders or decrees of a circuit court upon certification of such orders by the Clerk of the Commission. Such orders may be appealed pursuant to § 60.2-500.
+		</section>
+	</text>
+	<history>2005, cc. 47, 91.</history>
+</law>

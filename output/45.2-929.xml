@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="C" level="3">Surface Coal Mines</unit>
+		<unit label="chapter" identifier="9" level="4">Requirements Applicable to Surface Coal Mines</unit>
+		<unit label="article" identifier="9" level="5">Electricity</unit>
+	</structure>
+	<section_number>45.2-929</section_number>
+	<catch_line> Circuit breakers and switches</catch_line>
+	<text>
+		<section prefix="A">An automatic circuit breaking device or fuse of the correct type and capacity shall be installed so as to protect each piece of electric equipment and power circuit against excessive overload. Wire or another conducting material shall not be used as a substitute for a properly designed fuse, and every circuit breaking device shall be maintained in safe operating condition.
+		</section>
+		<section prefix="B">Operating controls, such as switches, starters, or switch buttons, shall be so installed that they are readily accessible and can be operated without danger of contact with moving or live parts.
+		</section>
+		<section prefix="C">Electric equipment and circuits shall be provided with switches or other controls of safe design, construction, and installation.
+		</section>
+		<section prefix="D">An insulating mat or other electrically nonconductive material shall be kept in place at each power-control switch and at stationary machinery where a shock hazard exists.
+		</section>
+		<section prefix="E">Suitable warning signs shall be posted conspicuously at every high-voltage installation.
+		</section>
+		<section prefix="F">Every power wire or cable shall have adequate current-carrying capacity, be guarded from mechanical injury, and be installed in a permanent manner.
+		</section>
+		<section prefix="G">Every power circuit shall be labeled to indicate the unit or circuit that it controls.
+		</section>
+		<section prefix="H">All persons shall stay clear of any electrically powered shovel or other similar heavy equipment during an electrical storm.
+		</section>
+		<section prefix="I">Every device that is installed on or after July 1, 2005, that provides either short circuit protection or protection against overload shall conform to the minimum requirements for protection of electric circuits and equipment of the National Electrical Code in effect at the time of its installation.
+		</section>
+		<section prefix="J">Every electric conductor installed on or after July 1, 2005, shall be sufficient in size to meet the minimum current-carrying capacity provided for in the National Electrical Code in effect at the time of its installation.
+		</section>
+		<section prefix="K">Every trailing cable purchased on or after July 1, 2005, shall meet the minimum requirements for ampacity provided in the standards of the Insulated Cable Engineers Association/National Electrical Manufacturers Association in effect at the time such cable is purchased.
+		</section>
+	</text>
+	<history>Code 1950, §§ 45-82, 45-82.1, 45-82.3, 45-82.4; 1954, c. 191; 1966, c. 594, §§ 45.1-78, 45.1-80, 45.1-81; 1978, c. 118; 1979, c. 315; 1993, c. 442; 1994, c. 28, § 45.1-161.282; 1999, c. 256; 2005, c. 3; 2021, Sp. Sess. I, c. 387.</history>
+</law>

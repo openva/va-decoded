@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="IV" level="2">Other Governmental Entities</unit>
+		<unit label="chapter" identifier="54" level="3">Electric Authorities Act</unit>
+	</structure>
+	<section_number>15.2-5404</section_number>
+	<catch_line>Articles of incorporation</catch_line>
+	<text>
+		Each ordinance or agreement providing for the creation of an authority shall include articles of incorporation which shall set forth:
+		<section prefix="1">The name of the authority and the address of its principal office;
+		</section>
+		<section prefix="2">The names of the governmental units which are to be the initial members of the authority;
+		</section>
+		<section prefix="3">The purpose or purposes for which the authority is to be created;
+		</section>
+		<section prefix="4">The number of directors who shall initially serve on the board of directors which shall exercise the powers of the authority, the number of directors from each member governmental unit, and the names, addresses and terms of office of the initial directors of the authority; and
+		</section>
+		<section prefix="5">Any other provisions for regulating the business of the authority or the conduct of its affairs, including provisions for amendment of the articles of incorporation.
+		</section>
+	</text>
+	<history>1979, c. 416, § 15.1-1607; 1997, c. 587.</history>
+</law>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="3.2" level="3">Electronic Registration</unit>
+	</structure>
+	<section_number>24.2-416.7</section_number>
+	<catch_line>Application for voter registration by electronic means</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any other provision of law, a person who is qualified to register to vote may apply to register to vote by electronic means as authorized by the State Board by completing an electronic registration application.
+		</section>
+		<section prefix="B">Notwithstanding any other provision of law, a registered voter may satisfy the requirements of §§ 24.2-423 and 24.2-424 to notify the general registrar of a change of legal name or place of residence within the Commonwealth by electronic means as authorized by the State Board by completing an electronic registration application.
+		</section>
+		<section prefix="C">An electronic registration application completed pursuant to this article shall require that an applicant:
+			<section prefix="1">Provide the information as required under § 24.2-418;
+			</section>
+			<section prefix="2">Have a Virginia driver's license or other document issued by the Department of Motor Vehicles under Chapter 3 (§ 46.2-300 et seq.) of Title 46.2;
+			</section>
+			<section prefix="3">Provide a social security number and Department of Motor Vehicles customer identifier number that matches the applicant's record in the Department of Motor Vehicles records;
+			</section>
+			<section prefix="4">Attest to the truth of the information provided;
+			</section>
+			<section prefix="5">Sign the application in a manner consistent with the Uniform Electronic Transactions Act (§ 59.1-479 et seq.); and
+			</section>
+			<section prefix="6">Affirmatively authorize the Department of Elections and general registrar to use the applicant's signature obtained by the Department of Motor Vehicles for voter registration purposes.
+			</section>
+		</section>
+		<section prefix="D">In order for an individual to complete a transaction under this article, the general registrar shall verify that the Department of Motor Vehicles customer identifier number, date of birth, and social security number provided by the applicant match the information contained in the Department of Motor Vehicles records.
+		</section>
+		<section prefix="E">The Department of Motor Vehicles shall provide to the Department of Elections a digital copy of the applicant's signature on record with the Department of Motor Vehicles.
+		</section>
+		<section prefix="F">The Department of Elections shall transmit to the general registrar an applicant's completed voter registration application and digital signature not later than five business days after the date of receipt.
+		</section>
+		<section prefix="G">Each transaction taking place under this section shall be accompanied by the following statement featured prominently in boldface capital letters: "WARNING: INTENTIONALLY MAKING A MATERIALLY FALSE STATEMENT DURING THIS TRANSACTION CONSTITUTES THE CRIME OF ELECTION FRAUD, WHICH IS PUNISHABLE UNDER VIRGINIA LAW AS A FELONY. VIOLATORS MAY BE SENTENCED TO UP TO 10 YEARS IN PRISON, OR UP TO 12 MONTHS IN JAIL AND/OR FINED UP TO $2,500."
+		</section>
+		<section prefix="H">The Department of Elections may use additional security measures approved by the State Board to ensure the accuracy and integrity of registration transactions performed under this article.
+		</section>
+	</text>
+	<history>2013, c. 520; 2015, c. 740; 2020, cc. 1227, 1246.</history>
+</law>

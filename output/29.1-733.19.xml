@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="29.1" level="1">Wildlife, Inland Fisheries and Boating</unit>
+		<unit label="chapter" identifier="7" level="2">Boating Laws</unit>
+		<unit label="article" identifier="2.1" level="3">Virginia Uniform Certificate of Title for Watercraft Act</unit>
+	</structure>
+	<section_number>29.1-733.19</section_number>
+	<catch_line>Transfer of ownership by secured party's transfer statement</catch_line>
+	<text>
+		<section prefix="A">For the purpose of this section, "secured party's transfer statement" means a record signed by the secured party of record stating:
+			<section prefix="1">A default on an obligation secured by the watercraft has occurred;
+			</section>
+			<section prefix="2">The secured party of record is exercising or has exercised post-default remedies with respect to the watercraft;
+			</section>
+			<section prefix="3">By reason of the exercise, the secured party of record has the right to transfer the ownership interest of an owner, and the name of the owner;
+			</section>
+			<section prefix="4">The name and last-known mailing address of the owner of record and the secured party of record;
+			</section>
+			<section prefix="5">The name of the transferee;
+			</section>
+			<section prefix="6">All other information required by subsection B of § 29.1-733.7; and
+			</section>
+			<section prefix="7">One of the following:
+				a. The certificate of title is an electronic certificate;
+				b. The secured party does not have possession of the written certificate of title created in the name of the owner of record; or
+				c. The secured party is delivering the written certificate of title to the Department with the secured party's transfer statement.
+			</section>
+		</section>
+		<section prefix="B">Unless the Department rejects a secured party's transfer statement for a reason stated in subsection C of § 29.1-733.8, not later than 20 days after delivery to the Department of the statement and payment of fees and taxes payable under the law of the Commonwealth other than this article in connection with the statement or the acquisition or use of the watercraft, the Department shall:
+			<section prefix="1">Accept the statement;
+			</section>
+			<section prefix="2">Amend the files of the Department to reflect the transfer; and
+			</section>
+			<section prefix="3">If the name of the owner whose ownership interest is being transferred is indicated on the certificate of title:
+				a. Cancel the certificate even if the certificate has not been delivered to the Department;
+				b. Create a new certificate indicating the transferee as owner; and
+				c. Deliver the new certificate or a record evidencing an electronic certificate.
+			</section>
+		</section>
+		<section prefix="C">An application under subsection A or the creation of a certificate of title under subsection B is not by itself a disposition of the watercraft and does not by itself relieve the secured party of its duties under Title 8.9A.
+		</section>
+	</text>
+	<history>2013, c. 787.</history>
+</law>

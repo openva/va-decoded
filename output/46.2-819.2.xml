@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="8" level="3">Regulation of Traffic</unit>
+		<unit label="article" identifier="1.1" level="4">Toll Violations and Enforcement</unit>
+	</structure>
+	<section_number>46.2-819.2</section_number>
+	<catch_line>Driving a motor vehicle from establishment where motor fuel offered for sale; penalty</catch_line>
+	<text>
+		<section prefix="A">No person shall drive a motor vehicle off the premises of an establishment at which motor fuel offered for retail sale was dispensed into the fuel tank of such motor vehicle unless payment for such fuel has been made.
+		</section>
+		<section prefix="B">Any person who violates this section shall be liable for a civil penalty not to exceed $250 and applicable court costs if the matter proceeds to court.
+		</section>
+		<section prefix="C">Nothing herein shall preclude a prosecution for larceny.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758; 2004, c. 795; 2005, c. 208; 2006, c. 487; 2020, cc. 740, 741.</history>
+</law>

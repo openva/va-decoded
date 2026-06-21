@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+		<unit label="article" identifier="2" level="4">General Provisions</unit>
+	</structure>
+	<section_number>6.2-107.1</section_number>
+	<catch_line>Certain payments required electronically</catch_line>
+	<text>
+		Any financial institution that initiates an electronic fund transfer related to the sale to a consumer of a security issued by such financial institution shall make available to the consumer the option of completing any payment of principal, interest, dividend, or other distribution related to the security to the consumer via an electronic fund transfer.
+	</text>
+	<history>2024, c. 422.</history>
+</law>

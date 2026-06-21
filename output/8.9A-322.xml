@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="3" level="3">Priority</unit>
+	</structure>
+	<section_number>8.9A-322</section_number>
+	<catch_line>Priorities among conflicting security interests in and agricultural liens on same collateral</catch_line>
+	<text>
+		<section prefix="a">General priority rules. Except as otherwise provided in this section, priority among conflicting security interests and agricultural liens in the same collateral is determined according to the following rules:
+			<section prefix="1">Conflicting perfected security interests and agricultural liens rank according to priority in time of filing or perfection. Priority dates from the earlier of the time a filing covering the collateral is first made or the security interest or agricultural lien is first perfected, if there is no period thereafter when there is neither filing nor perfection.
+			</section>
+			<section prefix="2">A perfected security interest or agricultural lien has priority over a conflicting unperfected security interest or agricultural lien.
+			</section>
+			<section prefix="3">The first security interest or agricultural lien to attach or become effective has priority if conflicting security interests and agricultural liens are unperfected.
+			</section>
+		</section>
+		<section prefix="b">Time of perfection; proceeds and supporting obligations. For the purposes of subsection (a) (1):
+			<section prefix="1">the time of filing or perfection as to a security interest in collateral is also the time of filing or perfection as to a security interest in proceeds; and
+			</section>
+			<section prefix="2">the time of filing or perfection as to a security interest in collateral supported by a supporting obligation is also the time of filing or perfection as to a security interest in the supporting obligation.
+			</section>
+		</section>
+		<section prefix="c">Special priority rules: proceeds and supporting obligations. Except as otherwise provided in subsection (f), a security interest in collateral which qualifies for priority over a conflicting security interest under §§ 8.9A-327, 8.9A-328, 8.9A-329, 8.9A-330 or § 8.9A-331 also has priority over a conflicting security interest in:
+			<section prefix="1">any supporting obligation for the collateral; and
+			</section>
+			<section prefix="2">proceeds of the collateral if:
+			</section>
+		</section>
+		<section prefix="A">the security interest in proceeds is perfected;
+		</section>
+		<section prefix="B">the proceeds are cash proceeds or of the same type as the collateral; and
+		</section>
+		<section prefix="C">in the case of proceeds that are proceeds of proceeds, all intervening proceeds are cash proceeds, proceeds of the same type as the collateral, or an account relating to the collateral.
+		</section>
+		<section prefix="e">Applicability of subsection (d). Subsection (d) applies only if the proceeds of the collateral are not cash proceeds, chattel paper, negotiable documents, instruments, investment property, or letter-of-credit rights.
+		</section>
+		<section prefix="f">Limitations on subsections (a) through (e). Subsections (a) through (e) are subject to:
+			<section prefix="1">subsection (g) and the other provisions of this part;
+			</section>
+			<section prefix="2">§ 8.4-210 with respect to a security interest of a collecting bank;
+			</section>
+			<section prefix="3">§ 8.5A-118 with respect to a security interest of an issuer or nominated person; and
+			</section>
+			<section prefix="4">§ 8.9A-110 with respect to a security interest arising under Title 8.2 or Title 8.2A.
+			</section>
+		</section>
+		<section prefix="g">Priority under agricultural lien statute. A perfected agricultural lien on collateral has priority over a conflicting security interest in or agricultural lien on the same collateral if the statute creating the agricultural lien so provides.
+		</section>
+	</text>
+	<history>Code 1950, § 43-27; 1964, c. 219, § 8.9-312; 1966, c. 557; 1973, c. 509; 1983, c. 204; 1984, c. 613; 1996, c. 216; 2000, c. 1007.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="9" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-675</section_number>
+	<catch_line>Number and election of directors</catch_line>
+	<text>
+		<section prefix="A">A board of directors shall consist of one or more individuals, with the number specified in or fixed in accordance with the articles of incorporation or bylaws. The number of directors may be increased or decreased from time to time by amendment of, or in the manner provided in, the articles of incorporation or bylaws.
+		</section>
+		<section prefix="B">The articles of incorporation or bylaws may establish a variable range for the size of the board of directors by fixing a minimum and maximum number of directors. If a variable range is established, the number of directors may be fixed or changed from time to time, within the minimum and maximum, by the shareholders or by the board of directors.
+		</section>
+		<section prefix="C">Directors are elected at the first annual shareholders' meeting and at each annual meeting thereafter unless elected by written consent in lieu of an annual meeting as permitted by § 13.1-657 or unless their terms are staggered under § 13.1-678.
+		</section>
+		<section prefix="D">No individual shall be named or elected as a director without his prior consent.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-36; 1956, c. 428; 1968, c. 87; 1973, c. 50; 1974, c. 662; 1977, c. 123; 1982, c. 104; 1985, c. 522; 1991, c. 112; 2005, c. 765; 2006, c. 330; 2010, c. 782; 2019, c. 734.</history>
+</law>

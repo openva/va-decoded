@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="16" level="2">Evidence and Witnesses</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>19.2-271.6</section_number>
+	<catch_line>Evidence of defendant's mental condition admissible; notice to Commonwealth</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section:
+			"Developmental disability" means the same as that term is defined in § 37.2-100.
+			"Intellectual disability" means the same as that term is defined in § 37.2-100.
+			"Mental illness" means a disorder of thought, mood, perception, or orientation that significantly impairs judgment or capacity to recognize reality.
+		</section>
+		<section prefix="B">In any criminal case, evidence offered by the defendant concerning the defendant's mental condition at the time of the alleged offense, including expert testimony, is relevant, is not evidence concerning an ultimate issue of fact, and shall be admitted if such evidence (i) tends to show the defendant did not have the intent required for the offense charged and (ii) is otherwise admissible pursuant to the general rules of evidence. For purposes of this section, to establish the underlying mental condition the defendant must show that his condition existed at the time of the offense and that the condition satisfies the diagnostic criteria for (i) a mental illness, (ii) a developmental disability or intellectual disability, or (iii) autism spectrum disorder as defined in the most recent edition of the Diagnostic and Statistical Manual of Mental Disorders of the American Psychiatric Association.
+			If a defendant intends to introduce evidence pursuant to this section, he, or his counsel, shall give notice in writing to the attorney for the Commonwealth, at least 60 days prior to his trial in circuit court, or at least 21 days prior to trial in general district court or juvenile and domestic relations district court, or at least 14 days if the trial date is set within 21 days of last court appearance, of his intention to present such evidence. In the event that such notice is not given, and the person proffers such evidence at his trial as a defense, then the court may in its discretion either allow the Commonwealth a continuance or, under appropriate circumstances, bar the defendant from presenting such evidence. The period of any such continuance shall not be counted for speedy trial purposes under § 19.2-243.
+			If a defendant intends to introduce expert testimony pursuant to this section, the defendant shall provide the Commonwealth with (a) any written report of the expert witness setting forth the witness's opinions and the bases and reasons for those opinions, or, if there is no such report, a written summary of the expected expert testimony setting forth the witness's opinions and bases and reasons for those opinions, and (b) the witness's qualifications and contact information.
+		</section>
+		<section prefix="C">The defendant, when introducing evidence pursuant to this section, shall permit the Commonwealth to inspect, copy, or photograph any written reports of any physical or mental examination of the accused made in connection with the case, provided that no statement made by the accused in the course of such an examination disclosed pursuant to this subsection shall be used by the Commonwealth in its case in chief, whether the examination was conducted with or without the consent of the accused.
+		</section>
+		<section prefix="D">Nothing in this section shall prevent the Commonwealth from introducing relevant, admissible evidence, including expert testimony, in rebuttal to evidence introduced by the defendant pursuant to this section.
+		</section>
+		<section prefix="E">Nothing in this section shall be construed as limiting the authority of the court from entering an emergency custody order pursuant to subsection A of § 37.2-808.
+		</section>
+		<section prefix="F">Nothing in this section shall be construed to affect the requirements for a defense of insanity pursuant to Chapter 11 (§ 19.2-167 et seq.).
+		</section>
+		<section prefix="G">Nothing in this section shall be construed as permitting the introduction of evidence of voluntary intoxication.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, cc. 523, 540.</history>
+</law>

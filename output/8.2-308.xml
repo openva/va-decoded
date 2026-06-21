@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="3" level="2">General Obligation and Construction of Contract</unit>
+	</structure>
+	<section_number>8.2-308</section_number>
+	<catch_line>Absence of specified place for delivery</catch_line>
+	<text>
+		Unless otherwise agreed
+		<section prefix="a">the place for delivery of goods is the seller's place of business or if he has none his residence; but
+		</section>
+		<section prefix="b">in a contract for sale of identified goods which to the knowledge of the parties at the time of contracting are in some other place, that place is the place for their delivery; and
+		</section>
+		<section prefix="c">documents of title may be delivered through customary banking channels.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

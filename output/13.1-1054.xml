@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="10" level="3">Foreign Limited Liability Companies</unit>
+	</structure>
+	<section_number>13.1-1054</section_number>
+	<catch_line>Name of foreign limited liability company</catch_line>
+	<text>
+		<section prefix="A">No certificate of registration shall be issued to a foreign limited liability company unless the name of the foreign limited liability company satisfies the requirements of § 13.1-1012.
+		</section>
+		<section prefix="B">If the name of a foreign limited liability company does not satisfy the requirements of § 13.1-1012, to obtain or maintain a certificate of registration to transact business in the Commonwealth:
+			<section prefix="1">The foreign limited liability company may adopt a designated name for use in the Commonwealth that adds the words "limited company" or "limited liability company" or the abbreviation "L.C.," "LC," "L.L.C." or "LLC" to its name or, if it is a professional limited liability company, the words "professional limited company" or "professional limited liability company" or the initials "P.L.C.," "PLC," "P.L.L.C.," or "PLLC" at the end of its name, if it informs the Commission of its designated name; or
+			</section>
+			<section prefix="2">If its real name is unavailable, the foreign limited liability company may adopt a designated name that is available, and which satisfies the requirements of § 13.1-1012, if it informs the Commission of the designated name.
+			</section>
+		</section>
+	</text>
+	<history>1991, c. 168; 1992, c. 574; 1996, c. 265; 2012, c. 63; 2016, c. 288; 2021, Sp. Sess. I, c. 487.</history>
+</law>

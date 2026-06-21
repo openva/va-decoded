@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="2" level="3">Fees</unit>
+	</structure>
+	<section_number>13.1-615.1</section_number>
+	<catch_line>Charter and entrance fees for corporations</catch_line>
+	<text>
+		<section prefix="A">Every domestic corporation, upon the granting of its charter or upon its incorporation by domestication or conversion, shall pay a charter fee into the state treasury, and every foreign corporation, when it obtains from the State Corporation Commission a certificate of authority to transact business in the Commonwealth, shall pay an entrance fee into the state treasury. The fee in each case is to be ascertained and fixed as follows:
+			For any domestic or foreign corporation whose number of authorized shares is 1,000,000 or fewer shares: $50 for each 25,000 shares or fraction thereof;
+			For any domestic or foreign corporation whose number of authorized shares is more than 1,000,000 shares: $2,500.
+		</section>
+		<section prefix="B">For any foreign corporation that files articles of domestication and that had authority to transact business in the Commonwealth at the time of such filing, the charter fee to be charged upon domestication shall be an amount equal to the difference between the amount that would be required by this section and the amount already paid as an entrance fee by such corporation.
+		</section>
+		<section prefix="C">Whenever by articles of amendment, articles of merger, articles of correction, or articles of ratification, the number of authorized shares of any domestic or foreign corporation or of the surviving corporation is increased, the charter or entrance fee to be charged shall be an amount equal to the difference between the amount already paid as a charter or entrance fee by such corporation and the amount that would be required by this section to be paid if the increased number of authorized shares were being stated at that time in the original articles of incorporation.
+		</section>
+		<section prefix="D">For any domestic nonstock corporation, limited liability company, business trust, limited partnership, or partnership that files articles of conversion to become a domestic corporation and that had previously converted from a domestic corporation, the charter fee to be charged upon conversion shall be an amount equal to the difference between the amount that would be required by this section and the amount already paid as a charter fee by the domestic nonstock corporation, limited liability company, business trust, limited partnership, or partnership when it was a domestic corporation.
+		</section>
+		<section prefix="E">For any domestic nonstock corporation that files articles of conversion to become a domestic corporation and that was not previously incorporated as a domestic corporation, the charter fee to be charged shall be an amount equal to the difference between the amount already paid as a charter fee by the domestic nonstock corporation upon its incorporation and the amount that would be required by this section to be paid in accordance with the number of authorized shares in the corporation's amended and restated articles of incorporation.
+		</section>
+		<section prefix="F">If no charter or entrance fee has been heretofore paid to the Commonwealth, the amount to be paid shall be the same as would have to be paid on original incorporation or application for authority to transact business.
+		</section>
+	</text>
+	<history>1988, c. 405; 2001, c. 545; 2002, c. 1; 2007, c. 810; 2008, c. 509; 2015, c. 623; 2019, c. 734; 2020, c. 1226; 2021, Sp. Sess. I, c. 487.</history>
+</law>

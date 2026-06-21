@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="4" level="3">Warranties</unit>
+	</structure>
+	<section_number>59.1-504.8</section_number>
+	<catch_line>Cumulation and conflict of warranties</catch_line>
+	<text>
+		Warranties, whether express or implied, must be construed as consistent with each other and as cumulative, but if that construction is unreasonable, the intention of the parties determines which warranty is dominant. In ascertaining that intention, the following rules apply:
+		<section prefix="1">Exact or technical specifications displace an inconsistent sample or model or general language of description.
+		</section>
+		<section prefix="2">A sample displaces inconsistent general language of description.
+		</section>
+		<section prefix="3">Express warranties displace inconsistent implied warranties other than an implied warranty under § 59.1-504.5 (a).
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

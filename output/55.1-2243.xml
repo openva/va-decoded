@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="IV" level="2">Common Interest Communities</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Real Estate Time-Share Act</unit>
+		<unit label="article" identifier="5" level="4">Registration</unit>
+	</structure>
+	<section_number>55.1-2243</section_number>
+	<catch_line>Termination of registration</catch_line>
+	<text>
+		<section prefix="A">In a time-share estate program, if the annual report indicates that the developer has transferred title to the time-share owners' association and that no further development rights exist, the Board shall issue an order terminating the registration of the time-share program.
+		</section>
+		<section prefix="B">The Board shall issue an order terminating the registration of a time-share program upon application by the developer in which the developer states that no further development right is anticipated and that the developer has ceased sales of time-shares in the time-share program.
+		</section>
+		<section prefix="C">Notwithstanding any other provisions of this chapter, the Board may administratively terminate the registration of a time-share program if:
+			<section prefix="1">The developer has not filed an annual report in accordance with § 55.1-2242 for three or more consecutive years; or
+			</section>
+			<section prefix="2">The developer's registration with the State Corporation Commission, if applicable, has not been active for five or more consecutive years.
+			</section>
+		</section>
+	</text>
+	<history>2012, cc. 481, 797, § 55-394.2; 2019, c. 712; 2020, c. 1011.</history>
+</law>

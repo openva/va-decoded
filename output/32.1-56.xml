@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="5" level="3">Venereal Diseases</unit>
+	</structure>
+	<section_number>32.1-56</section_number>
+	<catch_line>Information to be provided patients</catch_line>
+	<text>
+		It shall be the duty of every physician or other person who examines or treats a person having a venereal disease to provide such person with information about the disease, including, as a minimum, the nature of the disease, methods of treatment, measures used in preventing the spread of such disease, and the necessity of tests to ensure that a cure has been accomplished.
+	</text>
+	<history>Code 1950, § 32-92; 1979, c. 711.</history>
+</law>

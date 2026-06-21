@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4A" level="1">Commercial Code — Funds Transfers</unit>
+		<unit label="part" identifier="1" level="2">Subject Matter and Definitions</unit>
+	</structure>
+	<section_number>8.4A-108</section_number>
+	<catch_line>Relationship to Electronic Fund Transfer Act</catch_line>
+	<text>
+		<section prefix="a">Except as provided in subsection (b), this title does not apply to a funds transfer any part of which is governed by the Electronic Fund Transfer Act of 1978 (Title XX, Public Law 95-630, 92 Stat. 3728, 15 U.S.C. § 1693 et seq.), as amended from time to time.
+		</section>
+		<section prefix="b">This title applies to a funds transfer that is a remittance transfer as defined in the Electronic Fund Transfer Act (15 U.S.C. § 1693o-1) as amended from time to time, unless the remittance transfer is an electronic fund transfer as defined in the Electronic Fund Transfer Act (15 U.S.C. § 1693a) as amended from time to time.
+		</section>
+		<section prefix="c">In a funds transfer to which this title applies, in the event of an inconsistency between an applicable provision of this title and an applicable provision of the Electronic Fund Transfer Act, the provision of the Electronic Fund Transfer Act governs to the extent of the inconsistency.
+		</section>
+	</text>
+	<history>1990, c. 9; 2013, c. 387.</history>
+</law>

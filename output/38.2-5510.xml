@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="55" level="2">Risk-Based Capital Act</unit>
+	</structure>
+	<section_number>38.2-5510</section_number>
+	<catch_line>Foreign licensees</catch_line>
+	<text>
+		<section prefix="A">Any foreign licensee shall, upon the written request of the Commission, submit to the Commission an RBC Report as of the end of the calendar year just ended not later than the later of:
+			<section prefix="1">The date an RBC Report would be required to be filed by a domestic licensee under this Act; or
+			</section>
+			<section prefix="2">Fifteen days after the request is received by the foreign licensee.
+				Any foreign licensee shall, at the written request of the Commission, promptly submit to the Commission a copy of any RBC Plan that is filed with the insurance commissioner of any other state.
+			</section>
+		</section>
+		<section prefix="B">In the event of a Company Action Level Event, Regulatory Action Level Event or Authorized Control Level Event with respect to any foreign licensee as determined under the RBC statute applicable in the state of domicile of the licensee, or, if no RBC provision is in force in that state, under the provisions of this Act, if the insurance commissioner of the state of domicile of the foreign licensee fails to require the foreign licensee to file an RBC Plan in the manner specified under the RBC statute, or, if no RBC provision is in force in the state, under § 38.2-5503 hereof, the Commission may require the foreign licensee to file an RBC Plan with the Commission. In such event, the failure of the foreign licensee to file an RBC Plan with the Commission shall be grounds to order the licensee to cease writing new insurance business in this Commonwealth or to suspend, revoke or refuse to issue a license pursuant to § 38.2-1040.
+		</section>
+		<section prefix="C">In the event of a Mandatory Control Level Event with respect to any foreign licensee, if no domiciliary receiver has been appointed with respect to the foreign licensee under the rehabilitation and liquidation statute applicable in the state of domicile of the foreign licensee, the Commission may deem such licensee in a condition where any further transaction of business will be hazardous to its policyholders, creditors, members, subscribers, stockholders, or to the public, and an action may be instituted and conducted pursuant to the provisions of Chapter 15 (§ 38.2-1500 et seq.) and, if applicable, § 38.2-4214.1 or 38.2-4509.1, and the occurrence of the Mandatory Control Level Event shall be considered adequate grounds for the application for such action.
+		</section>
+	</text>
+	<history>1995, c. 789; 2000, c. 47; 2018, c. 706.</history>
+</law>

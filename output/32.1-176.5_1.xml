@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="2.1" level="3">Private Well Construction</unit>
+	</structure>
+	<section_number>32.1-176.5:1</section_number>
+	<catch_line>Department to test for oil contamination; maintain lists of private laboratories</catch_line>
+	<text>
+		<section prefix="A">The Department shall disseminate the information on confirmed oil releases and discharges, contained in the Department of Environmental Quality's monthly report prepared pursuant to § 62.1-44.15:4.1, to local health departments and Department field offices. Local health departments and field offices shall make the reports available for public inspection.
+		</section>
+		<section prefix="B">Upon the request of any person whose private well is located in an area, as defined by the Department, where an oil release or discharge has been confirmed in the reports prepared by the Department of Environment Quality, the Department shall test the water supply of the private well for the presence of oil to determine whether there is risk to public health. The costs of such tests shall be borne by the person requesting the test, unless the Department finds the oil release or discharge poses a potential risk to the health of persons using that private well.
+		</section>
+		<section prefix="C">The Department shall maintain and make available, upon the request of any person, a list of various private companies located throughout the Commonwealth that possess the technical expertise to analyze water samples for the presence of oil constituents. Any private company providing such laboratory testing services may contact the Department and shall have its name placed on the list. The placement of a company on the list shall not constitute an endorsement of any company or its services.
+		</section>
+	</text>
+	<history>1998, c. 795.</history>
+</law>

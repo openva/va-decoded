@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="6" level="2">Divorce, Affirmation and Annulment</unit>
+	</structure>
+	<section_number>20-99.2</section_number>
+	<catch_line>Service in divorce and annulment cases</catch_line>
+	<text>
+		<section prefix="A">In any suit for divorce or annulment or affirmation of a marriage, process may be served in any manner authorized under § 8.01-296 or 8.01-320.
+		</section>
+		<section prefix="B">Any such process served prior to July 1, 1984, shall not be invalidated solely because service was made as prescribed under § 8.01-296.
+		</section>
+	</text>
+	<history>1984, c. 611; 2012, cc. 78, 84.</history>
+</law>

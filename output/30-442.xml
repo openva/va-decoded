@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="68" level="2">Virginia Minority Business Commission</unit>
+	</structure>
+	<section_number>30-442</section_number>
+	<catch_line>(Expires July 1, 2028) Quorum; meetings; voting on recommendations</catch_line>
+	<text>
+		A majority of the members shall constitute a quorum. The meetings of the Commission shall be held at the call of the chairman or whenever the majority of the members so request.
+		No recommendation of the Commission shall be adopted if a majority of the House members or a majority of the Senate members appointed to the Commission (i) vote against the recommendation and (ii) vote for the recommendation to fail notwithstanding the majority vote of the Commission.
+	</text>
+	<history>2024, c. 527.</history>
+</law>

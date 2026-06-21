@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="2" level="3">Jurisdiction</unit>
+	</structure>
+	<section_number>20-146.19</section_number>
+	<catch_line>Jurisdiction declined by reason of conduct</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in § 20-146.15 or by other law of this Commonwealth, if a court of this Commonwealth has jurisdiction under this act because a person seeking to invoke its jurisdiction has engaged in unjustifiable conduct, the court shall decline to exercise its jurisdiction unless:
+			<section prefix="1">The parents and all persons acting as parents have acquiesced in the exercise of jurisdiction;
+			</section>
+			<section prefix="2">A court of the state otherwise having jurisdiction under §§ 20-146.12, 20-146.13 or § 20-146.14 determines that this Commonwealth is a more appropriate forum under § 20-146.18; or
+			</section>
+			<section prefix="3">No court of any other state would have jurisdiction under the criteria specified in subsection B.
+			</section>
+		</section>
+		<section prefix="B">If a court of this Commonwealth declines to exercise its jurisdiction pursuant to subsection A, it may fashion an appropriate remedy to ensure the safety of the child and prevent a repetition of the unjustifiable conduct, including staying the proceeding until a child custody proceeding is commenced in a court having jurisdiction under §§ 20-146.12, 20-146.13 or § 20-146.14.
+		</section>
+		<section prefix="C">If a court dismisses a petition or stays a proceeding because it declines to exercise its jurisdiction pursuant to subsection A, it shall assess against the party seeking to invoke its jurisdiction necessary and reasonable expenses including costs, communication expenses, attorney's fees, investigative fees, expenses for witnesses, travel expenses, and child care during the course of the proceedings, unless the party from whom fees are sought establishes that the assessment would be clearly inappropriate. The court may not assess fees, costs, or expenses against this Commonwealth unless authorized by law other than this act.
+		</section>
+	</text>
+	<history>1979, c. 229, § 20-131; 2001, c. 305.</history>
+</law>

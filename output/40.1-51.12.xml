@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3.1" level="2">Boiler and Pressure Vessel Safety Act</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>40.1-51.12</section_number>
+	<catch_line>Violation for operating boiler or pressure vessel without inspection certificate; civil penalty</catch_line>
+	<text>
+		<section prefix="A">After twelve months following July 1, 1972, it shall be unlawful for any person, firm, partnership or corporation to operate in this Commonwealth a boiler or pressure vessel without a valid inspection certificate. Any owner, user, operator or agent of any such person who actually operates or is responsible for operating such boiler or pressure vessel thereof who operates a boiler or pressure vessel without such inspection certificate, or at a pressure exceeding that specified in such inspection certificate shall be in violation of this section and subject to a civil penalty not to exceed $100. Each day of such violation shall be deemed a separate offense.
+		</section>
+		<section prefix="B">All procedural rights guaranteed to employers pursuant to § 40.1-49.4 shall apply to penalties under this section.
+		</section>
+		<section prefix="C">Investigation and enforcement for violations of this section shall be carried out by the Department of Labor and Industry. Civil penalties imposed for violations of this section shall be paid into the general fund.
+		</section>
+	</text>
+	<history>1972, c. 237; 1995, c. 97.</history>
+</law>

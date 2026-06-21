@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="47.1" level="1">Notaries and Out-Of-State Commissioners</unit>
+		<unit label="chapter" identifier="2" level="2">Appointment</unit>
+	</structure>
+	<section_number>47.1-11.1</section_number>
+	<catch_line>Evidence of authenticity of electronic notarial act</catch_line>
+	<text>
+		<section prefix="A">Form of evidence of authority of electronic notarial act. On a notarized electronic document transmitted to another state or country outside of the United States, electronic evidence of the authenticity of the official signature and seal of an electronic notary of the Commonwealth of Virginia, if required, shall be attached to or logically associated with the document and shall be in the form of an electronic certificate of authority signed by the Secretary that is independently verifiable, will be invalidated if the underlying document is improperly modified, and is in conformance with any current and pertinent international treaties, agreements, and conventions subscribed to by the government of the United States.
+		</section>
+		<section prefix="B">Certificate of authority for electronic notarial act. An electronic certificate of authority evidencing the authenticity of the official signature and seal of an electronic notary of the Commonwealth of Virginia shall contain substantially the following words:
+			Certificate of Authority for an Electronic Notarial Act
+			I,......… (name and title), certify that................… (name of electronic notary), the person named as Electronic Notary Public in the attached or associated electronic document, was commissioned as an Electronic Notary Public for the Commonwealth of Virginia and authorized to act as such at the time of the document's electronic notarization.
+			To verify this Certificate of Authority for an Electronic Notarial Act, I have included herewith my electronic signature this … day of............, 20.…
+			(Electronic signature and seal of commissioning official)
+		</section>
+		<section prefix="C">For issuing an electronic certificate of authority, the Secretary may charge a fee in an amount set by the Secretary.
+		</section>
+	</text>
+	<history>2007, cc. 269, 590.</history>
+</law>

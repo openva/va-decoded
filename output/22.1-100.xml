@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="8" level="2">Public School Funds</unit>
+		<unit label="article" identifier="1" level="3">State and Local Funds</unit>
+	</structure>
+	<section_number>22.1-100</section_number>
+	<catch_line>Unexpended school and educational funds; capital reserve fund permitted</catch_line>
+	<text>
+		<section prefix="A">All sums of money derived from the Commonwealth which are unexpended in any year in any school division shall revert to the fund of the Commonwealth from which derived unless the Board of Education directs otherwise. Except as otherwise provided in subsection B, all sums derived from local funds unexpended in any year shall remain a part of the funds of the governing body appropriating the funds for use the next year, but no local funds shall be subject to redivision outside of the locality in which they were raised.
+		</section>
+		<section prefix="B">Any school board may, with the concurrence of the local governing body, establish a capital reserve fund as a savings account into which it exclusively deposits the unexpended local operating funds described in subsection A for future school division capital expenditures at no additional cost to local taxpayers, subject to the following conditions:
+			<section prefix="1">Any deposit into such fund shall be designated at the time of deposit for a specific capital project named by the school board;
+			</section>
+			<section prefix="2">No deposit into such fund shall be withdrawn or used for any purpose other than the capital project designated pursuant to subdivision 1; and
+			</section>
+			<section prefix="3">The school board may make withdrawals from such fund at any time, and no such withdrawal shall be encumbered by any deadlines or other timelines or time-based restrictions.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 22-138; 1956, Ex. Sess., c. 67; 1980, c. 559; 2024, c. 294.</history>
+</law>

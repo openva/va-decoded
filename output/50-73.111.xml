@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="6" level="3">Partner's Dissociation</unit>
+	</structure>
+	<section_number>50-73.111</section_number>
+	<catch_line>Effect of partner's dissociation</catch_line>
+	<text>
+		<section prefix="A">If a partner's dissociation results in a dissolution and winding up of the partnership business, Article 8 applies; otherwise, Article 7 applies.
+		</section>
+		<section prefix="B">Upon a partner's dissociation:
+			<section prefix="1">The partner's right to participate in the management and conduct of the partnership business terminates, except as otherwise provided in § 50-73.119;
+			</section>
+			<section prefix="2">The partner's duty of loyalty under subdivision B 3 of § 50-73.102 terminates; and
+			</section>
+			<section prefix="3">The partner's duty of loyalty under subdivisions B 1 and B 2 of § 50-73.102 and duty of care under subsection C of § 50-73.102 continue only with regard to matters arising and events occurring before the partner's dissociation, unless the partner participates in winding up the partnership's business pursuant to § 50-73.119.
+			</section>
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

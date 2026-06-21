@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="17" level="3">Miscellaneous Taxes</unit>
+		<unit label="article" identifier="3" level="4">Tax on Wills and Administrations</unit>
+	</structure>
+	<section_number>58.1-1718.01</section_number>
+	<catch_line>Exemption for victims of the Virginia Beach mass shooting</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "Virginia Beach mass shooting" means the mass shooting that occurred on May 31, 2019, at the Virginia Beach Municipal Center in the City of Virginia Beach.
+		</section>
+		<section prefix="B">No tax shall be imposed under this article on the probate of a will or grant of administration of the estate of an individual who died as a result of the Virginia Beach mass shooting.
+		</section>
+	</text>
+	<history>2020, cc. 249, 278.</history>
+</law>

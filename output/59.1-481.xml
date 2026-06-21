@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="42.1" level="2">Uniform Electronic Transactions Act</unit>
+	</structure>
+	<section_number>59.1-481</section_number>
+	<catch_line>Scope</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in subsection (b), this chapter applies to electronic records and electronic signatures relating to a transaction.
+		</section>
+		<section prefix="b">This chapter does not apply to a transaction to the extent it is governed by:
+			<section prefix="1">A law governing the creation and execution of wills, codicils, or testamentary trusts; and
+			</section>
+			<section prefix="2">Title 8.1A except § 8.1A-306, Title 8.3A, Title 8.4, Title 8.4A, Title 8.5A, Title 8.7, Title 8.8A, Title 8.9A, Title 8.10, and Title 8.11.
+			</section>
+		</section>
+		<section prefix="c">This chapter applies to an electronic record or electronic signature otherwise excluded from the application of this chapter under subsection (b) to the extent it is governed by law other than those specified in subsection (b).
+		</section>
+		<section prefix="d">A transaction subject to this chapter is also subject to other applicable substantive law.
+		</section>
+	</text>
+	<history>2000, c. 995; 2001, c. 86; 2003, c. 353; 2011, c. 369.</history>
+</law>

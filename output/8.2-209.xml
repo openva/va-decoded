@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code — Sales</unit>
+		<unit label="part" identifier="2" level="2">Form, Formation and Readjustment of Contract</unit>
+	</structure>
+	<section_number>8.2-209</section_number>
+	<catch_line>Modification, rescission, and waiver</catch_line>
+	<text>
+		<section prefix="1">An agreement modifying a contract within this title needs no consideration to be binding.
+		</section>
+		<section prefix="2">A signed agreement which excludes modification or rescission except by a signed writing or other signed record cannot be otherwise modified or rescinded, but except as between merchants such a requirement on a form supplied by the merchant must be separately signed by the other party.
+		</section>
+		<section prefix="3">The requirements of the statute of frauds section of this title (§ 8.2-201) must be satisfied if the contract as modified is within its provisions.
+		</section>
+		<section prefix="4">Although an attempt at modification or rescission does not satisfy the requirements of subsection (2) or (3) it can operate as a waiver.
+		</section>
+		<section prefix="5">A party who has made a waiver affecting an executory portion of the contract may retract the waiver by reasonable notification received by the other party that strict performance will be required of any term waived, unless the retraction would be unjust in view of a material change of position in reliance on the waiver.
+		</section>
+	</text>
+	<history>1964, c. 219; 2024, c. 652.</history>
+</law>

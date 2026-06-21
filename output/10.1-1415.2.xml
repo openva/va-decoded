@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3" level="4">Litter Control and Recycling</unit>
+	</structure>
+	<section_number>10.1-1415.2</section_number>
+	<catch_line>Plastic holding device prohibited</catch_line>
+	<text>
+		<section prefix="A">On and after January 1, 1993, it shall be unlawful to sell or offer for sale beverage containers connected to each other, using rings or other devices constructed of plastic which is not degradable or recyclable.
+		</section>
+		<section prefix="B">For the purpose of this section:
+			"Beverage container" means the individual bottle, can, jar, or other sealed receptacle, in which a beverage is sold, and which is constructed of metal, glass, or plastic, or other material, or any combination of these materials. "Beverage container" does not include cups or other similar open or loosely sealed containers.
+			"Degradable" means decomposition by photodegradation or biodegradation within a reasonable period of time upon exposure to natural elements.
+		</section>
+	</text>
+	<history>1991, c. 209.</history>
+</law>

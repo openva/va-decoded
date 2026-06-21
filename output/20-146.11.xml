@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>20-146.11</section_number>
+	<catch_line>Cooperation between courts; preservation of records</catch_line>
+	<text>
+		<section prefix="A">A court of this Commonwealth may request the appropriate court of another state to:
+			<section prefix="1">Hold an evidentiary hearing;
+			</section>
+			<section prefix="2">Order a person to produce or give evidence pursuant to procedures of that state;
+			</section>
+			<section prefix="3">Order that an evaluation be made with respect to the custody of a child involved in a pending proceeding;
+			</section>
+			<section prefix="4">Forward to the court of this Commonwealth a certified copy of the transcript of the record of the hearing, the evidence otherwise presented, and any evaluation prepared in compliance with the request; and
+			</section>
+			<section prefix="5">Order a party to a child custody proceeding or any person having physical custody of the child to appear in the proceeding with or without the child.
+			</section>
+		</section>
+		<section prefix="B">Upon request of a court of another state, a court of this Commonwealth may hold a hearing or enter an order described in subsection A.
+		</section>
+		<section prefix="C">Travel and other necessary and reasonable expenses incurred under subsections A and B may be assessed against the parties according to the law of this Commonwealth.
+		</section>
+		<section prefix="D">A court of this Commonwealth shall preserve the pleadings, orders, decrees, records of hearings, evaluations, and other pertinent records with respect to a child custody proceeding until the child attains eighteen years of age. Upon appropriate request by a court or law-enforcement official of another state, the court shall forward a certified copy of those records.
+		</section>
+	</text>
+	<history>1979, c. 229, §§ 20-142, 20-143, 20-144, 20-145; 2001, c. 305.</history>
+</law>

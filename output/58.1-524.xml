@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="21" level="4">Setoff Debt Collection Act</unit>
+	</structure>
+	<section_number>58.1-524</section_number>
+	<catch_line>Notification of Department by claimant agency; action of Department</catch_line>
+	<text>
+		<section prefix="A">A claimant agency seeking to attempt collection of a delinquent debt through setoff shall notify the Department and supply information necessary to identify the debtor whose refund is sought to be setoff. Notification to the Department and the furnishing of identifying information must occur on or before a date specified by the Department. The claimant agency shall verify that the delinquent debt is valid before notifying the Department requesting setoff, and shall promptly notify the Department when subsequent payments or other events render all or a portion of the debt invalid.
+		</section>
+		<section prefix="B">The Department, upon receipt of notification, shall determine whether the debtor to the claimant agency is entitled to a refund from the Department. Upon determination by the Department that a debtor specified by the claimant agency qualifies for such a refund, the Department shall notify the claimant agency that a refund is pending, specify its sum, and indicate the debtor's address as listed on the tax return.
+		</section>
+		<section prefix="C">The Department, upon certification as hereinafter provided in this article, shall set off the certified debt against the refund to which the debtor would otherwise be entitled.
+		</section>
+	</text>
+	<history>Code 1950, § 58-19.11; 1981, c. 408; 1982, c. 621; 1984, c. 675; 1996, cc. 363, 413.</history>
+</law>

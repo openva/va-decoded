@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="36" level="3">Fertilizer</unit>
+	</structure>
+	<section_number>3.2-3613</section_number>
+	<catch_line>Adulteration</catch_line>
+	<text>
+		<section prefix="A">It is unlawful to distribute an adulterated regulated product. A regulated product shall be deemed to be adulterated if:
+			<section prefix="1">It contains any deleterious or harmful ingredient, in sufficient amount to render it injurious to beneficial plant life, when applied in accordance with directions for use on the label;
+			</section>
+			<section prefix="2">It does not contain an adequate warning statement, or directions for use, on the label sufficient to protect plant life;
+			</section>
+			<section prefix="3">It has a composition that falls below or differs from that which it is purported to possess by its labeling; or
+			</section>
+			<section prefix="4">It contains unwanted crop seed, or viable prohibited or restricted noxious weed seeds in amounts exceeding the limits specified in the regulations of the Board.
+			</section>
+		</section>
+		<section prefix="B">The guarantor of any regulated product found to be adulterated shall pay to the consumer an assessment equal to 10 percent of the retail value of the regulated product sold to the consumer and found to be in violation of subsection A not to exceed $5,000 per occurrence. The assessment for adulteration shall apply only to the retail sale of any regulated product made from a lot or a portion thereof after the Commissioner has inspected the lot or a portion thereof. The assessment for adulteration shall be in addition to any assessment for plant food deficiency.
+		</section>
+	</text>
+	<history>1994, c. 740, § 3.1-106.11; 2008, c. 860; 2011, cc. 552, 564.</history>
+</law>

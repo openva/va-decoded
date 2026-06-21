@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="7" level="4">Requirements Applicable to Underground Coal Mines; Mine Construction</unit>
+		<unit label="article" identifier="7" level="5">Hoisting</unit>
+	</structure>
+	<section_number>45.2-735</section_number>
+	<catch_line> Hoisting equipment</catch_line>
+	<text>
+		<section prefix="A">Every hoist used for handling miners shall be equipped with overspeed, overwind, and automatic stop controls.
+		</section>
+		<section prefix="B">Every suspended work deck or platform shall (i) operate automatically, (ii) be equipped with guardrails capable of protecting miners and materials from accidental overturning, and (iii) be equipped with safety belts and such other protective devices as the Chief shall require by regulation.
+		</section>
+		<section prefix="C">Every platform or work deck that is used for transporting miners or materials shall be equipped with leveling indicators, and such conveyance shall be maintained and operated in a reasonably level position at all times.
+		</section>
+		<section prefix="D">Every shaft, slope, or surface incline hoist shall be equipped with brakes capable of stopping and holding the fully loaded unbalanced cage or trip at any point in the shaft or slope or on the surface incline.
+		</section>
+		<section prefix="E">An accurate and reliable indicator showing the position of the cage or trip shall be placed so as to be in clear view of the hoisting engineer, unless the position of the cage or trip is clearly visible at all times to the hoisting engineer or other person operating the equipment.
+		</section>
+		<section prefix="F">Any conveyance that is used to haul miners or materials within a shaft or slope shall be (i) designed to prevent materials from falling back into the shaft or slope and (ii) equipped with a retaining edge of at least six inches to prevent objects from falling into the shaft or slope.
+		</section>
+	</text>
+	<history>Code 1950, § 45-68.4; 1954, c. 191; 1966, c. 594, §§ 45.1-68, 45.1-69; 1972, c. 784; 1978, c. 729; 1994, c. 28; 2021, Sp. Sess. I, c. 387.</history>
+</law>

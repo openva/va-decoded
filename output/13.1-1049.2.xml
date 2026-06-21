@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="9" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-1049.2</section_number>
+	<catch_line>Other claims against dissolved limited liability company</catch_line>
+	<text>
+		<section prefix="A">A dissolved limited liability company may also publish notice of its dissolution and request that persons with claims against the dissolved limited liability company present them in accordance with the notice.
+		</section>
+		<section prefix="B">The notice shall:
+			<section prefix="1">Be published one time in a newspaper of general circulation in the city or county where the dissolved limited liability company's principal office, or, if none in the Commonwealth, its registered office, is or was last located;
+			</section>
+			<section prefix="2">Describe the information that must be included in a claim and provide a mailing address where the claim may be sent; and
+			</section>
+			<section prefix="3">State that a claim against the dissolved limited liability company will be barred unless a proceeding to enforce the claim is commenced prior to the earlier of the expiration of any applicable statute of limitations or three years after the date of publication of the notice.
+			</section>
+		</section>
+		<section prefix="C">If the dissolved limited liability company publishes a newspaper notice in accordance with subsection B, the claim of each of the following claimants is barred unless the claimant commences a proceeding to enforce the claim against the dissolved limited liability company prior to the earlier of the expiration of any applicable statute of limitations or three years after the publication date of the newspaper notice:
+			<section prefix="1">A claimant who was not given written notice under § 13.1-1049.1;
+			</section>
+			<section prefix="2">A claimant whose claim was timely sent to the dissolved limited liability company but not acted on; and
+			</section>
+			<section prefix="3">A claimant whose claim does not meet the definition of a claim in subsection D of § 13.1-1049.1.
+			</section>
+		</section>
+		<section prefix="D">A claim that is not barred by subsection C of § 13.1-1049.1 or subsection C of § 13.1-1049.2 may be enforced:
+			<section prefix="1">Against the dissolved limited liability company, to the extent of its undistributed assets; or
+			</section>
+			<section prefix="2">Except as provided in subsection D of § 13.1-1049.3, if the assets have been distributed in liquidation, against a member of the dissolved limited liability company to the extent of the member's pro rata share of the claim or the limited liability company assets distributed to the member in liquidation, whichever is less, but a member's total liability for all claims under this section may not exceed the total amount of assets distributed to the member.
+			</section>
+		</section>
+	</text>
+	<history>2006, c. 912.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="4" level="4">Creation, Validity, Modification, and Termination of Trust</unit>
+	</structure>
+	<section_number>64.2-727</section_number>
+	<catch_line>Noncharitable trust without ascertainable beneficiary</catch_line>
+	<text>
+		Except as otherwise provided in § 64.2-726 or by another statute, the following rules apply:
+		<section prefix="1">A trust may be created for a noncharitable purpose without a definite or definitely ascertainable beneficiary or for a noncharitable but otherwise valid purpose to be selected by the trustee. The trust may not be enforced for more than 21 years.
+		</section>
+		<section prefix="2">A trust authorized by this section may be enforced by a person appointed in the terms of the trust or, if no person is so appointed, by a person appointed by the court.
+		</section>
+		<section prefix="3">Property of a trust authorized by this section may be applied only to its intended use, except to the extent the court determines that the value of the trust property exceeds the amount required for the intended use. Except as otherwise provided in the terms of the trust, property not required for the intended use shall be distributed to the settlor, if then living, otherwise to the settlor's successors in interest.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-544.09; 2012, c. 614.</history>
+</law>

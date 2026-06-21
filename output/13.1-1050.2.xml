@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="9" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-1050.2</section_number>
+	<catch_line>Automatic cancellation of limited liability company existence</catch_line>
+	<text>
+		<section prefix="A">Whether or not the notice described in subsection B of § 13.1-1064 is mailed, if any limited liability company fails to pay its annual registration fee on or before the last day of the third month immediately following its annual registration fee due date each year, the existence of the limited liability company shall be automatically canceled as of that day.
+		</section>
+		<section prefix="B">If any limited liability company whose registered agent has filed with the Commission a statement of resignation pursuant to § 13.1-1017 fails to file a statement of change pursuant to § 13.1-1016 within 31 days after the date on which the statement of resignation was filed, the Commission shall mail notice to the limited liability company of the impending cancellation of its existence. If the limited liability company fails to file the statement of change on or before the last day of the second month immediately following the month in which the impending cancellation notice was mailed, the existence of the limited liability company shall be automatically canceled as of that day.
+		</section>
+		<section prefix="C">The properties and affairs of a limited liability company whose existence has been canceled pursuant to this section shall pass automatically to its managers, or if the limited liability company is managed by its members, then to its members, or if the limited liability company has no managers or members, then to the holders of its interests, in each such case as trustees in liquidation. The trustees shall then proceed to (i) collect the assets of the limited liability company; (ii) sell, convey, and dispose of such of its properties as are not to be distributed in kind to its members; (iii) pay, satisfy, and discharge its liabilities and obligations; and (iv) do all other acts required to liquidate its business and affairs. After paying or adequately providing for the payment of all its obligations, the trustees shall distribute the remainder of its assets, either in cash or in kind, among its members or interest holders according to their respective rights and interests.
+		</section>
+		<section prefix="D">No member, manager or other agent of a limited liability company shall have any personal obligation for any liabilities of the limited liability company, whether such liabilities arise in contract, tort, or otherwise, solely by reason of the cancellation of the limited liability company's existence pursuant to this section.
+		</section>
+	</text>
+	<history>2008, c. 108; 2010, c. 703; 2013, c. 17.</history>
+</law>

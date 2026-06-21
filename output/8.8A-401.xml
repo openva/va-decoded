@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="4" level="2">Registration</unit>
+	</structure>
+	<section_number>8.8A-401</section_number>
+	<catch_line>Duty of issuer to register transfer</catch_line>
+	<text>
+		<section prefix="a">If a certificated security in registered form is presented to an issuer with a request to register transfer or an instruction is presented to an issuer with a request to register transfer of an uncertificated security, the issuer shall register the transfer as requested if:
+			<section prefix="1">under the terms of the security the person seeking registration of transfer is eligible to have the security registered in its name;
+			</section>
+			<section prefix="2">the endorsement or instruction is made by the appropriate person or by an agent who has actual authority to act on behalf of the appropriate person;
+			</section>
+			<section prefix="3">reasonable assurance is given that the endorsement or instruction is genuine and authorized (§ 8.8A-402);
+			</section>
+			<section prefix="4">any applicable law relating to the collection of taxes has been complied with;
+			</section>
+			<section prefix="5">the transfer does not violate any restriction on transfer imposed by the issuer in accordance with § 8.8A-204;
+			</section>
+			<section prefix="6">a demand that the issuer not register transfer has not become effective under § 8.8A-403, or the issuer has complied with § 8.8A-403 (b) but no legal process or indemnity bond is obtained as provided in § 8.8A-403 (d); and
+			</section>
+			<section prefix="7">the transfer is in fact rightful or is to a protected purchaser.
+			</section>
+		</section>
+		<section prefix="b">If an issuer is under a duty to register a transfer of a security, the issuer is liable to a person presenting a certificated security or an instruction for registration or to the person's principal for loss resulting from unreasonable delay in registration or failure or refusal to register the transfer.
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

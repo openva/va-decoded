@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="1" level="3">Hospital and Nursing Home Licensure and Inspection</unit>
+	</structure>
+	<section_number>32.1-127.1:05</section_number>
+	<catch_line>Breach of medical information notification</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Breach of the security of the system" means unauthorized access and acquisition of unencrypted and unredacted computerized data that compromises the security, confidentiality, or integrity of medical information maintained by an entity. Good faith acquisition of medical information by an employee or agent of an entity for the purposes of the entity is not a breach of the security of the system, provided that the medical information is not used for a purpose other than a lawful purpose of the entity or subject to further unauthorized disclosure.
+			"Encrypted" means the transformation of data through the use of an algorithmic process into a form in which there is a low probability of assigning meaning without the use of a confidential process or key, or the securing of the information by another method that renders the data elements unreadable or unusable.
+			"Entity" means any authority, board, bureau, commission, district or agency of the Commonwealth or of any political subdivision of the Commonwealth, including cities, towns and counties, municipal councils, governing bodies of counties, school boards and planning commissions; boards of visitors of public institutions of higher education; and other organizations, corporations, or agencies in the Commonwealth supported wholly or principally by public funds.
+			"Medical information" means the first name or first initial and last name in combination with and linked to any one or more of the following data elements that relate to a resident of the Commonwealth, when the data elements are neither encrypted nor redacted:
+			<section prefix="1">Any information regarding an individual's medical or mental health history, mental or physical condition, or medical treatment or diagnosis by a health care professional; or
+			</section>
+			<section prefix="2">An individual's health insurance policy number or subscriber identification number, any unique identifier used by a health insurer to identify the individual, or any information in an individual's application and claims history, including any appeals records.
+				The term does not include information that is lawfully obtained from publicly available information, or from federal, state, or local government records lawfully made available to the general public.
+				"Notice" means:
+			</section>
+			<section prefix="1">Written notice to the last known postal address in the records of the entity;
+			</section>
+			<section prefix="2">Telephone notice;
+			</section>
+			<section prefix="3">Electronic notice; or
+			</section>
+			<section prefix="4">Substitute notice, if the entity required to provide notice demonstrates that the cost of providing notice will exceed $50,000, the affected class of Virginia residents to be notified exceeds 100,000 residents, or the entity does not have sufficient contact information or consent to provide notice as described in subdivisions 1, 2, or 3 of this definition. Substitute notice consists of the following:
+				a. E-mail notice if the entity has e-mail addresses for the members of the affected class of residents;
+				b. Conspicuous posting of the notice on the website of the entity if the entity maintains a website; and
+				c. Notice to major statewide media.
+				Notice required by this section shall include a description of the following:
+				<section prefix="1">The incident in general terms;
+				</section>
+				<section prefix="2">The type of medical information that was subject to the unauthorized access and acquisition;
+				</section>
+				<section prefix="3">The general acts of the entity to protect the personal information from further unauthorized access; and
+				</section>
+				<section prefix="4">A telephone number that the person may call for further information and assistance, if one exists.
+					"Redact" means alteration or truncation of data such that no information regarding an individual's medical history, mental or physical condition, or medical treatment or diagnosis or no more than four digits of a health insurance policy number, subscriber number, or other unique identifier are accessible as part of the medical information.
+				</section>
+			</section>
+		</section>
+		<section prefix="B">If unencrypted or unredacted medical information was or is reasonably believed to have been accessed and acquired by an unauthorized person, an entity that owns or licenses computerized data that includes medical information shall disclose any breach of the security of the system following discovery or notification of the breach of the security of the system to the Office of the Attorney General, the Commissioner of Health, the subject of the medical information, and any affected resident of the Commonwealth without unreasonable delay. Notice required by this section may be reasonably delayed to allow the entity to determine the scope of the breach of the security of the system and restore the reasonable integrity of the system. Notice required by this section may be delayed if, after the entity notifies a law-enforcement agency, the law-enforcement agency determines and advises the entity that the notice will impede a criminal or civil investigation, or homeland or national security. Notice shall be made without unreasonable delay after the law-enforcement agency determines that the notification will no longer impede the investigation or jeopardize national or homeland security.
+		</section>
+		<section prefix="C">An entity shall disclose the breach of the security of the system if encrypted information is accessed and acquired in an unencrypted form, or if the security breach involves a person with access to the encryption key.
+		</section>
+		<section prefix="D">An entity that maintains computerized data that includes medical information that the entity does not own or license shall notify the owner or licensee of the information of any breach of the security of the system without unreasonable delay following discovery of the breach of the security of the system, if the medical information was accessed and acquired by an unauthorized person or the entity reasonably believes the medical information was accessed and acquired by an unauthorized person.
+		</section>
+		<section prefix="E">In the event an entity provides notice to more than 1,000 persons at one time, pursuant to this section, the entity shall notify, without unreasonable delay, the Office of the Attorney General and the Commissioner of Health of the timing, distribution, and content of the notice.
+		</section>
+		<section prefix="F">This section shall not apply to (i) a person or entity who is a "covered entity" or "business associate" under the Health Insurance Portability and Accountability Act of 1996 (42 USC § 1320d et seq.) and is subject to requirements for notification in the case of a breach of protected health information (42 USC 17932 et seq.) or (ii) a person or entity who is a non-HIPAA-covered entity subject to the Health Breach Notification Rule promulgated by the Federal Trade Commission pursuant to 42 USC § 17937 et seq.
+		</section>
+		<section prefix="G">An entity that complies with the notification requirements or procedures pursuant to the rules, regulations, procedures, and guidelines established by the entity's primary or functional state or federal regulator shall be in compliance with this section.
+		</section>
+	</text>
+	<history>2010, c. 852.</history>
+</law>

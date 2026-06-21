@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="6" level="2">Breach, Repudiation and Excuse</unit>
+	</structure>
+	<section_number>8.2-606</section_number>
+	<catch_line>What constitutes acceptance of goods</catch_line>
+	<text>
+		<section prefix="1">Acceptance of goods occurs when the buyer
+			<section prefix="a">after a reasonable opportunity to inspect the goods signifies to the seller that the goods are conforming or that he will take or retain them in spite of their nonconformity; or
+			</section>
+			<section prefix="b">fails to make an effective rejection (subsection (1) of § 8.2-602), but such acceptance does not occur until the buyer has had a reasonable opportunity to inspect them; or
+			</section>
+			<section prefix="c">does any act inconsistent with the seller's ownership; but if such act is wrongful as against the seller it is an acceptance only if ratified by him.
+			</section>
+		</section>
+		<section prefix="2">Acceptance of a part of any commercial unit is acceptance of that entire unit.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

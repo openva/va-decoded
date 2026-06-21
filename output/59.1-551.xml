@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="50" level="2">Electronic Identity Management Act</unit>
+	</structure>
+	<section_number>59.1-551</section_number>
+	<catch_line>Trustmark; warranty</catch_line>
+	<text>
+		The use of a trustmark on an identity credential provides a warranty by the identity provider that the written rules and policies of the identity trust framework or federation of which it is a member have been adhered to in asserting the identity and any related attributes contained on the identity credential. No other warranties are applicable unless expressly provided by the identity provider.
+	</text>
+	<history>2015, cc. 482, 483; 2020, c. 736.</history>
+</law>

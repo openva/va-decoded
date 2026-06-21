@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="43" level="3">Grades, Marks, and Brands</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>3.2-4308</section_number>
+	<catch_line>Grades and brands shall be used in accordance with regulations</catch_line>
+	<text>
+		It is unlawful to use:
+		<section prefix="1">Any grade, trademark, brand, or other markings established and adopted by the Commissioner on or in connection with marking any agricultural product that is not in accordance with regulations established and adopted by the Commissioner.
+		</section>
+		<section prefix="2">Any grade, trademark, brand, or other markings indicating grade, classification, quality, condition or size, for any agricultural product for which official grades, trademarks, brands, or other markings have not been established and adopted by the Commissioner or are not in accordance with the provisions of § 3.2-4304.
+		</section>
+	</text>
+	<history>Code 1950, § 3-264; 1966, c. 702, § 3.1-343; 2008, c. 860; 2020, c. 317.</history>
+</law>

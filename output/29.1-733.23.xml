@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="29.1" level="1">Wildlife, Inland Fisheries and Boating</unit>
+		<unit label="chapter" identifier="7" level="2">Boating Laws</unit>
+		<unit label="article" identifier="2.1" level="3">Virginia Uniform Certificate of Title for Watercraft Act</unit>
+	</structure>
+	<section_number>29.1-733.23</section_number>
+	<catch_line>Rights of purchaser other than secured party</catch_line>
+	<text>
+		<section prefix="A">A buyer in ordinary course of business has the protections afforded by subsection (2) of § 8.2-403 and subsection (a) of § 8.9A-320 even if an existing certificate of title was not signed and delivered to the buyer or a new certificate listing the buyer as owner of record was not created.
+		</section>
+		<section prefix="B">Except as otherwise provided in §§ 29.1-733.17 and 29.1-733.24, the rights of a purchaser of a watercraft that is not a buyer in ordinary course of business or a lien creditor are governed by the Uniform Commercial Code.
+		</section>
+	</text>
+	<history>2013, c. 787.</history>
+</law>

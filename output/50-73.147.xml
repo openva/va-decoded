@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="10" level="3">Miscellaneous Provisions</unit>
+	</structure>
+	<section_number>50-73.147</section_number>
+	<catch_line>Applicability</catch_line>
+	<text>
+		<section prefix="A">Before January 1, 2000, this chapter governs only a partnership formed:
+			<section prefix="1">On and after July 1, 1997, unless that partnership is continuing the business of a dissolved partnership under § 50-41 of the Uniform Partnership Act as it existed on July 1, 1997; and
+			</section>
+			<section prefix="2">Before July 1, 1997, that elects, as provided by subsection C, to be governed by this chapter.
+			</section>
+		</section>
+		<section prefix="B">Effective January 1, 2000, this chapter governs all partnerships.
+		</section>
+		<section prefix="C">Before January 1, 2000, a partnership voluntarily may elect, in the manner provided in its partnership agreement or by law for amending the partnership agreement, to be governed by this chapter. The provisions of this chapter relating to the liability of the partnership's partners to third parties apply to limit those partners' liability to a third party who had done business with the partnership within one year preceding the partnership's election to be governed by this chapter, only if the third party knows or has received a notification of the partnership's election to be governed by this chapter.
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="D" level="3">State Authorities, Boards, Commissions, Councils, Foundations and Other Collegial Bodies</unit>
+		<unit label="chapter" identifier="25" level="4">Commissions</unit>
+		<unit label="article" identifier="7" level="5">Virginia Commission on Higher Education Board Appointments</unit>
+	</structure>
+	<section_number>2.2-2521</section_number>
+	<catch_line>Powers and duties of the Commission</catch_line>
+	<text>
+		The Commission shall have the following powers and duties:
+		<section prefix="1">Develop and implement a process for evaluating potential appointees to higher education governing boards, based on substantive qualifications, including merit and experience.
+		</section>
+		<section prefix="2">Make recommendations to the Governor at least 30 days prior to the expiration of terms for which recommendations have been requested to fill vacancies on higher education governing boards.
+		</section>
+	</text>
+	<history>2005, cc. 933, 945.</history>
+</law>

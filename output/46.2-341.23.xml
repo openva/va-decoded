@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="6.1" level="4">Commercial Driver's Licenses</unit>
+	</structure>
+	<section_number>46.2-341.23</section_number>
+	<catch_line>Offenses under substantially similar laws</catch_line>
+	<text>
+		Except as otherwise provided, whenever in this Act reference is made to an offense which is a violation of a provision of this Code, such reference shall be deemed to include offenses under any local ordinance, any federal law, any law of another state or any local ordinance of another state, substantially similar to such provision of this Code.
+	</text>
+	<history>1989, c. 705, § 46.1-372.22.</history>
+</law>

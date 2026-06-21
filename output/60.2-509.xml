@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Taxation</unit>
+		<unit label="article" identifier="1" level="3">Employer Taxation</unit>
+	</structure>
+	<section_number>60.2-509</section_number>
+	<catch_line>Termination of coverage</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in this section and § 60.2-510, an employing unit shall cease to be an employer subject to this title as of January 1 of any year subsequent to December 31, 1972, only if:
+			<section prefix="1">The employer files with the Commission a written application for termination of coverage;
+			</section>
+			<section prefix="2">The Commission finds that (i) there were no twenty different days, each day being in a different week within the preceding calendar year, or (ii) there were no twenty different days, each day being in a different week within the current calendar year, within which such employing unit employed one or more individuals in employment subject to this title; and
+			</section>
+			<section prefix="3">The Commission finds that such employing unit did not pay in any calendar quarter in the preceding or current calendar year for service in employment wages of $1,500 or more.
+			</section>
+		</section>
+		<section prefix="B">Except as otherwise provided in this section and § 60.2-510, an employing unit as defined in subdivisions 1 through 4 of subsection A of § 60.2-213 or § 60.2-214 or § 60.2-215, shall cease to be an employer subject to this title as of January 1 of any year, only if it files with the Commission a written application for termination of coverage and the Commission finds that no services performed for such employing unit constitute employment as defined in subdivisions 1 through 4 of subsection A of § 60.2-213 or § 60.2-214 or § 60.2-215.
+		</section>
+		<section prefix="C">Any employing unit which is an employer at the end of any calendar year solely by acquisition during such year as provided in subdivision 1 of subsection B of § 60.2-210, shall cease to be an employer subject to this title as of January 1 of the succeeding calendar year without the filing of the written application required of all other employers, if the Commission finds that there were no twenty different days, each day being in a different week within the preceding or current calendar year that such employing unit and its predecessors in title, treated as a single employing unit:
+			<section prefix="1">Employed one or more individuals subject to this title; and
+			</section>
+			<section prefix="2">Did not pay in any calendar quarter in the preceding or current calendar year for service in employment wages of $1,500 or more.
+			</section>
+		</section>
+		<section prefix="D">Whenever any employer, during any completed calendar year, fails to be subject to the payment of taxes solely because no individual has earned wages from such employer during such calendar year, the Commission may, after not less than thirty days' notice in writing mailed to such employer at his last known address, cause such employer to cease to be an employer subject to this title as of January 1 of the calendar year in which such notice is given.
+		</section>
+	</text>
+	<history>Code 1950, § 60-83; 1956, c. 440; 1968, c. 738, § 60.1-99; 1971, Ex. Sess., c. 235; 1972, c. 764; 1979, c. 636; 1986, c. 480.</history>
+</law>

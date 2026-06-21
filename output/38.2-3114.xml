@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3114</section_number>
+	<catch_line>Statements required in variable life insurance and variable annuity contracts and certificates issued pursuant to group variable life insurance and group variable annuity contracts</catch_line>
+	<text>
+		Any variable life insurance or variable annuity contract delivered or issued for delivery in this Commonwealth, and any certificate evidencing variable benefits issued pursuant to any life insurance or annuity contract issued on a group basis shall:
+		<section prefix="1">State the essential features of the procedure to be followed by the insurer in determining the value of benefits or other contractual payments under the contract;
+		</section>
+		<section prefix="2">State clearly that the benefits may decrease or increase according to the procedure; and
+		</section>
+		<section prefix="3">State clearly on its first page that the benefits or other contractual payments are on a variable basis.
+		</section>
+	</text>
+	<history>1966, c. 289, § 38.1-408; 1976, c. 562; 1986, c. 562.</history>
+</law>

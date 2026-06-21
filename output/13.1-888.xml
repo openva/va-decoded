@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="10" level="3">Amendment of Articles of Incorporation and Bylaws</unit>
+	</structure>
+	<section_number>13.1-888</section_number>
+	<catch_line>Articles of amendment</catch_line>
+	<text>
+		<section prefix="A">A corporation amending its articles of incorporation shall file with the Commission articles of amendment setting forth:
+			<section prefix="1">The name of the corporation;
+			</section>
+			<section prefix="2">The text of each amendment adopted or the information required by subdivision L 5 of § 13.1-804;
+			</section>
+			<section prefix="3">The date of each amendment's adoption;
+			</section>
+			<section prefix="4">If an amendment was adopted by the incorporators or the board of directors without member approval, a statement that the amendment was duly approved by the vote of at least two-thirds of the directors in office or by a majority of the incorporators, as the case may be, including the reason member and, if applicable, director approval was not required;
+			</section>
+			<section prefix="5">If an amendment was approved by the members, either:
+				a. A statement that the amendment was adopted by unanimous consent of the members; or
+				b. A statement that the amendment was proposed by the board of directors and submitted to the members in accordance with this Act and a statement of:
+				<section prefix="1">The existence of a quorum of each voting group entitled to vote separately on the amendment; and
+				</section>
+				<section prefix="2">Either the total number of votes cast for and against the amendment by each voting group entitled to vote separately on the amendment or the total number of undisputed votes cast for the amendment by each voting group and a statement that the number cast for the amendment by each voting group was sufficient for approval by that voting group.
+				</section>
+			</section>
+		</section>
+		<section prefix="B">If the Commission finds that the articles of amendment comply with the requirements of law and that all required fees have been paid, it shall issue a certificate of amendment.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-226, 13-227, 13.1-237, 13.1-238; 1956, c. 428; 1966, c. 218; 1975, c. 500; 1985, c. 522; 2002, c. 607; 2007, c. 925; 2012, c. 130.</history>
+</law>

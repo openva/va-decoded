@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="10" level="3">Standard Valuation</unit>
+	</structure>
+	<section_number>38.2-1365</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article, unless the context requires a different meaning:
+		"Accident and health insurance" means contracts that incorporate morbidity risk and provide protection against economic loss resulting from accident, sickness, or medical conditions and as may be specified in the valuation manual.
+		"Appointed actuary" means a qualified actuary who is appointed in accordance with the valuation manual to prepare the actuarial opinion required in subsection B of § 38.2-1367.
+		"Deposit-type contract" means contracts that do not incorporate mortality or morbidity risks and as may be specified in the valuation manual.
+		"Insurance company" or "insurer" means an entity that (i) has written, issued, or reinsured life insurance contracts, accident and health insurance contracts, or deposit-type contracts in the Commonwealth and has at least one such policy in force or on claim or (ii) has written, issued, or reinsured life insurance contracts, accident and health insurance contracts, or deposit-type contracts in any state and is required to hold a certificate of authority to write life insurance, accident and health insurance, or deposit-type contracts in the Commonwealth.
+		"Life insurance" means contracts that incorporate mortality risk, including annuity and pure endowment contracts, and as may be specified in the valuation manual.
+		"NAIC" means the National Association of Insurance Commissioners.
+		"Policyholder behavior" means any action a policyholder, contract holder or any other person with the right to elect options, such as a certificate holder, may take under a policy or contract subject to this article, including, but not limited to, lapse, withdrawal, transfer, deposit, premium payment, loan, annuitization, or benefit elections prescribed by the policy or contract but excluding events of mortality or morbidity that result in benefits prescribed in their essential aspects by the terms of the policy or contract.
+		"Principle-based valuation" means a reserve valuation that uses one or more methods or one or more assumptions determined by the insurer and is required to comply with § 38.2-1380 as specified in the valuation manual.
+		"Qualified actuary" means an individual who is qualified to sign the applicable statement of actuarial opinion in accordance with the American Academy of Actuaries qualification standards for actuaries signing such statements and who meets the requirements specified in the valuation manual.
+		"Tail risk" means a risk that occurs either where the frequency of low probability events is higher than expected under a normal probability distribution or where there are observed events of very significant size or magnitude.
+		"Valuation manual" means the manual of valuation instructions adopted by the NAIC as specified in this article or as subsequently amended.
+	</text>
+	<history>2014, c. 571.</history>
+</law>

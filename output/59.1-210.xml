@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="18" level="2">Regulation of Invention Development Services</unit>
+	</structure>
+	<section_number>59.1-210</section_number>
+	<catch_line>Standard provisions for cover notice</catch_line>
+	<text>
+		Every contract for invention development services shall have a conspicuous and legible cover sheet attached with the following notice imprinted thereon in boldface type of not less than 10-point size:
+		<section prefix="1">"This contract between you and an invention developer is regulated by Chapter 18 (§ 59.1-208 et seq.) of Title 59.1. You are not permitted or required to make any payments under this contract until four working days after you sign this contract and receive a completed copy of it."
+		</section>
+		<section prefix="2">A statement that the contract is a fee-for-service contract and that the invention developer makes no guarantees as to the success of the invention.
+		</section>
+		<section prefix="3">Information as to how a customer who feels that his rights have been violated pursuant to this chapter may lodge a complaint with the Consumer Protection Division at the Office of the Attorney General, including the Division's telephone number and directions as to how to file an online consumer complaint.
+			Such cover sheet shall contain only the notice required by this section.
+		</section>
+	</text>
+	<history>1977, c. 649; 2014, c. 759.</history>
+</law>

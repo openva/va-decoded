@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="D" level="3">Guardianship of Incapacitated Persons</unit>
+		<unit label="chapter" identifier="21" level="4">Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act</unit>
+		<unit label="article" identifier="2" level="5">Jurisdiction</unit>
+	</structure>
+	<section_number>64.2-2107</section_number>
+	<catch_line>Jurisdiction</catch_line>
+	<text>
+		A court of the Commonwealth has jurisdiction to appoint a guardian or issue a conservatorship order for a respondent if:
+		<section prefix="1">The Commonwealth is the respondent's home state;
+		</section>
+		<section prefix="2">On the date the petition is filed, the Commonwealth is a significant-connection state and:
+			a. The respondent does not have a home state or a court of the respondent's home state has declined to exercise jurisdiction because the Commonwealth is a more appropriate forum; or
+			b. The respondent has a home state, a petition for an appointment or order is not pending in a court of that state or another significant-connection state, and, before the court makes the appointment or issues the order:
+			<section prefix="1">A petition for an appointment or order is not filed in the respondent's home state;
+			</section>
+			<section prefix="2">An objection to the court's jurisdiction is not filed by a person required to be notified of the proceeding; and
+			</section>
+			<section prefix="3">The court in the Commonwealth concludes that it is an appropriate forum under the factors set forth in § 64.2-2110;
+			</section>
+		</section>
+		<section prefix="3">The Commonwealth does not have jurisdiction under either subdivision 1 or 2, the respondent's home state and all significant-connection states have declined to exercise jurisdiction because the Commonwealth is the more appropriate forum, and jurisdiction in the Commonwealth is consistent with the Constitutions of Virginia and the United States; or
+		</section>
+		<section prefix="4">The requirements for special jurisdiction under § 64.2-2108 are met.
+		</section>
+	</text>
+	<history>2011, c. 518, § 37.2-1039; 2012, c. 614.</history>
+</law>

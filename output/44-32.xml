@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="3" level="3">National Guard in General</unit>
+	</structure>
+	<section_number>44-32</section_number>
+	<catch_line>Oath of National Guard officers</catch_line>
+	<text>
+		Commissioned officers of the National Guard shall take and subscribe to the following oath of office:
+		"I............................… do solemnly swear that I will support and
+		defend the Constitution of the United States and the Constitution of the Commonwealth of Virginia, against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I will obey the orders of the President of the United States and of the Governor of the Commonwealth of Virginia; that I make this obligation freely, without mental reservation or purpose of evasion, and that I will well and faithfully discharge the duties of the office of..............................… in the National Guard of the
+		United States and of the Commonwealth of Virginia, upon which I am about to
+		enter; so help me God."
+	</text>
+	<history>1930, p. 954; Michie Code 1942, § 2673(22); 1958, c. 393.</history>
+</law>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="2" level="3">Formation and Terms</unit>
+	</structure>
+	<section_number>59.1-502.16</section_number>
+	<catch_line>Idea or information submission</catch_line>
+	<text>
+		<section prefix="a">The following rules apply to a submission of an idea or information for the creation, development, or enhancement of computer information which is not made pursuant to an existing agreement requiring the submission:
+			<section prefix="1">A contract is not formed and is not implied from the mere receipt of an unsolicited submission.
+			</section>
+			<section prefix="2">Engaging in a business, trade, or industry that by custom or practice regularly acquires ideas is not in itself an express or implied solicitation of the information.
+			</section>
+			<section prefix="3">If the recipient seasonably notifies the person making the submission that the recipient maintains a procedure to receive and review submissions, a contract is formed only if:
+			</section>
+		</section>
+		<section prefix="A">the submission is made and accepted pursuant to that procedure; or
+		</section>
+		<section prefix="B">the recipient expressly agrees to terms concerning the submission.
+		</section>
+		<section prefix="b">An agreement to disclose an idea creates a contract enforceable against the receiving party only if the idea as disclosed is confidential, concrete, and novel to the business, trade, or industry or the party receiving the disclosure otherwise expressly agreed.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

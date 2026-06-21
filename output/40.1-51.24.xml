@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3.3" level="2">Virginia Asbestos Neshap Act</unit>
+	</structure>
+	<section_number>40.1-51.24</section_number>
+	<catch_line>Department authorized to enter certain agreements</catch_line>
+	<text>
+		The Department is hereby authorized to:
+		<section prefix="1">Make and enter into all contracts and agreements necessary or incidental to the performance of the Department's duties and the execution of its powers under this chapter including, but not limited to, contracts with the United States, other states, agencies, and governmental subdivisions of the Commonwealth.
+		</section>
+		<section prefix="2">Accept grants from the United States government, its agencies and instrumentalities, and any other source. To these ends, the Department shall have the power to comply with such conditions and execute such agreements as may be necessary and desirable.
+		</section>
+	</text>
+	<history>1992, c. 541.</history>
+</law>

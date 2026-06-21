@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="55" level="2">Risk-Based Capital Act</unit>
+	</structure>
+	<section_number>38.2-5503</section_number>
+	<catch_line>Company Action Level Event</catch_line>
+	<text>
+		<section prefix="A">"Company Action Level Event" means any of the following events:
+			<section prefix="1">The filing of an RBC Report by a licensee which indicates that:
+				a. The licensee's Total Adjusted Capital is greater than or equal to its Regulatory Action Level RBC but less than its Company Action Level RBC;
+				b. If a life and health insurer, the insurer has Total Adjusted Capital which is greater than or equal to its Company Action Level RBC but less than the product of its Authorized Control Level RBC and 3.0 and has a negative trend;
+				c. If a property and casualty insurer, the insurer has Total Adjusted Capital that is greater than or equal to its Company Action Level RBC but less than the product of its Authorized Control Level RBC and 3.0 and triggers the trend test determined in accordance with the Trend Test Calculation included in the Property and Casualty RBC instructions; or
+				d. If a health organization, the health organization has Total Adjusted Capital that is greater than or equal to its Company Action Level RBC but less than the product of its Authorized Control Level RBC and 3.0 and triggers the trend test determined in accordance with the Trend Test Calculation included in the Health RBC instructions;
+			</section>
+			<section prefix="2">The notification by the Commission to the licensee of an Adjusted RBC Report that indicates the event in subdivision A 1 a, provided the licensee does not challenge the Adjusted RBC Report under § 38.2-5507; or
+			</section>
+			<section prefix="3">If, pursuant to § 38.2-5507, the licensee challenges an Adjusted RBC Report that indicates the event in subdivision A 1 a, the notification by the Commission to the licensee that the Commission has, after a hearing, rejected the licensee's challenge.
+			</section>
+		</section>
+		<section prefix="B">In the event of a Company Action Level Event, the licensee shall prepare and submit to the Commission an RBC Plan which shall:
+			<section prefix="1">Identify the conditions in the licensee which contribute to the Company Action Level Event;
+			</section>
+			<section prefix="2">Contain proposals of corrective actions which the licensee intends to take and would be expected to result in the elimination of the Company Action Level Event;
+			</section>
+			<section prefix="3">Provide projections of the licensee's financial results in the current year and for at least the four succeeding years if the licensee is a life and health insurer or a property and casualty insurer, or at least two succeeding years if the licensee is a health organization, both in the absence of proposed corrective actions and giving effect to the proposed corrective actions, including projections of statutory balance sheets, operating income, net income, capital and surplus, and RBC levels. If appropriate, the projections for both new and renewal business shall include separate projections for each major line of business and separately identify each significant income, expense and benefit component;
+			</section>
+			<section prefix="4">Identify the key assumptions impacting the licensee's projections and the sensitivity of the projections to the assumptions; and
+			</section>
+			<section prefix="5">Identify the quality of, and problems associated with, the licensee's business, including but not limited to its assets, anticipated business growth and associated surplus strain, extraordinary exposure to risk, mix of business and use of reinsurance, if any, in each case.
+			</section>
+		</section>
+		<section prefix="C">The RBC Plan shall be submitted:
+			<section prefix="1">Within forty-five days of the Company Action Level Event; or
+			</section>
+			<section prefix="2">If the licensee challenges an Adjusted RBC Report pursuant to § 38.2-5507, within forty-five days after notification to the licensee that the Commission has, after a hearing, rejected the licensee's challenge.
+			</section>
+		</section>
+		<section prefix="D">Within sixty days after the submission by a licensee of an RBC Plan to the Commission, the Commission shall notify the licensee whether the RBC Plan shall be implemented or is, in the judgment of the Commission, unsatisfactory. If the Commission determines the RBC Plan is unsatisfactory, the notification to the licensee shall set forth the reasons for the determination, and may set forth proposed revisions which will render the RBC Plan satisfactory, in the judgment of the Commission. Upon notification from the Commission, the licensee shall prepare a Revised RBC Plan, which may incorporate by reference any revisions proposed by the Commission, and shall submit the Revised RBC Plan to the Commission:
+			<section prefix="1">Within forty-five days after the notification from the Commission; or
+			</section>
+			<section prefix="2">If the licensee challenges the notification from the Commission under § 38.2-5507, within forty-five days after a notification to the licensee that the Commission has, after a hearing, rejected the licensee's challenge.
+			</section>
+		</section>
+		<section prefix="E">In the event of a notification by the Commission to a licensee that the licensee's RBC Plan or Revised RBC Plan is unsatisfactory, the Commission may at the Commission's discretion, subject to the licensee's right to a hearing under § 38.2-5507, specify in the notification that the notification constitutes a Regulatory Action Level Event.
+		</section>
+		<section prefix="F">Every domestic licensee that files an RBC Plan or Revised RBC Plan with the Commission shall file a copy of the RBC Plan or Revised RBC Plan with the insurance commissioner in any state in which the licensee is authorized to do business if:
+			<section prefix="1">Such state has an RBC provision substantially similar to subsection A of § 38.2-5508; and
+			</section>
+			<section prefix="2">The insurance commissioner of that state has notified the licensee of its request for the filing in writing, in which case the licensee shall file a copy of the RBC Plan or Revised RBC Plan in that state no later than the later of:
+				a. Fifteen days after the receipt of notice to file a copy of its RBC Plan or Revised RBC Plan with the state; or
+				b. The date on which the RBC Plan or Revised RBC Plan is filed under subsection C of § 38.2-5504.
+			</section>
+		</section>
+	</text>
+	<history>1995, c. 789; 2000, c. 47; 2007, c. 360; 2012, c. 156.</history>
+</law>

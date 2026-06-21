@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="5" level="3">Trustees</unit>
+	</structure>
+	<section_number>13.1-1229</section_number>
+	<catch_line>Trustee standards of conduct; trustee liability; restrictions on liability limitations in governing instrument</catch_line>
+	<text>
+		<section prefix="A">A trustee shall discharge his duties as a trustee in accordance with the standards of conduct provided for directors of a Virginia corporation pursuant to §§ 13.1-690 and 13.1-691.
+		</section>
+		<section prefix="B">Subject to the provisions of subsection C, and except to the extent otherwise provided in the articles of trust or in the governing instrument of a business trust, a trustee, when acting in such capacity, is not personally liable to any person other than the business trust or a beneficial owner for any act, omission, or obligation of the business trust or any trustee.
+		</section>
+		<section prefix="C">A trustee or officer of a business trust shall have no liability to the business trust or a beneficial owner for any act or omission greater than that of directors or officers of a Virginia corporation to the corporation as provided in Chapter 9 (§ 13.1-601 et seq.) of this title, including any elimination of liability provided for in the articles of trust or governing instrument.
+		</section>
+	</text>
+	<history>2002, c. 621.</history>
+</law>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Shares and Distributions</unit>
+	</structure>
+	<section_number>13.1-638</section_number>
+	<catch_line>Authorized shares</catch_line>
+	<text>
+		<section prefix="A">The articles of incorporation shall set forth any classes of shares and series of shares within a class, and the number of shares of each class and series, that the corporation is authorized to issue. If more than one class or series of shares is authorized, the articles of incorporation shall prescribe a distinguishing designation for each class or series and, before the issuance of shares of a class or series, describe the terms, including the preferences, rights and limitations of that class or series. Except to the extent varied as permitted by this section or by subsection B of § 13.1-646, all shares of a class or series shall have terms, including preferences, rights, and limitations, that are identical with those of other shares of the same class or series.
+		</section>
+		<section prefix="B">The articles of incorporation shall authorize:
+			<section prefix="1">One or more classes or series of shares that together have full voting rights; and
+			</section>
+			<section prefix="2">One or more classes or series of shares, which may be the same class or classes or series as those with voting rights, that together are entitled to receive the net assets of the corporation upon dissolution.
+			</section>
+		</section>
+		<section prefix="C">The articles of incorporation may authorize one or more classes or series of shares that:
+			<section prefix="1">Have special, conditional, or limited voting rights, or no right to vote, except to the extent otherwise provided by this chapter;
+			</section>
+			<section prefix="2">Are redeemable or convertible as specified in the articles of incorporation:
+				a. At the option of the corporation, the shareholder, or another person or upon the occurrence of a specified event;
+				b. For cash, indebtedness, securities, or other property; and
+				c. At prices and in amounts specified or determined in accordance with a formula;
+			</section>
+			<section prefix="3">Entitle the holders to distributions, calculated in any manner, including distributions that may be cumulative, noncumulative or partially cumulative;
+			</section>
+			<section prefix="4">Have preference over any other class or series of shares with respect to distributions, including distributions upon the dissolution of the corporation; or
+			</section>
+			<section prefix="5">Entitle the holders to other specified rights, including a right that no transaction of a specified nature shall be consummated while any such shares remain outstanding except upon the assent of the holders of all or a specified portion of such shares.
+			</section>
+		</section>
+		<section prefix="D">Any of the terms of shares may be made dependent upon facts objectively ascertainable outside the articles of incorporation in accordance with subsection L of § 13.1-604.
+		</section>
+		<section prefix="E">Any of the terms of shares may vary among holders of the same class or series so long as such variations are expressly set forth in the articles of incorporation.
+		</section>
+		<section prefix="F">The description of the preferences, rights, and limitations of classes or series of shares in subsection C is not exhaustive.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13.1-12, 13.1-13; 1956, c. 428; 1958, c. 564; 1985, c. 522; 1990, c. 423; 2005, c. 765; 2019, c. 734.</history>
+</law>

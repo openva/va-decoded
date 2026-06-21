@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="1.2" level="2">Physical Evidence Recovery Kits</unit>
+	</structure>
+	<section_number>19.2-11.10</section_number>
+	<catch_line>Expungement of DNA profile</catch_line>
+	<text>
+		If the Department receives written confirmation from a law-enforcement agency or attorney for the Commonwealth that a DNA profile that has been uploaded pursuant to this chapter into any local, state, or national DNA data bank was determined not to be connected to a criminal offense or that the DNA profile is of an individual who is not the putative perpetrator, the Department shall expunge the DNA profile from the DNA data bank.
+		The detention, arrest, or conviction of a person based upon a data bank match or data bank information is not invalidated if it is determined that the sample was obtained, placed, or retained in the data bank in good faith pursuant to this chapter, and evidence based upon or derived from the DNA record shall not be excluded by a court.
+	</text>
+	<history>2016, cc. 332, 698.</history>
+</law>

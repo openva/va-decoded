@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="5" level="3">Equal Credit Opportunities</unit>
+	</structure>
+	<section_number>6.2-501</section_number>
+	<catch_line>Prohibited discrimination</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "age" means being an individual who is at least 18 years of age.
+		</section>
+		<section prefix="B">It shall be unlawful for any creditor to discriminate against any applicant, with respect to any aspect of a credit transaction:
+			<section prefix="1">On the basis of race, color, religion, national origin, sex, marital status, sexual orientation, gender identity, pregnancy, childbirth or related medical conditions, age, disability, or status as a veteran provided that the applicant has the capacity to contract; or
+			</section>
+			<section prefix="2">Because all or part of the applicant's income derives from any public assistance or social services program.
+			</section>
+		</section>
+		<section prefix="C">It shall not constitute discrimination for purposes of this chapter for a creditor:
+			<section prefix="1">To make an inquiry of marital status if such inquiry is for the purpose of ascertaining the creditor's rights and remedies applicable to the particular extension of credit and not to discriminate in a determination of creditworthiness;
+			</section>
+			<section prefix="2">To make an inquiry of the applicant's age or of whether the applicant's income derives from any public assistance or social services program if such inquiry is for the purpose of determining the amount and probable continuance of income levels, credit history, or other pertinent element of creditworthiness as provided in regulations of the Commission;
+			</section>
+			<section prefix="3">To use any empirically derived credit system which considers age if such system is demonstrably and statistically sound in accordance with regulations of the Commission, except that in the operation of such system the age of an elderly applicant may not be assigned a negative factor or value; or
+			</section>
+			<section prefix="4">To make an inquiry or to consider the age of an elderly applicant when the age of such applicant is to be used by the creditor in the extension of credit in favor of such applicant.
+			</section>
+		</section>
+		<section prefix="D">It is not a violation of this section for a creditor to refuse to extend credit offered pursuant to:
+			<section prefix="1">Any credit assistance program expressly authorized by law for an economically disadvantaged class of persons;
+			</section>
+			<section prefix="2">Any credit assistance program administered by a nonprofit organization for its members or an economically disadvantaged class of persons; or
+			</section>
+			<section prefix="3">Any special purpose credit program offered by a profit-making organization to meet special social needs which meets standards prescribed in regulations by the Commission, if such refusal is required by or made pursuant to such program.
+			</section>
+		</section>
+	</text>
+	<history>1977, c. 589, § 59.1-21.21:1; 2002, c. 747; 2010, c. 794; 2020, cc. 1137, 1140.</history>
+</law>

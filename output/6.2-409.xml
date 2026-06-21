@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="4" level="3">Certain Lending Practices</unit>
+		<unit label="article" identifier="2" level="4">Loans Secured by Lien on Real Estate</unit>
+	</structure>
+	<section_number>6.2-409</section_number>
+	<catch_line>Addition of unpaid interest to principal balance</catch_line>
+	<text>
+		<section prefix="A">For the purpose of this section:
+			"First deed of trust" or "first mortgage" includes all deeds of trust and mortgages, and amendments thereto, that are made by the same grantor or mortgagor, secure notes held by the same holder, convey substantially the same real estate, and are superior to all other deeds of trust or mortgages on the real estate.
+			"Grantor" or "mortgagor" includes an owner of real estate, and spouse, who has assumed responsibility for the obligation secured by such deed of trust or mortgage encumbering the real estate.
+			"Real estate" includes a leasehold estate of not less than 25 years.
+		</section>
+		<section prefix="B">Notwithstanding any other statutory or case law relating to compounding of interest, if regularly scheduled periodic payments on an obligation secured by a first mortgage or first deed of trust on real estate are insufficient to pay currently accruing interest on the then principal balance, an agreement in the contract of indebtedness, or other agreement signed by the borrower, providing for the addition of such unpaid interest to the principal balance and the future accrual of interest on such balances, shall be enforceable as written.
+		</section>
+		<section prefix="C">Disclosure of charges in a disclosure given to the borrower pursuant to federal disclosure laws or regulations and acceptance of the loan proceeds by the borrower shall be deemed an agreement signed by the borrower within the meaning of this section.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.69; 2010, c. 794.</history>
+</law>

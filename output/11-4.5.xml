@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="11" level="1">Contracts</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions</unit>
+	</structure>
+	<section_number>11-4.5</section_number>
+	<catch_line>Certain indemnification provisions in motor carrier transportation contracts declared void</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Motor carrier transportation contract" means a contract, agreement, or understanding covering:
+			<section prefix="1">The transportation of property for compensation or hire by the motor carrier;
+			</section>
+			<section prefix="2">The entrance on property by the motor carrier for the purpose of loading, unloading, or transporting property for compensation or for hire; or
+			</section>
+			<section prefix="3">A service incidental to activity described in subdivision 1 or 2 including, but not limited to, storage of property.
+				For the purposes of this section, the term "motor carrier transportation contract" shall not include the Uniform Intermodal Interchange and Facilities Access Agreement administered by the Intermodal Association of North America, as that agreement may be amended by the Intermodal Interchange Executive Committee, or other agreements providing for the interchange, use, or possession of intermodal chassis, containers, or other intermodal equipment.
+			</section>
+		</section>
+		<section prefix="B">A provision, clause, covenant, or agreement contained in, collateral to, or affecting a motor carrier transportation contract that purports to indemnify, or hold harmless, or has the effect of indemnifying, or holding harmless, either party from or against any liability for loss or damage resulting from the negligence or intentional acts or omissions of other party, or any agents, employees, servants, or independent contractors who are directly responsible to the other party, is against the public policy and is void and unenforceable.
+		</section>
+		<section prefix="C">Nothing contained in this section affects a provision, clause, covenant, or agreement where the motor carrier indemnifies or holds harmless the other party against liability for damages to the extent that the damages were caused by and resulting from the negligence of the motor carrier, its agents, employees, servants, or independent contractors who, in whole or in part are directly responsible to the motor carrier.
+		</section>
+	</text>
+	<history>2006, cc. 237, 423.</history>
+</law>

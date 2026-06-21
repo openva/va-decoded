@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="IV" level="2">Common Interest Communities</unit>
+		<unit label="chapter" identifier="21" level="3">Virginia Real Estate Cooperative Act</unit>
+		<unit label="article" identifier="4" level="4">Protection of Cooperative Purchasers</unit>
+	</structure>
+	<section_number>55.1-2153</section_number>
+	<catch_line>Applicability; waiver</catch_line>
+	<text>
+		<section prefix="A">This article applies to all cooperative interests subject to this chapter, except as provided in subsection B or as modified or waived by agreement of purchasers of cooperative interests in a cooperative in which all units are restricted to nonresidential use.
+		</section>
+		<section prefix="B">Neither a public offering statement nor a resale certificate need be prepared or delivered in the case of:
+			<section prefix="1">A gratuitous disposition of a cooperative interest;
+			</section>
+			<section prefix="2">A disposition pursuant to court order;
+			</section>
+			<section prefix="3">A disposition by a government or governmental agency;
+			</section>
+			<section prefix="4">A disposition by foreclosure or transfer in lieu of foreclosure;
+			</section>
+			<section prefix="5">A disposition to a person in the business of selling cooperative interests who intends to offer those cooperative interests to purchasers; or
+			</section>
+			<section prefix="6">A disposition that may be canceled at any time and for any reason by the purchaser without penalty.
+			</section>
+		</section>
+	</text>
+	<history>1982, c. 277, § 55-476; 2019, c. 712.</history>
+</law>

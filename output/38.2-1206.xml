@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="12" level="2">Reciprocal Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-1206</section_number>
+	<catch_line>License required of reciprocals; surplus</catch_line>
+	<text>
+		<section prefix="A">No reciprocal shall engage in any insurance transaction in this Commonwealth until it has obtained a license to do so in accordance with the applicable provisions of Articles 5 (§ 38.2-1024 et seq.) and 7 (§ 38.2-1045 et seq.) of Chapter 10 of this title.
+		</section>
+		<section prefix="B">No domestic or foreign reciprocal shall be licensed to transact the business of insurance in this Commonwealth unless it has a surplus to policyholders of at least $1,600,000, and no alien reciprocal shall be so licensed unless it has a trusteed surplus, as defined in § 38.2-1031, of at least $1,600,000.
+		</section>
+	</text>
+	<history>Code 1950, § 38-549; 1952, c. 317, § 38.1-695; 1977, c. 322; 1986, c. 562; 1991, c. 261.</history>
+</law>

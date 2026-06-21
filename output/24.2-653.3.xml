@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="6" level="2">The Election</unit>
+		<unit label="article" identifier="4" level="3">Conduct of Election; Election Results</unit>
+	</structure>
+	<section_number>24.2-653.3</section_number>
+	<catch_line>Voters assigned to split precinct; provisional ballots</catch_line>
+	<text>
+		<section prefix="A">Any voter who is assigned to a precinct that is split between two or more election districts and believes he was given a ballot for the district of which he is not a qualified voter may request, prior to casting the ballot, and shall be permitted to cast a provisional ballot for the district of which he believes he is a qualified voter and for the district in which the pollbook indicates he is registered. The provisional ballots shall be cast in accordance with the provisions of § 24.2-653, except that the voter shall be given a printed ballot for the district of which he believes he is a qualified voter and for the district in which the pollbook indicates he is registered, and an envelope for each ballot, which shall be labeled with the corresponding district number. After marking each printed ballot, the voter shall seal each ballot in its corresponding envelope, and the ballot envelopes shall then be sealed in the green envelope provided for in § 24.2-653.
+		</section>
+		<section prefix="B">At the meeting of the electoral board to determine the validity of all provisional ballots offered in the election, the electoral board shall verify in which district a voter who voted provisionally pursuant to this section is a qualified voter, and the provisional ballot cast by the voter for that district shall be counted. The electoral board shall process the ballot in accordance with the provisions of § 24.2-653.01 and the instructions of the State Board.
+		</section>
+	</text>
+	<history>2020, c. 920, § 24.2-653.2.</history>
+</law>

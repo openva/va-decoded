@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="9" level="2">School Property</unit>
+		<unit label="article" identifier="2" level="3">School Buildings</unit>
+	</structure>
+	<section_number>22.1-138.3</section_number>
+	<catch_line>Department; school division maintenance reserve tool</catch_line>
+	<text>
+		<section prefix="A">The Department, in consultation with the Department of General Services, shall develop or adopt and maintain a data collection tool to assist each school board to determine the relative age of each public school building in the local school division and the amount of maintenance reserve funds that are necessary to restore each such building.
+		</section>
+		<section prefix="B">Each school board shall provide to the Department in a timely fashion the local data that is necessary to ensure that the tool maintained pursuant to subsection A remains relevant and useful for the determination of maintenance reserve needs.
+		</section>
+	</text>
+	<history>2022, c. 650; 2022, Sp. Sess. I, cc. 8, 9.</history>
+</law>

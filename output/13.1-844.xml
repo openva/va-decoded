@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Members and Meetings</unit>
+	</structure>
+	<section_number>13.1-844</section_number>
+	<catch_line>Record date</catch_line>
+	<text>
+		<section prefix="A">The bylaws may fix or provide the manner of fixing in advance the record date for one or more voting groups in order to make a determination of members for any purpose. If the bylaws do not fix or provide for fixing a record date, the board of directors of the corporation may fix as the record date the date on which it takes such action or a future date.
+		</section>
+		<section prefix="B">A record date fixed under this section may not be more than 70 days before the meeting or action requiring a determination of members.
+		</section>
+		<section prefix="C">A determination of members entitled to notice of or to vote at a members' meeting is effective for any adjournment of the meeting unless the board of directors fixes a new record date, which it shall do if the meeting is adjourned to a date more than 120 days after the date fixed for the original meeting.
+		</section>
+		<section prefix="D">If a court orders a meeting adjourned to a date more than 120 days after the date fixed for the original meeting, it may provide that the original record date continues in effect or it may fix a new record date.
+		</section>
+	</text>
+	<history>1985, c. 522; 2007, c. 925.</history>
+</law>

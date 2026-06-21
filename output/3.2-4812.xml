@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="48" level="3">Commercial Feed</unit>
+	</structure>
+	<section_number>3.2-4812</section_number>
+	<catch_line>Prohibited acts</catch_line>
+	<text>
+		<section prefix="A">It is unlawful for a manufacturer or guarantor of commercial feed to:
+			<section prefix="1">Manufacture or distribute any commercial feed that is adulterated or misbranded;
+			</section>
+			<section prefix="2">Adulterate or misbrand any commercial feed;
+			</section>
+			<section prefix="3">Remove or dispose of a commercial feed in violation of an order issued pursuant to § 3.2-4813;
+			</section>
+			<section prefix="4">Fail to obtain a license in accordance with § 3.2-4803;
+			</section>
+			<section prefix="5">Fail to register medicated feed, small package commercial feed, or specialty pet food in accordance with § 3.2-4804;
+			</section>
+			<section prefix="6">Obstruct or hinder the Commissioner in the performance of his duties under this chapter or otherwise attempt to prevent the Commissioner from performing these duties; or
+			</section>
+			<section prefix="7">Use metal of any kind, including any hook, snap, staple, or other fastener or device, to secure a package or attach any card, label, or ticket to a package containing feed.
+			</section>
+		</section>
+		<section prefix="B">It shall be unlawful for any person to distribute agricultural commodities within the Commonwealth including whole seeds, hay, straw, stover, silage, cobs, husks, and hulls that, if such commodities were commercial feed, are adulterated within the meaning of § 3.2-4808.
+		</section>
+	</text>
+	<history>1994, c. 743, § 3.1-828.12; 2008, c. 860.</history>
+</law>

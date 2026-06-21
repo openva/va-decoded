@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="IV" level="2">Common Interest Communities</unit>
+		<unit label="chapter" identifier="21" level="3">Virginia Real Estate Cooperative Act</unit>
+		<unit label="article" identifier="2" level="4">Creation, Alteration, and Termination of Cooperatives</unit>
+	</structure>
+	<section_number>55.1-2130</section_number>
+	<catch_line>Master associations</catch_line>
+	<text>
+		<section prefix="A">If the declaration provides that any of the powers described in § 55.1-2134 are to be exercised by or may be delegated to a for-profit or nonprofit corporation or unincorporated association that exercises those or other powers on behalf of one or more cooperatives or for the benefit of the proprietary lessees of one or more cooperatives, all provisions of this chapter applicable to associations apply to any such corporation or unincorporated association, except as modified by this section.
+		</section>
+		<section prefix="B">Unless a master association is acting in the capacity of an association described in § 55.1-2132, it may exercise the powers set forth in subdivision A 2 of § 55.1-2133 only to the extent expressly permitted in the declarations of the cooperatives that are part of the master association or expressly described in the delegations of power from those cooperatives to the master association.
+		</section>
+		<section prefix="C">If the declaration of any cooperative provides that the executive board may delegate certain powers to a master association, the members of the executive board have no liability for the acts or omissions of the master association with respect to the delegated powers.
+		</section>
+		<section prefix="D">The rights and responsibilities of proprietary lessees with respect to the association set forth in §§ 55.1-2134, 55.1-2140, 55.1-2141, 55.1-2142, and 55.1-2144 apply in the conduct of the affairs of a master association only to those persons who elect the board of a master association, whether or not those persons are otherwise proprietary lessees within the meaning of this chapter.
+		</section>
+		<section prefix="E">Notwithstanding the provisions of subsection F of § 55.1-2134, with respect to the election of the executive board of an association by all proprietary lessees after the period of declarant control ends, and even if a master association is also an association as described in § 55.1-2132, the certificate of incorporation or other instrument creating the master association and the declaration of each cooperative, the powers of which are assigned by the declaration or delegated to the master association, may provide that the executive board of the master association must be elected after the period of declarant control in any of the following ways:
+			<section prefix="1">All proprietary lessees of all cooperatives subject to the master association may elect all members of that executive board.
+			</section>
+			<section prefix="2">All members of the executive boards of all cooperatives subject to the master association may elect all members of that executive board.
+			</section>
+			<section prefix="3">All proprietary lessees of each cooperative subject to the master association may elect specified members of that executive board.
+			</section>
+			<section prefix="4">All proprietary lessees of the executive board of each cooperative subject to the master association may elect specified members of that executive board.
+			</section>
+		</section>
+	</text>
+	<history>1982, c. 277, § 55-456; 2019, c. 712.</history>
+</law>

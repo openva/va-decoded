@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="26" level="3">Uniform Disclaimer of Property Interests Act</unit>
+	</structure>
+	<section_number>64.2-2604</section_number>
+	<catch_line>Disclaimer of interest in property</catch_line>
+	<text>
+		<section prefix="A">In this section:
+			"Future interest" means an interest that takes effect in possession or enjoyment, if at all, later than the time of its creation.
+			"Time of distribution" means the time when a disclaimed interest would have taken effect in possession or enjoyment.
+		</section>
+		<section prefix="B">Except for a disclaimer governed by § 64.2-2605 or 64.2-2606, the following rules apply to a disclaimer of an interest in property:
+			<section prefix="1">The disclaimer takes effect as of the time the instrument creating the interest becomes irrevocable or, if the interest arose under the law of intestate succession, as of the time of the intestate's death.
+			</section>
+			<section prefix="2">The disclaimed interest passes according to any provision in the instrument creating the interest providing for the disposition of the interest, should it be disclaimed, or of disclaimed interests in general.
+			</section>
+			<section prefix="3">If the instrument does not contain a provision described in subdivision 2, the following rules apply:
+				a. If the disclaimant is an individual, the disclaimed interest passes as if the disclaimant had died immediately before the time of distribution. However, if by law or under the instrument, the descendants of the disclaimant would share in the disclaimed interest by any method of representation had the disclaimant died before the time of distribution, the disclaimed interest passes only to the descendants of the disclaimant who survive at the time of distribution.
+				b. If the disclaimant is not an individual, the disclaimed interest passes as if the disclaimant did not exist.
+			</section>
+			<section prefix="4">Upon the disclaimer of a preceding interest, a future interest held by a person other than the disclaimant takes effect as if the disclaimant had died or ceased to exist immediately before the time of distribution, but a future interest held by the disclaimant is not accelerated in possession or enjoyment.
+			</section>
+		</section>
+	</text>
+	<history>2003, c. 253, § 64.1-196.5; 2012, c. 614.</history>
+</law>

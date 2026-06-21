@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="12.2" level="3">Conversion</unit>
+	</structure>
+	<section_number>13.1-722.10</section_number>
+	<catch_line>Plan of conversion</catch_line>
+	<text>
+		<section prefix="A">A domestic corporation may convert to a domestic or foreign eligible entity, or a domestic eligible entity may convert to a domestic corporation, under this article by approving a plan of conversion. The plan of conversion shall include:
+			<section prefix="1">The name of the converting corporation;
+			</section>
+			<section prefix="2">The name, jurisdiction of formation, and type of entity of the converted entity;
+			</section>
+			<section prefix="3">The manner and basis of converting the shares and any rights to acquire shares of the domestic corporation into eligible interests or other securities, obligations, rights to acquire eligible interests or other securities, cash, other property, or any combination of the foregoing;
+			</section>
+			<section prefix="4">If the converted entity will be a domestic corporation, (i) the proposed articles of incorporation of the converted entity that satisfy the requirements of § 13.1-619 and (ii) the proposed bylaws of the converted entity, which shall not be included with the articles of conversion delivered to the Commission for filing;
+			</section>
+			<section prefix="5">If the converted entity will be a domestic eligible entity and a filing entity, the full text, as it will be in effect immediately after the conversion becomes effective, of the organic rules of the converted entity, including the public organic record that satisfies the requirements of § 13.1-819, 13.1-1101, 13.1-1212, or 50-73.111, as the case may be, provided that the private organic rules shall not be included with the articles of conversion delivered to the Commission for filing;
+			</section>
+			<section prefix="6">If the converted entity will be a foreign corporation or eligible entity, the plan of conversion may include the organic rules of the converted entity, provided that the organic rules shall not be included with the articles of conversion delivered to the Commission for filing; and
+			</section>
+			<section prefix="7">The other terms and conditions of the conversion.
+			</section>
+		</section>
+		<section prefix="B">In addition to the requirements of subsection A, a plan of conversion may contain any other provision not prohibited by law.
+		</section>
+		<section prefix="C">The terms of a plan of conversion may be made dependent upon facts objectively ascertainable outside the plan in accordance with subsection L of § 13.1-604.
+		</section>
+	</text>
+	<history>2001, c. 545; 2002, c. 1; 2003, c. 598; 2016, c. 288; 2019, c. 734; 2020, c. 1226.</history>
+</law>

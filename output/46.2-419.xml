@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="13" level="4">Suspension of Licenses for Unsatisfied Judgments and After Certain Accidents</unit>
+	</structure>
+	<section_number>46.2-419</section_number>
+	<catch_line>When judgment satisfied</catch_line>
+	<text>
+		<section prefix="A">For all policies effective on or after January 1, 2022, but prior to January 1, 2025, every judgment for damages in any motor vehicle accident referred to in this chapter shall, for the purpose of this chapter, be satisfied:
+			<section prefix="1">When paid in full or when $30,000 has been credited upon any judgment or judgments rendered in excess of that amount because of bodily injury to or death of one person as the result of any one accident;
+			</section>
+			<section prefix="2">When, subject to the limit of $30,000 because of bodily injury to or death of one person, the judgment has been paid in full or when the sum of $60,000 has been credited upon any judgment or judgments rendered in excess of that amount because of bodily injury to or death of two or more persons as the result of any one accident;
+			</section>
+			<section prefix="3">When the judgment has been paid in full or when $20,000 has been credited upon any judgment or judgments rendered in excess of that amount because of injury to or destruction of property of others as a result of any one accident; or
+			</section>
+			<section prefix="4">When the judgment has been discharged in bankruptcy.
+			</section>
+		</section>
+		<section prefix="B">For all policies effective on or after January 1, 2025, every judgment for damages in any motor vehicle accident referred to in this chapter shall, for the purposes of this chapter, be satisfied:
+			<section prefix="1">When paid in full or when $50,000 has been credited upon any judgment or judgments rendered in excess of that amount because of bodily injury to or death of one person as the result of any one accident;
+			</section>
+			<section prefix="2">When, subject to the limit of $50,000 because of bodily injury to or death of one person, the judgment has been paid in full or when the sum of $100,000 has been credited upon any judgment or judgments rendered in excess of that amount because of bodily injury to or death of two or more persons as the result of any one accident;
+			</section>
+			<section prefix="3">When the judgment has been paid in full or when $25,000 has been credited upon any judgment or judgments rendered in excess of that amount because of injury to or destruction of property of others as a result of any one accident; or
+			</section>
+			<section prefix="4">When the judgment has been discharged in bankruptcy.
+			</section>
+		</section>
+		<section prefix="C">Payments made in settlement of any claims because of bodily injury, death or property damage arising from a motor vehicle accident shall be credited in reduction of the amount provided in this section.
+		</section>
+	</text>
+	<history>Code 1950, § 46-431; 1954, c. 378; 1958, cc. 501, 541, § 46.1-444; 1968, c. 685; 1970, c. 272; 1972, cc. 47, 433; 1975, c. 382; 1978, c. 550; 1989, cc. 621, 727; 2021, Sp. Sess. I, c. 273.</history>
+</law>

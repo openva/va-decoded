@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="38" level="4">Government Data Collection and Dissemination Practices Act</unit>
+	</structure>
+	<section_number>2.2-3806</section_number>
+	<catch_line>Rights of data subjects</catch_line>
+	<text>
+		<section prefix="A">Any agency maintaining personal information shall:
+			<section prefix="1">Inform an individual who is asked to supply personal information about himself whether he is legally required, or may refuse, to supply the information requested, and also of any specific consequences that are known to the agency of providing or not providing the information.
+			</section>
+			<section prefix="2">Give notice to a data subject of the possible dissemination of part or all of this information to another agency, nongovernmental organization or system not having regular access authority, and indicate the use for which it is intended, and the specific consequences for the individual, which are known to the agency, of providing or not providing the information. However documented permission for dissemination in the hands of the other agency or organization shall satisfy the requirement of this subdivision. The notice may be given on applications or other data collection forms prepared by data subjects.
+			</section>
+			<section prefix="3">Upon request and proper identification of any data subject, or of his authorized agent, grant the data subject or agent the right to inspect, in a form comprehensible to him:
+				a. All personal information about that data subject except as provided in subdivision 1 of § 2.2-3705.1, subdivision A 1 of § 2.2-3705.4, and subdivision 1 of § 2.2-3705.5.
+				b. The nature of the sources of the information.
+				c. The names of recipients, other than those with regular access authority, of personal information about the data subject including the identity of all persons and organizations involved and their relationship to the system when not having regular access authority, except that if the recipient has obtained the information as part of an ongoing criminal investigation such that disclosure of the investigation would jeopardize law-enforcement action, then no disclosure of such access shall be made to the data subject.
+			</section>
+			<section prefix="4">Comply with the following minimum conditions of disclosure to data subjects:
+				a. An agency shall make disclosures to data subjects required under this chapter, during normal business hours, in accordance with the procedures set forth in subsections B and C of § 2.2-3704 for responding to requests under the Virginia Freedom of Information Act (§ 2.2-3700 et seq.) or within a time period as may be mutually agreed upon by the agency and the data subject.
+				b. The disclosures to data subjects required under this chapter shall be made (i) in person, if he appears in person and furnishes proper identification, or (ii) by mail, if he has made a written request, with proper identification. Copies of the documents containing the personal information sought by a data subject shall be furnished to him or his representative at reasonable charges for document search and duplication in accordance with subsection F of § 2.2-3704.
+				c. The data subject shall be permitted to be accompanied by a person of his choosing, who shall furnish reasonable identification. An agency may require the data subject to furnish a written statement granting the agency permission to discuss the individual's file in such person's presence.
+			</section>
+			<section prefix="5">If the data subject gives notice that he wishes to challenge, correct, or explain information about him in the information system, the following minimum procedures shall be followed:
+				a. The agency maintaining the information system shall investigate, and record the current status of that personal information.
+				b. If, after such investigation, the information is found to be incomplete, inaccurate, not pertinent, not timely, or not necessary to be retained, it shall be promptly corrected or purged.
+				c. If the investigation does not resolve the dispute, the data subject may file a statement of not more than 200 words setting forth his position.
+				d. Whenever a statement of dispute is filed, the agency maintaining the information system shall supply any previous recipient with a copy of the statement and, in any subsequent dissemination or use of the information in question, clearly note that it is disputed and supply the statement of the data subject along with the information.
+				e. The agency maintaining the information system shall clearly and conspicuously disclose to the data subject his rights to make such a request.
+				f. Following any correction or purging of personal information the agency shall furnish to past recipients notification that the item has been purged or corrected whose receipt shall be acknowledged.
+			</section>
+		</section>
+		<section prefix="B">Nothing in this chapter shall be construed to require an agency to disseminate any recommendation or letter of reference from or to a third party that is a part of the personnel file of any data subject nor to disseminate any test or examination used, administered or prepared by any public body for purposes of evaluation of (i) any student or any student's performance, (ii) any seeker's qualifications or aptitude for employment, retention, or promotion, or (iii) qualifications for any license or certificate issued by any public body.
+			As used in this subsection, "test or examination" includes (i) any scoring key for any such test or examination and (ii) any other document that would jeopardize the security of the test or examination. Nothing contained in this subsection shall prohibit the release of test scores or results as provided by law, or to limit access to individual records as provided by law; however, the subject of the employment tests shall be entitled to review and inspect all documents relative to his performance on those employment tests.
+			When, in the reasonable opinion of the public body, any such test or examination no longer has any potential for future use, and the security of future tests or examinations will not be jeopardized, the test or examination shall be made available to the public. Minimum competency tests administered to public school children shall be made available to the public contemporaneously with statewide release of the scores of those taking such tests, but in no event shall such tests be made available to the public later than six months after the administration of such tests.
+		</section>
+		<section prefix="C">Neither any provision of this chapter nor any provision of the Freedom of Information Act (§ 2.2-3700 et seq.) shall be construed to deny public access to records of the position, job classification, official salary or rate of pay of, and to records of the allowances or reimbursements for expenses paid to any public officer, official or employee at any level of state, local or regional government in the Commonwealth. The provisions of this subsection shall not apply to records of the official salaries or rates of pay of public employees whose annual rate of pay is $10,000 or less.
+		</section>
+		<section prefix="D">Nothing in this section or in this chapter shall be construed to require an agency to disseminate information derived from tax returns prohibited from release pursuant to § 58.1-3.
+		</section>
+	</text>
+	<history>1976, c. 597, § 2.1-382; 1978, c. 810; 1979, cc. 683, 688, 689; 1983, c. 372; 1995, c. 400; 2001, c. 844; 2004, c. 690; 2007, c. 232; 2017, c. 778.</history>
+</law>

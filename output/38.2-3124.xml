@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="2" level="3">Proceeds of Certain Policies</unit>
+	</structure>
+	<section_number>38.2-3124</section_number>
+	<catch_line>Protection of insurers from creditor's claims</catch_line>
+	<text>
+		Notwithstanding § 38.2-3122, any insurer issuing any insurance policy shall be discharged of all liability on that policy by payment of its proceeds in accordance with its terms, unless before payment the insurer receives written notice by or on behalf of a creditor of a claim, stating the amount claimed and the nature of the claim.
+	</text>
+	<history>Code 1950, § 38-121; 1952, c. 317, § 38.1-450; 1986, c. 562; 2018, c. 304.</history>
+</law>

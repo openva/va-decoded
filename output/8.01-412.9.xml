@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="14" level="2">Evidence</unit>
+		<unit label="article" identifier="6.2" level="3">Uniform Interstate Depositions and Discovery Act</unit>
+	</structure>
+	<section_number>8.01-412.9</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		For purposes of this article, unless the context requires otherwise:
+		"Foreign jurisdiction" means a state other than the Commonwealth.
+		"Foreign subpoena" means a subpoena issued under authority of a court of record of a foreign jurisdiction.
+		"Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government, or governmental subdivision, agency or instrumentality, or any other legal or commercial entity.
+		"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.
+		"Subpoena" means a document, however denominated, issued under the authority of a court of record requiring a person to:
+		<section prefix="1">Attend and give testimony at a deposition;
+		</section>
+		<section prefix="2">Produce and permit inspection and copying of designated books, documents, records, electronically stored information, or tangible things in the possession, custody, or control of the person; or
+		</section>
+		<section prefix="3">Permit inspection of premises under the control of the person.
+		</section>
+	</text>
+	<history>2009, c. 701.</history>
+</law>

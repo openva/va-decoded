@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="6" level="3">Federal Market Reforms</unit>
+	</structure>
+	<section_number>38.2-3445.03</section_number>
+	<catch_line>Data sets for determining commercially reasonable payments</catch_line>
+	<text>
+		<section prefix="A">The Commission shall contract with the nonprofit data services organization to establish a data set and business process to provide health carriers, health care providers, and arbitrators with data to assist in determining commercially reasonable payments and resolving payment disputes for out-of-network medical services rendered by health care providers.
+		</section>
+		<section prefix="B">Such data set and business protocols shall be (i) developed in collaboration with health carriers and health care providers and (ii) reviewed by the advisory committee established pursuant to § 32.1-276.7:1.
+		</section>
+		<section prefix="C">The data set shall provide the amounts for the services described in subsection A of § 38.2-3445.01. The data used to calculate the median in-network and out-of-network allowed amounts and the median billed charge amounts by geographic area, for the same or similar services, shall be drawn from commercial health plan claims and shall not include claims paid under Medicare or Medicaid or other claims paid on other than a fee-for-service basis. The 2020 data set shall be based upon the most recently available full calendar year of claims data. The data set for each subsequent year shall be adjusted by applying the Consumer Price Index-Medical Component as published by the Bureau of Labor Statistics of the U.S. Department of Labor to the previous year's data set.
+		</section>
+	</text>
+	<history>2020, cc. 1080, 1081.</history>
+</law>

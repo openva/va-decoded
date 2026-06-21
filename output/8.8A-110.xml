@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="1" level="2">Short Title and General Matters</unit>
+	</structure>
+	<section_number>8.8A-110</section_number>
+	<catch_line>Applicability; choice of law</catch_line>
+	<text>
+		<section prefix="a">The local law of the issuer's jurisdiction, as specified in subsection (d), governs:
+			<section prefix="1">the validity of a security;
+			</section>
+			<section prefix="2">the rights and duties of the issuer with respect to registration of transfer;
+			</section>
+			<section prefix="3">the effectiveness of registration of transfer by the issuer;
+			</section>
+			<section prefix="4">whether the issuer owes any duties to an adverse claimant to a security; and
+			</section>
+			<section prefix="5">whether an adverse claim can be asserted against a person to whom transfer of a certificated or uncertificated security is registered or a person who obtains control of an uncertificated security.
+			</section>
+		</section>
+		<section prefix="b">The local law of the securities intermediary's jurisdiction, as specified in subsection (e), governs:
+			<section prefix="1">acquisition of a security entitlement from the securities intermediary;
+			</section>
+			<section prefix="2">the rights and duties of the securities intermediary and entitlement holder arising out of a security entitlement;
+			</section>
+			<section prefix="3">whether the securities intermediary owes any duties to an adverse claimant to a security entitlement; and
+			</section>
+			<section prefix="4">whether an adverse claim can be asserted against a person who acquires a security entitlement from the securities intermediary or a person who purchases a security entitlement or interest therein from an entitlement holder.
+			</section>
+		</section>
+		<section prefix="c">The local law of the jurisdiction in which a security certificate is located at the time of delivery governs whether an adverse claim can be asserted against a person to whom the security certificate is delivered.
+		</section>
+		<section prefix="d">"Issuer's jurisdiction" means the jurisdiction under which the issuer of the security is organized or, if permitted by the law of that jurisdiction, the law of another jurisdiction specified by the issuer. An issuer organized under the law of this state may specify the law of another jurisdiction as the law governing the matters specified in subsection (a) (2) through (5).
+		</section>
+		<section prefix="e">The following rules determine a "securities intermediary's jurisdiction" for purposes of this section:
+			<section prefix="1">If an agreement between the securities intermediary and its entitlement holder governing the securities account expressly provides that a particular jurisdiction is the securities intermediary's jurisdiction for purposes of this part, this title or the Uniform Commercial Code, that jurisdiction is the securities intermediary's jurisdiction.
+			</section>
+			<section prefix="2">If paragraph (1) does not apply and an agreement between the securities intermediary and its entitlement holder governing the securities account expressly provides that the agreement is governed by the law of a particular jurisdiction, that jurisdiction is the securities intermediary's jurisdiction.
+			</section>
+			<section prefix="3">If neither paragraph (1) nor paragraph (2) applies and an agreement between the securities intermediary and its entitlement holder governing the securities account expressly provides that the securities account is maintained at an office in a particular jurisdiction, that jurisdiction is the securities intermediary's jurisdiction.
+			</section>
+			<section prefix="4">If none of the preceding paragraphs applies, the securities intermediary's jurisdiction is the jurisdiction in which the office identified in an account statement as the office serving the entitlement holder's account is located.
+			</section>
+			<section prefix="5">If none of the preceding paragraphs applies the securities intermediary's jurisdiction is the jurisdiction in which the chief executive office of the securities intermediary is located.
+			</section>
+		</section>
+		<section prefix="f">A securities intermediary's jurisdiction is not determined by the physical location of certificates representing financial assets, or by the jurisdiction in which is organized the issuer of the financial asset with respect to which an entitlement holder has a security entitlement, or by the location of facilities for data processing or other record keeping concerning the account.
+		</section>
+		<section prefix="g">The local law of the issuer's jurisdiction or the securities intermediary's jurisdiction governs a matter or transaction specified in subsection (a) or (b) even if the matter or transaction does not bear any relation to the jurisdiction.
+		</section>
+	</text>
+	<history>1996, c. 216; 2000, c. 1007; 2024, c. 652.</history>
+</law>

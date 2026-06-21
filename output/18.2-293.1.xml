@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="7" level="2">Crimes Involving Health and Safety</unit>
+		<unit label="article" identifier="5" level="3">Uniform Machine Gun Act</unit>
+	</structure>
+	<section_number>18.2-293.1</section_number>
+	<catch_line>What article does not prohibit</catch_line>
+	<text>
+		Nothing contained in this article shall prohibit or interfere with:
+		<section prefix="1">The possession of a machine gun for scientific purposes, or the possession of a machine gun not usable as a weapon and possessed as a curiosity, ornament, or keepsake; and
+		</section>
+		<section prefix="2">The possession of a machine gun for a purpose manifestly not aggressive or offensive.
+			Provided, however, that possession of such machine guns shall be subject to the provisions of § 18.2-295.
+		</section>
+	</text>
+	<history>Code 1950, § 18.1-263; 1960, c. 358; 1975, cc. 14, 15.</history>
+</law>

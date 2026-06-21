@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="A" level="3">Coal Mines Generally</unit>
+		<unit label="chapter" identifier="5" level="4">Coal Mine Safety Act</unit>
+		<unit label="article" identifier="10" level="5">Miner Training</unit>
+	</structure>
+	<section_number>45.2-579</section_number>
+	<catch_line> First aid training of coal miners</catch_line>
+	<text>
+		<section prefix="A">The Chief shall establish specifications for first aid and refresher training programs for miners at coal mines. Such specifications shall be no less than, but may exceed, the minimum requirements of the training programs that underground and surface coal mine operators are required to provide to their employees pursuant to the federal mine safety law. The Chief may utilize the Department's educational and training facilities in the conduct of such training programs and may require the cooperation of operators in making such programs available to their employees.
+		</section>
+		<section prefix="B">Each operator of a coal mine, upon request, shall make available to every miner employed in such mine the course of first aid training, including refresher training, as is required pursuant to subsection A.
+		</section>
+	</text>
+	<history>1977, c. 679, § 45.1-101.2; 1978, c. 94; 1984, c. 590; 1994, c. 28, § 45.1-161.101; 2021, Sp. Sess. I, c. 387.</history>
+</law>

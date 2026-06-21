@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="10" level="4">Liability of Trustees and Rights of Persons Dealing With Trustee</unit>
+	</structure>
+	<section_number>64.2-801</section_number>
+	<catch_line>Limitation on personal liability of trustee</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in the contract, a trustee is not personally liable on a contract properly entered into in the trustee's fiduciary capacity in the course of administering the trust if the trustee in the contract disclosed the fiduciary capacity.
+		</section>
+		<section prefix="B">A trustee is personally liable for torts committed in the course of administering a trust, or for obligations arising from ownership or control of trust property, including liability for violation of environmental law, only if the trustee is personally at fault.
+		</section>
+		<section prefix="C">A claim based on a contract entered into by a trustee in the trustee's fiduciary capacity, on an obligation arising from ownership or control of trust property, or on a tort committed in the course of administering a trust, may be asserted in a judicial proceeding against the trustee in the trustee's fiduciary capacity, whether or not the trustee is personally liable for the claim.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-550.10; 2012, c. 614.</history>
+</law>

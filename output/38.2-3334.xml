@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="2" level="3">Group Life Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3334</section_number>
+	<catch_line>Death after termination of group insurance and before issuance of individual policy</catch_line>
+	<text>
+		Each group life insurance policy shall contain a provision that if a person insured under the group policy dies during the period within which he is entitled to have an individual policy issued to him in accordance with § 38.2-3332 or § 38.2-3333 and before the individual policy has become effective, the amount of life insurance that he would have been entitled to have issued to him under an individual policy shall be payable as a claim under the group policy, whether or not application for the individual policy or the payment of the first premium was made.
+	</text>
+	<history>1960, c. 273, § 38.1-428.3; 1986, c. 562.</history>
+</law>

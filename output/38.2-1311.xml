@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="3" level="3">Reserves</unit>
+	</structure>
+	<section_number>38.2-1311</section_number>
+	<catch_line>Valuation reserves</catch_line>
+	<text>
+		<section prefix="A">Every insurer licensed to transact the kinds of insurance specified in §§ 38.2-102, 38.2-106 and 38.2-109 and subject to the applicable provisions of this title, shall maintain:
+			<section prefix="1">Reserves on all of its life insurance policies or certificates and annuity contracts in force, computed according to the applicable tables of mortality and interest rates prescribed in this title;
+			</section>
+			<section prefix="2">Reserves for both reported and unreported (i) disability benefits, including reserves for disabled lives, and (ii) accidental death benefits; and
+			</section>
+			<section prefix="3">Any additional reserves prescribed by the Commission as necessary on account of the insurer's policies, certificates and contracts.
+			</section>
+		</section>
+		<section prefix="B">For all accident and sickness insurance policies the insurer shall maintain an active life reserve that shall (i) place a reasonable value on its liabilities under the policies, (ii) be not less than the reserve according to appropriate standards set forth in any regulations issued by the Commission and, (iii) be not less in the aggregate than the pro rata gross unearned premiums for those policies.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-170; 1962, c. 562; 1986, c. 562.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="10" level="3">Entities Conducting Trust Business</unit>
+		<unit label="article" identifier="1" level="4">Trust Powers and Trust Business</unit>
+	</structure>
+	<section_number>6.2-1010</section_number>
+	<catch_line>Holding stock or other securities as fiduciary</catch_line>
+	<text>
+		<section prefix="A">A trust institution holding stock or other securities as fiduciary may hold it in the name of a nominee without mention of the trust in the stock certificate or stock registry book or other book in which such securities are registered. A fiduciary registering stock or other securities in the name of a nominee as herein permitted, shall (i) clearly show upon its trust records the ownership of the stock or other securities by the fiduciary and the facts regarding its holding and (ii) provide that the nominee shall not have possession of the stock certificate or other securities nor access thereto except under the immediate supervision of the fiduciary. The fiduciary shall be personally liable for any loss to the trust resulting from any act of such nominee in connection with stock or other securities so held. Any individual serving as cofiduciary with a trust institution may consent to the trust institution holding such stock or other securities in the name of a nominee as herein provided; however, in such case the trust institution shall forthwith upon demand of the individual cofiduciary cause the stock or other securities to be transferred into the name of the fiduciaries in their fiduciary capacity.
+		</section>
+		<section prefix="B">Notwithstanding the provision relating to possession of the nominee, the trust institution may permit such certificates or other securities to remain in the possession of the nominee or a clearing corporation as defined in § 8.8A-102, within or without the Commonwealth, if the trust institution obtains adequate protection, through insurance or otherwise, against loss of such certificates or securities due to lack of possession by the fiduciary or possession thereof by the nominee or a clearing corporation.
+		</section>
+		<section prefix="C">The Commissioner or other appropriate regulatory official may review in advance and approve the protection through insurance or otherwise against loss due to lack of possession of these certificates or securities by the fiduciary.
+		</section>
+	</text>
+	<history>Code 1950, § 6-103.1; 1958, c. 283; 1966, c. 584, § 6.1-31; 1972, c. 739; 1974, c. 665; 1978, c. 14; 2010, c. 794.</history>
+</law>

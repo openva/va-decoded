@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="27" level="3">Uniform Powers of Appointment Act</unit>
+		<unit label="article" identifier="3" level="4">Exercise of Power of Appointment</unit>
+	</structure>
+	<section_number>64.2-2717</section_number>
+	<catch_line>Permissible appointment</catch_line>
+	<text>
+		<section prefix="A">A powerholder of a general power of appointment that permits appointment to the powerholder or the powerholder's estate may make any appointment, including an appointment in trust or creating a new power of appointment, that the powerholder could make in disposing of the powerholder's own property.
+		</section>
+		<section prefix="B">A powerholder of a general power of appointment that permits appointment only to the creditors of the powerholder or of the powerholder's estate may appoint only to those creditors.
+		</section>
+		<section prefix="C">Unless the terms of the instrument creating a power of appointment manifest a contrary intent, the powerholder of a nongeneral power may:
+			<section prefix="1">Make an appointment in any form, including an appointment in trust, in favor of a permissible appointee;
+			</section>
+			<section prefix="2">Create a general power or a nongeneral power in a permissible appointee; or
+			</section>
+			<section prefix="3">Create a nongeneral power in an impermissible appointee to appoint to one or more of the permissible appointees of the original nongeneral power.
+			</section>
+		</section>
+	</text>
+	<history>2016, c. 266.</history>
+</law>

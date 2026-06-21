@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="25" level="3">License Tax on Certain Insurance Companies</unit>
+		<unit label="article" identifier="2" level="4">Estimated Tax</unit>
+	</structure>
+	<section_number>58.1-2521</section_number>
+	<catch_line>Time for filing declarations of estimated tax</catch_line>
+	<text>
+		<section prefix="A">The declaration of estimated tax shall be filed as follows:
+			If the requirements of subsection A of § 58.1-2520 are first met:
+			<section prefix="1">Before April 1 of the taxable year, the declaration shall be filed on or before April 15 of the taxable year.
+			</section>
+			<section prefix="2">After March 31 but before June 1 of the taxable year, the declaration shall be filed on or before June 15 of the taxable year.
+			</section>
+			<section prefix="3">After May 31, but before September 1 of the taxable year, the declaration shall be filed on or before September 15 of the taxable year.
+			</section>
+			<section prefix="4">After August 31, but before December 1 of the taxable year, the declaration shall be filed on or before December 15 of the taxable year.
+			</section>
+		</section>
+		<section prefix="B">The application of this section to taxable years of less than 12 months shall be in accordance with guidelines prescribed by the Department.
+		</section>
+	</text>
+	<history>Code 1950, § 58-502.3; 1968, c. 13; 1984, c. 675; 2011, c. 850.</history>
+</law>

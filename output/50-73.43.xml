@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="6" level="3">Distributions and Withdrawal</unit>
+	</structure>
+	<section_number>50-73.43</section_number>
+	<catch_line>Liability upon return of contribution</catch_line>
+	<text>
+		<section prefix="A">If a partner has received the return of any part of his contribution without violation of the partnership agreement or this chapter, he is liable to the limited partnership for a period of one year thereafter for the amount of the returned contribution, but only to the extent necessary to discharge the limited partnership's liabilities to creditors who extended credit to the limited partnership during the period the contribution was held by the partnership.
+		</section>
+		<section prefix="B">If a partner has received the return of any part of his contribution in violation of the partnership agreement or this chapter, he is liable to the limited partnership for a period of six years thereafter for the amount of the contribution wrongfully returned.
+		</section>
+		<section prefix="C">A partner receives a return of his contribution to the extent that a distribution to him reduces his share of the fair value of the net assets of the limited partnership below the value, as set forth in the partnership records to be kept pursuant to § 50-73.8, of his contribution which has not been distributed to him.
+		</section>
+	</text>
+	<history>1985, c. 607; 1987, c. 702.</history>
+</law>

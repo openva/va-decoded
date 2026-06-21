@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="6" level="3">Transfers Without Qualification</unit>
+		<unit label="article" identifier="3" level="4">Uniform Transfers on Death (Tod) Security Registration Act</unit>
+	</structure>
+	<section_number>64.2-617</section_number>
+	<catch_line>Protection of registering entity</catch_line>
+	<text>
+		<section prefix="A">A registering entity is not required to offer or to accept a request for security registration in beneficiary form. If a registration in beneficiary form is offered by a registering entity, the owner requesting registration in beneficiary form assents to the protection given to the registering entity by this article.
+		</section>
+		<section prefix="B">By accepting a request for registration of a security in beneficiary form, the registering entity agrees that the registration will be implemented on death of the deceased owner as provided in this article.
+		</section>
+		<section prefix="C">A registering entity is discharged from all claims to a security by the estate, creditors, heirs, or devisees of a deceased owner if it registers a transfer of the security in accordance with § 64.2-616 and does so in good faith reliance (i) on the registration, (ii) on this article, and (iii) on information provided to it by affidavit of the personal representative of the deceased owner, or by the surviving beneficiary or by the surviving beneficiary's representative, or on other information available to the registering entity. The protections of this article do not extend to a reregistration or payment made after a registering entity has received written notice from any claimant to any interest in the security objecting to implementation of a registration in beneficiary form. No other notice or other information available to the registering entity affects its right to protection under this article.
+		</section>
+		<section prefix="D">The protection provided by this article to the registering entity of a security does not affect the rights of beneficiaries in disputes between themselves and other claimants to ownership of the security transferred or its value or proceeds.
+		</section>
+	</text>
+	<history>1994, c. 422, § 64.1-206.6; 2012, c. 614.</history>
+</law>

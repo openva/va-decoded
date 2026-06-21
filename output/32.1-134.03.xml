@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="1" level="3">Hospital and Nursing Home Licensure and Inspection</unit>
+	</structure>
+	<section_number>32.1-134.03</section_number>
+	<catch_line>Maternal health; protocols and resources for hospitals and outpatient providers; report</catch_line>
+	<text>
+		<section prefix="A">In order to improve maternal health outcomes and address the most common causes of maternal mortality in the Commonwealth, the Virginia Neonatal Perinatal Collaborative (VNPC) shall:
+			<section prefix="1">Develop training materials and standardized management protocols for inpatient providers regarding the treatment of obstetric emergencies, the recognition of urgent maternal warning signs, and the transfer of pregnant and postpartum patients, based on clinical safety bundles established by the Alliance for Innovation on Maternal Health; and
+			</section>
+			<section prefix="2">Develop training materials and provider-specific checklists for outpatient providers regarding the treatment of obstetric emergencies, the recognition of urgent maternal warning signs, and the transfer of pregnant and postpartum patients, based on clinical safety bundles established by the Alliance for Innovation on Maternal Health.
+			</section>
+		</section>
+		<section prefix="B">When developing such standardized protocols pursuant to subdivision A 1, VNPC shall collaborate with facilities and account for their specific resources, patient populations, and care models.
+		</section>
+		<section prefix="C">All hospitals with an emergency department or labor and delivery, freestanding emergency departments, and birthing centers as defined in § 63.2-1914 shall implement standardized protocols for identifying and responding to obstetric emergencies, including obstetric hemorrhage, preeclampsia, eclampsia, and other life-threatening conditions based on the protocols developed by the VNPC.
+		</section>
+		<section prefix="D">The VNPC shall collect data relating to the implementation of the standardized protocols pursuant to subsection C and maternal health outcomes and submit a report on such data by October 1 of each year to the Secretary of Health and Human Resources and the Chairmen of the Senate Committee on Education and Health, the Senate Committee on Finance and Appropriations, the House Committee on Health and Human Services, and the House Committee on Appropriations.
+		</section>
+	</text>
+	<history>2025, cc. 423, 428.</history>
+</law>

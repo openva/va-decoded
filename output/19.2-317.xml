@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="19" level="2">Exceptions and Writs of Error</unit>
+	</structure>
+	<section_number>19.2-317</section_number>
+	<catch_line>When writ of error lies in criminal case for accused; when for Commonwealth; when for county, city or town</catch_line>
+	<text>
+		<section prefix="A">A writ of error shall lie in a criminal case to the judgment of a circuit court or the judge thereof, from the Court of Appeals as provided in § 17.1-406. It shall lie in any such case for the accused and if the case is for the violation of any law relating to the state revenue, it shall lie also for the Commonwealth.
+		</section>
+		<section prefix="B">A writ of error shall also lie for any county, city or town from the Supreme Court to the judgment of any circuit court declaring an ordinance of such county, city or town to be unconstitutional or otherwise invalid, except when the violation of any such ordinance is made a misdemeanor by state statute.
+		</section>
+		<section prefix="C">A writ of error shall also lie for the Commonwealth from the Supreme Court to a judgment of the Court of Appeals in a criminal case, except where the decision of the Court of Appeals is made final under § 17.1-410 or § 19.2-408.
+		</section>
+	</text>
+	<history>Code 1950, § 19.1-282; 1960, c. 366; 1975, c. 495; 1984, c. 703; 1997, c. 358.</history>
+</law>

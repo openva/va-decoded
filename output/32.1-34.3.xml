@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="1" level="2">Administration Generally</unit>
+		<unit label="article" identifier="5" level="3">Local Health Departments and Directors</unit>
+	</structure>
+	<section_number>32.1-34.3</section_number>
+	<catch_line>Funding local health departments; cooperative local health budget; report</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Cooperative local health budget" means the total amount of state funds, local matching funds, and estimated self-generated local service revenues allocated to support a local department of health.
+			"Estimated self-generated local service revenues" means the amount of funds projected to be received by a local department of health from fees charged to individuals or third-party payment sources for services and permits.
+			"Local matching funds" means the amount of funds that a county or city shall be required to contribute to the cooperative local health budget for the local health department that serves that county or city.
+			"Revenue generation capacity factor" means the result of a formula that (i) determines a county's or city's revenue capacity relative to the state revenue capacity, (ii) determines a county's or city's median household income relative to the statewide median household income, and (iii) adjusts the amount determined in clause (i) by the amount determined in clause (ii).
+		</section>
+		<section prefix="B">Funding for local health departments shall consist of such state funds as may be allocated for the operation of the local health department together with local matching funds and estimated self-generated local service revenues, the total amount of which shall constitute the collective local health budget available to a local department of health.
+		</section>
+		<section prefix="C">The amount of local matching funds a county or city shall be required to contribute to the cooperative local health budget shall be determined by the Department on the basis of the county's or city's revenue generation capacity factor. However, in no case shall the amount of local matching funds required be greater than 45 percent or less than 18 percent of the total amount of the cooperative local health budget for the local health department that serves the county or city, after deducting estimated self-generated local service revenues.
+		</section>
+		<section prefix="D">The Department shall biennially review the local matching fund amount for each county and city in the Commonwealth and determine whether such amount should be revised as a result of changes to the county's or city's revenue generation capacity factor. The Department shall report the results of such review and any recommendations for changes to a county's or city's local matching fund amount to the Governor and the General Assembly.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 203.</history>
+</law>

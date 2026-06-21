@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="2" level="3">Actions on Contracts Generally</unit>
+	</structure>
+	<section_number>8.01-27.1</section_number>
+	<catch_line>Additional recovery in certain civil actions concerning checks or rejected electronic funds transfers</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in Chapter 12 (§ 55.1-1200 et seq.) or Chapter 14 (§ 55.1-1400 et seq.) of Title 55.1, in any civil claim or action made or brought against the drawer of a check, draft or order, payment of which has been refused by the drawee depository because of lack of funds in or credit with such drawee depository, or because such check, draft or order was returned because of a stop-payment order placed in bad faith on the check, draft or order by the drawer, the holder or his agent shall be entitled to claim, in addition to the face amount of the check (i) legal interest from the date of the check, (ii) the protest or bad check return fee, if any, charged to the holder by his bank or other depository, (iii) a processing charge of $50, and (iv) reasonable attorney's fees if awarded by the court.
+		</section>
+		<section prefix="B">Except as otherwise provided in Chapter 12 (§ 55.1-1200 et seq.) or Chapter 14 (§ 55.1-1400 et seq.) of Title 55.1, any holder of a check, draft or order, payment of which has been refused by the drawee for insufficient funds or credit or because of a stop-payment order placed in bad faith, who charges the drawer amounts in excess of those authorized in subsection A on account of payment being so refused shall, upon demand, be liable to the drawer for the lesser of (i) $50 plus the excess of the authorized amount or (ii) twice the amount charged in excess of the authorized amount.
+		</section>
+		<section prefix="C">If an electronic funds transfer has been rejected because of insufficient funds or a stop-payment order has been placed in bad faith by the authorizing party, the authorizing party and the payee shall have the same rights and remedies as if the drawer had issued a bad check under subsection B. For purposes of this subsection, "electronic funds transfer" has the same meaning as provided in 15 U.S.C. § 1693(a).
+		</section>
+	</text>
+	<history>1981, c. 230; 1992, c. 238; 1996, c. 334; 2003, c. 233; 2008, c. 489; 2009, c. 182; 2013, c. 63.</history>
+</law>

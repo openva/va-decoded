@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="11" level="3">Merger</unit>
+	</structure>
+	<section_number>13.1-895</section_number>
+	<catch_line>Action on plan of merger</catch_line>
+	<text>
+		<section prefix="A">In the case of a domestic corporation that is a party to a merger, where the members of any merging corporation have voting rights the plan of merger shall be adopted by the board of directors. Except as provided in subsection F, after adopting a plan of merger, the board of directors shall submit the plan to the members for their approval.
+			The board of directors shall also transmit to the members a recommendation that the members approve the plan, unless the board of directors makes a determination that because of conflicts of interest or other special circumstances it should not make such a recommendation, in which case the board of directors shall transmit to the members the basis for that determination.
+		</section>
+		<section prefix="B">The board of directors may condition its submission of the plan of merger to the members on any basis.
+		</section>
+		<section prefix="C">If the plan of merger is required to be approved by the members, and if the approval is to be given at a meeting, the corporation shall notify each member, whether or not entitled to vote, of the meeting of members at which the plan is to be submitted for approval. The notice shall state that the purpose, or one of the purposes, of the meeting is to consider the plan and contain or be accompanied by a copy or summary of the plan. If the corporation is to be merged into an existing domestic or foreign corporation or eligible entity and its members are to receive membership or other interests in the surviving corporation or eligible entity, the notice shall also include or be accompanied by a copy or summary of the articles of incorporation or organic document of that corporation or eligible entity. If the corporation is to be merged into a domestic or foreign corporation or eligible entity that is to be created pursuant to the merger and its members are to receive membership or other interests in the surviving corporation or eligible entity, the notice shall include or be accompanied by a copy or a summary of the articles of incorporation or organic document of the new domestic or foreign corporation or eligible entity.
+		</section>
+		<section prefix="D">Unless the articles of incorporation or the board of directors acting pursuant to subsection B, requires a greater vote, the plan of merger to be authorized shall be approved by each voting group entitled to vote on the plan by more than two-thirds of all the votes cast by that voting group at a meeting at which a quorum of the voting group exists. The articles of incorporation may provide for a greater or lesser vote than that provided for in this subsection or a vote by separate voting groups so long as the vote provided for is not less than a majority of all the votes cast on the plan by each voting group entitled to vote on the transaction at a meeting at which a quorum of the voting group exists.
+		</section>
+		<section prefix="E">Separate voting by voting groups is required:
+			<section prefix="1">On a plan of merger by each class of members:
+				a. Whose membership interests are to be converted under the plan of merger into membership interests in a different domestic or foreign corporation, or eligible interests or other securities, obligations, rights to acquire membership interests, eligible interests or other securities, cash, other property, or any combination of the foregoing; or
+				b. Who would be entitled to vote as a separate group on a provision in the plan that, if contained in a proposed amendment to the articles of incorporation, would require action by separate voting groups under § 13.1-887.
+			</section>
+			<section prefix="2">On a plan of merger, if the voting group is entitled under the articles of incorporation to vote as a voting group to approve a plan of merger.
+			</section>
+		</section>
+		<section prefix="F">Unless the articles of incorporation otherwise provide, approval by the corporation's members of a plan of merger is not required if:
+			<section prefix="1">The corporation will survive the merger;
+			</section>
+			<section prefix="2">Except for amendments permitted by subsection B of § 13.1-885, its articles of incorporation will not be changed; and
+			</section>
+			<section prefix="3">Each person who is a member of the corporation immediately before the effective time of the merger will retain the same membership interest with identical designation, preferences, limitations, and rights immediately after the effective time of the merger.
+			</section>
+		</section>
+		<section prefix="G">Where any merging corporation has no members, or no members having voting rights, a plan of merger shall be adopted at a meeting of the board of directors of such corporation upon receiving the vote of a majority of the directors in office.
+		</section>
+		<section prefix="H">If as a result of a merger one or more members of a domestic corporation would become subject to owner liability for the debts, obligations, or liabilities of any other person or entity, approval of the plan of merger shall require the execution by each member of a separate written consent to become subject to such owner liability.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-242; 1956, c. 428; 1985, c. 522; 2002, c. 607; 2007, c. 925; 2015, c. 611.</history>
+</law>

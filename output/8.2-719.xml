@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="7" level="2">Remedies</unit>
+	</structure>
+	<section_number>8.2-719</section_number>
+	<catch_line>Contractual modification or limitation of remedy</catch_line>
+	<text>
+		<section prefix="1">Subject to the provisions of subsections (2) and (3) of this section and of the preceding section [§ 8.2-718] on liquidation and limitation of damages,
+			<section prefix="a">the agreement may provide for remedies in addition to or in substitution for those provided in this title and may limit or alter the measure of damages recoverable under this title, as by limiting the buyer's remedies to return of the goods and repayment of the price or to repair and replacement of nonconforming goods or parts; and
+			</section>
+			<section prefix="b">resort to a remedy as provided is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy.
+			</section>
+		</section>
+		<section prefix="2">Where circumstances cause an exclusive or limited remedy to fail of its essential purpose, remedy may be had as provided in this act.
+		</section>
+		<section prefix="3">Consequential damages may be limited or excluded unless the limitation or exclusion is unconscionable. Limitation of consequential damages for injury to the person in the case of consumer goods is prima facie unconscionable but limitation of damages where the loss is commercial is not.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

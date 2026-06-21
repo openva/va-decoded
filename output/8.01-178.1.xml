@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="15.1" level="3">Waste</unit>
+	</structure>
+	<section_number>8.01-178.1</section_number>
+	<catch_line>Waste; who is liable</catch_line>
+	<text>
+		<section prefix="A">Any tenant of land or any person who has aliened land who commits any waste while he is in possession of such land, unless he has special license to do so, shall be liable for damages.
+		</section>
+		<section prefix="B">Any tenant in common, joint tenant, or parcener who commits waste, shall be liable to his cotenants, jointly or severally, for damages.
+		</section>
+		<section prefix="C">Any guardian or conservator who commits waste of the estate of his ward shall be liable to the ward, at the expiration of his guardianship or conservatorship, for damages.
+		</section>
+	</text>
+	<history>Code 1919, §§ 5506 through 5508; Code 1950, §§ 55-211 through 55-213; 1997, c. 801; 2019, c. 712.</history>
+</law>

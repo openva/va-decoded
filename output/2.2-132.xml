@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="1" level="4">Governor</unit>
+		<unit label="article" identifier="2" level="5">Executive Reorganization</unit>
+	</structure>
+	<section_number>2.2-132</section_number>
+	<catch_line>Approval by the General Assembly; effective date; publication</catch_line>
+	<text>
+		<section prefix="A">A reorganization plan transmitted by the Governor to the General Assembly under this chapter shall become effective only if the Senate and the House of Delegates each approve the reorganization plan by a resolution by a majority of the members present and voting in each house. Any portion of the reorganization plan may be deleted by either the Senate or the House of Delegates in the resolution approving the plan. The Governor may withdraw a reorganization plan transmitted to the General Assembly under this chapter at any time before its effective date. A reorganization plan or portions thereof as approved by the Senate and the House of Delegates shall become effective on the first day of the fourth month following the adjournment of the General Assembly at which such plan was approved, unless a different date is specified in the plan.
+		</section>
+		<section prefix="B">A reorganization plan that is adopted pursuant to this section shall be printed in the Acts of Assembly and in the Code of Virginia.
+		</section>
+	</text>
+	<history>1977, c. 505, §§ 2.1-8.6, 2.1-8.7; 2001, c. 844.</history>
+</law>

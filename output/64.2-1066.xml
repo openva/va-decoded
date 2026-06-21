@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="7" level="4">Allocation of Disbursements</unit>
+	</structure>
+	<section_number>64.2-1066</section_number>
+	<catch_line>Transfer from income to principal for depreciation</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "depreciation" means a reduction in value due to wear, tear, decay, corrosion, or gradual obsolescence of a tangible asset having a useful life of more than one year.
+		</section>
+		<section prefix="B">A fiduciary may transfer to principal a reasonable amount of the net cash receipts from a principal asset that is subject to depreciation, but may not transfer any amount for depreciation:
+			<section prefix="1">Of the part of real property used or available for use by a beneficiary as a residence;
+			</section>
+			<section prefix="2">Of tangible personal property held or made available for the personal use or enjoyment of a beneficiary; or
+			</section>
+			<section prefix="3">Under this section, to the extent the fiduciary accounts:
+				a. Under § 64.2-1057 for the asset; or
+				b. Under § 64.2-1050 for the business or other activity in which the asset is used.
+			</section>
+		</section>
+		<section prefix="C">An amount transferred to principal under this section need not be separately held.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

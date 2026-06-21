@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="4" level="3">Certain Lending Practices</unit>
+		<unit label="article" identifier="1" level="4">Late Charges and Rebates of Unearned Interest</unit>
+	</structure>
+	<section_number>6.2-404</section_number>
+	<catch_line>When use of Rule of 78 prohibited or permitted</catch_line>
+	<text>
+		<section prefix="A">The Rule of 78 shall not be used to determine the amount of unearned interest to be rebated if payment of the debt is anticipated on any (i) loan of money made after January 1, 1991, with an initial maturity of more than 61 months; or (ii) sales contract made after January 1, 1991, that necessitates a loan as described in clause (i).
+		</section>
+		<section prefix="B">On any loan of money made with an initial maturity and corresponding amortization period of 61 months or less and that is payable in equal periodic installments, the Rule of 78 may be used to determine the amount of unearned interest to be rebated if payment of the debt is anticipated on the loan or contract.
+		</section>
+	</text>
+	<history>1990, c. 338, § 6.1-330.86:1; 1991, c. 171; 2010, c. 794.</history>
+</law>

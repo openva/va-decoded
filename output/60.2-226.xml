@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="2" level="2">Definitions</unit>
+	</structure>
+	<section_number>60.2-226</section_number>
+	<catch_line>Unemployment</catch_line>
+	<text>
+		<section prefix="A">An individual shall be deemed "unemployed" in any week during which he performs no services and with respect to which no wages are payable to him, or in any week of less than full-time work if the wages payable to him with respect to such week are less than the total of his weekly benefit amount and the income disregard amount specified in § 60.2-603. Wages shall be deemed payable to an individual with respect to any week for which wages are due. An individual's week of unemployment shall be deemed to commence only after his registration at an employment office, except as the Commission may by regulation otherwise prescribe.
+		</section>
+		<section prefix="B">Notwithstanding any other provisions of this title, no individual shall be deemed unemployed with respect to any week he earns less than his weekly benefit amount solely because he did not work on a legal holiday as defined in § 2.2-3300.
+		</section>
+	</text>
+	<history>Code 1950, § 60-20; 1954, c. 203; 1956, c. 440; 1968, c. 738, § 60.1-23; 1980, c. 463; 1986, c. 480; 1992, c. 5; 2025, c. 515.</history>
+</law>

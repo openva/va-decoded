@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="42" level="2">Health Services Plans</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>38.2-4201</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter:
+		"Contract holder" means a person entering into a subscription contract with a nonstock corporation.
+		"Nonstock corporation" means a foreign or domestic nonstock corporation which is subject to regulation and licensing under this chapter and which offers or administers subscription contracts to contract holders as part of a plan.
+		"Health services plan" or "plan" means any arrangement for offering or administering health services or similar or related services by a nonstock corporation licensed under this chapter.
+		"Hospital services plan" means a health services plan for providing hospital and similar or related services.
+		"Medical or surgical services plan" means a health services plan for providing medical or surgical services or both, and similar or related services.
+		"Subscriber" means any person entitled to benefits under the terms and conditions of a subscription contract.
+		"Subscription contract" means a written contract which is issued to a contract holder by a nonstock corporation and which provides health services or benefits for health services on a prepaid basis.
+	</text>
+	<history>1986, c. 562; 1988, c. 185.</history>
+</law>

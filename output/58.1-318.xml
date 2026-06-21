@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>58.1-318</section_number>
+	<catch_line>Investments eligible for tax credits</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section, "funding portal" means a website that (i) allows accredited investors to participate in general solicitation transactions by an issuer that meet the requirements of § 4(a)(6) of the Securities Act of 1933, P.L. 112-106, or (ii) is an online broker or funding portal registered with the federal Securities Exchange Commission pursuant to § 4A(a) of the Securities Act of 1993, P.L. 112-106.
+		</section>
+		<section prefix="B">Any investment made by a taxpayer that is transacted via an online general solicitation, an online broker, or a funding portal shall be eligible for any tax credit authorized pursuant to this chapter, so long as the investment itself meets the criteria set forth in the statute specifically authorizing the credit.
+		</section>
+	</text>
+	<history>2013, c. 289.</history>
+</law>

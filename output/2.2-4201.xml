@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="42" level="4">Fair Employment Contracting Act</unit>
+	</structure>
+	<section_number>2.2-4201</section_number>
+	<catch_line>Required contract provisions</catch_line>
+	<text>
+		All contracting agencies shall include in every government contract of over $10,000 the following provisions:
+		During the performance of this contract, the contractor agrees as follows:
+		<section prefix="1">The contractor will not discriminate against any employee or applicant for employment because of race, religion, color, sex, or national origin, except where religion, sex, or national origin is a bona fide occupational qualification reasonably necessary to the normal operation of the contractor. The contractor agrees to post in conspicuous places, available to employees and applicants for employment, notices setting forth the provisions of this nondiscrimination clause, including the names of all contracting agencies with which the contractor has contracts of over $10,000.
+		</section>
+		<section prefix="2">The contractor will, in all solicitations or advertisements for employees placed by or on behalf of the contractor, state that such contractor is an equal opportunity employer. However, notices, advertisements and solicitations placed in accordance with federal law, rule or regulation shall be deemed sufficient for the purpose of meeting the requirements of this chapter.
+		</section>
+		<section prefix="3">If the contractor employs more than five employees, the contractor shall (i) provide annual training on the contractor's sexual harassment policy to all supervisors and employees providing services in the Commonwealth, except such supervisors or employees that are required to complete sexual harassment training provided by the Department of Human Resource Management, and (ii) post the contractor's sexual harassment policy in (a) a conspicuous public place in each building located in the Commonwealth that the contractor owns or leases for business purposes and (b) the contractor's employee handbook.
+			The contractor shall include the provisions of subdivisions 1, 2, and 3 in every subcontract or purchase order of over $10,000, so that such provisions shall be binding upon each subcontractor or vendor.
+			Nothing contained in this chapter shall be deemed to empower any agency to require any contractor to grant preferential treatment to, or discriminate against, any individual or any group because of race, color, religion, sex, or national origin on account of an imbalance that may exist with respect to the total number or percentage of persons of any race, color, religion, sex, or national origin employed by such contractor in comparison with the total number or percentage of persons of such race, color, religion, sex, or national origin in any community or in the Commonwealth.
+		</section>
+	</text>
+	<history>1975, c. 626, § 2.1-376; 2001, c. 844; 2020, c. 859.</history>
+</law>

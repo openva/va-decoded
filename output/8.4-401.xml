@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="4" level="2">Relationship Between Payor Bank and Its Customer</unit>
+	</structure>
+	<section_number>8.4-401</section_number>
+	<catch_line>When bank may charge customer's account</catch_line>
+	<text>
+		<section prefix="a">A bank may charge against the account of a customer an item that is properly payable from that account even though the charge creates an overdraft. An item is properly payable if it is authorized by the customer and is in accordance with any agreement between the customer and the bank.
+		</section>
+		<section prefix="b">A customer is not liable for the amount of an overdraft if the customer neither signed the item nor benefited from the proceeds of the item.
+		</section>
+		<section prefix="c">A bank may charge against the account of a customer a check that is otherwise properly payable from the account, even though payment was made before the date of the check, unless the customer has given notice to the bank of the postdating describing the check with reasonable certainty. The notice is effective for the period stated in § 8.4-403 (b) for stop-payment orders, and must be received at such time and in such manner as to afford the bank a reasonable opportunity to act on it before the bank takes any action with respect to the check described in § 8.4-303. If a bank charges against the account of a customer a check before the date stated in the notice of postdating, the bank is liable for damages for the loss resulting from its act. The loss may include damages for dishonor of subsequent items under § 8.4-402.
+		</section>
+		<section prefix="d">A bank that in good faith makes payment to a holder may charge the indicated account of its customer according to:
+			<section prefix="1">the original terms of the altered item; or
+			</section>
+			<section prefix="2">the terms of the completed item, even though the bank knows the item has been completed unless the bank has notice that the completion was improper.
+			</section>
+		</section>
+	</text>
+	<history>1964, c. 219; 1992, c. 693.</history>
+</law>

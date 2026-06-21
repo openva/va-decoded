@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.5" level="4">Cathode Ray Tubes and Mercury Thermostats Recycling</unit>
+	</structure>
+	<section_number>10.1-1425.26</section_number>
+	<catch_line>Cathode ray tube and mercury thermostat special waste recycling program</catch_line>
+	<text>
+		<section prefix="A">As used in this section "cathode ray tube" means an intact glass tube used to provide the visual display in televisions, computer monitors, oscilloscopes and similar scientific equipment, but does not include the other components of an electronic product containing a cathode ray tube even if the product and the cathode ray tube are disassembled.
+		</section>
+		<section prefix="B">The Board shall promulgate regulations to encourage the recycling of thermostats containing mercury, cathode ray tubes, and electronics products.
+		</section>
+		<section prefix="C">Any locality may, by ordinance, prohibit the disposal of thermostats containing mercury and cathode ray tubes in any waste-to-energy or solid waste disposal facility within its jurisdiction, provided the locality has implemented a recycling program that is capable of handling all thermostats containing mercury and cathode ray tubes generated within its jurisdiction. However, no such ordinance shall contain any provision that penalizes anyone other than the initial generator of such thermostats containing mercury and cathode ray tubes.
+		</section>
+	</text>
+	<history>2003, c. 743; 2008, c. 12; 2010, c. 4.</history>
+</law>

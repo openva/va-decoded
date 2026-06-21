@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="43" level="3">Grades, Marks, and Brands</unit>
+		<unit label="article" identifier="2" level="4">Virginia Quality Label</unit>
+	</structure>
+	<section_number>3.2-4321</section_number>
+	<catch_line>Penalties for misuse or unauthorized use of Virginia Quality Label</catch_line>
+	<text>
+		<section prefix="A">It is unlawful for any person:
+			<section prefix="1">To use the Virginia Quality Label or a label with the shield of the United States in violation of any provisions of this article;
+			</section>
+			<section prefix="2">To use, with the intent to mislead or deceive, any imitation or counterfeit likeness of the Virginia Quality Label, or a label or shield of the United States: (i) on the label, tag, seal, container, or sign of any product that is sold or offered for sale; or (ii) in connection with any offer to sell or advertise for sale any product.
+			</section>
+		</section>
+		<section prefix="B">Any person who violates any provision of this article is guilty of a Class 3 misdemeanor.
+		</section>
+		<section prefix="C">Any corporation incorporated under the laws of the Commonwealth that has for 18 years or more prior to June 29, 1948, been using an outline map of Virginia, of its own design, for branding packages or containers for agricultural or horticultural products bought and sold by it, shall have the right to continue to use such outline map for such purpose.
+		</section>
+	</text>
+	<history>Code 1950, § 3-278; 1966, c. 702, § 3.1-357; 2008, c. 860.</history>
+</law>

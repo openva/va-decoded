@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="IV" level="2">Food and Drink; Weights and Measures</unit>
+		<unit label="chapter" identifier="51" level="3">Food and Drink</unit>
+		<unit label="article" identifier="2" level="4">Sanitary Requirements</unit>
+	</structure>
+	<section_number>3.2-5118</section_number>
+	<catch_line>Sterilization of bottles and containers</catch_line>
+	<text>
+		<section prefix="A">All bottles, jugs, cans, barrels, and containers used in the packing, bottling, storage, distribution, and sale of nonalcoholic beverage and drink products shall be sterilized by one of the following methods before using:
+			<section prefix="1">By sterilization with boiling water or live steam; or
+			</section>
+			<section prefix="2">By soaking in a hot caustic solution that shall contain not less than three percent alkali, of which not less than 60 percent is caustic, or its equivalent in cleansing or germicidal effectiveness as such solutions are commonly used in the soaker-type washing and sterilizing equipment.
+				If other equally efficient methods of sterilization are developed, the Commissioner may approve those methods of sterilization.
+			</section>
+		</section>
+		<section prefix="B">Any violation of this section is a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>Code 1950, § 3-302; 1966, c. 702, § 3.1-382; 2008, c. 860.</history>
+</law>

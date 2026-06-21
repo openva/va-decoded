@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="III" level="2">Local Taxes</unit>
+		<unit label="chapter" identifier="32" level="3">Real Property Tax</unit>
+		<unit label="article" identifier="7" level="4">Reassessment/Assessment (Valuation) Procedure and Practice</unit>
+	</structure>
+	<section_number>58.1-3295.3</section_number>
+	<catch_line>Assessment of real property; data centers</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Computer equipment and peripherals" means computer equipment and peripherals subject to classification under the provisions of subdivision A 17 of § 58.1-3503 or under the provisions of subdivision A 43 of § 58.1-3506.
+			"Cost approach" means assessing value by determining the cost to construct a reproduction or suitable replacement of fixtures and deducting physical, functional, and economic depreciation sustained by such fixtures.
+			"Data center" means the same as such term is defined in subdivision A 43 of § 58.1-3506.
+			"Fixtures" means all fixtures and equipment used in a data center except computer equipment and peripherals, equipment used for external surveillance and security, and fire and burglar alarm systems. "Fixtures" includes generators, radiators, exhaust fans, and fuel storage tanks; electrical substations, power distribution equipment, cogeneration equipment, and batteries; chillers, computer room air conditioners, and cool towers; heating, ventilating, and air conditioning systems; water storage tanks, water pumps, and piping; monitoring systems; and transmission and distribution equipment.
+		</section>
+		<section prefix="B">If fixtures are installed at a data center and taxed under the provisions of this chapter, such fixtures shall be assessed using the cost approach.
+		</section>
+	</text>
+	<history>2022, cc. 671, 672.</history>
+</law>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="38" level="4">Government Data Collection and Dissemination Practices Act</unit>
+	</structure>
+	<section_number>2.2-3803</section_number>
+	<catch_line>Administration of systems including personal information; Internet privacy policy; exceptions</catch_line>
+	<text>
+		<section prefix="A">Any agency maintaining an information system that includes personal information shall:
+			<section prefix="1">Collect, maintain, use, and disseminate only that personal information permitted or required by law to be so collected, maintained, used, or disseminated, or necessary to accomplish a proper purpose of the agency;
+			</section>
+			<section prefix="2">Collect information to the greatest extent feasible from the data subject directly, or through the sharing of data with other agencies, in order to accomplish a proper purpose of the agency;
+			</section>
+			<section prefix="3">Establish categories for maintaining personal information to operate in conjunction with confidentiality requirements and access controls;
+			</section>
+			<section prefix="4">Maintain information in the system with accuracy, completeness, timeliness, and pertinence as necessary to ensure fairness in determinations relating to a data subject;
+			</section>
+			<section prefix="5">Make no dissemination to another system without (i) specifying requirements for security and usage including limitations on access thereto, and (ii) receiving reasonable assurances that those requirements and limitations will be observed. This subdivision shall not apply, however, to a dissemination made by an agency to an agency in another state, district or territory of the United States where the personal information is requested by the agency of such other state, district or territory in connection with the application of the data subject therein for a service, privilege or right under the laws thereof, nor shall this apply to information transmitted to family advocacy representatives of the United States Armed Forces in accordance with subsection N of § 63.2-1503;
+			</section>
+			<section prefix="6">Maintain a list of all persons or organizations having regular access to personal information in the information system;
+			</section>
+			<section prefix="7">Maintain for a period of three years or until such time as the personal information is purged, whichever is shorter, a complete and accurate record, including identity and purpose, of every access to any personal information in a system, including the identity of any persons or organizations not having regular access authority but excluding access by the personnel of the agency wherein data is put to service for the purpose for which it is obtained;
+			</section>
+			<section prefix="8">Take affirmative action to establish rules of conduct and inform each person involved in the design, development, operation, or maintenance of the system, or the collection or use of any personal information contained therein, about all the requirements of this chapter, the rules and procedures, including penalties for noncompliance, of the agency designed to assure compliance with such requirements;
+			</section>
+			<section prefix="9">Establish appropriate safeguards to secure the system from any reasonably foreseeable threat to its security; and
+			</section>
+			<section prefix="10">Collect no personal information concerning the political or religious beliefs, affiliations, and activities of data subjects that is maintained, used, or disseminated in or by any information system operated by any agency unless authorized explicitly by statute or ordinance. Nothing in this subdivision shall be construed to allow an agency to disseminate to federal government authorities information concerning the religious beliefs and affiliations of data subjects for the purpose of compiling a list, registry, or database of individuals based on religious affiliation, national origin, or ethnicity, unless such dissemination is specifically required by state or federal law.
+			</section>
+		</section>
+		<section prefix="B">Every public body, as defined in § 2.2-3701, that has an Internet website associated with that public body shall develop an Internet privacy policy and an Internet privacy policy statement that explains the policy to the public. The policy shall be consistent with the requirements of this chapter. The statement shall be made available on the public body's website in a conspicuous manner. The Secretary of Administration or his designee shall provide guidelines for developing the policy and the statement, and each public body shall tailor the policy and the statement to reflect the information practices of the individual public body. At minimum, the policy and the statement shall address (i) what information, including personally identifiable information, will be collected, if any; (ii) whether any information will be automatically collected simply by accessing the website and, if so, what information; (iii) whether the website automatically places a computer file, commonly referred to as a "cookie," on the Internet user's computer and, if so, for what purpose; and (iv) how the collected information is being used or will be used.
+		</section>
+		<section prefix="C">Notwithstanding the provisions of subsection A, the Virginia Retirement System may disseminate information as to the retirement status or benefit eligibility of any employee covered by the Virginia Retirement System, the Judicial Retirement System, the State Police Officers' Retirement System, or the Virginia Law Officers' Retirement System, to the chief executive officer or personnel officers of the state or local agency by which he is employed.
+		</section>
+		<section prefix="D">Notwithstanding the provisions of subsection A, the Department of Social Services may disseminate client information to the Department of Taxation for the purposes of providing specified tax information as set forth in clause (ii) of subsection C of § 58.1-3.
+		</section>
+		<section prefix="E">Notwithstanding the provisions of subsection A, the State Council of Higher Education for Virginia may disseminate student information to agencies acting on behalf or in place of the U.S. government to gain access to data on wages earned outside the Commonwealth or through federal employment, for the purposes of complying with § 23.1-204.1.
+		</section>
+	</text>
+	<history>1976, c. 597, § 2.1-380; 1978, c. 409, § 2.1-384.1; 1989, c. 547; 2000, cc. 405, 500, 911; 2001, c. 844; 2002, c. 747; 2006, cc. 159, 590; 2017, c. 376; 2018, cc. 597, 679; 2019, c. 774; 2020, c. 738.</history>
+</law>

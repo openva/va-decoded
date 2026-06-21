@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="3" level="3">Priority</unit>
+	</structure>
+	<section_number>8.9A-320</section_number>
+	<catch_line>Buyer of goods</catch_line>
+	<text>
+		<section prefix="a">Buyer in ordinary course of business. Except as otherwise provided in subsection (e), a buyer in ordinary course of business, other than a person buying farm products from a person engaged in farming operations, takes free of a security interest created by the buyer's seller, even if the security interest is perfected and the buyer knows of its existence.
+		</section>
+		<section prefix="b">Buyer of consumer goods. Except as otherwise provided in subsection (e), a buyer of goods from a person who used or bought the goods for use primarily for personal, family, or household purposes takes free of a security interest, even if perfected, if the buyer buys:
+			<section prefix="1">without knowledge of the security interest;
+			</section>
+			<section prefix="2">for value;
+			</section>
+			<section prefix="3">primarily for the buyer's personal, family, or household purposes; and
+			</section>
+			<section prefix="4">before the filing of a financing statement covering the goods.
+			</section>
+		</section>
+		<section prefix="c">Effectiveness of filing for subsection (b). To the extent that it affects the priority of a security interest over a buyer of goods under subsection (b), the period of effectiveness of a filing made in the jurisdiction in which the seller is located is governed by subsections (a) and (b) of § 8.9A-316.
+		</section>
+		<section prefix="d">Buyer in ordinary course of business at wellhead or minehead. A buyer in ordinary course of business buying oil, gas, or other minerals at the wellhead or minehead or after extraction takes free of an interest arising out of an encumbrance.
+		</section>
+		<section prefix="e">Possessory security interest not affected. Subsections (a) and (b) do not affect a security interest in goods in the possession of the secured party under § 8.9A-313.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-558, 55-146; 1956, c. 602; 1964, c. 219, § 8.9-307; 1973, c. 509; 1986, c. 484; 1987, c. 657; 2000, c. 1007.</history>
+</law>

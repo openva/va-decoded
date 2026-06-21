@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="2" level="5">Electricity</unit>
+	</structure>
+	<section_number>45.2-810</section_number>
+	<catch_line> Circuit breakers and switches</catch_line>
+	<text>
+		<section prefix="A">Automatic circuit breaking devices or fuses of the correct type and capacity shall be installed so as to protect each piece of electrical equipment and each power circuit against excessive overload; however, this requirement shall not apply to any locomotive that is operated regularly on a grade that exceeds five percent. Wire or other conducting material shall not be used as a substitute for a properly designed fuse, and every circuit breaking device shall be maintained in safe operating condition.
+		</section>
+		<section prefix="B">An automatic circuit breaker of the correct type and capacity shall be installed on each resistance-grounded circuit used underground. Such circuit breaker shall be located at the power source and equipped with devices to provide protection against under-voltage, grounded phase, short circuit, and overcurrent.
+		</section>
+		<section prefix="C">Operating controls such as switches, starters, and switch buttons shall be installed so that they are readily accessible and can be operated without danger of contact with moving or electrified parts.
+		</section>
+		<section prefix="D">A disconnecting switch shall be installed underground in each main power circuit within approximately 500 feet of the bottom of each shaft or borehole and at any other place at which a main power circuit enters the mine.
+		</section>
+		<section prefix="E">Each piece of electrical equipment and each circuit shall be provided with switches or other controls of safe design, construction, and installation.
+		</section>
+		<section prefix="F">Insulating mats or other electrically nonconductive material shall be kept in place at each power-control switch and at any piece of stationary machinery at which a shock hazard exists.
+		</section>
+		<section prefix="G">Each circuit breaker, disconnecting device, and switch shall be marked for identification.
+		</section>
+	</text>
+	<history>Code 1950, § 45-82.3; 1954, c. 191; 1966, c. 594, § 45.1-80; 1994, c. 28, § 45.1-161.189; 1999, c. 256; 2021, Sp. Sess. I, c. 387.</history>
+</law>

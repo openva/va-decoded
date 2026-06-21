@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="12.2" level="3">Uniform Environmental Covenants Act</unit>
+	</structure>
+	<section_number>10.1-1240</section_number>
+	<catch_line>Contents of environmental covenant</catch_line>
+	<text>
+		<section prefix="A">An environmental covenant shall:
+			<section prefix="1">State that the instrument is an environmental covenant executed pursuant to the Uniform Environmental Covenants Act (§ 10.1-1238 et seq. of the Code of Virginia);
+			</section>
+			<section prefix="2">Contain a legally sufficient description of the real property subject to the covenant;
+			</section>
+			<section prefix="3">Describe the activity and use limitations on the real property;
+			</section>
+			<section prefix="4">Identify every holder;
+			</section>
+			<section prefix="5">Be signed by the agency, every holder, and, unless waived by the agency, every owner of the fee simple of the real property subject to the covenant; and
+			</section>
+			<section prefix="6">Identify the name and location of any administrative record for the environmental response project reflected in the environmental covenant.
+			</section>
+		</section>
+		<section prefix="B">In addition to the information required by subsection A, an environmental covenant may contain other information, restrictions, and requirements agreed to by the persons who signed it, including:
+			<section prefix="1">Any requirements for notice following transfer of a specified interest in, or concerning proposed changes in use of, applications for building permits for, or proposals for any site work affecting the contamination on, the property subject to the covenant;
+			</section>
+			<section prefix="2">Any requirements for periodic reporting describing compliance with the covenant, including a requirement that a qualified and certified professional engineer inspect, investigate and report on the compliance with the covenant;
+			</section>
+			<section prefix="3">Any rights of access to the property granted in connection with implementation or enforcement of the covenant;
+			</section>
+			<section prefix="4">A brief narrative description of the contamination and remedy, including the contaminants of concern, the pathways of exposure, limits on exposure, and the location and extent of the contamination;
+			</section>
+			<section prefix="5">Any limitations on amendment or termination of the covenant in addition to those contained in §§ 10.1-1245 and 10.1-1246; and
+			</section>
+			<section prefix="6">Any rights of the holder in addition to its right to enforce the covenant pursuant to § 10.1-1247.
+			</section>
+		</section>
+		<section prefix="C">In addition to other conditions for approval of an environmental covenant, the agency may require those persons specified by the agency who have interests in the real property to sign the covenant.
+		</section>
+	</text>
+	<history>2010, c. 691.</history>
+</law>

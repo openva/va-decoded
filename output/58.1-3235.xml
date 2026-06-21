@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="III" level="2">Local Taxes</unit>
+		<unit label="chapter" identifier="32" level="3">Real Property Tax</unit>
+		<unit label="article" identifier="4" level="4">Special Assessment for Land Preservation</unit>
+	</structure>
+	<section_number>58.1-3235</section_number>
+	<catch_line>Removal of parcels from program if taxes delinquent</catch_line>
+	<text>
+		<section prefix="A">If on April 1 of any year the taxes for any prior year on any parcel of real property that has a special assessment as provided for in this article are delinquent, the appropriate county, city, or town treasurer shall forthwith send notice of that fact and the general provisions of this section to the property owner by first-class mail. If, after the notice has been sent, such delinquent taxes remain unpaid on June 1, the treasurer shall notify the appropriate commissioner of the revenue who shall remove such parcel from the land use program. Such removal shall become effective for the current tax year.
+		</section>
+		<section prefix="B">Notwithstanding the provisions of subsection A, a locality may, by ordinance, provide that if such delinquent taxes are paid no later than December 31, such parcel shall not be removed from the land use program.
+		</section>
+		<section prefix="C">No parcel of real property shall be removed from the land use program for delinquent taxes if (i) the taxes become delinquent during a state of emergency declared by the Governor pursuant to subdivision (7) of § 44-146.17; (ii) the treasurer determines that the disaster giving rise to the state of emergency has caused hardship for the taxpayer; and (iii) the delinquent taxes are paid no later than 90 days after the deadline provided in subsection A or B, as applicable.
+		</section>
+	</text>
+	<history>Code 1950, § 58-769.8:1; 1980, c. 508; 1984, c. 675; 1994, c. 199; 2022, c. 663.</history>
+</law>

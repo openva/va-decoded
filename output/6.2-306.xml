@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="3" level="3">Interest and Usury</unit>
+		<unit label="article" identifier="3" level="4">Usury</unit>
+	</structure>
+	<section_number>6.2-306</section_number>
+	<catch_line>Waiver of rights violative of public policy</catch_line>
+	<text>
+		<section prefix="A">Any agreement or contract in which the borrower waives the benefits of this chapter or releases any rights he may have acquired under this chapter shall be deemed to be against public policy and void.
+		</section>
+		<section prefix="B">The provisions of subsection A shall not apply to a waiver of benefits or release of rights made subsequent to a loan as part of a settlement of potential or pending claims by a borrower involving such loan.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.58; 2010, c. 794.</history>
+</law>

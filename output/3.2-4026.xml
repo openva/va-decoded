@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="40" level="3">Seeds</unit>
+		<unit label="article" identifier="2" level="4">Certified Seed Board</unit>
+	</structure>
+	<section_number>3.2-4026</section_number>
+	<catch_line>Illegal use of word "certified"; who may make certification; standards; penalty</catch_line>
+	<text>
+		<section prefix="A">It is unlawful for any person to use the term "certified" or imply certification relative to any agricultural seeds, vegetable seeds, tubers for planting purposes, or plants offered for sale unless such seeds, tubers, or plants have been certified as follows:
+			<section prefix="1">If the seeds, tubers, or plants were produced in another state or in a foreign country, certification by authorized inspection officials of the place of origin shall be sufficient if accepted by the Board.
+			</section>
+			<section prefix="2">If the seeds, tubers, or plants were produced in Virginia, certification shall be by the producers under authorization of the Board, its agents, or the Department.
+			</section>
+		</section>
+		<section prefix="B">Any person who violates this section is guilty of a Class 3 misdemeanor. Each violation shall be a separate offense.
+		</section>
+	</text>
+	<history>Code 1950, § 3-227; 1966, c. 702, § 3.1-283; 1980, c. 413; 2008, c. 860.</history>
+</law>

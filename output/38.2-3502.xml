@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="35" level="2">Accident and Sickness Insurance Policies</unit>
+		<unit label="article" identifier="1" level="3">Individual Accident and Sickness Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3502</section_number>
+	<catch_line>Notice to be printed on policy; return of policy to insurer</catch_line>
+	<text>
+		<section prefix="A">Any individual accident and sickness insurance policy delivered or issued for delivery in this Commonwealth shall have printed on it a notice stating substantially:
+			"THIS POLICY MAY NOT APPLY WHEN YOU HAVE A CLAIM! PLEASE READ! This policy was issued based on the information entered in your application, a copy of which is attached to the policy. If you know of any misstatement in your application, or if any information concerning the medical history of any insured person has been omitted, you should advise the Company immediately regarding the incorrect or omitted information; otherwise, your policy may not be a valid contract.
+			RIGHT TO RETURN POLICY WITHIN 10 DAYS. If for any reason you are not satisfied with your policy, you may return this policy to the Company within ten days of the date you received it and the premium you paid will be promptly refunded."
+		</section>
+		<section prefix="B">If a policyowner returns the policy within ten days from the date of receipt, coverage under that policy shall become void from its inception upon the mailing or delivery of the policy to the insurer or its agent.
+		</section>
+		<section prefix="C">If the first paragraph of the notice required in subsection A of this section is inapplicable or partially inapplicable to a particular form of policy, the insurer may modify or omit the notice with the Commission's approval.
+		</section>
+		<section prefix="D">Nothing in this section shall prohibit an insurer from extending the right to examine period to more than ten days if the period is stated in the policy.
+		</section>
+	</text>
+	<history>1966, c. 342, § 38.1-348.4; 1986, c. 562.</history>
+</law>

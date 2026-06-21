@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="22" level="3">Benefit Corporations</unit>
+	</structure>
+	<section_number>13.1-790</section_number>
+	<catch_line>Right of action</catch_line>
+	<text>
+		<section prefix="A">The duties of directors and officers under this article, the obligation of a benefit corporation to prepare and make available the annual benefit report required under § 13.1-791, and the general and any specific public benefit purpose of a benefit corporation may be enforced only in a benefit enforcement proceeding. No person may bring an action or assert a claim against a benefit corporation or its directors or officers with respect to the duties of directors and officers under this article and the general and any specific public benefit purpose of the benefit corporation except in a benefit enforcement proceeding.
+		</section>
+		<section prefix="B">A benefit enforcement proceeding may be commenced or maintained only:
+			<section prefix="1">Directly by the benefit corporation; or
+			</section>
+			<section prefix="2">Derivatively by:
+				a. A shareholder of the benefit corporation;
+				b. A director of the benefit corporation; or
+				c. Other persons as specified in the articles of incorporation or bylaws of the benefit corporation.
+			</section>
+		</section>
+	</text>
+	<history>2011, c. 698.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="17" level="3">Police and Public Order</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>15.2-1710.1</section_number>
+	<catch_line>Arrest or summons quota prohibited</catch_line>
+	<text>
+		<section prefix="A">A police force shall not establish a formal or informal quota that requires a police officer to make a specific number of arrests or issue a specific number of summonses within a designated period of time.
+		</section>
+		<section prefix="B">A police force shall not use the number of arrests made or summonses issued by a police officer as the sole criterion for evaluating an officer's job performance.
+		</section>
+		<section prefix="C">Nothing in this section shall preclude a police force from collecting, analyzing, and utilizing information concerning the number of arrests made or summonses issued for any other purpose.
+		</section>
+	</text>
+	<history>2022, cc. 208, 209.</history>
+</law>

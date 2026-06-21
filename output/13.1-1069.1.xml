@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="13" level="3">Merger</unit>
+	</structure>
+	<section_number>13.1-1069.1</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article:
+		"Merger" means a business combination pursuant to § 13.1-1070.
+		"Party to a merger" means any domestic or foreign limited liability company or other business entity that will merge under a plan of merger.
+		"Survivor" in a merger means the domestic or foreign limited liability company or other business entity into which one or more other domestic or foreign limited liability companies or other business entities are merged.
+	</text>
+	<history>2016, c. 288.</history>
+</law>

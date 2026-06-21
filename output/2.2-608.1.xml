@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="6" level="4">General Provisions</unit>
+		<unit label="article" identifier="1" level="5">In General</unit>
+	</structure>
+	<section_number>2.2-608.1</section_number>
+	<catch_line>State publications to be made available electronically</catch_line>
+	<text>
+		Publications, as defined in § 42.1-93, of any agency, institution, collegial body, or other governmental entity shall be available as read-only and text-searchable Portable Document Format (.pdf) files or some other widely used and accessible read-only and text-searchable electronic document format. All requests for such publications shall be made electronically unless expressly requested otherwise.
+	</text>
+	<history>2020, c. 421.</history>
+</law>

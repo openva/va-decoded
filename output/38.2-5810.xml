@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="58" level="2">Managed Care Health Insurance Plans</unit>
+	</structure>
+	<section_number>38.2-5810</section_number>
+	<catch_line>Statutory construction and relationship to other laws</catch_line>
+	<text>
+		<section prefix="A">Neither the health carrier nor the MCHIP shall be deemed to be engaged in the practice of medicine solely by virtue of its compliance with this chapter. All health care providers associated with an MCHIP shall be subject to all provisions of law.
+		</section>
+		<section prefix="B">Notwithstanding the definition of an eligible employee as set forth in § 38.2-3431, a health carrier providing an MCHIP subject to § 38.2-3431 shall not be required to offer coverage to or accept applications from an employee who does not reside within the MCHIP's service area.
+		</section>
+	</text>
+	<history>1998, c. 891.</history>
+</law>

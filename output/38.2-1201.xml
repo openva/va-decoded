@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="12" level="2">Reciprocal Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-1201</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		<section prefix="A">As used in this title:
+			"Reciprocal" means the aggregation of subscribers under a common name.
+			"Reciprocal insurance" means insurance resulting from the mutual exchange of insurance contracts among persons in an unincorporated association under a common name through an attorney-in-fact having authority to obligate each person both as insured and insurer.
+		</section>
+		<section prefix="B">As used in this chapter:
+			"Attorney" means the person designated and authorized by subscribers as the attorney-in-fact having authority to obligate them on reciprocal insurance contracts.
+			"Subscriber" means a person obligated under a reciprocal insurance agreement.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-689; 1986, c. 562.</history>
+</law>

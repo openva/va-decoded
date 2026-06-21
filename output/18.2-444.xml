@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="10" level="2">Crimes Against the Administration of Justice</unit>
+		<unit label="article" identifier="2" level="3">Bribery and Related Offenses</unit>
+	</structure>
+	<section_number>18.2-444</section_number>
+	<catch_line>Corruptly influencing, or being influenced as, agents, etc</catch_line>
+	<text>
+		<section prefix="1">Any person who gives, offers or promises to an agent, employee or servant any gift or gratuity whatever, without the knowledge and consent of the principal, employer or master of such agent, employee or servant, with intent to influence his action to the prejudice of his principal's, employer's or master's business; or
+		</section>
+		<section prefix="2">An agent, employee or servant who, without the knowledge and consent of his principal, employer or master requests or accepts a gift or gratuity or a promise to make a gift or to do an act beneficial to himself, under an agreement or with an understanding that he shall act in any particular manner as to his principal's, employer's or master's business; or
+		</section>
+		<section prefix="3">An agent, employee or servant who, being authorized to procure materials, supplies or other articles either by purchase or contract for his principal, employer or master or to employ service or labor for his principal, employer or master receives directly or indirectly, for himself or for another, a commission, discount or bonus from the person who makes such sale or contract, or furnishes such materials, supplies or other articles, or from a person who renders such service or labor; or
+		</section>
+		<section prefix="4">Any person who gives or offers such an agent, employee or servant such commission, discount or bonus;
+			shall be guilty of a Class 3 misdemeanor.
+		</section>
+	</text>
+	<history>Code 1950, § 18.1-404; 1960, c. 358; 1975, cc. 14, 15.</history>
+</law>

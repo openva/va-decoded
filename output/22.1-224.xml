@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="13" level="2">Programs, Courses of Instruction and Textbooks</unit>
+		<unit label="article" identifier="3" level="3">Adult Education</unit>
+	</structure>
+	<section_number>22.1-224</section_number>
+	<catch_line>Duties of State Board</catch_line>
+	<text>
+		The Board of Education shall:
+		<section prefix="1">Require the development of adult education programs in every school division;
+		</section>
+		<section prefix="2">Encourage coordination in the development and provision of adult education programs between school boards and other state, federal, and local public and private agencies;
+		</section>
+		<section prefix="3">Promulgate appropriate standards and guidelines for adult education programs;
+		</section>
+		<section prefix="4">Accept and administer grants, gifts, services, and funds from available sources for use in adult education programs; and
+		</section>
+		<section prefix="5">Assist school divisions with all diligence in meeting the educational needs of individuals participating in adult education programs to master the requirements for and earn a high school diploma or to pass a high school equivalency examination approved by the Board of Education.
+		</section>
+	</text>
+	<history>Code 1950, § 22-361; 1978, c. 522; 1980, c. 559; 1999, c. 564; 2014, c. 84; 2018, c. 717.</history>
+</law>

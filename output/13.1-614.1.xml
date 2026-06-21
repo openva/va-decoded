@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="1.1" level="3">Ratification of Defective Corporate Actions</unit>
+	</structure>
+	<section_number>13.1-614.1</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article:
+		"Corporate action" means any action taken by or on behalf of the corporation, including any action taken by the incorporator, the board of directors, a committee, an officer or agent of the corporation, or the shareholders.
+		"Date of the defective corporate action" means the date, or the approximate date if the exact date is unknown, the defective corporate action was purported to have been taken.
+		"Defective corporate action" means (i) any corporate action purportedly taken that is, and at the time such corporate action was purportedly taken would have been, within the power of the corporation, but is void or voidable due to a failure of authorization, or (ii) an over-issuance of shares.
+		"Failure of authorization" means the failure to authorize, approve, or otherwise effect a corporate action in compliance with the provisions of this chapter, the articles of incorporation or bylaws, a corporate resolution, or any plan or agreement to which the corporation is a party, if and to the extent such failure would render such corporate action voidable.
+		"Over-issuance of shares" means the purported issuance of:
+		<section prefix="1">Shares of a class or series in excess of the number of shares of the class or series the corporation had the power to issue under § 13.1-638 at the time of such issuance; or
+		</section>
+		<section prefix="2">Shares of any class or series that was not then authorized for issuance by the articles of incorporation.
+			"Putative shares" means the shares of any class or series of the corporation, including shares issued upon exercise of rights, options, warrants, or other securities convertible into shares of the corporation, or interests with respect to such shares, that were created or issued as a result of a defective corporate action, that (i) but for any failure of authorization would constitute valid shares or (ii) cannot be determined by the board of directors to be valid shares.
+			"Valid shares" means the shares of any class or series of the corporation that have been duly authorized and validly issued in accordance with this chapter, including as a result of ratification or validation under this article.
+			"Validation effective time" with respect to any defective corporate action ratified under this article means the later of:
+		</section>
+		<section prefix="1">The time at which the ratification of the defective corporate action is approved by the shareholders or, if approval of shareholders is not required, the time at which the notice required by § 13.1-614.5 becomes effective in accordance with § 13.1-610; and
+		</section>
+		<section prefix="2">The time at which any document filed in accordance with § 13.1-614.7 becomes effective.
+			The validation effective time shall not be affected by the filing or pendency of a proceeding under § 13.1-614.8 or otherwise, unless ordered by the Commission.
+		</section>
+	</text>
+	<history>2019, c. 734; 2020, c. 1226.</history>
+</law>

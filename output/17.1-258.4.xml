@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="2" level="2">Clerks, Clerks' Offices and Records</unit>
+		<unit label="article" identifier="4.1" level="3">Electronic Filing</unit>
+	</structure>
+	<section_number>17.1-258.4</section_number>
+	<catch_line>Signature; when effective as original; notarization; seal</catch_line>
+	<text>
+		<section prefix="A">If the electronically filed document contains an electronic signature pursuant to the Uniform Electronic Transactions Act (§ 59.1-479 et seq.) that is capable of independent verification and renders any subsequent changes or modifications to the electronic document evident, any statutory requirement for original signature shall be deemed to be satisfied.
+		</section>
+		<section prefix="B">Any statutory requirement for a document to be notarized shall be deemed satisfied by the appropriately executed electronic signature of such notary pursuant to the Virginia Notary Act (§ 47.1-1 et seq.).
+		</section>
+		<section prefix="C">When a seal or stamp is required to be affixed by any court or clerk on a document, the attachment of an official electronic seal or official electronic stamp to the electronic document is sufficient. "Official electronic seal" and "official electronic stamp" mean an electronic image of a seal or stamp, respectively, of the court or clerk, that is produced by software applications authorized by the clerk that are protected by system credentials to which only the clerk or persons authorized by the clerk have access.
+		</section>
+	</text>
+	<history>2005, c. 744; 2008, cc. 823, 833; 2010, cc. 717, 760; 2013, c. 77.</history>
+</law>

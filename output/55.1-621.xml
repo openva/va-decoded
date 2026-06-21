@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="II" level="2">Real Estate Settlements and Recordation</unit>
+		<unit label="chapter" identifier="6" level="3">Recordation of Documents</unit>
+		<unit label="article" identifier="3" level="4">Uniform Recognition of Acknowledgments Act</unit>
+	</structure>
+	<section_number>55.1-621</section_number>
+	<catch_line>Statutory short forms of acknowledgment</catch_line>
+	<text>
+		The forms of acknowledgment set forth in this section may be used and are sufficient for their respective purposes under any law of the Commonwealth. The following forms shall be known as "Statutory Short Forms of Acknowledgment" and may be referred to by that name. The authorization of the forms in this section does not preclude the use of other forms.
+		<section prefix="1">For an individual acting in his own right:
+			State of ________
+			County or city of ________
+			The foregoing instrument was acknowledged before me this (date) by (name of person acknowledged).
+			(Signature of Person Taking Acknowledgment)
+			(Title or Rank)
+			(Serial Number, if any)
+		</section>
+		<section prefix="2">For a corporation:
+			State of ________
+			County or city of ________
+			The foregoing instrument was acknowledged before me this (date) by (name of officer or agent, title of officer or agent) of (name of corporation acknowledging) a (state or place of incorporation) corporation, on behalf of the corporation.
+			(Signature of Person Taking Acknowledgment)
+			(Title or Rank)
+			(Serial Number, if any)
+		</section>
+		<section prefix="3">For a partnership:
+			State of ________
+			County or city of ________
+			The foregoing instrument was acknowledged before me this (date) by (name of acknowledging partner or agent), partner (or agent) on behalf of (name of partnership), a partnership.
+			(Signature of Person Taking Acknowledgment)
+			(Title or Rank)
+			(Serial Number, if any)
+		</section>
+		<section prefix="4">For an individual acting as principal by an attorney-in-fact:
+			State of ________
+			County or city of ________
+			The foregoing instrument was acknowledged before me this (date) by (name of attorney-in-fact) as attorney-in-fact on behalf of (name of principal).
+			(Signature of Person Taking Acknowledgment)
+			(Title or Rank)
+			(Serial Number, if any)
+		</section>
+		<section prefix="5">By any public officer, trustee, or personal representative:
+			State of ________
+			County or city of ________
+			The foregoing instrument was acknowledged before me this (date) by (name and title of position).
+			(Signature of Person Taking Acknowledgment)
+			(Title or Rank)
+			(Serial Number, if any)
+		</section>
+	</text>
+	<history>1970, c. 719, § 55-118.6; 2019, c. 712.</history>
+</law>

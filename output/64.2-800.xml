@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="10" level="4">Liability of Trustees and Rights of Persons Dealing with Trustee</unit>
+	</structure>
+	<section_number>64.2-800</section_number>
+	<catch_line>Beneficiary's consent, release, or ratification</catch_line>
+	<text>
+		<section prefix="A">A trustee is not liable to a beneficiary for breach of trust if the beneficiary consented to the conduct constituting the breach, released the trustee from liability for the breach, or ratified the transaction constituting the breach, unless:
+			<section prefix="1">The consent, release, or ratification of the beneficiary was induced by improper conduct of the trustee; or
+			</section>
+			<section prefix="2">At the time of the consent, release, or ratification, the beneficiary did not know of the beneficiary's rights or of the material facts relating to the breach.
+			</section>
+		</section>
+		<section prefix="B">A beneficiary shall be deemed to have released a trustee and ratified all actions of a trustee for the administration of the trust if, when the trust terminates or the trustee ceases to serve:
+			<section prefix="1">The trustee sends the beneficiary the following:
+				a. A report as described in subsection C of § 64.2-775, for the immediately preceding two years;
+				b. The amount of any taxes, expenses, or fees, including trustee fees and any reserves, remaining to be paid;
+				c. Notice that (i) the trust is terminating or that the trustee is ceasing to serve; (ii) if the beneficiary does not object in writing to the trustee within 60 days after the trustee sent the notice and information, the beneficiary shall be deemed to have released the trustee and ratified all actions of the trustee; and (iii) the trustee is unaware of any undisclosed information that could give rise to a claim by the beneficiary; and
+				d. If the trust is terminating, a description of any trust property or interests reasonably anticipated but not yet received and a proposal for distribution; and
+			</section>
+			<section prefix="2">The beneficiary does not notify the trustee of the beneficiary's objection in writing within 60 days after the trustee sent the notice and information pursuant to subdivision 1.
+			</section>
+		</section>
+		<section prefix="C">The provisions of subsection B shall not apply to a transaction pursuant to Article 8.1 (§ 64.2-779.1 et seq.) of Chapter 7.
+		</section>
+		<section prefix="D">In the event the trustee is not released and his actions ratified pursuant to the process provided by subsection B, the trustee shall not be precluded from obtaining a release of liability by another permitted method.
+		</section>
+		<section prefix="E">When a trustee complies with the provisions of subsection B, has received no objection or has resolved any objection, and distributes the assets of a terminating trust to a beneficiary or to a successor trustee, such action shall have the same legal and preclusive effect as if a court had entered a final order approving the trustee's final account or approving the trustee's interim accounts. A beneficiary or other party who received the notice and statements and either consented or did not object shall be prohibited from bringing a claim against the trustee.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-550.09; 2012, c. 614; 2024, cc. 446, 600.</history>
+</law>

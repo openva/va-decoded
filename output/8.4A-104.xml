@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4A" level="1">Commercial Code — Funds Transfers</unit>
+		<unit label="part" identifier="1" level="2">Subject Matter and Definitions</unit>
+	</structure>
+	<section_number>8.4A-104</section_number>
+	<catch_line>Definitions: "Funds transfer"; "Intermediary bank"; "Originator"; "Originator's bank."</catch_line>
+	<text>
+		In this title:
+		<section prefix="a">"Funds transfer" means the series of transactions, beginning with the originator's payment order, made for the purpose of making payment to the beneficiary of the order. The term includes any payment order issued by the originator's bank or an intermediary bank intended to carry out the originator's payment order. A funds transfer is completed by acceptance by the beneficiary's bank of a payment order for the benefit of the beneficiary of the originator's payment order.
+		</section>
+		<section prefix="b">"Intermediary bank" means a receiving bank other than the originator's bank or the beneficiary's bank.
+		</section>
+		<section prefix="c">"Originator" means the sender of the first payment order in a funds transfer.
+		</section>
+		<section prefix="d">"Originator's bank" means (i) the receiving bank to which the payment order of the originator is issued if the originator is not a bank, or (ii) the originator if the originator is a bank.
+		</section>
+	</text>
+	<history>1990, c. 9.</history>
+</law>

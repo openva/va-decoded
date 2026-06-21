@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="5" level="2">Search Warrants</unit>
+	</structure>
+	<section_number>19.2-53</section_number>
+	<catch_line>What may be searched and seized</catch_line>
+	<text>
+		<section prefix="A">Search warrants may be issued for the search of or for specified places, things, or persons, and seizure therefrom of the following things as specified in the warrant:
+			<section prefix="1">Weapons or other objects used in the commission of crime;
+			</section>
+			<section prefix="2">Articles or things the sale or possession of which is unlawful;
+			</section>
+			<section prefix="3">Stolen property or the fruits of any crime;
+			</section>
+			<section prefix="4">Any object, thing, or person, including (i) documents, (ii) books, (iii) papers, (iv) records, (v) body fluids, or (vi) electronic records stored within or outside the Commonwealth of a commercial enterprise, whether a domestic corporation or a foreign corporation, that is transacting or has transacted any business in the Commonwealth, constituting evidence of the commission of crime; or
+			</section>
+			<section prefix="5">Any person to be arrested for whom a warrant or process for arrest has been issued.
+				Notwithstanding any other provision in this chapter to the contrary, no search warrant may be issued as a substitute for a witness subpoena.
+			</section>
+		</section>
+		<section prefix="B">Any search warrant issued for the search and seizure of a computer, computer network, or other device containing electronic or digital information shall be deemed to include the search and seizure of the physical components and the electronic or digital information contained in any such computer, computer network, or other device, except information for which a search warrant is prohibited by § 19.2-60.2.
+		</section>
+		<section prefix="C">Any search, including the search of the contents of any computer, computer network, or other device conducted pursuant to subsection B, may be conducted in any location and is not limited to the location where the evidence was seized.
+		</section>
+	</text>
+	<history>Code 1950, § 19.1-84; 1960, c. 366; 1962, c. 519; 1966, c. 363; 1970, c. 650; 1974, c. 113; 1975, c. 495; 1981, c. 559; 2015, c. 501; 2017, cc. 233, 242; 2024, cc. 523, 571; 2025, c. 345.</history>
+</law>

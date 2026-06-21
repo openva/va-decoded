@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="8" level="3">Banks</unit>
+		<unit label="article" identifier="10" level="4">Reserves</unit>
+	</structure>
+	<section_number>6.2-891</section_number>
+	<catch_line>Perfection of certain security interests</catch_line>
+	<text>
+		When securities are sold by a bank subject to an obligation of repurchase, any security interest or interest of ownership therein may be perfected:
+		<section prefix="1">As specified by Title 8.8A or Title 8.9A;
+		</section>
+		<section prefix="2">By designation to the person holding physical custody thereof, which shall include a person keeping the master records, in case of securities identified by book entry only, that certain securities identified by serial number or dollar amount are held for the benefit of third parties other than the bank, who may, but need not, be identified by name; or
+		</section>
+		<section prefix="3">By physical separation on the premises of the bank in a separate drawer, compartment, or other facility. The bank may, from time to time, instruct any third party holding such securities that the previously identified securities or an amount of such securities previously identified as pledged or belonging to third parties have been released from such pledge by payment of all or part of the amount due, or have been repurchased. The records of the bank shall identify the persons who are pledgees or owners of such securities. Book-entry securities held in a bank's customer-safekeeping account, used for the same purpose, at the Federal Reserve Bank, notwithstanding that other customer securities are held in the same account, shall be deemed in compliance with subdivision 2, provided such securities are identified in the bank's records as required by this section.
+		</section>
+	</text>
+	<history>1982, c. 429, § 6.1-81; 1983, c. 250; 1986, c. 320; 2010, c. 794.</history>
+</law>

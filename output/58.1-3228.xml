@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="III" level="2">Local Taxes</unit>
+		<unit label="chapter" identifier="32" level="3">Real Property Tax</unit>
+		<unit label="article" identifier="3" level="4">Other Exemptions, Credits, Partial Abatement, Apportionments, Classifications</unit>
+	</structure>
+	<section_number>58.1-3228</section_number>
+	<catch_line>Release of delinquent tax lien to facilitate a conveyance of real property</catch_line>
+	<text>
+		The local governing body of any county, city, or town may adopt an ordinance authorizing the locality to release all liens for delinquent real estate taxes, or any portion thereof, including penalty and accumulated interest, in order to facilitate the conveyance of the property. Such liens may only be released under the following conditions:
+		<section prefix="1">The purchaser is unrelated by blood or marriage to the owner;
+		</section>
+		<section prefix="2">The purchaser has no business association with the owner;
+		</section>
+		<section prefix="3">The purchaser owes no delinquent real estate taxes for any real property; and
+		</section>
+		<section prefix="4">The property, including land and improvements, is valued at less than $50,000.
+			All such liens shall remain the personal obligation of the owner of the property at the time the liens were imposed.
+		</section>
+	</text>
+	<history>2000, c. 756.</history>
+</law>

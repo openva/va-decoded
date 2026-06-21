@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="3" level="3">Construction</unit>
+	</structure>
+	<section_number>59.1-503.10</section_number>
+	<catch_line>Licenses to nonprofit libraries, archives or educational institutions</catch_line>
+	<text>
+		<section prefix="a">To the extent that the conduct is not otherwise unlawful or restricted under the Copyright Act, 17 U.S.C. § 101 et seq., or other law, in a standard form contract for the use of a tangible copy of informational content to a licensee that is a nonprofit library or archive or a nonprofit educational institution, the licensee may, without any purpose of direct or indirect commercial advantage:
+			<section prefix="1">make the tangible copy available to library or archive users, including but not limited to reserving the copy for a course and lending that copy to users in accordance with ordinary practices of nonprofit libraries or archives;
+			</section>
+			<section prefix="2">make a copy of the tangible copy for archival or preservation purposes;
+			</section>
+			<section prefix="3">engage in inter-library lending of tangible copies of the copy; and
+			</section>
+			<section prefix="4">make classroom and instructional use of the tangible copy.
+			</section>
+		</section>
+		<section prefix="b">The provisions of subsection (a) may be varied by a term in a standard form contract only if:
+			<section prefix="1">the term varying the provision is conspicuous;
+			</section>
+			<section prefix="2">the nonprofit library, archive or educational institution specifically manifests assent to the term pursuant to subsection (c) of § 59.1-501.12; and
+			</section>
+			<section prefix="3">where the term is not made available to the nonprofit library, archive or educational institution before it orders the tangible copy of the computer information:
+			</section>
+		</section>
+		<section prefix="i">the nonprofit library, archive or educational institution knew or had reason to know that terms would follow when it ordered the copy; and
+			<section prefix="ii">the nonprofit library, archive or educational institution is given the right to return the copy in the event that it refuses the contract and the right to be reimbursed for any reasonable expenses incurred in complying with the licensor's instructions for returning or destroying the computer information, or in the absence of such instructions, the reimbursement of expenses incurred for return postage or similar reasonable expense in returning the computer information.
+			</section>
+		</section>
+		<section prefix="c">Nothing in this section shall be construed to:
+			<section prefix="1">alter the burden of proof in an infringement, contract or other action;
+			</section>
+			<section prefix="2">authorize making the informational content available on a computer network server or other system for simultaneous access and use by multiple users; or
+			</section>
+			<section prefix="3">limit any defense that a term of a contract violates a fundamental public policy pursuant to § 59.1-501.5 including any such policy under the federal copyright law.
+			</section>
+		</section>
+		<section prefix="d">For purposes of this section, the terms "nonprofit library, archive or educational institution" have the same meaning as used in sections 108, 109 and 110 of the Copyright Act, 17 U.S.C. §§ 108, 109, and 110.
+		</section>
+	</text>
+	<history>2001, c. 763.</history>
+</law>

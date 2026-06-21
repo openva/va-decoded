@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="4" level="4">Creation, Validity, Modification, and Termination of Trust</unit>
+	</structure>
+	<section_number>64.2-719</section_number>
+	<catch_line>Methods of creating trust</catch_line>
+	<text>
+		<section prefix="A">A trust may be created by:
+			<section prefix="1">Transfer of property to another person as trustee during the settlor's lifetime by the settlor or by the settlor's agent, acting in accordance with § 64.2-1612, under a power of attorney that expressly authorizes the agent to create a trust on the settlor's behalf or by will or other disposition taking effect upon the settlor's death;
+			</section>
+			<section prefix="2">Declaration by the owner of property that the owner holds identifiable property as trustee;
+			</section>
+			<section prefix="3">Exercise of a power of appointment in favor of a trustee; or
+			</section>
+			<section prefix="4">A conservator acting in accordance with § 64.2-2023.
+			</section>
+		</section>
+		<section prefix="B">A circuit court, upon petition from an interested party, may create and establish a trust with such trustee and such terms as the court determines. In an order creating and establishing the trust, the court shall determine whether the trustee shall have a duty to qualify in the clerk's office; post bond, with or without surety; or file an inventory and annual accounting with the commissioner of accounts as would apply to a testamentary trustee.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-544.01; 2010, cc. 455, 632; 2012, c. 614; 2013, c. 523; 2016, c. 186.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="15" level="3">Virginia Aircraft Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-1506</section_number>
+	<catch_line>Time for payment of tax</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsection B, the tax on the sale or use of an aircraft required to be licensed by this Commonwealth shall be paid by the purchaser or user of such aircraft and collected by the Commissioner prior to the time the owner applies to the Department of Aviation for, and obtains, a license therefor.
+		</section>
+		<section prefix="B">The tax on the gross receipts from each aircraft licensed for commercial use shall be paid by the dealer to the Commissioner on or before the twentieth day of each month.
+		</section>
+	</text>
+	<history>Code 1950, §§ 58-685.30, 58-685.32; 1974, c. 431; 1975, c. 424; 1977, c. 396; 1980, c. 109; 1984, cc. 370, 675.</history>
+</law>

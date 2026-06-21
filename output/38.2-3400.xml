@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3400</section_number>
+	<catch_line>Application of chapter</catch_line>
+	<text>
+		<section prefix="A">This chapter and Chapter 35 (§ 38.2-3500 et seq.) of this title apply to insurance policies or contracts of the class described in § 38.2-109 delivered or issued for delivery in this Commonwealth except as provided in subsection B of this section.
+		</section>
+		<section prefix="B">Nothing in this chapter shall apply to or affect:
+			<section prefix="1">Any workers' compensation insurance policy;
+			</section>
+			<section prefix="2">Any liability insurance policy with or without supplementary expense coverage, including any motor vehicle liability insurance policy, providing weekly indemnity or other specific benefits to persons who are injured and specific death benefits to dependents, beneficiaries or personal representatives of persons who are killed, irrespective of the legal liability of the insured or any other person;
+			</section>
+			<section prefix="3">Any policy or contract of reinsurance;
+			</section>
+			<section prefix="4">Life insurance or annuities;
+			</section>
+			<section prefix="5">Any industrial sick benefit insurance; or
+			</section>
+			<section prefix="6">Any credit accident and sickness insurance policy.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 38-225; 1950, p. 1016; 1952, c. 317, §§ 38.1-347, 38.1-360; 1956, c. 678; 1974, c. 95; 1975, c. 281; 1976, c. 355; 1977, c. 606; 1978, c. 496; 1979, cc. 13, 97; 1980, c. 719; 1986, c. 562.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="9" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-1047</section_number>
+	<catch_line>Judicial dissolution</catch_line>
+	<text>
+		<section prefix="A">On application by or for a member, the circuit court of the locality in which the registered office of the limited liability company is located may decree dissolution of a limited liability company if it is not reasonably practicable to carry on the business in conformity with the articles of organization and any operating agreement.
+		</section>
+		<section prefix="B">When the winding up of the affairs of the limited liability company has been completed, the court shall so advise the Commission, which shall enter an order of cancellation of the limited liability company's existence.
+		</section>
+	</text>
+	<history>1991, c. 168; 2008, c. 108.</history>
+</law>

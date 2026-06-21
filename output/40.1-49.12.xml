@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3" level="2">Protection of Employees</unit>
+		<unit label="article" identifier="5" level="3">Safety Provisions</unit>
+	</structure>
+	<section_number>40.1-49.12</section_number>
+	<catch_line>Review by courts</catch_line>
+	<text>
+		<section prefix="A">No court of the Commonwealth shall have jurisdiction to hear a challenge to the warrant prior to its return, except as a defense in a contempt proceeding, unless the owner or custodian of the place to be inspected makes by affidavit a substantial preliminary showing accompanied by an offer of proof that (i) a false statement, knowingly and intentionally, or with reckless disregard for the truth, was included by the affiant in his affidavit for the administrative search warrant and (ii) the false statement was necessary to the finding of probable cause. The court shall conduct such expeditious in camera review as the court may deem appropriate.
+		</section>
+		<section prefix="B">After the warrant has been executed and returned, the validity of the warrant may be reviewed either as a defense to any citation issued by the Commissioner or otherwise by declaratory judgment action brought in a circuit court. In any such action, the review shall be confined to the face of the warrant and affidavits and supporting materials presented to the issuing judge unless the employer whose workplace has been inspected makes by affidavit a substantial showing accompanied by an offer of proof that (i) a false statement, knowingly and intentionally, or with reckless disregard for the truth, was made in support of the warrant and (ii) the false statement was necessary to the finding of probable cause. The reviewing court shall not conduct a de novo determination of probable cause, but only determine whether there is substantial evidence in the record supporting the decision to issue the warrant.
+		</section>
+	</text>
+	<history>1987, c. 643; 2014, c. 354.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="22" level="2">Liability Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-2227</section_number>
+	<catch_line>Aircraft liability policy not to deny coverage for violation of federal or civil regulations, etc.; permitted exclusions or conditions</catch_line>
+	<text>
+		No insurance policy issued or delivered in this Commonwealth covering loss, expense, or liability arising out of the loss, maintenance, or use of an aircraft shall act to exclude or deny coverage because the aircraft is operated in violation of federal or civil regulations or any state or local ordinance. This section does not prohibit the use of specific exclusions or conditions in any policy that relates to any of the following:
+		<section prefix="1">Certification of an aircraft in a stated category by the Federal Aviation Administration;
+		</section>
+		<section prefix="2">Certification of a pilot in a stated category by the Federal Aviation Administration;
+		</section>
+		<section prefix="3">Establishing requirements for pilot experience; or
+		</section>
+		<section prefix="4">Restricting the use of the aircraft to the purposes stated in the policy.
+		</section>
+	</text>
+	<history>1970, c. 227, § 38.1-389.2; 1986, c. 562.</history>
+</law>

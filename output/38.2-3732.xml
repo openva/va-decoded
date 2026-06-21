@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="37.1" level="2">Credit Life Insurance and Credit Accident and Sickness Insurance</unit>
+	</structure>
+	<section_number>38.2-3732</section_number>
+	<catch_line>Insurer delegation of duties</catch_line>
+	<text>
+		Any insurer that delegates to a creditor any of its duties under the laws of this Commonwealth or the regulations of this Commission shall be responsible to see that such creditor discharges such duties in accordance with said laws and regulations. A finding by the Commission that either the insurer or its delegee has failed to comply with such requirements shall subject the insurer and creditor to any and all disciplinary actions authorized under this title. Such responsibility shall include but not be limited to a determination that:
+		<section prefix="1">Proper insurance rates are being charged by the creditor;
+		</section>
+		<section prefix="2">Proper refunds are being made;
+		</section>
+		<section prefix="3">Claims are being filed and properly handled;
+		</section>
+		<section prefix="4">Amounts of insurance payable on death in excess of the amounts necessary to discharge indebtedness are properly distributed; and
+		</section>
+		<section prefix="5">The creditor is promptly and fairly processing complaints concerning its credit insurance operations and is maintaining proper procedures for and records of complaints processed.
+		</section>
+	</text>
+	<history>1992, c. 586.</history>
+</law>

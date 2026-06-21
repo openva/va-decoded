@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="2" level="2">Parties</unit>
+		<unit label="article" identifier="3" level="3">Death or Change of Parties</unit>
+	</structure>
+	<section_number>8.01-17</section_number>
+	<catch_line>When party whose powers cease is defendant</catch_line>
+	<text>
+		<section prefix="A">When the party whose powers cease is a defendant, the plaintiff may continue his suit against him to final judgment or decree; provided that a successor in interest may be substituted in accordance with the Rules of Court; and provided further that upon motion the court may order that the suit proceed against the former party as well as the successor.
+		</section>
+		<section prefix="B">The provisions of this section shall not apply when a public officer who is a party in an official capacity dies, resigns, or otherwise ceases to hold office while an action is pending. In any such instance, such public officer's successor shall be automatically substituted as a party when the only claim in such action was made against the former public officer in his official capacity.
+		</section>
+	</text>
+	<history>Code 1950, § 8-152; 1954, c. 333; 1977, c. 617; 2025, c. 460.</history>
+</law>

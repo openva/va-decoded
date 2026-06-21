@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="10" level="3">Standard Valuation</unit>
+	</structure>
+	<section_number>38.2-1380</section_number>
+	<catch_line>Requirements of a principle-based valuation</catch_line>
+	<text>
+		<section prefix="A">An insurer shall establish reserves using a principle-based valuation that meets the following conditions for policies or contracts as specified in the valuation manual:
+			<section prefix="1">Quantify the benefits and guarantees, and the funding, associated with the contracts and their risks at a level of conservatism that reflects conditions that include unfavorable events that have a reasonable probability of occurring during the lifetime of the contracts. For policies or contracts with significant tail risk, reflects conditions appropriately adverse to quantify the tail risk;
+			</section>
+			<section prefix="2">Incorporate assumptions, risk analysis methods and financial models, and management techniques that are consistent with, but not necessarily identical to, those utilized within the insurer's overall risk assessment process, while recognizing potential differences in financial reporting structures and any prescribed assumptions or methods;
+			</section>
+			<section prefix="3">Incorporate assumptions that are derived in one of the following manners:
+				a. The assumption is prescribed in the valuation manual.
+				b. For assumptions that are not prescribed, the assumptions shall:
+				<section prefix="1">Be established utilizing the insurer's available experience, to the extent it is relevant and statistically credible; or
+				</section>
+				<section prefix="2">To the extent that insurer data is not available, relevant, or statistically credible, be established utilizing other relevant, statistically credible experience; and
+				</section>
+			</section>
+			<section prefix="4">Provide margins for uncertainty, including adverse deviation and estimation error, such that the greater the uncertainty the larger the margin and resulting reserve.
+			</section>
+		</section>
+		<section prefix="B">An insurer using a principle-based valuation for one or more policies or contracts subject to this section as specified in the valuation manual shall:
+			<section prefix="1">Establish procedures for corporate governance and oversight of the actuarial valuation function consistent with those described in the valuation manual.
+			</section>
+			<section prefix="2">Provide to the Commission and the board of directors an annual certification of the effectiveness of the internal controls with respect to the principle-based valuation. Such controls shall be designed to assure that all material risks inherent in the liabilities and associated assets subject to such valuation are included in the valuation, and that valuations are made in accordance with the valuation manual. The certification shall be based on the controls in place as of the end of the preceding calendar year.
+			</section>
+			<section prefix="3">Develop, and file with the Commission upon request, a principle-based valuation report that complies with standards prescribed in the valuation manual.
+			</section>
+		</section>
+		<section prefix="C">A principle-based valuation may include a prescribed formulaic reserve component.
+		</section>
+	</text>
+	<history>2014, c. 571.</history>
+</law>

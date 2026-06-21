@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="17" level="2">Judgments and Decrees Generally</unit>
+		<unit label="article" identifier="5" level="3">Keeping of Docket Books; Execution Thereon; Disposal of Exhibits</unit>
+	</structure>
+	<section_number>8.01-446.1</section_number>
+	<catch_line>Keeping of docket books by clerk of court using micrographic process; form</catch_line>
+	<text>
+		Whenever judgments are docketed in the judgment lien book in the office of the clerk of the circuit court and are recorded by a procedural micrographic process as provided in § 17.1-240, or by any other method or process which renders impractical or impossible the subsequent entry of notations upon the docketed judgment, an appropriate certificate of assignment, release, partial release, certified copy of any order, or other separate instrument setting forth the necessary information as provided in this section shall be recorded and indexed according to law. Such instrument shall conform substantially with the following form:
+		ORIGINAL BOOK # _____ PAGE _____ (or instrument no)
+		ORIGINAL DATE DOCKETED: ____________________
+		TYPE OF FILING (Check One)
+		( ) Assignment
+		( ) Release
+		( ) Partial Release
+		( ) Credit(s)
+		( ) Additional Debtor(s)
+		( ) New Name of Debtor
+		Date of Judgment: ____________________
+		Amount of Judgment: ____________________
+		Plaintiff(s): ________________________________________
+		Defendant(s): ________________________________________
+		Assignee (If assignment): ________________________________________
+		Payments (If credits): AMOUNT __________ DATE PAID __________
+		(Complete below if additional debtor or change of name of debtor)
+		Debtor: ________________________________________
+		Social Security Number of Debtor (Last Four Digits) (If known): __________
+		Given under my hand this __________ day of __________, __________
+		________________________________________(Plaintiff) (Attorney for Plaintiff)(Authorized Agent for Plaintiff)
+		Any judgment creditor who knowingly gives false information upon such certificate made under this section shall be guilty of a Class 1 misdemeanor.
+	</text>
+	<history>1985, c. 48; 2008, cc. 823, 833.</history>
+</law>

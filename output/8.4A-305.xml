@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4A" level="1">Commercial Code—Funds Transfers</unit>
+		<unit label="part" identifier="3" level="2">Execution of Sender's Payment Order by Receiving Bank</unit>
+	</structure>
+	<section_number>8.4A-305</section_number>
+	<catch_line>Liability for late or improper execution or failure to execute payment order</catch_line>
+	<text>
+		<section prefix="a">If a funds transfer is completed but execution of a payment order by the receiving bank in breach of § 8.4A-302 results in delay in payment to the beneficiary, the bank is obliged to pay interest to either the originator or the beneficiary of the funds transfer for the period of delay caused by the improper execution. Except as provided in subsection (c) of this section, additional damages are not recoverable.
+		</section>
+		<section prefix="b">If execution of a payment order by a receiving bank in breach of § 8.4A-302 results in (i) noncompletion of the funds transfer, (ii) failure to use an intermediary bank designated by the originator, or (iii) issuance of a payment order that does not comply with the terms of the payment order of the originator, the bank is liable to the originator for its expenses in the funds transfer and for incidental expenses and interest losses, to the extent not covered by subsection (a) of this section, resulting from the improper execution. Except as provided in subsection (c) of this section, additional damages are not recoverable.
+		</section>
+		<section prefix="c">In addition to the amounts payable under subsections (a) and (b) of this section, damages, including consequential damages, are recoverable to the extent provided in an express agreement of the receiving bank, evidenced by a record.
+		</section>
+		<section prefix="d">If a receiving bank fails to execute a payment order it was obliged by express agreement to execute, the receiving bank is liable to the sender for its expenses in the transaction and for incidental expenses and interest losses resulting from the failure to execute. Additional damages, including consequential damages, are recoverable to the extent provided in an express agreement of the receiving bank, evidenced by a record, but are not otherwise recoverable.
+		</section>
+		<section prefix="e">Reasonable attorney's fees are recoverable if demand for compensation under subsection (a) or (b) of this section is made and refused before an action is brought on the claim. If a claim is made for breach of an agreement under subsection (d) of this section, and the agreement does not provide for damages, reasonable attorney's fees are recoverable if demand for compensation under subsection (d) of this section, is made and refused before an action is brought on the claim.
+		</section>
+		<section prefix="f">Except as stated in this section, the liability of a receiving bank under subsections (a) and (b) of this section may not be varied by agreement.
+		</section>
+	</text>
+	<history>1990, c. 9; 2024, c. 652.</history>
+</law>

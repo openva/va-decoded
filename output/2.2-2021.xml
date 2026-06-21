@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="20.1" level="4">Virginia Information Technologies Agency</unit>
+		<unit label="article" identifier="2" level="5">Division of Project Management</unit>
+	</structure>
+	<section_number>2.2-2021</section_number>
+	<catch_line>Project oversight committees</catch_line>
+	<text>
+		<section prefix="A">Whenever the project charter has been approved for an enterprise information technology project, the Secretary shall establish an Internal Agency Oversight Committee (IAOC) and a Secretariat Oversight Committee (SOC). The IAOC shall represent all business or functional stakeholders of the project, including stakeholders in other agencies, assure that all stakeholders have the opportunity to work together toward a mutually beneficial integrated solution, have the authority to approve or reject any changes in the project's scope, schedule, or budget, provide oversight and direction to the project, and review and approve the schedule baseline and all project documentation. The SOC shall represent all business or functional stakeholders of the project, including stakeholders in other secretariats, validate the proposed project business case, review and make recommendations on changes in the project's scope, schedule, or budget, and review Independent Verification and Validation reports and recommend corrective actions if needed.
+		</section>
+		<section prefix="B">For all other projects, other than enterprise information technology projects, the CIO shall establish an IAOC and an SOC in accordance with the Commonwealth Project Management Standard.
+		</section>
+	</text>
+	<history>2003, cc. 981, 1021; 2010, cc. 136, 145; 2011, c. 739; 2015, c. 768; 2016, c. 296.</history>
+</law>

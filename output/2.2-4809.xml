@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="48" level="4">Virginia Debt Collection Act</unit>
+	</structure>
+	<section_number>2.2-4809</section_number>
+	<catch_line>Agreement authorized; setoff federal debts</catch_line>
+	<text>
+		<section prefix="A">The Comptroller is authorized to enter into an agreement with the United States to participate in the Treasury Offset Program pursuant to 31 U.S.C. § 3716 for the collection of any debts owed to state agencies. The agreement may provide for the United States to submit debts owed to federal agencies for offset against state payments similar to the procedures for offsetting debts owed to state agencies.
+		</section>
+		<section prefix="B">The Treasurer shall reduce any state payment by the amount of any federal debt submitted in accordance with the agreement authorized by this section, and pay such amount to the appropriate federal official in accordance with the procedures specified in such agreement.
+		</section>
+	</text>
+	<history>2008, c. 314.</history>
+</law>

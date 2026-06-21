@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="1" level="3">Default and Enforcement of Security Interest</unit>
+	</structure>
+	<section_number>8.9A-619</section_number>
+	<catch_line>Transfer of record or legal title</catch_line>
+	<text>
+		<section prefix="a">"Transfer statement." In this section, "transfer statement" means a record signed by a secured party stating:
+			<section prefix="1">that the debtor has defaulted in connection with an obligation secured by specified collateral;
+			</section>
+			<section prefix="2">that the secured party has exercised its postdefault remedies with respect to the collateral;
+			</section>
+			<section prefix="3">that, by reason of the exercise, a transferee has acquired the rights of the debtor in the collateral; and
+			</section>
+			<section prefix="4">the name and mailing address of the secured party, debtor, and transferee.
+			</section>
+		</section>
+		<section prefix="b">Effect of transfer statement. A transfer statement entitles the transferee to the transfer of record of all rights of the debtor in the collateral specified in the statement in any official filing, recording, registration, or certificate-of-title system covering the collateral. If a transfer statement is presented with the applicable fee and request form to the official or office responsible for maintaining the system, the official or office shall:
+			<section prefix="1">accept the transfer statement;
+			</section>
+			<section prefix="2">promptly amend its records to reflect the transfer; and
+			</section>
+			<section prefix="3">if applicable, issue a new appropriate certificate of title in the name of the transferee.
+			</section>
+		</section>
+		<section prefix="c">Transfer not a disposition; no relief of secured party's duties. A transfer of the record or legal title to collateral to a secured party under subsection (b) or otherwise is not of itself a disposition of collateral under this title and does not of itself relieve the secured party of its duties under this title.
+		</section>
+	</text>
+	<history>2000, c. 1007; 2024, c. 652.</history>
+</law>

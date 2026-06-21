@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="5" level="2">Performance</unit>
+	</structure>
+	<section_number>8.2-505</section_number>
+	<catch_line>Seller's shipment under reservation</catch_line>
+	<text>
+		<section prefix="1">Where the seller has identified goods to the contract by or before shipment:
+			<section prefix="a">his procurement of a negotiable bill of lading to his own order or otherwise reserves in him a security interest in the goods. His procurement of the bill to the order of a financing agency or of the buyer indicates in addition only the seller's expectation of transferring that interest to the person named.
+			</section>
+			<section prefix="b">a nonnegotiable bill of lading to himself or his nominee reserves possession of the goods as security but except in a case of conditional delivery (subsection (2) of § 8.2-507) a nonnegotiable bill of lading naming the buyer as consignee reserves no security interest even though the seller retains possession or control of the bill of lading.
+			</section>
+		</section>
+		<section prefix="2">When shipment by the seller with reservation of a security interest is in violation of the contract for sale it constitutes an improper contract for transportation within the preceding section [ § 8.2-504 ] but impairs neither the rights given to the buyer by shipment and identification of the goods to the contract nor the seller's powers as a holder of a negotiable document of title.
+		</section>
+	</text>
+	<history>1964, c. 219; 2004, c. 200.</history>
+</law>

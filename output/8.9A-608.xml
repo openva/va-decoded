@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="1" level="3">Default and Enforcement of Security Interest</unit>
+	</structure>
+	<section_number>8.9A-608</section_number>
+	<catch_line>Application of proceeds of collection or enforcement; liability for deficiency and right to surplus</catch_line>
+	<text>
+		<section prefix="a">Application of proceeds, surplus, and deficiency if obligation secured. If a security interest or agricultural lien secures payment or performance of an obligation, the following rules apply:
+			<section prefix="1">A secured party shall apply or pay over for application the cash proceeds of collection or enforcement under § 8.9A-607 in the following order to:
+			</section>
+		</section>
+		<section prefix="A">the reasonable expenses of collection and enforcement and, to the extent provided for by agreement and not prohibited by law, reasonable attorney's fees and legal expenses incurred by the secured party;
+		</section>
+		<section prefix="B">the satisfaction of obligations secured by the security interest or agricultural lien under which the collection or enforcement is made; and
+		</section>
+		<section prefix="C">the satisfaction of obligations secured by any subordinate security interest in or other lien on the collateral subject to the security interest or agricultural lien under which the collection or enforcement is made if the secured party receives a signed demand for proceeds before distribution of the proceeds is completed.
+			<section prefix="2">If requested by a secured party, a holder of a subordinate security interest or other lien shall furnish reasonable proof of the interest or lien within a reasonable time. Unless the holder complies, the secured party need not comply with the holder's demand under subsection (a) (1) (C).
+			</section>
+			<section prefix="3">A secured party need not apply or pay over for application noncash proceeds of collection and enforcement under § 8.9A-607 unless the failure to do so would be commercially unreasonable. A secured party that applies or pays over for application noncash proceeds shall do so in a commercially reasonable manner.
+			</section>
+			<section prefix="4">A secured party shall account to and pay a debtor for any surplus, and the obligor is liable for any deficiency.
+			</section>
+		</section>
+		<section prefix="b">No surplus or deficiency in sales of certain rights to payment. If the underlying transaction is a sale of accounts, chattel paper, payment intangibles, or promissory notes, the debtor is not entitled to any surplus, and the obligor is not liable for any deficiency.
+		</section>
+	</text>
+	<history>2000, c. 1007; 2024, c. 652.</history>
+</law>

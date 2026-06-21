@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8.1" level="3">Derivative Proceedings and Other Shareholder Actions</unit>
+	</structure>
+	<section_number>13.1-672.4</section_number>
+	<catch_line>Dismissal</catch_line>
+	<text>
+		<section prefix="A">A derivative proceeding shall be dismissed by the court on motion by the corporation if one of the groups specified in subsection B or E has:
+			<section prefix="1">Conducted a review and evaluation, adequately informed in the circumstances, of the allegations made in the demand or complaint;
+			</section>
+			<section prefix="2">Determined in good faith on the basis of that review and evaluation that the maintenance of the derivative proceeding is not in the best interests of the corporation; and
+			</section>
+			<section prefix="3">Submitted in support of the motion a short and concise statement of the reasons for its determination.
+			</section>
+		</section>
+		<section prefix="B">Unless a panel is appointed pursuant to subsection E, the determination in subsection A shall be made by:
+			<section prefix="1">A majority vote of disinterested directors present at a meeting of the board of directors if the disinterested directors constitute a quorum; or
+			</section>
+			<section prefix="2">A majority vote of a committee consisting of two or more disinterested directors appointed by a majority vote of disinterested directors present at a meeting of the board of directors, regardless of whether such disinterested directors constituted a quorum.
+			</section>
+		</section>
+		<section prefix="C">If a derivative proceeding is commenced after a determination has been made rejecting a demand by a shareholder, the complaint shall allege with particularity facts establishing that the requirements of subsection A or B have not been met. With respect to any allegation that the requirements of subsection A or B have not been met, the plaintiff shall be entitled to discovery if, and only with respect to, facts that are alleged in the complaint with particularity.
+		</section>
+		<section prefix="D">The plaintiff shall have the burden of proving that the requirements of subsection A or B have not been met, except that the corporation shall have the burden with respect to the issue of disinterestedness under subsection B if the complaint alleges with particularity facts raising a substantial question as to such disinterestedness.
+		</section>
+		<section prefix="E">Upon motion by the corporation, the court may appoint a panel of disinterested persons to make a determination whether the maintenance of the derivative proceeding is in the best interests of the corporation.
+		</section>
+	</text>
+	<history>1992, c. 802; 1993, c. 233; 2005, c. 765; 2019, c. 734.</history>
+</law>

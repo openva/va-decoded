@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="2" level="3">Jurisdiction</unit>
+	</structure>
+	<section_number>20-146.20</section_number>
+	<catch_line>Information to be submitted to court</catch_line>
+	<text>
+		<section prefix="A">In a child custody proceeding, each party, in its first pleading or in an attached affidavit, shall give information, if reasonably ascertainable, under oath as to the child's present address or whereabouts, the places where the child has lived during the past five years, and the names and present addresses of the persons with whom the child has lived during that period. The pleading or affidavit must state whether the party:
+			<section prefix="1">Has participated, as a party or witness or in any other capacity, in any other proceeding concerning the custody of or visitation with the child and, if so, identify the court, the case number, and the date of the child custody determination, if any;
+			</section>
+			<section prefix="2">Knows of any proceeding that could affect the current proceeding, including proceedings for enforcement and proceedings relating to domestic violence, protective orders, termination of parental rights, and adoptions, and, if so, identify the court, the case number, and the nature of the proceeding; and
+			</section>
+			<section prefix="3">Knows the names and addresses of any persons not a party to the proceeding who has physical custody of the child or claims rights of legal custody or physical custody of, or visitation with, the child and, if so, the names and addresses of those persons.
+			</section>
+		</section>
+		<section prefix="B">If the information required by subsection A is not furnished, the court, upon motion of a party or its own motion, may stay the proceeding until the information is furnished.
+		</section>
+		<section prefix="C">If the declaration as to any of the items described in subdivisions A 1, A 2, and A 3 is in the affirmative, the declarant shall give additional information under oath as required by the court. The court may examine the parties under oath as to details of the information furnished and other matters pertinent to the court's jurisdiction and the disposition of the case.
+		</section>
+		<section prefix="D">Each party has a continuing duty to inform the court of any proceeding in this or any other state that could affect the current proceeding.
+		</section>
+		<section prefix="E">If a party alleges in an affidavit or a pleading under oath that the health, safety, or liberty of a party or child would be jeopardized by disclosure of identifying information, the information shall be sealed and may not be disclosed to the other party or the public unless the court orders the disclosure to be made after a hearing in which the court takes into consideration the health, safety, or liberty of the party or child. In such a hearing the court shall make a written finding that the disclosure is or is not in the interest of justice. Such hearing and written finding of the issue of disclosure shall be held and made by the court within 15 days of the filing of a pleading or affidavit.
+		</section>
+	</text>
+	<history>1979, c. 229; 1982, c. 519, § 20-132; 2001, c. 305; 2020, c. 42.</history>
+</law>

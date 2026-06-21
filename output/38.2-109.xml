@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions</unit>
+		<unit label="article" identifier="2" level="3">Insurance Classified and Defined</unit>
+	</structure>
+	<section_number>38.2-109</section_number>
+	<catch_line>Accident and sickness</catch_line>
+	<text>
+		<section prefix="A">"Accident and sickness insurance" means insurance against loss resulting from sickness, or from bodily injury or death by accident or accidental means, or from a combination of any or all of these perils. As used in this title, unless the context requires otherwise, the term "accident and sickness insurance" shall be deemed to include "credit accident and sickness insurance."
+		</section>
+		<section prefix="B">The term "accident and sickness insurance" shall also include agreements insuring against losses resulting from health care claims or expenses of health care in excess of a specific or aggregate dollar amount, when such agreements are used to provide coverage to (i) an employee welfare benefit plan or any other plan providing accident and sickness benefits, (ii) a health maintenance organization, or (iii) a provider associated with a managed care network, provided:
+			<section prefix="1">The agreement clearly discloses the extent and duration of the liability assumed by the insurer once the policyholder's liability has been exceeded; and
+			</section>
+			<section prefix="2">The insurer maintains reserves in accordance with § 38.2-1314 for the liability it assumes under the agreement.
+				Such agreements shall not be subject to the requirements of Chapters 34 (§ 38.2-3400 et seq.) and 35 (§ 38.2-3500 et seq.) of this title.
+			</section>
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-5; 1986, c. 562; 1997, c. 28.</history>
+</law>

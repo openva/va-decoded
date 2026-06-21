@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.1" level="4">Uniform Trust Decanting Act</unit>
+	</structure>
+	<section_number>64.2-779.13</section_number>
+	<catch_line>Change in compensation</catch_line>
+	<text>
+		<section prefix="A">If a first-trust instrument specifies an authorized fiduciary's compensation, the fiduciary may not exercise the decanting power to increase the fiduciary's compensation above the specified compensation unless:
+			<section prefix="1">All qualified beneficiaries of the second trust consent to the increase in a signed record; or
+			</section>
+			<section prefix="2">The increase is approved by the court.
+			</section>
+		</section>
+		<section prefix="B">If a first-trust instrument does not specify an authorized fiduciary's compensation, the fiduciary may not exercise the decanting power to increase the fiduciary's compensation above the compensation permitted by this chapter unless:
+			<section prefix="1">All qualified beneficiaries of the second trust consent to the increase in a signed record; or
+			</section>
+			<section prefix="2">The increase is approved by the court.
+			</section>
+		</section>
+		<section prefix="C">A change in an authorized fiduciary's compensation that is incidental to other changes made by the exercise of the decanting power is not an increase in the fiduciary's compensation for purposes of subsections A and B.
+		</section>
+	</text>
+	<history>2017, c. 592.</history>
+</law>

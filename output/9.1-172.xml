@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="8" level="3">Law-Enforcement Expenditures</unit>
+	</structure>
+	<section_number>9.1-172</section_number>
+	<catch_line>Periodic determination of weights and constants</catch_line>
+	<text>
+		Prior to the convening of the General Assembly in each even-numbered year, the Department shall determine whether the variables incorporated in the equation used in the distribution formula are statistically acceptable for such computation, and to determine whether any other variables would be better predictors of crime. If, as a result of this research, the Department determines that the variables used in the equation should be changed, it shall recommend to the General Assembly appropriate legislation to accomplish this change.
+	</text>
+	<history>1979, c. 83, § 14.1-84.7; 1981, c. 485; 1998, c. 872, § 9-183.21; 2001, c. 844.</history>
+</law>

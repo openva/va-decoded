@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="20" level="3">Regulation of Passenger Carriers</unit>
+		<unit label="article" identifier="13" level="4">Excursion Trains</unit>
+	</structure>
+	<section_number>46.2-2099.43</section_number>
+	<catch_line>Notice to passengers</catch_line>
+	<text>
+		The operator of an excursion train shall:
+		<section prefix="1">Issue each passenger a ticket with the following statement in twelve point boldface type: "THE RAILROAD COMPANY WHICH OWNS THE TRACKS AND FACILITIES UPON WHICH THIS EXCURSION TRAIN OPERATES SHALL NOT BE LIABLE FOR PERSONAL INJURY OR WRONGFUL DEATH ARISING FROM THE OPERATION OF THE EXCURSION TRAIN, INCLUDING OPERATIONS, MAINTENANCE, AND SIGNALIZATION OF THE TRACKS AND FACILITIES."
+		</section>
+		<section prefix="2">Post a notice near any passenger boarding area containing the same statement contained in subdivision 1, in letters that are at least two inches high.
+		</section>
+	</text>
+	<history>2001, c. 596.</history>
+</law>

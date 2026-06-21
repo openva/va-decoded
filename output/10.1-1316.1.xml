@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="13" level="3">Air Pollution Control Board</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>10.1-1316.1</section_number>
+	<catch_line>Severe ozone nonattainment areas; fees</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsection C, any owner of a stationary source that emits or has the potential to emit 25 tons or more per year of volatile organic compounds or 25 tons or more of nitrogen oxides and is located in an area designated by the U.S. Environmental Protection Agency as a severe ozone nonattainment area shall pay a fee to the Department for deposit in the Vehicle Emissions Inspection Program Fund, established pursuant to § 46.2-1182.2 to be used for air quality evaluation and improvements, if the area fails to attain the ambient air quality standard for ozone by the applicable attainment date established pursuant to 42 U.S.C. §§ 7502 and 7511 of the Clean Air Act. Such fees shall be assessed for emissions in each calendar year beginning in the year after the attainment date and for each calendar year thereafter as set forth in this section and shall continue until the area is redesignated as an attainment area for the ozone standard.
+		</section>
+		<section prefix="B">The fee shall be determined in accordance with the following:
+			<section prefix="1">The fee shall equal $5,000, adjusted in accordance with subdivision B 3, per ton of volatile organic compounds or nitrogen oxides emitted by the stationary source during the previous calendar year in excess of 80 percent of the baseline amount, computed under subdivision B 2.
+			</section>
+			<section prefix="2">For purposes of this section, the baseline amount shall be the lower of (i) the amount of actual volatile organic compounds or nitrogen oxide emissions or (ii) the amount of volatile organic compounds or nitrogen oxide emissions allowed under the permit applicable to the stationary source during the attainment year, or, if no such permit has been issued for the attainment year, the amount of volatile organic compounds or nitrogen oxide emissions allowed under the applicable implementation plan during the attainment year. The Department may calculate the baseline amount over a period of more than one calendar year, provided such determination is consistent with federal requirements.
+			</section>
+			<section prefix="3">The fee amount under subdivision B 1 shall be adjusted each year beginning in 1991 by the percentage, if any, by which the Consumer Price Index for the most recent calendar year ending before the beginning of such year exceeds the Consumer Price Index for the calendar year 1989. The Consumer Price Index for any calendar year is the average of the Consumer Price Index for all urban consumers published by the U.S. Department of Labor as of the close of the 12-month period ending on August 31 of each calendar year. The revision of the Consumer Price Index that is most consistent with the Consumer Price Index for the calendar year 1989 shall be used.
+			</section>
+		</section>
+		<section prefix="C">Notwithstanding any provision of this section, no owner shall be required to pay any fee under subsection A with respect to emissions during any year that is treated as an extension year under 42 U.S.C. § 7511 (a)(5) of the Clean Air Act and no owner shall be required to pay any fee under subsection A if such fees would not otherwise be imposed pursuant to 42 U.S.C. § 7511d.
+		</section>
+		<section prefix="D">Payment is due by August 31 of each year. The Department shall issue annual notices of the fees to owners on or before August 1 of each year. Each notice shall include a summary of the data on which the fee is based. The Board may establish additional procedures for the assessment and collection of such fees. The failure to pay within 90 days from the receipt of the notice shall be grounds to institute a collection action against the owner of the stationary source.
+		</section>
+		<section prefix="E">Fees collected pursuant to this section shall not supplant or reduce the general fund appropriation to the Department.
+		</section>
+		<section prefix="F">These fees shall be used to pay expenses related to air quality monitoring and evaluation in the Commonwealth and measures to improve air quality in areas designated by the U.S. Environmental Protection Agency as severe nonattainment areas. The fees that may be generated may be used for matching grants.
+		</section>
+	</text>
+	<history>2004, c. 408.</history>
+</law>

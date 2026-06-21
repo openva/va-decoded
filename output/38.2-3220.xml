@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="32" level="2">Standard Nonforfeiture Provisions for Life Insurance</unit>
+	</structure>
+	<section_number>38.2-3220</section_number>
+	<catch_line>Nonforfeiture requirements</catch_line>
+	<text>
+		<section prefix="A">For contracts issued on or after the operative date as defined in § 38.2-3229, no contract of annuity, except as stated in § 38.2-3219, shall be delivered or issued for delivery in this Commonwealth unless it contains in substance the following provisions and statements, or corresponding provisions and statements that in the opinion of the Commission are at least as favorable to the contract holder, upon cessation of payment of consideration under the contract:
+			<section prefix="1">That upon cessation of payment of considerations under a contract, or upon the written request of the contract holder, the insurer shall grant a paid-up annuity benefit on a plan stipulated in the contract of the value specified in §§ 38.2-3222 through 38.2-3225 and 38.2-3227.
+			</section>
+			<section prefix="2">If a contract provides for a lump sum settlement at maturity or at any other time, a provision that upon surrender of the contract at or before the beginning of any annuity payments, the insurer shall pay instead of any paid-up annuity benefits a cash surrender benefit of the amount specified in §§ 38.2-3222, 38.2-3223, 38.2-3225 and 38.2-3227. The insurer may reserve the right to defer the payment of the cash surrender benefit for up to six months after demand for payment with surrender of the contract after making written request and receiving the written approval of the Commission. The request shall address the necessity and equitability to all contract holders of the deferral.
+			</section>
+			<section prefix="3">A statement of the mortality table and interest rates used in calculating any minimum paid-up annuity, cash surrender or death benefits that are guaranteed under the contract, together with sufficient information to determine the amounts of those benefits.
+			</section>
+			<section prefix="4">That any paid-up annuity, cash surrender or death benefits that may be available under the contract are not less than the minimum benefits required by any statute of the state in which the contract is delivered and an explanation of how the existence of any additional amounts credited by the insurer to the contract, any indebtedness to the insurer on the contract or any prior withdrawals from or partial surrenders of the contract affects the benefits.
+			</section>
+		</section>
+		<section prefix="B">Notwithstanding the requirements of this subsection, any deferred annuity contract may provide that if no considerations have been received under a contract for a period of two full years and the portion of the paid-up annuity benefit at maturity on the plan stipulated in the contract arising from considerations paid prior to that period would be less than $20 monthly, the insurer may at its option terminate the contract by payment in cash of the then present value of the portion of the paid-up annuity benefit, calculated on the basis of the mortality table, if any, and interest rate specified in the contract for determining the paid-up annuity benefit. This payment shall relieve the insurer of any further obligation under the contract.
+		</section>
+	</text>
+	<history>1979, c. 437, § 38.1-470.1; 1986, c. 562; 2004, c. 313.</history>
+</law>

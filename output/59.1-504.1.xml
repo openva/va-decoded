@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="4" level="3">Warranties</unit>
+	</structure>
+	<section_number>59.1-504.1</section_number>
+	<catch_line>Warranty and obligations concerning noninterference and noninfringement</catch_line>
+	<text>
+		<section prefix="a">A licensor of information that is a merchant regularly dealing in information of the kind warrants that the information will be delivered free of the rightful claim of any third person by way of infringement or misappropriation, but a licensee that furnishes detailed specifications to the licensor and the method required for meeting the specifications holds the licensor harmless against any such claim that arises out of compliance with either the required specification or the required method except for a claim that results from the failure of the licensor to adopt, or notify the licensee of, a noninfringing alternative of which the licensor had reason to know.
+		</section>
+		<section prefix="b">A licensor warrants:
+			<section prefix="1">for the duration of the license, that no person holds a rightful claim to, or interest in, the information which arose from an act or omission of the licensor, other than a claim by way of infringement or misappropriation, which will interfere with the licensee's enjoyment of its interest; and
+			</section>
+			<section prefix="2">as to rights granted exclusively to the licensee, that within the scope of the license:
+			</section>
+		</section>
+		<section prefix="A">to the knowledge of the licensor, any licensed patent rights are valid and exclusive to the extent exclusivity and validity are recognized by the law under which the patent rights were created; and
+		</section>
+		<section prefix="B">in all other cases, the licensed informational rights are valid and exclusive for the information as a whole to the extent exclusivity and validity are recognized by the law applicable to the licensed rights in a jurisdiction to which the license applies.
+		</section>
+		<section prefix="c">The warranties in this section are subject to the following rules:
+			<section prefix="1">If the licensed informational rights are subject to a right of privileged use, collective administration, or compulsory licensing, the warranty is not made with respect to those rights.
+			</section>
+			<section prefix="2">The obligations under subsections (a) and (b) (2) apply solely to informational rights arising under the laws of the United States or a state, unless the contract expressly provides that the warranty obligations extend to rights under the laws of other countries. Language is sufficient for this purpose if it states, "The licensor warrants exclusivity, noninfringement, in specified countries, worldwide," or words of similar import. In that case, the warranty extends to the specified country or, in the case of a reference to "worldwide" or the like, to all countries within the description, but only to the extent the rights are recognized under a treaty or international convention to which the country and the United States are signatories.
+			</section>
+			<section prefix="3">The warranties under subsections (a) and (b) (2) are not made by a license that merely permits use, or covenants not to claim infringement because of the use, of rights under a licensed patent.
+			</section>
+		</section>
+		<section prefix="d">Except as otherwise provided in subsection (e), a warranty under this section may be disclaimed or modified only by specific language or by circumstances that give the licensee reason to know that the licensor does not warrant that competing claims do not exist or that the licensor purports to grant only the rights it may have. An obligation to hold harmless under subsection (a) may be disclaimed or modified only by specific language or by circumstances giving the licensor reason to know that the licensee does not provide a hold-harmless obligation to the licensor. In an automated transaction, language is sufficient if it is conspicuous. Otherwise, language in a record is sufficient if it states:
+			<section prefix="1">as to the licensor's obligation, "There is no warranty against interference with your enjoyment of the information or against infringement," or words of similar import; or
+			</section>
+			<section prefix="2">as to the licensee's obligation, "There is no obligation to hold you harmless from any actions taken in compliance with the specifications or methods furnished to me under this contract," or words of similar import.
+			</section>
+		</section>
+		<section prefix="e">Between merchants, a grant of a "quitclaim," or a grant in similar terms, grants the information or informational rights without an implied warranty as to infringement or misappropriation or as to the rights actually possessed or transferred by the licensor.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2004, c. 794.</history>
+</law>

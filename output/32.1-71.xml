@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="9" level="3">Statewide Cancer Registry</unit>
+	</structure>
+	<section_number>32.1-71</section_number>
+	<catch_line>Confidential nature of information supplied; publication; reciprocal data-sharing agreements</catch_line>
+	<text>
+		<section prefix="A">The Commissioner and all persons to whom information is submitted in accordance with § 32.1-70 shall keep such information confidential. Except as authorized by the Commissioner in accordance with the provisions of § 32.1-41, no release of any such information shall be made except in the form of statistical or other studies which do not identify individual cases.
+		</section>
+		<section prefix="B">The Commissioner may enter into reciprocal data-sharing agreements with other cancer registries for the exchange of information. Upon the provision of satisfactory assurances for the preservation of the confidentiality of such information, patient-identifying information may be exchanged with other cancer registries which have entered into reciprocal data-sharing agreements with the Commissioner.
+		</section>
+	</text>
+	<history>Code 1950, § 32-389; 1950, p. 187; 1979, c. 711; 1991, c. 319; 2000, cc. 74, 139.</history>
+</law>

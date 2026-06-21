@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4331</section_number>
+	<catch_line>Contract pricing arrangements</catch_line>
+	<text>
+		<section prefix="A">Except as prohibited in this section, public contracts may be awarded on a fixed price or cost reimbursement basis, or on any other basis that is not prohibited.
+		</section>
+		<section prefix="B">Except in case of emergency affecting the public health, safety, or welfare, no public contract shall be awarded on the basis of cost plus a percentage of cost.
+		</section>
+		<section prefix="C">The following contract pricing arrangements shall not be prohibited by this section:
+			<section prefix="1">A policy or contract of insurance or prepaid coverage having a premium computed on the basis of claims paid or incurred, plus the insurance carrier's administrative costs and retention stated in whole or part as a percentage of such claims; or
+			</section>
+			<section prefix="2">A cost plus a percentage of the private investment made by a private entity as a basis for the procurement of commercial or financial consulting services related to a qualifying transportation facility under the Public-Private Transportation Act of 1995 (§ 33.2-1800 et seq.) or a qualifying project under the Public-Private Education Facilities and Infrastructure Act of 2002 (§ 56-575.1 et seq.) where the commercial or financial consulting services are sought to solicit or to solicit and evaluate proposals for the qualifying transportation facility or the qualifying project. As used in this section, "private entity" and "qualifying transportation facility" mean the same as those terms are defined in § 33.2-1800 and "qualifying project" means the same as that term is defined in § 56-575.1.
+			</section>
+		</section>
+	</text>
+	<history>1982, c. 647, § 11-43; 2001, c. 844; 2013, c. 496.</history>
+</law>

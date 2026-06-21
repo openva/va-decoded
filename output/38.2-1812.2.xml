@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="18" level="2">Insurance Agents</unit>
+		<unit label="article" identifier="1" level="3">Definitions and General Provisions</unit>
+	</structure>
+	<section_number>38.2-1812.2</section_number>
+	<catch_line>Administrative charges in excess of premium prohibited; exceptions</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding the provisions of § 38.2-310 and Article 4 (§ 38.2-1837 et seq.) of this chapter, no agent shall charge, or demand or receive from, an applicant for insurance or a policyholder any consideration in return for rendering services associated with a contract of insurance, when the consideration is in addition to the premium for such contract, unless:
+			<section prefix="1">The applicant or policyholder consents in writing before any services are rendered. Consent shall be provided on a form that includes the applicant's or policyholder's signature, the duration of services and amount of fees to be charged, the services for which the fees are charged, and a statement that the agent is entitled to receive a commission from the insurer for selling, soliciting, or negotiating the insurance; and
+			</section>
+			<section prefix="2">A schedule of fees and documentation for services rendered is maintained in the agent's office and is made available to applicants or policyholders upon request.
+			</section>
+		</section>
+		<section prefix="B">This section shall not apply to charges for services described in subsection C of § 38.2-4608 when provided by title insurance agents.
+		</section>
+		<section prefix="C">This section shall apply to new and renewal policies issued or renewed on or after July 1, 1999.
+		</section>
+	</text>
+	<history>1999, c. 2; 2001, c. 706.</history>
+</law>

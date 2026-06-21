@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="9" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-1046</section_number>
+	<catch_line>Dissolution; generally</catch_line>
+	<text>
+		A limited liability company organized under this chapter is dissolved and its affairs shall be wound up upon the happening of the first to occur of the following events:
+		<section prefix="1">At the time or on the happening of any events specified in writing in the articles of organization or an operating agreement;
+		</section>
+		<section prefix="2">Upon the unanimous written consent of the members;
+		</section>
+		<section prefix="3">The entry of a decree of judicial dissolution under § 13.1-1047;
+		</section>
+		<section prefix="4">Automatic cancellation of its existence pursuant to § 13.1-1050.2; or
+		</section>
+		<section prefix="5">Involuntary cancellation of its existence pursuant to § 13.1-1050.3.
+		</section>
+	</text>
+	<history>1991, c. 168; 1994, c. 348; 1995, c. 168; 1996, c. 265; 1997, c. 190; 1998, c. 432; 2000, c. 581; 2001, c. 548; 2008, cc. 108, 588, 770; 2009, c. 167.</history>
+</law>

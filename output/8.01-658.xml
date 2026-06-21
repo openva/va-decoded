@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="25" level="2">Extraordinary Writs</unit>
+		<unit label="article" identifier="3" level="3">Habeas Corpus</unit>
+	</structure>
+	<section_number>8.01-658</section_number>
+	<catch_line>When and from whom response required; dismissal of habeas petition without prejudice</catch_line>
+	<text>
+		<section prefix="A">Except as may be provided in the Rules of Supreme Court of Virginia, no response to a petition for a writ of habeas corpus shall be required except upon an order of the court, directed to the person in whose custody the petitioner is detained or on the person having the immediate or potential custody of him, and made returnable as soon as may be before the court ordering the same.
+		</section>
+		<section prefix="B">When the petition challenges a criminal conviction or sentence:
+			<section prefix="1">If the petitioner is in jail, prison, or other actual physical restraint due to the conviction or sentence he is attacking, the named respondent shall be (i) the Director of the Department of Corrections or the warden or superintendent of the state correctional facility where the petitioner is detained if the petitioner has been committed to, or is subject to transfer to, the Department of Corrections or (ii) the sheriff or superintendent of a local or regional jail facility if the petitioner's sentence will be served in such local or regional jail facility.
+			</section>
+			<section prefix="2">If the petitioner is on probation or parole due to the conviction or sentence he is attacking, the named respondent shall be the probation or parole officer responsible for supervising the applicant or the official in charge of the parole or probation agency.
+			</section>
+			<section prefix="3">If a petitioner has a suspended sentence and is not under supervision by a probation or parole officer, the respondent shall be (i) the local sheriff if the judgment of conviction the petitioner challenges has a suspended sentence of less than one year or (ii) the Director of the Department of Corrections if the judgment of conviction the petitioner challenges has a suspended sentence of one year or more.
+			</section>
+		</section>
+		<section prefix="C">The petitioner shall name a proper party respondent, and if he fails to do so, the court may allow amendment of the petition. If the petitioner fails to amend the petition by naming a proper party respondent in the time provided by the court, the court in which the petition is filed shall dismiss the habeas petition without prejudice.
+		</section>
+		<section prefix="D">If the court in which the petition was filed determines that the petitioner's allegations present a case for the determination of unrecorded matters of fact relating to a previous judicial proceeding in any circuit court, the court may transfer the petition to the circuit court in which such judicial proceeding occurred, or if the petition was filed in the Supreme Court, the Court may require the circuit court in which such judicial proceeding occurred to conduct an evidentiary hearing, in accordance with such procedures as may be set forth in the Rules of Supreme Court of Virginia.
+		</section>
+	</text>
+	<history>Code 1950, § 8-599; 1977, c. 617; 2015, c. 554; 2019, cc. 8, 48.</history>
+</law>

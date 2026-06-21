@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>13.1-806</section_number>
+	<catch_line>Effective time and date of document</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in § 13.1-807, a certificate issued by the Commission is effective at the time such certificate is issued, unless the certificate relates to articles filed with the Commission and the articles state that the certificate shall become effective at a later time or date specified in the articles. In that event the certificate shall become effective at the earlier of the time and date so specified or 11:59 p.m. on the fifteenth day after the date on which the certificate is issued by the Commission. If a delayed effective date is specified, but no time is specified, the effective time shall be 12:01 a.m. on the date specified. Any other document filed with the Commission shall be effective when accepted for filing unless otherwise provided for in this chapter.
+		</section>
+		<section prefix="B">Notwithstanding subsection A, any certificate that has a delayed effective time or date shall not become effective if, prior to the effective time and date, a statement of cancellation signed by each party to the articles to which the certificate relates is delivered to the Commission for filing. If the Commission finds that the statement of cancellation complies with the requirements of law, it shall, by order, cancel the certificate.
+		</section>
+		<section prefix="C">A statement of cancellation shall contain:
+			<section prefix="1">The name of the corporation;
+			</section>
+			<section prefix="2">The name of the articles and the date on which the articles were filed with the Commission;
+			</section>
+			<section prefix="3">The time and date on which the Commission's certificate becomes effective; and
+			</section>
+			<section prefix="4">A statement that the articles are being canceled in accordance with this section.
+			</section>
+		</section>
+		<section prefix="D">Notwithstanding subsection A, for purposes of §§ 13.1-829 and 13.1-924, any certificate that has a delayed effective date shall be deemed to be effective when the certificate is issued.
+		</section>
+		<section prefix="E">For articles with a delayed effective date and time, the effective date and time shall be Eastern Time.
+		</section>
+	</text>
+	<history>1985, c. 522; 2007, c. 925; 2021, Sp. Sess. I, c. 487.</history>
+</law>

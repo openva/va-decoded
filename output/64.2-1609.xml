@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="B" level="3">Powers of Attorney</unit>
+		<unit label="chapter" identifier="16" level="4">Uniform Power of Attorney Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>64.2-1609</section_number>
+	<catch_line>Coagents and successor agents</catch_line>
+	<text>
+		<section prefix="A">A principal may designate two or more persons to act as coagents. Unless the power of attorney otherwise provides, each coagent may exercise its authority independently.
+		</section>
+		<section prefix="B">A principal may designate one or more successor agents to act if an agent resigns, dies, becomes incapacitated, is not qualified to serve, or declines to serve. A principal may grant authority to designate one or more successor agents to an agent or other person designated by name, office, or function. Unless the power of attorney otherwise provides, a successor agent (i) has the same authority as that granted to the original agent; and (ii) may not act until all predecessor agents have resigned, died, become incapacitated, are no longer qualified to serve, or have declined to serve.
+		</section>
+		<section prefix="C">Except as otherwise provided in the power of attorney and subsection D, an agent that does not participate in or conceal a breach of fiduciary duty committed by another agent, including a predecessor agent, is not liable for the actions of the other agent.
+		</section>
+		<section prefix="D">An agent that has actual knowledge of a breach or imminent breach of fiduciary duty by another agent shall notify the principal and, if the principal is incapacitated, take any action reasonably appropriate in the circumstances to safeguard the principal's best interest. An agent that fails to notify the principal or take action as required by this subsection is liable for the reasonably foreseeable damages that could have been avoided if the agent had notified the principal or taken such action.
+		</section>
+	</text>
+	<history>2010, cc. 455, 632, § 26-82; 2012, c. 614.</history>
+</law>

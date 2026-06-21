@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="5" level="3">Civil Provisions of General Application</unit>
+	</structure>
+	<section_number>20-88.57</section_number>
+	<catch_line>Limited immunity of petitioner</catch_line>
+	<text>
+		<section prefix="A">Participation by a petitioner in a proceeding under this chapter before a responding tribunal, whether in person, by private attorney, or through services provided by the support enforcement agency, does not confer personal jurisdiction over the petitioner in another proceeding.
+		</section>
+		<section prefix="B">A petitioner is not amenable to service of civil process while physically present in the Commonwealth to participate in a proceeding under this chapter.
+		</section>
+		<section prefix="C">The immunity granted by this section does not extend to civil litigation based on acts unrelated to a proceeding under this chapter committed by a party while present in the Commonwealth to participate in the proceeding.
+		</section>
+	</text>
+	<history>1994, c. 673; 2005, c. 754.</history>
+</law>

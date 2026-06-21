@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="12" level="2">Pupil Transportation</unit>
+		<unit label="article" identifier="2" level="3">Insurance Provisions</unit>
+	</structure>
+	<section_number>22.1-190</section_number>
+	<catch_line>When insurance required and amount thereof</catch_line>
+	<text>
+		<section prefix="A">Every vehicle shall be covered in a policy of liability and property damage insurance issued by an insurance carrier authorized to transact business in this Commonwealth, in the amounts of at least $50,000 for injury, including death, to one person; $500,000 for injury, including death, to all persons injured in any one accident; and $50,000 for damage, including destruction, to the property of any person, other than the insured. In addition, the policy of insurance shall provide coverage for loss or damage caused by an uninsured motorist in accordance with the provisions of § 38.2-2206 and in the amounts required by this section. The policy shall also provide for medical expense payment coverage in the minimum amount of $5,000 for each person injured. Taxicabs providing transportation of students under contract with a school division shall be covered by policies providing coverage of at least $50,000 for injury, including death, to one person; $200,000 for injury, including death, to all persons injured in any one accident; $10,000 for damage, including destruction, to the property of any person other than the insured; and medical expense payment coverage in the minimum amount of $1,000 for each person injured, or in such higher amounts as the contract with the school division or a local ordinance may prescribe.
+		</section>
+		<section prefix="B">The insurance so effected shall be subject to all laws of this Commonwealth regulating insurance.
+		</section>
+		<section prefix="C">This insurance shall not be required in cases when pupils are transported on a common carrier if such carrier is covered by a policy of insurance affording substantially the protection required by this article.
+		</section>
+		<section prefix="D">This insurance shall not be required in cases where pupils are transported in vehicles which are owned or operated by a county, city, town or school board which has qualified for and received a certificate of self-insurance from the Commissioner of the Department of Motor Vehicles, following a certification of financial responsibility equal to that required under subsection A of this section. The Commissioner of the Department of Motor Vehicles may require posting of a bond by a locality or school board as a condition to issuance of a certificate of financial responsibility pursuant to this subsection.
+		</section>
+	</text>
+	<history>Code 1950, § 22-285; 1958, c. 301; 1970, c. 681; 1976, c. 224; 1980, c. 559; 2012, c. 593.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3103</section_number>
+	<catch_line>Fraudulent procurement of policy; penalty</catch_line>
+	<text>
+		<section prefix="A">No person shall knowingly secure, attempt to secure or cause to be secured a life insurance policy on any person who is not in an insurable condition by means of misrepresentations or false or fraudulent statements.
+		</section>
+		<section prefix="B">An insurance agent who violates this section shall be subject to penalties under § 38.2-1831 in addition to the penalties of § 38.2-218.
+		</section>
+	</text>
+	<history>Code 1950, § 38-369; 1952, c. 317, § 38.1-434; 1986, c. 562.</history>
+</law>

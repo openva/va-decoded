@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="1" level="3">Classification of Militia</unit>
+	</structure>
+	<section_number>44-5</section_number>
+	<catch_line>Exemptions from militia duty</catch_line>
+	<text>
+		In addition to those exempted by the laws of the United States, the following persons shall be exempt from military duty under a state call:
+		<section prefix="1">The officers, judicial and executive, of the governments of the United States and the Commonwealth of Virginia;
+		</section>
+		<section prefix="2">The members of the General Assembly of the Commonwealth of Virginia and of the Congress of the United States;
+		</section>
+		<section prefix="3">Persons in the active military or naval services of the United States;
+		</section>
+		<section prefix="4">Persons employed by the United States in the transmission of the mail;
+		</section>
+		<section prefix="5">The judges and clerks of courts of record;
+		</section>
+		<section prefix="6">The mayor and councilmen of incorporated cities and towns;
+		</section>
+		<section prefix="7">Members of the governing bodies of counties;
+		</section>
+		<section prefix="8">Sheriffs, United States district attorneys, attorneys for the Commonwealth and city attorneys;
+		</section>
+		<section prefix="9">Marine pilots;
+		</section>
+		<section prefix="10">All persons who because of religious belief shall claim exemption from military service, if the conscientious holding of such belief by such person shall be established under such regulations as the President of the United States shall prescribe, shall be exempted from militia service in any capacity that the President shall declare to be combatant; and
+		</section>
+		<section prefix="11">Such other persons as may be designated by the Governor in the best interests of the public and of the Commonwealth.
+		</section>
+	</text>
+	<history>1930, p. 949; Michie Code 1942, § 2673(5); 1958, c. 393; 1976, c. 399; 2011, cc. 572, 586.</history>
+</law>

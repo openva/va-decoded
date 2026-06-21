@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="14" level="2">Evidence</unit>
+		<unit label="article" identifier="6.2" level="3">Uniform Interstate Depositions and Discovery Act</unit>
+	</structure>
+	<section_number>8.01-412.10</section_number>
+	<catch_line>Issuance of subpoena</catch_line>
+	<text>
+		<section prefix="A">To request the issuance of a subpoena under this article, a party shall submit to the clerk of court in the circuit in which discovery is sought to be conducted in the Commonwealth (i) a foreign subpoena and (ii) a written statement that the law of the foreign jurisdiction grants reciprocal privileges to citizens of the Commonwealth for taking discovery in the jurisdiction that issued the foreign subpoena.
+		</section>
+		<section prefix="B">When a party submits a foreign subpoena to a clerk of court in the Commonwealth, the clerk, in accordance with that court's procedure, shall promptly issue a subpoena for service upon the person to which the foreign subpoena is directed.
+		</section>
+		<section prefix="C">A subpoena under subsection B shall:
+			<section prefix="1">Incorporate the terms used in the foreign subpoena; and
+			</section>
+			<section prefix="2">Contain or be accompanied by the names, addresses, and telephone numbers of all counsel of record in the proceeding to which the subpoena relates and of any party not represented by counsel.
+			</section>
+		</section>
+		<section prefix="D">A request for the issuance of a subpoena under this article does not constitute an appearance in the courts of the Commonwealth, and no civil action need be filed in the circuit court of the Commonwealth.
+		</section>
+		<section prefix="E">The provisions of this article shall be in addition to other procedures authorized in the Code of Virginia and the rules of court for obtaining discovery, except that no subpoena issued in the Commonwealth pursuant to this article may be issued by any person other than the applicable circuit court clerk of court in the Commonwealth, in accordance with subsections A and B.
+		</section>
+	</text>
+	<history>2009, c. 701; 2018, c. 530.</history>
+</law>

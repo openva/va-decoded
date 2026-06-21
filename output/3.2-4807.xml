@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="48" level="3">Commercial Feed</unit>
+	</structure>
+	<section_number>3.2-4807</section_number>
+	<catch_line>Misbranding</catch_line>
+	<text>
+		<section prefix="A">It is unlawful for any person who is a manufacturer or guarantor of commercial feed to distribute a commercial feed if:
+			<section prefix="1">The labeling of the commercial feed is false or misleading in any particular;
+			</section>
+			<section prefix="2">The commercial feed is distributed under the name of another commercial feed;
+			</section>
+			<section prefix="3">The commercial feed is labeled in any manner other than as required in § 3.2-4806;
+			</section>
+			<section prefix="4">The commercial feed purports to be, or is represented as, a commercial feed, or if it purports to contain, or is represented as containing, a commercial feed ingredient, unless such commercial feed or feed ingredient conforms to the definition, if any, prescribed by regulation by the Board; or
+			</section>
+			<section prefix="5">Any word, statement, or other information required by, or under authority of, this chapter to appear on the label or labeling of the commercial feed is not prominently placed thereon with such conspicuousness, (as compared with other words, statements, designs, or devices in the labeling) and in such terms, so that the purchaser or user is likely to read and understand the label under customary condition of purchase and use.
+			</section>
+		</section>
+		<section prefix="B">The violation of any provision of this section shall be deemed to be misbranding.
+		</section>
+	</text>
+	<history>1994, c. 743, § 3.1-828.9; 2008, c. 860.</history>
+</law>

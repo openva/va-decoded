@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="V" level="2">Other Sources of Energy; Energy Policy</unit>
+		<unit label="chapter" identifier="18" level="3">Wind Energy</unit>
+		<unit label="article" identifier="2" level="4">Virginia Offshore Wind Development Authority</unit>
+	</structure>
+	<section_number>45.2-1812</section_number>
+	<catch_line> Public-private partnerships</catch_line>
+	<text>
+		<section prefix="A">The Authority may establish public-private partnerships with developers pursuant to the Public-Private Education Facilities and Infrastructure Act of 2002 (§ 56-575.1 et seq.) for purposes set forth in this section.
+		</section>
+		<section prefix="B">The Authority may establish a public-private partnership for the installation and operation of wind resource and other metocean equipment, including light detection and ranging equipment, meteorological measurement towers, and data collection platforms. Any partnership established pursuant to this subsection shall stipulate that:
+			<section prefix="1">The Authority and the developer shall share the costs of the upgrade;
+			</section>
+			<section prefix="2">The developer, in coordination with the Authority and relevant state and federal agencies, shall operate any meteorological measurement towers and data collection platforms; and
+			</section>
+			<section prefix="3">The developer shall make all collected data available to the Authority.
+			</section>
+		</section>
+		<section prefix="C">The Authority may establish a public-private partnership for the collection of avian and marine environmental data. Any partnership established pursuant to this subsection shall stipulate that:
+			<section prefix="1">The Authority and the developer shall share the costs of data collection;
+			</section>
+			<section prefix="2">The developer, in coordination with the Authority and relevant state and federal agencies, shall manage the environmental data collection process; and
+			</section>
+			<section prefix="3">The developer shall make all collected data available to the Authority.
+			</section>
+		</section>
+		<section prefix="D">The Authority may make any data collected pursuant to subsection B or C available to the public.
+		</section>
+		<section prefix="E">The Authority may establish a public-private partnership for the upgrade of port facilities and other logistical equipment and sites to accommodate the manufacturing and assembly of offshore wind energy project components and vessels that will support the construction and operations of offshore wind energy projects. Any partnership established pursuant to this subsection shall stipulate that the Authority and the entities shall share the costs of the upgrade.
+		</section>
+	</text>
+	<history>2010, cc. 507, 681, §§ 67-1203, 67-1204; 2021, Sp. Sess. I, c. 387.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>13.1-810.1</section_number>
+	<catch_line>Number of members</catch_line>
+	<text>
+		<section prefix="A">For purposes of this Act, the following identified as a member in a corporation's current record of members constitutes one member:
+			<section prefix="1">Two or more persons who together have a single membership interest in the corporation;
+			</section>
+			<section prefix="2">A corporation, limited liability company, partnership, limited partnership, business trust, trust, estate, or other entity; or
+			</section>
+			<section prefix="3">The trustees, guardians, custodians, or other fiduciaries of a single trust, estate, or account.
+			</section>
+		</section>
+		<section prefix="B">For purposes of this Act, membership interests registered in substantially similar names constitute one member if it is reasonable to believe that the names represent the same person.
+		</section>
+	</text>
+	<history>2007, c. 925; 2015, c. 623.</history>
+</law>

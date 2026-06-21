@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="18.1" level="2">Bad Faith Assertions of Patent Infringement</unit>
+	</structure>
+	<section_number>59.1-215.2</section_number>
+	<catch_line>Bad faith assertions of patent infringement</catch_line>
+	<text>
+		<section prefix="A">A person shall not make, in bad faith, an assertion of patent infringement.
+		</section>
+		<section prefix="B">The following shall constitute indicia that a person's assertion of patent infringement was made in bad faith:
+			<section prefix="1">The demand letter does not contain:
+				a. The number of the patent that is asserted, alleged, or claimed to have been infringed; or
+				b. The name and address of the patent's owner or owners and assignee or assignees, if any.
+			</section>
+			<section prefix="2">The person sends a demand letter to a target without first making a reasonable effort under the circumstances to conduct an analysis comparing the claims in the patent to the target's products, services, and technology, or to identify specific areas in which the products, services, or technology are covered by the claims in the patent.
+			</section>
+			<section prefix="3">The demand letter does not identify specific areas in which the products, services, and technology are covered by the claims in the patent.
+			</section>
+			<section prefix="4">The person offers to license the patent for an amount that is not based on a reasonable estimation of the value of a license to the patent.
+			</section>
+			<section prefix="5">The person making an assertion of patent infringement acts in subjective bad faith, or a reasonable actor in the person's position would know or reasonably should know that such assertion is baseless.
+			</section>
+			<section prefix="6">The assertion of patent infringement is deceptive, or the person threatens legal action that cannot legally be taken or that is not intended to be taken.
+			</section>
+			<section prefix="7">The person or its subsidiaries or affiliates have previously filed or threatened to file one or more lawsuits based on the same or similar assertion of patent infringement, the person attempted to enforce the assertion of patent infringement in litigation, and a court found the assertion to be objectively baseless or imposed sanctions for the assertion.
+			</section>
+			<section prefix="8">The patent alleged to be infringed was not in force at the time the allegedly infringing conduct occurred, or the patent claims alleged to be infringed have previously been held to be invalid.
+			</section>
+		</section>
+		<section prefix="C">The following shall constitute indicia that a person's assertion of patent infringement was not made in bad faith, but the absence of such indicia shall not constitute evidence of bad faith:
+			<section prefix="1">The person engages in a reasonable effort under the circumstances to establish that the target has infringed the patent and to negotiate an appropriate remedy.
+			</section>
+			<section prefix="2">The person makes a substantial investment in the use of the patent or in the development, production, or sale of a product or item covered by the patent.
+			</section>
+			<section prefix="3">The person has:
+				a. Demonstrated good faith in previous efforts to enforce the patent or a substantially similar patent; or
+				b. Successfully enforced the patent, or a substantially similar patent, through litigation.
+			</section>
+			<section prefix="4">The person is an institution of higher education or a technology transfer office organization owned by or affiliated with an institution of higher education.
+			</section>
+		</section>
+		<section prefix="D">The lists of indicia in this section are non-exclusive, and all indicia need not be present for a finding of bad faith or good faith.
+		</section>
+	</text>
+	<history>2014, cc. 810, 819.</history>
+</law>

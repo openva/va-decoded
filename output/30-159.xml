@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="16" level="2">Virginia Crime Commission</unit>
+	</structure>
+	<section_number>30-159</section_number>
+	<catch_line>Cooperation of state agencies; consultation with other states</catch_line>
+	<text>
+		<section prefix="A">The Commission may request and shall receive from every department, division, board, bureau, commission, authority or other agency created by the Commonwealth, or to which the Commonwealth is a party or any political subdivision thereof, cooperation and assistance in the performance of its duties.
+		</section>
+		<section prefix="B">The Commission shall examine matters relating to law enforcement extending across the boundaries of the Commonwealth into other states; and may consult and exchange information with officers and agencies of other states with respect to law-enforcement problems of mutual concern to this and other states.
+		</section>
+	</text>
+	<history>1972, c. 766, §§ 9-129, 9-136; 2001, c. 844.</history>
+</law>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="D" level="3">Guardianship of Incapacitated Persons</unit>
+		<unit label="chapter" identifier="21" level="4">Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act</unit>
+		<unit label="article" identifier="3" level="5">Transfer of Guardianship or Conservatorship</unit>
+	</structure>
+	<section_number>64.2-2114</section_number>
+	<catch_line>Transfer of guardianship or conservatorship to another state</catch_line>
+	<text>
+		<section prefix="A">A guardian or conservator appointed in the Commonwealth may petition the court to transfer the guardianship or conservatorship to another state.
+		</section>
+		<section prefix="B">Notice of a petition under subsection A shall be given to the persons that would be entitled to notice of a petition in the Commonwealth for the appointment of a guardian or conservator.
+		</section>
+		<section prefix="C">On the court's own motion or on request of the guardian or conservator, the incapacitated or protected person, or other person required to be notified of the petition, the court shall hold a hearing on a petition filed pursuant to subsection A.
+		</section>
+		<section prefix="D">The court shall issue an order provisionally granting a petition to transfer a guardianship and shall direct the guardian to petition for guardianship in the other state if the court is satisfied that the guardianship will be accepted by the court in the other state and the court finds that:
+			<section prefix="1">The incapacitated person is physically present in or is reasonably expected to move permanently to the other state;
+			</section>
+			<section prefix="2">An objection to the transfer has not been made or, if an objection has been made, the objector has not established that the transfer would be contrary to the interests of the incapacitated person; and
+			</section>
+			<section prefix="3">Plans for care and services for the incapacitated person in the other state are reasonable and sufficient.
+			</section>
+		</section>
+		<section prefix="E">The court shall issue a provisional order granting a petition to transfer a conservatorship and shall direct the conservator to petition for conservatorship in the other state if the court is satisfied that the conservatorship will be accepted by the court of the other state and the court finds that:
+			<section prefix="1">The protected person is physically present in or is reasonably expected to move permanently to the other state, or the protected person has a significant connection to the other state considering the factors in subsection B of § 64.2-2105;
+			</section>
+			<section prefix="2">An objection to the transfer has not been made or, if an objection has been made, the objector has not established that the transfer would be contrary to the interests of the protected person; and
+			</section>
+			<section prefix="3">Adequate arrangements will be made for management of the protected person's property.
+			</section>
+		</section>
+		<section prefix="F">The court shall issue a final order confirming the transfer and terminating the guardianship or conservatorship upon its receipt of:
+			<section prefix="1">A provisional order accepting the proceeding from the court to which the proceeding is to be transferred which is issued under provisions similar to § 64.2-2115; and
+			</section>
+			<section prefix="2">The documents required to terminate a guardianship or conservatorship in the Commonwealth.
+			</section>
+		</section>
+	</text>
+	<history>2011, c. 518, § 37.2-1046; 2012, c. 614.</history>
+</law>

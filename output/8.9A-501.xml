@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="5" level="2">Filing</unit>
+		<unit label="subpart" identifier="1" level="3">Filing Office, Contents and Effectiveness of Financing Statement</unit>
+	</structure>
+	<section_number>8.9A-501</section_number>
+	<catch_line>Filing office</catch_line>
+	<text>
+		<section prefix="a">Filing offices. Except as otherwise provided in subsection (b), if the local law of the Commonwealth governs perfection of a security interest or agricultural lien, the office in which to file a financing statement to perfect the security interest or agricultural lien is:
+			<section prefix="1">the office designated for the filing or recording of a record of a mortgage on the related real property, if:
+			</section>
+		</section>
+		<section prefix="A">the collateral is as-extracted collateral or timber to be cut; or
+		</section>
+		<section prefix="B">the financing statement is filed as a fixture filing and the collateral is goods that are or are to become fixtures; or
+			<section prefix="2">the office of the State Corporation Commission or any office duly authorized by it, in all other cases, including a case in which the collateral is goods that are or are to become fixtures and the financing statement is not filed as a fixture filing.
+			</section>
+		</section>
+		<section prefix="b">Filing office for transmitting utilities. The office in which to file a financing statement to perfect a security interest in collateral, including fixtures, of a transmitting utility is the office of the State Corporation Commission. The financing statement also constitutes a fixture filing as to the collateral indicated in the financing statement which is or is to become fixtures.
+		</section>
+	</text>
+	<history>1996, c. 216, § 8.9-401; 2000, c. 1007.</history>
+</law>

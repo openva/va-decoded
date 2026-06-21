@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="7" level="3">Highway Use Fee and Mileage-Based User Fee Program</unit>
+	</structure>
+	<section_number>46.2-772</section_number>
+	<catch_line>(For contingent expiration, see Acts 2020, cc. 1230 and 1275) Highway use fee</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsection C, there is hereby imposed an annual highway use fee on any motor vehicle registered in the Commonwealth under § 46.2-694 or 46.2-697 that is an alternative fuel vehicle, an electric motor vehicle, or a fuel-efficient vehicle. The fee shall be collected by the Department at the time of vehicle registration. If the vehicle is registered for a period of other than one year as provided in § 46.2-646, the highway use fee shall be multiplied by the number of years or fraction thereof that the vehicle will be registered.
+		</section>
+		<section prefix="B">1. For an electric motor vehicle, the highway use fee shall be 85 percent of the amount of taxes paid under subsection A of § 58.1-2217 on fuel used by a vehicle with a combined fuel economy of 23.7 miles per gallon for the average number of miles traveled by a passenger vehicle in the Commonwealth, as determined by the Commissioner. For all other fuel-efficient vehicles, the highway use fee shall be 85 percent of the difference between the tax paid under subsection A of § 58.1-2217 on the fuel used by a vehicle with a combined fuel economy of 23.7 miles per gallon for the average number of miles traveled by a passenger vehicle in the Commonwealth in a year, as determined by the Commissioner, and the tax paid under subsection A of § 58.1-2217 on the fuel used by the vehicle being registered for the average number of miles traveled by a passenger vehicle in the Commonwealth in a year, as determined by the Commissioner.
+			For purposes of this chapter, the Commissioner shall use combined fuel economy as determined by the manufacturer of the vehicle. If the Commissioner is unable to obtain the manufacturer's fuel economy for a vehicle, then the Commissioner shall use the final estimate of average fuel economy, as determined by the U.S. Environmental Protection Agency, of (i) all trucks having the same model year as the vehicle being registered, if the vehicle has a gross weight between 6,000 pounds and 10,000 pounds, or (ii) all cars having the same model year as the vehicle. If data is not available for the model year of the vehicle being registered, then the Commissioner shall use available data for the model year that is closest to the model year of the vehicle being registered.
+			The Commissioner shall update the fees calculated under this section by July 1 of each year.
+			<section prefix="2">The Department shall establish and administer a process whereby a vehicle owner may contest the fee assessed pursuant to this section. The Department shall reimburse the vehicle owner for any contested fee or portion thereof incorrectly collected pursuant to this section.
+			</section>
+		</section>
+		<section prefix="C">This section shall not apply to:
+			<section prefix="1">An autocycle, moped, or motorcycle;
+			</section>
+			<section prefix="2">A vehicle with a gross weight over 10,000 pounds;
+			</section>
+			<section prefix="3">A vehicle that is owned by a governmental entity as defined in § 58.1-2201; or
+			</section>
+			<section prefix="4">A vehicle that is registered under the International Registration Plan.
+				Notwithstanding the provisions of this section, the annual highway use fee for a low-speed vehicle that is registered under Chapter 6 (§ 46.2-600 et seq.) shall be $25.
+				A vehicle shall not be subject to the fee set forth in this section in any year in which such vehicle is registered to participate in the mileage-based user fee program established pursuant to § 46.2-773.
+			</section>
+		</section>
+		<section prefix="D">In any case where an applicant has requested and is eligible for a refund pursuant to § 46.2-688, the Commissioner shall refund to the applicant the cost of the highway use fee, prorated in six-month increments, if such application is made when six or more months remain in the registration period.
+		</section>
+	</text>
+	<history>2020, cc. 1230, 1275; 2022, c. 446; 2023, cc. 537, 548.</history>
+</law>

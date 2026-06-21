@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="8" level="3">Radiation Control</unit>
+	</structure>
+	<section_number>32.1-231</section_number>
+	<catch_line>Bonds of licensees</catch_line>
+	<text>
+		<section prefix="A">The Board is authorized to require bonds of licensees. A bond shall be forfeited when the public health and safety is endangered by ionizing radiation due to the abandonment by a licensee of a licensed activity or licensed materials or due to a violation of law by a licensee. Each bond so forfeited shall be credited to a special fund on the books of the Department called the Radiation Reclamation Fund and shall be expended as necessary to restore to a safe condition the site where the licensed activity is or was conducted or the licensed materials are located.
+		</section>
+		<section prefix="B">The Board shall adopt regulations for determining the amount of each bond based upon the potential for contamination and injury by the licensed activity or material, the cost of disposal of the licensed material and the cost of restoring the site of the licensed activity to a safe condition.
+		</section>
+		<section prefix="C">No state, local or other governmental agency shall be required to file a bond. The Board may, by regulation, provide for the exemption of classes of licensees from bonding requirements if such classes present no significant risk to the public health and safety.
+		</section>
+		<section prefix="D">An acceptable bond for the purposes of this section shall be a bond issued by a fidelity or surety company authorized to do business in Virginia, a personal bond secured by such collateral as the Board may require or a cash bond.
+		</section>
+	</text>
+	<history>Code 1950, § 32-414.4:1; 1976, c. 652; 1979, c. 711.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="10" level="2">Disability of Judge or Attorney for Commonwealth; Court- Appointed Counsel; Interpreters; Transcripts</unit>
+		<unit label="article" identifier="3" level="3">Appointment of Attorney for Accused</unit>
+	</structure>
+	<section_number>19.2-160.1</section_number>
+	<catch_line>Appointment of counsel in Class 1 felony cases or cases involving a felony punishable by a mandatory minimum term of confinement for life</catch_line>
+	<text>
+		<section prefix="A">In any case in which an indigent defendant is charged with a Class 1 felony or any felony punishable by a mandatory minimum term of confinement for life in a jurisdiction in which a public defender office is established, the court shall, upon request for the appointment of counsel and in the absence of a conflict, appoint such public defender office to represent the defendant. Upon motion of the attorney from a public defender office, the judge of the circuit court shall appoint a competent, qualified, and experienced attorney from the list maintained by the Indigent Defense Commission pursuant to § 19.2-163.01 to serve as co-counsel.
+			If the public defender notifies the court of a conflict and withdraws from representation, and the court had appointed one additional counsel to assist the public defender's office, then upon the withdrawal of the public defender's office the court shall appoint one additional competent, qualified, and experienced attorney from the list maintained by the Indigent Defense Commission pursuant to § 19.2-163.01 to serve as co-counsel for the defendant.
+		</section>
+		<section prefix="B">In any case in which an indigent defendant is charged with a Class 1 felony or any felony punishable by a mandatory minimum term of confinement for life in a jurisdiction in which there is no public defender, upon request for the appointment of counsel, the court shall appoint two competent, qualified, and experienced attorneys from the list maintained by the Indigent Defense Commission pursuant to § 19.2-163.01 to serve as co-counsels for the defendant.
+		</section>
+	</text>
+	<history>2023, c. 228; 2025, c. 170.</history>
+</law>

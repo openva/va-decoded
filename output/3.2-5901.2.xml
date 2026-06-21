@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="V" level="2">Domestic Animals</unit>
+		<unit label="chapter" identifier="59" level="3">General Provisions</unit>
+	</structure>
+	<section_number>3.2-5901.2</section_number>
+	<catch_line>State Veterinarian; large animal veterinary grant program</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Large animal veterinarian" means a person who is actively engaged in and is licensed to practice veterinary medicine pursuant to Chapter 38 (§ 54.1-3800 et seq.) of Title 54.1 and whose specialties include livestock, poultry, or equine, as that term is defined in § 3.2-6200.
+			"Program" means the large animal veterinary grant program established by the State Veterinarian pursuant to subsection B.
+		</section>
+		<section prefix="B">The State Veterinarian shall establish a large animal veterinary grant program to provide grants to increase or stabilize the number of large animal veterinarians practicing in areas of the Commonwealth that have been identified by the State Veterinarian as having a shortage of such veterinarians. The State Veterinarian shall annually select from a pool of applicants no more than four large animal veterinarians to participate in the program.
+		</section>
+		<section prefix="C">The State Veterinarian, in consultation with the Board of Veterinary Medicine and relevant stakeholders, including the Virginia Farm Bureau Federation, the Virginia Academy of Food Animal Practitioners, and the Virginia Veterinary Medical Association, shall develop criteria for applicants to participate in the program, which shall include:
+			<section prefix="1">The geographic area of the Commonwealth that an applicant serves or would serve and the need for large animal veterinary services in such area;
+			</section>
+			<section prefix="2">The number of localities that an applicant serves or would serve;
+			</section>
+			<section prefix="3">The number of different large animal veterinarian specialties in which an applicant practices; and
+			</section>
+			<section prefix="4">The percentage of time an applicant devotes to large animal veterinary services.
+			</section>
+		</section>
+	</text>
+	<history>2025, cc. 258, 262.</history>
+</law>

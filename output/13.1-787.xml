@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="22" level="3">Benefit Corporations</unit>
+	</structure>
+	<section_number>13.1-787</section_number>
+	<catch_line>Corporate purposes</catch_line>
+	<text>
+		<section prefix="A">A benefit corporation shall have as one of its purposes the purpose of creating a general public benefit. The articles of incorporation of a benefit corporation may identify one or more specific public benefits that it is the purpose of the benefit corporation to create. A specific public benefit may also be specified in the bylaws or otherwise adopted by the board of directors. This purpose is in addition to its purpose under § 13.1-626.
+		</section>
+		<section prefix="B">The creation of a general public benefit and one or more specific public benefits, if any, under subsection A is in the best interests of the benefit corporation.
+		</section>
+		<section prefix="C">A benefit corporation may amend its articles of incorporation to add, amend, or delete the identification of a specific public benefit that it is the purpose of the benefit corporation to create, which amendment shall be adopted in accordance with the procedures set forth in § 13.1-707.
+		</section>
+	</text>
+	<history>2011, c. 698.</history>
+</law>

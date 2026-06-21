@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="47.1" level="1">Notaries and Out-Of-State Commissioners</unit>
+		<unit label="chapter" identifier="4" level="2">Term of Office</unit>
+	</structure>
+	<section_number>47.1-22</section_number>
+	<catch_line>Resignation; removal from Commonwealth; etc</catch_line>
+	<text>
+		<section prefix="A">A notary may resign his commission by mailing or delivering to the Secretary a letter of resignation.
+		</section>
+		<section prefix="B">Any notary who ceases to be a resident of the Commonwealth of Virginia shall, from that time, cease to be a notary; provided, however, that such notary may maintain his commission with the written consent of the Secretary if he meets the qualifications for nonresident appointment under § 47.1-4.
+		</section>
+		<section prefix="C">Any nonresident notary who ceases to be employed in this Commonwealth shall forthwith cease to be a notary.
+		</section>
+		<section prefix="D">Every notary who wishes to resign from office, or who ceases to be a notary pursuant to subsections B or C of this section, shall forthwith mail or deliver his commission to the Secretary, who shall cancel the same. The notary shall be responsible for the destruction of the official physical seal.
+		</section>
+		<section prefix="E">Every electronic notary who wishes to resign his commission or who ceases to be a notary pursuant to this section shall forthwith erase, delete, or destroy the coding, disk, certificate, card, software, or password that enables electronic affixation of the notary's official electronic signature or seal and so certify to the Secretary.
+		</section>
+		<section prefix="F">A former electronic notary, whose previous commission or application was not revoked or denied, need not erase, delete, or destroy the coding, disk, certificate, card, software, or password that enables electronic affixation of the notary's official electronic signature or seal if he is recommissioned and reregistered as an electronic notary using the same electronic signature and seal within three months after commission expiration.
+		</section>
+	</text>
+	<history>1980, c. 580; 2007, cc. 269, 590.</history>
+</law>

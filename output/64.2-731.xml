@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="4" level="4">Creation, Validity, Modification, and Termination of Trust</unit>
+	</structure>
+	<section_number>64.2-731</section_number>
+	<catch_line>Cy pres</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection B, if a particular charitable purpose becomes unlawful, impracticable, impossible to achieve, or wasteful:
+			<section prefix="1">The trust does not fail, in whole or in part;
+			</section>
+			<section prefix="2">The trust property does not revert to the settlor or the settlor's successors in interest; and
+			</section>
+			<section prefix="3">The court may apply cy pres to modify or terminate the trust by directing that the trust property be applied or distributed, in whole or in part, in a manner consistent with the settlor's charitable purposes.
+			</section>
+		</section>
+		<section prefix="B">A provision in the terms of a charitable trust that would result in distribution of the trust property to a noncharitable beneficiary prevails over the power of the court under subsection A to apply cy pres to modify or terminate the trust only if, when the provision takes effect:
+			<section prefix="1">The trust property is to revert to the settlor and the settlor is still living; or
+			</section>
+			<section prefix="2">Fewer than 21 years have elapsed since the date of the trust's creation.
+			</section>
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-544.13; 2012, c. 614.</history>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="3" level="3">National Guard in General</unit>
+	</structure>
+	<section_number>44-40.2</section_number>
+	<catch_line>Administration of oaths and taking of sworn statements by commissioned officers</catch_line>
+	<text>
+		In addition to those powers set forth in § 44-40, commissioned officers in the Virginia National Guard may administer oaths and take sworn statements in connection with any investigation required by law or regulation pertaining to the Virginia National Guard in the performance of their duties.
+	</text>
+	<history>1987, c. 32.</history>
+</law>

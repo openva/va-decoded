@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="8" level="3">Radiation Control</unit>
+	</structure>
+	<section_number>32.1-227</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article unless the context requires a different meaning:
+		<section prefix="1">"By-product material" means:
+			a. Any radioactive material, except special nuclear material, yielded in or made radioactive by exposure to the radiation incident to the process of producing or utilizing special nuclear material;
+			b. The tailings or wastes produced by the extraction or concentration of uranium or thorium from any ore processed primarily of its source material content;
+			c. Any discrete source of radium-226 that is produced, extracted, or converted after extraction for use for a commercial, medical, or research activity;
+			d. Any material that has been made radioactive by use of a particle accelerator and is produced, extracted, or converted after extraction for use for a commercial, medical, or research activity; and
+			e. Any discrete source of naturally occurring radioactive material (NORM), other than source material that the Nuclear Regulatory Commission (NRC), in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, the Secretary of Homeland Security, and the head of any other appropriate federal agency, determines would pose a threat similar to the threat posed by a discrete source of radium-226 to the public health and safety or the common defense and security, that is extracted, or converted after extraction, for use for a commercial, medical, or research activity.
+		</section>
+		<section prefix="2">"General license" means a license effective under regulations promulgated by the Board without the filing of an application with the Department or the issuance of licensing documents to particular persons to transfer, acquire, own, possess, or use quantities of, or devices or equipment utilizing, radioactive material.
+		</section>
+		<section prefix="3">"Ionizing radiation" means gamma rays and X-rays, alpha and beta particles, high-speed electrons, neutrons, protons, and other nuclear particles.
+		</section>
+		<section prefix="4">"Person" means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, group, department of the Commonwealth other than the Department of Health, political subdivision of the Commonwealth, any other state or political subdivision or department thereof, and any legal successor, representative, agent, or department of the foregoing, but not including federal government agencies.
+		</section>
+		<section prefix="5">"Radiation emergency" means any situation, excluding events resulting from nuclear warfare, which involves the possibility of accidental release of ionizing radiation that may pose a threat to the safety and health of any citizen of this Commonwealth.
+		</section>
+		<section prefix="6">"Radioactive material" means any material that emits ionizing radiation spontaneously.
+		</section>
+		<section prefix="7">"Source material" means uranium or thorium, or any combination thereof, in any physical or chemical form; or ores that contain by weight one-twentieth of one percent (0.05 percent) or more of uranium, thorium, or any combination thereof. Source material does not include special nuclear material.
+		</section>
+		<section prefix="8">"Special nuclear material" means (i) plutonium, uranium 233, uranium enriched in the isotope 233 or in the isotope 235, and any other material which the United States Nuclear Regulatory Commission or any successor thereto has determined to be such but does not include source material; or (ii) any material artificially enriched by any of the foregoing but not including source material.
+		</section>
+		<section prefix="9">"Specific license" means a license, issued to a named person upon application filed under the regulations promulgated pursuant to this article, to use, manufacture, produce, transfer, receive, acquire, or possess quantities of, or devices or equipment utilizing, radioactive material.
+		</section>
+	</text>
+	<history>Code 1950, § 32-414.3; 1964, c. 158; 1975, c. 563; 1979, c. 711; 2008, cc. 41, 466.</history>
+</law>

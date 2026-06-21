@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="3" level="4">Motor Fuel Tax; Liability</unit>
+	</structure>
+	<section_number>58.1-2218</section_number>
+	<catch_line>Point of imposition of motor fuels tax</catch_line>
+	<text>
+		The tax levied pursuant to § 58.1-2217 is imposed at the point that the motor fuel is:
+		<section prefix="1">Removed from a refinery or a terminal and, upon removal, is subject to the federal excise tax imposed by 26 U.S.C. § 4081;
+		</section>
+		<section prefix="2">Imported by a system transfer to a refinery or a terminal and, upon importation, is subject to the federal excise tax imposed by 26 U.S.C. § 4081;
+		</section>
+		<section prefix="3">Imported by a means of transfer outside the terminal transfer system for sale, use, or storage in Virginia and would have been subject to the federal excise tax imposed by 26 U.S.C. § 4081 if it had been removed at a terminal or bulk plant rack in Virginia instead of being imported;
+		</section>
+		<section prefix="4">If the motor fuel is gasohol, (i) removed from a terminal or distribution facility, unless the removed fuel is received by a supplier for subsequent sale or (ii) imported into Virginia outside the terminal transfer system by a means other than a marine vessel, a transport truck, or a railroad tank car;
+		</section>
+		<section prefix="5">If the motor fuel is blended fuel, made within Virginia or imported into Virginia; or
+		</section>
+		<section prefix="6">Transferred within the terminal transfer system and, upon transfer, is subject to the federal excise tax imposed by 26 U.S.C. § 4081.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758; 2003, c. 781.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="6" level="2">Divorce, Affirmation and Annulment</unit>
+	</structure>
+	<section_number>20-111.1</section_number>
+	<catch_line>Revocation of death benefits by divorce or annulment</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided under federal law or law of this Commonwealth, upon the entry of a decree of annulment or divorce from the bond of matrimony on and after July 1, 1993, any revocable beneficiary designation contained in a then existing written contract owned by one party that provides for the payment of any death benefit to the other party is revoked. A death benefit prevented from passing to a former spouse by this section shall be paid as if the former spouse had predeceased the decedent. The payor of any death benefit shall be discharged from all liability upon payment in accordance with the terms of the contract providing for the death benefit, unless the payor receives written notice of a revocation under this section prior to payment.
+		</section>
+		<section prefix="B">The term "death benefit" includes any payments under a life insurance contract, annuity, retirement arrangement, compensation agreement or other contract designating a beneficiary of any right, property or money in the form of a death benefit.
+		</section>
+		<section prefix="C">This section shall not apply (i) to the extent a decree of annulment or divorce from the bond of matrimony, or a written agreement of the parties provides for a contrary result as to specific death benefits, or (ii) to any trust or any death benefit payable to or under any trust.
+		</section>
+		<section prefix="D">If this section is preempted by federal law with respect to the payment of any death benefit, a former spouse who, not for value, receives the payment of any death benefit that the former spouse is not entitled to under this section is personally liable for the amount of the payment to the person who would have been entitled to it were this section not preempted.
+		</section>
+		<section prefix="E">Every decree of annulment or divorce from the bond of matrimony entered on or after July 1, 2012, shall contain the following notice in conspicuous, bold print:
+			Beneficiary designations for any death benefit, as defined in subsection B of § 20-111.1 of the Code of Virginia, made payable to a former spouse may or may not be automatically revoked by operation of law upon the entry of a final decree of annulment or divorce. If a party intends to revoke any beneficiary designation made payable to a former spouse following the annulment or divorce, the party is responsible for following any and all instructions to change such beneficiary designation given by the provider of the death benefit. Otherwise, existing beneficiary designations may remain in full force and effect after the entry of a final decree of annulment or divorce.
+		</section>
+	</text>
+	<history>1993, c. 417; 2007, c. 306; 2012, c. 493.</history>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="9" level="4">Taxation of Partnerships</unit>
+	</structure>
+	<section_number>58.1-394.3</section_number>
+	<catch_line>Pass-through entity items</catch_line>
+	<text>
+		<section prefix="A">The period for assessing any tax imposed by this chapter that is attributable to any pass-through entity item with respect to any owner of a pass-through entity shall not expire before the date that is three years after the later of (i) the last day for filing the pass-through entity return for the taxable year of the pass-through entity, as extended, or (ii) the date on which the pass-through entity return for such taxable year was filed.
+		</section>
+		<section prefix="B">The period for assessing any tax, as provided in subsection A, may be extended pursuant to agreement under § 58.1-101 or 58.1-220 between the Department and the owner who signed the pass-through entity return or any other owner or person authorized to sign the pass-through entity return.
+		</section>
+		<section prefix="C">The Tax Commissioner shall mail to each owner whose name and address have been provided by the pass-through entity notice of the beginning of an administrative proceeding at the pass-through entity level with respect to a pass-through entity item, and the final pass-through entity administrative adjustment resulting from any such proceeding. The Tax Commissioner shall not be required to mail notices to any owner with less than a one-percent interest in the profits of the pass-through entity if such entity has more than 100 owners.
+		</section>
+		<section prefix="D">In any administrative proceeding under § 58.1-1821 in which the taxation of pass-through entity items is an issue, the pass-through entity shall be permitted to participate in the proceeding. In addition, the Department may consolidate proceedings involving more than one taxpayer when the same pass-through items are in issue.
+		</section>
+		<section prefix="E">The provisions of this section shall apply to any tax attributable to items of income, gain, loss, deduction, credit, or other tax attribute that is recognized or reportable by the pass-through entity and that is required to be reported by the owner of the pass-through entity pursuant to § 58.1-391 or other sections of this chapter.
+		</section>
+	</text>
+	<history>2008, c. 549.</history>
+</law>

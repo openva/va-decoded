@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3407.9:04</section_number>
+	<catch_line>Medication synchronization</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Carrier," "health plan," and "provider contract" have the meanings ascribed thereto in subsection A of § 38.2-3407.15.
+			"Enrollee" and "provider" have the meanings ascribed thereto in subsection A of § 38.2-3407.10.
+			"Network pharmacy" means a pharmacy that has agreed to provide pharmacy services to enrollees with an expectation of receiving payments, other than coinsurance, copayments, or deductibles, directly or indirectly from the carrier under the terms of a provider contract.
+		</section>
+		<section prefix="B">Any health plan providing prescription drug coverage in the Commonwealth shall permit and apply a prorated daily cost-sharing rate to prescriptions that are dispensed by a network pharmacy for a partial supply if the prescribing provider or the pharmacist determines the fill or refill to be in the best interest of the enrollee and the enrollee requests or agrees to a partial supply for the purpose of synchronizing the enrollee's medications, provided that such a proration for any prescription shall not occur more frequently than annually.
+		</section>
+		<section prefix="C">No health plan providing prescription drug coverage shall deny coverage for the dispensing of a medication that is dispensed by a network pharmacy on the basis that the dispensing is for a partial supply if the prescribing provider or the pharmacist determines the fill or refill to be in the best interest of the enrollee and the enrollee requests or agrees to a partial supply for the purpose of synchronizing the enrollee's medications. The health plan shall allow a pharmacy to override any denial codes indicating that a prescription is being refilled too soon for the purposes of synchronizing the enrollee's medications.
+		</section>
+		<section prefix="D">No health plan providing prescription drug coverage shall use payment structures incorporating prorated dispensing fees. Dispensing fees for partially filled or refilled prescriptions shall be paid in full for each prescription dispensed, regardless of any prorated copay or fee paid for synchronization services.
+		</section>
+		<section prefix="E">This section shall apply with respect to health plans that are entered into, amended, extended, or renewed on or after January 1, 2019.
+		</section>
+		<section prefix="F">Pursuant to the authority granted by § 38.2-223, the Commission may promulgate such rules and regulations as it may deem necessary to implement this section.
+		</section>
+		<section prefix="G">The Commission shall have no jurisdiction to adjudicate individual controversies arising out of this section.
+		</section>
+	</text>
+	<history>2018, c. 561.</history>
+</law>

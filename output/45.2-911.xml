@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="C" level="3">Surface Coal Mines</unit>
+		<unit label="chapter" identifier="9" level="4">Requirements Applicable to Surface Coal Mines</unit>
+		<unit label="article" identifier="4" level="5">First Aid Equipment; Medical Care; Emergency Medical Services Providers</unit>
+	</structure>
+	<section_number>45.2-911</section_number>
+	<catch_line> Attention to injured persons</catch_line>
+	<text>
+		<section prefix="A">Prompt medical attention shall be provided in the event of an injury, and adequate facilities shall be made available for transporting injured persons to a hospital where necessary.
+		</section>
+		<section prefix="B">Safe transportation shall be provided to move injured persons from the site where the injury occurred to an area that is accessible to emergency transportation.
+		</section>
+		<section prefix="C">The operator of each mine shall post directional signs that are conspicuously located to identify each route of ingress to and egress from any mine located off of a public road.
+		</section>
+	</text>
+	<history>Code 1950, § 45-69.6; 1954, c. 191; 1966, c. 594, § 45.1-101; 1978, c. 94; 1994, c. 28, § 45.1-161.264; 2005, c. 3; 2021, Sp. Sess. I, c. 387.</history>
+</law>

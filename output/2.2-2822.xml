@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="E" level="3">State Officers and Employees</unit>
+		<unit label="chapter" identifier="28" level="4">General Provisions</unit>
+	</structure>
+	<section_number>2.2-2822</section_number>
+	<catch_line>Ownership and use of patents and copyrights developed by certain public employees; Creative Commons copyrights</catch_line>
+	<text>
+		<section prefix="A">Patents, copyrights or materials that were potentially patentable or copyrightable developed by a state employee during working hours or within the scope of his employment or when using state-owned or state-controlled facilities shall be the property of the Commonwealth.
+		</section>
+		<section prefix="B">The Secretary of Administration shall establish policies, subject to the approval of the Governor, regarding the protection and release of patents and copyrights owned by the Commonwealth. Such policies shall include, at a minimum, the following:
+			<section prefix="1">A policy granting state agencies the authority over the protection and release of patents and copyrights created by employees of the agency. Such policy shall authorize state agencies to release all potentially copyrightable materials under the Creative Commons or Open Source Initiative licensing system, as appropriate.
+			</section>
+			<section prefix="2">A provision authorizing state agencies to seek patent protection only in those instances where the agency reasonably determines the patent has significant commercial value. The responsible state agency shall file with the Secretary a summary of the expected commercial value of the patent.
+			</section>
+			<section prefix="3">A procedure authorizing state agencies to determine whether to license or transfer to a state employee any interest in potentially patentable material developed by that employee during work hours, as well as to determine the terms of such license or transfer.
+			</section>
+			<section prefix="4">A procedure authorizing state agencies to determine whether to license or transfer to a private entity any interest in potentially patentable material developed by that agency, as well as to determine the terms of such license or transfer.
+			</section>
+		</section>
+		<section prefix="C">Nothing in this section shall be construed to limit access to public records as provided in the Virginia Freedom of Information Act (§ 2.2-3700 et seq.).
+		</section>
+		<section prefix="D">This section shall not apply to employees of public institutions of higher education who shall be subject to the patent and copyright policies of the institution employing them.
+		</section>
+	</text>
+	<history>1985, c. 502, § 2.1-20.1:1; 2001, c. 844; 2009, cc. 791, 841; 2020, c. 738.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="25" level="2">Mutual Assessment Property and Casualty Insurers</unit>
+		<unit label="article" identifier="5" level="3">Financial Provisions</unit>
+	</structure>
+	<section_number>38.2-2529</section_number>
+	<catch_line>Unearned premium reserves required</catch_line>
+	<text>
+		<section prefix="A">Advance assessments received by mutual assessment property and casualty insurers shall be considered premiums and, except as provided in subsection B of this section, shall be subject to the requirement of an unearned premium reserve computed in accordance with § 38.2-1312. The reserves may be reduced for applicable reinsurance in accordance with the provisions of Article 3.1 (§ 38.2-1316.1 et seq.) of Chapter 13 of this title.
+		</section>
+		<section prefix="B">The amount each insurer shall maintain in reserves for unearned premium reserves shall be as follows:
+			<section prefix="1">For calendar year 1987, at least ten percent of the unearned premium reserve as calculated in subsection A of this section; and
+			</section>
+			<section prefix="2">For each subsequent year, at least an additional ten percent as calculated in subsection A for that subsequent year in order that the full amount of unearned premium reserves shall be established by December 31, 1996.
+			</section>
+		</section>
+	</text>
+	<history>1986, c. 562; 1994, c. 316.</history>
+</law>

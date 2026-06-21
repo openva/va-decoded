@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="6" level="2">Insurance Information and Privacy Protection</unit>
+		<unit label="article" identifier="2" level="3">Insurance Data Security Act</unit>
+	</structure>
+	<section_number>38.2-624</section_number>
+	<catch_line>Investigation of a cybersecurity event</catch_line>
+	<text>
+		<section prefix="A">If a licensee learns that a cybersecurity event has or may have occurred, the licensee or an investigator shall conduct a prompt investigation.
+		</section>
+		<section prefix="B">During the investigation, the licensee or an investigator shall, at a minimum, determine as much of the following information as possible:
+			<section prefix="1">Determine whether a cybersecurity event has occurred;
+			</section>
+			<section prefix="2">Assess the nature and scope of the cybersecurity event;
+			</section>
+			<section prefix="3">Identify any nonpublic information that may have been involved in the cybersecurity event; and
+			</section>
+			<section prefix="4">Perform or oversee reasonable measures to restore the security of the information systems compromised in the cybersecurity event in order to prevent further unauthorized acquisition, release, or use of nonpublic information in the licensee's possession, custody, or control.
+			</section>
+		</section>
+		<section prefix="C">If a licensee learns that a cybersecurity event has or may have occurred in a system maintained by a third-party service provider, the licensee will complete the steps listed in subsection B or make reasonable efforts to confirm and document that the third-party service provider has completed those steps.
+		</section>
+		<section prefix="D">Each licensee shall maintain records concerning all cybersecurity events for a period of at least five years from the date of the cybersecurity event and shall produce those records upon demand of the Commissioner.
+		</section>
+	</text>
+	<history>2020, c. 264.</history>
+</law>

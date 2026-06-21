@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="11" level="2">Uniform Collaborative Law Act</unit>
+	</structure>
+	<section_number>20-175</section_number>
+	<catch_line>Disqualification of collaborative lawyer and lawyers in associated law firm; exception</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection C, a collaborative lawyer is disqualified from appearing before a tribunal to represent a party in a proceeding related to the collaborative matter.
+		</section>
+		<section prefix="B">Except as otherwise provided in subsection C and § 20-176, a lawyer in a law firm with which the collaborative lawyer is associated is disqualified from appearing before a tribunal to represent a party in a proceeding related to the collaborative matter if the collaborative lawyer is disqualified from doing so under subsection A.
+		</section>
+		<section prefix="C">A collaborative lawyer or another lawyer in a law firm with which the collaborative lawyer is associated may represent a party:
+			<section prefix="1">To ask a tribunal to affirm, ratify, and incorporate any agreement resulting from the collaborative law process into a court order;
+			</section>
+			<section prefix="2">To ask a tribunal to enter any order necessary to effectuate the terms of any agreement resulting from the collaborative law process; or
+			</section>
+			<section prefix="3">To seek or defend an emergency order to protect the health, safety, welfare, or interest of a party or a party's family or household member, if a successor lawyer is not immediately available to represent such person.
+			</section>
+		</section>
+		<section prefix="D">If subdivision C 3 applies, a collaborative lawyer, or another lawyer in a law firm with which the collaborative lawyer is associated, may represent a party or a party's family or household member only until such person is represented by a successor lawyer or reasonable measures are taken to protect the health, safety, welfare, or interest of the person.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 346.</history>
+</law>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="1" level="3">General Provisions</unit>
+		<unit label="article" identifier="1" level="4">Department of Conservation and Recreation</unit>
+	</structure>
+	<section_number>10.1-104.6:1</section_number>
+	<catch_line>ConserveVirginia program established</catch_line>
+	<text>
+		<section prefix="A">The Department shall develop a program for the creation, maintenance, operation, and regular updating of a data-driven Geographical Information Systems model to prioritize potential conservation areas across the Commonwealth that would provide quantifiable benefits to the citizens of Virginia. Such program shall be known as ConserveVirginia. The model shall synthesize multiple mapped data inputs, divided into categories, each representing a different overarching conservation value, including (i) agriculture and forestry, (ii) natural habitat and ecosystem diversity, (iii) floodplains and flooding resilience, (iv) cultural and historic preservation, (v) scenic preservation, (vi) protected landscapes resilience, and (vii) water quality improvement.
+		</section>
+		<section prefix="B">The Department shall consult regularly with the Chief Resilience Officer of the Commonwealth, the Department of Forestry, the Department of Agriculture and Consumer Services, the Department of Historic Resources, the Department of Wildlife Resources, the Department of Environmental Quality, the Marine Resources Commission, and any other state or federal agency or private organization deemed appropriate to provide data or information to update methodologies, map layers, and emerging conservation priorities.
+		</section>
+		<section prefix="C">The Department shall review and revise the methodology used to develop and prioritize each conservation value identified in subsection A. The Department shall conduct such review and revision process no less than once every two years, and such process shall include public hearings and solicitation of public comment. The Department shall continue to develop ways to incorporate and encourage environmental justice, as defined in § 2.2-234, into all existing and future conservation values. The Department shall not utilize any methodology or conservation value to limit a landowner's decision on implementing any aspect of an approved forest management plan or any appropriate best management practice to achieve water quality improvements.
+		</section>
+		<section prefix="D">The Department shall provide access to the ConserveVirginia model to the public and all state and federal agencies that benefit by using ConserveVirginia to determine conservation priorities.
+		</section>
+		<section prefix="E">The Department shall incorporate ConserveVirginia into acquisition or grant decisions when appropriate.
+		</section>
+		<section prefix="F">The Department shall utilize information provided by the Department of Agriculture and Consumer Services and the Department of Forestry when creating the Agriculture and Forestry map layers of ConserveVirginia. Such information shall include, as appropriate, new data sources that better reflect the economic viability of working farms and forests. The Department of Agriculture and Consumer Services and the Department of Forestry shall engage agriculture and forestry stakeholders to improve and refine the ConserveVirginia model to accurately reflect the conservation value of agricultural and forestal land in the Commonwealth. Such information shall inform whether the ConserveVirginia conservation values related to agriculture and forestry have been achieved.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 99; 2024, c. 753.</history>
+</law>

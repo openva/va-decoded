@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4311</section_number>
+	<catch_line>Employment discrimination by contractor prohibited; required contract provisions</catch_line>
+	<text>
+		All public bodies shall include in every contract of more than $10,000 the following provisions:
+		<section prefix="1">During the performance of this contract, the contractor agrees as follows:
+			a. The contractor will not discriminate against any employee or applicant for employment because of race, religion, color, sex, national origin, age, disability, or other basis prohibited by state law relating to discrimination in employment, except where there is a bona fide occupational qualification reasonably necessary to the normal operation of the contractor. The contractor agrees to post in conspicuous places, available to employees and applicants for employment, notices setting forth the provisions of this nondiscrimination clause.
+			b. The contractor, in all solicitations or advertisements for employees placed by or on behalf of the contractor, will state that such contractor is an equal opportunity employer.
+			c. Notices, advertisements and solicitations placed in accordance with federal law, rule or regulation shall be deemed sufficient for the purpose of meeting the requirements of this section.
+		</section>
+		<section prefix="2">The contractor will include the provisions of the foregoing paragraphs a, b and c in every subcontract or purchase order of over $10,000, so that the provisions will be binding upon each subcontractor or vendor.
+		</section>
+	</text>
+	<history>1982, c. 647, § 11-51; 2000, c. 628; 2001, c. 844.</history>
+</law>

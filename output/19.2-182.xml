@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="11" level="2">Proceedings on Question of Insanity</unit>
+	</structure>
+	<section_number>19.2-182</section_number>
+	<catch_line>Representation by counsel in proceeding for commitment</catch_line>
+	<text>
+		<section prefix="A">In any proceeding for commitment under this title, the judge before whom or upon whose order the proceeding is being held shall ascertain if the person whose commitment is sought is represented by counsel. If the person is not represented by counsel, the judge shall appoint an attorney at law to represent him in the proceeding. The attorney shall receive a fee of $150 for his services, to be paid by the Commonwealth.
+		</section>
+		<section prefix="B">Any attorney representing any person in any proceeding for commitment under this title shall, prior to such proceeding, personally consult with such person.
+		</section>
+	</text>
+	<history>Code 1950, § 19.1-239.1; 1966, c. 715; 1975, c. 495; 1991, c. 427; 2016, c. 474.</history>
+</law>

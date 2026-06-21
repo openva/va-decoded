@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions</unit>
+		<unit label="article" identifier="2" level="3">Insurance Classified and Defined</unit>
+	</structure>
+	<section_number>38.2-121</section_number>
+	<catch_line>Surety</catch_line>
+	<text>
+		"Surety insurance" means:
+		<section prefix="1">Becoming surety or guarantor for any person, in any public or private position or place of trust, whether the guarantee is in an individual, schedule or blanket form; or
+		</section>
+		<section prefix="2">Becoming surety on or guaranteeing the performance of any lawful obligation, undertaking, agreement, or contract, including reinsurance contracts connected therewith, except policies of insurance; or
+		</section>
+		<section prefix="3">Becoming surety on or guaranteeing the performance of bonds and undertakings required or permitted in all judicial proceedings or otherwise allowed by law, including surety bonds accepted by state and municipal authorities in lieu of deposits as security for the performance of insurance contracts.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-18; 1986, c. 562.</history>
+</law>

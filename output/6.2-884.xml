@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="8" level="3">Banks</unit>
+		<unit label="article" identifier="9" level="4">Investments and Loans</unit>
+	</structure>
+	<section_number>6.2-884</section_number>
+	<catch_line>Ownership and lease of personal property</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "personal property" includes fixtures.
+		</section>
+		<section prefix="B">A bank may become the owner and lessor of personal property, subject to the following limitations:
+			<section prefix="1">Except in the case of short-term leases where a subsequent sale or reletting is anticipated, the rentals receivable by the bank under the initial lease of any item of personal property shall equal at least the cost to the bank of such item of personal property;
+			</section>
+			<section prefix="2">Any leasing or rental obligations to any bank of any person shall be treated as obligations subject to the limitations imposed by § 6.2-875; and
+			</section>
+			<section prefix="3">Upon the expiration of any lease whether by virtue of the lease agreement or by virtue of the retaking of possession by the bank, the personal property shall be sold or otherwise disposed of, or charged off within one year from the time of expiration of such lease unless it is held for the purpose of reletting.
+			</section>
+		</section>
+		<section prefix="C">No personal property acquired pursuant to this section shall be included in computable investment in fixed assets under § 6.2-870.
+		</section>
+	</text>
+	<history>1968, c. 56, § 6.1-68.1; 1989, c. 482; 2010, c. 794.</history>
+</law>

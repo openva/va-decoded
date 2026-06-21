@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="52" level="1">Police (State)</unit>
+		<unit label="chapter" identifier="6.1" level="2">Virginia Community Policing Act</unit>
+	</structure>
+	<section_number>52-30.2</section_number>
+	<catch_line>(Effective January 1, 2026) Prohibited practices; collection of data</catch_line>
+	<text>
+		<section prefix="A">No State Police officer shall engage in bias-based profiling in the performance of his official duties.
+		</section>
+		<section prefix="B">State Police officers shall collect data pertaining to (i) all investigatory motor vehicle stops, (ii) all stop-and-frisks of a person based on reasonable suspicion, and (iii) all other investigatory detentions that do not result in an arrest or the issuance of a summons to be reported into the Community Policing Reporting Database. State Police officers shall submit the data to their commanding officers, who shall forward it to the Superintendent of State Police.
+		</section>
+		<section prefix="C">Each time a law-enforcement officer or State Police officer stops a driver of a motor vehicle, stops and frisks a person based on reasonable suspicion, or temporarily detains a person during any other investigatory stop, such officer shall collect the following data based on the officer's observation or information provided to the officer by the driver: (i) the race, ethnicity, age, gender of the person stopped, and whether the person stopped spoke English; (ii) the reason for the stop; (iii) whether a notification from an automatic license plate recognition system, as defined in § 2.2-5517, was received for the motor vehicle prior to such stop, and if so, the specific reason for the notification as set forth in subsection D of § 2.2-5517; (iv) the location of the stop; (v) whether a warning, written citation, or summons was issued or whether any person was arrested; (vi) if a warning, written citation, or summons was issued or an arrest was made, the warning provided, violation charged, or crime charged; (vii) whether the vehicle or any person was searched; and (viii) whether the law-enforcement officer or State Police officer used physical force against any person and whether any person used physical force against any officers.
+		</section>
+		<section prefix="D">Each state and local law-enforcement agency shall collect the number of complaints the agency receives alleging the use of excessive force.
+		</section>
+	</text>
+	<history>2020, c. 1165; 2020, Sp. Sess. I, c. 37; 2025, c. 720.</history>
+</law>

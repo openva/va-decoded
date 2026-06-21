@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="11" level="3">Bail Bondsmen</unit>
+	</structure>
+	<section_number>9.1-185.16</section_number>
+	<catch_line>Department submission to the State Corporation Commission</catch_line>
+	<text>
+		<section prefix="A">The Department shall provide to the State Corporation Commission a list of all newly licensed surety bondsmen each month.
+		</section>
+		<section prefix="B">When the Department terminates a surety bail bondsman's license, the Department shall immediately notify the State Corporation Commission of the surety bail bondsman's termination and the reason for such termination.
+		</section>
+	</text>
+	<history>2004, c. 460.</history>
+</law>

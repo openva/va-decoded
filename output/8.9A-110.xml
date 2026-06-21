@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="1" level="2">General Provisions</unit>
+		<unit label="subpart" identifier="2" level="3">Applicability of Title</unit>
+	</structure>
+	<section_number>8.9A-110</section_number>
+	<catch_line>Security interests arising under Title 8.2 or Title 8.2A</catch_line>
+	<text>
+		A security interest arising under §§ 8.2-401, 8.2-505, 8.2-711 (3), or § 8.2A-508 (5) is subject to this title. However, until the debtor obtains possession of the goods:
+		<section prefix="1">the security interest is enforceable, even if subdivision (b) (3) of § 8.9A-203 has not been satisfied;
+		</section>
+		<section prefix="2">filing is not required to perfect the security interest;
+		</section>
+		<section prefix="3">the rights of the secured party after default by the debtor are governed by Title 8.2 or Title 8.2A; and
+		</section>
+		<section prefix="4">the security interest has priority over a conflicting security interest created by the debtor.
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-113; 1991, c. 536; 2000, c. 1007.</history>
+</law>

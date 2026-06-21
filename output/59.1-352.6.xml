@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="27.1" level="2">Equipment Dealers Protection Act</unit>
+	</structure>
+	<section_number>59.1-352.6</section_number>
+	<catch_line>Exceptions to repurchase requirement</catch_line>
+	<text>
+		This chapter does not require the repurchase from a dealer of:
+		<section prefix="1">A repair part with a limited storage life or otherwise subject to deterioration, such as gaskets or batteries, except for industrial "press on" or industrial pneumatic tires.
+		</section>
+		<section prefix="2">A single repair part that is priced as a set of two or more items.
+		</section>
+		<section prefix="3">A repair part that, because of its condition, is not resalable as a new part without repackaging or reconditioning.
+		</section>
+		<section prefix="4">Any repair part that is not in new, unused, undamaged condition.
+		</section>
+		<section prefix="5">An item of inventory for which the dealer does not have title free of all claims, liens, and encumbrances other than those of the supplier.
+		</section>
+		<section prefix="6">Any inventory that the dealer chooses to keep.
+		</section>
+		<section prefix="7">Any inventory that was ordered by the dealer after either party's receipt of notice of termination of the franchise agreement.
+		</section>
+		<section prefix="8">Any farm implements and machinery, construction, utility and industrial equipment, outdoor power equipment, and attachments that are not current models or that are not in new, unused, undamaged, complete condition, provided that the equipment used in demonstrations or leased, as provided in § 59.1-352.5, shall be considered new and unused.
+		</section>
+		<section prefix="9">Any farm implements and machinery, construction, utility and industrial equipment, outdoor power equipment, and attachments that were purchased more than thirty-six months prior to notice of termination of the agreement.
+		</section>
+		<section prefix="10">Any inventory that was acquired by the dealer from a source other than the supplier.
+		</section>
+	</text>
+	<history>2002, c. 898.</history>
+</law>

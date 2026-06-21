@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="III" level="2">Professions and Occupations Regulated by Boards Within the Department of Health Professions</unit>
+		<unit label="chapter" identifier="34" level="3">Drug Control Act</unit>
+		<unit label="article" identifier="5" level="4">Standards and Schedules</unit>
+	</structure>
+	<section_number>54.1-3445</section_number>
+	<catch_line>Placement of substance in Schedule I</catch_line>
+	<text>
+		The Board shall place a substance in Schedule I if it finds that the substance:
+		<section prefix="1">Has high potential for abuse; and
+		</section>
+		<section prefix="2">Has no accepted medical use in treatment in the United States or lacks accepted safety for use in treatment under medical supervision.
+		</section>
+	</text>
+	<history>1972, c. 798, § 54-524.84:3; 1988, c. 765.</history>
+</law>

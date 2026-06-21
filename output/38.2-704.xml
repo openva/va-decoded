@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="7" level="2">Antitrust Provisions</unit>
+	</structure>
+	<section_number>38.2-704</section_number>
+	<catch_line>Penalties</catch_line>
+	<text>
+		<section prefix="A">Any person who violates a cease and desist order entered under § 38.2-703 shall be subject to the provisions of § 38.2-218.
+		</section>
+		<section prefix="B">Any person convicted of violating this chapter may, in addition, be punished under the provisions of Chapter 1.1 (§ 59.1-9.1 et seq.) of Title 59.1.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-62; 1986, c. 562.</history>
+</law>

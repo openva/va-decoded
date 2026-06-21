@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Shareholders</unit>
+	</structure>
+	<section_number>13.1-670</section_number>
+	<catch_line>Voting trusts</catch_line>
+	<text>
+		<section prefix="A">One or more shareholders may create a voting trust, conferring on a trustee the right to vote or otherwise act for them, by signing an agreement setting out the provisions of the trust, which may include anything consistent with its purpose, and transferring their shares to the trustee. When a voting trust agreement is signed, the trustee shall prepare a list of the names and addresses of all voting trust beneficial owners, together with the number and class or series of shares each transferred to the trust, and deliver copies of the list and agreement to the corporation at its principal office.
+		</section>
+		<section prefix="B">A voting trust becomes effective on the date the first shares subject to the trust are registered in the trustee's name.
+		</section>
+		<section prefix="C">Limits, if any, on the duration of a voting trust shall be as set forth in the voting trust, except that a voting trust that became effective prior to July 1, 2015, is valid for not more than 10 years after its effective date unless some or all of the parties to the voting trust extend it by signing a written consent to the extension.
+		</section>
+		<section prefix="D">Any consent to an extension signed by less than all of the parties to the voting trust binds only the parties signing it.
+			The voting trustee shall deliver copies of any consent to extension and the list of beneficial owners to the corporation's secretary at the corporation's principal office.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-34; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2005, c. 765; 2015, c. 611; 2019, c. 734.</history>
+</law>

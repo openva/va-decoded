@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="36" level="1">Housing</unit>
+		<unit label="chapter" identifier="1" level="2">Housing Authorities Law</unit>
+		<unit label="article" identifier="4" level="3">Bonds, Trust Indentures and Mortgages</unit>
+	</structure>
+	<section_number>36-33</section_number>
+	<catch_line>Additional remedies conferrable by authority</catch_line>
+	<text>
+		An authority shall have power by its resolution, trust indenture, mortgage, lease or other contract to confer upon any obligee holding or representing a specified amount in bonds, or holding a lease, the right (in addition to all rights that may otherwise be conferred), upon the happening of an event of default as defined in such resolution or instrument, by suit, action or proceeding in any court of competent jurisdiction:
+		<section prefix="a">To cause possession of any housing project or any part thereof to be surrendered to any such obligee.
+		</section>
+		<section prefix="b">To obtain the appointment of a receiver of any housing project of the authority or any part thereof and of the rents and profits therefrom. If such receiver be appointed, he may enter and take possession of such housing project or any part thereof and operate and maintain same, and collect and receive all fees, rents, revenues, or other charges thereafter arising therefrom, and shall keep such moneys in a separate account or accounts and supply the same in accordance with the obligation of the authority as the court shall direct.
+		</section>
+		<section prefix="c">To require the authority and the commissioners thereof to account as if it and they were the trustees of an express trust.
+		</section>
+	</text>
+	<history>1938, p. 456; Michie Code 1942, § 3145(18).</history>
+</law>

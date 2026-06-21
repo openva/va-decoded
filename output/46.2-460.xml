@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="15" level="4">Proof of Financial Responsibility</unit>
+	</structure>
+	<section_number>46.2-460</section_number>
+	<catch_line>When Commissioner to consent to cancellation of bond or policy, or return of money or securities</catch_line>
+	<text>
+		The Commissioner, on request and subject to the provisions of § 46.2-461, shall consent to the cancellation of any bond or insurance policy or to the return to the person entitled thereto of any money or securities deposited pursuant to this chapter as proof of financial responsibility or he shall not require proof of financial responsibility in the event:
+		<section prefix="1">Of the death of the person on whose behalf the proof was filed;
+		</section>
+		<section prefix="2">Of his permanent incapacity to operate a motor vehicle; or
+		</section>
+		<section prefix="3">That the person who has given proof of financial responsibility surrenders his driver's license, and all of his registration cards, and license plates to the Commissioner.
+		</section>
+	</text>
+	<history>Code 1950, § 46-480; 1958, c. 541, § 46.1-491; 1984, c. 780; 1989, c. 727.</history>
+</law>

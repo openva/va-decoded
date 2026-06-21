@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="20.1" level="4">Virginia Information Technologies Agency</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-2006</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, unless the context requires a different meaning:
+		"Commonwealth information technology project" means any state agency information technology project that is under Commonwealth governance and oversight.
+		"Commonwealth Project Management Standard" means a document developed and adopted by the Chief Information Officer (CIO) pursuant to § 2.2-2016.1 that describes the methodology for conducting information technology projects, and the governance and oversight used to ensure project success.
+		"Confidential data" means information made confidential by federal or state law that is maintained in an electronic format.
+		"Enterprise" means an organization with common or unifying business interests. An enterprise may be defined at the Commonwealth level or secretariat level for program and project integration within the Commonwealth, secretariats, or multiple agencies.
+		"Executive branch agency" or "agency" means any agency, institution, board, bureau, commission, council, public institution of higher education, or instrumentality of state government in the executive department listed in the appropriation act. However, "executive branch agency" or "agency" does not include the University of Virginia Medical Center, a public institution of higher education to the extent exempt from this chapter pursuant to the Restructured Higher Education Financial and Administrative Operations Act (§ 23.1-1000 et seq.) or other law, or the Virginia Port Authority.
+		"Information technology" means communications, telecommunications, automated data processing, applications, databases, data networks, the Internet, management information systems, and related information, equipment, goods, and services. The provisions of this chapter shall not be construed to hamper the pursuit of the missions of the institutions in instruction and research.
+		"ITAC" means the Information Technology Advisory Council created in § 2.2-2699.5.
+		"Major information technology project" means any Commonwealth information technology project that has a total estimated cost of more than $1 million or that has been designated a major information technology project by the CIO pursuant to the Commonwealth Project Management Standard developed under § 2.2-2016.1.
+		"Secretary" means the Secretary of Administration.
+		"Technology asset" means hardware and communications equipment not classified as traditional mainframe-based items, including personal computers, mobile computers, and other devices capable of storing and manipulating electronic data.
+		"Telecommunications" means any origination, transmission, emission, or reception of data, signs, signals, writings, images, and sounds or intelligence of any nature, by wire, radio, television, optical, or other electromagnetic systems.
+	</text>
+	<history>1984, c. 746, § 2.1-563.13; 1997, c. 858; 2001, c. 844, § 2.2-1301; 2003, cc. 981, 1021; 2004, c. 145; 2007, c. 769; 2010, cc. 136, 145; 2011, c. 739; 2012, cc. 803, 835; 2014, cc. 37, 181; 2015, c. 768; 2016, c. 296; 2020, c. 738.</history>
+</law>

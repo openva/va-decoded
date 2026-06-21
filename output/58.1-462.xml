@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="16" level="4">Income Tax Withholding</unit>
+	</structure>
+	<section_number>58.1-462</section_number>
+	<catch_line>Withholding tables</catch_line>
+	<text>
+		The amount of tax to be withheld for each individual shall be based upon tables to be prepared and distributed by the Tax Commissioner. The tables shall be computed for the several permissible withholding periods and shall take account of the number of exemptions allowed under the laws of the United States relating to federal income taxes and the standard deduction as provided in § 58.1-461. The amounts computed for withholding shall be such that the amount withheld for any individual during his taxable year shall approximate in the aggregate as closely as practicable the tax which is levied and imposed under this chapter for that taxable year, upon his salary, wages or compensation for personal services of any kind for the employer.
+	</text>
+	<history>Code 1950, § 58-151.3; 1962, c. 612; 1971, Ex. Sess., c. 171; 1984, c. 675.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="A" level="3">Coal Mines Generally</unit>
+		<unit label="chapter" identifier="5" level="4">Coal Mine Safety Act</unit>
+		<unit label="article" identifier="4" level="5">Licensing for Operation of Coal Mines</unit>
+	</structure>
+	<section_number>45.2-539</section_number>
+	<catch_line> Operating without license; penalty</catch_line>
+	<text>
+		<section prefix="A">In addition to any other power conferred by law, the Chief or his designated representative may issue an order closing any coal mine that is operating without a license. The procedure for issuing a closure order shall be as provided in § 45.2-569.
+		</section>
+		<section prefix="B">Any person operating an unlicensed mine is guilty of a Class 3 misdemeanor. Each day any person operates an unlicensed mine shall constitute a separate offense.
+		</section>
+	</text>
+	<history>Code 1950, § 45-17.4; 1958, c. 306; 1966, c. 594, § 45.1-25; 1978, c. 489; 1994, c. 28, § 45.1-161.61; 1997, c. 390; 2021, Sp. Sess. I, c. 387.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="2" level="2">Collection of Items: Depositary and Collecting Banks</unit>
+	</structure>
+	<section_number>8.4-205.1</section_number>
+	<catch_line>Depositary bank holder of unendorsed item</catch_line>
+	<text>
+		If a customer delivers an item to a depositary bank for collection:
+		<section prefix="1">the depositary bank becomes a holder of the item at the time it receives the item for collection if the customer at the time of the delivery was a holder of the item, whether or not the customer endorses the item, and, if the bank satisfies the other requirements of § 8.3A-302, it is a holder in due course; and
+		</section>
+		<section prefix="2">the depositary bank warrants to collecting banks, the payor bank or other payor, and the drawer that the amount of the item was paid to the customer or deposited to the customer's account.
+		</section>
+	</text>
+	<history>1992, c. 693.</history>
+</law>

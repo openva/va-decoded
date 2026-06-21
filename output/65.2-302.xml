@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="3" level="2">Application and Effect of Title</unit>
+	</structure>
+	<section_number>65.2-302</section_number>
+	<catch_line>Statutory employer</catch_line>
+	<text>
+		<section prefix="A">When any person (referred to in this section as "owner") undertakes to perform or execute any work which is a part of his trade, business or occupation and contracts with any other person (referred to in this section as "subcontractor") for the execution or performance by or under such subcontractor of the whole or any part of the work undertaken by such owner, the owner shall be liable to pay to any worker employed in the work any compensation under this title which he would have been liable to pay if the worker had been immediately employed by him.
+		</section>
+		<section prefix="B">When any person (referred to in this section as "contractor") contracts to perform or execute any work for another person which work or undertaking is not a part of the trade, business or occupation of such other person and contracts with any other person (referred to in this section as "subcontractor") for the execution or performance by or under the subcontractor of the whole or any part of the work undertaken by such contractor, then the contractor shall be liable to pay to any worker employed in the work any compensation under this title which he would have been liable to pay if that worker had been immediately employed by him.
+		</section>
+		<section prefix="C">When the subcontractor in turn contracts with still another person (also referred to as "subcontractor") for the performance or execution by or under such last subcontractor of the whole or any part of the work undertaken by the first subcontractor, then the liability of the owner or contractor shall be the same as the liability imposed by subsections A and B of this section.
+		</section>
+		<section prefix="D">1. Liability for compensation pursuant to this section may not be imposed against any person who, at the time of an injury sustained by a worker engaged in the maintenance or repair of real property managed by such person, and for which injury compensation is sought:
+			a. Was engaged in the business of property management on behalf of the owners of such property and was acting merely as an agent of the owner;
+			b. Did not engage in and had no employees engaged in the same trade, business or occupation as the worker seeking compensation; and
+			c. Did not seek or obtain from such property's owners, or from any other property owners for whom such person rendered property management services, profit from the services performed by individuals engaged in the same trade, business or occupation as the worker seeking compensation.
+			<section prefix="2">For purposes of this subsection, "the business of property management" means the oversight, supervision, and care of real property or improvements to real property, on behalf of such property's owners.
+			</section>
+			<section prefix="3">For purposes of this subsection, "property owners" or "property's owners" means (i) owners in fee of such property or (ii) persons having legal entitlement to the use or occupation of such property at the time of the injury for which liability is sought to be imposed pursuant to this section.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, §§ 65-26 through 65-28; 1968, c. 660, §§ 65.1-29 through 65.1-31; 1991, c. 355; 1999, c. 877.</history>
+</law>

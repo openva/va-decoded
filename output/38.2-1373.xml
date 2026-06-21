@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="10" level="3">Standard Valuation</unit>
+	</structure>
+	<section_number>38.2-1373</section_number>
+	<catch_line>Reserve valuation method; annuity and pure endowment benefits</catch_line>
+	<text>
+		<section prefix="A">This section shall apply to all annuity and pure endowment contracts other than group annuity and pure endowment contracts purchased under a retirement plan or plan of deferred compensation, established or maintained by an employer, including a partnership or sole proprietorship, or by an employee organization, or both, other than a plan providing individual retirement accounts or individual retirement annuities under § 408 of the Internal Revenue Code, as now or hereafter amended.
+		</section>
+		<section prefix="B">Reserves according to the Commissioners annuity reserve method for benefits under annuity or pure endowment contracts, excluding any disability and accidental death benefits in the contracts, shall be the greatest of the respective excesses of the present values, at the date of valuation, of the future guaranteed benefits, including guaranteed nonforfeiture benefits, provided for by the contracts at the end of each respective contract year, over the present value, at the date of valuation, of any future valuation considerations derived from future gross considerations, required by the terms of the contract, that become payable prior to the end of the respective contract year. The future guaranteed benefits shall be determined by using the mortality table, if any, and the interest rate, or rates, specified in those contracts for determining guaranteed benefits. The valuation considerations are the portions of the respective gross considerations applied under the terms of those contracts to determine nonforfeiture values.
+		</section>
+	</text>
+	<history>2014, c. 571.</history>
+</law>

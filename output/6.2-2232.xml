@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="22.1" level="3">Sales-Based Financing Providers</unit>
+	</structure>
+	<section_number>6.2-2232</section_number>
+	<catch_line>Recipient place of business; required signature</catch_line>
+	<text>
+		<section prefix="A">For the purpose of determining whether a person's principal place of business is in the Commonwealth, a provider or broker may rely upon (i) any written representation by the person as to whether the person's principal place of business is in the Commonwealth, or (ii) the business address provided by the person is in the application for financing.
+		</section>
+		<section prefix="B">The provider shall obtain the recipient's signature, which may be fulfilled by an electronic signature, on all disclosures required to be presented to the recipient by this chapter at the time the recipient accepts the specific sales-based financing offer.
+		</section>
+	</text>
+	<history>2022, c. 516.</history>
+</law>

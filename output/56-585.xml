@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="23" level="2">Virginia Electric Utility Regulation Act</unit>
+	</structure>
+	<section_number>56-585</section_number>
+	<catch_line>Default service</catch_line>
+	<text>
+		<section prefix="A">The Commission shall, after notice and opportunity for hearing, (i) determine the components of default service and (ii) establish one or more programs making such services available to retail customers requiring them during the availability throughout the Commonwealth of customer choice for all retail customers as established pursuant to § 56-577. For purposes of this chapter, "default service" means service made available under this section to retail customers who (i) do not affirmatively select a supplier, (ii) are unable to obtain service from an alternative supplier, or (iii) have contracted with an alternative supplier who fails to perform. Availability of default service shall expire upon the expiration or termination of capped rates.
+		</section>
+		<section prefix="B">A distributor shall have the obligation and right to be the supplier of default services in its certificated service territory, and shall do so, in a safe and reliable manner, at rates determined pursuant to subsection C; however, the Commission may not require a distributor, or affiliate thereof, to provide any such services outside the territory in which such distributor provides service.
+		</section>
+		<section prefix="C">Until the expiration or termination of capped rates, the rates for default service shall equal the capped rates established pursuant to subdivision A 2 of § 56-582.
+		</section>
+		<section prefix="D">A distribution electric cooperative, or one or more affiliates thereof, shall have the obligation and right to be the supplier of default services in its certificated service territory. A distribution electric cooperative's rates for such default services shall be the capped rate for the duration of the capped rate period. Subsections B and C shall not apply to a distribution electric cooperative or its rates. Such default services, for the purposes of this subsection, shall include the supply of electric energy.
+		</section>
+	</text>
+	<history>1999, c. 411; 2000, c. 991; 2001, c. 748; 2003, c. 885; 2004, c. 827; 2007, cc. 888, 933.</history>
+</law>

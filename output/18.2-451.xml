@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="10" level="2">Crimes Against the Administration of Justice</unit>
+		<unit label="article" identifier="4" level="3">Barratry</unit>
+	</structure>
+	<section_number>18.2-451</section_number>
+	<catch_line>Definitions; application and construction of article</catch_line>
+	<text>
+		<section prefix="a">"Barratry" is the offense of stirring up litigation.
+		</section>
+		<section prefix="b">A "barrator" is an individual, partnership, association or corporation who or which stirs up litigation.
+		</section>
+		<section prefix="c">"Stirring up litigation" means instigating or attempting to instigate a person or persons to institute a suit at law or equity.
+		</section>
+		<section prefix="d">"Instigating" means bringing it about that all or part of the expenses of the litigation are paid by the barrator or by a person or persons (other than the plaintiffs) acting in concert with the barrator, unless the instigation is justified.
+		</section>
+		<section prefix="e">"Justified" means that the instigator is related by blood or marriage to the plaintiff whom he instigates, or that the instigator is entitled by law to share with the plaintiff in money or property that is the subject of the litigation or that the instigator has a direct interest in the subject matter of the litigation or occupies a position of trust in relation to the plaintiff; or that the instigator is acting on behalf of a duly constituted legal aid society approved by the Virginia State Bar which offers advice or assistance in all kinds of legal matters to all members of the public who come to it for advice or assistance and are unable because of poverty to pay legal fees.
+		</section>
+		<section prefix="f">"Direct interest" means a personal right or a pecuniary right or liability.
+			This article shall not be applicable to attorneys who are parties to contingent fee contracts with their clients where the attorney does not protect the client from payment of the costs and expense of litigation, nor shall this article apply to any matter involving annexation, zoning, bond issues, or the holding or results of any election or referendum, nor shall this article apply to suits pertaining to or affecting possession of or title to real or personal property, regardless of ownership, nor shall this article apply to suits involving the legality of assessment or collection of taxes or the rates thereof, nor shall this article apply to suits involving rates or charges or services by common carriers or public utilities, nor shall this article apply to criminal prosecutions, nor to the payment of attorneys by legal aid societies approved by the Virginia State Bar, nor to proceedings to abate nuisances. Nothing herein shall be construed to be in derogation of the constitutional rights of real parties in interest to employ counsel or to prosecute any available legal remedy under the laws of this Commonwealth.
+		</section>
+	</text>
+	<history>Code 1950, § 18.1-388; 1960, c. 358; 1975, cc. 14, 15.</history>
+</law>

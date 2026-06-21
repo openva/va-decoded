@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="56" level="2">Genetic Data Privacy</unit>
+	</structure>
+	<section_number>59.1-596</section_number>
+	<catch_line>Express consent required; revocation of express consent</catch_line>
+	<text>
+		<section prefix="A">Express consent required pursuant to this chapter requires a statement of the nature of the data collection, use, maintenance, or disclosure for which express consent is sought in plain and prominent language that an ordinary consumer would notice and understand and an affirmative authorization by the consumer granting permission in response to such statement. Express consent shall not be inferred from inaction.
+		</section>
+		<section prefix="B">Every direct-to-consumer genetic testing company shall obtain a consumer's express consent for the collection, use, and disclosure of the consumer's genetic data, including, at a minimum, separate and express consent for each of the following:
+			<section prefix="1">The use of genetic data collected through the genetic testing product or service offered to the consumer. Express consent for such use of genetic data shall include a statement describing who will receive access to the genetic data, how such genetic data will be shared, and the purposes for which such data shall be collected, used, and disclosed;
+			</section>
+			<section prefix="2">The storage of a consumer's biological sample after the initial testing required by the consumer has been completed;
+			</section>
+			<section prefix="3">Each use of genetic data or the biological sample beyond the primary purpose of the genetic testing or service and inherent contextual uses;
+			</section>
+			<section prefix="4">Each transfer or disclosure of the consumer's genetic data or biological sample to a third party other than a service provider, including the name of the third party to which the consumer's genetic data or biological sample will be transferred or disclosed; and
+			</section>
+			<section prefix="5">Any marketing or facilitation of marketing to a consumer based on the consumer's genetic data or marketing or facilitation of marketing by a third party based on the consumer's having ordered, purchased, received, or used a genetic testing product or service, except that a direct-to-consumer genetic testing company shall not be required to obtain a consumer's express consent to marketing to the consumer on the company's own website or mobile application based on the consumer having ordered, purchased, received, or used a genetic testing product or service from that company if (i) the advertisement does not depend on any information specific to that consumer other than information regarding the product or service that the consumer ordered, purchased, received, or used; (ii) the placement of the advertisement does not result in disparate exposure to advertising content on the basis of the sex, race, color, religion, ancestry, national origin, disability, medical condition, genetic data, marital status, sexual orientation, citizenship, primary language, or immigration status of the consumer; and (iii) the advertisement of a third-party product or service is clearly labeled as advertising content, is accompanied by the name of the third party that has contributed to the placement of the advertisement, and, if applicable, indicates that the advertised product or service and claims regarding the product or service have not been vetted or endorsed by the direct-to-consumer genetic testing company.
+			</section>
+		</section>
+		<section prefix="C">Every direct-to-consumer genetic testing company shall provide a mechanism by which a consumer may revoke the express consent required pursuant to subsection B, which shall include an option for revocation of express consent through the primary medium through which the company communicates with consumers.
+		</section>
+		<section prefix="D">Upon revocation of the express consent required pursuant to subsection B by a consumer, a direct-to-consumer genetic testing company shall (i) honor such revocation of express consent as soon as is practicable but in all cases within 30 days of receipt of such revocation and (ii) destroy the consumer's biological sample within 30 days of receipt of revocation of the consumer's express consent to store such sample.
+		</section>
+	</text>
+	<history>2023, c. 526.</history>
+</law>

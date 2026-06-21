@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="C" level="3">Surface Coal Mines</unit>
+		<unit label="chapter" identifier="9" level="4">Requirements Applicable to Surface Coal Mines</unit>
+		<unit label="article" identifier="2" level="5">Work Area Examinations, Recordkeeping, and Reporting</unit>
+	</structure>
+	<section_number>45.2-903</section_number>
+	<catch_line> Safety examinations</catch_line>
+	<text>
+		<section prefix="A">An on-shift examination of the work area, including any pit, auger, thin seam, or highwall operation, shall be conducted by a certified person for each production shift and at such other times or frequency as the Chief designates as necessary for hazardous conditions.
+		</section>
+		<section prefix="B">A pre-operational examination of all mobile equipment shall be conducted by an authorized person.
+		</section>
+		<section prefix="C">A pre-shift examination shall be conducted by a certified person for certain hazardous conditions designated by the Chief.
+		</section>
+		<section prefix="D">Each mine refuse pile, as defined in § 45.2-617, shall be examined by an authorized person on each day on which any person works at such location.
+		</section>
+		<section prefix="E">The location of each natural gas pipeline on a permitted surface mine area shall be identified and conspicuously marked so that equipment operators can readily identify the location of such pipeline. A pre-shift examination shall be conducted of the location of each pipeline whenever the work area approaches within 500 feet of such pipeline unless otherwise approved by the Chief.
+		</section>
+		<section prefix="F">An air quality examination shall be conducted by a certified person when a surface coal mining operation intersects an underground mine, auger hole, or other underground working.
+		</section>
+		<section prefix="G">At least one examination for methane shall be conducted for each production shift in each surface installation, enclosure, or other facility in which coal is handled or stored. Each such area shall also be tested for methane before any activity involving welding, cutting, or an open flame. An examination conducted pursuant to this subsection shall be made by an authorized person certified to make gas tests.
+		</section>
+		<section prefix="H">Electrical equipment and wiring shall be inspected as often as necessary but at least once per month.
+		</section>
+		<section prefix="I">Each fire extinguisher shall be examined at least once every six months.
+		</section>
+		<section prefix="J">Each area of an inactive surface coal mine shall be examined for hazardous conditions by a mine foreman immediately before any miner is permitted to enter into such area to take emergency actions to preserve a mine.
+		</section>
+	</text>
+	<history>Code 1950, §§ 45-32, 45-33, 45-60.4, 45-61, 45-68.1, 45-69.7; 1954, c. 191; 1966, c. 594, §§ 45.1-20, 45.1-42, 45.1-65; 1976, c. 598; 1978, cc. 118, 120; 1982, c. 385; 1994, c. 28, § 45.1-161.256; 1996, c. 774; 1999, c. 256; 2005, c. 3; 2021, Sp. Sess. I, c. 387.</history>
+</law>

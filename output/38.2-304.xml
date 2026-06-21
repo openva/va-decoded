@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="3" level="2">Provisions Relating to Insurance Policies and Contracts</unit>
+	</structure>
+	<section_number>38.2-304</section_number>
+	<catch_line>Contracts of temporary insurance; duration; what deemed to include</catch_line>
+	<text>
+		<section prefix="A">Oral or written binders or other temporary insurance contracts may be made and used for a period not exceeding sixty days pending the issuance of the policy. Unless otherwise provided, oral or written binders or other temporary insurance contracts shall be deemed to include the usual provisions, stipulations and agreements which are commonly used in this Commonwealth in effecting the class of insurance being written.
+		</section>
+		<section prefix="B">This section shall not apply to:
+			<section prefix="1">Binders or other contracts referred to in §§ 38.2-2112 and 38.2-4605;
+			</section>
+			<section prefix="2">Conditional receipts issued by life insurers; or
+			</section>
+			<section prefix="3">Group insurance policies.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 38-181; 1952, c. 317, § 38.2-332; 1986, c. 562.</history>
+</law>

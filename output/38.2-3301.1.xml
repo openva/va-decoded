@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="1" level="3">Life Insurance Policies; Annuities</unit>
+	</structure>
+	<section_number>38.2-3301.1</section_number>
+	<catch_line>Delivery of individual life insurance policies</catch_line>
+	<text>
+		<section prefix="A">For purposes of determining the commencement of the period during which the owner of an individual life insurance policy may exercise any statutory right to examine, surrender, or return the policy for cancellation, the date of delivery of the policy shall be:
+			<section prefix="1">The date of the signed receipt of delivery if the life insurance policy is (i) delivered by United States mail or other postal delivery system, or (ii) physically delivered to the owner by a representative of the insurer; or
+			</section>
+			<section prefix="2">The date of electronic transmission of the policy, provided the electronic transmission has been effected in accordance with this title and any other state or federal laws governing the electronic transmission of documents and information. The insurer shall retain evidence of electronic transmittal for the entire period of the life insurance policy.
+			</section>
+		</section>
+		<section prefix="B">If an insurer does not deliver a policy by the means set forth in subsection A, the burden of proof shall be on the insurer to establish that the policy was delivered, in the event of a dispute with the owner of the policy.
+		</section>
+		<section prefix="C">Notwithstanding subsections A and B, a policy shall be deemed to have been received by the owner of the policy as of the date of its issuance if six months have passed since its issuance and the owner of the policy has paid the premiums pursuant to the contract for those six months.
+		</section>
+	</text>
+	<history>2009, c. 299.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="35" level="2">Accident and Sickness Insurance Policies</unit>
+		<unit label="article" identifier="5" level="3">Small Employer Health Insurance Pooling</unit>
+	</structure>
+	<section_number>38.2-3553</section_number>
+	<catch_line>Membership in a small employer health group cooperative</catch_line>
+	<text>
+		<section prefix="A">A small employer health group cooperative:
+			<section prefix="1">Shall not limit, restrict, or condition a small employer's membership in the small employer health group cooperative on any health status-related factor relating to an individual, including an employee of a small employer or a dependent of an employee; and
+			</section>
+			<section prefix="2">Shall make group health policies offered through the small employer health group cooperative available to all eligible employees of its employer-members and their eligible dependents, regardless of any health status-related factor relating to individuals eligible for coverage through a member.
+			</section>
+		</section>
+		<section prefix="B">Notwithstanding subdivision 2 of subsection A, nothing in this article shall be construed as requiring (i) an issuer to provide coverage outside its service area or (ii) a small employer health group cooperative to make such coverage available to employer-members located outside the service area of the issuer.
+		</section>
+		<section prefix="C">A small employer health group cooperative shall not make group health policies offered through the cooperative available other than to the eligible employees of its employer-members and their eligible dependents.
+		</section>
+	</text>
+	<history>2006, c. 427.</history>
+</law>

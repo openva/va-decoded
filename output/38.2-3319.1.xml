@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="2" level="3">Group Life Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3319.1</section_number>
+	<catch_line>Limits of group life insurance</catch_line>
+	<text>
+		Group life insurance offered to a resident of this Commonwealth under a group life insurance policy issued to a group other than one described in § 38.2-3318.1 shall be subject to the following requirements:
+		<section prefix="A">No such group life insurance policy shall be delivered in this Commonwealth unless the Commission finds that:
+			<section prefix="1">The issuance of such group policy is not contrary to Virginia's public policy and is in the best interest of the citizens of this Commonwealth;
+			</section>
+			<section prefix="2">The issuance of the group policy would result in economies of acquisition or administration; and
+			</section>
+			<section prefix="3">The benefits are reasonable in relation to the premiums charged.
+				Insurers filing policy forms seeking approval under the provisions of this subsection shall accompany the forms with a certification, signed by the officer of the company with the responsibility for forms compliance, in which the company certifies that each such policy form will be issued only where the requirements set forth in subdivisions 1 through 3 of this subsection have been met.
+			</section>
+		</section>
+		<section prefix="B">No such group life insurance coverage may be offered in this Commonwealth by an insurer under a policy issued in another state unless this Commonwealth or another state having requirements substantially similar to those contained in subdivisions 1, 2 and 3 of subsection A has made a determination that such requirements have been met.
+			An insurer offering group life insurance coverage in this Commonwealth under this subsection shall file a certification, signed by the officer of the company having responsibility for forms compliance in which the company certifies that all group insurance coverage marketed to residents of this Commonwealth under policies which have not been approved by this Commonwealth will comply with the provisions of § 38.2-3318.1 or have met the requirements set forth in subdivisions A 1 through A 3 of this section, and which clearly demonstrates that the substantially similar requirements of the state in which the contract will be issued have been met. The certification shall be accompanied by documentation from such state evidencing the determination that such requirements have been met.
+		</section>
+		<section prefix="C">The premium for the policy shall be paid either from the policyholder's funds or from funds contributed by the covered persons, or from both.
+		</section>
+		<section prefix="D">An insurer may exclude or limit the coverage on any person as to whom evidence of individual insurability is not satisfactory to the insurer.
+		</section>
+	</text>
+	<history>1998, c. 154.</history>
+</law>

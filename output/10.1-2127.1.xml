@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="21.1" level="3">Virginia Water Quality Improvement Act of 1997</unit>
+		<unit label="article" identifier="4" level="4">Virginia Water Quality Improvement Fund</unit>
+	</structure>
+	<section_number>10.1-2127.1</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article, unless the context requires a different meaning:
+		"Fund" means the Virginia Water Quality Improvement Fund established by § 10.1-2128.
+	</text>
+	<history>2019, c. 533.</history>
+</law>

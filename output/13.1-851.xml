@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Members and Meetings</unit>
+	</structure>
+	<section_number>13.1-851</section_number>
+	<catch_line>Change in quorum or voting requirements</catch_line>
+	<text>
+		<section prefix="A">The articles of incorporation may provide for a lesser or greater quorum requirement for members or voting groups of members than required by this chapter.
+		</section>
+		<section prefix="B">An amendment to the articles of incorporation that adds, changes, or deletes a quorum or voting requirement shall meet the quorum requirement and be adopted by the vote and voting groups required to take action under the quorum and voting requirements then in effect.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-218; 1956, c. 428; 1985, c. 522; 1986, c. 321.</history>
+</law>

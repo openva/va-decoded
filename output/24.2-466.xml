@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4.1" level="2">Uniform Military and Overseas Voters Act</unit>
+	</structure>
+	<section_number>24.2-466</section_number>
+	<catch_line>Sending and updating notices</catch_line>
+	<text>
+		<section prefix="A">A covered voter may request and upon such request the Department of Elections shall provide a copy of an election notice without cost to the voter. The Department of Elections shall send the notice to the voter using the method requested and to the address provided by the voter.
+		</section>
+		<section prefix="B">As soon as ballot styles are verified pursuant to § 24.2-612 and not later than the date ballots are required to be transmitted to voters under §§ 24.2-460 and 24.2-612, the Department of Elections shall update the notice with the certified candidates for each office and ballot measure questions and make the updated notice publicly available.
+		</section>
+		<section prefix="C">A local election jurisdiction that maintains a website shall make the election notice prepared under § 24.2-465 and updated versions of the election notice regularly available on the website.
+		</section>
+	</text>
+	<history>2012, c. 353; 2015, c. 313.</history>
+</law>

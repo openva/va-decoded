@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="5" level="3">Soil and Water Conservation</unit>
+		<unit label="article" identifier="3" level="4">Soil and Water Conservation Districts</unit>
+	</structure>
+	<section_number>10.1-508</section_number>
+	<catch_line>Contents and form of petition</catch_line>
+	<text>
+		The petition shall set forth:
+		<section prefix="1">The proposed name of the district;
+		</section>
+		<section prefix="2">That there is need, in the interest of the public health, safety, and welfare, for the proposed district to function in the territory described in the petition, and a brief statement of the grounds upon which this conclusion is based;
+		</section>
+		<section prefix="3">A description of the territory proposed to be organized as a district, which description shall not be required to be given by metes and bounds or by legal subdivision, but shall be deemed sufficient if generally accurate;
+		</section>
+		<section prefix="4">A request that the Board define the boundaries for such district; that a hearing be held within the territory so defined on the question of the creation of a district in such territory; and that the Board determine that such a district be created.
+			Where more than one petition is filed covering parts of the same territory, the Board may consolidate the petitions.
+			The Board shall prescribe the petition form.
+		</section>
+	</text>
+	<history>Code 1950, § 21-13; 1964, c. 512; 1970, c. 480; 1988, c. 891.</history>
+</law>

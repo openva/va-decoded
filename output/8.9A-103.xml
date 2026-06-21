@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="1" level="2">General Provisions</unit>
+		<unit label="subpart" identifier="1" level="3">Short Title, Definitions and General Concepts</unit>
+	</structure>
+	<section_number>8.9A-103</section_number>
+	<catch_line>Purchase-money security interest; application of payments; burden of establishing</catch_line>
+	<text>
+		<section prefix="a">Definitions. In this section:
+			<section prefix="1">"purchase-money collateral" means goods or software that secures a purchase-money obligation incurred with respect to that collateral; and
+			</section>
+			<section prefix="2">"purchase-money obligation" means an obligation of an obligor incurred as all or part of the price of the collateral or for value given to enable the debtor to acquire rights in or the use of the collateral if the value is in fact so used.
+			</section>
+		</section>
+		<section prefix="b">Purchase-money security interest in goods. A security interest in goods is a purchase-money security interest:
+			<section prefix="1">to the extent that the goods are purchase-money collateral with respect to that security interest;
+			</section>
+			<section prefix="2">if the security interest is in inventory that is or was purchase-money collateral, also to the extent that the security interest secures a purchase-money obligation incurred with respect to other inventory in which the secured party holds or held a purchase-money security interest; and
+			</section>
+			<section prefix="3">also to the extent that the security interest secures a purchase-money obligation incurred with respect to software in which the secured party holds or held a purchase-money security interest.
+			</section>
+		</section>
+		<section prefix="c">Purchase-money security interest in software. A security interest in software is a purchase-money security interest to the extent that the security interest also secures a purchase-money obligation incurred with respect to goods in which the secured party holds or held a purchase-money security interest if:
+			<section prefix="1">the debtor acquired its interest in the software in an integrated transaction in which it acquired an interest in the goods; and
+			</section>
+			<section prefix="2">the debtor acquired its interest in the software for the principal purpose of using the software in the goods.
+			</section>
+		</section>
+		<section prefix="d">Consignor's inventory purchase-money security interest. The security interest of a consignor in goods that are the subject of a consignment is a purchase-money security interest in inventory.
+		</section>
+		<section prefix="e">Application of payment in nonconsumer-goods transaction. In a transaction other than a consumer-goods transaction, if the extent to which a security interest is a purchase-money security interest depends on the application of a payment to a particular obligation, the payment must be applied:
+			<section prefix="1">in accordance with any reasonable method of application to which the parties agree;
+			</section>
+			<section prefix="2">in the absence of the parties' agreement to a reasonable method, in accordance with any intention of the obligor manifested at or before the time of payment; or
+			</section>
+			<section prefix="3">in the absence of an agreement to a reasonable method and a timely manifestation of the obligor's intention, in the following order:
+			</section>
+		</section>
+		<section prefix="A">to obligations that are not secured; and
+		</section>
+		<section prefix="B">if more than one obligation is secured, to obligations secured by purchase-money security interests in the order in which those obligations were incurred.
+		</section>
+		<section prefix="f">No loss of status of purchase-money security interest in nonconsumer-goods transaction. In a transaction other than a consumer-goods transaction, a purchase-money security interest does not lose its status as such, even if:
+			<section prefix="1">the purchase-money collateral also secures an obligation that is not a purchase-money obligation;
+			</section>
+			<section prefix="2">collateral that is not purchase-money collateral also secures the purchase-money obligation; or
+			</section>
+			<section prefix="3">the purchase-money obligation has been renewed, refinanced, consolidated, or restructured.
+			</section>
+		</section>
+		<section prefix="g">Burden of proof in nonconsumer-goods transaction. In a transaction other than a consumer-goods transaction, a secured party claiming a purchase-money security interest has the burden of establishing the extent to which the security interest is a purchase-money security interest.
+		</section>
+		<section prefix="h">Nonconsumer-goods transactions; no inference. The limitation of the rules in subsections (e), (f), and (g) to transactions other than consumer-goods transactions is intended to leave to the court the determination of the proper rules in consumer-goods transactions. The court may not infer from that limitation the nature of the proper rule in consumer-goods transactions and may continue to apply established approaches.
+		</section>
+		<section prefix="i">Goods covered by negotiable document. The attachment of a security interest in a negotiable document is also attachment of a security interest in the goods covered by the negotiable document.
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-107; 2000, c. 1007.</history>
+</law>

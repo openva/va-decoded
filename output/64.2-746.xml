@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="5" level="4">Creditor's Claims; Spendthrift and Discretionary Trusts</unit>
+	</structure>
+	<section_number>64.2-746</section_number>
+	<catch_line>Discretionary trusts; effect of standard</catch_line>
+	<text>
+		<section prefix="A">In this section, "child" includes any person for whom an order or judgment for child support has been entered in this or another state.
+		</section>
+		<section prefix="B">Except as otherwise provided in subsection C and § 64.2-745, whether or not a trust contains a spendthrift provision, a creditor of a beneficiary may not compel a distribution that is subject to the trustee's discretion, even if:
+			<section prefix="1">The discretion is expressed in the form of a standard of distribution; or
+			</section>
+			<section prefix="2">The trustee has abused the discretion.
+			</section>
+		</section>
+		<section prefix="C">To the extent a trustee has not complied with a standard of distribution or has abused a discretion:
+			<section prefix="1">A distribution may be ordered by the court to satisfy a judgment or court order against the beneficiary for support or maintenance of the beneficiary's child; and
+			</section>
+			<section prefix="2">The court shall direct the trustee to pay to the child such amount as is equitable under the circumstances but not more than the amount the trustee would have been required to distribute to or for the benefit of the beneficiary had the trustee complied with the standard or not abused the discretion.
+			</section>
+		</section>
+		<section prefix="D">This section does not limit the right of a beneficiary to maintain a judicial proceeding against a trustee for an abuse of discretion or failure to comply with a standard for distribution.
+		</section>
+		<section prefix="E">A creditor may not reach the interest of a beneficiary who is also a trustee or cotrustee, or otherwise compel a distribution, if the trustee's discretion to make distributions for the trustee's own benefit is limited by an ascertainable standard.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-545.04; 2012, c. 614.</history>
+</law>

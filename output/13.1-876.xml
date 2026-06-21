@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="9" level="3">Indemnification</unit>
+	</structure>
+	<section_number>13.1-876</section_number>
+	<catch_line>Authority to indemnify</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsection D, a corporation may indemnify an individual made a party to a proceeding because the individual is or was a director against liability incurred in the proceeding if the director:
+			<section prefix="1">Conducted himself in good faith;
+			</section>
+			<section prefix="2">Believed:
+				a. In the case of conduct in his official capacity with the corporation, that his conduct was in its best interests; and
+				b. In all other cases, that his conduct was at least not opposed to its best interests; and
+			</section>
+			<section prefix="3">In the case of any criminal proceeding, that he had no reasonable cause to believe that his conduct was unlawful.
+			</section>
+		</section>
+		<section prefix="B">A director's conduct with respect to an employee benefit plan for a purpose he believed to be in the interests of the participants in and beneficiaries of the plan is conduct that satisfies the requirement of subdivision A 2 b.
+		</section>
+		<section prefix="C">The termination of a proceeding by judgment, order, settlement or conviction, or upon a plea of nolo contendere or its equivalent, is not, of itself, determinative that the director did not meet the relevant standard of conduct described in this section.
+		</section>
+		<section prefix="D">Unless ordered by a court under subsection C of § 13.1-879.1, a corporation may not indemnify a director under this section:
+			<section prefix="1">In connection with a proceeding by or in the right of the corporation except for reasonable expenses incurred in connection with the proceeding if it is determined that the director has met the relevant standard under subsection A; or
+			</section>
+			<section prefix="2">In connection with any other proceeding charging improper personal benefit to the director, whether or not involving action in his official capacity, in which he was adjudged liable on the basis that personal benefit was improperly received by him.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-205.1; 1968, c. 689; 1975, c. 500; 1981, c. 57; 1985, c. 522; 2007, c. 925.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="1" level="4">Governor</unit>
+		<unit label="article" identifier="2" level="5">Executive Reorganization</unit>
+	</structure>
+	<section_number>2.2-133</section_number>
+	<catch_line>Effect on other laws, pending legal proceedings, and unexpended appropriations</catch_line>
+	<text>
+		<section prefix="A">A statute enacted, and a regulation or other action made, prescribed, issued, granted, or performed in respect of or by an agency or function affected by a reorganization under this chapter, before the effective date of the reorganization, has, except to the extent rescinded, modified, superseded, or made inapplicable by or under authority of law or by the abolition of a function, the same effect as if the reorganization had not been made. However, if the statute, regulation or other action has vested the functions in the agency from which it is removed under the reorganization plan, the function, insofar as it is to be exercised after the plan becomes effective, shall be deemed as vested in the agency under which the function is placed by the plan.
+		</section>
+		<section prefix="B">For the purpose of subsection A, "regulation or other action" means a regulation, rule, order, policy, determination, directive, authorization, permit, privilege, requirement, designation, or other action.
+		</section>
+		<section prefix="C">A suit, action, or other proceeding lawfully commenced by or against the head of an agency or other officer of the Commonwealth or member of a state board, council, commission or other collegial body, in his official capacity or in relation to the discharge of his official duties, shall not abate by reason of the taking effect of a reorganization plan under this chapter.
+		</section>
+		<section prefix="D">The appropriations or portions of appropriations unexpended by reason of the operation of this chapter shall not be used for any purpose, but shall revert to the state treasury.
+		</section>
+	</text>
+	<history>1977, c. 505, § 2.1-8.8; 2001, c. 844.</history>
+</law>

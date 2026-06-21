@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="14.1" level="3">Peer-to-Peer Vehicle Sharing</unit>
+	</structure>
+	<section_number>46.2-1414</section_number>
+	<catch_line>Consumer protections; disclosures</catch_line>
+	<text>
+		Each vehicle sharing platform agreement shall disclose to the shared vehicle owner and the shared vehicle driver:
+		<section prefix="1">Any right of the peer-to-peer vehicle sharing platform to seek indemnification from the shared vehicle owner or the shared vehicle driver for economic loss sustained by the peer-to-peer vehicle sharing platform resulting from a breach of terms and conditions of the vehicle sharing platform agreement;
+		</section>
+		<section prefix="2">That a motor vehicle liability insurance policy provided by the peer-to-peer vehicle sharing platform to the shared vehicle owner for the shared vehicle or to the shared vehicle driver does not provide a defense or indemnification for any claim asserted by the peer-to-peer vehicle sharing platform;
+		</section>
+		<section prefix="3">That the peer-to-peer vehicle sharing platform's insurance coverage on the shared vehicle owner and the shared vehicle driver is in effect only during each vehicle sharing period and that for any use of the shared vehicle by the shared vehicle driver after the vehicle sharing termination time, the shared vehicle driver and the shared vehicle owner may not have insurance coverage;
+		</section>
+		<section prefix="4">The daily rate, fees, taxes, and, if applicable, any insurance or protection package costs that are charged to the shared vehicle owner or the shared vehicle driver;
+		</section>
+		<section prefix="5">That the shared vehicle owner's motor vehicle liability insurance may not provide coverage for a shared vehicle;
+		</section>
+		<section prefix="6">An emergency telephone number to personnel capable of fielding roadside assistance and other customer service inquiries;
+		</section>
+		<section prefix="7">That any financial responsibility requirements imposed on the shared vehicle driver as a condition of maintaining a driver's license remain in effect during the use of a shared vehicle;
+		</section>
+		<section prefix="8">That the use of the shared vehicle through a peer-to-peer vehicle sharing platform without physical damage coverage may violate the terms of the contract with the lienholder; and
+		</section>
+		<section prefix="9">That there may not be physical damage coverage under the shared vehicle owner's policy. However, if the physical damage coverage is purchased from or provided by the peer-to-peer vehicle sharing platform, no such disclosure is required.
+		</section>
+	</text>
+	<history>2020, c. 1266.</history>
+</law>

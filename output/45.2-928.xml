@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="C" level="3">Surface Coal Mines</unit>
+		<unit label="chapter" identifier="9" level="4">Requirements Applicable to Surface Coal Mines</unit>
+		<unit label="article" identifier="9" level="5">Electricity</unit>
+	</structure>
+	<section_number>45.2-928</section_number>
+	<catch_line> Grounding</catch_line>
+	<text>
+		<section prefix="A">Every metallic sheath, armor, or conduit enclosing a power conductor shall be electrically continuous throughout and shall be grounded effectively.
+		</section>
+		<section prefix="B">Every metallic frame, casing, or other enclosure of stationary electric equipment that can become electrified through failure of insulation or by contact with energized parts shall be grounded effectively, or equivalent protection shall be provided.
+		</section>
+		<section prefix="C">When electric equipment is operated from a three-phase alternating current circuit originating in a transformer that is connected to provide a neutral point, a continuous grounding conductor of adequate size shall be installed and connected to the neutral point and to the frame of the power-utilizing equipment. Such grounding conductor shall be grounded at the neutral point and at intervals along the conductor, if feasible. A suitable circuit breaker or switching device shall be provided having a ground-trip coil connected in series with the grounding conductor to provide effective ground-fault tripping.
+		</section>
+	</text>
+	<history>1966, c. 594, § 45.1-79; 1994, c. 28, § 45.1-161.281; 2021, Sp. Sess. I, c. 387.</history>
+</law>

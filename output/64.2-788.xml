@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="9" level="4">Uniform Prudent Investor Act</unit>
+	</structure>
+	<section_number>64.2-788</section_number>
+	<catch_line>Delegation of investment and management functions</catch_line>
+	<text>
+		<section prefix="A">A trustee may delegate investment and management functions that a prudent trustee of comparable skills could properly delegate under the circumstances. The trustee shall exercise reasonable care, skill, and caution in:
+			<section prefix="1">Selecting an agent;
+			</section>
+			<section prefix="2">Establishing the scope and terms of the delegation, consistent with the purposes and terms of the trust; and
+			</section>
+			<section prefix="3">Periodically reviewing the agent's actions in order to monitor the agent's performance and compliance with the terms of the delegation.
+			</section>
+		</section>
+		<section prefix="B">In performing a delegated function, an agent owes a duty to the trust to exercise reasonable care to comply with the terms of the delegation.
+		</section>
+		<section prefix="C">A trustee who complies with the requirements of subsection A is not liable to the beneficiaries or to the trust for the decisions or actions of the agent to whom the function was delegated.
+		</section>
+		<section prefix="D">By accepting the delegation of a trust function from the trustee of a trust that is subject to the law of the Commonwealth, an agent submits to the jurisdiction of the courts of the Commonwealth.
+		</section>
+	</text>
+	<history>1999, c. 772, § 26-45.10; 2012, c. 614.</history>
+</law>

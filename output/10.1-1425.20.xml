@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.4" level="4">Reduction of Heavy Metals in Packaging Act</unit>
+	</structure>
+	<section_number>10.1-1425.20</section_number>
+	<catch_line>Findings and intent</catch_line>
+	<text>
+		<section prefix="A">The General Assembly finds that:
+			<section prefix="1">The management of solid waste can pose a wide range of hazards to public health and safety and to the environment;
+			</section>
+			<section prefix="2">Packaging comprises a significant percentage of the overall waste stream;
+			</section>
+			<section prefix="3">The presence of heavy metals in packaging is a concern because of the potential presence of heavy metals in residue from manufacturers' recycling processes, in emissions or ash when packaging is incinerated, or in leachate when packaging is landfilled; and
+			</section>
+			<section prefix="4">Lead, mercury, cadmium, and hexavalent chromium, on the basis of scientific and medical evidence, are of particular concern.
+			</section>
+		</section>
+		<section prefix="B">It is the intent of the General Assembly to:
+			<section prefix="1">Reduce the toxicity of packaging;
+			</section>
+			<section prefix="2">Eliminate the addition of heavy metals to packaging; and
+			</section>
+			<section prefix="3">Achieve reductions in toxicity without impeding or discouraging the expanded use of recovered material in the production of products, packaging, and its components.
+			</section>
+		</section>
+	</text>
+	<history>1994, c. 944.</history>
+</law>

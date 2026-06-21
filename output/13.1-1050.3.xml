@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="9" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-1050.3</section_number>
+	<catch_line>Involuntary cancellation of limited liability company existence</catch_line>
+	<text>
+		<section prefix="A">The existence of a limited liability company may be canceled involuntarily by order of the Commission when it finds that the limited liability company has:
+			<section prefix="1">Continued to exceed or abuse the authority conferred upon it by law;
+			</section>
+			<section prefix="2">Failed to maintain a registered office or a registered agent in the Commonwealth as required by law;
+			</section>
+			<section prefix="3">Failed to file any document required by this chapter to be filed with the Commission; or
+			</section>
+			<section prefix="4">Been convicted for a violation of 8 U.S.C. § 1324a (f), as amended, for actions of its members or managers constituting a pattern or practice of employing unauthorized aliens in the Commonwealth.
+			</section>
+		</section>
+		<section prefix="B">Before entering any such order, the Commission shall issue a rule against the limited liability company giving it an opportunity to be heard and show cause why such an order should not be entered. The Commission may issue the rule on its own motion or on motion of the Attorney General.
+		</section>
+		<section prefix="C">The properties and affairs of a limited liability company whose existence has been canceled pursuant to this section shall pass automatically to its managers, or if the limited liability company is managed by its members, then to its members, or if the limited liability company has no managers or members, then to the holders of its interests, in each such case as trustees in liquidation. The trustees shall then proceed to (i) collect the assets of the limited liability company; (ii) sell, convey, and dispose of such of its properties as are not to be distributed in kind to its members; (iii) pay, satisfy, and discharge its liabilities and obligations; and (iv) do all other acts required to liquidate its business and affairs. After paying or adequately providing for the payment of all its obligations, the trustees shall distribute the remainder of its assets, either in cash or in kind, among its members or interest holders according to their respective rights and interests.
+		</section>
+		<section prefix="D">Any limited liability company convicted of the offense listed in subdivision A 4 shall immediately report such conviction to the Commission and file with the Commission an authenticated copy of the judgment or record of conviction. A limited liability company whose existence is canceled pursuant to subdivision A 4 shall not be eligible for reinstatement for a period of not less than one year.
+		</section>
+	</text>
+	<history>2008, c. 108; 2009, c. 167.</history>
+</law>

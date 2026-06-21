@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="40" level="4">Administrative Process Act</unit>
+		<unit label="article" identifier="3" level="5">Case Decisions</unit>
+	</structure>
+	<section_number>2.2-4020.2</section_number>
+	<catch_line>Default</catch_line>
+	<text>
+		<section prefix="A">Unless otherwise provided by law, if a party without good cause fails to attend or appear at a formal hearing conducted in accordance with § 2.2-4020, or at an informal fact-finding proceeding conducted pursuant to § 2.2-4019, the presiding officer may issue a default order.
+		</section>
+		<section prefix="B">A default order shall not be issued by the presiding officer unless the party against whom the default order is entered has been sent the notice that contains a notification that a default order may be issued against that party if that party fails without good cause to attend or appear at the hearing or informal fact-finding proceeding that is the subject of the notice.
+		</section>
+		<section prefix="C">If a default order is issued, the presiding officer may conduct all further proceedings necessary to complete the adjudication without the defaulting party and shall determine all issues in the adjudication, including those affecting the defaulting party.
+		</section>
+		<section prefix="D">A recommended, initial, or final order issued against a defaulting party may be based on the defaulting party's admissions or other evidence that may be used without notice to the defaulting party. If the burden of proof is on the defaulting party to establish that the party is entitled to the agency action sought, the presiding officer may issue a recommended, initial, or final order without taking evidence.
+		</section>
+		<section prefix="E">Not later than 15 days after notice to a party subject to a default order that a recommended, initial, or final order has been rendered against the party, the party may petition the presiding officer to vacate the recommended, initial, or final order. If good cause is shown for the party's failure to appear, the presiding officer shall vacate the decision and, after proper service of notice, conduct another evidentiary hearing. If good cause is not shown for the party's failure to appear, the presiding officer shall deny the motion to vacate.
+		</section>
+		<section prefix="F">The provisions of this section shall not apply to any administrative hearings process that is governed by § 32.1-325.1 relating to provider appeals.
+		</section>
+	</text>
+	<history>2015, c. 638.</history>
+</law>

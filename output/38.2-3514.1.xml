@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="35" level="2">Accident and Sickness Insurance Policies</unit>
+		<unit label="article" identifier="1" level="3">Individual Accident and Sickness Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3514.1</section_number>
+	<catch_line>Preexisting conditions provisions</catch_line>
+	<text>
+		<section prefix="A">In determining whether a preexisting conditions provision applies to an insured, all coverage shall credit the time the person was covered under previous individual or group policies providing hospital, medical and surgical or major medical coverage on an expense incurred basis if the previous coverage was continuous to a date not more than thirty days prior to the effective date of the new coverage, exclusive of any applicable waiting period under such coverage.
+		</section>
+		<section prefix="B">As used herein, a "preexisting conditions provision" means a policy provision that limits, denies, or excludes coverage for charges or expenses incurred during a twelve-month period following the insured's effective date of coverage, for a condition that, during a twelve-month period immediately preceding the effective date of coverage, had manifested itself in such a manner as would cause an ordinarily prudent person to seek diagnosis, care, or treatment, or for which medical advice, diagnosis, care, or treatment was recommended or received within twelve months immediately preceding the effective date of coverage or as to pregnancy existing on the effective date of coverage.
+		</section>
+		<section prefix="C">This section shall not apply to the following insurance policies or contracts:
+			<section prefix="1">Short-term travel;
+			</section>
+			<section prefix="2">Accident-only;
+			</section>
+			<section prefix="3">Limited or specified disease contracts;
+			</section>
+			<section prefix="4">Long-term care insurance;
+			</section>
+			<section prefix="5">Short-term nonrenewable policies or contracts of not more than six months' duration which are subject to no medical underwriting or minimal underwriting;
+			</section>
+			<section prefix="6">Policies subject to Article 4.1 (§ 38.2-3430.1 et seq.) of Chapter 34 of this title;
+			</section>
+			<section prefix="7">Policies or contracts designed for issuance to persons eligible for coverage under Title XVIII of the Social Security Act, known as Medicare, or any other similar coverage under state or federal government plans; and
+			</section>
+			<section prefix="8">Disability income.
+			</section>
+		</section>
+	</text>
+	<history>1995, c. 522; 1997, c. 291; 1999, c. 1004.</history>
+</law>

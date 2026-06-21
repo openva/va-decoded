@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="56" level="2">Genetic Data Privacy</unit>
+	</structure>
+	<section_number>59.1-600</section_number>
+	<catch_line>Discrimination prohibited</catch_line>
+	<text>
+		No person or public entity shall discriminate against a consumer on the grounds that the consumer has exercised any of the rights granted by this chapter with regard to:
+		<section prefix="1">Providing or denying any good, service, or benefit to the consumer;
+		</section>
+		<section prefix="2">Charging any different price or rate for any good or service provided to the consumer, including through the use of discounts or other incentives or imposition of penalties;
+		</section>
+		<section prefix="3">Providing a different level or quality of goods, services, or benefits to the consumer;
+		</section>
+		<section prefix="4">Suggesting that the consumer will receive a different price or rate for goods, services, or benefits or a different level or quality of goods, services, or benefits; or
+		</section>
+		<section prefix="5">Considering the consumer's exercise of rights pursuant to this chapter as a basis or suspicion of criminal wrongdoing or unlawful conduct.
+		</section>
+	</text>
+	<history>2023, c. 526.</history>
+</law>

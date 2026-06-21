@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="21" level="2">Fire Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-2102</section_number>
+	<catch_line>Excluding loss or damage caused by nuclear reaction, nuclear radiation, or radioactive contamination</catch_line>
+	<text>
+		<section prefix="A">The standard policy of fire insurance prescribed by this chapter shall not cover loss or damage caused by nuclear reaction, nuclear radiation, or radioactive contamination, whether resulting directly or indirectly from a peril insured under the policy. Insurers issuing the standard policy of fire insurance are authorized to affix to the policy or include therein a written statement that the policy does not cover loss or damage caused by nuclear reaction, nuclear radiation, or radioactive contamination, whether resulting directly or indirectly from a peril insured under the policy. However, an endorsement or endorsements specifically assuming coverage for loss or damage caused by nuclear reaction, nuclear radiation, or radioactive contamination may be attached to the standard policy of fire insurance.
+		</section>
+		<section prefix="B">Notwithstanding the provisions of § 38.2-2105, for the purposes of commercial property and casualty insurance policies, the standard policy of fire insurance prescribed by this chapter shall not cover loss or damage caused by certified acts of terrorism as defined in the Terrorism Risk Insurance Act (15 U.S.C. § 6701) whether resulting directly or indirectly from a peril insured under the policy if the insured has refused coverage offered pursuant to the Terrorism Risk Insurance Act.
+		</section>
+	</text>
+	<history>1960, c. 117, § 38.1-363.1; 1986, c. 562; 2003, c. 930.</history>
+</law>

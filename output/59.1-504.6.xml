@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="4" level="3">Warranties</unit>
+	</structure>
+	<section_number>59.1-504.6</section_number>
+	<catch_line>Disclaimer or modification of warranty</catch_line>
+	<text>
+		<section prefix="a">Words or conduct relevant to the creation of an express warranty and words or conduct tending to disclaim or modify an express warranty must be construed wherever reasonable as consistent with each other. Subject to § 59.1-503.1 with regard to parol or extrinsic evidence, the disclaimer or modification is inoperative to the extent that such construction is unreasonable.
+		</section>
+		<section prefix="b">Except as otherwise provided in subsections (c), (d), and (e), to disclaim or modify an implied warranty or any part of it, but not the warranty in § 59.1-504.1, the following rules apply:
+			<section prefix="1">Except as otherwise provided in this subsection:
+			</section>
+		</section>
+		<section prefix="A">To disclaim or modify the implied warranty arising under § 59.1-504.3, language must mention "merchantability" or "quality" or use words of similar import and, if in a record, must be conspicuous.
+		</section>
+		<section prefix="B">To disclaim or modify the implied warranty arising under § 59.1-504.4, language in a record must mention "accuracy" or use words of similar import.
+			<section prefix="2">Language to disclaim or modify the implied warranty arising under § 59.1-504.5 must be in a record and be conspicuous. It is sufficient to state, "There is no warranty that this information, our efforts, or the system will fulfill any of your particular purposes or needs," or words of similar import.
+			</section>
+			<section prefix="3">Language in a record is sufficient to disclaim all implied warranties if it individually disclaims each implied warranty or, except for the warranty in § 59.1-504.1, if it is conspicuous and states, "Except for express warranties stated in this contract, if any, this information, computer program is provided with all faults, and the entire risk as to satisfactory quality, performance, accuracy, and effort is with the user," or words of similar import.
+			</section>
+			<section prefix="4">A disclaimer or modification sufficient under Title 8.2 or 8.2A to disclaim or modify an implied warranty of merchantability is sufficient to disclaim or modify the warranties under §§ 59.1-504.3 and 59.1-504.4. A disclaimer or modification sufficient under Title 8.2 or 8.2A to disclaim or modify an implied warranty of fitness for a particular purpose is sufficient to disclaim or modify the warranties under § 59.1-504.5.
+			</section>
+		</section>
+		<section prefix="c">Unless the circumstances indicate otherwise, all implied warranties, but not the warranty under § 59.1-504.1, are disclaimed by expressions like "as is" or "with all faults" or other language that in common understanding calls the licensee's attention to the disclaimer of warranties and makes plain that there are no implied warranties.
+		</section>
+		<section prefix="d">If a licensee before entering into a contract has examined the information or the sample or model as fully as he desired or has refused to examine the information, there is no implied warranty with regard to defects that an examination ought in the circumstances to have revealed to the licensee.
+		</section>
+		<section prefix="e">An implied warranty may also be disclaimed or modified by course of performance, course of dealing, or usage of trade.
+		</section>
+		<section prefix="f">If a contract requires ongoing performance or a series of performances by the licensor, language of disclaimer or modification which complies with this section is effective with respect to all performances under the contract.
+		</section>
+		<section prefix="g">Remedies for breach of warranty may be limited in accordance with this chapter with respect to liquidation or limitation of damages and contractual modification of remedy.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

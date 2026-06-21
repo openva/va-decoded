@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="52" level="1">Police (State)</unit>
+		<unit label="chapter" identifier="9" level="2">Insurance Fraud</unit>
+	</structure>
+	<section_number>52-41</section_number>
+	<catch_line>Receipt of information; immunity from liability</catch_line>
+	<text>
+		<section prefix="A">Any insurer providing information to an authorized representative of the Department pursuant to § 52-38 or pursuant to subdivision B 5 of § 38.2-613 shall have the right to request relevant information and receive, within thirty days, the information requested.
+		</section>
+		<section prefix="B">No cause of action in the nature of defamation, invasion of privacy, or negligence shall arise against any person furnishing information concerning any suspected, anticipated or completed criminal violation when the information is provided to or received from the Department, the National Association of Insurance Commissioners, another insurer, any federal or state governmental entity established for the purposes of detecting and preventing insurance fraud, or the National Insurance Crime Bureau.
+		</section>
+		<section prefix="C">No insurer, its officers or employees, insurance professional or any other person shall be subject to such cause of action for cooperating with, or furnishing evidence or information regarding any suspected criminal violation to the Department.
+		</section>
+		<section prefix="D">This section shall not provide immunity for those disclosing or furnishing false information with malice or willful intent to injure any person.
+		</section>
+		<section prefix="E">This section does not abrogate or modify in any way common law or statutory privilege or immunity heretofore enjoyed by any person or entity, nor does it authorize the Department to make public insurance company records that are proprietary in nature.
+		</section>
+	</text>
+	<history>1998, c. 590; 2001, c. 371.</history>
+</law>

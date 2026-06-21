@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="9" level="3">Virginia Estate Tax</unit>
+		<unit label="article" identifier="1" level="4">Substantive Provisions Generally</unit>
+	</structure>
+	<section_number>58.1-908</section_number>
+	<catch_line>Nonpayment of tax; lien for unpaid taxes; certificate of release from lien</catch_line>
+	<text>
+		<section prefix="A">A lien shall arise as follows upon all property, real or personal, located in the Commonwealth of Virginia, of every decedent having a taxable estate who fails to pay the tax imposed by this chapter:
+			<section prefix="1">In the case of a nonresident decedent having a taxable estate a lien shall not arise automatically upon the death of the decedent.
+			</section>
+			<section prefix="2">In the case of a resident or nonresident decedent, such lien shall attach to the personal estate of the decedent only upon the Department's filing a memorandum in the clerk's office of the county or city wherein the decedent resided, and to the real estate only upon the filing of a memorandum in the clerk's office of the county or city wherein such real estate is located.
+				Such lien, once it attaches, shall be enforceable for a period not to exceed ten years from the date of death of the decedent.
+			</section>
+		</section>
+		<section prefix="B">Such part of the property of a decedent as may at the time be subject to the lien provided for under subsection A shall be divested of such lien to the extent used for payment of charges against the estate or expenses of its administration allowed by the court having jurisdiction thereof.
+		</section>
+		<section prefix="C">Such part of the personal property of a decedent as may at the time be subject to the lien provided for under subsection A shall be divested of such lien upon the conveyance or transfer of such property to a purchaser or holder of a security interest for an adequate and full consideration and such lien shall then attach to the proceeds received for such property from such purchaser or holder of a security interest. Real property shall not be divested of such lien except as provided in subsections B and D of this section.
+		</section>
+		<section prefix="D">When any lien under this section has attached and the Department is satisfied that the tax liability, if any, of the estate has been fully discharged, the Department shall issue a certificate releasing all property of such estate from the lien herein imposed; or, if the Department is satisfied that the tax liability of the estate has been provided for, it shall issue a certificate releasing any surplus property of such estate from the lien herein imposed.
+		</section>
+	</text>
+	<history>Code 1950, § 58-238.9; 1978, c. 838; 1979, c. 567; 1984, c. 675; 1987, c. 373.</history>
+</law>

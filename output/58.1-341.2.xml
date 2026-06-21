@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="4" level="4">Accounting, Returns, Procedures for Individuals</unit>
+	</structure>
+	<section_number>58.1-341.2</section_number>
+	<catch_line>Returns of individuals; notification of tax return data breach</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Income tax return preparer" has the same meaning as in § 58.1-302.
+			"Return information" means a taxpayer's identity and the nature, source, or amount of his income, payments, receipts, deductions, exemptions, credits, assets, liabilities, net worth, tax liability, tax withheld, assessments, or tax payments. "Return information" does not include information that is lawfully obtained from publicly available information or from federal, state, or local government records lawfully made available to the general public.
+			"Signing income tax return preparer" means an income tax return preparer who has the primary responsibility for the overall substantive accuracy of the preparation of a return or claim for refund.
+			"Taxpayer identity" means the name of a person with respect to whom a return is to be filed and his taxpayer identification number as defined in 26 U.S.C. § 6109.
+		</section>
+		<section prefix="B">1. Any signing income tax return preparer who prepares Virginia individual income tax returns during a calendar year shall notify the Department without unreasonable delay after the discovery or notification of unauthorized access and acquisition of unencrypted and unredacted return information that compromises the confidentiality of such information maintained by such signing income tax return preparer and that creates a reasonable belief that an unencrypted and unredacted version of such information was accessed and acquired by an unauthorized person and that causes, or such preparer reasonably believes has caused or will cause, identity theft or other fraud.
+			<section prefix="2">Such signing income tax return preparer shall provide the Department with the name and taxpayer identification number of any taxpayer that may be affected by a compromise in confidentiality that requires notification pursuant to subdivision 1, as well as the name of the signing income tax return preparer, his preparer tax identification number, and such other information as the Department may prescribe.
+			</section>
+		</section>
+		<section prefix="C">An income tax return preparer shall complete the notice required by this section on behalf of any of its employees who are signing income tax preparers and who would otherwise be required to notify the Department pursuant to subsection B.
+		</section>
+	</text>
+	<history>2018, cc. 283, 360.</history>
+</law>

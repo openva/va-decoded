@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="1" level="1">General Provisions</unit>
+		<unit label="chapter" identifier="6" level="2">Virginia Coordinate Systems</unit>
+	</structure>
+	<section_number>1-606</section_number>
+	<catch_line>(For contingent expiration date, see Acts 2025, cc. 91 and 109, cl. 2) Position of systems</catch_line>
+	<text>
+		The position of the Virginia coordinate systems shall be as marked on the ground by triangulation or traverse stations established in conformity with the standards of accuracy and specifications for first-order and second-order geodetic surveying as prepared and published by the Federal Geodetic Control Subcommittee of the Federal Geographic Data Committee of the U.S. Department of Commerce. The geodetic position of stations defining the position of the Virginia Coordinate System of 1927 shall have been rigidly adjusted on the North American Datum of 1927, and the plane coordinates shall have been computed on the Virginia Coordinate System of 1927. The geodetic position of stations defining the position of the Virginia Coordinate System of 1983 shall have been rigidly adjusted on the North American Datum of 1983, and the plane coordinates shall have been computed on the Virginia Coordinate System of 1983. Any such station may be used for establishing a survey connection with the Virginia coordinate systems.
+	</text>
+	<history>1946, p. 168; Michie Suppl. 1946, § 2849(5); Code 1950, § 55-293; 1984, c. 726; 2019, c. 712.</history>
+</law>

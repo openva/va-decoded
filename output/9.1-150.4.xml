@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="4.1" level="3">Special Conservators of the Peace</unit>
+	</structure>
+	<section_number>9.1-150.4</section_number>
+	<catch_line>Unlawful conduct; penalties</catch_line>
+	<text>
+		<section prefix="A">It shall be unlawful for any person to (i) misrepresent facts in an application for registration; (ii) willfully refuse to furnish the Department information or records required or requested pursuant to statute or regulation; or (iii) violate any statute or regulation governing the practice of special conservators of the peace regulated by this article or § 19.2-13.
+		</section>
+		<section prefix="B">Any person registered by the Department pursuant to § 19.2-13 who the Department or the Board determines has violated any statute or Board regulation and who is not criminally prosecuted shall be subject to a monetary penalty not to exceed $2,500 for each violation. The penalty may be sued for and recovered in the name of the Commonwealth and shall be paid into the state treasury to the credit of the Literary Fund in accordance with § 19.2-353.
+		</section>
+		<section prefix="C">Any person who is convicted of a willful violation of the provisions of this article or § 19.2-13 is guilty of a Class 1 misdemeanor. Any person convicted of a third or subsequent offense under this article or § 19.2-13 during a 36-month period is guilty of a Class 6 felony.
+		</section>
+	</text>
+	<history>2003, c. 922.</history>
+</law>

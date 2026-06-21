@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="20.1" level="4">Virginia Information Technologies Agency</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-2007.1</section_number>
+	<catch_line>Additional duties of the CIO relating to information technology planning and budgeting</catch_line>
+	<text>
+		<section prefix="A">The CIO shall have the following duties related to information technology planning:
+			<section prefix="1">Monitor trends and advances in information technology, plan and forecast future needs for information technology, and conduct studies and surveys of organizational structures and best management practices of information technology systems and procedures;
+			</section>
+			<section prefix="2">Evaluate the needs of executive branch agencies in the Commonwealth with regard to (i) a consistent, reliable, and secure information technology infrastructure; (ii) existing capabilities related to building and supporting that infrastructure; and (iii) recommendation of approaches to ensure the future development, maintenance, and financing of information technology infrastructure befitting the needs of executive branch agencies and the service level requirements of its citizens; and
+			</section>
+			<section prefix="3">Develop a comprehensive six-year Commonwealth strategic plan for information technology to include (i) specific projects that implement the plan; (ii) a plan for the acquisition, management, and use of information technology by executive branch agencies; (iii) a report of the progress of any ongoing enterprise information technology projects, any factors or risks that might affect their successful completion, and any changes to their projected implementation costs and schedules; and (iv) a report on the progress made by executive branch agencies toward accomplishing the Commonwealth strategic plan for information technology. The Commonwealth strategic plan for information technology shall be updated annually and submitted to the Secretary for approval.
+			</section>
+		</section>
+		<section prefix="B">The CIO shall have the following duties related to budgeting for information technology projects:
+			<section prefix="1">Develop policies, standards, and guidelines, in consultation with the Department of Planning and Budget, that are integrated into the Commonwealth's strategic planning and budgeting processes, and that executive branch agencies shall follow in developing information technology plans and technology-related budget requests. Such policies and procedures shall require consideration of the contribution of current and proposed technology expenditures to the support of executive branch agency priority functional activities, as well as current and future operating expenses, and shall be utilized by all state agencies in preparing budget requests.
+			</section>
+			<section prefix="2">Assist executive branch agencies in the development of information technology strategic plans pursuant to § 2.2-2014 and the preparation of budget requests for information technology that are consistent with the policies, standards, and guidelines developed pursuant to this section.
+			</section>
+			<section prefix="3">Review budget requests for information technology from executive branch agencies and recommend budget priorities to the Secretary. Review of such budget requests shall include all information technology projects for amounts exceeding $250,000 for which the contract or proposed contract would, as a means of payment for the project, require the Commonwealth to forgo certain revenue collections or would allow another party to collect fees, charges, or other revenues on behalf of the Commonwealth. For each information technology project, the agency shall provide the CIO (i) a summary of the terms, (ii) the anticipated duration, and (iii) the cost or charges to any user, whether a state agency or other party not directly a party to the project arrangements. The description shall also include any terms or conditions that bind the Commonwealth or restrict the Commonwealth's operations and the methods of procurement employed to reach such terms. Executive branch agencies and institutions shall submit to the CIO a projected biennial operations and maintenance budget for technology assets owned or licensed by the agency or institution and submit a budget decision package for any shortfalls. The provisions of this subdivision shall not apply to public institutions of higher education that meet the conditions prescribed in subsection A of § 23.1-1002.
+			</section>
+		</section>
+	</text>
+	<history>2016, c. 296.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="11" level="3">Bail Bondsmen</unit>
+	</structure>
+	<section_number>9.1-185.12</section_number>
+	<catch_line>Uniforms and identification; standards and restrictions</catch_line>
+	<text>
+		<section prefix="A">A bail bondsman shall not wear, carry, or display any uniform, badge, shield, or other insignia or emblem that implies he is an agent of state, local, or federal government.
+		</section>
+		<section prefix="B">A bail bondsman shall wear or display only identification issued by, or whose design has been approved by, the Department.
+		</section>
+	</text>
+	<history>2004, c. 460.</history>
+</law>

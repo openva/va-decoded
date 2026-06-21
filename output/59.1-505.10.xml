@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="5" level="3">Transfer of Interests and Rights</unit>
+	</structure>
+	<section_number>59.1-505.10</section_number>
+	<catch_line>Financing arrangements; remedies or enforcement</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in subsection (b), on material breach of a financial accommodation contract by the accommodated licensee, the following rules apply:
+			<section prefix="1">The financier may cancel the financial accommodation contract.
+			</section>
+			<section prefix="2">Subject to paragraphs (3) and (4), the financier may pursue its remedies against the accommodated licensee under the financial accommodation contract.
+			</section>
+			<section prefix="3">If the financier became a licensee and made a transfer or sublicense that was effective under § 59.1-505.8, it may exercise the remedies of a licensor for breach, including the rights of an aggrieved party under § 59.1-508.15, subject to the limitations of § 59.1-508.16.
+			</section>
+			<section prefix="4">If the financier did not become a licensee or did not make a transfer that was effective under § 59.1-505.8, it may enforce a contractual right contained in the financial accommodation contract to preclude the licensee's further use of the information. However, the following rules apply:
+			</section>
+		</section>
+		<section prefix="A">The financier has no right to take possession of copies, use the information or informational rights, or transfer any contractual interest in the license.
+		</section>
+		<section prefix="B">If the accommodated licensee agreed to transfer possession of copies to the financier in the event of material breach of the financial accommodation contract, the financier may enforce that contractual right only if permitted to do so under subsection (b) (1) and § 59.1-505.3.
+		</section>
+		<section prefix="b">The following additional limitations apply to a financier's remedies under subsection (a):
+			<section prefix="1">A financier described in subsection (a) (3) which is entitled under the financial accommodation contract to take possession or prevent use of information, copies, or related materials may do so only if the licensor consents or if doing so would not result in a material adverse change of the duty of the licensor, materially increase the burden or risk imposed on the licensor, disclose or threaten to disclose trade secrets or confidential material of the licensor, or materially impair the licensor's likelihood or expectation of obtaining return performance.
+			</section>
+			<section prefix="2">The financier may not otherwise exercise control over, have access to, or sell, transfer, or otherwise use the information or copies without the consent of the licensor unless the financier or transferee is subject to the terms of the license and:
+			</section>
+		</section>
+		<section prefix="A">the licensee owns the licensed copy, the license does not preclude transfer of the licensee's contractual rights, and the transfer complies with federal copyright law for the owner of a copy to make the transfer; or
+		</section>
+		<section prefix="B">the license is transferable by its express terms and the financier fulfills any conditions to, or complies with any restrictions on, transfer.
+			<section prefix="3">The financier's remedies under the financial accommodation contract are subject to the licensor's rights and the terms of the license.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

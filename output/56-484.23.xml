@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="15" level="2">Telegraph and Telephone Companies</unit>
+		<unit label="article" identifier="8" level="3">Emergency Calls on Multiline Telephone Systems</unit>
+	</structure>
+	<section_number>56-484.23</section_number>
+	<catch_line>Provision of emergency call information</catch_line>
+	<text>
+		<section prefix="A">The MLTS provider of any multiline telephone system that is acquired or installed on or after July 1, 2009, commencing on the date of its installation, shall maintain and operate the MLTS in a manner that ensures that each emergency call placed from any telephone station on the MLTS provides either (i) calling party information to the 9-1-1 network that connects to the PSAP or (ii) an alternative method of providing call location information.
+		</section>
+		<section prefix="B">Notwithstanding the requirements of subsection A, the MLTS provider of any multiline telephone system using portable VoIP services that is acquired or installed on or after July 1, 2009, commencing on the date of its installation, shall make all reasonable efforts to maintain and operate the MLTS in a manner that ensures that each emergency call placed from any telephone station on the MLTS provides either: (i) calling party information to the 9-1-1 network that connects to the PSAP or (ii) an alternative method of providing call location information.
+		</section>
+		<section prefix="C">The MLTS provider shall arrange to update the automatic location identification database with appropriate master street address guide, valid address and callback information corresponding to the calling party information for each telephone station. Such updates shall be provided as soon as practicable for new MLTS installations or within one business day of record completion of the actual changes for previously installed systems. When an MLTS provider obtains service through a MLTS service provider, the MLTS service provider shall be responsible for meeting this requirement.
+		</section>
+	</text>
+	<history>2007, c. 427; 2008, c. 853.</history>
+</law>

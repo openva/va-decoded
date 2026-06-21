@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="42.1" level="2">Uniform Electronic Transactions Act</unit>
+	</structure>
+	<section_number>59.1-493</section_number>
+	<catch_line>Time and place of sending and receipt</catch_line>
+	<text>
+		<section prefix="a">Unless otherwise agreed between the sender and the recipient, an electronic record is sent when it:
+			<section prefix="1">Is addressed properly or otherwise directed properly to an information processing system that the recipient has designated or uses for the purpose of receiving electronic records or information of the type sent and from which the recipient is able to retrieve the electronic record;
+			</section>
+			<section prefix="2">Is in a form capable of being processed by that system; and
+			</section>
+			<section prefix="3">Enters an information processing system outside the control of the sender or of a person that sent the electronic record on behalf of the sender or enters a region of the information processing system designated or used by the recipient which is under the control of the recipient.
+			</section>
+		</section>
+		<section prefix="b">Unless otherwise agreed between a sender and the recipient, an electronic record is received when:
+			<section prefix="1">It enters an information processing system that the recipient has designated or uses for the purpose of receiving electronic records or information of the type sent and from which the recipient is able to retrieve the electronic record; and
+			</section>
+			<section prefix="2">It is in a form capable of being processed by that system.
+			</section>
+		</section>
+		<section prefix="c">Subsection (b) applies even if the place the information processing system is located is different from the place the electronic record is deemed to be received under subsection (d).
+		</section>
+		<section prefix="d">Unless otherwise expressly provided in the electronic record or agreed between the sender and the recipient, an electronic record is deemed to be sent from the sender's place of business and to be received at the recipient's place of business. For purposes of this subsection, the following rules apply:
+			<section prefix="1">If the sender or recipient has more than one place of business, the place of business of that person is the place having the closest relationship to the underlying transaction.
+			</section>
+			<section prefix="2">If the sender or the recipient does not have a place of business, the place of business is the sender's or recipient's residence, as the case may be.
+			</section>
+		</section>
+		<section prefix="e">An electronic record is received under subsection (b) even if no individual is aware of its receipt.
+		</section>
+		<section prefix="f">Receipt of an electronic acknowledgment from an information processing system described in subsection (b) establishes that a record was received but, by itself, does not establish that the content sent corresponds to the content received.
+		</section>
+		<section prefix="g">If a person is aware that an electronic record purportedly sent under subsection (a), or purportedly received under subsection (b), was not actually sent or received, the legal effect of the sending or receipt is determined by other applicable law. Except to the extent permitted by the other law, the requirements of this subsection may not be varied by agreement.
+		</section>
+	</text>
+	<history>2000, c. 995.</history>
+</law>

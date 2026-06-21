@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="7" level="2">Remedies</unit>
+	</structure>
+	<section_number>8.2-725</section_number>
+	<catch_line>Statute of limitations in contracts for sale</catch_line>
+	<text>
+		<section prefix="1">An action for breach of any contract for sale must be commenced within four years after the cause of action has accrued. By the original agreement the parties may reduce the period of limitation to not less than one year but may not extend it.
+		</section>
+		<section prefix="2">A cause of action accrues when the breach occurs, regardless of the aggrieved party's lack of knowledge of the breach. A breach of warranty occurs when tender of delivery is made, except that where a warranty explicitly extends to future performance of the goods and discovery of the breach must await the time of such performance the cause of action accrues when the breach is or should have been discovered.
+		</section>
+		<section prefix="3">Where an action commenced within the time limited by subsection (1) is so terminated as to leave available a remedy by another action for the same breach such other action may be commenced after the expiration of the time limited and within six months after the termination of the first action unless the termination resulted from voluntary discontinuance or from dismissal for failure or neglect to prosecute.
+		</section>
+		<section prefix="4">This section does not alter the law on tolling of the statute of limitations nor does it apply to causes of action which have accrued before this act becomes effective.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

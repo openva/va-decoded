@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="9" level="3">Virginia Estate Tax</unit>
+		<unit label="article" identifier="1" level="4">Substantive Provisions Generally</unit>
+	</structure>
+	<section_number>58.1-906</section_number>
+	<catch_line>Amended returns</catch_line>
+	<text>
+		<section prefix="A">If the personal representative files an amended federal estate tax return, he shall immediately file with the Department an amended return covering the tax imposed by this chapter, accompanying the same with a copy of the amended federal estate tax return. If the personal representative is required to pay an additional tax under this chapter pursuant to such amended return, he shall pay such tax, together with interest as provided in § 58.1-15, at the time of filing the amended return.
+		</section>
+		<section prefix="B">If, upon final determination of the federal estate tax due, a deficiency is assessed, the personal representative shall within ninety days after this determination give written notice of such deficiency to the Department. If any additional tax is due under this chapter by reason of this determination, the personal representative shall file an amended return, or such other form as the Department may prescribe, and pay such additional tax, together with interest as provided in § 58.1-15, at the same time he files the notice; however, if the department has sufficient information from which to compute the proper additional tax and the taxpayer has paid such tax, then the taxpayer is not required to file an amended estate tax return.
+		</section>
+	</text>
+	<history>Code 1950, § 58-238.7; 1978, c. 838; 1984, c. 675; 1992, c. 678.</history>
+</law>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="B" level="3">Powers of Attorney</unit>
+		<unit label="chapter" identifier="16" level="4">Uniform Power of Attorney Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>64.2-1617</section_number>
+	<catch_line>Acceptance of and reliance upon acknowledged power of attorney</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section and § 64.2-1618, "acknowledged" means verified before a notary public or other individual authorized to take acknowledgments.
+		</section>
+		<section prefix="B">A person that in good faith accepts an acknowledged power of attorney that has been signed in accordance with § 64.2-1603 without actual knowledge that the power of attorney is void, invalid, or terminated, that the purported agent's authority is void, invalid, or terminated, or that the agent is exceeding or improperly exercising the agent's authority may rely upon the power of attorney as if the power of attorney were genuine, valid, and still in effect, the agent's authority were genuine, valid, and still in effect, and the agent had not exceeded and had properly exercised the authority. The preceding sentence shall not apply to an acknowledged power of attorney that contains a forged signature of the principal.
+		</section>
+		<section prefix="C">A person that is asked to accept an acknowledged power of attorney may request, and rely upon, without further investigation, any or all of the following:
+			<section prefix="1">An agent's certification under oath of any factual matter concerning the principal, agent, or power of attorney;
+			</section>
+			<section prefix="2">An English translation of the power of attorney if the power of attorney contains, in whole or in part, language other than English; and
+			</section>
+			<section prefix="3">An opinion of the counsel for the principal or the agent, or the opinion of counsel for the person, as to any matter of law concerning the power of attorney if the person making the request provides in a writing or other record the reason for the request.
+			</section>
+		</section>
+		<section prefix="D">An English translation or an opinion of counsel for the principal or the agent requested under this section shall be provided at the principal's expense.
+		</section>
+		<section prefix="E">An agent's certification, an English translation, or an opinion of counsel shall be in recordable form if the exercise of the power requires recordation of any instrument under the laws of the Commonwealth.
+		</section>
+		<section prefix="F">For purposes of this section and § 64.2-1618, a person that conducts activities through employees and exercises commercially reasonable procedures to communicate information concerning powers of attorney among its employees is without actual knowledge of a fact relating to a power of attorney, a principal, or an agent if the employee conducting the transaction involving the power of attorney has followed such procedures and is nonetheless without actual knowledge of the fact.
+		</section>
+	</text>
+	<history>2010, cc. 455, 632, § 26-90; 2012, c. 614.</history>
+</law>

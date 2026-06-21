@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3106</section_number>
+	<catch_line>Suicide and execution not grounds of defense; exception</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsection B of this section, the fact that an insured committed suicide, or was executed under law, shall not be a defense in any action, motion or other proceeding on a life insurance policy that (i) was issued to any person residing in this Commonwealth at the time of issuance, or (ii) is otherwise subject to the laws of this Commonwealth, to recover for the death of that person.
+		</section>
+		<section prefix="B">An express provision in the body of the policy limiting the liability of the insurer to an insured who, whether sane or insane, dies by his own act within two years from the date of the policy shall be valid but the insurer shall be obligated to return or pay at the least the amount of the premium paid for the policy.
+		</section>
+	</text>
+	<history>Code 1950, § 38-365; 1952, c. 317, § 38.1-437; 1986, c. 562.</history>
+</law>

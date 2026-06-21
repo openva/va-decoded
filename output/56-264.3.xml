@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="10" level="2">Heat, Light, Power, Water and Other Utility Companies Generally</unit>
+		<unit label="article" identifier="6" level="3">Water and Sewerage Companies</unit>
+	</structure>
+	<section_number>56-264.3</section_number>
+	<catch_line>Cost allocation and rate design</catch_line>
+	<text>
+		<section prefix="A">The provisions of this section shall apply in any proceeding in which the Commission is required to determine, pursuant to § 56-234, if (i) rates charged by water and sewerage companies with fewer than 10,000 customer accounts, inclusive of their subsidiaries, are reasonable and just and (ii) customers using water and sewerage services under like conditions are being charged uniformly for such services.
+		</section>
+		<section prefix="B">Any rate application or proposal submitted to the Commission that would allocate the revenue requirement of a water or sewerage company with fewer than 10,000 customer accounts, inclusive of their subsidiaries, among more than one class of customers shall be supported by a class cost-of-service study that is designed to allocate revenues on the basis of cost causation and to assign credit for contributions in aid of construction, not previously addressed in a utility acquisition transaction or the most recent approved rate case application, to the customer class that made the contributions.
+		</section>
+		<section prefix="C">In setting rates, the Commission shall not find that any allocation of the revenue requirement to a particular class of customers that is greater than the portion of the revenue requirement that can be attributed to that class on the basis of a cost-of-service study of the type described in subsection B is just and reasonable unless the allocation is otherwise supported by substantial evidence.
+		</section>
+		<section prefix="D">In any proceeding pursuant to § 56-234 regarding the rates charged by water and sewerage companies, the revenues to be produced by rates as designed for any particular class of customers shall not provide an anticipated return on equity more than 25 percent greater or less than the return on equity used to set rates for the company as a whole, unless otherwise supported by clear and convincing evidence. The effect of this provision on class rate design shall not be considered in establishing the return on equity used to set rates for the company as a whole.
+		</section>
+	</text>
+	<history>2019, c. 715.</history>
+</law>

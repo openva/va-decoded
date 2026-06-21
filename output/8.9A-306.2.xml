@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="1" level="3">Law Governing Perfection and Priority</unit>
+	</structure>
+	<section_number>8.9A-306.2</section_number>
+	<catch_line>Law governing perfection and priority of security interests in controllable accounts, controllable electronic records, and controllable payment intangibles</catch_line>
+	<text>
+		<section prefix="a">Governing law: general rules. Except as provided in subsection (b), the local law of the controllable electronic record's jurisdiction specified in § 8.12-107(c) and (d) governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in a controllable electronic record and a security interest in a controllable account or controllable payment intangible evidenced by the controllable electronic record.
+		</section>
+		<section prefix="b">When perfection governed by law of jurisdiction where debtor located. The local law of the jurisdiction in which the debtor is located governs:
+			<section prefix="1">perfection of a security interest in a controllable account, controllable electronic record, or controllable payment intangible by filing; and
+			</section>
+			<section prefix="2">automatic perfection of a security interest in a controllable payment intangible created by a sale of the controllable payment intangible.
+			</section>
+		</section>
+	</text>
+	<history>2024, c. 652.</history>
+</law>

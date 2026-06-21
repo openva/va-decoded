@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="6" level="3">Titling and Registration of Motor Vehicles</unit>
+		<unit label="article" identifier="8" level="4">Verification of Motor Vehicle Insurance</unit>
+	</structure>
+	<section_number>46.2-706.1</section_number>
+	<catch_line>Insurance and surety companies to furnish certain insurance information</catch_line>
+	<text>
+		<section prefix="A">Any liability insurance information relating to individually identified vehicles or persons, received from such companies under this section, shall be considered privileged information and not subject to the Virginia Freedom of Information Act (§ 2.2-3700 et seq.).
+		</section>
+		<section prefix="B">Such information shall be used in conjunction with information supplied under § 46.2-706 to verify insurance for motor vehicles certified by their owners to be insured.
+		</section>
+		<section prefix="C">Insurance companies licensed to do business in Virginia shall provide to the Department, electronically in a manner prescribed by the Commissioner, updates within 30 days of a policy change to liability insurance for a vehicle registered in Virginia, including liability insurance that satisfies financial responsibility requirements. A policy change occurs when an insurance company (i) issues liability insurance, (ii) cancels liability insurance, (iii) becomes aware of a lapse in liability insurance, (iv) reissues or reinstates liability insurance, or (v) adds a vehicle to an existing liability insurance policy.
+		</section>
+		<section prefix="D">Insurance companies licensed to do business in Virginia shall respond electronically in a manner prescribed by the Commissioner to a Department request for acknowledgment of liability insurance within 15 days of receiving the request. Insurance companies shall respond to the request by confirming or denying the existence of a policy with the company.
+		</section>
+		<section prefix="E">Every update of a policy change concerning a liability insurance policy shall include the following information: vehicle identification number, full name of first named insured, vehicle make, and vehicle model year. If available, the following information shall also be included: date of birth for first named insured, full names and dates of birth for all vehicle operators, and Virginia drivers' license numbers or social security numbers for the first named insured and all vehicle operators.
+		</section>
+	</text>
+	<history>1993, c. 949; 1996, cc. 474, 489; 2009, c. 419; 2019, cc. 149, 193.</history>
+</law>

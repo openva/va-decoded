@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions; Department of Motor Vehicles</unit>
+		<unit label="chapter" identifier="2" level="3">Department of Motor Vehicles</unit>
+		<unit label="article" identifier="3" level="4">Electronic Credentials Act</unit>
+	</structure>
+	<section_number>46.2-229</section_number>
+	<catch_line>Verification system</catch_line>
+	<text>
+		<section prefix="A">The Department or its agent may create and operate a verification system.
+		</section>
+		<section prefix="B">The Department may enter into agreements with other government agencies or jurisdictions issuing electronic credentials to allow for the verification of those credentials through the verification system and may also enter into agreements with other government agencies or jurisdictions or their agents operating a similar verification system for the purpose of verifying Virginia electronic credentials used in other states.
+		</section>
+		<section prefix="C">The Department or its agent may enter into an agreement with a person to access and search the verification system. Any such agreement shall require, at a minimum, that the person to whom the Department is granting access agree to search the system only in compliance with the requirements of this section and to take appropriate measures to protect the credential holder's privacy.
+		</section>
+		<section prefix="D">A person who has entered into an agreement with the Department to access and search the verification system, and who has been presented with an electronic credential or profile, may search the verification system to verify the validity and accuracy of the electronic credential or profile that has been presented if the electronic credential holder consents to the search.
+		</section>
+		<section prefix="E">Following a search of the verification system made by a person with whom it has entered into an agreement pursuant to subsection C, the Department may release through the verification system a verification of those data fields that the electronic credential holder has consented to be verified.
+		</section>
+	</text>
+	<history>2017, c. 697.</history>
+</law>

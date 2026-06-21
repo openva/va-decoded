@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="7" level="2">Short-Time Compensation Program</unit>
+	</structure>
+	<section_number>60.2-715</section_number>
+	<catch_line>Eligibility for short-time compensation</catch_line>
+	<text>
+		<section prefix="A">An employee is eligible to receive short-time compensation under a work sharing plan with respect to any week only if the employee is monetarily eligible for unemployment compensation, not otherwise disqualified for unemployment compensation, and:
+			<section prefix="1">During the week, the employee is employed as a member of an affected unit under an approved work sharing plan that was approved prior to that week, and the plan is in effect with respect to the week for which short-time compensation is claimed; and
+			</section>
+			<section prefix="2">Notwithstanding any other provisions of this title relating to availability for work and actively seeking work, the employee is available for the employee's usual hours of work with the short-time compensation employer, which may include, for purposes of this section, participating in training, including employer-sponsored training or training funded under the federal Workforce Innovation and Opportunity Act of 2014, to enhance job skills that is approved by the Commission.
+			</section>
+		</section>
+		<section prefix="B">Notwithstanding any other provision of law, an employee covered by a work sharing plan is deemed unemployed in any week during the duration of that plan if the employee's remuneration as an employee in an affected unit is reduced based on a reduction of the employee's usual weekly hours of work under an approved work sharing plan.
+		</section>
+		<section prefix="C">The short-term compensation program shall not serve as a subsidy of seasonal employment during the off-season, nor as a subsidy of temporary part-time or intermittent employment.
+		</section>
+	</text>
+	<history>2020, c. 1261.</history>
+</law>

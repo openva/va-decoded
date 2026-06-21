@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="3" level="4">Representation</unit>
+	</structure>
+	<section_number>64.2-714</section_number>
+	<catch_line>Representation; basic effect</catch_line>
+	<text>
+		<section prefix="A">Notice to a person who may represent and bind another person under this chapter has the same effect as if notice were given directly to the other person.
+		</section>
+		<section prefix="B">The consent of a person who may represent and bind another person under this chapter is binding on the person represented unless the person represented objects to the representation by notifying the trustee or the representative before the consent would otherwise have become effective.
+		</section>
+		<section prefix="C">Except as otherwise provided in §§ 64.2-729 and 64.2-751, a person who under this chapter may represent a settlor who lacks capacity may receive notice and give a binding consent on the settlor's behalf.
+		</section>
+		<section prefix="D">A settlor may not represent and bind a beneficiary under this chapter with respect to the termination or modification of a trust under § 64.2-729.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-543.01; 2012, c. 614.</history>
+</law>

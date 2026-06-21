@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="3" level="4">Motor Fuel Tax; Liability</unit>
+	</structure>
+	<section_number>58.1-2222</section_number>
+	<catch_line>Liability for tax on blended fuel</catch_line>
+	<text>
+		<section prefix="A">The tax imposed pursuant to § 58.1-2217 at the point that blended fuel is made in Virginia shall be payable by the blender. The number of gallons of blended fuel on which the tax is payable is the difference between the number of gallons of blended fuel made and the number of gallons of previously taxed motor fuel used to make the blended fuel.
+		</section>
+		<section prefix="B">The tax imposed pursuant to § 58.1-2217 at the point that blended fuel is imported to Virginia shall be payable by the importer.
+		</section>
+		<section prefix="C">The following blended fuel shall be considered to have been made by the supplier of gasoline or undyed diesel fuel used in the blend:
+			<section prefix="1">An in-line-blend made by combining a liquid with gasoline or undyed diesel fuel as the fuel is delivered at a terminal rack into the motor fuel storage compartment of a transport truck or a tank wagon; and
+			</section>
+			<section prefix="2">A kerosene splash-blend made when kerosene is delivered into a motor fuel storage compartment of a transport truck or a tank wagon and undyed diesel fuel is also delivered into the same storage compartment, if the buyer of the kerosene notified the supplier before or at the time of delivery that the kerosene would be used to make a splash-blend.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 729, 758.</history>
+</law>

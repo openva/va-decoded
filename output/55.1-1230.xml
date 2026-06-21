@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="III" level="2">Rental Conveyances</unit>
+		<unit label="chapter" identifier="12" level="3">Virginia Residential Landlord and Tenant Act</unit>
+		<unit label="article" identifier="3" level="4">Tenant Obligations</unit>
+	</structure>
+	<section_number>55.1-1230</section_number>
+	<catch_line>Access following entry of certain court orders</catch_line>
+	<text>
+		<section prefix="A">A tenant or authorized occupant who has obtained an order from a court pursuant to § 16.1-279.1 or subsection B of § 20-103 granting such tenant possession of the premises to the exclusion of one or more co-tenants or authorized occupants may provide the landlord with a copy of that court order and request that the landlord either (i) install a new lock or other security devices on the exterior doors of the dwelling unit at the landlord's actual cost or (ii) permit the tenant or authorized occupant to do so, provided that:
+			<section prefix="1">Installation of the new lock or security devices does no permanent damage to any part of the dwelling unit; and
+			</section>
+			<section prefix="2">A duplicate copy of all keys and instructions for the operation of all devices are given to the landlord.
+				Upon termination of the tenancy, the tenant shall be responsible for payment to the landlord of the reasonable costs incurred for the removal of all such devices installed and repairs to all damaged areas.
+			</section>
+		</section>
+		<section prefix="B">A person who is not a tenant or authorized occupant of the dwelling unit and who has obtained an order from a court pursuant to § 16.1-279.1 or subsection B of § 20-103 granting such person possession of the premises to the exclusion of one or more co-tenants or authorized occupants may provide a copy of such order to the landlord and submit a rental application to become a tenant of such dwelling unit within 10 days of the entry of such order. If such person's rental application meets the landlord's tenant selection criteria, such person may become a tenant of such dwelling unit under a written rental agreement. If such person submits a rental application and does not meet the landlord's tenant selection criteria, such person shall vacate the dwelling unit no later than 30 days after the date the landlord gives such person written notice that his rental application has been rejected. If such person does not provide a copy of the protective order to the landlord and submit a rental application to the landlord within 10 days as required by this section, such person shall vacate the dwelling unit no later than 30 days after the date of the entry of such order. Such person shall be liable to the landlord for failure to vacate the dwelling unit as required in this section.
+			Any tenant obligated on a rental agreement shall pay the rent and otherwise comply with any and all requirements of the rental agreement and any applicable laws and regulations. The landlord may pursue all of its remedies under the rental agreement and applicable laws and regulations, including filing an unlawful detainer action pursuant to § 8.01-126 to obtain a money judgment and to evict any persons residing in such dwelling unit.
+		</section>
+		<section prefix="C">A landlord who has received a copy of a court order in accordance with subsection A shall not provide copies of any keys to the dwelling unit to any person excluded from the premises by such order.
+		</section>
+		<section prefix="D">This section shall not apply when the court order excluding a person was issued ex parte.
+		</section>
+	</text>
+	<history>2005, cc. 735, 825, § 55-248.18:1; 2016, c. 595; 2019, c. 712.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="6" level="2">Notice of Accident; Filing Claims; Medical Attention and Examination</unit>
+	</structure>
+	<section_number>65.2-601.3</section_number>
+	<catch_line>Notice of right to dispute claim</catch_line>
+	<text>
+		<section prefix="A">If an employer subject to this title, or an employer's insurer, denies a covered employee's request for workers' compensation benefits, the employer or the insurer, as applicable, shall include in its letter denying benefits a notice that the employee has a right to dispute the claim denial through the Virginia Workers' Compensation Commission. Such notice shall include the following text:
+			EMPLOYEE RIGHT TO DISPUTE DENIAL OF WORKERS' COMPENSATION BENEFITS.
+			IF YOU DISAGREE WITH THIS DENIAL, YOU HAVE THE RIGHT TO DISPUTE THE DECISION BY FILING A REQUEST FOR A HEARING WITH THE VIRGINIA WORKERS' COMPENSATION COMMISSION. IT IS YOUR RESPONSIBILITY TO DISPUTE THE DECISION AS SOON AS PRACTICABLE. THE WORKERS' COMPENSATION COMMISSION IS A STATE AGENCY RESPONSIBLE FOR MAKING FINAL DECISIONS ON DISPUTED WORKERS' COMPENSATION CLAIMS. HOWEVER, SUCH CLAIM MAY BE LOST IF YOU DO NOT FILE IT WITHIN THE TIME LIMIT PROVIDED BY LAW, WHICH IS TYPICALLY TWO YEARS AFTER THE INJURY.
+			Such notice shall also include the address, telephone number, and website through which the employee may contact the Virginia Workers' Compensation Commission.
+		</section>
+		<section prefix="B">Failure to comply with the provisions of this section shall not be considered a failure to make a required report for the purposes of § 65.2-902.
+		</section>
+	</text>
+	<history>2024, c. 584.</history>
+</law>

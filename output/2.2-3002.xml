@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="E" level="3">State Officers and Employees</unit>
+		<unit label="chapter" identifier="30" level="4">State Grievance Procedure</unit>
+	</structure>
+	<section_number>2.2-3002</section_number>
+	<catch_line>Exemptions from chapter</catch_line>
+	<text>
+		The provisions of this chapter shall not apply to:
+		<section prefix="1">Appointees of elected groups or individuals except as provided in subsection B of § 2.2-3001;
+		</section>
+		<section prefix="2">Agency heads or chief executive officers of government agencies and public institutions of higher education appointed by boards and commissions;
+		</section>
+		<section prefix="3">Law-enforcement officers as defined in § 9.1-500 whose grievances are subject to Chapter 5 (§ 9.1-500 et seq.) and who have elected to resolve such grievances under those provisions; and
+		</section>
+		<section prefix="4">Employees in positions designated in § 2.2-2905 as exempt from the Virginia Personnel Act (§ 2.2-2900 et seq.).
+		</section>
+	</text>
+	<history>1995, cc. 770, 818, § 2.1-116.013; 2001, c. 844.</history>
+</law>

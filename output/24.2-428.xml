@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="5" level="3">Cancellation of Registration</unit>
+	</structure>
+	<section_number>24.2-428</section_number>
+	<catch_line>Regular periodic review of registration records; notice to voters identified as having moved; placement on inactive status for failure to respond to notice</catch_line>
+	<text>
+		<section prefix="A">The Department of Elections shall establish a voter list maintenance program using the change of address information supplied by the United States Postal Service through its licensees or by other reliable sources to identify voters whose addresses may have changed. Any such program shall be regular and periodic and shall be conducted at least annually. The program shall be completed not later than ninety days prior to the date of a federal primary or federal general election.
+		</section>
+		<section prefix="B">If it appears from information provided by the Postal Service or by other reliable sources that a voter has moved to a different address in the same county or city in which the voter is currently registered, the Department shall provide to the general registrar the information necessary to change the registration records to show the new address, and the Department or the general registrar shall send to the new address of the voter by forwardable mail, a notice of the change, along with a postage prepaid, pre-addressed return card by which the voter may verify or correct the address information.
+		</section>
+		<section prefix="C">If it appears from information provided by the Postal Service or by other reliable sources that a voter has moved to a different address not in the same county or city, the Department or the general registrar shall send to the last known address of the voter by forwardable mail, a notice on a form prescribed by the Department, along with a postage prepaid and pre-addressed return card on which the voter may state his current address.
+		</section>
+		<section prefix="D">The registered voter shall complete and sign the return card subject to felony penalties for making false statements pursuant to § 24.2-1016.
+		</section>
+		<section prefix="E">The general registrar shall correct his registration records from the information obtained from the return card. If the information indicates that the registered voter has moved to another general registrar's jurisdiction within the Commonwealth, the general registrar shall transfer the registration record, along with the return card, to the appropriate general registrar who shall treat the request for a change of address as a request for transfer and shall send a voter registration card as confirmation of the transfer to the voter pursuant to § 24.2-424. If the general registrar does not receive the return card provided for in subsection C of this section within thirty days after it is sent to the voter, the registered voter's name shall be placed on inactive status. A registered voter's failure to receive the notice shall not affect the validity of the inactivation.
+		</section>
+	</text>
+	<history>Code 1950, §§ 24-96, 24-97, 24-107; 1954, c. 690; 1962, c. 536; 1964, c. 538; 1970, c. 462, §§ 24.1-59, 24.1-60; 1972, c. 620; 1973, c. 30; 1975, c. 515; 1976, c. 616; 1982, c. 650; 1986, c. 241; 1990, c. 313; 1991, c. 10; 1993, c. 641; 1996, cc. 72, 73; 2000, c. 857; 2015, c. 740.</history>
+</law>

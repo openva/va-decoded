@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="IV" level="2">Food and Drink; Weights and Measures</unit>
+		<unit label="chapter" identifier="51" level="3">Food and Drink</unit>
+		<unit label="article" identifier="3" level="4">Adulteration, Misbranding, and False Advertising</unit>
+	</structure>
+	<section_number>3.2-5125.1</section_number>
+	<catch_line>(Effective January 1, 2026) Baby Food Protection Act; testing and labeling requirements for toxic heavy metals</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Baby food product" means any food manufactured, packaged, and labeled in a jar, pouch, tub, or box sold specifically for babies and children younger than two years of age. "Baby food product" does not include infant formula, as defined in § 54.1-4300.
+			"FDA" means the U.S. Food and Drug Administration.
+			"Production aggregate" means a quantity of product that is intended to have uniform composition, character, and quality and is produced according to a master manufacturing order.
+			"Proficient laboratory" means a laboratory that (i) is accredited under the standards of the International Organization for Standardization or the International Electrotechnical Commission pursuant to standard ISO/IEC 17025:2017, (ii) uses an analytical method as sensitive as the analytical method described in the FDA's Elemental Analysis Manual for Food and Related Products, and (iii) demonstrates proficiency in quantifying each toxic element to at least six micrograms of the toxic element to kilogram of food through an independent proficiency test by achieving a z-score that is less than or equal to plus or minus two.
+			"QR code" means a two-dimension matrix barcode consisting of blocks arranged in a grid that can be read by an imaging device.
+			"Representative sample" means a sample that consists of a number of units that are drawn based on rational criteria, including random sampling, and intended to ensure that the sample accurately portrays the material being sampled.
+			"Toxic heavy metal" means arsenic, cadmium, lead, and mercury.
+			"URL" means uniform resource locater.
+		</section>
+		<section prefix="B">No person shall sell, distribute, or offer for sale any baby food that contains a toxic heavy metal that exceeds the limits established by the FDA. The provisions of this subsection shall not restrict the continued sale of such baby food product by a retailer of any existing inventory in stock before January 1, 2026.
+		</section>
+		<section prefix="C">A manufacturer of baby food shall test a representative sample of each production aggregate of the manufacturer's final baby food product for a toxic heavy metal. Testing of a baby food product shall be conducted by a proficient laboratory at least once a month. Such manufacturer may test the final baby food product before packaging individual units of baby food for sale or distribution. Upon request of the Commissioner, a manufacturer shall provide the results of the test conducted pursuant to this subsection.
+		</section>
+		<section prefix="D">A manufacturer shall make publicly available on its website for the duration of the product shelf life of a final baby food product, plus one month, for each baby food product sold, manufactured, delivered, held, or offered for sale in the Commonwealth:
+			<section prefix="1">The name and level of each toxic heavy metal present in the final baby food product as determined by the testing conducted under subsection C;
+			</section>
+			<section prefix="2">Sufficient information, including the product name, universal product code, or lot or batch number, to enable consumers to identify the final baby food product; and
+			</section>
+			<section prefix="3">A link to the FDA's website that provides the most recent FDA guidance and information about the health effects of toxic heavy metals on children.
+			</section>
+		</section>
+		<section prefix="E">If the baby food product is tested for a toxic heavy metal subject to an action level, regulatory limit, or tolerance established by the FDA under 21 C.F.R. § 109, the manufacturer shall display on the baby food product:
+			<section prefix="1">A label that states in a clear, legible, and conspicuous form, the following:
+				"For Information About Toxic Element Testing On This Product, Scan the QR Code."; and
+			</section>
+			<section prefix="2">A QR code or other machine-readable code that directs the consumers to the manufacturer's website or the baby food product information page providing (i) the test results for the toxic heavy metal and (ii) a URL to the webpage on the FDA's website that includes the most recent guidance and information about the health effects of toxic heavy metals on children.
+			</section>
+		</section>
+		<section prefix="F">If a consumer reasonably believes based on the information provided on the baby food product that such baby food product is being sold in the Commonwealth in violation of this section, the consumer shall report such baby food product to the Commissioner.
+		</section>
+	</text>
+	<history>2025, c. 693.</history>
+</law>

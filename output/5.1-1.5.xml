@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="5.1" level="1">Aviation</unit>
+		<unit label="chapter" identifier="1" level="2">Aircraft, Airmen and Airports Generally</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>5.1-1.5</section_number>
+	<catch_line>General powers of Department</catch_line>
+	<text>
+		The Department shall have the following general powers:
+		<section prefix="1">To employ such personnel as may be required to carry out the purposes of this chapter.
+		</section>
+		<section prefix="2">To make and enter into all contracts and agreements necessary or incidental to the performance of its duties and the execution of its powers under this chapter, including, but not limited to, contracts with the United States, other states, agencies and governmental subdivisions of the Commonwealth.
+		</section>
+		<section prefix="3">To accept grants from the United States government and agencies and instrumentalities thereof and any other source. To these ends, the Department shall have the power to comply with such conditions and execute such agreements as may be necessary, convenient or desirable.
+		</section>
+		<section prefix="4">To do all acts necessary or convenient to carry out the purposes of this chapter.
+		</section>
+	</text>
+	<history>1979, c. 272.</history>
+</law>

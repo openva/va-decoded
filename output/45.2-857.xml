@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="5" level="5">Personal Safety; Smoking</unit>
+	</structure>
+	<section_number>45.2-857</section_number>
+	<catch_line> Allowing persons to work in a mine with smoker's articles; penalty</catch_line>
+	<text>
+		<section prefix="A">No operator, agent, or mine foreman shall knowingly permit any person in an underground coal mine to smoke, carry, or possess any smoker's articles or materials used for igniting smoker's articles.
+		</section>
+		<section prefix="B">Violation of this section is a Class 6 felony.
+		</section>
+	</text>
+	<history>1993, c. 389, § 45.1-98.3; 1994, c. 28, § 45.1-161.178; 2021, Sp. Sess. I, c. 387.</history>
+</law>

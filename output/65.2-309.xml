@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="3" level="2">Application and Effect of Title</unit>
+	</structure>
+	<section_number>65.2-309</section_number>
+	<catch_line>Lien against settlement proceeds or verdict in third party suit; subrogation of employer to employee's rights against third parties; evidence; recovery; compromise</catch_line>
+	<text>
+		<section prefix="A">A claim against an employer under this title for injury, occupational disease, or death benefits shall create a lien on behalf of the employer against any verdict or settlement arising from any right to recover damages which the injured employee, his personal representative or other person may have against any other party for such injury, occupational disease, or death, and such employer also shall be subrogated to any such right and may enforce, in his own name or in the name of the injured employee or his personal representative, the legal liability of such other party. The amount of compensation paid by the employer or the amount of compensation to which the injured employee or his dependents are entitled shall not be admissible as evidence in any action brought to recover damages.
+		</section>
+		<section prefix="B">Any amount collected by the employer under the provisions of this section in excess of the amount paid by the employer or for which he is liable shall be held by the employer for the benefit of the injured employee, his personal representative, or other person entitled thereto, less a proportionate share of such amounts as are paid by the employer for reasonable expenses and attorney's fees as provided in § 65.2-311.
+		</section>
+		<section prefix="C">No compromise settlement shall be made by the employer in the exercise of such right of subrogation without the approval of the Commission and the injured employee or the personal representative or dependents of the deceased employee being first obtained.
+		</section>
+		<section prefix="D">If an injured employee, his personal representative, or a person acting on behalf of the injured employee receives the proceeds of the settlement or verdict and the employer's lien pursuant to subsection A has not been satisfied, the employer shall have the right to recover its lien either as a credit against future benefits or through a civil action against the person who received the proceeds.
+		</section>
+		<section prefix="E">Any arbitration held by the employer in the exercise of such right of subrogation (i) shall be limited solely to arbitrating the amount and validity of the employer's lien, (ii) shall not affect the employee's rights in any way, and (iii) shall not be held unless:
+			<section prefix="1">Prior to the commencement of such arbitration the employer has provided the injured employee and his attorney, if any, with an itemization of the expenses associated with the lien that is the subject of the arbitration;
+			</section>
+			<section prefix="2">Upon receipt of the itemization of the lien, the employee shall have 21 days to provide a written objection to any expenses included in the lien to the employer, and if the employee does not do so any objections to the lien to be arbitrated shall be deemed waived;
+			</section>
+			<section prefix="3">The employer shall have 14 days after receipt of the written objection to notify the employee of any contested expenses that the employer does not agree to remove from the lien, and if the employer does not do so any itemized expense objected to by the employee shall be deemed withdrawn and not included in the arbitration; and
+			</section>
+			<section prefix="4">Any contested expenses remaining shall have been submitted to the Commission for a determination of their validity and the Commission has made such determination of validity prior to the commencement of the arbitration.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 65-38; 1960, c. 89; 1968, c. 660, § 65.1-41; 1991, c. 355; 2004, cc. 914, 941; 2017, cc. 81, 288.</history>
+</law>

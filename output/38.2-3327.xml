@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="2" level="3">Group Life Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3327</section_number>
+	<catch_line>Entire contract; statements deemed representations</catch_line>
+	<text>
+		<section prefix="A">Each group life insurance policy shall contain a provision that the policy and any application of the policyowner, and any individual applications of the persons insured shall constitute the entire contract between the parties.
+		</section>
+		<section prefix="B">The provision shall also state that:
+			<section prefix="1">A copy of any application of the policyowner shall be attached to the policy when issued;
+			</section>
+			<section prefix="2">All statements made by the policyowner or by the persons insured shall be deemed representations and not warranties; and
+			</section>
+			<section prefix="3">No written statement made by any person insured shall be used in any contest unless a copy of the statement has been furnished to the person, his beneficiary or his personal representative.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 38-429(2); 1952, c. 317, § 38.1-426; 1960, c. 273; 1986, c. 562.</history>
+</law>

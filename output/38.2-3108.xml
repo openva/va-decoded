@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3108</section_number>
+	<catch_line>Misstatement of age</catch_line>
+	<text>
+		Each life insurance policy shall contain a provision that, if at any time before final settlement under the policy the age of the insured, or the age of any other person if considered in determining the premium, is found to have been misstated, the amount payable under the policy shall be the amount that the premium would have purchased at the correct age at the time the policy was issued.
+	</text>
+	<history>Code 1950, § 38-366; 1952, c. 317, § 38.1-439; 1986, c. 562.</history>
+</law>

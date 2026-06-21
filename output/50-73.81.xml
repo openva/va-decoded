@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>50-73.81</section_number>
+	<catch_line>Effect of partnership agreement; nonwaivable provisions</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection B, relations among the partners and between the partners and the partnership are governed by the partnership agreement. To the extent the partnership agreement does not otherwise provide, this chapter governs relations among the partners and between the partners and the partnership.
+		</section>
+		<section prefix="B">The partnership agreement may not:
+			<section prefix="1">Vary the rights and duties in § 50-73.83 except to eliminate the duty to provide copies of statements to all of the partners;
+			</section>
+			<section prefix="2">Unreasonably restrict the right of access to books and records in subsection B of § 50-73.101;
+			</section>
+			<section prefix="3">Eliminate the obligation of good faith and fair dealing in subsection D of § 50-73.102, but the partnership agreement may prescribe the standards by which the performance of the obligation is to be measured, if the standards are not manifestly unreasonable;
+			</section>
+			<section prefix="4">Vary the power to dissociate as a partner in subsection A of § 50-73.110, except to require the notice in subdivision 1 of § 50-73.109 to be in writing;
+			</section>
+			<section prefix="5">Vary the right of a court to expel a partner in the events specified in subdivision 5 of § 50-73.109;
+			</section>
+			<section prefix="6">Vary the requirement to wind up the partnership business in cases specified in subdivisions 4, 5 or 6 of § 50-73.117;
+			</section>
+			<section prefix="7">Restrict rights of third parties under this chapter without the consent of those third parties; or
+			</section>
+			<section prefix="8">Vary the law applicable to registered limited liability partnerships as set forth in subsection B of § 50-73.84.
+			</section>
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

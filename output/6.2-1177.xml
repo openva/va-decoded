@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="11" level="3">Savings Institutions</unit>
+		<unit label="article" identifier="6" level="4">Accounts</unit>
+	</structure>
+	<section_number>6.2-1177</section_number>
+	<catch_line>Savings institution need not inquire as to fiduciary funds deposited in fiduciary's personal account</catch_line>
+	<text>
+		If any fiduciary or agent makes a deposit in a savings institution to his personal credit of checks drawn by him upon an account in his own name as fiduciary, or of checks drawn by him upon an account in the name of his principal, if he is empowered to draw checks thereto, or of checks payable to his principal and endorsed by him as fiduciary, the institution receiving the deposit:
+		<section prefix="1">Shall not be required to inquire whether the fiduciary is committing thereby a breach of his obligation as fiduciary; and
+		</section>
+		<section prefix="2">Is authorized to pay the amount of the deposit or any part thereof upon the withdrawal by the fiduciary without being liable to the principal, unless the institution receives the deposit or pays the withdrawal with (i) actual knowledge that the fiduciary, in making such deposit or in making such withdrawal, is committing a breach of his obligation as fiduciary or (ii) knowledge of such facts that its action in receiving the deposit or paying the withdrawal amounts to bad faith.
+		</section>
+	</text>
+	<history>1980, c. 329, § 6.1-195.27:1; 1985, c. 425, § 6.1-194.60; 2010, c. 794.</history>
+</law>

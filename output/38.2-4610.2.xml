@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="46" level="2">Title Insurance</unit>
+	</structure>
+	<section_number>38.2-4610.2</section_number>
+	<catch_line>Loss reserves</catch_line>
+	<text>
+		<section prefix="A">Each title insurance company licensed in this Commonwealth shall annually evaluate the adequacy of its total recorded loss reserves. Total recorded loss reserves are the sum of claim reserves held under § 38.2-4609 and unearned premium reserves held under § 38.2-4610.1. The evaluation of reserve adequacy shall be prepared by a qualified actuary and shall be based on a comparison of total recorded reserves to a projection of ultimate losses not yet paid. The actuary shall certify the results of his evaluation in a report complying with such applicable title insurance annual statement instructions as may be issued by the National Association of Insurance Commissioners.
+		</section>
+		<section prefix="B">A domestic title insurance company shall record an additional reserve to the extent the projection of ultimate losses not yet paid set forth in the report of the qualified actuary exceeds total recorded loss reserves held by the company. For purposes of calculating any additional reserve required, a domestic title insurance company may discount the projection of ultimate losses not yet paid to reflect the time value of money. The interest rate used by the actuary to reflect the time value of money shall be based on a portfolio interest rate approach with appropriate provision for risk margins and subject to published actuarial standards for discounting reserves.
+		</section>
+		<section prefix="C">A foreign or alien title insurance company licensed in this Commonwealth shall record an additional reserve to the extent the projection of ultimate losses set forth in the report of the qualified actuary exceeds all recorded reserves held by the company as reported in its most recent statutory statement filed with the Commission, including reserves held under subsection C of § 38.2-4610.1 and all reserves held under the laws of the jurisdiction of the domicile of the foreign or alien title insurance company or any other jurisdiction.
+		</section>
+	</text>
+	<history>1996, c. 494.</history>
+</law>

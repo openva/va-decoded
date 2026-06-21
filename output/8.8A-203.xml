@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="2" level="2">Issue and Issuer</unit>
+	</structure>
+	<section_number>8.8A-203</section_number>
+	<catch_line>Staleness as notice of defect or defense</catch_line>
+	<text>
+		After an act or event, other than a call that has been revoked, creating a right to immediate performance of the principal obligation represented by a certificated security or setting a date on or after which the security is to be presented or surrendered for redemption or exchange, a purchaser is charged with notice of any defect in its issue or defense of the issuer, if the act or event:
+		<section prefix="1">requires the payment of money, the delivery of a certificated security, the registration of transfer of an uncertificated security, or any of them on presentation or surrender of the security certificate, the money or security is available on the date set for payment or exchange, and the purchaser takes the security more than one year after that date; or
+		</section>
+		<section prefix="2">is not covered by paragraph (1) and the purchaser takes the security more than two years after the date set for surrender or presentation or the date on which performance became due.
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Members and Meetings</unit>
+	</structure>
+	<section_number>13.1-838</section_number>
+	<catch_line>Annual meeting</catch_line>
+	<text>
+		<section prefix="A">A corporation shall hold a meeting of members annually at a time stated in or fixed in accordance with the bylaws.
+		</section>
+		<section prefix="B">Except as otherwise determined by the board of directors acting pursuant to subsection C of § 13.1-844.2, meetings of members may be held at such place, in or out of the Commonwealth, as may be provided in the bylaws or, where not inconsistent with the bylaws, in the notice of the meeting.
+		</section>
+		<section prefix="C">The failure to hold an annual meeting at the time stated in or fixed in accordance with a corporation's bylaws does not affect the validity of any corporate action.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-213; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2007, c. 925; 2012, c. 706; 2018, c. 265.</history>
+</law>

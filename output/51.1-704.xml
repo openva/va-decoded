@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="51.1" level="1">Pensions, Benefits, and Retirement</unit>
+		<unit label="chapter" identifier="7" level="2">Federal Social Security for State and Local Employees</unit>
+	</structure>
+	<section_number>51.1-704</section_number>
+	<catch_line>Contributions by state employees</catch_line>
+	<text>
+		<section prefix="A">Every employee of the Commonwealth whose services are covered by an agreement entered into under § 51.1-702 shall pay contributions, with respect to wages, equal to the applicable taxes which would be imposed by the "Rate of Tax" sections of the Federal Insurance Contributions Act if such services constituted employment within the meaning of that Act.
+		</section>
+		<section prefix="B">The contribution required by this section shall be collected by the Commonwealth by deducting the amount of the contribution from wages, but failure to make such deduction shall not relieve the employee from liability for such contribution.
+		</section>
+	</text>
+	<history>1952, c. 2, § 51-111.4; 1990, c. 832; 2005, c. 902.</history>
+</law>

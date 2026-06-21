@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="7.1" level="3">Computer Crimes</unit>
+	</structure>
+	<section_number>18.2-152.3:1</section_number>
+	<catch_line>Transmission of unsolicited commercial electronic mail (spam); penalty</catch_line>
+	<text>
+		<section prefix="A">Any person who:
+			<section prefix="1">Uses a computer or computer network with the intent to falsify or forge electronic mail transmission information or other routing information in any manner in connection with the transmission of spam through or into the computer network of an electronic mail service provider or its subscribers; or
+			</section>
+			<section prefix="2">Knowingly sells, gives, or otherwise distributes or possesses with the intent to sell, give, or distribute software that (i) is primarily designed or produced for the purpose of facilitating or enabling the falsification of the transmission information or other routing information of spam; (ii) has only limited commercially significant purpose or use other than to facilitate or enable the falsification of the transmission information or other routing information of spam; or (iii) is marketed by that person acting alone or with another for use in facilitating or enabling the falsification of the transmission information or other routing information of spam is guilty of a Class 1 misdemeanor.
+			</section>
+		</section>
+		<section prefix="B">Any person who commits a violation of subdivision A 1 when (i) the volume of spam transmitted exceeded 10,000 attempted recipients in any 24-hour time period, 100,000 attempted recipients in any 30-day time period, or one million attempted recipients in any one-year time period or (ii) revenue generated from a specific transmission of spam exceeded $1,000 or the total revenue generated from all spam transmitted to any EMSP exceeded $50,000, is guilty of a Class 6 felony.
+		</section>
+		<section prefix="C">Any person who knowingly hires, employs, uses, or permits any minor to assist in the transmission of spam in violation of subsection B is guilty of a Class 6 felony.
+		</section>
+	</text>
+	<history>2003, cc. 987, 1016; 2010, c. 489.</history>
+</law>

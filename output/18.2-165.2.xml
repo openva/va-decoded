@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="8" level="3">Offenses Relating to Railroads and Other Utilities</unit>
+	</structure>
+	<section_number>18.2-165.2</section_number>
+	<catch_line>Unlawful interference with emergency two-way radio communications; penalty</catch_line>
+	<text>
+		<section prefix="A">It shall be unlawful for any person to knowingly and willfully (i) interfere with the transmission of a radio communication, the purpose of which is to inform or to inquire about an emergency or (ii) transmit false information about an emergency.
+		</section>
+		<section prefix="B">For the purposes of this section, "emergency" means a condition or circumstance in which an individual is or is reasonably believed by the person transmitting the communication to be in imminent danger of death or serious bodily harm or in which property is in imminent danger of damage or destruction.
+		</section>
+		<section prefix="C">Any person who violates the provisions of this section shall be guilty of a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>1985, c. 100.</history>
+</law>

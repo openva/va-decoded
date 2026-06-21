@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="7" level="3">Rights of and Assignment by Members</unit>
+	</structure>
+	<section_number>13.1-1040.2</section_number>
+	<catch_line>Effect of a member's dissociation</catch_line>
+	<text>
+		<section prefix="A">Except as provided in the articles of organization or an operating agreement, the dissociation of a member shall not affect the membership interest held by the dissociated member or the former member's successor in interest. The former member or successor in interest shall continue to hold a membership interest and shall have the same rights that an assignee of the membership interest would have under subsection A of § 13.1-1039.
+		</section>
+		<section prefix="B">Except as provided in the articles of organization or an operating agreement, the dissociation of a member shall not cause the limited liability company to be dissolved or its affairs to be wound up, and, upon the occurrence of any such event, the limited liability company shall be continued without dissolution.
+		</section>
+	</text>
+	<history>2000, c. 581; 2006, c. 912.</history>
+</law>

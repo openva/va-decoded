@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="10" level="3">Privileges of United States Reserve, National Guard, and Naval Militia</unit>
+	</structure>
+	<section_number>44-102.1</section_number>
+	<catch_line>Rights, benefits and protections upon call to active duty; contract termination</catch_line>
+	<text>
+		<section prefix="A">Any right, benefit, or protection that may accrue to a member of the Virginia National Guard under the federal Servicemembers Civil Relief Act (50 U.S.C. § 3901 et seq.), as a result of a call to federal active duty service under Title 10 of the United States Code shall be extended to a member of the Virginia National Guard called to active duty service under Title 32 of the United States Code, or to state active duty by the Governor, if the active duty orders are for a period of 30 consecutive days or more. In addition, if a member of the Virginia National Guard is called to state active duty by the Governor, the employer shall ensure that the member has the option of continuing, at the member's expense, his health care coverage, life insurance, or long-term care insurance.
+		</section>
+		<section prefix="B">Any member of the United States Armed Forces or Virginia National Guard who receives permanent change of station orders or has received temporary duty orders in excess of three months' duration, his spouse, or his dependent may, at any time prior to the conclusion of his period of service, terminate without penalty a contract for the following services:
+			<section prefix="1">Telecommunication services;
+			</section>
+			<section prefix="2">Internet services;
+			</section>
+			<section prefix="3">Television services;
+			</section>
+			<section prefix="4">Athletic club or gym memberships;
+			</section>
+			<section prefix="5">Satellite radio services; or
+			</section>
+			<section prefix="6">Service for an alarm system as defined in § 15.2-911.
+				It shall be a violation of the Virginia Consumer Protection Act (§ 59.1-196 et seq.) for a service provider to fail to comply with the provisions of this subsection.
+			</section>
+		</section>
+	</text>
+	<history>2003, c. 769; 2010, cc. 811, 861; 2011, cc. 572, 586; 2017, c. 293.</history>
+</law>

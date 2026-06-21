@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="6" level="2">Insurance Information and Privacy Protection</unit>
+		<unit label="article" identifier="2" level="3">Insurance Data Security Act</unit>
+	</structure>
+	<section_number>38.2-629</section_number>
+	<catch_line>Exceptions</catch_line>
+	<text>
+		<section prefix="A">The following exceptions shall apply to this article:
+			<section prefix="1">A licensee subject to HIPAA that has established and maintains an information security program pursuant to such statutes, rules, regulations, or procedures established thereunder shall be considered to meet the requirements of § 38.2-623, provided that licensee is compliant with, and submits a written statement certifying its compliance with, the same, and certifies that it will protect nonpublic information not subject to HIPAA in the same manner it protects information that is subject to HIPAA, and any such licensee that investigates a cybersecurity event and notifies consumers in accordance with HIPAA and any HIPAA-established rules, regulations, or procedures shall be considered compliant with the requirements of §§ 38.2-624 and 38.2-626.
+			</section>
+			<section prefix="2">An employee, agent, representative or designee of a licensee, who is also a licensee, is exempt from §§ 38.2-623, 38.2-624, 38.2-625, and 38.2-626 and need not develop its own information security program or conduct an investigation of or provide notices to the Commissioner and consumers relating to a cybersecurity event, to the extent that the employee, agent, representative, or designee is covered by the information security program, investigation, and notification obligations of the other licensee.
+			</section>
+			<section prefix="3">A licensee affiliated with a depository institution that maintains an information security program in compliance with the Interagency Guidelines Establishing Standards for Safeguarding Customer Information (Interagency Guidelines) as set forth pursuant to §§ 501 and 505 of the federal Gramm-Leach-Bliley Act, P.L. 106-102, shall be considered to meet the requirements of § 38.2-623 and any rules, regulations, or procedures established thereunder, provided that the licensee produces, upon request, documentation satisfactory to the Commissioner that independently validates the affiliated depository institution's adoption of an information security program that satisfies the Interagency Guidelines.
+			</section>
+		</section>
+		<section prefix="B">If a licensee ceases to qualify for an exception, such licensee shall have 180 days from the date it ceases to qualify to comply with this article.
+		</section>
+	</text>
+	<history>2020, c. 264.</history>
+</law>

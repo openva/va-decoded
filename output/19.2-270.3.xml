@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="16" level="2">Evidence and Witnesses</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>19.2-270.3</section_number>
+	<catch_line>Admissible evidence as to identity of party presenting bad check, draft or order</catch_line>
+	<text>
+		In any prosecution under § 18.2-181 or § 18.2-182 for the presentation of a bad check, draft or order, the following shall be admissible in any proceeding, hearing or trial of the case:
+		<section prefix="1">The unpaid or dishonored check, draft or order, bearing a notation thereon of the full name, residence address, home telephone number, and either the driver's license, social security or other governmentally issued identification number of the person who delivered such check, draft or order to the payee, the cashing party or its representative, and bearing the initials of the representative of the payee or cashing party to whom the check, draft or order was delivered, as evidence that such information was transcribed on such check, draft or order at the time of such delivery; or
+		</section>
+		<section prefix="2">A composite photograph of the check, draft or order, and of the person delivering such check, draft or order, and of other documentation identifying such person, such as a driver's license, social security card, or other governmentally issued identification card, taken together at the time the check, draft or order was delivered by such person to the payee, the cashing party or its representative.
+			If such evidence is introduced, it may invoke an inference sufficient for the trier of fact to find that the person whose identifying information appears on the check, draft or order was the person who delivered the check, draft or order in question to the payee, cashing party or its representative.
+		</section>
+	</text>
+	<history>1981, c. 292; 1991, c. 633.</history>
+</law>

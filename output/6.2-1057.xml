@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="10" level="3">Entities Conducting Trust Business</unit>
+		<unit label="article" identifier="3" level="4">Trust Subsidiaries</unit>
+	</structure>
+	<section_number>6.2-1057</section_number>
+	<catch_line>Deposits held or received by trust subsidiaries or subsidiary bank with affiliate banks</catch_line>
+	<text>
+		<section prefix="A">Funds received or held by a trust subsidiary or subsidiary bank while awaiting investment or distribution shall not be used by an affiliate bank or owning bank in the conduct of its business or deposited in such bank, unless the bank first delivers to its trust department or to the trust subsidiary or subsidiary bank, as collateral security therefor, securities of any of the classes described in subdivision B 1, B 2, or B 3 of § 6.2-1005, in an amount described in subsection B.
+		</section>
+		<section prefix="B">The securities deposited as collateral as required by subsection A shall be owned by the bank and shall at all times be at least equal in market value to the amount of trust funds held on deposit by such trust subsidiary or subsidiary bank, less such amount thereof as are insured by the Federal Deposit Insurance Corporation.
+		</section>
+		<section prefix="C">In the event of the failure or liquidation of such bank, the trust subsidiary or subsidiary bank and the owners of the beneficial interest in such trust funds shall have a lien on the bonds or other securities so set apart, in addition to their claims against the estate of the bank.
+		</section>
+	</text>
+	<history>1974, c. 286, § 6.1-32.8; 1991, c. 282; 2010, c. 794.</history>
+</law>

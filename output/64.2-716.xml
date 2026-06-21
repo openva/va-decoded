@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="3" level="4">Representation</unit>
+	</structure>
+	<section_number>64.2-716</section_number>
+	<catch_line>Representation by fiduciaries and parents or other ancestors</catch_line>
+	<text>
+		To the extent there is no conflict of interest between the representative and the person represented or among those being represented with respect to a particular question or dispute:
+		<section prefix="1">A conservator or guardian of the estate may represent and bind the estate that such fiduciary controls;
+		</section>
+		<section prefix="2">A guardian may represent and bind the ward if a conservator or guardian of the ward's estate has not been appointed;
+		</section>
+		<section prefix="3">An agent having authority to act with respect to the particular question or dispute may represent and bind the principal;
+		</section>
+		<section prefix="4">A trustee may represent and bind the beneficiaries of the trust;
+		</section>
+		<section prefix="5">A personal representative of a decedent's estate may represent and bind persons interested in the estate;
+		</section>
+		<section prefix="6">A parent may represent and bind the parent's minor or unborn child if a guardian of the estate or guardian for the child has not been appointed; and
+		</section>
+		<section prefix="7">If a minor or unborn person is not otherwise represented under this section, a grandparent or more remote ancestor may represent and bind that minor or unborn person.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-543.03; 2012, c. 614.</history>
+</law>

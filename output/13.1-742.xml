@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="16" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-742</section_number>
+	<catch_line>Dissolution by directors and shareholders</catch_line>
+	<text>
+		<section prefix="A">The board of directors may propose dissolution for submission to the shareholders by first adopting a resolution authorizing the dissolution.
+		</section>
+		<section prefix="B">For a proposal to dissolve to be approved:
+			<section prefix="1">The board of directors shall recommend dissolution to the shareholders unless the board of directors determines that because of conflict of interests or other special circumstances it should make no recommendation, in which case the board of directors shall inform the shareholders of the basis for that determination; and
+			</section>
+			<section prefix="2">The shareholders entitled to vote shall approve the proposal to dissolve as provided in subsection E.
+			</section>
+		</section>
+		<section prefix="C">The board of directors may set conditions for the approval of the proposal for dissolution by shareholders or on the effectiveness of the dissolution.
+		</section>
+		<section prefix="D">If the approval of the shareholders is to be sought at a shareholders' meeting, the corporation shall notify each shareholder, regardless of whether entitled to vote, of the meeting of shareholders at which dissolution will be submitted for approval. The notice shall state that the purpose, or one of the purposes, of the meeting is to consider dissolving the corporation.
+		</section>
+		<section prefix="E">Unless the articles of incorporation or the board of directors, acting pursuant to subsection C, requires a greater vote, a greater quorum, or a vote by voting groups, dissolution to be authorized must be approved at a shareholders' meeting at which a quorum exists by the holders of more than two-thirds of all votes entitled to be cast on the proposal to dissolve. The articles of incorporation may provide for a greater or lesser vote than that provided for in this subsection or a vote by separate voting groups so long as the vote provided for is not less than a majority of all the votes cast by each voting group entitled to vote on the proposed dissolution at a meeting at which a quorum of the voting group exists.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-81; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2005, c. 765; 2019, c. 734.</history>
+</law>

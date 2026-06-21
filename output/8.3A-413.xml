@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="4" level="2">Liability of Parties</unit>
+	</structure>
+	<section_number>8.3A-413</section_number>
+	<catch_line>Obligation of acceptor</catch_line>
+	<text>
+		<section prefix="a">The acceptor of a draft is obliged to pay the draft (i) according to its terms at the time it was accepted, even though the acceptance states that the draft is payable "as originally drawn" or equivalent terms, (ii) if the acceptance varies the terms of the draft, according to the terms of the draft as varied, or (iii) if the acceptance is of a draft that is an incomplete instrument, according to its terms when completed, to the extent stated in §§ 8.3A-115 and 8.3A-407. The obligation is owed to a person entitled to enforce the draft or to the drawer or an endorser who paid the draft under § 8.3A-414 or § 8.3A-415.
+		</section>
+		<section prefix="b">If the certification of a check or other acceptance of a draft states the amount certified or accepted, the obligation of the acceptor is that amount. If (i) the certification or acceptance does not state an amount, (ii) the amount of the instrument is subsequently raised, and (iii) the instrument is then negotiated to a holder in due course, the obligation of the acceptor is the amount of the instrument at the time it was taken by the holder in due course.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-412 through 6-414; 1964, c. 219, § 8.3-413; 1992, c. 693.</history>
+</law>

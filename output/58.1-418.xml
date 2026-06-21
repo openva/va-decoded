@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-418</section_number>
+	<catch_line>Financial corporations; apportionment</catch_line>
+	<text>
+		<section prefix="A">The Virginia taxable income of a financial corporation, as defined herein, excluding income allocable under § 58.1-407, shall be apportioned within and without this Commonwealth in the ratio that the business within this Commonwealth is to the total business of the corporation. Business within this Commonwealth shall be based on cost of performance in the Commonwealth over cost of performance everywhere.
+		</section>
+		<section prefix="B">"Financial corporation" means any corporation not exempted from the imposition of tax under the provisions of § 58.1-401, which derives more than seventy percent of its gross income from the classes of income enumerated in subdivisions 1 through 4 below, without reference to the state wherein such income is earned, including but not limited to small loan companies, sales finance companies, brokerage companies and investment companies:
+			<section prefix="1">Fees, commissions, other compensation for financial services rendered;
+			</section>
+			<section prefix="2">Gross profits from trading in stocks, bonds, or other securities;
+			</section>
+			<section prefix="3">Interest; and
+			</section>
+			<section prefix="4">Dividends received to the extent included in Virginia taxable income.
+			</section>
+		</section>
+		<section prefix="C">In computing the amounts referred to in subdivisions 1 through 4 of subsection B of this section, any amount received by a member of an affiliated group, determined under § 1504(a) of the Internal Revenue Code but without reference to whether any such corporation is an includable corporation under § 1504(b) of the Internal Revenue Code, from another member of such group shall be included only to the extent such amount exceeds expenses of the recipient directly related thereto.
+		</section>
+		<section prefix="D">Any eligible company, as defined in § 58.1-405.1, may subtract the value of its business within any qualified locality or qualified localities, as defined in § 58.1-405.1, during the taxable year from the numerator of the ratio in subsection A. Such eligible company may make such modification for the taxable year in which it first becomes eligible and for the six subsequent, consecutive taxable years, except for any year in which the eligible company's (i) total, cumulative new capital investment falls below the applicable initial threshold or (ii) number of new jobs falls below the applicable initial threshold.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.050:1; 1976, c. 436; 1979, c. 32; 1981, c. 402; 1984, c. 675; 2018, cc. 801, 802.</history>
+</law>

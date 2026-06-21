@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="37" level="3">Agriculture Liming Materials</unit>
+	</structure>
+	<section_number>3.2-3706</section_number>
+	<catch_line>Labeling</catch_line>
+	<text>
+		<section prefix="A">Any liming material sold, offered or exposed for sale in the Commonwealth shall have affixed to the outside of each package in a conspicuous manner, a plainly printed, stamped or otherwise marked label, tag or statement, or in the case of bulk sales, a statement on the delivery slip, setting forth in the English language at least the following information:
+			<section prefix="1">The quantity statement of the liming material;
+			</section>
+			<section prefix="2">The brand or trade name of the liming material;
+			</section>
+			<section prefix="3">In the case of agricultural liming material, the identification of the type of the agricultural liming material as defined under § 3.2-3700, including the chemical analysis corresponding to the type definition;
+			</section>
+			<section prefix="4">The minimum percentage of available potash, if potash has been added to the liming material;
+			</section>
+			<section prefix="5">Calcium carbonate equivalent of the liming material as determined by procedures of the Association of Official Analytical Chemists in its most recent publication. Minimum calcium carbonate equivalents as prescribed by regulation;
+			</section>
+			<section prefix="6">The Effective Neutralizing Value of the liming material as calculated using the following formula:
+				(percent by weight passing 20 mesh sieves - percent by weight passing 60 mesh sieves) x 0.4 = (a)
+				(percent by weight passing 60 mesh sieves - percent by weight passing 100 mesh sieves) x 0.8 = (b)
+				(percent by weight passing 100 mesh sieves) x 1.0 = (c)
+				[(a+b+c) x Calcium Carbonate Equivalent (CCE)] divided by 100 = ENV;
+			</section>
+			<section prefix="7">The minimum percentage by weight passing through United States Standard sieves as prescribed by regulations; and
+			</section>
+			<section prefix="8">The name and principal office address of the manufacturer or distributor of the liming material.
+			</section>
+		</section>
+		<section prefix="B">For any fluid liming material or any packaged liming material-fertilizer mixture, the label shall also include the following information:
+			<section prefix="1">The kind of liming material used in the manufacture of the product;
+			</section>
+			<section prefix="2">The type of agricultural liming material used in the manufacture of the product, if applicable;
+			</section>
+			<section prefix="3">The guaranteed analysis of the final product; and
+			</section>
+			<section prefix="4">A statement setting forth the equivalency of the calcium carbonate equivalent of the fluid liming material or liming material-fertilizer mixture to the calcium carbonate equivalent of a standard liming ton.
+			</section>
+		</section>
+		<section prefix="C">For any bulk liming material-fertilizer mixture, except when the ingredients are billed separately, the label shall also include the following information:
+			<section prefix="1">The kind of liming material used in the manufacture of the product;
+			</section>
+			<section prefix="2">The type of agricultural liming material used in the manufacture of the product, if applicable;
+			</section>
+			<section prefix="3">The guaranteed analysis of the final product; and
+			</section>
+			<section prefix="4">A statement setting forth the equivalency of the calcium carbonate equivalent of the fluid liming material or liming material-fertilizer mixture to the calcium carbonate equivalent of a standard liming ton.
+			</section>
+		</section>
+		<section prefix="D">If the ingredients of the bulk liming material-fertilizer mixture are billed separately, the label shall also include the following information:
+			<section prefix="1">The kind of liming material used in the manufacture of the product;
+			</section>
+			<section prefix="2">The type of agricultural liming material used in the manufacture of the product, if applicable;
+			</section>
+			<section prefix="3">The dry weight of the liming material used in the manufacture of the product before mixing;
+			</section>
+			<section prefix="4">The guaranteed analysis of the liming material used in the manufacture of the product before mixing; and
+			</section>
+			<section prefix="5">The guaranteed analysis of the fertilizer used in the manufacture of the product before mixing.
+			</section>
+		</section>
+		<section prefix="E">For any industrial co-product used to neutralize soil acid, the product label shall include the statement "Industrial co-product used to neutralize soil acid." If the product is below the Virginia minimum standard requirements for an agricultural liming material as defined in the regulations, the statement "Substandard liming material" shall also be on the label.
+		</section>
+		<section prefix="F">All liming material shall be labeled as registered with the Commissioner.
+		</section>
+		<section prefix="G">No information or statement shall appear on any package, label, delivery slip or advertising matter that is false or misleading to the purchaser as to the quality, analysis, kind, type or composition of the liming material.
+		</section>
+		<section prefix="H">In the case of any liming material that has been adulterated subsequent to packaging, labeling or loading, and before delivery to the consumer, a plainly marked notice to that effect shall be affixed by the vendor to the package or delivery slip to identify the kind and degree of such adulteration.
+		</section>
+		<section prefix="I">The Board may require by regulation that the minimum percentage of calcium oxide, magnesium oxide, calcium carbonate, and magnesium carbonate shall be expressed in the following form:
+			Total Calcium (Ca)..…%
+			Total Magnesium (Mg)..…%
+		</section>
+	</text>
+	<history>1974, c. 647, § 3.1-126.3; 1994, c. 649; 2008, c. 860.</history>
+</law>

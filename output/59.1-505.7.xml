@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="5" level="3">Transfer of Interests and Rights</unit>
+	</structure>
+	<section_number>59.1-505.7</section_number>
+	<catch_line>Financing if financier does not become licensee</catch_line>
+	<text>
+		If a financier does not become a licensee in connection with its financial accommodation contract, the following rules apply:
+		<section prefix="1">The financier does not receive the benefits or burdens of the license.
+		</section>
+		<section prefix="2">The licensee's rights and obligations with respect to the information and informational rights are governed by:
+			<section prefix="A">the license;
+			</section>
+			<section prefix="B">any rights of the licensor under other law; and
+			</section>
+			<section prefix="C">to the extent not inconsistent with subparagraphs (A) and (B), any financial accommodation contract between the financier and the licensee, which may add additional conditions to the licensee's right to use the licensed information or informational rights.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

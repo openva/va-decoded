@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="13" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-911</section_number>
+	<catch_line>Decree of dissolution</catch_line>
+	<text>
+		<section prefix="A">If after a hearing the court determines that one or more grounds for judicial dissolution described in § 13.1-909 exist, it may enter a decree directing that the corporation shall be dissolved. The clerk of the court shall deliver a certified copy of the decree to the Commission, which shall enter an order of involuntary dissolution.
+		</section>
+		<section prefix="B">After the order of involuntary dissolution has been entered, the court shall direct the winding up and liquidation of the corporation's business and affairs in accordance with §§ 13.1-906 and 13.1-907 and the notification of claimants in accordance with §§ 13.1-908, 13.1-908.1, and 13.1-908.2. When all of the assets of the corporation have been distributed, the court shall so advise the Commission, which shall enter an order of termination of corporate existence.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13.1-262, 13.1-263; 1956, c. 428; 1985, c. 522; 2007, c. 925.</history>
+</law>

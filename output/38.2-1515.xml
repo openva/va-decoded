@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="15" level="2">Rehabilitation and Liquidation of Insurers</unit>
+	</structure>
+	<section_number>38.2-1515</section_number>
+	<catch_line>Mutual debts or credits, how treated</catch_line>
+	<text>
+		<section prefix="A">In all cases of mutual debts or mutual credits between the insurer and another person in connection with any action or proceeding under this chapter, the credits and debts shall be set off and the balance only shall be allowed or paid, except as provided in subsection B of this section.
+		</section>
+		<section prefix="B">No offset shall be allowed in favor of any person where:
+			<section prefix="1">The obligation of the insurer to the person would not entitle him at the date of the entry of any rehabilitation or liquidation order to share as a claimant in the assets of the insurer;
+			</section>
+			<section prefix="2">The obligation of the insurer to the person was purchased by or transferred to the person with a view of its being used as an offset; or
+			</section>
+			<section prefix="3">The obligation of the person is to pay (i) an assessment levied against the members of a mutual insurer or the subscribers of a reciprocal insurer, or (ii) a balance upon a subscription to the capital stock of a stock insurer.
+			</section>
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-139; 1986, c. 562.</history>
+</law>

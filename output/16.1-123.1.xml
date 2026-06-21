@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="16.1" level="1">Courts Not of Record</unit>
+		<unit label="chapter" identifier="7" level="2">Jurisdiction and Procedure in Criminal Matters</unit>
+		<unit label="article" identifier="1" level="3">Jurisdiction in Criminal Matters</unit>
+	</structure>
+	<section_number>16.1-123.1</section_number>
+	<catch_line>Criminal and traffic jurisdiction of general district courts</catch_line>
+	<text>
+		<section prefix="1">Each general district court shall have, within the county, including the towns within such county, or city for which it is established, exclusive original jurisdiction for the trial of:
+			a. All offenses against the ordinances, laws and bylaws of such county, including the towns within such county, or city or of any service district within such county or city, except a city ordinance enacted pursuant to §§ 18.2-372 through 18.2-391.1. All offenses against the ordinances of a service district shall be prosecuted in the name of such service district;
+			b. All other misdemeanors and traffic infractions arising in such county, including the towns in such county, or city.
+		</section>
+		<section prefix="2">Each general district court which is established within a city shall also have:
+			a. Concurrent jurisdiction with the circuit court of such city for all violations of state revenue and election laws; and
+			b. Exclusive original jurisdiction, except as otherwise provided by general law or the city charter, within the area extending for one mile beyond the corporate limits thereof, for the trial of all offenses against the ordinances, laws and bylaws of the city.
+		</section>
+		<section prefix="3">If a city lying within a county has no general district court provided by city charter or under general law, then the general district court of the county within which such city lies shall have the same jurisdiction in such city as a general district court established for a city would have.
+		</section>
+		<section prefix="4">Each general district court shall have such other jurisdiction, exclusive or concurrent, as may be conferred on such court by general law or by provisions of the charter of the city for which the court was established.
+		</section>
+		<section prefix="5">Notwithstanding the provisions of subsection C of § 19.2-244, any county general district court authorized by § 16.1-69.35:01 to be established in a city shall have exclusive original jurisdiction for the trial of all misdemeanors committed within or upon the general district court courtroom.
+		</section>
+		<section prefix="6">Upon certification by the general district court of any felony charge and ancillary misdemeanor charge or when an appeal of a conviction of an offense in general district court is noted, jurisdiction as to such charges shall vest in the circuit court, unless such case is reopened pursuant to § 16.1-133.1; a final judgment, order, or decree is modified, vacated, or suspended pursuant to Supreme Court of Virginia Rule 1:1; or the appeal has been withdrawn in the general district court within 10 days pursuant to § 16.1-133.
+		</section>
+		<section prefix="7">Nothing herein shall affect the jurisdiction conferred on the juvenile and domestic relations district court by Chapter 11 (§ 16.1-226 et seq.).
+		</section>
+	</text>
+	<history>1984, c. 506; 2019, c. 240; 2021, Sp. Sess. I, c. 187.</history>
+</law>

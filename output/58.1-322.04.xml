@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="2" level="4">Individual Income Tax</unit>
+	</structure>
+	<section_number>58.1-322.04</section_number>
+	<catch_line>Virginia taxable income; additional modifications</catch_line>
+	<text>
+		In calculating Virginia taxable income pursuant to § 58.1-322, the following adjustments shall be made:
+		<section prefix="1">There shall be added to or subtracted from federal adjusted gross income, as the case may be, the individual's share, as beneficiary of an estate or trust, of the Virginia fiduciary adjustment determined under § 58.1-361.
+		</section>
+		<section prefix="2">There shall be added or subtracted, as the case may be, the amounts provided in § 58.1-315 as transitional modifications.
+		</section>
+		<section prefix="3">To the extent included in federal adjusted gross income, there shall be (i) subtracted from federal adjusted gross income, by a shareholder of an electing small business corporation (S corporation) that is subject to the bank franchise tax imposed under Chapter 12 (§ 58.1-1200 et seq.) for the calendar year in which such taxable year begins, the shareholder's allocable share of the income or gain of such electing small business corporation (S corporation) and (ii) added back to federal adjusted gross income, such that federal adjusted gross income shall be increased, by a shareholder of an electing small business corporation (S corporation) that is subject to the bank franchise tax imposed under Chapter 12 (§ 58.1-1200 et seq.) for the calendar year in which such taxable year begins, the shareholder's allocable share of the losses or deductions of such electing small business corporation (S corporation).
+			To the extent excluded from federal adjusted gross income, there shall be added to federal adjusted gross income, by a shareholder of an electing small business corporation (S corporation) that is subject to the bank franchise tax imposed under Chapter 12 (§ 58.1-1200 et seq.) for the calendar year in which such taxable year begins, the value of any distribution paid or distributed to the shareholder by such electing small business corporation (S corporation).
+		</section>
+		<section prefix="4">Notwithstanding any other provision of law, the income from any disposition of real property that is held by the taxpayer for sale to customers in the ordinary course of the taxpayer's trade or business, as defined in § 453(l)(1)(B) of the Internal Revenue Code, of property may, at the election of the taxpayer, be recognized under the installment method described under § 453 of the Internal Revenue Code, provided that (i) the election relating to the dealer disposition of the property has been made on or before the due date prescribed by law (including extensions) for filing the taxpayer's return of the tax imposed under this chapter for the taxable year in which the disposition occurs and (ii) the dealer disposition is in accordance with restrictions or conditions established by the Department, which shall be set forth in guidelines developed by the Department. Along with such restrictions or conditions, the guidelines shall also address the recapture of such income under certain circumstances. The development of the guidelines shall be exempt from the Administrative Process Act (§ 2.2-4000 et seq.).
+		</section>
+	</text>
+	<history>2017, c. 444.</history>
+</law>

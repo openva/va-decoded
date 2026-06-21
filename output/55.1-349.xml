@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="3" level="3">Form and Effect of Deeds and Covenants; Liens</unit>
+		<unit label="article" identifier="3" level="4">Satisfaction of Security Interest in Real Property</unit>
+	</structure>
+	<section_number>55.1-349</section_number>
+	<catch_line>Secured creditor to submit satisfaction for recording; liability for failure</catch_line>
+	<text>
+		<section prefix="A">A secured creditor shall submit for recording a satisfaction of a security instrument within 90 days after the creditor receives full payment or performance of the secured obligation in accordance with subsection B of § 55.1-339. If a security instrument secures a line of credit or future advances, the secured obligation is fully performed only if, in addition to full payment, the secured creditor has received a notification requesting the creditor to terminate the line of credit or containing a statement sufficient to terminate the effectiveness of the provision for future advances in the security instrument.
+		</section>
+		<section prefix="B">A secured creditor who is required to submit a satisfaction of a security instrument for recording and fails to do so by the end of the period specified in subsection A is subject to liability under § 55.1-339.
+		</section>
+	</text>
+	<history>2006, c. 907, § 55-66.11; 2019, c. 712.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="15" level="2">Telegraph and Telephone Companies</unit>
+		<unit label="article" identifier="4" level="3">Extension and Reduction of Telephone Service</unit>
+	</structure>
+	<section_number>56-484.1</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		The following terms, whenever used or referred to in this article, shall have the following meanings, unless a different meaning appears from the context:
+		<section prefix="A">"Commission" shall mean the State Corporation Commission.
+		</section>
+		<section prefix="B">"Exchange" shall mean a geographical area established for the administration of communication services and consisting of one or more central offices together with associated facilities used in providing telephone exchange service. Exchanges are identified in the tariffs of the telephone companies as filed with the Commission.
+		</section>
+		<section prefix="C">"Local service area" shall mean the entire area composed of an exchange or exchanges within which are located the telephones which a customer may call at the rates and charges specified for local exchange service in the tariffs of the telephone companies as filed with the Commission.
+		</section>
+	</text>
+	<history>1976, c. 265.</history>
+</law>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="37.2" level="1">Behavioral Health and Developmental Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="3" level="3">Department of Behavioral Health and Developmental Services</unit>
+		<unit label="article" identifier="1" level="4">The Department and the Commissioner</unit>
+	</structure>
+	<section_number>37.2-308.1</section_number>
+	<catch_line>Acute psychiatric bed registry</catch_line>
+	<text>
+		<section prefix="A">The Department shall develop and administer a web-based acute psychiatric bed registry to collect, aggregate, and display information about available acute beds in public and private inpatient psychiatric facilities and public and private residential crisis stabilization units to facilitate the identification and designation of facilities for the temporary detention and treatment of individuals who meet the criteria for temporary detention pursuant to § 37.2-809.
+		</section>
+		<section prefix="B">The acute psychiatric bed registry created pursuant to subsection A shall:
+			<section prefix="1">Include descriptive information for every public and private inpatient psychiatric facility and every public and private residential crisis stabilization unit in the Commonwealth, including contact information for the facility or unit;
+			</section>
+			<section prefix="2">Provide real-time information about the number of beds available at each facility or unit and, for each available bed, the type of patient that may be admitted, the level of security provided, and any other information that may be necessary to allow employees or designees of community services boards and employees of inpatient psychiatric facilities or public and private residential crisis stabilization units to identify appropriate facilities for detention and treatment of individuals who meet the criteria for temporary detention; and
+			</section>
+			<section prefix="3">Allow employees and designees of community services boards, employees of inpatient psychiatric facilities or public and private residential crisis stabilization units, and health care providers as defined in § 8.01-581.1 working in an emergency room of a hospital or clinic or other facility rendering emergency medical care to perform searches of the registry to identify available beds that are appropriate for the detention and treatment of individuals who meet the criteria for temporary detention.
+			</section>
+		</section>
+		<section prefix="C">Data collected through the acute psychiatric bed registry shall be exclusively utilized for the purposes of appropriate placement of individuals in need of psychiatric care. No access to individual or aggregated data collected through the acute psychiatric bed registry shall be granted except as approved by the Advisory Council pursuant to subsection G.
+		</section>
+		<section prefix="D">Every state facility, community services board, behavioral health authority, and private inpatient provider licensed by the Department shall participate in the acute psychiatric bed registry established pursuant to subsection A and shall designate such employees as may be necessary to submit information for inclusion in the acute psychiatric bed registry and serve as a point of contact for addressing requests for information related to data reported to the acute psychiatric bed registry.
+		</section>
+		<section prefix="E">Every state facility, community services board, behavioral health authority, and private inpatient provider licensed by the Department shall update information included in the acute psychiatric bed registry whenever there is a change in bed availability for the facility, board, authority, or provider or, if no change in bed availability has occurred, at least daily.
+		</section>
+		<section prefix="F">The Commissioner may enter into a contract with a private entity for the development and administration of the acute psychiatric bed registry established pursuant to subsection A. Such contract shall include provisions for the protection of patient privacy and data security pursuant to state and federal law and regulations, including the federal Health Insurance Portability and Accountability Act (42 U.S.C. § 1320d et seq.).
+		</section>
+		<section prefix="G">The Commissioner shall create the Bed Registry Advisory Council (the Advisory Council), which shall consist of representatives from the Department, the Virginia Hospital and Healthcare Association, the Virginia College of Emergency Physicians, and the Virginia Association of Community Services Boards; two representatives from hospitals or health systems; two emergency physician representatives, and two representatives from community services boards. The Advisory Council shall advise the Commissioner and the third-party contractor regarding the establishment and operation of the acute psychiatric bed registry established pursuant to subsection A; changes to the acute psychiatric bed registry; outcome measures, including reports developed by the contractor; details on methods used to extract, transform, and load data; and efforts to protect patient privacy and data security. The Commissioner shall also require the Advisory Council to review and approve requests for access to data in the acute psychiatric bed registry. The Commissioner shall ensure that (i) all data approvals are consistent with the purposes of the acute psychiatric bed registry pursuant to subsection A; (ii) all data approvals comply with applicable state and federal privacy laws and state and federal laws regarding the exchange of confidential health care data; and (iii) all releases of data collected through the acute psychiatric bed registry are approved by the Advisory Council. The Advisory Council may approve the release of routine or frequent data reports one time, as long as there are no substantial changes to the request.
+		</section>
+		<section prefix="H">Information submitted to the acute psychiatric bed registry that identifies specific individuals receiving services shall be confidential pursuant to state and federal confidentiality laws and regulations, including the federal Health Insurance Portability and Accountability Act (42 U.S.C. § 1320d et seq.) and shall be exempt from disclosure under the Virginia Freedom of Information Act (§ 2.2-3700 et seq.).
+		</section>
+	</text>
+	<history>2014, cc. 691, 774; 2015, cc. 34, 116; 2025, cc. 149, 156.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="2" level="3">Parks and Recreation</unit>
+		<unit label="article" identifier="3" level="4">Virginia Natural Area Preserves Act</unit>
+	</structure>
+	<section_number>10.1-210</section_number>
+	<catch_line>Additional powers of the Department</catch_line>
+	<text>
+		In addition to other powers conferred by law and subject to the provisions of this article, the Department shall have the power, which may be delegated by the Director:
+		<section prefix="1">To establish criteria for the selection, registration and dedication of natural areas and natural area preserves.
+		</section>
+		<section prefix="2">To purchase, lease or otherwise acquire in the name of the Commonwealth, using moneys from the Natural Area Preservation Fund, lands suitable for natural area preserves.
+		</section>
+		<section prefix="3">To acquire by gift, devise, purchase, or otherwise, absolutely or in trust, and to hold and, unless otherwise restricted by the terms of a gift or devise, to encumber, convey or otherwise dispose of, any real property, any estate or interests therein, or products on or derived from such real property, as may be necessary and proper in carrying into effect the provisions of this article.
+		</section>
+		<section prefix="4">To accept, hold and administer gifts and bequests of money, securities, or other property, absolutely or in trust, made for purposes of this article. Unless otherwise restricted by the terms of the gift or bequest, the Department may sell, exchange or otherwise dispose of such money, securities or other property given or bequeathed to the Department. The principal of such funds, together with the income and all revenues derived therefrom, shall be placed in the Natural Area Preservation Fund.
+		</section>
+	</text>
+	<history>1989, c. 553.</history>
+</law>

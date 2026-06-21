@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="1" level="3">Hospital and Nursing Home Licensure and Inspection</unit>
+	</structure>
+	<section_number>32.1-137.05</section_number>
+	<catch_line>Information regarding standard charges; advance estimate of patient payment amount for elective procedure, test, or service</catch_line>
+	<text>
+		<section prefix="A">Every hospital shall make available to the public on its website a machine-readable file containing a list of all standard charges for all items and services provided by the hospital in accordance with 45 C.F.R. § 180.50, as amended. As used in this subsection, "hospital," "items and services," "machine-readable," and "standard charge" have the same meaning as set forth in 45 C.F.R. § 180.20.
+		</section>
+		<section prefix="B">Every hospital shall, upon request of a patient scheduled to receive an elective procedure, test, or service to be performed by the hospital, or upon request of such patient's legally authorized representative, made no less than three days in advance of the date on which such elective procedure, test, or service is scheduled to be performed, furnish the patient with an estimate of the payment amount for which the participant will be responsible for such elective procedure, test, or service. Every hospital shall provide written information about the patient's ability to request an estimate of the payment amount pursuant to this section. Such written information shall be posted conspicuously in public areas of the hospital, including admissions or registration areas, and included on any website maintained by the hospital.
+		</section>
+	</text>
+	<history>2016, c. 448; 2019, cc. 670, 671; 2022, c. 297.</history>
+</law>

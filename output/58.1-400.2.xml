@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-400.2</section_number>
+	<catch_line>Taxation of electric suppliers, pipeline distribution companies, gas utilities, and gas suppliers</catch_line>
+	<text>
+		<section prefix="A">Any electric supplier, pipeline distribution company, gas utility, or gas supplier that is subject to income tax pursuant to the Internal Revenue Code of 1986, as amended, except those organized as cooperatives and exempt from federal taxation under § 501 of the Internal Revenue Code of 1986, as amended, shall be subject to the tax levied pursuant to § 58.1-400.
+		</section>
+		<section prefix="B">Any electric supplier that operates as a cooperative and is exempt from income tax pursuant to § 501 of the Internal Revenue Code of 1986, shall be subject to tax at the tax rate set forth in § 58.1-400 on all modified net income derived from nonmember sales. Any gas supplier, pipeline distribution company or gas utility which has a taxable year that begins after January 1, 2001, but before January 1, 2002, shall also be subject to the provisions under subsection E.
+		</section>
+		<section prefix="C">The following words and terms when used in this section shall have the following meanings:
+			"Electric supplier" means any corporation, cooperative, partnership or other business entity providing electric service.
+			"Electricity" is deemed tangible personal property for purposes of the corporate income tax pursuant to this article.
+			"Gas supplier" means any person licensed by the State Corporation Commission to engage in the business of selling natural gas.
+			"Gas utility" has the same meaning as provided in § 56-235.8.
+			"Members" means those customers of a cooperative who receive allocations of patronage capital from a cooperative.
+			"Modified net income" means all revenue of a cooperative from the sale of electricity within the Commonwealth with the following subtractions:
+			<section prefix="1">Revenue attributable to sales of electric power to its members.
+			</section>
+			<section prefix="2">Nonmember share of all ordinary and necessary expenses paid or incurred during the taxable year in carrying on the sale of electric power to nonmembers. Such nonmember expenses shall be determined by allocating the amount of such expenses between sales of electricity to members and sales of electricity to nonmembers. Such allocation shall be applicable to all tax credits available to an electric supplier.
+				"Nonmember" means those customers which are not members.
+				"Ordinary and necessary expenses paid or incurred" means ordinary and necessary expenses determined according to generally accepted accounting principles.
+				"Pipeline distribution company" has the same meaning as provided in § 58.1-2600.
+			</section>
+		</section>
+		<section prefix="D">The Department of Taxation shall promulgate all regulations necessary to implement the intent of this section. This section shall apply to taxable years beginning on and after January 1, 2001.
+		</section>
+		<section prefix="E">1. Any gas supplier, pipeline distribution company or gas utility which has a taxable year that begins after January 1, 2001, but before January 1, 2002, shall be required to file an income tax return as if a short taxable year has occurred covering the period beginning January 1, 2001, and ending on the last day prior to the beginning of the gas supplier's, pipeline distribution company's or gas utility's taxable year pursuant to § 58.1-440 A.
+			<section prefix="2">If a return is required to be made under subdivision 1 of this subsection, federal taxable income will be determined using the methodology prescribed in § 443 of the Internal Revenue Code, as if the gas supplier, pipeline distribution company or gas utility was undergoing a change of annual accounting period, and § 58.1-440 B and the regulations thereunder.
+			</section>
+		</section>
+	</text>
+	<history>1999, c. 971; 2000, cc. 691, 706.</history>
+</law>

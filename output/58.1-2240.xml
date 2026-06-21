@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="4" level="4">Payment and Reporting of Tax on Motor Fuel</unit>
+	</structure>
+	<section_number>58.1-2240</section_number>
+	<catch_line>Informational returns of terminal operators</catch_line>
+	<text>
+		A terminal operator shall file a monthly informational return with the Commissioner that shows the amount of motor fuel received or removed from the terminal during the month. The return is due by the twentieth day of the second month following the month covered by the return. The return shall contain the following information and any other information required by the Commissioner:
+		<section prefix="1">The number of gallons of motor fuel received in inventory at the terminal during the month and each position holder for the fuel;
+		</section>
+		<section prefix="2">The number of gallons of motor fuel removed from inventory at the terminal during the month and, for each removal, the position holder for the fuel and the destination state of the fuel; and
+		</section>
+		<section prefix="3">The number of gallons of motor fuel gained or lost at the terminal during the month.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758.</history>
+</law>

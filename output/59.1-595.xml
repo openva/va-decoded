@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="56" level="2">Genetic Data Privacy</unit>
+	</structure>
+	<section_number>59.1-595</section_number>
+	<catch_line>Information to be made available to consumers</catch_line>
+	<text>
+		<section prefix="A">Every direct-to-consumer genetic testing company shall provide to consumers:
+			<section prefix="1">A summary of the company's (i) policies and procedures related to the collection, use, maintenance, retention, disclosure, transfer, deletion, and security of and access to genetic data and (ii) privacy practices;
+			</section>
+			<section prefix="2">Information regarding the requirement for express consent for the collection, use, and disclosure of genetic data and the process for revoking express consent pursuant to § 59.1-596;
+			</section>
+			<section prefix="3">Notice that a consumer's deidentified genetic or phenotypic data may be shared with or disclosed to third parties for research purposes in accordance with 45 C.F.R. Part 46; and
+			</section>
+			<section prefix="4">Information about the process by which a consumer may file a complaint alleging a violation of this chapter.
+			</section>
+		</section>
+		<section prefix="B">Information required to be made available pursuant to subsection A shall be written in plain language and shall be provided to consumers together with any genetic testing product provided to consumers. Such information shall also be included on any website maintained by the direct-to-consumer genetic testing company in a manner that is easily accessible by the public.
+		</section>
+	</text>
+	<history>2023, c. 526.</history>
+</law>

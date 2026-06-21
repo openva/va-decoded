@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="8" level="2">Insurance and Self-Insurance</unit>
+	</structure>
+	<section_number>65.2-824</section_number>
+	<catch_line>Disclosures not required of State Corporation Commission; liability for acts or omissions</catch_line>
+	<text>
+		<section prefix="A">The State Corporation Commission shall not be required to disclose to any person, including the applicant or policyholder, its reasons for:
+			<section prefix="1">Refusing to assign an application;
+			</section>
+			<section prefix="2">Approving the rejection of an application by an insurance carrier;
+			</section>
+			<section prefix="3">Approving the cancellation of a workers' compensation policy by an insurance carrier; or
+			</section>
+			<section prefix="4">Refusing to approve the renewal or the reassignment of an expiring policy.
+			</section>
+		</section>
+		<section prefix="B">The State Corporation Commission shall not nor shall anyone acting for it be held liable for any act or omission in connection with the administration of the duties imposed upon it by the provisions of this chapter, except upon proof of actual malfeasance.
+		</section>
+	</text>
+	<history>Code 1950, § 65-114.5; 1956, c. 358; 1968, c. 660, § 65.1-123; 1991, c. 355.</history>
+</law>

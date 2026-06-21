@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="4" level="3">Warranties</unit>
+	</structure>
+	<section_number>59.1-504.7</section_number>
+	<catch_line>Modification of computer program</catch_line>
+	<text>
+		A licensee that modifies a computer program, other than by using a capability of the program intended for that purpose in the ordinary course, does not invalidate any warranty regarding performance of an unmodified copy but does invalidate any warranties, express or implied, regarding performance of the modified copy. A modification occurs if a licensee alters code in, deletes code from, or adds code to the computer program.
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

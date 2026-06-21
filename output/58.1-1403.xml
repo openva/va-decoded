@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Watercraft Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-1403</section_number>
+	<catch_line>Basis of tax; estimate of tax; penalty for misrepresentation</catch_line>
+	<text>
+		<section prefix="A">The Tax Commissioner shall assess and collect the tax for the use or sale of a watercraft pursuant to subdivisions 1 and 2 of § 58.1-1402 upon the basis of the sale price of such watercraft.
+			Any person who sells a watercraft in this Commonwealth shall supply the buyer with an invoice, signed by the seller or his representative, which shall state the sale price of the watercraft. The buyer shall present such invoice to the Tax Commissioner with his return and payment of the tax.
+		</section>
+		<section prefix="B">The Tax Commissioner shall assess and collect the tax on the lease or charter of a watercraft by a registered dealer on the basis of the gross receipts arising from all transactions pertaining to the lease, charter or other use of such watercraft during the preceding calendar month. The dealer shall submit a return to the Tax Commissioner showing the gross receipts arising from such transactions. The dealer shall remit with such return the amount of tax due.
+		</section>
+		<section prefix="C">In any case where (i) the invoice is not available, (ii) the Tax Commissioner has reason to believe that an invoice or return does not reflect the true sales price, or (iii) the watercraft was purchased more than six months prior to its use or storage in the Commonwealth, the Tax Commissioner may assess the tax in accordance with such publications or other data as are customarily employed in ascertaining the maximum sale price of watercraft. Where the Tax Commissioner finds that a charge for the rental, lease, charter or use of watercraft has been lower than the fair market value of such use, the Tax Commissioner may estimate a fair price in accordance with the cost of the watercraft, the cost of maintenance, the normal rental value as shown in similar transactions, or other relevant data.
+			Any person who knowingly misrepresents the value of a watercraft or the amount of tax due to the Tax Commissioner or any return or invoice shall be guilty of a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>Code 1950, §§ 58-685.44, 58-685.47; 1981, c. 405; 1984, c. 675.</history>
+</law>

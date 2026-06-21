@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.1A" level="1">Uniform Commercial Code — General Provisions</unit>
+		<unit label="part" identifier="2" level="2">General Definitions and Principles of Interpretation</unit>
+	</structure>
+	<section_number>8.1A-203</section_number>
+	<catch_line>Lease distinguished from security interest</catch_line>
+	<text>
+		<section prefix="a">Whether a transaction in the form of a lease creates a lease or security interest is determined by the facts of each case.
+		</section>
+		<section prefix="b">A transaction in the form of a lease creates a security interest if the consideration that the lessee is to pay the lessor for the right to possession and use of the goods is an obligation for the term of the lease and is not subject to termination by the lessee, and:
+			<section prefix="1">the original term of the lease is equal to or greater than the remaining economic life of the goods;
+			</section>
+			<section prefix="2">the lessee is bound to renew the lease for the remaining economic life of the goods or is bound to become the owner of the goods;
+			</section>
+			<section prefix="3">the lessee has an option to renew the lease for the remaining economic life of the goods for no additional consideration or for nominal additional consideration upon compliance with the lease agreement; or
+			</section>
+			<section prefix="4">the lessee has an option to become the owner of the goods for no additional consideration or for nominal additional consideration upon compliance with the lease agreement.
+			</section>
+		</section>
+		<section prefix="c">A transaction in the form of a lease does not create a security interest merely because:
+			<section prefix="1">the present value of the consideration the lessee is obligated to pay the lessor for the right to possession and use of the goods is substantially equal to or is greater than the fair market value of the goods at the time the lease is entered into;
+			</section>
+			<section prefix="2">the lessee assumes risk of loss of the goods;
+			</section>
+			<section prefix="3">the lessee agrees to pay, with respect to the goods, taxes, insurance, filing, recording, or registration fees, or service or maintenance costs;
+			</section>
+			<section prefix="4">the lessee has an option to renew the lease or to become the owner of the goods;
+			</section>
+			<section prefix="5">the lessee has an option to renew the lease for a fixed rent that is equal to or greater than the reasonably predictable fair market rent for the use of the goods for the term of the renewal at the time the option is to be performed; or
+			</section>
+			<section prefix="6">the lessee has an option to become the owner of the goods for a fixed price that is equal to or greater than the reasonably predictable fair market value of the goods at the time the option is to be performed.
+			</section>
+		</section>
+		<section prefix="d">Additional consideration is nominal if it is less than the lessee's reasonably predictable cost of performing under the lease agreement if the option is not exercised. Additional consideration is not nominal if:
+			<section prefix="1">when the option to renew the lease is granted to the lessee, the rent is stated to be the fair market rent for the use of the goods for the term of the renewal determined at the time the option is to be performed; or
+			</section>
+			<section prefix="2">when the option to become the owner of the goods is granted to the lessee, the price is stated to be the fair market value of the goods determined at the time the option is to be performed.
+			</section>
+		</section>
+		<section prefix="e">The "remaining economic life of the goods" and "reasonably predictable" fair market rent, fair market value, or cost of performing under the lease agreement must be determined with reference to the facts and circumstances at the time the transaction is entered into.
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.1-201 (37); 1973, c. 509; 1984, c. 613; 1991, c. 536; 1992, c. 693; 2000, c. 1007; 2003, c. 353.</history>
+</law>

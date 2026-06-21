@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>58.1-315</section_number>
+	<catch_line>Transitional modifications to Virginia taxable income</catch_line>
+	<text>
+		The modifications of Virginia taxable income to be made in accordance with subdivision 2 of § 58.1-322.04 and subsection D of § 58.1-402, so long as applicable, are as follows:
+		<section prefix="1">There shall be subtracted from Virginia taxable income the amount necessary to prevent the taxation under this chapter of any annuity or of any other amount of income or gain which was properly included in income or gain and was taxable under Articles 1, 2, 3, 4, 5, 6, or 7 (§§ 58-77 through 58-151) of Chapter 4 of Title 58 to the taxpayer prior to the repeal thereof, or to a decedent by reason of whose death the taxpayer acquires the right to receive the income or gain, or to a trust or estate from which the taxpayer received the income or gain.
+		</section>
+		<section prefix="2">The carry-back of net operating losses or net capital losses to reduce taxable income of taxable years beginning prior to January 1, 1972, shall not be permitted. Where a taxpayer would have been allowed to deduct an amount as a net operating loss carry-over or net capital loss carry-over in determining taxable income for a taxable year beginning after December 31, 1971, but for the fact that such loss, or a portion of such loss, had been carried back in determining taxable income for a taxable year beginning prior to January 1, 1972, there shall be added to Virginia taxable income any amount which was actually deducted in determining taxable income as a net operating loss carry-over or net capital loss carry-over and there shall be subtracted from Virginia taxable income the amount which could have been deducted as a net operating loss carry-over or net capital loss carry-over in arriving at taxable income but for the fact that such loss, or a portion of such loss, had been carried back for federal purposes.
+		</section>
+		<section prefix="3">There shall be added to Virginia taxable income the amount necessary to prevent the deduction under this chapter of any item which was properly deductible by the taxpayer in determining a tax under §§ 58-77 through 58-151 prior to the repeal thereof.
+		</section>
+		<section prefix="4">There shall be subtracted from Virginia taxable income that portion of any accumulation distribution which is allocable, under the laws of the United States relating to federal income taxes, to undistributed net income of a trust for any taxable year beginning on or before December 31, 1971. The rules prescribed by such laws of the United States with reference to any such accumulation distribution shall be applied, mutatis mutandis, to allow for this limitation; and, without limiting the generality of the foregoing, the credit provided by § 58.1-370 in the case of accumulation distributions shall in no instance encompass any part of any tax paid for a taxable year beginning on or before December 31, 1971.
+		</section>
+		<section prefix="5">As to gain or loss attributable to the sale or exchange of nondepreciable property, Virginia taxable income shall be adjusted to effect a reduction in such gain or increase in such loss by the amount by which the adjusted basis of such property, determined for Virginia income tax purposes at the close of the taxable period immediately preceding the first taxable period to which Articles 7.1 to 7.6 (§ 58-151.01 et seq.) of Title 58 applied prior to repeal thereof exceeds the adjusted basis of such property for federal income tax purposes determined at the close of the same period.
+		</section>
+		<section prefix="6">There shall be subtracted from the Virginia taxable income of a shareholder of an electing small business corporation any amount included in his taxable income as his share of the undistributed taxable income of such corporation for any year of the corporation beginning before January 1, 1972.
+		</section>
+		<section prefix="7">There shall be subtracted from federal taxable income amounts which would have been deductible by the corporation in computing federal taxable income but for the election of such corporation of the additional investment tax credit under § 46(a)(2)(B) of the Internal Revenue Code in effect on January 1, 1978.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.0111; 1971, Ex. Sess., c. 171; 1972, c. 827; 1973, c. 323; 1974, c. 248; 1981, c. 402; 1984, c. 675; 2017, c. 444.</history>
+</law>

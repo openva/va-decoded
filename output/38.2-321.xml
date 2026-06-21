@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="3" level="2">Provisions Relating to Insurance Policies and Contracts</unit>
+	</structure>
+	<section_number>38.2-321</section_number>
+	<catch_line>Payment discharges insurer</catch_line>
+	<text>
+		<section prefix="A">An insurer shall be fully discharged from all claims under a life insurance policy, accident and sickness insurance policy, or annuity contract:
+			<section prefix="1">When the proceeds of or payments under a policy or contract become payable in accordance with (i) the terms of the policy or contract or (ii) the exercise of any right or privilege under the contract; and
+			</section>
+			<section prefix="2">If the insurer makes payments in accordance with the terms of the policy or contract or any written assignment to the person designated in the policy or contract or by assignment as being entitled to the proceeds or payments.
+			</section>
+		</section>
+		<section prefix="B">An insurer may not be fully discharged from all claims under a life insurance policy, accident and sickness insurance policy, or annuity contract before payment is made and if the insurer has received, at its home office, written notice that some other person claims to be entitled to payment or some interest in the policy or contract.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-346.1; 1986, c. 562.</history>
+</law>

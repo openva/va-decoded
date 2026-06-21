@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>20-146.4</section_number>
+	<catch_line>International application</catch_line>
+	<text>
+		<section prefix="A">A court of this Commonwealth shall treat a foreign country as if it were a state of the United States for purposes of applying this article and Article 2 (§ 20-146.12 et seq.) of this chapter.
+		</section>
+		<section prefix="B">Except as otherwise provided in subsection C, a child custody determination made in a foreign country under factual circumstances in substantial conformity with the jurisdictional standards of this act must be recognized and enforced under Article 3 (§ 20-146.22 et seq.) of this chapter.
+		</section>
+		<section prefix="C">A court of this Commonwealth need not apply this act if the child custody law of a foreign country violates fundamental principles of human rights.
+		</section>
+	</text>
+	<history>1979, c. 229, § 20-146; 2001, c. 305.</history>
+</law>

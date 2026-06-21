@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="23" level="2">Central Criminal Records Exchange</unit>
+	</structure>
+	<section_number>19.2-388.1</section_number>
+	<catch_line>Fingerprints submitted by Live Scan device</catch_line>
+	<text>
+		<section prefix="A">The Department of State Police (the Department) shall accept requests for background checks through the use of a Live Scan device certified by the Federal Bureau of Investigation by any agency or organization located within the Commonwealth that (i) is authorized to receive criminal history record information pursuant to § 19.2-392.02 and (ii) utilizes a fingerprint background check as a condition of licensure, certification, employment, or volunteer service. Any such agency or organization transmitting requests for background checks to the Department pursuant to this section shall be responsible for all costs associated with capturing, formatting, encrypting, and transmitting all required information in a manner prescribed by the Department.
+		</section>
+		<section prefix="B">The Department shall only provide the criminal history record information to the extent authorized by state or federal law, rules, and regulations. The Department may deny any such agency or organization access to criminal history record information if the Department finds that such agency or organization has failed to comply with state or federal law, rules, or regulations.
+		</section>
+		<section prefix="C">Participating agencies or organizations shall be required to enter into an agreement with the Department for the purposes of carrying out this section and may be required to submit other information or forms as prescribed by the Department.
+		</section>
+	</text>
+	<history>2019, c. 620.</history>
+</law>

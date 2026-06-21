@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2A" level="1">Commercial Code—Leases</unit>
+		<unit label="part" identifier="2" level="2">Formation and Construction of Lease Contract</unit>
+	</structure>
+	<section_number>8.2A-201</section_number>
+	<catch_line>Statute of frauds</catch_line>
+	<text>
+		<section prefix="1">A lease contract is not enforceable by way of action or defense unless:
+			<section prefix="a">The total payments to be made under the lease contract, excluding payments for options to renew or buy, are less than $1,000; or
+			</section>
+			<section prefix="b">There is a record, signed by the party against whom enforcement is sought or by that party's authorized agent, sufficient to indicate that a lease contract has been made between the parties and to describe the goods leased and the lease term.
+			</section>
+		</section>
+		<section prefix="2">Any description of leased goods or of the lease term is sufficient and satisfies subdivision (1) (b) of this section, whether or not it is specific, if it reasonably identifies what is described.
+		</section>
+		<section prefix="3">A record is not insufficient because it omits or incorrectly states a term agreed upon, but the lease contract is not enforceable under subdivision (1) (b) of this section beyond the lease term and the quantity of goods shown in the record.
+		</section>
+		<section prefix="4">A lease contract that does not satisfy the requirements of subsection (1) of this section, but which is valid in other respects, is enforceable if:
+			<section prefix="a">The goods are to be specially manufactured or obtained for the lessee and are not suitable for lease or sale to others in the ordinary course of the lessor's business, and the lessor, before notice of repudiation is received and under circumstances that reasonably indicate that the goods are for the lessee, has made either a substantial beginning of their manufacture or commitments for their procurement;
+			</section>
+			<section prefix="b">The party against whom enforcement is sought admits in that party's pleading, testimony or otherwise in court that a lease contract was made, but the lease contract is not enforceable under this provision beyond the quantity of goods admitted; or
+			</section>
+			<section prefix="c">With respect to goods that have been received and accepted by the lessee.
+			</section>
+		</section>
+		<section prefix="5">The lease term under a lease contract referred to in subsection (4) of this section is:
+			<section prefix="a">If there is a record signed by the party against whom enforcement is sought or by that party's authorized agent specifying the lease term, the term so specified;
+			</section>
+			<section prefix="b">If the party against whom enforcement is sought admits in that party's pleading, testimony, or otherwise in court a lease term, the term so admitted; or
+			</section>
+			<section prefix="c">A reasonable lease term.
+			</section>
+		</section>
+	</text>
+	<history>1991, c. 536; 2024, c. 652.</history>
+</law>

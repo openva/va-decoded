@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="14" level="2">Evidence</unit>
+		<unit label="article" identifier="9" level="3">Miscellaneous Provisions</unit>
+	</structure>
+	<section_number>8.01-420.7</section_number>
+	<catch_line>Attorney-client privilege and work product protection; limitations on waiver</catch_line>
+	<text>
+		<section prefix="A">When disclosure of a communication or information covered by the attorney-client privilege or work product protection made in a proceeding or to any public body as defined in § 2.2-3701 operates as a waiver of the privilege or protection, the waiver extends to an undisclosed communication or information only if:
+			<section prefix="1">The waiver is intentional;
+			</section>
+			<section prefix="2">The disclosed and undisclosed communications or information concern the same subject matter; and
+			</section>
+			<section prefix="3">The disclosed and undisclosed communications or information ought in fairness be considered together.
+			</section>
+		</section>
+		<section prefix="B">Disclosure of a communication or information covered by the attorney-client privilege or work product protection made in a proceeding or to any public body as defined in § 2.2-3701 does not operate as a waiver of the privilege or protection if:
+			<section prefix="1">The disclosure is inadvertent;
+			</section>
+			<section prefix="2">The holder of the privilege or protection took reasonable steps to prevent disclosure; and
+			</section>
+			<section prefix="3">The holder promptly took reasonable steps to rectify the error, including, if applicable, complying with the provisions of subdivision (b) (6) (ii) of Rule 4:1 of the Rules of the Supreme Court.
+			</section>
+		</section>
+		<section prefix="C">A court may order that the privilege or protection is not waived by the disclosure connected with the litigation pending before the court, in which case the disclosure does not operate as a waiver in any other proceeding.
+		</section>
+		<section prefix="D">An agreement on the effect of the disclosure in a proceeding is binding only on the parties to the agreement, unless it is incorporated into a court order.
+		</section>
+		<section prefix="E">This section shall not limit any otherwise applicable waiver of attorney-client privilege or work product protection by an inmate who files an action challenging his conviction or sentence.
+		</section>
+	</text>
+	<history>2010, c. 350.</history>
+</law>

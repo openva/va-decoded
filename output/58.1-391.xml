@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="9" level="4">Taxation of Partnerships</unit>
+	</structure>
+	<section_number>58.1-391</section_number>
+	<catch_line>Virginia taxable income of owners of a pass-through entity</catch_line>
+	<text>
+		<section prefix="A">In determining Virginia taxable income of an owner, any modification described in §§ 58.1-322.01, 58.1-322.02, 58.1-322.03, and 58.1-322.04 that relates to an item of pass-through entity income, gain, loss or deduction shall be made in accordance with the owner's distributive share, for federal income tax purposes, of the item to which the modification relates. Where an owner's distributive share of any such item is not included in any category of income, gain, loss or deduction required to be taken into account separately for federal income tax purposes, the owner's distributive share of such item shall be determined in accordance with his distributive share, for federal income tax purposes, of pass-through entity taxable income or loss.
+		</section>
+		<section prefix="B">Each item of pass-through entity income, gain, loss or deduction shall have the same character for an owner under this chapter as for federal income tax purposes. Where an item is not characterized for federal income tax purposes, it shall have the same character for an owner as if realized directly from the source from which realized by the pass-through entity or incurred in the same manner by the pass-through entity.
+		</section>
+		<section prefix="C">Where an owner's distributive shares of an item of pass-through entity income, gain, loss or deduction is determined for federal income tax purposes by special provision in the pass-through entity agreement with respect to such item, and where the principal purpose of such provision is the avoidance or evasion of tax under this chapter, the owner's distributive share of such item, and any modification required with respect thereto, shall be determined as if the pass-through entity agreement made no special provision with respect to such item.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.014; 1971, Ex. Sess., c. 171; 1984, c. 675; 2004, Sp. Sess. I, c. 3; 2017, c. 444.</history>
+</law>

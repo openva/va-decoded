@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="19" level="4">Driver Improvement Program</unit>
+	</structure>
+	<section_number>46.2-490.8</section_number>
+	<catch_line>Grounds for denying, suspending, or revoking licenses of clinics and clinic instructors</catch_line>
+	<text>
+		A clinic or instructor license may be denied, suspended, or revoked on any one or more of the following grounds:
+		<section prefix="1">Material misstatement or omission in an application for a driver improvement clinic license or a driver improvement clinic instructor license;
+		</section>
+		<section prefix="2">Failure to comply subsequent to receipt of a written warning from the Department for any willful failure to comply with any provision of this chapter or any regulation promulgated by the Commissioner under this chapter; or any criteria established by the Department pursuant to this chapter;
+		</section>
+		<section prefix="3">Defrauding any student in a driver improvement clinic, or any other person in the conduct of a driver improvement clinic's business;
+		</section>
+		<section prefix="4">Employment of fraudulent devices, methods or practices in connection with compliance with the requirements under the statutes of the Commonwealth;
+		</section>
+		<section prefix="5">Having used deceptive acts or practices;
+		</section>
+		<section prefix="6">Knowingly advertising by any means any assertion, representation, or statement of fact which is untrue, misleading, or deceptive in any particular relating to the conduct of a clinic;
+		</section>
+		<section prefix="7">Having been convicted of any fraudulent act in connection with a driver improvement clinic or driver training school, or any consumer-related fraud;
+		</section>
+		<section prefix="8">Having been convicted of any criminal act involving the operation of a driver improvement clinic or driver training school;
+		</section>
+		<section prefix="9">Having been convicted of a felony;
+		</section>
+		<section prefix="10">Failing or refusing to pay civil penalties imposed by the Department pursuant to § 46.2-490.6.
+		</section>
+	</text>
+	<history>2004, c. 622.</history>
+</law>

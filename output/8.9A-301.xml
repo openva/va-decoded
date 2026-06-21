@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="1" level="3">Law Governing Perfection and Priority</unit>
+	</structure>
+	<section_number>8.9A-301</section_number>
+	<catch_line>Law governing perfection and priority of security interests</catch_line>
+	<text>
+		Except as otherwise provided in §§ 8.9A-303 through 8.9A-306.2, the following rules determine the law governing perfection, the effect of perfection or nonperfection, and the priority of a security interest in collateral:
+		<section prefix="1">Except as otherwise provided in this section, while a debtor is located in a jurisdiction, the local law of that jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in collateral.
+		</section>
+		<section prefix="2">While collateral is located in a jurisdiction, the local law of that jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a possessory security interest in that collateral.
+		</section>
+		<section prefix="3">Except as otherwise provided in paragraph (4), while tangible negotiable documents, goods, instruments, or tangible money are located in a jurisdiction, the local law of that jurisdiction governs:
+			<section prefix="A">perfection of a security interest in the goods by filing a fixture filing;
+			</section>
+			<section prefix="B">perfection of a security interest in timber to be cut; and
+			</section>
+			<section prefix="C">the effect of perfection or nonperfection and the priority of a nonpossessory security interest in the collateral.
+			</section>
+		</section>
+		<section prefix="4">The local law of the jurisdiction in which the wellhead or minehead is located governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in as-extracted collateral.
+		</section>
+	</text>
+	<history>Code 1950, § 55-9; 1964, c. 219, § 8.9-103; 1973, c. 509; 1984, c. 613; 1996, c. 216; 1997, c. 343; 2000, c. 1007; 2004, c. 200; 2024, c. 652.</history>
+</law>

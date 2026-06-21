@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="6" level="2">Benefits</unit>
+		<unit label="article" identifier="4" level="3">Eligibility Criteria</unit>
+	</structure>
+	<section_number>60.2-612.1</section_number>
+	<catch_line>(Effective  July 1, 2028) Program Integrity</catch_line>
+	<text>
+		<section prefix="A">In order to verify that an individual is eligible to receive benefits, the Commission shall conduct all mandatory and recommended program integrity activities as identified by the U.S. Department of Labor Employment and Training Administration and the U.S. Department of Labor Office of Inspector General.
+		</section>
+		<section prefix="B">The Commission shall perform a full eligibility review of suspicious or potentially improper claims. In determining if a claim is suspicious or potentially improper, the Commission shall consider the factors utilized by the Integrity Data Hub and any additional factors that may be appropriate, including commonalities in physical addresses, mailing addresses, internet protocol addresses, email addresses, multi-factor authentication, and bank accounts.
+		</section>
+		<section prefix="C">The Commission shall recover any improper overpayment of benefits to the fullest extent authorized by this title and federal law.
+		</section>
+		<section prefix="D">The Department of Social Services, the Department of Medical Assistance Services, and the Department of Housing and Community Development, upon receipt of notification that an individual enrolled in any of such department's public assistance programs has become employed, shall notify the Commission of such fact in order for the Commission to determine the individual's eligibility for benefits.
+		</section>
+		<section prefix="E">The Commission may enter into a memorandum of understanding with any state agency necessary to implement the provisions of this section.
+		</section>
+		<section prefix="F">The Commission shall report by December 1 of each year to the Commission on Unemployment Compensation addressing the implementation and enforcement of the provisions of this section. The report shall include:
+			<section prefix="1">The Commission's general program integrity processes, including tools, resources, and databases utilized, to the extent that sharing the information does not jeopardize program integrity measures;
+			</section>
+			<section prefix="2">A description of efforts to identify, prevent, and recover improper overpayments of benefits and fraudulent payments and measures being taken to improve such efforts;
+			</section>
+			<section prefix="3">The type and amount of improper payments detected retroactively;
+			</section>
+			<section prefix="4">The type and amount of improper payments prevented;
+			</section>
+			<section prefix="5">Moneys saved in preventing improper overpayments and, if any, in recouping improper overpayments; and
+			</section>
+			<section prefix="6">An explanation for the nonrecovery of overpayments, including the application of any allowable recovery exceptions.
+			</section>
+		</section>
+	</text>
+	<history>2022, c. 740; 2024, cc. 746, 772.</history>
+</law>

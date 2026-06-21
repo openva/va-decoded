@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="4" level="4">Payment and Reporting of Tax on Motor Fuel</unit>
+	</structure>
+	<section_number>58.1-2241</section_number>
+	<catch_line>Informational returns of motor fuel transporters</catch_line>
+	<text>
+		A motor fuel transporter shall file a monthly informational return with the Commissioner.
+		The return required by this section is due by the twentieth day of the second month following the month covered by the return. The return shall contain the following information and any other information required by the Commissioner:
+		<section prefix="1">The name and address of each person from whom the transporter received motor fuel outside Virginia for delivery in Virginia, the amount of motor fuel received, the date the motor fuel was received, and the destination state of the fuel; and
+		</section>
+		<section prefix="2">The name and address of each person from whom the transporter received motor fuel in Virginia for delivery outside Virginia, the amount of motor fuel delivered, the date the motor fuel was delivered, and the destination state of the fuel.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758; 2006, c. 594.</history>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>59.1-501.6</section_number>
+	<catch_line>Rule of construction</catch_line>
+	<text>
+		<section prefix="a">This chapter must be liberally construed and applied to promote its underlying purposes and policies to:
+			<section prefix="1">support and facilitate the realization of the full potential of computer information transactions;
+			</section>
+			<section prefix="2">clarify the law governing computer information transactions;
+			</section>
+			<section prefix="3">enable expanding commercial practice in computer information transactions by commercial usage and agreement of the parties;
+			</section>
+			<section prefix="4">promote uniformity of the law with respect to the subject matter of this chapter among States that enact it; and
+			</section>
+			<section prefix="5">permit the continued expansion of commercial practices in the excluded transactions through custom, usage and agreement of the parties.
+			</section>
+		</section>
+		<section prefix="b">Except as otherwise provided in § 59.1-501.15, the use of mandatory language or the absence of a phrase such as "unless otherwise agreed" in a provision of this chapter does not preclude the parties from varying the effect of the provision by agreement.
+		</section>
+		<section prefix="c">The fact that a provision of this chapter imposes a condition for a result does not by itself mean that the absence of that condition yields a different result.
+		</section>
+		<section prefix="d">To be enforceable, a term need not be conspicuous, negotiated, or expressly assented or agreed to, unless this chapter expressly so requires.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2004, c. 794.</history>
+</law>

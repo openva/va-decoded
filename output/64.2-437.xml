@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="4" level="3">Wills</unit>
+		<unit label="article" identifier="4" level="4">Uniform International Wills Act</unit>
+	</structure>
+	<section_number>64.2-437</section_number>
+	<catch_line>Certificate</catch_line>
+	<text>
+		The authorized person shall attach to the will a certificate to be signed by him establishing that the requirements of this article for valid execution of an international will have been complied with. The authorized person shall keep a copy of the certificate and deliver another to the testator. The certificate shall be substantially in the following form:
+		CERTIFICATE
+		(Convention of October 26, 1973)
+		I,................… (name, address and capacity), a person authorized  to act in connection with international wills Certify that on..............…(date)............… (place) (testator)........................… (name, address, date and place of  birth)in my presence and that of the witnesses (a)..........................… (name, address, date and place of  birth) (b)..........................… (name, address, date and place of  birth) has declared that the attached document is his will and that he knows  the contents thereof.
+		I furthermore certify that:
+		<section prefix="a">in my presence and in that of the witnesses
+			<section prefix="1">the testator has signed the will or has acknowledged his  signature previously affixed.
+				*(2) following a declaration of the testator stating that he was  unable to sign his will for the following reason ..........................… I have mentioned this declaration  on the will *and the signature has been affixed by (name and address)
+			</section>
+		</section>
+		<section prefix="b">the witnesses and I have signed the will; *(c) each page of the will has been signed by ..........................… and numbered;
+		</section>
+		<section prefix="d">I have satisfied myself as to the identity of the testator and of  the witnesses as designated above;
+		</section>
+		<section prefix="e">the witnesses met the conditions requisite to act as such  according to the law under which I am acting;
+		</section>
+		<section prefix="f">the testator has requested me to include the following statement
+			concerning the safekeeping of his will:
+			PLACE OF EXECUTION DATE SIGNATURE and, if necessary, SEAL.
+			* to be completed if appropriate
+		</section>
+	</text>
+	<history>1995, c. 443, § 64.1-96.6; 2012, c. 614.</history>
+</law>

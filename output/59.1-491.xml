@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="42.1" level="2">Uniform Electronic Transactions Act</unit>
+	</structure>
+	<section_number>59.1-491</section_number>
+	<catch_line>Admissibility of evidence</catch_line>
+	<text>
+		<section prefix="a">In any proceeding, evidence of a record or signature may not be excluded solely because it is in electronic form.
+		</section>
+		<section prefix="b">In determining the evidentiary weight to be given a particular electronic signature, the trier of fact shall consider whether the electronic signature is: (i) unique to the signer, (ii) capable of verification, (iii) under the signer's sole control, (iv) linked to the record in such a manner that it can be determined if any data contained in the record was changed subsequent to the electronic signature being affixed to the record, and (v) created by a method appropriately reliable for the purpose for which the electronic signature was used. The trier of fact may consider any other relevant and probative evidence affecting the authenticity and/or validity of the electronic signature.
+		</section>
+	</text>
+	<history>2000, c. 995.</history>
+</law>

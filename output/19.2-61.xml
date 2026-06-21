@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="6" level="2">Interception of Wire, Electronic or Oral Communications</unit>
+	</structure>
+	<section_number>19.2-61</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter:
+		"Aggrieved person" means a person who was a party to any intercepted wire, electronic or oral communication or a person against whom the interception was directed;
+		"Aural transfer" means a transfer containing the human voice at any point between and including the point of origin and the point of reception;
+		"Communications common carrier" means any person engaged as a common carrier for hire in communication by wire or radio or in radio transmission of energy;
+		"Contents" when used with respect to any wire, electronic or oral communication, includes any information concerning the substance, purport or meaning of that communication;
+		"Electronic, mechanical or other device" means any device or apparatus that can be used to intercept a wire, electronic or oral communication other than:
+		<section prefix="a">Any telephone or telegraph instrument, equipment or facility, or any component thereof, (i) furnished to the subscriber or user by a provider of wire or electronic communication service in the ordinary course of its business and being used by the subscriber or user in the ordinary course of its business or furnished by the subscriber or user for connection to the facilities of such service and used in the ordinary course of the subscriber's or user's business; or (ii) being used by a communications common carrier in the ordinary course of its business, or by an investigative or law-enforcement officer in the ordinary course of his duties;
+		</section>
+		<section prefix="b">A hearing aid or similar device being used to correct subnormal hearing to not better than normal;
+			"Electronic communication" means any transfer of signs, signals, writing, images, sounds, data, or intelligence of any nature transmitted in whole or in part by a wire, radio, electromagnetic, photoelectronic or photooptical system. The term does not include:
+			<section prefix="1">Any wire communication or oral communication as defined herein;
+			</section>
+			<section prefix="2">Any communication made through a tone-only paging device;
+			</section>
+			<section prefix="3">Any communication from an electronic or mechanical device which permits the tracking of the movement of a person or object; or
+			</section>
+			<section prefix="4">Any electronic funds transfer information stored by a financial institution in a communications system used for the electronic storage and transfer of funds;
+				"Electronic communication service" means any service which provides to users thereof the ability to send or receive wire or electronic communications;
+				"Electronic communication system" means any wire, radio, electromagnetic, photooptical or photoelectronic facilities for the transmission of wire or electronic communications, and any computer facilities or related electronic equipment for the electronic storage of such communications;
+				"Electronic storage" means any temporary, intermediate storage of a wire or electronic communication incidental to the electronic transmission thereof and any storage of such communication by an electronic communication service for purposes of backup protection of such communication;
+				"Intercept" means any aural or other means of acquisition of the contents of any wire, electronic or oral communication through the use of any electronic, mechanical or other device;
+				"Investigative or law-enforcement officer" means any officer of the United States or of a state or political subdivision thereof, who is empowered by law to conduct investigations of or to make arrests for offenses enumerated in this chapter, and any attorney authorized by law to prosecute or participate in the prosecution of such offenses;
+				"Judge of competent jurisdiction" means a judge of any circuit court of the Commonwealth with general criminal jurisdiction;
+				"Monitor" or "monitoring" means the actual auditory or visual acquisition of an intercepted communication by any means;
+				"Oral communication" means any oral communication uttered by a person exhibiting an expectation that such communication is not subject to interception under circumstances justifying such expectations but does not include any electronic communication;
+				"Pen register" means a device or process that records or decodes dialing, routing, addressing or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted; however, such information shall not include the contents of any communication. The term does not include any device or process used by a provider or customer of a wire or electronic communication service for billing, or recording as an incident to billing, for communications services provided by such provider or any device or process used by a provider or customer of a wire communication service for cost accounting or other like purposes in the ordinary course of the provider's or customer's business;
+				"Person" means any employee or agent of the Commonwealth or a political subdivision thereof, and any individual, partnership, association, joint stock company, trust or corporation;
+				"Readily accessible to the general public" means, with respect to a radio communication, that such communication is not (i) scrambled or encrypted; (ii) transmitted using modulation techniques whose essential parameters have been withheld from the public with the intention of preserving the privacy of such communication; (iii) carried on a subcarrier or other signal subsidiary to a radio transmission; (iv) transmitted over a communication system provided by a communications common carrier, unless the communication is a tone-only paging system communication; or (v) transmitted on frequencies allocated under Part 25, subpart D, E, or F of Part 74, or Part 94 of the Rules of the Federal Communications Commission, unless, in the case of a communication transmitted on a frequency allocated under Part 74 that is not exclusively allocated to broadcast auxiliary services, the communication is a two-way voice communication by radio;
+				"Remote computing service" means the provision to the public of computer storage or processing services by means of an electronic communications system;
+				"Trap and trace device" means a device or process that captures the incoming electronic or other impulses that identify the originating number or other dialing, routing, addressing and signaling information reasonably likely to identify the source of a wire or electronic communication; however, such information shall not include the contents of any communication;
+				"User" means any person or entity who uses an electronic communication service and is duly authorized by the provider of such service to engage in such use;
+				"Wire communication" means any aural transfer made in whole or in part through the use of facilities for the transmission of communications by the aid of wire, cable, or other like connection, including the use of such connection in a switching station, furnished or operated by any person engaged in providing or operating such facilities for the transmission of communications.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 19.1-89.1; 1973, c. 442; 1975, c. 495; 1988, c. 889; 2002, cc. 588, 623; 2005, c. 934.</history>
+</law>

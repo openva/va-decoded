@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="2" level="4">Individual Income Tax</unit>
+	</structure>
+	<section_number>58.1-322.01</section_number>
+	<catch_line>Virginia taxable income; additions</catch_line>
+	<text>
+		In computing Virginia taxable income pursuant to § 58.1-322, to the extent excluded from federal adjusted gross income, there shall be added:
+		<section prefix="1">Interest, less related expenses to the extent not deducted in determining federal income, on obligations of any state other than Virginia, or of a political subdivision of any such other state unless created by compact or agreement to which Virginia is a party.
+		</section>
+		<section prefix="2">Interest or dividends, less related expenses to the extent not deducted in determining federal taxable income, on obligations or securities of any authority, commission, or instrumentality of the United States, which the laws of the United States exempt from federal income tax but not from state income taxes.
+		</section>
+		<section prefix="3">Unrelated business taxable income as defined by § 512 of the Internal Revenue Code.
+		</section>
+		<section prefix="4">The amount of a lump sum distribution from a qualified retirement plan, less the minimum distribution allowance and any amount excludable for federal income tax purposes that is excluded from federal adjusted gross income solely by virtue of an individual's election to use the averaging provisions under § 402 of the Internal Revenue Code.
+		</section>
+		<section prefix="5">The amount required to be included in income for the purpose of computing the partial tax on an accumulation distribution pursuant to § 667 of the Internal Revenue Code.
+		</section>
+		<section prefix="6">For taxable years beginning on and after January 1, 2014, any loss for the taxable year that was deducted as a capital loss for federal income tax purposes by an account holder attributable to such person's first-time home buyer savings account established pursuant to Chapter 12 (§ 36-171 et seq.) of Title 36. For purposes of this subdivision, "account holder" and "first-time home buyer savings account" mean the same as those terms are defined in § 36-171.
+		</section>
+		<section prefix="7">For taxable years beginning on and after January 1, 2016, to the extent that tax credit is allowed for the same donation pursuant to § 58.1-439.12:12, any amount claimed as a federal income tax deduction for such donation under § 170 of the Internal Revenue Code, as amended or renumbered.
+		</section>
+	</text>
+	<history>2017, c. 444.</history>
+</law>

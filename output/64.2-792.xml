@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="10" level="4">Liability of Trustees and Rights of Persons Dealing With Trustee</unit>
+	</structure>
+	<section_number>64.2-792</section_number>
+	<catch_line>Remedies for breach of trust</catch_line>
+	<text>
+		<section prefix="A">A violation by a trustee of a duty the trustee owes to a beneficiary is a breach of trust.
+		</section>
+		<section prefix="B">To remedy a breach of trust that has occurred or may occur, the court may:
+			<section prefix="1">Compel the trustee to perform the trustee's duties;
+			</section>
+			<section prefix="2">Enjoin the trustee from committing a breach of trust;
+			</section>
+			<section prefix="3">Compel the trustee to redress a breach of trust by paying money, restoring property, or other means;
+			</section>
+			<section prefix="4">Order a trustee to account;
+			</section>
+			<section prefix="5">Appoint a special fiduciary to take possession of the trust property and administer the trust;
+			</section>
+			<section prefix="6">Suspend the trustee;
+			</section>
+			<section prefix="7">Remove the trustee as provided in § 64.2-759;
+			</section>
+			<section prefix="8">Reduce or deny compensation to the trustee;
+			</section>
+			<section prefix="9">Subject to § 64.2-803, void an act of the trustee, impose a lien or a constructive trust on trust property, or trace trust property wrongfully disposed of and recover the property or its proceeds; or
+			</section>
+			<section prefix="10">Order any other appropriate relief.
+			</section>
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-550.01; 2012, c. 614.</history>
+</law>

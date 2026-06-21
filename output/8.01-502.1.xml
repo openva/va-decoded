@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="18" level="2">Executions and Other Means of Recovery</unit>
+		<unit label="article" identifier="5" level="3">Lien on Property Not Capable of Being Levied on</unit>
+	</structure>
+	<section_number>8.01-502.1</section_number>
+	<catch_line>Serving notice of lien on financial institution</catch_line>
+	<text>
+		<section prefix="A">No judgment creditor or attorney for a judgment creditor shall have a notice of lien served on a financial institution under § 8.01-502 unless such judgment creditor or attorney has a reasonable basis for believing that the judgment debtor is entitled to a payment from such institution. The fact that a financial institution is doing business in a geographic area where the judgment debtor resides, works or has a place of business is not, by itself, a reasonable basis for believing that the judgment debtor is entitled to a payment from a financial institution. Any person violating this section shall be liable to a financial institution for the sum of $100 for each notice of lien wrongfully served on such institution. In any action at law to recover an amount due hereunder, the judgment creditor or attorney for the judgment creditor causing the notice of lien to be served on the financial institution shall have the burden of showing a reasonable basis for believing that the judgment debtor was entitled to a payment from such institution.
+		</section>
+		<section prefix="B">Any judgment creditor serving a notice of lien on a financial institution shall, within five business days of such service, mail to the judgment debtor at his last known address a copy of the notice of lien along with a notice of exemptions and claim for exemption form in accordance with § 8.01-512.4. The judgment creditor or attorney for the judgment creditor shall file a certification with the court affirming that he has mailed the judgment debtor these notices. In the event that the judgment creditor fails to comply with the requirements of this subsection, he shall be liable to the judgment debtor for no more than $100 in damages, unless he proves by a preponderance of the evidence that the failure was not willful.
+		</section>
+		<section prefix="C">A financial institution served with a valid notice of lien shall provide a written response to the judgment creditor or attorney for the judgment creditor within twenty-one days after being served with such notice of lien indicating the amount of money held by the financial institution pursuant to the notice of lien.
+		</section>
+	</text>
+	<history>1997, c. 750; 1999, c. 48; 2010, c. 673.</history>
+</law>

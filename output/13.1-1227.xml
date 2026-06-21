@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="4" level="3">Beneficial Owners</unit>
+	</structure>
+	<section_number>13.1-1227</section_number>
+	<catch_line>Distributions to beneficial owners</catch_line>
+	<text>
+		<section prefix="A">The trustees may authorize and the business trust may make distributions to its beneficial owners, subject to restriction by the articles of trust or governing instrument and the limitation in subsection C.
+		</section>
+		<section prefix="B">If the trustees do not fix the record date for determining beneficial owners entitled to a distribution, other than one involving a repurchase or reacquisition of beneficial interests, it is the date the trustees authorize the distribution.
+		</section>
+		<section prefix="C">No distribution may be made if, after giving it effect:
+			<section prefix="1">The business trust would not be able to pay its debts as they become due in the usual course of business; or
+			</section>
+			<section prefix="2">The business trust's total assets would be less than the sum of its total liabilities plus (unless the articles of trust permit otherwise) the amount that would be needed, if the business trust were to be dissolved at the time of the distribution, to satisfy the preferential rights upon dissolution of beneficial interests whose preferential rights are superior to those receiving the distribution.
+			</section>
+		</section>
+		<section prefix="D">The trustees may base a determination that a distribution is not prohibited under subsection C either on financial statements prepared on the basis of accounting practices and principles that are reasonable in the circumstances or on a fair valuation or other method that is reasonable in the circumstances.
+		</section>
+		<section prefix="E">The effect of a distribution under subsection C is measured:
+			<section prefix="1">In the case of a distribution by purchase, redemption, or other acquisition of the business trust's beneficial interests, as of the earlier of (i) the date money or other property is transferred or debt incurred by the business trust or (ii) the date the beneficial owners cease to be beneficial owners with respect to the acquired beneficial interests;
+			</section>
+			<section prefix="2">In the case of any other distribution of indebtedness, as of the date the indebtedness is distributed;
+			</section>
+			<section prefix="3">In all other cases, as of (i) the date the distribution is authorized if the payment occurs within 120 days after the date of authorization or (ii) the date payment is made if it occurs more than 120 days after the date of authorization.
+			</section>
+		</section>
+		<section prefix="F">A business trust's indebtedness to a beneficial owner incurred by reason of a distribution made in accordance with this section is at parity with the business trust's indebtedness to its general, unsecured creditors except to the extent subordinated by agreement.
+		</section>
+	</text>
+	<history>2002, c. 621.</history>
+</law>

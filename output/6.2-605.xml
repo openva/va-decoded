@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="6" level="3">Deposits and Accounts</unit>
+		<unit label="article" identifier="2" level="4">Multiple-Party Accounts</unit>
+	</structure>
+	<section_number>6.2-605</section_number>
+	<catch_line>Applicability</catch_line>
+	<text>
+		<section prefix="A">The provisions of §§ 6.2-606, 6.2-607, and 6.2-608 concerning beneficial ownership as between parties, or as between parties and P.O.D. payees or beneficiaries of multiple-party accounts, are relevant only to controversies between these persons and their creditors and other successors, and have no bearing on the power of withdrawal of these persons as determined by the terms of account contracts.
+		</section>
+		<section prefix="B">The provisions of §§ 6.2-612 through 6.2-617 govern the liability of financial institutions that make payments pursuant thereto, and their set-off rights, but shall have no effect on the beneficial ownership of or the power of withdrawal from the accounts between the parties or P.O.D. payees or beneficiaries of multiple-party accounts and shall have no effect on the fiduciary duties or obligations of fiduciaries under the governing instrument of multiple-fiduciary accounts.
+		</section>
+	</text>
+	<history>1979, c. 407, § 6.1-125.2; 2010, c. 794; 2020, c. 259.</history>
+</law>

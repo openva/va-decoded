@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="5" level="2">Securities Act</unit>
+		<unit label="article" identifier="4" level="3">Registration of Securities</unit>
+	</structure>
+	<section_number>13.1-513</section_number>
+	<catch_line>Stop orders</catch_line>
+	<text>
+		<section prefix="a">The Commission may issue a stop order denying effectiveness to, or revoking the effectiveness of, any registration statement if it finds that such an order is in the public interest and that:
+			<section prefix="1">The registration statement together with any amendments, or any report filed by the registrant or any other document filed in connection with the registration statement contained any statement which was, at the time and in the circumstances in which it was made, false or misleading with respect to any material fact or omitted to state any material fact required to be stated therein;
+			</section>
+			<section prefix="2">The applicant or registrant or any agent, partner, officer or director of the applicant or registrant (or any person occupying a similar status or performing similar functions) or any person directly or indirectly controlling or controlled by the applicant or registrant has violated, in connection with the offering, any provision of this chapter or of any other law applicable to the offering, or any rule, order or condition lawfully imposed under this chapter;
+			</section>
+			<section prefix="3">Any person specified in subdivision (2) of this subsection has failed to furnish any information lawfully requested by the Commission;
+			</section>
+			<section prefix="4">The right to sell the securities which are the subject of the registration statement has been denied or revoked or is suspended under any federal act applicable to the offering (and such denial, revocation or suspension is still in effect);
+			</section>
+			<section prefix="5">The issuer is insolvent, either in the sense that its liabilities exceed its assets or in the sense that it cannot meet its obligations as they mature;
+			</section>
+			<section prefix="6">The issuer's business includes or probably will include activities which are forbidden by law;
+			</section>
+			<section prefix="7">The offering has worked or tended to work a fraud upon investors or probably will so operate; or
+			</section>
+			<section prefix="8">Where a security is to be or has been registered by notification, it is not eligible for such registration.
+			</section>
+		</section>
+		<section prefix="b">No stop order shall be entered without reasonable notice to the applicant or registrant.
+		</section>
+		<section prefix="c">In any proceeding under this section, the Commission may refrain from issuing or, after issuing, may revoke a stop order on condition that the persons against whom it is directed correct the matters complained of on which it is based.
+		</section>
+	</text>
+	<history>1956, c. 428; 1960, c. 71.</history>
+</law>

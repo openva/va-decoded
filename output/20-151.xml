@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="8" level="2">Premarital Agreement Act</unit>
+	</structure>
+	<section_number>20-151</section_number>
+	<catch_line>Enforcement; void marriage</catch_line>
+	<text>
+		<section prefix="A">A premarital agreement is not enforceable if the person against whom enforcement is sought proves that:
+			<section prefix="1">That person did not execute the agreement voluntarily; or
+			</section>
+			<section prefix="2">The agreement was unconscionable when it was executed and, before execution of the agreement, that person (i) was not provided a fair and reasonable disclosure of the property or financial obligations of the other party; and (ii) did not voluntarily and expressly waive, in writing, any right to disclosure of the property or financial obligations of the other party beyond the disclosure provided.
+			</section>
+		</section>
+		<section prefix="B">Any issue of unconscionability of a premarital agreement shall be decided by the court as a matter of law. Recitations in the agreement shall create a prima facie presumption that they are factually correct.
+		</section>
+		<section prefix="C">If a marriage is determined to be void, an agreement that would otherwise have been a premarital agreement shall be enforceable only to the extent necessary to avoid an inequitable result.
+		</section>
+	</text>
+	<history>1985, c. 434; 1986, c. 201.</history>
+</law>

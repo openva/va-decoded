@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-416</section_number>
+	<catch_line>(Contingent effective date — See Editor's note) When certain other sales deemed in the Commonwealth</catch_line>
+	<text>
+		<section prefix="A">Sales, other than sales of tangible personal property, are in the Commonwealth if:
+			<section prefix="1">The income-producing activity is performed in the Commonwealth; or
+			</section>
+			<section prefix="2">The income-producing activity is performed both in and outside the Commonwealth and a greater proportion of the income-producing activity is performed in the Commonwealth than in any other state, based on costs of performance.
+			</section>
+		</section>
+		<section prefix="B">1. For debt buyers, as defined in § 58.1-422.3, sales, other than sales of tangible personal property, are in the Commonwealth if they consist of money recovered on debt that a debt buyer collected from a person who is a resident of the Commonwealth or an entity that has its commercial domicile in the Commonwealth. Such rule shall apply regardless of the location of a debt buyer's business.
+			<section prefix="2">For property information and analytics firms, as defined in § 58.1-422.4, that meet the requirements set forth in § 58.1-422.4, sales of services are in the Commonwealth if they are derived from transactions with a customer or client who receives the benefit of the services in the Commonwealth. Such rule shall apply regardless of the location of a property information and analytics firm's business operations.
+			</section>
+			<section prefix="3">For Internet root infrastructure providers, as defined in § 58.1-422.5, sales of services are in the Commonwealth if they are derived from sales transactions with a customer or client who receives the benefit of the services in the Commonwealth. Such rule shall apply regardless of the location of an Internet root infrastructure provider's operations.
+			</section>
+		</section>
+		<section prefix="C">The taxes under this article on the sales described under subsection B are imposed to the maximum extent permitted under the Constitutions of Virginia and the United States and federal law. For the collection of such taxes on such sales, it is the intent of the General Assembly that the Tax Commissioner and the Department assert the taxpayer's nexus with the Commonwealth to the maximum extent permitted under the Constitutions of Virginia and the United States and federal law.
+		</section>
+		<section prefix="D">If necessary information is not available to the taxpayer to determine whether a sale other than a sale of tangible personal property is in the Commonwealth pursuant to the provisions of subsections B and C, the taxpayer may estimate the dollar value or portion of such sale in the Commonwealth, provided that the taxpayer can demonstrate to the satisfaction of the Tax Commissioner that (i) the estimate has been undertaken in good faith, (ii) the estimate is a reasonable approximation of the dollar value or portion of such sale in the Commonwealth, and (iii) in using an estimate the taxpayer did not have as a principal purpose the avoidance of any tax due under this article. The Department may implement procedures for obtaining its approval to use an estimate. The Department shall adopt remedies and corrective procedures for cases in which the Department has determined that the sourcing rules for sales other than sales of tangible personal property have been abused by the taxpayer, which may include reliance on the location of income-producing activity and direct costs of performance as described in subsection A.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.049; 1971, Ex. Sess., c. 171; 1984, c. 675; 2018, c. 807; 2022, cc. 256, 257; 2023, cc. 405, 406.</history>
+</law>

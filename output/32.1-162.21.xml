@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5.2" level="2">Human Cloning</unit>
+	</structure>
+	<section_number>32.1-162.21</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, unless the context clearly requires another meaning:
+		"Cloning" means the production of a precise genetic copy of a molecule, including deoxyribonucleic acid (DNA), or of chromosomes.
+		"Human cloning" means the creation of or attempt to create a human being by transferring the nucleus from a human cell from whatever source into an oocyte from which the nucleus has been removed.
+		"Nucleus" means the cell structure that houses the chromosomes and, thus, the genes.
+		"Oocyte" means the ovum or egg.
+		"Somatic cell" means a mature, diploid cell, i.e., a cell having a complete set of chromosomes.
+		"Somatic cell nuclear transfer" means transferring the nucleus of a somatic cell of an existing or deceased human into an oocyte from which the chromosomes are removed or rendered inert.
+	</text>
+	<history>2001, cc. 868, 870.</history>
+</law>

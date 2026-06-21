@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="2" level="2">Collection of Items: Depositary and Collecting Banks</unit>
+	</structure>
+	<section_number>8.4-201</section_number>
+	<catch_line>Status of collecting bank as agent and provisional status of credits; applicability of title; item endorsed "pay any bank."</catch_line>
+	<text>
+		<section prefix="a">Unless a contrary intent clearly appears and before the time that a settlement given by a collecting bank for an item is or becomes final, the bank, with respect to the item, is an agent or subagent of the owner of the item and any settlement given for the item is provisional. This provision applies regardless of the form of endorsement or lack of endorsement and even though credit given for the item is subject to immediate withdrawal as of right or is in fact withdrawn; but the continuance of ownership of an item by its owner and any rights of the owner to proceeds of the item are subject to rights of a collecting bank such as those resulting from outstanding advances on the item and rights of recoupment or setoff. If an item is handled by banks for purposes of presentment, payment, collection or return, the relevant provisions of this title apply even though action of the parties clearly establishes that a particular bank has purchased the item and is the owner of it.
+		</section>
+		<section prefix="b">After an item has been endorsed with the words "pay any bank" or the like, only a bank may acquire the rights of a holder until the item has been:
+			<section prefix="1">returned to the customer initiating collection; or
+			</section>
+			<section prefix="2">specially endorsed by a bank to a person who is not a bank.
+			</section>
+		</section>
+	</text>
+	<history>1964, c. 219; 1992, c. 693.</history>
+</law>

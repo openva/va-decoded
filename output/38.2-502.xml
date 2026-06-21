@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="5" level="2">Unfair Trade Practices</unit>
+	</structure>
+	<section_number>38.2-502</section_number>
+	<catch_line>Misrepresentations and false advertising of insurance policies</catch_line>
+	<text>
+		No person shall make, issue, circulate, cause or knowingly allow to be made, issued or circulated, any estimate, illustration, circular, statement, sales presentation, omission, or comparison that:
+		<section prefix="1">Misrepresents the benefits, advantages, conditions or terms of any insurance policy;
+		</section>
+		<section prefix="2">Misrepresents the dividends or share of the surplus to be received on any insurance policy;
+		</section>
+		<section prefix="3">Makes any false or misleading statements as to the dividends or share of surplus previously paid on any insurance policy;
+		</section>
+		<section prefix="4">Misrepresents or is misleading as to the financial condition of any person or the legal reserve system upon which any life insurer operates;
+		</section>
+		<section prefix="5">Uses any name or title of any insurance policy or class of insurance policies that misrepresents the true nature of the policy or policies;
+		</section>
+		<section prefix="6">Misrepresents any material fact for the purpose of inducing or tending to induce the lapse, forfeiture, exchange, conversion, replacement, or surrender of any insurance policy;
+		</section>
+		<section prefix="7">Misrepresents any material fact for the purpose of effecting a pledge, assignment, or loan on any insurance policy; or
+		</section>
+		<section prefix="8">Misrepresents any insurance policy as being a share of stock.
+		</section>
+	</text>
+	<history>Code 1950, § 38.1-52; 1952, c. 317, § 38.1-52.1; 1977, c. 529; 1978, c. 441; 1979, c. 324; 1980, c. 404; 1986, c. 562; 1990, c. 265.</history>
+</law>

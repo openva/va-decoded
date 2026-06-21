@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4.4" level="4">Office of the Children's Ombudsman</unit>
+	</structure>
+	<section_number>2.2-446</section_number>
+	<catch_line>Confidentiality of record of Children's Ombudsman; disclosure; limitations; release of certain information</catch_line>
+	<text>
+		<section prefix="A">All statements, documentation, and other evidence received or maintained by the Office or its agents in connection with complaints made to or investigations undertaken pursuant to the Ombudsman's powers enumerated in § 2.2-442 shall be confidential and not subject to the Virginia Freedom of Information Act (§ 2.2-3700 et seq.) and are not discoverable in legal proceedings. If the Ombudsman identifies action or inaction by the state through its agencies or services that failed to protect children, the Ombudsman shall provide any findings and recommendations to the agency affected by those findings and to the General Assembly upon request, and may provide those findings and recommendations to the complainant, to the extent consistent with state or federal law. The Ombudsman shall not disclose any information that impairs the rights of the child or the child's parents or guardians.
+			If the child is the complainant, the Ombudsman need not gain the consent of the Department or local department, the children's residential facility, the child-placing agency, or the foster parent or guardian of the child or other person having custody or care of the child to receive information from or communicate with the child.
+		</section>
+		<section prefix="B">Unless otherwise part of the public record, the Office shall not release any of the following confidential information to the general public:
+			<section prefix="1">Records relating to a mental health evaluation or treatment of a parent or child;
+			</section>
+			<section prefix="2">Records relating to the evaluation or treatment of a substance abuse-related disorder of a parent or child;
+			</section>
+			<section prefix="3">Records relating to a medical diagnosis or treatment of a parent or child;
+			</section>
+			<section prefix="4">Records relating to domestic violence-related services and sexual assault services provided to a parent or child; or
+			</section>
+			<section prefix="5">Records relating to educational services provided to a parent or child.
+			</section>
+		</section>
+		<section prefix="C">Notwithstanding subsection B, if the Ombudsman determines that disclosure of confidential information is necessary to identify, prevent, or respond to the abuse or neglect of a child, the Ombudsman may disclose such information to the Department or local department, a court, a law-enforcement agency, or a prosecuting attorney investigating a report of known or suspected abuse or neglect of a child. The Ombudsman shall not release the address, telephone number, or other information regarding the whereabouts of a victim or suspected victim of domestic violence unless ordered to by a court.
+		</section>
+		<section prefix="D">Except as provided in subsection C, the Ombudsman shall not disclose information relating to an ongoing law-enforcement investigation or an ongoing child protective services investigation. The Ombudsman may release the results of its investigation to a complainant, or an individual not meeting the definition of complainant, if the Ombudsman receives notification of and determines that releasing the results of its investigation is not related to and will not interfere with an ongoing law-enforcement investigation or ongoing child protective services investigation.
+		</section>
+		<section prefix="E">The Ombudsman shall not disclose the identity of an individual making a complaint alleging that a child is an abused or neglected child unless that individual's written permission is obtained first or a court has ordered the Ombudsman to release such information.
+		</section>
+		<section prefix="F">The Ombudsman may release an individual's identity who makes an intentionally false report alleging that a child is an abused or neglected child, subject to other laws relating to such disclosure.
+		</section>
+	</text>
+	<history>2020, c. 1090; 2023, c. 750; 2025, cc. 200, 223.</history>
+</law>

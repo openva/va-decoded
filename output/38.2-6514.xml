@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="65" level="2">Virginia Health Benefit Exchange</unit>
+	</structure>
+	<section_number>38.2-6514</section_number>
+	<catch_line>Certified application counselors</catch_line>
+	<text>
+		<section prefix="A">The Exchange shall establish a Certified Application Counselor program pursuant to 45 C.F.R. § 155.225 and shall (i) certify individuals as certified application counselors to perform specified duties, (ii) designate an organization to certify individuals as certified application counselors to perform specified duties, or (iii) implement a combination both clause (i) and (ii).
+		</section>
+		<section prefix="B">The Exchange shall ensure, either directly or through designated organizations, that certified application counselors complete required Virginia-specific training on topics including qualified health plan options, insurance affordability programs, eligibility and enrollment rules, and all other regulatory requirements.
+		</section>
+		<section prefix="C">The Exchange shall ensure certified application counselors adhere to all terms and conditions of privacy and security pursuant to 45 C.F.R. § 155.260(b).
+		</section>
+		<section prefix="D">The Exchange may decertify a certified application counselor or designated organization for failure to comply with the requirements of this section or of the Exchange.
+		</section>
+	</text>
+	<history>2020, cc. 916, 917.</history>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="32" level="3">Milk Commission</unit>
+	</structure>
+	<section_number>3.2-3200</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, unless the context requires a different meaning:
+		"Affiliate" means any person or subsidiary thereof, who has, either directly or indirectly, actual or legal control over a distributor, whether by stock ownership or in any other manner.
+		"Books and records" mean books, records, accounts, contracts, memoranda, documents, papers, correspondence, or other data, pertaining to the business of the person in question.
+		"Commission" means the Milk Commission.
+		"Consumer" means any person, other than a milk distributor, who purchases milk for human consumption.
+		"Distributor" means any of the following persons engaged in the business of distributing, marketing, or in any manner handling fluid milk, in whole or in part, in fluid form for consumption in the Commonwealth:
+		<section prefix="1">Persons, regardless of whether any such person is a producer:
+			a. Who pasteurize or bottle milk or process milk into fluid milk;
+			b. Who sell or market fluid milk at wholesale or retail to: (i) hotels, restaurants, stores, or other establishments for consumption on the premises; (ii) stores or other establishments for resale; or (iii) consumers; or
+			c. Who operate stores or other establishments for the sale of fluid milk at retail for consumption off the premises.
+		</section>
+		<section prefix="2">Persons, wherever located or operating, whether within or without the Commonwealth, who purchase, market, or handle milk for resale as fluid milk in the Commonwealth.
+			"Health authorities" include the Board of Health, the Office of Dairy and Foods in the Department, and the local health authorities.
+			"Licensee" means a licensed milk distributor.
+			"Market" means any locality, or two or more localities, and surrounding territory designated by the Commission as a marketing area.
+			"Milk" means the clean lacteal secretion obtained by the complete milking of one or more healthy cows properly fed, housed, and kept; including milk that is cooled, pasteurized, standardized, or otherwise processed with a view to selling.
+			"Producer" means any person, regardless of whether they are also a distributor, who produces milk for sale as fluid milk in the Commonwealth.
+			"Producer-distributor" means a distributor who handles only milk produced by himself.
+			"Sanitary regulations" include all laws and ordinances relating to the production, handling, transportation, distribution, and sale of milk and, so far as applicable, regulations adopted by the Board or the health authorities.
+			"Subsidiary" means any person that a distributor or an affiliate of a distributor has, or several distributors collectively have, either directly or indirectly, actual or legal control, whether by stock ownership or in any other manner.
+		</section>
+	</text>
+	<history>Code 1950, § 3-346; 1966, c. 702, § 3.1-425; 2008, c. 860.</history>
+</law>

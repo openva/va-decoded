@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="5.1" level="1">Aviation</unit>
+		<unit label="chapter" identifier="1" level="2">Aircraft, Airmen and Airports Generally</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>5.1-9.9</section_number>
+	<catch_line>Same; duration of permits; suspension or revocation; penalty</catch_line>
+	<text>
+		<section prefix="A">Contract carrier permits issued pursuant to this chapter shall be effective from the date of issuance and shall remain in effect only so long as the contract carrier's insurance, underwritten bond or certificate of insurance required by § 5.1-9.5 remains in full force and effect.
+		</section>
+		<section prefix="B">The Department may suspend or revoke such permit for violation of any of the aviation laws of this Commonwealth or of the United States of America, or for violation of any of the rules and regulations of the Virginia Aviation Board.
+		</section>
+		<section prefix="C">Willful misrepresentation of any material fact in obtaining a contract carrier permit shall be a Class 1 misdemeanor and punishable as such.
+		</section>
+	</text>
+	<history>1980, c. 721.</history>
+</law>

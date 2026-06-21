@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="8" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-1237</section_number>
+	<catch_line>Distribution of assets upon dissolution</catch_line>
+	<text>
+		Upon the winding up of a business trust, the assets of the business trust shall be distributed as follows:
+		<section prefix="1">To creditors, including beneficial owners who are creditors, to the extent permitted by law, in satisfaction of liabilities of the business trust, other than for distributions to beneficial owners under § 13.1-1227;
+		</section>
+		<section prefix="2">Unless otherwise provided in the articles of trust or in the governing instrument, to the beneficial owners and former beneficial owners in satisfaction of liabilities for distributions under § 13.1-1227; and
+		</section>
+		<section prefix="3">Unless otherwise provided in the articles of trust or in the governing instrument, to the beneficial owners in the proportions in which the beneficial owners share in distributions.
+		</section>
+	</text>
+	<history>2002, c. 621.</history>
+</law>

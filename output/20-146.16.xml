@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="2" level="3">Jurisdiction</unit>
+	</structure>
+	<section_number>20-146.16</section_number>
+	<catch_line>Notice; opportunity to be heard; joinder</catch_line>
+	<text>
+		<section prefix="A">Before a child's custody determination is made under this act, notice and an opportunity to be heard in accordance with the standards of § 20-146.7 must be given to all persons entitled to notice under the laws of this Commonwealth as in child custody proceedings between residents of this Commonwealth, any parent whose parental rights have not been previously terminated, and any person having physical custody of the child.
+		</section>
+		<section prefix="B">The laws of the Commonwealth shall govern the enforceability of a child custody determination made without actual notice or an opportunity to be heard.
+		</section>
+		<section prefix="C">The obligation to join a party and the right to intervene as a party in a child custody proceeding under this act are governed by the laws of this Commonwealth as in child custody proceedings between residents of this Commonwealth.
+		</section>
+	</text>
+	<history>1979, c. 229, §§ 20-127, 20-133; 2001, c. 305.</history>
+</law>

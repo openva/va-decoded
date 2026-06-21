@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="8" level="3">Licensing of Reinsurance Intermediaries</unit>
+	</structure>
+	<section_number>38.2-1351</section_number>
+	<catch_line>Duties of insurers utilizing the services of a reinsurance intermediary broker</catch_line>
+	<text>
+		<section prefix="A">An insurer shall not engage the services of any individual or business entity to act as a reinsurance intermediary broker on its behalf unless such person is licensed as required by § 38.2-1348.
+		</section>
+		<section prefix="B">An insurer may not employ an individual who is employed by a reinsurance intermediary broker with which it transacts business, unless such reinsurance intermediary broker is under common control with the insurer and subject to Article 5 (§ 38.2-1322 et seq.) of this chapter or Article 2 (§ 38.2-4230 et seq.) of Chapter 42 of this title.
+		</section>
+		<section prefix="C">The insurer shall annually obtain a copy of the current financial statement of each reinsurance intermediary broker with which it transacts business. Such statement shall be certified by an independent public accountant and in a form acceptable to the Commission.
+		</section>
+	</text>
+	<history>2001, c. 706.</history>
+</law>

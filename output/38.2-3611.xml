@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="36" level="2">Medicare Supplement Policies</unit>
+	</structure>
+	<section_number>38.2-3611</section_number>
+	<catch_line>Annual open enrollment period</catch_line>
+	<text>
+		<section prefix="A">An insurer, health services plan, or health maintenance organization issuing individual Medicare supplement policies or certificates in the Commonwealth, including policies or certificates issued on an individual basis through a non-employer group trust, plan, or association, shall offer to an individual currently insured under any such policy or certificate an annual open enrollment period commencing on the day of the individual's birthday and remaining open for at least 60 days thereafter, during which time the individual may purchase any Medicare supplement policy made available by any insurer in the Commonwealth that offers the same benefits as those provided by the current coverage. Innovative benefits, as described in 42 U.S.C. § 1395ss(p)(4)(B), shall not be considered when determining whether a Medicare supplement policy includes the same benefits as those provided by the previous coverage.
+		</section>
+		<section prefix="B">During the annual open enrollment period offered pursuant to this section, no insurer, health services plan, or health maintenance organization shall deny or condition the issuance or effectiveness, or discriminate in the price of coverage, of a Medicare supplement policy based on the health status, claims history, receipt of health care, or medical condition of an individual currently insured under any such policy.
+		</section>
+		<section prefix="C">At least 15 days but not more than 30 days prior to the commencement of an annual open enrollment period for an individual to whom the open enrollment period established by the provisions of this section applies, the insurer, health services plan, or health maintenance organization issuing a Medicare supplement policy or certificate shall notify each such individual of:
+			<section prefix="1">The dates on which the open enrollment period begins and ends;
+			</section>
+			<section prefix="2">The rights of the individual during the open enrollment period; and
+			</section>
+			<section prefix="3">Any modification of the benefits provided by the policy under which the individual is currently insured or adjustment of the premiums charged for that policy.
+			</section>
+		</section>
+		<section prefix="D">As used in this section, "Medicare supplement policy" includes policies offered by public entities that otherwise meet the requirements of this chapter.
+		</section>
+	</text>
+	<history>2025, cc. 530, 540.</history>
+</law>

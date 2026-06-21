@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="51.5" level="1">Persons With Disabilities</unit>
+		<unit label="chapter" identifier="13" level="2">Department for the Deaf and Hard-Of-Hearing</unit>
+	</structure>
+	<section_number>51.5-115</section_number>
+	<catch_line>Telecommunications relay service; standards; funding</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires otherwise, the term:
+			"Operation" means those functions reasonably and directly necessary for the provision of telecommunications relay service, including contract procurement and administration and public education and information regarding telecommunications relay service.
+			"Telecommunications relay service" means a facility whereby a person who has a hearing or speech disability using a text telephone and a person using a conventional telephone device can communicate with each other via telephone.
+			"VITA" means the Virginia Information Technologies Agency.
+			"Voice carry over" means technology that will enable a deaf or hard-of-hearing person with good speech to use his voice, instead of the text telephone, to communicate back to the hearing person.
+		</section>
+		<section prefix="B">The Department, with the assistance of VITA, shall be responsible for the provision and operation of telecommunications relay service for all text telephones within the Commonwealth. Telecommunications relay service shall include at a minimum:
+			<section prefix="1">Twenty-four-hour-a-day, seven-day-a-week statewide access with no limitations or restrictions that are not applicable to voice users of the telephone network;
+			</section>
+			<section prefix="2">An answer rate that ensures that at least 85% of the incoming calls are operator-answered within 20 seconds and at least 99% of incoming calls are answered within 60 seconds;
+			</section>
+			<section prefix="3">Technological advances, including the capability of voice carryover; and
+			</section>
+			<section prefix="4">Adequate facilities and personnel to ensure that calls are interpreted accurately; notwithstanding this provision, unless miscommunication on a call is caused by the willful misconduct of the telecommunications relay service provider, liability of the telecommunications relay service provider shall be limited to the charges imposed on users for the call.
+			</section>
+		</section>
+		<section prefix="C">All costs associated with the establishment and operation of the telecommunications relay service, including but not limited to personnel costs incurred by the Department for administering the service, shall be funded through a distribution made to the Department in accordance with the provisions of § 58.1-662 and any money transferred from the Department as provided for in subsection D. Such distributions, when appropriate, may be zero. The distributions shall be based on projected costs and special interim distributions may be made if actual costs exceed projections. No distribution shall be made and no funds shall be expended to support any activities that are not reasonably and directly necessary for the operation of the telecommunications relay service as defined in this section.
+		</section>
+		<section prefix="D">The Department shall transfer any funds received from the National Exchange Carrier Association, or other funding sources for purposes of operating telecommunications relay services, to VITA for costs associated with telecommunications relay service.
+		</section>
+	</text>
+	<history>2006, c. 780.</history>
+</law>

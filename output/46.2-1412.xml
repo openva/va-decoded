@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="14.1" level="3">Peer-to-Peer Vehicle Sharing</unit>
+	</structure>
+	<section_number>46.2-1412</section_number>
+	<catch_line>Insurable interest</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any provision of law to the contrary, a peer-to-peer vehicle sharing platform shall have an insurable interest in a shared vehicle during the vehicle sharing period.
+		</section>
+		<section prefix="B">A peer-to-peer vehicle sharing platform may own and maintain as the named insured one or more policies of motor vehicle liability insurance that provides coverage for:
+			<section prefix="1">Liabilities assumed by the peer-to-peer vehicle sharing platform under a vehicle sharing platform agreement;
+			</section>
+			<section prefix="2">Any liability of the shared vehicle owner;
+			</section>
+			<section prefix="3">Damage or loss to the shared vehicle; or
+			</section>
+			<section prefix="4">Any liability of the shared vehicle driver.
+			</section>
+		</section>
+	</text>
+	<history>2020, c. 1266.</history>
+</law>

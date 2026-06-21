@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="2" level="2">Negotiation, Transfer, and Endorsement</unit>
+	</structure>
+	<section_number>8.3A-204</section_number>
+	<catch_line>Endorsement</catch_line>
+	<text>
+		<section prefix="a">"Endorsement" means a signature, other than that of a signer as maker, drawer, or acceptor, that alone or accompanied by other words is made on an instrument for the purpose of (i) negotiating the instrument, (ii) restricting payment of the instrument, or (iii) incurring endorser's liability on the instrument, but regardless of the intent of the signer, a signature and its accompanying words is an endorsement unless the accompanying words, terms of the instrument, place of the signature, or other circumstances unambiguously indicate that the signature was made for a purpose other than endorsement. For the purpose of determining whether a signature is made on an instrument, a paper affixed to the instrument is a part of the instrument.
+		</section>
+		<section prefix="b">"Endorser" means a person who makes an endorsement.
+		</section>
+		<section prefix="c">For the purpose of determining whether the transferee of an instrument is a holder, an endorsement that transfers a security interest in the instrument is effective as an unqualified endorsement of the instrument.
+		</section>
+		<section prefix="d">If an instrument is payable to a holder under a name that is not the name of the holder, endorsement may be made by the holder in the name stated in the instrument or in the holder's name or both, but signature in both names may be required by a person paying or taking the instrument for value or collection.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-369, 6-379, 6-382 through 6-384, 6-395, 6-401, 6-410, 6-415; 1964, c. 219, §§ 8.3-201, 8.3-202, 8.3-203, 8.3-402; 1992, c. 693.</history>
+</law>

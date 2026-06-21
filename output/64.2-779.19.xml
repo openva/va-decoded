@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.1" level="4">Uniform Trust Decanting Act</unit>
+	</structure>
+	<section_number>64.2-779.19</section_number>
+	<catch_line>Savings provision</catch_line>
+	<text>
+		<section prefix="A">If exercise of the decanting power would be effective under this article except that the second-trust instrument in part does not comply with this article, the exercise of the power is effective and the following rules apply with respect to the income or principal of the second trust attributable to the exercise of the power:
+			<section prefix="1">A provision in the second-trust instrument which is not permitted under this article is void to the extent necessary to comply with this article.
+			</section>
+			<section prefix="2">A provision required by this article to be in the second-trust instrument which is not contained in the instrument is deemed to be included in the instrument to the extent necessary to comply with this article.
+			</section>
+		</section>
+		<section prefix="B">If a trustee or other fiduciary of a second trust determines that subsection A applies to a prior exercise of the decanting power, the fiduciary shall take corrective action consistent with the fiduciary's duties.
+		</section>
+	</text>
+	<history>2017, c. 592.</history>
+</law>

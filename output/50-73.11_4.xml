@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="2" level="3">Formation: Certificate of Limited Partnership</unit>
+	</structure>
+	<section_number>50-73.11:4</section_number>
+	<catch_line>Effect of conversion; entity unchanged</catch_line>
+	<text>
+		<section prefix="A">A general partnership that has been converted to a limited partnership pursuant to § 50-73.11:3, former § 50-73.11:1, or former § 50-73.125 shall be deemed for all purposes the same entity that existed before the conversion.
+		</section>
+		<section prefix="B">When such conversion takes effect:
+			<section prefix="1">The title to real estate and other property owned by the converting general partnership remains vested in the converted limited partnership;
+			</section>
+			<section prefix="2">All obligations of the converting general partnership continue as obligations of the converted limited partnership; and
+			</section>
+			<section prefix="3">An action or proceeding pending against the converting general partnership may be continued as if the conversion had not occurred.
+			</section>
+		</section>
+		<section prefix="C">A general partner who becomes a limited partner as a result of the conversion remains liable as a general partner for an obligation incurred by the general partnership before the conversion takes effect. If the other party to a transaction with the limited partnership reasonably believes when entering the transaction that the limited partner is a general partner, the limited partner is liable for an obligation incurred by the limited partnership within 90 days after the conversion takes effect. The limited partner's liability for all other obligations of the limited partnership incurred after the conversion takes effect is that of a limited partner as provided in this chapter.
+		</section>
+		<section prefix="D">If the converting general partnership is formed under the laws of the Commonwealth and is registered with the Commission as a registered limited liability partnership at the time of conversion, the registration as a registered limited liability partnership shall continue as to the converted limited partnership upon the effective date and time of the conversion.
+		</section>
+	</text>
+	<history>2007, c. 631.</history>
+</law>

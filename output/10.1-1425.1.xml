@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.1" level="4">Lead Acid Batteries</unit>
+	</structure>
+	<section_number>10.1-1425.1</section_number>
+	<catch_line>Lead acid batteries; land disposal prohibited; penalty</catch_line>
+	<text>
+		<section prefix="A">It shall be unlawful for any person to place a used lead acid battery in mixed municipal solid waste or to discard or otherwise dispose of a lead acid battery except by delivery to a battery retailer or wholesaler, or to a secondary lead smelter, or to a collection or recycling facility authorized under the laws of this Commonwealth or by the United States Environmental Protection Agency. As used in this article, the term "lead acid battery" shall mean any wet cell battery.
+		</section>
+		<section prefix="B">It shall be unlawful for any battery retailer to dispose of a used lead acid battery except by delivery to (i) the agent of a battery wholesaler or a secondary lead smelter, (ii) a battery manufacturer for delivery to a secondary lead smelter, or (iii) a collection or recycling facility authorized under the laws of this Commonwealth or by the United States Environmental Protection Agency.
+		</section>
+		<section prefix="C">Any person found guilty of a violation of this section shall be punished by a fine of not more than fifty dollars. Each battery improperly disposed of shall constitute a separate violation.
+		</section>
+	</text>
+	<history>1990, c. 520.</history>
+</law>

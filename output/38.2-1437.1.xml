@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1437.1</section_number>
+	<catch_line>Mortgage pass-through securities</catch_line>
+	<text>
+		A domestic insurer may invest in mortgage pass-through securities backed by a pool of mortgages of the kind, class and investment quality as those eligible for investment under §§ 38.2-1434 through 38.2-1437, under the following conditions:
+		<section prefix="1">The servicer of the pool of mortgages shall be a business entity created under the laws of the United States or any state;
+		</section>
+		<section prefix="2">The pool of mortgages is assigned to a business entity, other than a sole proprietorship, having a net worth of at least five million dollars, as trustee for the benefit of the holders of the securities;
+		</section>
+		<section prefix="3">A domestic insurer shall not invest under this section more than two percent of its admitted assets in securities backed by any single mortgage pass-through pool;
+		</section>
+		<section prefix="4">All mortgage pass-through securities acquired by a domestic insurer under this section shall provide for flow-through of both principal and interest payments payable on the underlying mortgage loan assets; mortgage pass-through securities promising principal-only, interest-only or residual interests-only in the underlying mortgage assets shall not be acquired; and
+		</section>
+		<section prefix="5">The securities on the date of investment shall be high grade obligations.
+		</section>
+	</text>
+	<history>1992, c. 588; 1999, c. 483.</history>
+</law>

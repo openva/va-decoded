@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="8" level="2">Premarital Agreement Act</unit>
+	</structure>
+	<section_number>20-150</section_number>
+	<catch_line>Content of agreement</catch_line>
+	<text>
+		Parties to a premarital agreement may contract with respect to:
+		<section prefix="1">The rights and obligations of each of the parties in any of the property of either or both of them whenever and wherever acquired or located;
+		</section>
+		<section prefix="2">The right to buy, sell, use, transfer, exchange, abandon, lease, consume, expend, assign, create a security interest in, mortgage, encumber, dispose of, or otherwise manage and control property;
+		</section>
+		<section prefix="3">The disposition of property upon separation, marital dissolution, death, or the occurrence or nonoccurrence of any other event;
+		</section>
+		<section prefix="4">Spousal support;
+		</section>
+		<section prefix="5">The making of a will, trust, or other arrangement to carry out the provisions of the agreement;
+		</section>
+		<section prefix="6">The ownership rights in and disposition of the death benefit from a life insurance policy;
+		</section>
+		<section prefix="7">The choice of law governing the construction of the agreement; and
+		</section>
+		<section prefix="8">Any other matter, including their personal rights and obligations, not in violation of public policy or a statute imposing a criminal penalty.
+		</section>
+	</text>
+	<history>1985, c. 434; 1986, c. 201.</history>
+</law>

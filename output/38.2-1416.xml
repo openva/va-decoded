@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1416</section_number>
+	<catch_line>Canadian governmental obligations</catch_line>
+	<text>
+		<section prefix="A">Obligations of Canada. -- A domestic insurer may invest in bonds, notes, warrants, and other evidences of indebtedness which are direct obligations of the government of Canada or for which the full faith and credit of the government of Canada are pledged for the payment of principal and interest.
+		</section>
+		<section prefix="B">No domestic insurer shall invest in any obligation under this section unless the obligation is payable both as to principal and interest in lawful money of the United States or of Canada.
+		</section>
+		<section prefix="C">Obligations of provinces. -- A domestic insurer may invest in direct, general obligations of any province of Canada for the payment of money, or obligations for the payment of money to the extent guaranteed or insured as to the payment of principal and interest by any province of Canada, on the following conditions:
+			<section prefix="1">The province has the power to levy taxes for the prompt payment of the principal and interest of its obligations;
+			</section>
+			<section prefix="2">The province is not in default in the payment of principal or interest on any of its direct, guaranteed or insured obligations as of the date of investment; and
+			</section>
+			<section prefix="3">An insurer shall not invest under this subsection more than five percent of its admitted assets in obligations issued or guaranteed by any one province.
+			</section>
+		</section>
+		<section prefix="D">Local government obligations. -- A domestic insurer may invest in direct, general obligations of any political subdivision of any province of Canada for the payment of money, or obligation for the payment of money, to the extent guaranteed as to the payment of principal and interest, by any such political subdivision, on the following conditions:
+			<section prefix="1">The obligations are payable or guaranteed from ad valorem taxes;
+			</section>
+			<section prefix="2">Such political subdivision is not in default in the payment of principal or interest on any of its direct or guaranteed obligations;
+			</section>
+			<section prefix="3">No investment shall be made under this subsection in obligations which are secured only by special assessments for local improvements; and
+			</section>
+			<section prefix="4">An insurer shall not invest more than two percent of its admitted assets in obligations issued or guaranteed by any one such political subdivision.
+			</section>
+		</section>
+	</text>
+	<history>1983, c. 457, § 38.1-217.19; 1986, c. 562; 1992, c. 588.</history>
+</law>

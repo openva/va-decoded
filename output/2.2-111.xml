@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="1" level="4">Governor</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-111</section_number>
+	<catch_line>Suits, actions, etc., by Governor</catch_line>
+	<text>
+		<section prefix="A">In order to protect or preserve the interests or legal rights of the Commonwealth and its citizens, the Governor may, by and with the advice of the Attorney General, institute any action, suit, motion or other proceeding, in the name of the Commonwealth, in the Supreme Court of the United States or any other court or tribunal in which such action, suit, motion or other proceeding may be properly commenced and prosecuted.
+		</section>
+		<section prefix="B">In accordance with subsection A and pursuant to his duty to protect or preserve the general welfare of the citizens of the Commonwealth, the Governor may institute any action, suit, motion or other proceeding on behalf of its citizens, in the name of the Commonwealth acting in its capacity as parens patriae, where he has determined that existing legal procedures fail to adequately protect existing legal rights and interests of such citizens.
+		</section>
+	</text>
+	<history>Code 1950, § 2-43; 1966, c. 677, § 2.1-49; 1975, c. 241; 2001, c. 844.</history>
+</law>

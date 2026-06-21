@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="11" level="4">Department of General Services</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-1102</section_number>
+	<catch_line>Additional powers of Department</catch_line>
+	<text>
+		<section prefix="A">The Department shall have the following additional powers, all of which, with the approval of the Director of the Department, may be exercised by a division of the Department with respect to matters assigned to that division:
+			<section prefix="1">Prescribe regulations necessary or incidental to the performance of duties or execution of powers conferred under this chapter; and
+			</section>
+			<section prefix="2">Establish fee schedules that may be collectible from users when general fund appropriations are not applicable to the services rendered.
+			</section>
+		</section>
+		<section prefix="B">All statewide contracts and agreements made and entered into by the Department for the purchase of computers, software, supplies, and related peripheral equipment and services shall provide for the inclusion of counties, cities, and towns in such contracts and agreements. For good cause shown, the Secretary of Administration may disapprove the inclusion from a specific contract or agreement.
+		</section>
+		<section prefix="C">The Department may operate or provide for the operation of hazardous waste management facilities.
+		</section>
+	</text>
+	<history>1977, c. 672, § 2.1-424; 1986, c. 492, § 2.1-425.2; 1995, c. 357; 2001, c. 844.</history>
+</law>

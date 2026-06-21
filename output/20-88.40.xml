@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="3" level="3">Jurisdiction in Proceedings Involving Two or More States</unit>
+	</structure>
+	<section_number>20-88.40</section_number>
+	<catch_line>Continuing jurisdiction to enforce child support order</catch_line>
+	<text>
+		<section prefix="A">A tribunal of the Commonwealth that has issued a child support order consistent with the law of the Commonwealth may serve as an initiating tribunal to request a tribunal of another state to enforce:
+			<section prefix="1">The order if the order is the controlling order and has not been modified by a tribunal of another state that assumed jurisdiction pursuant to this chapter; or
+			</section>
+			<section prefix="2">A money judgment for arrears of support and interest on the order accrued before a determination that an order of a tribunal of another state is the controlling order.
+			</section>
+		</section>
+		<section prefix="B">A tribunal of the Commonwealth having continuing jurisdiction over a support order may act as a responding tribunal to enforce the order.
+		</section>
+	</text>
+	<history>1994, c. 673; 2005, c. 754; 2015, c. 727.</history>
+</law>

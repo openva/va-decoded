@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>59.1-501.13:1</section_number>
+	<catch_line>Opportunity to review</catch_line>
+	<text>
+		<section prefix="a">A person has an opportunity to review a record or term only if it is made available in a manner that ought to call it to the attention of a reasonable person and permit review.
+		</section>
+		<section prefix="b">An electronic agent has an opportunity to review a record or term only if it is made available in a manner that would enable a reasonably configured electronic agent to react to the record or term.
+		</section>
+		<section prefix="c">If a record or term is available for review only after a person becomes obligated to pay or begins its performance, the person has an opportunity to review only if he has a right to a return if he rejects the record. However, a right to a return is not required if:
+			<section prefix="1">the record proposes a modification of contract or provides particulars of performance under § 59.1-503.5; or
+			</section>
+			<section prefix="2">the primary performance is other than delivery or acceptance of a copy, the agreement is not a mass-market transaction, and the parties at the time of contracting had reason to know that a record or term would be presented after performance, use, or access to the information began.
+			</section>
+		</section>
+		<section prefix="d">The right to a return under this section may arise by law or by agreement.
+		</section>
+		<section prefix="e">The effect of this section may be modified by an agreement setting out standards applicable to future transactions between the parties.
+		</section>
+	</text>
+	<history>2004, c. 794.</history>
+</law>

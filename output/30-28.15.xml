@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="2.2" level="2">Division of Legislative Services</unit>
+	</structure>
+	<section_number>30-28.15</section_number>
+	<catch_line>Use of state libraries; withdrawal of books; charges</catch_line>
+	<text>
+		<section prefix="A">The Division, through its Director and employees, shall have access to the State Law Library and The Library of Virginia, with the right to withdraw, in the performance of their duties, any books, pamphlets or printed data from either library, subject to the rules of the libraries as to time.
+		</section>
+		<section prefix="B">Upon the request of the Division, the library of any public institution of higher education in the Commonwealth shall furnish the Division photocopies of materials on file without any charge except the actual cost of photocopying. Such libraries shall not charge the Division for any library exchange services.
+		</section>
+	</text>
+	<history>1966, c. 676; 1989, c. 412; 1994, c. 64.</history>
+</law>

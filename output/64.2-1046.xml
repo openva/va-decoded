@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="3" level="4">Unitrust</unit>
+	</structure>
+	<section_number>64.2-1046</section_number>
+	<catch_line>Period</catch_line>
+	<text>
+		<section prefix="A">A unitrust policy must provide the period used under §§ 64.2-1044 and 64.2-1045. Except as otherwise provided in subdivision B 3 of § 64.2-1047, the period may be:
+			<section prefix="1">A calendar year;
+			</section>
+			<section prefix="2">A 12-month period other than a calendar year;
+			</section>
+			<section prefix="3">A calendar quarter;
+			</section>
+			<section prefix="4">A three-month period other than a calendar quarter; or
+			</section>
+			<section prefix="5">Another period.
+			</section>
+		</section>
+		<section prefix="B">Except as otherwise provided in subsection B of § 64.2-1047, a unitrust policy may provide standards for:
+			<section prefix="1">Using fewer preceding periods under subdivision A 2 b, B 3, or B 4 of § 64.2-1044 if:
+				a. The trust was not in existence in a preceding period; or
+				b. Market indices or other published data are not available for a preceding period;
+			</section>
+			<section prefix="2">Using fewer preceding periods under subdivision B 5 a, B 5 b, B 6 b, or B 7 b of § 64.2-1045 if:
+				a. The trust was not in existence in a preceding period; or
+				b. Fair market values are not available for a preceding period; and
+			</section>
+			<section prefix="3">Prorating the unitrust amount on a daily basis for a part of a period in which the trust or the administration of the trust as a unitrust or the interest of any beneficiary commences or terminates.
+			</section>
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

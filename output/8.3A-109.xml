@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="1" level="2">General Provisions and Definitions</unit>
+	</structure>
+	<section_number>8.3A-109</section_number>
+	<catch_line>Payable to bearer or to order</catch_line>
+	<text>
+		<section prefix="a">A promise or order is payable to bearer if it: (1) states that it is payable to bearer or to the order of bearer or otherwise indicates that the person in possession of the promise or order is entitled to payment; (2) does not state a payee; or (3) states that it is payable to or to the order of cash or otherwise indicates that it is not payable to an identified person.
+		</section>
+		<section prefix="b">A promise or order that is not payable to bearer is payable to order if it is payable (i) to the order of an identified person or (ii) to an identified person or order. A promise or order that is payable to order is payable to the identified person.
+		</section>
+		<section prefix="c">An instrument payable to bearer may become payable to an identified person if it is specially endorsed pursuant to § 8.3A-205 (a). An instrument payable to an identified person may become payable to bearer if it is endorsed in blank pursuant to § 8.3A-205 (b).
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-360, 6-361; 1956, c. 149; 1964, c. 219, §§ 8.3-110, 8.3-111; 1992, c. 693.</history>
+</law>

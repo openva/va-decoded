@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="16.1" level="1">Courts Not of Record</unit>
+		<unit label="chapter" identifier="11" level="2">Juvenile and Domestic Relations District Courts</unit>
+		<unit label="article" identifier="5" level="3">Intake, Petition and Notice</unit>
+	</structure>
+	<section_number>16.1-262</section_number>
+	<catch_line>Form and content of petition</catch_line>
+	<text>
+		<section prefix="A">The petition shall contain the facts below indicated:
+			"Commonwealth of Virginia, In re ______ (name of child)" a child under eighteen years of age.
+			"In the Juvenile and Domestic Relations District Court of the county (or city) of ______ "
+			<section prefix="1">Statement of name, age, date of birth, if known, and residence of the child.
+			</section>
+			<section prefix="2">Statement of names and residence of his parents, guardian, legal custodian or other person standing in loco parentis and spouse, if any.
+			</section>
+			<section prefix="3">Statement of names and residence of the nearest known relatives if no parent or guardian can be found.
+			</section>
+			<section prefix="4">Statement of the specific facts which allegedly bring the child within the purview of this law. If the petition alleges a delinquent act, it shall make reference to the applicable sections of the Code which designate the act a crime.
+			</section>
+			<section prefix="5">Statement as to whether the child is in custody, and if so, the place of detention or shelter care, and the time the child was taken into custody, and the time the child was placed in detention or shelter care.
+			</section>
+		</section>
+		<section prefix="B">If the subject of the petition is an adult, the petition shall not state or include the name of or any information concerning the parents, guardians, legal custodian, or person standing in loco parentis of the adult subject of the petition except as may be necessary to state the conduct alleged in the petition.
+		</section>
+		<section prefix="C">If any of the facts herein required to be stated are not known by the petitioner, the petition shall so state. The petition shall be verified, except that petitions filed under § 63.2-1237 may be signed by the petitioner's counsel, and may be upon information.
+			In accordance with § 16.1-69.32, the Supreme Court may formulate rules for the form and content of petitions in the juvenile court concerning matters related to the custody, visitation or support of a child and the protection, support or maintenance of an adult where the provisions of this section are not appropriate.
+		</section>
+	</text>
+	<history>Code 1950, § 16.1-165; 1956, c. 555; 1977, c. 559; 1979, c. 615; 1984, c. 631; 1995, cc. 772, 826; 2000, c. 830; 2016, c. 626.</history>
+</law>

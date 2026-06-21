@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="5" level="3">Transferees and Creditors of Partner</unit>
+	</structure>
+	<section_number>50-73.107</section_number>
+	<catch_line>Transfer of partner's transferable interest</catch_line>
+	<text>
+		<section prefix="A">A transfer, in whole or in part, of a partner's transferable interest in the partnership:
+			<section prefix="1">Is permissible;
+			</section>
+			<section prefix="2">Does not by itself cause the partner's dissociation or a dissolution and winding up of the partnership business; and
+			</section>
+			<section prefix="3">Does not, as against the other partners or the partnership, entitle the transferee, during the continuance of the partnership, to participate in the management or conduct of the partnership business, to require access to information concerning partnership transactions, or to inspect or copy the partnership books or records.
+			</section>
+		</section>
+		<section prefix="B">A transferee of a partner's transferable interest in the partnership has a right:
+			<section prefix="1">To receive, in accordance with the transfer, distributions to which the transferor would otherwise be entitled;
+			</section>
+			<section prefix="2">To receive upon the dissolution and winding up of the partnership business, in accordance with the transfer, the net amount otherwise distributable to the transferor; and
+			</section>
+			<section prefix="3">To seek under subdivision 6 of § 50-73.117 a judicial determination that it is equitable to wind up the partnership business.
+			</section>
+		</section>
+		<section prefix="C">In a dissolution and winding up, a transferee is entitled to an account of partnership transactions only from the date of the latest account agreed to by all of the partners.
+		</section>
+		<section prefix="D">Upon transfer, the transferor retains the rights and duties of a partner other than the interest in distributions transferred.
+		</section>
+		<section prefix="E">A partnership need not give effect to a transferee's rights under this section until it has notice of the transfer.
+		</section>
+		<section prefix="F">A transfer of a partner's transferable interest in the partnership in violation of a restriction or prohibition on transfer contained in the partnership agreement is ineffective as to a person having notice of the restriction at the time of transfer.
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

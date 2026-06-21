@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="12.1" level="3">Orders Inducting State Militia Into Federal Service</unit>
+	</structure>
+	<section_number>44-114.4</section_number>
+	<catch_line>Governor not prevented from drafting into state military service</catch_line>
+	<text>
+		Nothing in this article shall prevent the Governor from drafting all citizens into the state military service if he may so desire in accordance with the military laws of Virginia.
+	</text>
+	<history>1958, c. 540, § 4; 1973, c. 401.</history>
+</law>

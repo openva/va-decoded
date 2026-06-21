@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="1" level="3">Law Governing Perfection and Priority</unit>
+	</structure>
+	<section_number>8.9A-306.1</section_number>
+	<catch_line>Law governing perfection and priority of security interests in chattel paper</catch_line>
+	<text>
+		<section prefix="a">Chattel paper evidenced by authoritative electronic copy. Except as provided in subsection (d), if chattel paper is evidenced only by an authoritative electronic copy of the chattel paper or is evidenced by an authoritative electronic copy and an authoritative tangible copy, the local law of the chattel paper's jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in the chattel paper, even if the transaction does not bear any relation to the chattel paper's jurisdiction.
+		</section>
+		<section prefix="b">Chattel paper's jurisdiction. The following rules determine the chattel paper's jurisdiction under this section:
+			<section prefix="1">If the authoritative electronic copy of the record evidencing chattel paper, or a record attached to or logically associated with the electronic copy and readily available for review, expressly provides that a particular jurisdiction is the chattel paper's jurisdiction for purposes of this part, this article, or the Uniform Commercial Code, that jurisdiction is the chattel paper's jurisdiction.
+			</section>
+			<section prefix="2">If paragraph (1) does not apply and the rules of the system in which the authoritative electronic copy is recorded are readily available for review and expressly provide that a particular jurisdiction is the chattel paper's jurisdiction for purposes of this part, this article, or the Uniform Commercial Code, that jurisdiction is the chattel paper's jurisdiction.
+			</section>
+			<section prefix="3">If paragraphs (1) and (2) do not apply and the authoritative electronic copy, or a record attached to or logically associated with the electronic copy and readily available for review, expressly provides that the chattel paper is governed by the law of a particular jurisdiction, that jurisdiction is the chattel paper's jurisdiction.
+			</section>
+			<section prefix="4">If paragraphs (1), (2), and (3) do not apply and the rules of the system in which the authoritative electronic copy is recorded are readily available for review and expressly provide that the chattel paper or the system is governed by the law of a particular jurisdiction, that jurisdiction is the chattel paper's jurisdiction.
+			</section>
+			<section prefix="5">If paragraphs (1) through (4) do not apply, the chattel paper's jurisdiction is the jurisdiction in which the debtor is located.
+			</section>
+		</section>
+		<section prefix="c">Chattel paper evidenced by authoritative tangible copy. If an authoritative tangible copy of a record evidences chattel paper and the chattel paper is not evidenced by an authoritative electronic copy, while the authoritative tangible copy of the record evidencing chattel paper is located in a jurisdiction, the local law of that jurisdiction governs:
+			<section prefix="1">perfection of a security interest in the chattel paper by possession under § 8.9A-314.1; and
+			</section>
+			<section prefix="2">the effect of perfection or nonperfection and the priority of a security interest in the chattel paper.
+			</section>
+		</section>
+		<section prefix="d">When perfection governed by law of jurisdiction where debtor located. The local law of the jurisdiction in which the debtor is located governs perfection of a security interest in chattel paper by filing.
+		</section>
+	</text>
+	<history>2024, c. 652.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="20" level="3">Regulation of Passenger Carriers</unit>
+		<unit label="article" identifier="1" level="4">Motor Carriers of Passengers -- Generally</unit>
+	</structure>
+	<section_number>46.2-2011.13</section_number>
+	<catch_line>Stowing of baggage, parcels, etc</catch_line>
+	<text>
+		Motor carriers transporting baggage or other property of passengers shall do so only when such articles are stowed in a manner to assure:
+		<section prefix="1">Unrestricted freedom of motion to the driver for proper operation of the vehicle.
+		</section>
+		<section prefix="2">Unobstructed passage to regular and emergency exits by any person.
+		</section>
+		<section prefix="3">Adequate protection from personal injury that may result from the displacement or fall of such articles.
+		</section>
+	</text>
+	<history>2001, c. 596.</history>
+</law>

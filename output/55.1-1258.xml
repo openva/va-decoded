@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="III" level="2">Rental Conveyances</unit>
+		<unit label="chapter" identifier="12" level="3">Virginia Residential Landlord and Tenant Act</unit>
+		<unit label="article" identifier="6" level="4">Retaliatory Action</unit>
+	</structure>
+	<section_number>55.1-1258</section_number>
+	<catch_line>Retaliatory conduct prohibited</catch_line>
+	<text>
+		<section prefix="A">Except as provided in this section or as otherwise provided by law, a landlord may not retaliate by increasing rent or decreasing services or by bringing or threatening to bring an action for possession or by causing a termination of the rental agreement pursuant to § 55.1-1253 or 55.1-1410 after he has knowledge that (i) the tenant has complained to a governmental agency charged with responsibility for enforcement of a building or housing code of a violation applicable to the premises materially affecting health or safety, (ii) the tenant has made a complaint to or filed an action against the landlord for a violation of any provision of this chapter, (iii) the tenant has organized or become a member of a tenant's organization, or (iv) the tenant has testified in a court proceeding against the landlord. However, the provisions of this subsection shall not be construed to prevent the landlord from increasing rent to that which is charged for similar market rentals nor decreasing services that apply equally to all tenants.
+		</section>
+		<section prefix="B">If the landlord acts in violation of this section, the tenant is entitled to the applicable remedies provided for in this chapter, including recovery of actual damages, and may assert such retaliation as a defense in any action against him for possession. The burden of proving retaliatory intent shall be on the tenant.
+		</section>
+		<section prefix="C">Notwithstanding subsections A and B, a landlord may terminate the rental agreement pursuant to § 55.1-1253 or 55.1-1410 and bring an action for possession if:
+			<section prefix="1">Violation of the applicable building or housing code was caused primarily by lack of reasonable care by the tenant, an authorized occupant, or a guest or invitee of the tenant;
+			</section>
+			<section prefix="2">The tenant is in default in rent;
+			</section>
+			<section prefix="3">Compliance with the applicable building or housing code requires alteration, remodeling, or demolition that would effectively deprive the tenant of use of the dwelling unit; or
+			</section>
+			<section prefix="4">The tenant is in default of a provision of the rental agreement materially affecting the health and safety of himself or others. The maintenance of the action provided in this section does not release the landlord from liability under § 55.1-1226.
+			</section>
+		</section>
+		<section prefix="D">The landlord may also terminate the rental agreement pursuant to § 55.1-1253 or 55.1-1410 for any other reason not prohibited by law unless the court finds that the reason for the termination was retaliation.
+		</section>
+	</text>
+	<history>1974, c. 680, § 55-248.39; 1983, c. 396; 1985, c. 268; 2000, c. 760; 2015, c. 408; 2019, c. 712.</history>
+</law>

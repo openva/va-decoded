@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="41" level="4">Virginia Register Act</unit>
+	</structure>
+	<section_number>2.2-4100</section_number>
+	<catch_line>Short title; purpose of chapter; declaration of policy</catch_line>
+	<text>
+		<section prefix="A">This chapter shall be known and may be cited as the "Virginia Register Act."
+		</section>
+		<section prefix="B">It is the purpose of this chapter to satisfy the need for public availability of information respecting the regulations of state agencies. Nothing in this chapter contemplates or is designed to limit or impede the present or future making, amendment, or repeal of regulations by administrative agencies. It is declared to be the policy of the Commonwealth to encourage, facilitate, and assist agencies in developing regulations that will inform the public of the requirements, policies, and procedures of the administrative authorities of the State.
+		</section>
+	</text>
+	<history>1973, c. 535, §§ 9-6.15, 9-6.22; 1975, c. 502; 2001, c. 844.</history>
+</law>

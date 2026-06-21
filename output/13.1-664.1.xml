@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Shareholders</unit>
+	</structure>
+	<section_number>13.1-664.1</section_number>
+	<catch_line>Inspectors of election</catch_line>
+	<text>
+		<section prefix="A">A public corporation shall, and any other corporation may, appoint one or more inspectors to act at a shareholders' meeting in connection with determining voting results. Each inspector shall verify in writing that the inspector will faithfully execute the duties of inspector with strict impartiality and according to the best of the inspector's ability. An inspector may be an officer or employee of the corporation. An inspector may appoint or retain other persons to assist the inspector in the performance of the inspector's duties under subsection B, and may rely on information provided by such persons and other persons, including those appointed to count votes, unless the inspectors believe reliance is unwarranted.
+		</section>
+		<section prefix="B">The inspectors shall:
+			<section prefix="1">Ascertain the number of shares outstanding and the voting power of each;
+			</section>
+			<section prefix="2">Determine the shares represented at a meeting;
+			</section>
+			<section prefix="3">Determine the validity of proxy appointments and ballots;
+			</section>
+			<section prefix="4">Count all votes; and
+			</section>
+			<section prefix="5">Make a written report of the results.
+			</section>
+		</section>
+		<section prefix="C">No ballots, proxies, or votes, nor any revocations thereof or changes thereto, may be accepted after the closing of the polls unless the circuit court of the city or county where the corporation's principal office is located or, if none in the Commonwealth, where its registered office is located, upon application by a shareholder, shall determine otherwise.
+		</section>
+		<section prefix="D">In performing their duties, the inspectors may examine (i) the proxy appointment forms or electronic transmissions and any other information provided in accordance with subsection B of § 13.1-663, (ii) any envelope or related writing submitted with those appointment forms, (iii) any ballots, (iv) any evidence or other information specified in § 13.1-665, and (v) the relevant books and records of the corporation relating to its shareholders and their entitlement to vote, including any securities position list provided by a depository clearing agency.
+		</section>
+		<section prefix="E">The inspectors also may consider other information that they believe is relevant and reliable for the purpose of performing any of the duties assigned to them pursuant to subsection B, including for the purpose of evaluating inconsistent, incomplete, or erroneous information and reconciling information submitted by or on behalf of banks, brokers, their nominees, or similar persons that indicates more votes being cast than a proxy authorized by the record shareholder is entitled to cast. If the inspectors consider other information allowed by this subsection, they shall in their report under subsection B specify the information considered by them, including the purpose or purposes for which the information was considered, the person or persons from whom they obtained the information, when the information was obtained, the means by which the information was obtained, and the basis for the inspectors' belief that such information is relevant and reliable.
+		</section>
+		<section prefix="F">Determinations of law by the inspectors are subject to de novo review by a court in a proceeding under § 13.1-669.1 or other judicial proceeding.
+		</section>
+	</text>
+	<history>1991, c. 405; 2002, c. 285; 2005, c. 765; 2010, c. 782; 2015, c. 611; 2019, c. 734.</history>
+</law>

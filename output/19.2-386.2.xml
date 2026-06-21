@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="22.1" level="2">Enforcement of Forfeitures</unit>
+	</structure>
+	<section_number>19.2-386.2</section_number>
+	<catch_line>Seizure of named property</catch_line>
+	<text>
+		<section prefix="A">When any property subject to seizure under Chapter 22.2 (§ 19.2-386.15 et seq.) or other provision under the Code has not been seized at the time an information naming that property is filed, the clerk of the circuit court or a judge of the circuit court, upon motion of the attorney for the Commonwealth wherein the information is filed, shall issue a warrant to the sheriff or other state or local law-enforcement officer authorized to serve criminal process in the jurisdiction where the property is located, describing the property named in the complaint and authorizing its immediate seizure.
+		</section>
+		<section prefix="B">In all cases of seizure of real property, a notice of lis pendens shall be filed with the clerk of the circuit court of the county or city wherein the property is located and shall be indexed in the land records in the name or names of those persons whose interests appear to be affected thereby.
+		</section>
+		<section prefix="C">When any property is seized for the purposes of forfeiture under Chapter 22.2 (§ 19.2-386.15 et seq.) or other forfeiture provision under the Code, the agency seizing the property shall, as soon as practicable after the seizure, conduct an inventory of the seized property and shall, as soon as practicable, provide a copy of the inventory to the owner. An agency's failure to provide a copy of an inventory pursuant to this subsection shall not invalidate any forfeiture.
+		</section>
+		<section prefix="D">When any property is seized for the purposes of forfeiture under Chapter 22.2 (§ 19.2-386.15 et seq.) or other forfeiture provision under the Code, and an information naming that property has not been filed, neither the agency seizing the property nor any other law-enforcement agency may request, require, or in any manner induce any person who asserts ownership, lawful possession, or any lawful right to the property to waive his interest in or rights to the property until an information has been filed.
+		</section>
+	</text>
+	<history>1989, c. 690; 2002, cc. 588, 623; 2004, c. 995; 2006, c. 766; 2012, cc. 283, 756; 2015, c. 769; 2016, cc. 203, 423.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="2.1" level="3">Private Review Agents</unit>
+	</structure>
+	<section_number>32.1-138.11</section_number>
+	<catch_line>Denial; revocation</catch_line>
+	<text>
+		<section prefix="A">The Department may deny a certificate of registration to any applicant if, upon review of the application, it finds that the applicant proposing to conduct utilization review does not meet the standards required by this article or by any regulations promulgated pursuant to this article.
+		</section>
+		<section prefix="B">The Department may revoke a certificate of registration, or place the holder on probation with terms and conditions, if the holder demonstrates that it is unable or unwilling to meet the requirements of this chapter or of regulations adopted pursuant to this article.
+		</section>
+	</text>
+	<history>1990, c. 826, § 38.2-5304; 1998, c. 129.</history>
+</law>

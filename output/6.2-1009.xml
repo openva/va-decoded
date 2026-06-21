@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="10" level="3">Entities Conducting Trust Business</unit>
+		<unit label="article" identifier="1" level="4">Trust Powers and Trust Business</unit>
+	</structure>
+	<section_number>6.2-1009</section_number>
+	<catch_line>Common trust and collective investment funds</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Common trust fund" means a common trust fund described under § 584 of the Internal Revenue Code of 1986, as amended, as well as any other type of collective investment fund that is exempt from federal income taxation under any other provision of the Internal Revenue Code or regulations issued pursuant thereto.
+			"Maintaining bank" means a trust institution that establishes and maintains a common trust fund for the collective investment of qualified employee benefit trusts or funds held in a fiduciary capacity by it, including agency accounts under which the institution exercises investment discretion and assumes fiduciary responsibilities.
+			"Participating bank" means a trust institution duly authorized to act as a fiduciary, wherever located, that is owned, controlled by, or affiliated with (i) a maintaining bank or (ii) a bank holding company that also owns, controls, or is affiliated with a maintaining bank.
+		</section>
+		<section prefix="B">Any trust institution may establish and maintain one or more common trust funds for the collective investment of qualified employee benefit trusts or funds held in a fiduciary capacity by it, including agency accounts under which the institution exercises investment discretion and assumes fiduciary responsibilities.
+		</section>
+		<section prefix="C">The maintaining bank may include, for the purposes of collective investment in a common trust fund or funds established and maintained by it, funds held in a fiduciary capacity by any participating bank.
+		</section>
+		<section prefix="D">A maintaining bank may invest the funds held by it in any fiduciary capacity in one or more common trust funds, provided (i) such investment is not prohibited by the instrument, judgment, decree, or order creating such fiduciary relationship or amendment thereof; (ii) in the case of co-fiduciaries the written consent of the co-fiduciary is obtained by the maintaining bank; and (iii) the maintaining bank has no interest in the assets of the common trust fund other than as a fiduciary.
+		</section>
+		<section prefix="E">Unless ordered by an appropriate court, the maintaining bank operating a common trust fund shall not be required to render a court accounting with regard to such fund; but, by application to an appropriate court, it may secure approval of such an accounting on such conditions as the court may establish. This section shall not affect the duties of the trustees of the participating trusts under the common trust fund to render accounts of their several trusts.
+		</section>
+		<section prefix="F">All common trust funds shall be operated in conformity with the regulations issued from time to time by the Commission, which regulations shall conform substantially to the regulations of the Comptroller of the Currency governing the operations of common trust funds.
+		</section>
+	</text>
+	<history>1983, c. 454, §§ 6.1-30.1, 6.1-30.2, 6.1-30.3; 1984, c. 299; 2010, c. 794.</history>
+</law>

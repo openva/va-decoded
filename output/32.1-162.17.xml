@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5.1" level="2">Human Research</unit>
+	</structure>
+	<section_number>32.1-162.17</section_number>
+	<catch_line>Exemptions</catch_line>
+	<text>
+		The following categories of human research are exempt from the provisions of this chapter:
+		<section prefix="1">Activities of the Virginia Department of Health conducted pursuant to § 32.1-39;
+		</section>
+		<section prefix="2">Research or student learning outcomes assessments conducted in educational settings involving regular or special education instructional strategies, the effectiveness of or the comparison among instructional techniques, curricula, or classroom management methods, or the use of educational tests, whether cognitive, diagnostic, aptitude, or achievement, if the data from such tests are recorded in a manner so that subjects cannot be identified, directly or through identifiers linked to the subjects;
+		</section>
+		<section prefix="3">Research involving survey or interview procedures unless responses are recorded in such a manner that the subjects can be identified, directly or through identifiers linked to the subjects, and either (i) the subject's responses, if they became known outside the research, could reasonably place the subject at risk of criminal or civil liability or be damaging to the subject's financial standing or employability or (ii) the research deals with sensitive aspects of the subject's own behavior, such as sexual behavior, drug or alcohol use, or illegal conduct;
+		</section>
+		<section prefix="4">Research involving survey or interview procedures, when the respondents are elected or appointed public officials or candidates for public office;
+		</section>
+		<section prefix="5">Research involving solely the observation of public behavior, including observation by participants, unless observations are recorded in such a manner that the subjects can be identified, directly or through identifiers linked to the subjects, and either (i) the observations recorded about the individual, if they became known outside the research, could reasonably place the subject at risk of criminal or civil liability or be damaging to the subject's financial standing or employability or (ii) the research deals with sensitive aspects of the subject's own behavior, such as sexual behavior, drug or alcohol use, or illegal conduct; and
+		</section>
+		<section prefix="6">Research involving the collection or study of existing data, documents, records, pathological specimens, or diagnostic specimens, if these sources are publicly available or if the information is recorded by the investigator in a manner so that subjects cannot be identified, directly or through identifiers linked to the subjects.
+		</section>
+	</text>
+	<history>1992, c. 603.</history>
+</law>

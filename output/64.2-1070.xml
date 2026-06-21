@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="7" level="4">Allocation of Disbursements</unit>
+	</structure>
+	<section_number>64.2-1070</section_number>
+	<catch_line>Adjustment between income and principal because of taxes</catch_line>
+	<text>
+		<section prefix="A">A fiduciary may make an adjustment between income and principal to offset the shifting of economic interests or tax benefits between current income beneficiaries and successor beneficiaries that arises from:
+			<section prefix="1">An election or decision the fiduciary makes regarding a tax matter, other than a decision to claim an income tax deduction to which subsection B applies;
+			</section>
+			<section prefix="2">An income tax or other tax imposed on the fiduciary or a beneficiary as a result of a transaction involving the fiduciary or a distribution by the fiduciary; or
+			</section>
+			<section prefix="3">Ownership by the fiduciary of an interest in an entity a part of whose taxable income, whether or not distributed, is includable in the taxable income of the fiduciary or a beneficiary.
+			</section>
+		</section>
+		<section prefix="B">If the amount of an estate tax marital or charitable deduction is reduced because a fiduciary deducts an amount paid from principal for income tax purposes instead of deducting it for estate tax purposes and, as a result, estate taxes paid from principal are increased and income taxes paid by the fiduciary or a beneficiary are decreased, the fiduciary shall charge each beneficiary that benefits from the decrease in income tax to reimburse the principal from which the increase in estate tax is paid. The total reimbursement must equal the increase in the estate tax, to the extent the principal used to pay the increase would have qualified for a marital or charitable deduction but for the payment. The share of the reimbursement for each fiduciary or beneficiary whose income taxes are reduced must be the same as its share of the total decrease in income tax.
+		</section>
+		<section prefix="C">A fiduciary that charges a beneficiary under subsection B may offset the charge by obtaining payment from the beneficiary, withholding an amount from future distributions to the beneficiary, or adopting another method or combination of methods.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

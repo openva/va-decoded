@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="16.1" level="1">Courts Not of Record</unit>
+		<unit label="chapter" identifier="11" level="2">Juvenile and Domestic Relations District Courts</unit>
+		<unit label="article" identifier="3" level="3">Jurisdiction and Venue</unit>
+	</structure>
+	<section_number>16.1-245.2</section_number>
+	<catch_line>Evidence of medical reports, statements, or records; testimony of health care provider or custodian of records in juvenile and domestic relations district court; custody, visitation, placement, and support cases</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding § 8.01-399, 8.01-400.2, 8.01-401.1, or 8.01-413, and except as provided in § 16.1-245.1, in any civil case heard in a juvenile and domestic relations district court involving the custody, visitation, placement, or support of a child or spouse, any party, including a guardian ad litem, may present evidence as to the extent, nature, and treatment of a party or child and the costs of such treatment and examination by the following:
+			<section prefix="1">A report or statement from the treating or examining health care provider as defined in § 8.01-581.1 or a health care provider licensed outside of the Commonwealth for his treatment of the party or child outside of the Commonwealth. Such report or statement shall be admitted if the party intending to present such evidence gives the opposing party or parties and, if applicable, guardian ad litem, a copy of such evidence and written notice of such intention 30 days in advance of trial and if attached to or contained in such evidence is a sworn declaration of (i) the treating or examining health care provider that (a) the person named therein was treated or examined by such health care provider, (b) the information contained in the report or statement is true and accurate and fully descriptive as to the nature and extent of the treatment and any conclusions which result therefrom, and (c) any statement of costs contained in the report or statement is true and accurate or (ii) the custodian of such report or statement that the same is a true and accurate copy of the report or statement; or
+			</section>
+			<section prefix="2">The bills showing the costs of examination or treatment or records of a treating or examining health care provider as defined in § 8.01-581.1 or a health care provider licensed outside of the Commonwealth for its treatment of a party or child outside of the Commonwealth. Such provider's records or bills shall be admitted if (i) the party intending to present evidence by the use of records or bills gives the opposing party or parties and, if applicable, the guardian ad litem a copy of the records or bills and written notice of such intention 30 days in advance of trial and (ii) attached to the records or bills is a sworn declaration of the custodian thereof that the same is a true and accurate copy of the records or bills of such provider.
+				If, thereafter, a party or guardian ad litem summons the health care provider or custodian making such statement to testify in proper person, the court shall determine which party shall pay the fee and costs for such appearance or may apportion the same among the parties in such proportions as the ends of justice may require. If such health care provider or custodian is not subject to subpoena for cross-examination in court, then the court shall allow a reasonable opportunity for the party seeking the subpoena for such health care provider or custodian to obtain his testimony as the ends of justice may require.
+			</section>
+		</section>
+		<section prefix="B">If an opposing party intends to file a pleading in response to the evidence to be presented pursuant to subsection A, such party shall do so at least 15 days in advance of trial.
+		</section>
+	</text>
+	<history>2023, cc. 398, 399.</history>
+</law>

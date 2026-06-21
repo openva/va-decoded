@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1428</section_number>
+	<catch_line>Derivative instruments</catch_line>
+	<text>
+		<section prefix="A">A domestic insurer may engage in derivative transactions under this section subject to the following general conditions:
+			<section prefix="1">A domestic insurer may use derivative instruments under this section to engage in hedging transactions and replication transactions.
+			</section>
+			<section prefix="2">Each domestic insurer utilizing derivative instruments shall establish written guidelines with respect to derivative transactions stating the insurer's objectives for engaging in derivative transactions and derivative strategies, permissible derivative strategies and the relationship of those strategies to the insurer's operations, and such other details as the Commission may from time to time require. The insurer's board of directors or committee thereof charged with the responsibility of overseeing investments shall approve the written guidelines and any amendment thereto and shall establish a procedure to determine, at least annually, that all derivative transactions were made in accordance with such guidelines. The guidelines established pursuant to this section, and any amendment thereto, shall be submitted to the Commission for prior approval. The Commission shall, in writing, either approve the guidelines or amendment, request any additional information needed to approve the guidelines or amendment, or deny the guidelines or amendment within (i) 90 days of receipt of the guidelines or (ii) 60 days of receipt of any amendment; otherwise the guidelines or amendment shall be deemed approved.
+			</section>
+			<section prefix="3">The Commission may adopt reasonable rules and regulations for derivative transactions including, but not limited to, rules and regulations that impose financial solvency standards, valuation standards, and reporting requirements.
+			</section>
+		</section>
+		<section prefix="B">A domestic insurer may enter into hedging transactions if:
+			<section prefix="1">The domestic insurer is able to demonstrate to the Commission the intended hedging characteristics and the ongoing effectiveness of the derivative transaction or combination of the transactions through cash flow testing or other appropriate analyses; and
+			</section>
+			<section prefix="2">As a result of and after giving effect to the hedging transaction:
+				a. The aggregate statement value of options, caps, floors, and warrants not attached to another financial instrument purchased and used in hedging transactions then engaged in by the domestic insurer does not exceed 7.5 percent of its admitted assets;
+				b. The aggregate statement value of options, caps, and floors written in hedging transactions then engaged in by the domestic insurer does not exceed 3 percent of its admitted assets; and
+				c. The aggregate potential exposure of collars, swaps, forwards, and futures used in hedging transactions then engaged in by the domestic insurer does not exceed 6.5 percent of its admitted assets.
+			</section>
+		</section>
+		<section prefix="C">A domestic insurer may enter into replication transactions if the asset being replicated shall comply with all of the provisions and limitations specified in this article with respect to investments by the insurer, as if such replicated asset constituted a direct investment by the insurer in the asset being replicated. The aggregate statement value of all assets being replicated shall not exceed 10 percent of the insurer's admitted assets.
+		</section>
+		<section prefix="D">The counterparty exposure amount under a derivative instrument entered into pursuant to this section shall be deemed an obligation of a business entity to which the insurer is exposed to credit risk for the purpose of determining compliance with the limitations of §§ 38.2-1411.2 and 38.2-1413.
+		</section>
+		<section prefix="E">Pursuant to rules promulgated under § 38.2-223, the Commission may approve additional transactions involving the use of derivative instruments in excess of the limits set forth in this section or for other risk management purposes.
+		</section>
+	</text>
+	<history>1983, c. 457, § 38.1-217.31; 1985, c. 36; 1986, c. 562; 2001, c. 387; 2011, c. 198.</history>
+</law>

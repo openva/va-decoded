@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="2" level="4">Solid Waste Management</unit>
+	</structure>
+	<section_number>10.1-1412</section_number>
+	<catch_line>Contracts by counties, cities and towns</catch_line>
+	<text>
+		Any county, city or town may enter into contracts for the supply of solid waste to resource recovery facilities.
+	</text>
+	<history>1986, c. 492, § 10-275; 1988, c. 891.</history>
+</law>

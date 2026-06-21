@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="14.1" level="3">Peer-to-Peer Vehicle Sharing</unit>
+	</structure>
+	<section_number>46.2-1417</section_number>
+	<catch_line>Responsibility for equipment</catch_line>
+	<text>
+		The peer-to-peer vehicle sharing platform shall have sole responsibility for any equipment, such as a global positioning system (GPS), that is installed or placed in or on a shared vehicle to monitor or facilitate peer-to-peer vehicle sharing and shall agree to indemnify and hold harmless the shared vehicle owner for any damage to or theft of such system or equipment during a vehicle sharing period not caused by the shared vehicle owner. The peer-to-peer vehicle sharing platform has the right to seek indemnity from the shared vehicle driver for any loss or damage to such system or equipment that occurs during the vehicle sharing period.
+	</text>
+	<history>2020, c. 1266.</history>
+</law>

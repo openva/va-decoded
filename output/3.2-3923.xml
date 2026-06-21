@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="39" level="3">Pesticide Control</unit>
+		<unit label="article" identifier="2" level="4">Licensing and Registration</unit>
+	</structure>
+	<section_number>3.2-3923</section_number>
+	<catch_line>When Board may refuse or cancel registration</catch_line>
+	<text>
+		The Board may deny or cancel the registration of a pesticide if it finds after a public hearing that:
+		<section prefix="1">Considering the available information on the benefits of a product and any associated risks, use of the pesticide has demonstrated unreasonable adverse effects on the environment;
+		</section>
+		<section prefix="2">A false or misleading statement about the pesticide has been made or implied by the registrant or the registrant's agent in writing, verbally, or through any form of advertising literature; or
+		</section>
+		<section prefix="3">The registrant or the pesticide fails to comply with a requirement of this chapter or a regulation adopted hereunder.
+		</section>
+	</text>
+	<history>1989, c. 575, § 3.1-249.45; 1992, c. 114; 2008, c. 860.</history>
+</law>

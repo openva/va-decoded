@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="8" level="3">Regulation of Traffic</unit>
+		<unit label="article" identifier="1.1" level="4">Toll Violations and Enforcement</unit>
+	</structure>
+	<section_number>46.2-819.10</section_number>
+	<catch_line>Withholding of vehicle registration for enforcement of out-of-state toll violations</catch_line>
+	<text>
+		<section prefix="A">Upon receipt of notice from a state that has entered into an agreement with the Commonwealth pursuant to § 46.2-819.9 that a resident of Virginia owes unpaid tolls, administrative fees, or penalties to that state, the Commissioner shall refuse to issue or renew the vehicle registration certificate or the license plate issued for a vehicle or vehicles owned by such resident in accordance with this section until such state has notified the Commissioner that such tolls, fees, or penalties have been paid.
+			If the resident is the owner and operator of the vehicle used in the commission of the offense, the Commissioner shall refuse to issue or renew the vehicle registration certificate or the license plate issued for that vehicle. If the resident was the operator of the vehicle, but not the owner, the Commissioner shall refuse to issue or renew any vehicle registration certificate or license plates for any vehicle owned by the resident.
+		</section>
+		<section prefix="B">The Department shall send each resident identified pursuant to subsection A notice of the intent to deny renewal of registration at least 30 days prior to the expiration date of a current vehicle registration. Such notice shall include instructions for contacting the state to which the unpaid tolls, administrative fees, or penalties are owed by the resident and indicate that such contact information is provided for the purpose of payment of the amounts owed.
+		</section>
+		<section prefix="C">Upon receipt of notice from the applicable state that the resident has satisfied all outstanding obligations to that state, the Commissioner shall release the hold on the vehicle registrations and permit the same to be issued or renewed.
+		</section>
+		<section prefix="D">The Commissioner shall charge a $40 fee to defray the cost of processing and withholding the registration or registration renewal under this section.
+		</section>
+	</text>
+	<history>2016, c. 753.</history>
+</law>

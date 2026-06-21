@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="5" level="3">Soil and Water Conservation</unit>
+		<unit label="article" identifier="3" level="4">Soil and Water Conservation Districts</unit>
+	</structure>
+	<section_number>10.1-507</section_number>
+	<catch_line>Petitions filed with the Board</catch_line>
+	<text>
+		Petitions to modify or create districts, or relocate or define boundaries of existing districts, shall be initiated and filed with the Board for its approval or disapproval by any of the following methods:
+		<section prefix="1">By petition of a majority of the directors of any or each district or by petition from a majority of the governing body of any or each county or city.
+		</section>
+		<section prefix="2">By petition of a majority of the governing body of a county or city not within an existing district, requesting to be included in an existing district and concurred in by the district directors.
+		</section>
+		<section prefix="3">By petition of a majority of the governing body of a county or city or parts thereof not included within an existing district, requesting that a new district be created.
+		</section>
+		<section prefix="4">By petition, signed by a number of registered voters equal to twenty-five percent of the vote cast in the last general election, who are residents of a county or city not included within an existing district, requesting that a new district be created, or requesting to be included within an existing district. If the petition bears the signatures of the requisite number of registered voters of a county or city, or two or more cities, then the petition shall be deemed to be the joint petition of the particular combination of political subdivisions named in the petition. If the petition deals in whole or in part with a portion or portions of a political subdivision or subdivisions, then the number of signatures necessary for each portion of a political subdivision shall be the same as if the whole political subdivision were involved in the petition, and may come from the political subdivision at large.
+		</section>
+	</text>
+	<history>1970, c. 480, § 21-12.2; 1988, c. 891.</history>
+</law>

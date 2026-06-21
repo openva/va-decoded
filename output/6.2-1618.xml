@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="16" level="3">Mortgage Lenders and Mortgage Brokers</unit>
+	</structure>
+	<section_number>6.2-1618</section_number>
+	<catch_line>Escrow accounts</catch_line>
+	<text>
+		<section prefix="A">All moneys required by a mortgage lender required to be licensed under this chapter to be paid by borrowers in escrow to defray future taxes or insurance premiums, or for other lawful purposes, shall be kept in accounts segregated from accounts of the lender, and shall not be commingled with other funds of the lender.
+		</section>
+		<section prefix="B">No licensed mortgage lender shall require any borrower to pay any moneys in escrow to defray future taxes and insurance premiums, or for any other purpose, in connection with a subordinate mortgage loan as referred to in Article 2 (§ 6.2-406 et seq.) of Chapter 4, except where escrows for such purposes are not being maintained in connection with the mortgage loan superior to such subordinate mortgage loan.
+		</section>
+		<section prefix="C">Mortgage lenders holding money in escrow for insurance premiums shall notify the insurer in writing within 30 days of a change of the mortgage lender's billing address, or 60 days prior to the renewal date of the insurance policy, whichever is later.
+		</section>
+	</text>
+	<history>1987, c. 596, § 6.1-423; 2001, c. 504; 2010, c. 794.</history>
+</law>

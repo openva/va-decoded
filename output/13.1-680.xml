@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="9" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-680</section_number>
+	<catch_line>Removal of directors by shareholders</catch_line>
+	<text>
+		<section prefix="A">The shareholders may remove one or more directors with or without cause, unless the articles of incorporation provide that directors may be removed only for cause.
+		</section>
+		<section prefix="B">If a director is elected by a voting group of shareholders, only the shareholders of that voting group may participate in the vote to remove the director.
+		</section>
+		<section prefix="C">If cumulative voting in the election of directors is authorized by the articles of incorporation, a director may not be removed if, in the case of a shareholders' meeting, the number of votes sufficient to elect him under cumulative voting is voted against his removal and, if action is taken by less than unanimous consent, voting shares entitled to the number of votes sufficient to elect the director under cumulative voting do not consent to the removal. If cumulative voting in the election of directors is not authorized by the articles of incorporation, unless the articles of incorporation or bylaws require a greater vote, a director may be removed if the number of votes cast to remove the director constitutes a majority of the votes entitled to be cast at an election of directors of the voting group or voting groups by which the director was elected.
+		</section>
+		<section prefix="D">A director may be removed by the shareholders at a shareholders' meeting if the meeting is called for the purpose of removing the director. The meeting notice shall state that the purpose, or one of the purposes of the meeting, is removal of the director.
+		</section>
+		<section prefix="E">Upon the removal of a director, the corporation may file an amended annual report with the Commission indicating the removal of the director and the successor in office, if any.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-205, 13.1-42; 1956, c. 428; 1985, c. 522; 1991, c. 124; 2005, c. 765; 2019, c. 734.</history>
+</law>

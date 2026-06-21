@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="10" level="3">Entities Conducting Trust Business</unit>
+		<unit label="article" identifier="6" level="4">Trust Powers of Savings Institutions</unit>
+	</structure>
+	<section_number>6.2-1092</section_number>
+	<catch_line>Transactions between trust accounts</catch_line>
+	<text>
+		<section prefix="A">An association may sell assets held by it as fiduciary in one trust account to itself as fiduciary in another trust account if the transaction is fair to both accounts and if such transaction is not prohibited by the terms of the governing instruments, court order, or the law of the Commonwealth.
+		</section>
+		<section prefix="B">An association may make a loan to a trust account from the funds belonging to another such account, when the making of such loan to a designated trust account is authorized by the governing instrument creating the account from which such loans are made, or by court order, and the terms of the transaction are fair to all of the trust accounts involved.
+		</section>
+		<section prefix="C">An association may make a loan to a trust account and may take as security therefor assets of the account, provided such transaction is fair to such account and is not otherwise prohibited by the governing instrument, by court order, or by the law of the Commonwealth.
+		</section>
+	</text>
+	<history>1984, c. 303, § 6.1-195.89; 2010, c. 794.</history>
+</law>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.20</section_number>
+	<catch_line>Application of § 13.1-1099.10 after merger</catch_line>
+	<text>
+		<section prefix="A">A creditor's right that existed under § 13.1-1099.10 immediately before a merger under § 13.1-1099.16 may be enforced after the merger in accordance with the following rules:
+			<section prefix="1">A creditor's right that existed immediately before the merger against the surviving company, a continuing protected series, or a relocated protected series continues without change after the merger.
+			</section>
+			<section prefix="2">A creditor's right that existed immediately before the merger against a non-surviving company:
+				a. May be asserted against an asset of the non-surviving company that vested in the surviving company as a result of the merger; and
+				b. Does not otherwise change.
+			</section>
+			<section prefix="3">Subject to subsection B, the following rules apply:
+				a. In addition to the remedy stated in subdivision 1, a creditor with a right under § 13.1-1099.10 that existed immediately before the merger against a non-surviving company or a relocated protected series may assert the right against:
+				<section prefix="1">An asset of the surviving company, other than an asset of the non-surviving company that vested in the surviving company as a result of the merger;
+				</section>
+				<section prefix="2">An asset of a continuing protected series;
+				</section>
+				<section prefix="3">An asset of a protected series established by the surviving company as a result of the merger;
+				</section>
+				<section prefix="4">If the creditor's right was against an asset of the non-surviving company, an asset of a relocated protected series; or
+				</section>
+				<section prefix="5">If the creditor's right was against an asset of a relocated protected series, an asset of a relocated protected series.
+					b. In addition to the remedy stated in subdivision 2, a creditor with a right that existed immediately before the merger against the surviving company or a continuing protected series may assert the right against:
+				</section>
+				<section prefix="1">An asset of a relocated protected series; or
+				</section>
+				<section prefix="2">An asset of a non-surviving company that vested in the surviving company as a result of the merger.
+				</section>
+			</section>
+		</section>
+		<section prefix="B">For the purposes of subdivision A 3 and subdivisions B 1a, B 2a, and B 3a of § 13.1-1099.10, the incurrence date is deemed to be the date on which the merger becomes effective.
+		</section>
+		<section prefix="C">A merger under § 13.1-1099.16 does not affect the manner in which § 13.1-1099.10 applies to a liability incurred after the merger.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

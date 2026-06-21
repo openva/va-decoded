@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.7" level="1">Commercial Code — Warehouse Receipts, Bills of Lading and Other Documents of Title</unit>
+		<unit label="part" identifier="4" level="2">Warehouse Receipts and Bills of Lading: General Obligations</unit>
+	</structure>
+	<section_number>8.7-401</section_number>
+	<catch_line>Irregularities in issue of receipt or bill or conduct of issuer</catch_line>
+	<text>
+		The obligations imposed by this title on an issuer apply to a document even if:
+		<section prefix="a">the document may not comply with the requirements of this title or of any other law or regulation regarding its issue, form or content; or
+		</section>
+		<section prefix="b">the issuer may have violated laws regulating the conduct of his business; or
+		</section>
+		<section prefix="c">the goods covered by the document were owned by the bailee at the time the document was issued; or
+		</section>
+		<section prefix="d">the person issuing the document does not come within the definition of warehouseman if it purports to be a warehouse receipt.
+		</section>
+	</text>
+	<history>Code 1950, § 61-23; 1964, c. 219; 2004, c. 200.</history>
+</law>

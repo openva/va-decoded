@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="15" level="2">Trial and Its Incidents</unit>
+		<unit label="article" identifier="4" level="3">Trial by Jury</unit>
+	</structure>
+	<section_number>19.2-263.3</section_number>
+	<catch_line>Juror information confidential</catch_line>
+	<text>
+		<section prefix="A">The court may, upon motion of either party or its own motion, and for good cause shown, issue an order regulating the disclosure of the name and home address of a juror who has been impaneled in a criminal trial to any person, other than to counsel for either party or a pro se defendant. For the purposes of this subsection, good cause shown includes, but is not limited to, a determination by the court that there is a likelihood of bribery, tampering, or physical injury to or harassment of a juror if his personal information is disclosed. An order regulating the disclosure of information may be modified, and the names and home addresses of the jurors in a criminal case may be disseminated to a person having a legitimate interest or need for the information, with restrictions upon its use and further dissemination as may be deemed appropriate by the court.
+		</section>
+		<section prefix="B">Additional personal information of a juror who has been impaneled in a criminal case shall be released only to the counsel for the defendant, a pro se defendant, and the attorney for the Commonwealth. The court may, upon motion of either party or its own motion, and for good cause shown, issue an order authorizing the disclosure of any additional personal information of a juror to any other person. Such order may be modified and may place restrictions on the use and further dissemination of such disclosed information.
+		</section>
+		<section prefix="C">In addition to the provisions of this section, the Supreme Court shall prescribe and publish rules that provide for the protection of the name, home address, and additional personal information of a juror in a criminal trial.
+		</section>
+		<section prefix="D">For purposes of this section, "additional personal information" means any information other than name and home address collected by the court, clerk, or jury commissioner at any time about a person who is selected to sit on a criminal jury and includes, but is not limited to, a juror's age, occupation, business address, telephone numbers, email addresses, and any other identifying information that would assist another in locating or contacting the juror.
+		</section>
+	</text>
+	<history>2008, c. 538; 2017, c. 753.</history>
+</law>

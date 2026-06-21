@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="4" level="5">Prompt Payment</unit>
+	</structure>
+	<section_number>2.2-4350.1</section_number>
+	<catch_line>Prohibition on payment without an appropriation; prohibition on IOUs</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "IOU" means a document issued by a governmental entity or representative (i) that acknowledges a debt but that does not specify all repayment terms, such as the repayment date, and (ii) when moneys are not available to pay a current debt.
+		</section>
+		<section prefix="B">1. Notwithstanding any other provision of law, unless the General Assembly has appropriated funds to pay for a good or service or to make payment on a debt, no state department, agency, or other state entity nor any state official, officer, employee, or agent shall (i) attempt to pay for the good or service or attempt to make payment on the debt; (ii) issue any document or paper that guarantees payment, or purports to pay, for the good or service or guarantees payment, or purports to make payment, on the debt; or (iii) in any other way attempt to pay, guarantee payment, or purport to pay for the same.
+			<section prefix="2">The prohibition on payment under subdivision 1 shall not apply (i) to payments required by federal law or (ii) if funds are lawfully available.
+			</section>
+		</section>
+		<section prefix="C">In addition, in no case shall any (i) state department, agency, or other state entity or (ii) state official, officer, or employee in performing the duties of his position furnish an IOU in exchange for any good or service, as a means to pay for any good or service, or in lieu of a payment on a debt.
+		</section>
+	</text>
+	<history>2015, c. 673.</history>
+</law>

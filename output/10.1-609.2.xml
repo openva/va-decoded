@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="6" level="3">Flood Protection and Dam Safety</unit>
+		<unit label="article" identifier="2" level="4">Dam Safety Act</unit>
+	</structure>
+	<section_number>10.1-609.2</section_number>
+	<catch_line>Prohibited vegetation; certain wetland vegetation allowed</catch_line>
+	<text>
+		<section prefix="A">Dam owners shall not permit the growth of trees and other woody vegetation and shall remove any such vegetation from the slopes and crest of embankments and the emergency spillway area and within a distance of 25 feet from the toe of the embankment and abutments of the dam.
+		</section>
+		<section prefix="B">The provisions of subsection A shall not apply to wetland vegetation, including woody shrubs, trees, and plants, that is growing on a permanent aquatic or safety bench that has been added to the upstream embankment slope of a regulated impounding structure if such vegetation is associated with a wetland mitigation bank or in-lieu fee site that (i) has been approved by the U.S. Army Corps of Engineers and the Department of Environmental Quality and (ii) is the subject of a restrictive covenant or other permanent instrument that specifically protects the particular wetland vegetation from removal and is recorded among the land records of the locality. However, the Department may require the dam owner to remove trees by flush cutting unless the Department determines on the basis of site-specific information that the grubbing of roots is necessary to protect the integrity of the dam in a particular case.
+		</section>
+		<section prefix="C">Owners failing to maintain their dam in accordance with this section shall be subject to enforcement pursuant to § 10.1-613.
+		</section>
+	</text>
+	<history>2006, c. 30; 2019, c. 148.</history>
+</law>

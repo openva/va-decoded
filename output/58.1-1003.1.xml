@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="10" level="3">Cigarette Tax</unit>
+		<unit label="article" identifier="1" level="4">Excise Tax</unit>
+	</structure>
+	<section_number>58.1-1003.1</section_number>
+	<catch_line>Bad debt; deduction; definition</catch_line>
+	<text>
+		<section prefix="A">Any stamping agent may deduct the amount of bad debts from the tax imposed by this chapter. The amount deducted shall be charged off as uncollectible on the books of the stamping agent. If a person pays all or part of a bad debt that a stamping agent claimed as a deduction under this section, the stamping agent shall be liable for the amount of taxes deducted in connection with that portion of the debt for which payment is received and shall remit these taxes together with its next report to the Department pursuant to subsection C of § 58.1-1003.
+		</section>
+		<section prefix="B">Any claim for a bad debt deduction under this section shall be supported by all of the following:
+			<section prefix="1">A copy of the original invoice;
+			</section>
+			<section prefix="2">Evidence that the cigarettes described in the invoice were delivered to the person who ordered them; and
+			</section>
+			<section prefix="3">Evidence that the person who ordered and received the cigarettes did not pay the stamping agent for the cigarettes and that the stamping agent used reasonable collection practices in attempting to collect the debt.
+			</section>
+		</section>
+		<section prefix="C">As used in this section, "bad debt" means the taxes under this chapter attributable to any portion of a debt that is related to a sale of cigarettes subject to tax under this chapter that is not otherwise deductible or excludable, that has become worthless or uncollectible in the time period between the date when taxes accrue to the Department for the stamping agents' preceding tax return and the date when taxes accrue to the Department for the present return, and that is eligible to be claimed, or could be eligible to be claimed if the stamping agent kept accounts on an accrual basis, as a deduction pursuant to § 166 of the Internal Revenue Code. A bad debt shall not include (i) any interest on the wholesale price of cigarettes, (ii) uncollectible amounts on property that remains in the possession of the stamping agent until the full purchase price is paid, (iii) expenses incurred in attempting to collect any account receivable or any portion of the debt recovered, (iv) any accounts receivable that have been sold to a third party for collection, and (v) repossessed property.
+		</section>
+	</text>
+	<history>2006, cc. 64, 229.</history>
+</law>

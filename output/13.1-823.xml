@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="3" level="3">Formation of Corporations</unit>
+	</structure>
+	<section_number>13.1-823</section_number>
+	<catch_line>Bylaws</catch_line>
+	<text>
+		<section prefix="A">The incorporators or board of directors of a corporation shall adopt initial bylaws for the corporation.
+		</section>
+		<section prefix="B">The bylaws of a corporation may contain any provision that is not inconsistent with law or the articles of incorporation.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-234, 13.1-212; 1956, c. 428; 1985, c. 522; 2007, c. 925; 2010, c. 171.</history>
+</law>

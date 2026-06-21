@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="3" level="4">Motor Fuel Tax; Liability</unit>
+	</structure>
+	<section_number>58.1-2226</section_number>
+	<catch_line>Exemptions from tax</catch_line>
+	<text>
+		No tax shall be levied or collected pursuant to this chapter on:
+		<section prefix="1">Motor fuel sold and delivered to a governmental entity for the exclusive use by the governmental entity. This exemption shall not apply with respect to fuel sold or delivered to any person operating under contract with the governmental entity;
+		</section>
+		<section prefix="2">Motor fuel sold and delivered to a nonprofit charitable organization that is exempt from taxation under § 501(c)(3) of the Internal Revenue Code and which is organized and operated exclusively for the purpose of providing charitable, long-distance, advanced life-support, air transportation services using emergency medical services vehicles for low-income medical patients in the Commonwealth, for the exclusive use of such organization in the operation of an aircraft;
+		</section>
+		<section prefix="3">Bonded aviation jet fuel;
+		</section>
+		<section prefix="4">Dyed diesel fuel, except as provided in subdivision A 1 of § 58.1-2225;
+		</section>
+		<section prefix="5">Motor fuel removed, by transport truck or another means of transfer outside the terminal transfer system, from a terminal for export, if the supplier of the motor fuel collects tax on the fuel at the rate of the motor fuel's destination state; or
+		</section>
+		<section prefix="6">Heating oil, as defined in § 58.1-2201.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758; 2015, cc. 502, 503.</history>
+</law>

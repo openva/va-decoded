@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="III" level="2">Mineral Mines</unit>
+		<unit label="part" identifier="A" level="3">Mineral Mines Generally</unit>
+		<unit label="chapter" identifier="11" level="4">Mineral Mine Safety Act</unit>
+		<unit label="article" identifier="6" level="5">Mine Explosions; Mine Fires; Accidents</unit>
+	</structure>
+	<section_number>45.2-1146</section_number>
+	<catch_line> Reports of other accidents and injuries</catch_line>
+	<text>
+		<section prefix="A">Each miner employed at a mine shall promptly notify his supervisor of any injury received during the course of his employment.
+		</section>
+		<section prefix="B">Each operator shall keep on file a report of each accident including any accident that does not result in a lost-time injury. Copies of such report shall be given to the injured person or his designated representative to enable him to review the accident report and verify its accuracy prior to the filing of such report for the review of state or federal mine inspectors.
+		</section>
+	</text>
+	<history>1997, c. 390, § 45.1-161.292:52; 2021, Sp. Sess. I, c. 387.</history>
+</law>

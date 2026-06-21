@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="1" level="2">General Assembly and Officers Thereof</unit>
+	</structure>
+	<section_number>30-19.1:12</section_number>
+	<catch_line>Executive orders; impact statements by the Joint Legislative Audit and Review Commission</catch_line>
+	<text>
+		<section prefix="A">At the request of the chairman of any committee of the Senate or House of Delegates, the Joint Legislative Audit and Review Commission shall review any executive order issued by the Governor and prepare a statement reflecting the potential fiscal impact of such executive order on the operations of state government.
+		</section>
+		<section prefix="B">The Joint Legislative Audit and Review Commission shall forward copies of the impact statement prepared pursuant to subsection A to the requesting chairman of the standing committee of both houses of the General Assembly to which matters relating to the content of the executive order are most properly referable.
+		</section>
+	</text>
+	<history>2016, c. 623.</history>
+</law>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="21" level="3">Franchises; Sale and Lease of Certain Municipal Public Property; Public Utilities</unit>
+		<unit label="article" identifier="1.1" level="4">Provision of Cable Television Services by Certain Localities</unit>
+	</structure>
+	<section_number>15.2-2108.9</section_number>
+	<catch_line>Enterprise funds for cable television services</catch_line>
+	<text>
+		<section prefix="A">A municipality that provides a cable television service under this article shall:
+			<section prefix="1">Establish an enterprise fund to account for the municipality's operations of a cable television service; and
+			</section>
+			<section prefix="2">Adopt separate operating and capital budgets for the municipality's cable television services.
+			</section>
+		</section>
+		<section prefix="B">A municipality that provides a cable television service under this article shall not:
+			<section prefix="1">Transfer any appropriation or other balance in any enterprise fund established by the municipality under this section to another enterprise fund; or
+			</section>
+			<section prefix="2">Transfer any appropriation or other balance in any other enterprise fund established by the municipality to any enterprise fund established by the municipality under this section.
+				The restrictions on transfers described in this subsection do not apply to transfers made by a municipality between other enterprise funds established by the municipality.
+			</section>
+		</section>
+		<section prefix="C">A municipality authorized pursuant to subsection E of § 56-265.4:4 to provide cable television service shall:
+			<section prefix="1">Establish a separate department within an enterprise fund to account for the municipality's operations of a cable television service. This department may share a common balance sheet with other telecommunications and communications services, but the income statements must be stated separately; and
+			</section>
+			<section prefix="2">Adopt separate operating and capital budgets for the municipality's cable television services.
+			</section>
+		</section>
+		<section prefix="D">A municipality authorized pursuant to subsection E of § 56-265.4:4 to provide cable television service shall not transfer funds from other departments to the cable television department, but the municipality may make interdepartmental loans at market rates, upon such terms and conditions as would prevail from a private lender.
+		</section>
+	</text>
+	<history>2003, c. 677.</history>
+</law>

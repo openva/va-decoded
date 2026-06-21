@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="3" level="3">Enforcement</unit>
+	</structure>
+	<section_number>20-146.32</section_number>
+	<catch_line>Ex parte order to take physical custody of child</catch_line>
+	<text>
+		<section prefix="A">Upon the filing of a petition seeking enforcement of a child custody determination, the petitioner may request in the petition that the court issue an ex parte order that the child be taken into immediate physical custody if the child is imminently likely to suffer serious physical harm or be removed from this Commonwealth. Any petition for an ex parte order shall include the statements required by subsection B of § 20-146.29.
+		</section>
+		<section prefix="B">If the court, upon the testimony of the petitioner or other witness, finds that the child is imminently likely to suffer serious physical harm or be removed from this Commonwealth, it may issue an ex parte order to take immediate physical custody of the child. A petition filed to enforce a child custody determination which seeks an ex parte order shall be heard on the next judicial day after the ex parte order is issued the unless that date is impossible. In that event, the court shall hold the hearing on the first judicial day possible.
+		</section>
+		<section prefix="C">An ex parte order to take physical custody of a child shall:
+			<section prefix="1">Recite the facts upon which a conclusion of imminent serious physical harm or removal from the jurisdiction is based;
+			</section>
+			<section prefix="2">Direct law-enforcement officers to take physical custody of the child immediately; and
+			</section>
+			<section prefix="3">Provide for the placement of the child with the petitioner, suitable relative, other suitable interested individual or the local department of social services pending final relief.
+			</section>
+		</section>
+		<section prefix="D">The respondent must be served with the petition and ex parte order immediately after the child is taken into physical custody.
+		</section>
+		<section prefix="E">An ex parte order to take physical custody of a child is enforceable throughout this Commonwealth. If the court finds on the basis of the testimony of the petitioner or other witness that a less intrusive remedy is not effective, it may authorize law-enforcement officers to enter private property to take physical custody of the child. If required by exigent circumstances of the case, the court may authorize law-enforcement officers to make a forcible entry at any hour.
+		</section>
+		<section prefix="F">The court may impose conditions upon placement of a child to ensure the appearance of the child and the child's custodian.
+		</section>
+	</text>
+	<history>2001, c. 305.</history>
+</law>

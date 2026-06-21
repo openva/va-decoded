@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="11.1" level="3">Domestication</unit>
+	</structure>
+	<section_number>13.1-898.6</section_number>
+	<catch_line>Effect of domestication</catch_line>
+	<text>
+		<section prefix="A">When a foreign corporation's certificate of domestication in the Commonwealth becomes effective, with respect to that corporation:
+			<section prefix="1">The title to all real estate and other property remains in the corporation without reversion or impairment;
+			</section>
+			<section prefix="2">The liabilities remain the liabilities of the corporation;
+			</section>
+			<section prefix="3">A proceeding pending may be continued by or against the corporation as if the domestication did not occur;
+			</section>
+			<section prefix="4">The articles of incorporation attached to the articles of domestication constitute the articles of incorporation of the corporation; and
+			</section>
+			<section prefix="5">The corporation is deemed to:
+				a. Be incorporated under the laws of the Commonwealth for all purposes;
+				b. Be the same corporation as the corporation that existed under the laws of the jurisdiction or jurisdictions in which it was originally incorporated or formerly domiciled; and
+				c. Have been incorporated on the date it was originally incorporated or organized.
+			</section>
+		</section>
+		<section prefix="B">Any member or director of a foreign corporation that domesticates into the Commonwealth who, prior to the domestication, was liable for the liabilities or obligations of the corporation is not released from those liabilities or obligations by reason of the domestication.
+		</section>
+	</text>
+	<history>2003, c. 374; 2007, c. 925.</history>
+</law>

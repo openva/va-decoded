@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="45" level="4">Investment of Public Funds Act</unit>
+	</structure>
+	<section_number>2.2-4518</section_number>
+	<catch_line>Investment of funds in deposits</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any provision of law to the contrary, the Commonwealth and all public officers, municipal corporations, other political subdivisions, and all other public bodies of the Commonwealth, each referred to in this section as a "public entity," may invest any or all of the moneys belonging to them or within their control in accordance with the following conditions:
+			<section prefix="1">The moneys are initially invested through any federally insured bank or savings institution selected by the public entity that is qualified by the Virginia Treasury Board to accept public deposits;
+			</section>
+			<section prefix="2">The selected bank or savings institution arranges for the deposit of the moneys in one or more federally insured banks or savings institutions wherever located, for the account of the public entity;
+			</section>
+			<section prefix="3">The full amount of principal and any accrued interest of each such deposit is covered by federal deposit insurance;
+			</section>
+			<section prefix="4">The selected bank or savings institution acts as custodian for the public entity with respect to each deposit issued for the public entity's account; and
+			</section>
+			<section prefix="5">At the same time that the public entity's moneys are deposited, the selected bank or savings institution receives an amount of deposits from customers of other financial institutions wherever located equal to or greater than the amount of moneys invested by the public entity through the selected bank or savings institution.
+			</section>
+		</section>
+		<section prefix="B">After deposits are made in accordance with the conditions prescribed in subsection A, such deposits shall not be subject to the provisions of Chapter 44 (§ 2.2-4400 et seq.), § 2.2-4515, or any security or collateral requirements that may otherwise be applicable to the investment or deposit of public moneys by government investors.
+		</section>
+	</text>
+	<history>2008, c. 103; 2010, c. 33.</history>
+</law>

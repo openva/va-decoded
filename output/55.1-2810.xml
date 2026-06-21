@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="V" level="2">Miscellaneous</unit>
+		<unit label="chapter" identifier="28" level="3">Trespasses; Fences</unit>
+		<unit label="article" identifier="4" level="4">Trespass in Crossing Lawful Fence</unit>
+	</structure>
+	<section_number>55.1-2810</section_number>
+	<catch_line>Damages for trespass by animals; punitive and double damages</catch_line>
+	<text>
+		<section prefix="A">If any domesticated livestock enters into any grounds enclosed by a lawful fence, as defined in §§ 55.1-2804 through 55.1-2807, the owner or manager of any such animal shall be liable for the actual damages sustained.
+		</section>
+		<section prefix="B">Punitive damages may be awarded but shall not exceed $20 in any case.
+		</section>
+		<section prefix="C">For every second and subsequent trespass, the owner or manager of such animal shall be liable for double damages, both actual and punitive.
+		</section>
+	</text>
+	<history>Code 1950, §§ 8-874 through 8-876; 1977, c. 624, § 55-306; 1979, c. 486; 2019, c. 712.</history>
+</law>

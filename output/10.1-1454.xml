@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="7" level="4">Transportation of Hazardous Materials</unit>
+	</structure>
+	<section_number>10.1-1454</section_number>
+	<catch_line>Transportation under United States regulations</catch_line>
+	<text>
+		Any person transporting hazardous materials in accordance with regulations promulgated under the laws of the United States, shall be deemed to have complied with the provisions of this article, except when such transportation is excluded from regulation under the laws or regulations of the United States.
+	</text>
+	<history>1986, c. 492, § 10-309; 1988, c. 891.</history>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="3" level="5">Registration of Lobbyists</unit>
+	</structure>
+	<section_number>2.2-421</section_number>
+	<catch_line>Reporting requirements for certain state agencies</catch_line>
+	<text>
+		<section prefix="A">The chief administrative officer of each board, department, institution, or agency of the Commonwealth shall file a registration statement with the Secretary of the Commonwealth on behalf of the officers and employees who will be engaged in lobbying as defined in § 2.2-419 and shall comply with the provisions of this article that require lobbyists to register with the Secretary of the Commonwealth. No fee shall be collected for registrations required by this section.
+		</section>
+		<section prefix="B">Any state governmental body required to file a registration under this section shall comply with the provisions of this article relating to registration.
+		</section>
+		<section prefix="C">The registration requirements of this section shall not apply to:
+			<section prefix="1">The Governor, Lieutenant Governor, Attorney General and their immediate staffs, or the Governor's Secretaries and their deputies and immediate staffs, acting in an official capacity;
+			</section>
+			<section prefix="2">Members of the General Assembly and other legislative officials and legislative employees acting in an official capacity;
+			</section>
+			<section prefix="3">The chief administrative officer of each department or division in the executive branch of state government;
+			</section>
+			<section prefix="4">The chief administrative officer of each division of the State Corporation Commission; or
+			</section>
+			<section prefix="5">Any state government employee acting in an official capacity.
+			</section>
+		</section>
+	</text>
+	<history>1994, c. 915, § 2.1-781.1; 2001, c. 844.</history>
+</law>

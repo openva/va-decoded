@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>20-146.9</section_number>
+	<catch_line>Communication between courts</catch_line>
+	<text>
+		<section prefix="A">Before finding and exercising jurisdiction, a court of this Commonwealth shall communicate with the court appearing to have jurisdiction in any other state concerning a proceeding arising under this act.
+		</section>
+		<section prefix="B">The court may allow the parties to participate in the communication. If the parties are not able to participate in the communication, they must be given the opportunity to present facts and legal arguments before a decision on jurisdiction is made.
+		</section>
+		<section prefix="C">Communication between courts on schedules, calendars, court records, and similar matters may occur without informing the parties. A record need not be made of the communication.
+		</section>
+		<section prefix="D">Except as otherwise provided in subsection C, a record must be made of a communication under this section. The parties must be informed promptly of the communication and granted access to the record.
+		</section>
+		<section prefix="E">For the purposes of this section, "record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+		</section>
+	</text>
+	<history>2001, c. 305.</history>
+</law>

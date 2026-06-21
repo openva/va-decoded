@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="3" level="2">Election Districts, Precincts, and Polling Places</unit>
+		<unit label="article" identifier="3" level="3">Requirements for Election Districts, Precincts, and Polling Places</unit>
+	</structure>
+	<section_number>24.2-305</section_number>
+	<catch_line>Composition of election districts and precincts</catch_line>
+	<text>
+		<section prefix="A">Each election district and precinct shall be composed of compact and contiguous territory and shall have clearly defined and clearly observable boundaries.
+		</section>
+		<section prefix="B">A "clearly observable boundary" shall include (i) any named road or street, (ii) any road or highway which is a part of the federal, primary, or secondary state highway system, (iii) any river, stream, or drainage feature shown as a polygon boundary on the TIGER/line files of the United States Bureau of the Census, or (iv) any other natural or constructed or erected permanent physical feature which is shown on an official map issued by the Virginia Department of Transportation, on a United States Geological Survey topographical map, or as a polygon boundary on the TIGER/line files of the United States Bureau of the Census. No property line or subdivision boundary shall be deemed to be a clearly observable boundary unless it is marked by a permanent physical feature that is shown on an official map issued by the Virginia Department of Transportation, on a United States Geological Survey topographical map, or as a polygon boundary on the TIGER/line files of the United States Bureau of the Census.
+		</section>
+	</text>
+	<history>1986, c. 593, § 24.1-40.7; 1990, c. 500; 1992, c. 425; 1993, c. 641; 2001, c. 614.</history>
+</law>

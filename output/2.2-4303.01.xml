@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4303.01</section_number>
+	<catch_line>High-risk contracts; definition; review</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section, "high-risk contract" means any public contract with a state public body for the procurement of goods, services, insurance, or construction that is anticipated to either (i) cost in excess of $10 million over the initial term of the contract or (ii) cost in excess of $5 million over the initial term of the contract and meet at least one of the following criteria: (a) the goods, services, insurance, or construction that is the subject of the contract is being procured by two or more state public bodies; (b) the anticipated term of the initial contract, excluding renewals, is greater than five years; or (c) the state public body procuring the goods, services, insurance, or construction has not procured similar goods, services, insurance, or construction within the last five years.
+		</section>
+		<section prefix="B">Prior to issuing a solicitation for a high-risk contract, a state public body shall submit such solicitation for review by (i) the Office of the Attorney General, (ii) the Department of General Services for solicitations for goods and nonprofessional and professional services that are not for (a) information technology or (b) road or rail construction or design, and (iii) the Virginia Information Technologies Agency for solicitations for goods and services related to information technology. Such reviews shall be completed within 30 business days and include an evaluation of the extent to which the solicitation complies with applicable state law and policy, as well as an evaluation of the appropriateness of the solicitation's terms and conditions. In addition, the review shall ensure that such solicitations for high-risk contracts contain distinct and measurable performance metrics and clear enforcement provisions, including penalties or incentives, to be used in the event that contract performance metrics or other provisions are not met.
+		</section>
+		<section prefix="C">Prior to awarding a high-risk contract, a state public body shall submit such contract for review by (i) the Office of the Attorney General, (ii) the Department of General Services for contracts for goods and nonprofessional and professional services that are not for (a) information technology or (b) road or rail construction or design, and (iii) the Virginia Information Technologies Agency for contracts for goods and services related to information technology. Such reviews shall be completed within 30 business days and include an evaluation of the extent to which the contract complies with applicable state law and policy, as well as an evaluation of the legality and appropriateness of the contract's terms and conditions. In addition, the review shall ensure that such high-risk contracts contain distinct and measurable performance metrics and clear enforcement provisions, including penalties or incentives, to be used in the event that contract performance metrics or other provisions are not met.
+		</section>
+		<section prefix="D">The Department of General Services' central electronic procurement system shall serve as a centralized resource for all state public bodies on information related to the performance of high-risk contracts. All state public bodies shall submit information on high-risk contracts for inclusion in the system. Such information shall include, but not be limited to, the following information on each high-risk contract:
+			<section prefix="1">Scheduled contract performance dates and actual contract completion dates;
+			</section>
+			<section prefix="2">Contract award value and actual contract expenditures; and
+			</section>
+			<section prefix="3">Information on vendor performance, including any cure letters, formal complaints, and end-of-contract evaluations.
+			</section>
+		</section>
+	</text>
+	<history>2019, c. 601; 2020, c. 431.</history>
+</law>

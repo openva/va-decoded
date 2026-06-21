@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="4" level="5">Ventilation, Mine Gases, and Other Hazardous Conditions</unit>
+	</structure>
+	<section_number>45.2-842</section_number>
+	<catch_line> Ventilation controls</catch_line>
+	<text>
+		<section prefix="A">Ventilation shall be so arranged by means of air locks, overcasts, or undercasts that the passage of a haulage trip or person along the entries will cause no interruption of the air current. Each air lock shall be ventilated sufficiently to prevent an accumulation of methane therein.
+		</section>
+		<section prefix="B">Air lock doors that are used in lieu of permanent stoppings or to control ventilation within an air course shall be (i) made of incombustible material or coated on all accessible surfaces with flame-retardant material having a flame spread index of 25 or less as tested under ASTM E162 and (ii) of sufficient strength to serve their intended purpose of maintaining separation and permitting travel between or within air courses or entries.
+		</section>
+		<section prefix="C">To provide easy access between the return, belt, and intake escapeway entries, substantially constructed man-doors that are properly marked so as to be readily detected shall be installed in at least every fifth crosscut in the stopping line separating such entries.
+		</section>
+		<section prefix="D">Doors shall be kept closed except when a miner or piece of equipment is passing through the doorway. Any motor crew or other miner who opens such doors shall see that they are closed before leaving them.
+		</section>
+		<section prefix="E">Overcasts, undercasts, and regulators shall be well-constructed; of incombustible material, such as masonry, concrete, concrete block, or prefabricated metal; and (i) of sufficient strength to withstand possible falls from the roof, (ii) of ample area to pass the required quantity of air, and (iii) kept clear of obstructions.
+		</section>
+	</text>
+	<history>Code 1950, § 45-60.4; 1954, c. 191; 1966, c. 594, § 45.1-60; 1993, c. 442; 1994, c. 28, § 45.1-161.225; 1996, c. 774; 2005, c. 3; 2021, Sp. Sess. I, c. 387.</history>
+</law>

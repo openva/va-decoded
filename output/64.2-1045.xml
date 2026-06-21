@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="3" level="4">Unitrust</unit>
+	</structure>
+	<section_number>64.2-1045</section_number>
+	<catch_line>Applicable value</catch_line>
+	<text>
+		<section prefix="A">A unitrust policy must provide the method for determining the fair market value of an asset for the purpose of determining the unitrust amount, including:
+			<section prefix="1">The frequency of valuing the asset, which need not require a valuation in every period; and
+			</section>
+			<section prefix="2">The date for valuing the asset in each period in which the asset is valued.
+			</section>
+		</section>
+		<section prefix="B">Except as otherwise provided in subdivision B 2 of § 64.2-1047, a unitrust policy may provide methods for determining the amount of the net fair market value of the trust to take into account in determining the applicable value, including:
+			<section prefix="1">Obtaining an appraisal of an asset for which fair market value is not readily available;
+			</section>
+			<section prefix="2">Exclusion of specific assets or groups or types of assets;
+			</section>
+			<section prefix="3">Other exceptions or modifications of the treatment of specific assets or groups or types of assets;
+			</section>
+			<section prefix="4">Identification and treatment of cash or property held for distribution;
+			</section>
+			<section prefix="5">Use of:
+				a. An average of fair market values over a stated number of preceding periods; or
+				b. Another mathematical blend of fair market values over a stated number of preceding periods;
+			</section>
+			<section prefix="6">A limit on how much the applicable value of all assets, groups of assets, or individual assets may increase over:
+				a. The corresponding applicable value for the preceding period; or
+				b. A mathematical blend of applicable values over a stated number of preceding periods;
+			</section>
+			<section prefix="7">A limit on how much the applicable value of all assets, groups of assets, or individual assets may decrease below:
+				a. The corresponding applicable value for the preceding period; or
+				b. A mathematical blend of applicable values over a stated number of preceding periods;
+			</section>
+			<section prefix="8">The treatment of accrued income and other features of an asset that affect value; and
+			</section>
+			<section prefix="9">Determining the liabilities of the trust, including treatment of liabilities to conform with the treatment of assets under subdivisions 1 through 8.
+			</section>
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

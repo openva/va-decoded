@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="7" level="3">Assignment of Partnership Interests</unit>
+	</structure>
+	<section_number>50-73.46:1</section_number>
+	<catch_line>Partner's transferable interest subject to charging order</catch_line>
+	<text>
+		<section prefix="A">On application by a judgment creditor of a partner or of a partner's assignee, a court having jurisdiction may charge the transferable interest of the judgment debtor to satisfy the judgment. To the extent so charged, the judgment creditor has only the right to receive any distribution or distributions to which the judgment debtor would otherwise have been entitled in respect of the interest.
+		</section>
+		<section prefix="B">A charging order constitutes a lien on the judgment debtor's transferable interest in the limited partnership.
+		</section>
+		<section prefix="C">This chapter does not deprive a partner or a partner's assignee of a right under exemption laws with respect to the judgment debtor's interest in the limited partnership.
+		</section>
+		<section prefix="D">The entry of a charging order is the exclusive remedy by which a judgment creditor of a partner or of a partner's assignee may satisfy a judgment out of the judgment debtor's transferable interest in the limited partnership.
+		</section>
+		<section prefix="E">No creditor of a partner or of a partner's assignee shall have any right to obtain possession of, or otherwise exercise legal or equitable remedies with respect to, the property of the limited partnership.
+		</section>
+	</text>
+	<history>2004, c. 601; 2006, c. 912.</history>
+</law>

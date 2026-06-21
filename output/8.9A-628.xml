@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="2" level="3">Noncompliance with Title</unit>
+	</structure>
+	<section_number>8.9A-628</section_number>
+	<catch_line>Nonliability and limitation on liability of secured party; liability of secondary obligor</catch_line>
+	<text>
+		<section prefix="a">Limitation of liability of secured party for noncompliance with title. Subject to subsection (f), unless a secured party knows that a person is a debtor or obligor, knows the identity of the person, and knows how to communicate with the person:
+			<section prefix="1">the secured party is not liable to the person, or to a secured party or lienholder that has filed a financing statement against the person, for failure to comply with this title; and
+			</section>
+			<section prefix="2">the secured party's failure to comply with this title does not affect the liability of the person for a deficiency.
+			</section>
+		</section>
+		<section prefix="b">Limitation of liability based on status as secured party. Subject to subsection (f), a secured party is not liable because of its status as secured party:
+			<section prefix="1">to a person that is a debtor or obligor, unless the secured party knows:
+			</section>
+		</section>
+		<section prefix="A">that the person is a debtor or obligor;
+		</section>
+		<section prefix="B">the identity of the person; and
+		</section>
+		<section prefix="C">how to communicate with the person; or
+			<section prefix="2">to a secured party or lienholder that has filed a financing statement against a person, unless the secured party knows:
+			</section>
+		</section>
+		<section prefix="A">that the person is a debtor; and
+		</section>
+		<section prefix="B">the identity of the person.
+		</section>
+		<section prefix="c">Limitation of liability if reasonable belief that transaction not a consumer-goods transaction or consumer transaction. A secured party is not liable to any person, and a person's liability for a deficiency is not affected, because of any act or omission arising out of the secured party's reasonable belief that a transaction is not a consumer-goods transaction or a consumer transaction or that goods are not consumer goods, if the secured party's belief is based on its reasonable reliance on:
+			<section prefix="1">a debtor's representation concerning the purpose for which collateral was to be used, acquired, or held; or
+			</section>
+			<section prefix="2">an obligor's representation concerning the purpose for which a secured obligation was incurred.
+			</section>
+		</section>
+		<section prefix="d">Limitation of liability for statutory damages. A secured party is not liable to any person under § 8.9A-625 (c) (2) for its failure to comply with § 8.9A-616.
+		</section>
+		<section prefix="e">Limitation of multiple liability for statutory damages. A secured party is not liable under § 8.9A-625 (c) (2) more than once with respect to any one secured obligation.
+		</section>
+		<section prefix="f">Limitation of liability under subsections (a) and (b) does not apply. Subsections (a) and (b) do not apply to limit the liability of a secured party to a person if, at the time the secured party obtains control of collateral that is a controllable account, controllable electronic record, or controllable payment intangible or at the time the security interest attaches to the collateral, whichever is later:
+			<section prefix="1">the person is a debtor or obligor; and
+			</section>
+			<section prefix="2">the secured party knows that the information in subsection (b)(1)(A), (B), or (C) relating to the person is not provided by the collateral, a record attached to or logically associated with the collateral, or the system in which the collateral is recorded.
+			</section>
+		</section>
+	</text>
+	<history>2000, c. 1007; 2024, c. 652.</history>
+</law>

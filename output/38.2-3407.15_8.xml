@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3407.15:8</section_number>
+	<catch_line>(Effective January 1, 2027) Carrier contracts; required provisions regarding prior authorization for health care services</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Carrier" has the same meaning as provided in subsection A of § 38.2-3407.15.
+			"Expedited" means, in relation to a health care service or a prior authorization request for a health care service, that the delay of such service could seriously jeopardize the enrollee's life, health, or ability to regain maximum function.
+			"Health care services" has the same meaning as provided in § 38.2-3407.15, except that as used in this section, "health care services" does not include drugs that are subject to the requirements of § 38.2-3407.15:2.
+			"Prior authorization" means the approval process used by a carrier before certain health care services may be provided.
+			"Provider" has the same meaning as provided in § 38.2-3407.10.
+			"Provider contract" has the same meaning as provided in subsection A of § 38.2-3407.15.
+			"Standard" means, in relation to a health care service or a prior authorization request for a health care service, that such health care service or prior authorization request is not expedited.
+			"Supplementation" means a request communicated by the carrier to the provider or his designee for additional information, limited to items specifically requested on the applicable prior authorization request, necessary to approve or deny such request.
+		</section>
+		<section prefix="B">Any provider contract between a carrier and a participating health care provider or its contracting agent shall contain specific provisions that:
+			<section prefix="1">Require that the carrier communicate electronically or telephonically to the provider or his designee within 72 hours, including weekend hours, of submission of an expedited prior authorization request to the carrier that the request is approved, denied, or requires supplementation;
+			</section>
+			<section prefix="2">Require that the carrier communicate electronically or telephonically to the provider or his designee within seven calendar days of submission of a standard prior authorization request to the carrier that the request is approved, denied, or requires supplementation;
+			</section>
+			<section prefix="3">Where supplementation is required, require the carrier to specify to the provider or his designee the supplementation necessary for the carrier to make a final determination that the request is approved or denied, and following properly completed supplementation from the provider or his designee, require the carrier to approve or deny the request within the timeframes specified in subdivisions 1 and 2;
+			</section>
+			<section prefix="4">Require that if a prior authorization request is approved for health care services and such health care services have been scheduled or provided to the enrollee consistent with the authorization, the carrier shall not revoke, limit, condition, modify, or restrict that authorization unless (i) the provider requests a change, (ii) there is evidence that the authorization was obtained based on fraud or misrepresentation, or (iii) a final action by a federal regulatory agency or the manufacturer removes an approved health care service from the market, limits its use in a manner impacting the prior authorization, or communicates a patient safety issue that would impact the prior authorization. Nothing in this section shall require a carrier to authorize any health care service if the enrollee is no longer enrolled in the health plan; and
+			</section>
+			<section prefix="5">Require that if the prior authorization request is denied, the carrier shall communicate electronically or telephonically to the provider or his designee within the timeframes established by subdivision 1 or 2, as applicable, the reasons for the denial.
+			</section>
+		</section>
+		<section prefix="C">If a carrier requires prior authorization for certain health care services to be covered, the carrier shall make available through one central location on the carrier's publicly accessible website or other electronic application the list of services and codes for which prior authorization is required. A carrier must notify providers at least 30 calendar days in advance of the effective date of any changes to the list of prior authorization requirements and update the publicly accessible list of services and codes for which prior authorization is required by the effective date of any new requirement. All of the carrier's prior authorization procedures and all prior authorization request forms accepted by the carrier shall also be made available and updated by the carrier on the publicly accessible website or other electronic application by the effective date of any new requirements. The carrier shall also indicate the effective date of the prior authorization requirements for each service on the list, including those services where prior authorization is performed by an entity under contract with the carrier, provided, however, that if the prior authorization was already required prior to January 1, 2027, the carrier may indicate an effective date of January 1, 2027.
+		</section>
+		<section prefix="D">A carrier shall not deny a claim for failure to obtain prior authorization if the prior authorization requirements for the date of service were not posted on the publicly accessible website or other electronic application in accordance with subsection C.
+		</section>
+		<section prefix="E">Nothing in this section shall prohibit a carrier from removing prior authorization requirements without the 30-day notice period to providers in the event of a pandemic, a natural disaster, or any other emergency situations.
+		</section>
+		<section prefix="F">Each carrier shall make available by posting on its website no later than March 31 of each year the prior authorization data for prior authorizations covered by this section for the previous calendar year at the health plan level for all metrics required for compliance with federal law and the regulations of the Centers for Medicare and Medicaid Services, including those promulgated under 42 C.F.R. §§ 422.122(c), 438.210(f), 440.230(e)(3), and 457.732(c).
+		</section>
+		<section prefix="G">Notwithstanding any law to the contrary, no provision of this section shall apply to any health maintenance organization that (i) contracts with a multispecialty group of physicians who are employed by and are shareholders of such multispecialty group, which multispecialty group may also contract with health care providers in the community, and (ii) provides and arranges for the provision of physician services by the physician members of such multispecialty group or by such contracted health care providers.
+		</section>
+		<section prefix="H">The Commission shall have no jurisdiction to adjudicate individual controversies arising out of this section.
+		</section>
+		<section prefix="I">Pursuant to the authority granted by § 38.2-223, the Commission may promulgate such rules and regulations as it may deem necessary to implement this section.
+		</section>
+	</text>
+	<history>2025, cc. 58, 68.</history>
+</law>

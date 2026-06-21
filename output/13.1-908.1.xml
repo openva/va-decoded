@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="13" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-908.1</section_number>
+	<catch_line>Other claims against dissolved corporation</catch_line>
+	<text>
+		<section prefix="A">A dissolved corporation may also (i) deliver notice of its dissolution to any known claimant with a liability or claim that pursuant to subsection D of § 13.1-908 is not treated as a claim for purposes of § 13.1-908 and (ii) publish notice of its dissolution one time in a newspaper of general circulation in the city or county where the dissolved corporation's principal office, or, if none in the Commonwealth, its registered office, is or was last located. The notice of dissolution shall request that persons with claims against the dissolved corporation present them in accordance with the notice.
+		</section>
+		<section prefix="B">The notice shall:
+			<section prefix="1">Describe the information that is required to be included in a claim and provide a mailing address to which the claim may be sent; and
+			</section>
+			<section prefix="2">State that a claim against the dissolved corporation will be barred unless a proceeding to enforce the claim is commenced prior to the earlier of the expiration of any applicable statute of limitations or three years after the date of delivery of notice to the claimant, or the date of publication of the notice, as appropriate.
+			</section>
+		</section>
+		<section prefix="C">If the dissolved corporation provides notice of its dissolution in accordance with this section, the claim of each of the following claimants is barred unless the claimant commences a proceeding to enforce the claim against the dissolved corporation prior to the earlier of the expiration of any applicable statute of limitations or three years after the date on which notice was delivered to the claimant or published, as appropriate:
+			<section prefix="1">A claimant who was not given written notice under § 13.1-908;
+			</section>
+			<section prefix="2">A claimant whose claim was timely sent to the dissolved corporation but not acted on; and
+			</section>
+			<section prefix="3">A claimant whose claim pursuant to subsection D of § 13.1-908 is not treated as a claim for purposes of § 13.1-908.
+			</section>
+		</section>
+		<section prefix="D">A claim that is not barred by subsection C of § 13.1-908 or subsection C of this section may be enforced:
+			<section prefix="1">Against the dissolved corporation, to the extent of its undistributed assets; or
+			</section>
+			<section prefix="2">Except as provided in subsection D of § 13.1-908.2, if the assets have been distributed in liquidation, against a member of the dissolved corporation to the extent of the member's pro rata share of the claim or the corporate assets distributed to the member in liquidation, whichever is less, but a member's total liability for all claims under this section may not exceed the total amount of assets distributed to the member.
+			</section>
+		</section>
+	</text>
+	<history>2007, c. 925; 2015, c. 611.</history>
+</law>

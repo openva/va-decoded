@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="55" level="2">Risk-Based Capital Act</unit>
+	</structure>
+	<section_number>38.2-5504</section_number>
+	<catch_line>Regulatory Action Level Event</catch_line>
+	<text>
+		<section prefix="A">"Regulatory Action Level Event" means, with respect to any licensee, any of the following events:
+			<section prefix="1">The filing of an RBC Report by the licensee which indicates that the licensee's Total Adjusted Capital is greater than or equal to its Authorized Control Level RBC but less than its Regulatory Action Level RBC;
+			</section>
+			<section prefix="2">The notification by the Commission to a licensee of an Adjusted RBC Report that indicates the event in subdivision A 1, provided the licensee does not challenge the Adjusted RBC Report under § 38.2-5507;
+			</section>
+			<section prefix="3">If, pursuant to § 38.2-5507, the licensee challenges an Adjusted RBC Report that indicates the event in subdivision A 1, the notification by the Commission to the licensee that the Commission has, after a hearing, rejected the licensee's challenge;
+			</section>
+			<section prefix="4">The failure of the licensee to file an RBC Report by the filing date, unless the licensee has provided an explanation for such failure which is satisfactory to the Commission and has cured the failure within ten days after the filing date;
+			</section>
+			<section prefix="5">The failure of the licensee to submit an RBC Plan to the Commission within the time period set forth in subsection C of § 38.2-5503;
+			</section>
+			<section prefix="6">Notification by the Commission to the licensee that:
+				a. The RBC Plan or Revised RBC Plan submitted by the licensee is, in the judgment of the Commission, unsatisfactory; and
+				b. Such notification constitutes a Regulatory Action Level Event with respect to the licensee, provided the licensee has not challenged the determination under § 38.2-5507;
+			</section>
+			<section prefix="7">If, pursuant to § 38.2-5507, the licensee challenges a determination by the Commission under subdivision A 6, the notification by the Commission to the licensee that the Commission has, after a hearing, rejected such challenge;
+			</section>
+			<section prefix="8">Notification by the Commission to the licensee that the licensee has failed to adhere to its RBC Plan or Revised RBC Plan, but only if such failure has a substantial adverse effect on the ability of the licensee to eliminate the Company Action Level Event in accordance with its RBC Plan or Revised RBC Plan and the Commission has so stated in the notification, provided the licensee has not challenged the determination under § 38.2-5507; or
+			</section>
+			<section prefix="9">If, pursuant to § 38.2-5507, the licensee challenges a determination by the Commission under subdivision A 8, the notification by the Commission to the licensee that the Commission has, after a hearing, rejected the challenge.
+			</section>
+		</section>
+		<section prefix="B">In the event of a Regulatory Action Level Event, the Commission shall:
+			<section prefix="1">Require the licensee to prepare and submit an RBC Plan or, if applicable, a Revised RBC Plan;
+			</section>
+			<section prefix="2">Perform such examination or analysis as the Commission deems necessary of the assets, liabilities and operations of the licensee including a review of its RBC Plan or Revised RBC Plan; and
+			</section>
+			<section prefix="3">Subsequent to the examination or analysis, issue a corrective order specifying such corrective actions as the Commission shall determine are required. In determining corrective actions, the Commission may take into account such factors as are deemed relevant with respect to the licensee based upon the Commission's examination or analysis of the assets, liabilities and operations of the licensee, including, but not limited to, the results of any sensitivity tests undertaken pursuant to the RBC Instructions.
+			</section>
+		</section>
+		<section prefix="C">The RBC Plan or Revised RBC Plan shall be submitted:
+			<section prefix="1">Within forty-five days after the occurrence of the Regulatory Action Level Event;
+			</section>
+			<section prefix="2">If the licensee challenges an Adjusted RBC Report pursuant to § 38.2-5507 and the challenge is not frivolous in the judgment of the Commission, within forty-five days after the notification to the licensee that the Commission has, after a hearing, rejected the licensee's challenge; or
+			</section>
+			<section prefix="3">If the licensee challenges a Revised RBC Plan under § 38.2-5507 and the challenge is not frivolous in the judgment of the Commission, within forty-five days after notification to the licensee that the Commission has, after a hearing, rejected the licensee's challenge.
+			</section>
+		</section>
+		<section prefix="D">The Commission may retain actuaries and investment experts and other consultants as may be necessary in the judgment of the Commission to review the licensee's RBC Plan or Revised RBC Plan, examine or analyze the assets, liabilities and operations, including contractual relationships, of the licensee and formulate the corrective order with respect to the licensee. The fees, costs and expenses relating to consultants shall be borne by the affected licensee or such other party as directed by the Commission.
+		</section>
+	</text>
+	<history>1995, c. 789; 2000, c. 47.</history>
+</law>

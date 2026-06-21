@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions; Charters; Other Forms and Organization of Counties</unit>
+		<unit label="chapter" identifier="6" level="3">County Manager Form of Government</unit>
+		<unit label="article" identifier="2" level="4">General Powers; County Manager Form</unit>
+	</structure>
+	<section_number>15.2-615</section_number>
+	<catch_line>Activities for which manager is responsible</catch_line>
+	<text>
+		The county manager shall be responsible to the board for the administration of the following activities:
+		<section prefix="1">The assessment of property for taxation and the preparation of the tax books;
+		</section>
+		<section prefix="2">The collection of taxes, fees and other revenues of the county;
+		</section>
+		<section prefix="3">The custody of and accounting for all public funds belonging to the county;
+		</section>
+		<section prefix="4">The procurement of goods, services, insurance and construction for the county;
+		</section>
+		<section prefix="5">The care of all county buildings;
+		</section>
+		<section prefix="6">The care and custody of all personal property of the county;
+		</section>
+		<section prefix="7">The construction and maintenance of county roads and bridges;
+		</section>
+		<section prefix="8">The administration of social service activities;
+		</section>
+		<section prefix="9">Public health work;
+		</section>
+		<section prefix="10">Such other activities of the county not specifically assigned to another officer or agency by this form of county organization and government or by other law.
+		</section>
+	</text>
+	<history>Code 1950, § 15-318; 1962, c. 623, § 15.1-638; 1997, c. 587.</history>
+</law>

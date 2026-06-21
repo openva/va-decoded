@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="11" level="3">Amendment of Articles of Incorporation and Bylaws</unit>
+	</structure>
+	<section_number>13.1-713</section_number>
+	<catch_line>Effect of amendment of articles of incorporation</catch_line>
+	<text>
+		<section prefix="A">An amendment of the articles of incorporation does not affect a cause of action existing against or in favor of the corporation, a proceeding to which the corporation is a party, or the existing rights of persons other than the shareholders of the corporation. An amendment changing a corporation's name does not affect a proceeding brought by or against the corporation in its former name.
+		</section>
+		<section prefix="B">A shareholder who becomes subject to new interest holder liability in respect of the corporation as a result of an amendment of the articles of incorporation shall have that new interest holder liability only in respect of interest holder liabilities that arise after the amendment becomes effective.
+		</section>
+		<section prefix="C">Except as otherwise provided in the articles of incorporation, the interest holder liability of a shareholder who had interest holder liability in respect of the corporation before the amendment becomes effective and has new interest holder liability after the amendment becomes effective shall be as follows:
+			<section prefix="1">The amendment does not discharge that prior interest holder liability with respect to any interest holder liabilities that arose before the amendment becomes effective.
+			</section>
+			<section prefix="2">The provisions of the articles of incorporation relating to interest holder liability as in effect immediately prior to the amendment shall continue to apply to the collection or discharge of any interest holder liabilities preserved by subdivision 1, as if the amendment had not occurred.
+			</section>
+			<section prefix="3">The shareholder shall have such rights of contribution from other persons as are provided by the articles of incorporation relating to interest holder liability as in effect immediately prior to the amendment with respect to any interest holder liabilities preserved by subdivision 1, as if the amendment had not occurred.
+			</section>
+			<section prefix="4">The shareholder shall not, by reason of such prior interest holder liability, have interest holder liability with respect to any interest holder liabilities that arise after the amendment becomes effective.
+			</section>
+		</section>
+		<section prefix="D">As used in this section, "new interest holder liability" has the same meaning as provided in § 13.1-707.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-60; 1956, c. 428; 1985, c. 522; 2005, c. 765; 2019, c. 734.</history>
+</law>

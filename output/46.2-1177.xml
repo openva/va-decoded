@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="10" level="3">Motor Vehicle and Equipment Safety</unit>
+		<unit label="article" identifier="22" level="4">Emissions Inspections</unit>
+	</structure>
+	<section_number>46.2-1177</section_number>
+	<catch_line>Emissions inspection program</catch_line>
+	<text>
+		The Director shall administer an emissions inspection program. Such program shall require biennial inspections of motor vehicles at official emissions inspection stations in accordance with this article and may require additional inspections of motor vehicles that have been shown by on-road testing to exceed emissions standards established by the Board.
+		The emissions inspections required in § 46.2-1178 shall not apply to any:
+		<section prefix="1">Vehicle powered by a clean special fuel as defined in § 46.2-749.3, provided provisions of the federal Clean Air Act permit such exemption for vehicles powered by a clean special fuel;
+		</section>
+		<section prefix="2">Motorcycle or autocycle, unless such autocycle has been emissions certified with an on-board diagnostic system by the U.S. Environmental Protection Agency;
+		</section>
+		<section prefix="3">Vehicle which, at the time of its manufacture was not designed to meet emissions standards set or approved by the federal government;
+		</section>
+		<section prefix="4">Antique motor vehicle as defined in § 46.2-100 and licensed pursuant to § 46.2-730;
+		</section>
+		<section prefix="5">Vehicle for which no testing standards have been adopted by the Board; or
+		</section>
+		<section prefix="6">Vehicle manufactured for the current model year or any of the three immediately preceding model years unless identified by the remote sensing program as violating the emissions standards established for that program.
+		</section>
+	</text>
+	<history>1980, c. 469, § 46.1-326.3; 1981, c. 624; 1988, c. 806; 1989, c. 727; 1993, cc. 995, 998; 1993, Sp. Sess., c. 2; 1995, cc. 836, 851; 2006, c. 729; 2015, cc. 95, 161.</history>
+</law>

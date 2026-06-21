@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="2" level="4">Motor Fuel Licensing</unit>
+	</structure>
+	<section_number>58.1-2214</section_number>
+	<catch_line>Notice of discontinuance, sale or transfer of business</catch_line>
+	<text>
+		<section prefix="A">A licensee who discontinues in the Commonwealth the business for which the license was issued shall notify the Commissioner in writing of such discontinuance and shall surrender the license to the Commissioner. The notice shall state the effective date of the discontinuance and, if the licensee has transferred the business or otherwise relinquished control to another person by sale or otherwise, the date of the sale or transfer and the name and address of the person to whom the business is transferred or relinquished. The notice shall also include any other information required by the Commissioner.
+		</section>
+		<section prefix="B">If the licensee is a supplier, all taxes for which the supplier is liable under this chapter but are not yet due shall be due on the date of the discontinuance. If the supplier has transferred the business to another person and does not give the notice required by this section, the person to whom the business was transferred shall be liable for the amount of any tax owed by the supplier to the Commonwealth on the date the business was transferred. The liability of the person to whom the business was transferred shall not exceed the value of the property acquired from the supplier.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="3" level="3">Injury to Person or Property</unit>
+	</structure>
+	<section_number>8.01-40.4</section_number>
+	<catch_line>Civil action for unlawful creation of image of another or unlawful dissemination or sale of images of another</catch_line>
+	<text>
+		<section prefix="A">Any person injured by an individual who engaged in conduct that is prohibited under § 18.2-386.1 or 18.2-386.2, whether or not the individual has been charged with or convicted of the alleged violation, may sue therefor and recover compensatory damages, punitive damages, and reasonable attorney fees and costs.
+		</section>
+		<section prefix="B">No action shall be commenced under this section more than two years after the later of (i) the date of the last act in violation of § 18.2-386.1 or 18.2-386.2, (ii) the date on which such person attained 18 years of age, or (iii) the date on which such person discovered or reasonably should have discovered the prohibited conduct.
+		</section>
+		<section prefix="C">Nothing in this section shall be construed to impose liability on an interactive computer service, as defined in 47 U.S.C. § 230(f), for content provided by another person.
+		</section>
+	</text>
+	<history>2017, c. 656.</history>
+</law>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="13" level="3">Support Proceeding Under Hague Convention</unit>
+	</structure>
+	<section_number>20-88.92</section_number>
+	<catch_line>Foreign support agreement</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsections C and D, a tribunal of the Commonwealth shall recognize and enforce a foreign support agreement registered in the Commonwealth.
+		</section>
+		<section prefix="B">An application or direct request for recognition and enforcement of a foreign support agreement must be accompanied by:
+			<section prefix="1">A complete text of the foreign support agreement; and
+			</section>
+			<section prefix="2">A record stating that the foreign support agreement is enforceable as an order of support in the issuing country.
+			</section>
+		</section>
+		<section prefix="C">A tribunal of the Commonwealth may vacate the registration of a foreign support agreement only if, acting on its own motion, the tribunal finds that recognition and enforcement would be manifestly incompatible with public policy.
+		</section>
+		<section prefix="D">In a contest of a foreign support agreement, a tribunal of the Commonwealth may refuse recognition and enforcement of the agreement if it finds that:
+			<section prefix="1">Recognition and enforcement of the agreement is manifestly incompatible with public policy;
+			</section>
+			<section prefix="2">The agreement was obtained by fraud or falsification;
+			</section>
+			<section prefix="3">The agreement is incompatible with a support order involving the same parties and having the same purpose in the Commonwealth, another state, or a foreign country if the support order is entitled to recognition and enforcement under this chapter in the Commonwealth; or
+			</section>
+			<section prefix="4">The record submitted under subsection B lacks authenticity or integrity.
+			</section>
+		</section>
+		<section prefix="E">A proceeding for recognition and enforcement of a foreign support agreement must be suspended during the pendency of a challenge to or appeal of the agreement before a tribunal of another state or a foreign country.
+		</section>
+	</text>
+	<history>2015, c. 727.</history>
+</law>

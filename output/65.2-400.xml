@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="4" level="2">Occupational Diseases</unit>
+	</structure>
+	<section_number>65.2-400</section_number>
+	<catch_line>"Occupational disease" defined</catch_line>
+	<text>
+		<section prefix="A">As used in this title, unless the context clearly indicates otherwise, the term "occupational disease" means a disease arising out of and in the course of employment, but not an ordinary disease of life to which the general public is exposed outside of the employment.
+		</section>
+		<section prefix="B">A disease shall be deemed to arise out of the employment only if there is apparent to the rational mind, upon consideration of all the circumstances:
+			<section prefix="1">A direct causal connection between the conditions under which work is performed and the occupational disease;
+			</section>
+			<section prefix="2">It can be seen to have followed as a natural incident of the work as a result of the exposure occasioned by the nature of the employment;
+			</section>
+			<section prefix="3">It can be fairly traced to the employment as the proximate cause;
+			</section>
+			<section prefix="4">It is neither a disease to which an employee may have had substantial exposure outside of the employment, nor any condition of the neck, back or spinal column;
+			</section>
+			<section prefix="5">It is incidental to the character of the business and not independent of the relation of employer and employee; and
+			</section>
+			<section prefix="6">It had its origin in a risk connected with the employment and flowed from that source as a natural consequence, though it need not have been foreseen or expected before its contraction.
+			</section>
+		</section>
+		<section prefix="C">Hearing loss and the condition of carpal tunnel syndrome are not occupational diseases but are ordinary diseases of life as defined in § 65.2-401.
+		</section>
+	</text>
+	<history>Code 1950, § 65-42; 1952, c. 603; 1968, c. 660, § 65.1-46; 1970, c. 470; 1986, c. 378; 1991, c. 355; 1997, cc. 15, 405.</history>
+</law>

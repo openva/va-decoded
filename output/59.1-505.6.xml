@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="5" level="3">Transfer of Interests and Rights</unit>
+	</structure>
+	<section_number>59.1-505.6</section_number>
+	<catch_line>Transfer by licensee</catch_line>
+	<text>
+		<section prefix="a">If all or any part of a licensee's interest in a license is transferred, voluntarily or involuntarily, the transferee does not acquire an interest in information, copies, or the contractual or informational rights of the licensee unless the transfer is effective under § 59.1-505.3 or § 59.1-505.8 (a) (1) (B). If the transfer is effective, the transferee takes subject to the terms of the license.
+		</section>
+		<section prefix="b">Except as otherwise provided under trade secret law, a transferee acquires no more than the contractual interest or other rights that the transferor was authorized to transfer.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

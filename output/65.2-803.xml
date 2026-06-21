@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="8" level="2">Insurance and Self-Insurance</unit>
+	</structure>
+	<section_number>65.2-803</section_number>
+	<catch_line>Administrator and service company affiliation prohibited; exception</catch_line>
+	<text>
+		<section prefix="A">No person, firm or corporation, which is engaged as an administrator for a group self-insurance association, shall be an employee, officer or director of, or have a direct or indirect financial interest in any person, firm or corporation which is engaged in the business of providing services for a group self-insurance association as a service company.
+		</section>
+		<section prefix="B">No person, firm or corporation, which is engaged in the business of providing services for a group self-insurance association as a service company, shall be an employee, officer or director of, or have a direct or indirect financial interest in, any person, firm or corporation which is engaged as an administrator for a group self-insurance association.
+		</section>
+		<section prefix="C">For purposes of this section, the term "firm" or "corporation" shall include any officer, director, or employee of any such firm or corporation.
+		</section>
+		<section prefix="D">This section shall not be construed to affect any contract, or extensions or renewals thereof, for services as an administrator or service company entered into by a group self-insurance association and effective prior to January 1, 1989.
+		</section>
+	</text>
+	<history>1989, c. 662, § 65.1-104.3; 1991, c. 355.</history>
+</law>

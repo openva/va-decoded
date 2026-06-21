@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="1" level="3">Law Governing Perfection and Priority</unit>
+	</structure>
+	<section_number>8.9A-307</section_number>
+	<catch_line>Location of debtor</catch_line>
+	<text>
+		(a)"Place of business." In this section, "place of business" means a place where a debtor conducts its affairs.
+		<section prefix="b">Debtor's location; general rules. Except as otherwise provided in this section, the following rules determine a debtor's location:
+			<section prefix="1">A debtor who is an individual is located at the individual's principal residence.
+			</section>
+			<section prefix="2">A debtor that is an organization and has only one place of business is located at its place of business.
+			</section>
+			<section prefix="3">A debtor that is an organization and has more than one place of business is located at its chief executive office.
+			</section>
+		</section>
+		<section prefix="c">Limitation of applicability of subsection (b). Subsection (b) applies only if a debtor's residence, place of business, or chief executive office, as applicable, is located in a jurisdiction whose law generally requires information concerning the existence of a nonpossessory security interest to be made generally available in a filing, recording, or registration system as a condition or result of the security interest's obtaining priority over the rights of a lien creditor with respect to the collateral. If subsection (b) does not apply, the debtor is located in the District of Columbia.
+		</section>
+		<section prefix="d">Continuation of location; cessation of existence, etc. A person that ceases to exist, have a residence, or have a place of business continues to be located in the jurisdiction specified by subsections (b) and (c).
+		</section>
+		<section prefix="e">Location of registered organization organized under state law. A registered organization that is organized under the law of a state is located in that state.
+		</section>
+		<section prefix="f">Location of registered organization organized under federal law; bank branches and agencies. Except as otherwise provided in subsection (i), a registered organization that is organized under the law of the United States and a branch or agency of a bank that is not organized under the law of the United States or a state are located:
+			<section prefix="1">in the state that the law of the United States designates, if the law designates a state of location;
+			</section>
+			<section prefix="2">in the state that the registered organization, branch, or agency designates, if the law of the United States authorizes the registered organization, branch, or agency to designate its state of location, including by designating its main office, home office, or other comparable office; or
+			</section>
+			<section prefix="3">in the District of Columbia, if neither paragraph (1) nor paragraph (2) applies.
+			</section>
+		</section>
+		<section prefix="g">Continuation of location; change in status of registered organization. A registered organization continues to be located in the jurisdiction specified by subsection (e) or (f) notwithstanding:
+			<section prefix="1">the suspension, revocation, forfeiture, or lapse of the registered organization's status as such in its jurisdiction of organization; or
+			</section>
+			<section prefix="2">the dissolution, winding up, or cancellation of the existence of the registered organization.
+			</section>
+		</section>
+		<section prefix="h">Location of United States. The United States is located in the District of Columbia.
+		</section>
+		<section prefix="i">Location of foreign bank branch or agency if licensed in only one state. A branch or agency of a bank that is not organized under the law of the United States or a state is located in the state in which the branch or agency is licensed, if all branches and agencies of the bank are licensed in only one state.
+		</section>
+		<section prefix="j">Location of foreign air carrier. A foreign air carrier under the Federal Aviation Act of 1958, as amended, is located at the designated office of the agent upon which service of process may be made on behalf of the carrier.
+		</section>
+		<section prefix="k">Applies only to this part. This section applies only for purposes of this part.
+		</section>
+	</text>
+	<history>Code 1950, § 55-9; 1964, c. 219, § 8.9-103; 1973, c. 509; 1984, c. 613; 1996, c. 216; 1997, c. 343; 2000, c. 1007; 2012, c. 155.</history>
+</law>

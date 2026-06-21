@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="40" level="4">Administrative Process Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-4002.1</section_number>
+	<catch_line>Guidance documents</catch_line>
+	<text>
+		<section prefix="A">Guidance documents shall be exempt from the provisions of this chapter, pursuant to this section. Guidance documents do not include agency (i) rulings and advisory opinions, (ii) forms and instructions, (iii) bulletins and legislative summaries, (iv) studies and reports, and (v) internal manuals and memoranda.
+		</section>
+		<section prefix="B">The agency that develops a guidance document shall certify that the document conforms to the definition of a guidance document in § 2.2-4101.
+			The guidance document shall be subject to a 30-day public comment period, to include public comment through the Virginia Regulatory Town Hall website, after publication in the Virginia Register of Regulations and prior to its effective date.
+			The agency shall provide notice of the opportunity for public comment to interested parties as identified under § 2.2-4007.02 prior to the start of the 30-day public comment period.
+		</section>
+		<section prefix="C">If a written comment is received during a public comment period asserting that the guidance document is contrary to state law or regulation, or that the document should not be exempted from the provisions of this chapter, the effective date of the guidance document by the agency shall be delayed for an additional 30-day period. During this additional period, the agency shall respond to any such comments in writing by certified mail to the commenter or by posting the response electronically in a manner consistent with the provisions for publication of comments on regulations provided in this chapter. Any person who remains aggrieved after the effective date of the final guidance document may avail himself of the remedies articulated in Article 5 (§ 2.2-4025 et seq.).
+		</section>
+	</text>
+	<history>2018, c. 820.</history>
+</law>

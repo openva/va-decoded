@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="9" level="3">Virginia Estate Tax</unit>
+		<unit label="article" identifier="1" level="4">Substantive Provisions Generally</unit>
+	</structure>
+	<section_number>58.1-904</section_number>
+	<catch_line>Tax upon estates of alien decedents</catch_line>
+	<text>
+		<section prefix="A">A tax in an amount computed as provided in this section is imposed upon the transfer of real property and tangible personal property having an actual situs in the Commonwealth of Virginia and upon intangible personal property physically present within the Commonwealth of every person who at the time of death was not a resident of the United States.
+			The tax shall be an amount computed by multiplying the federal credit by a fraction, the numerator of which is the value of that part of the gross estate over which Virginia has jurisdiction for estate tax purposes and the denominator of which is the decedent's gross estate taxable by the United States wherever situated.
+		</section>
+		<section prefix="B">Resident aliens of the United States shall be subject to the tax imposed by this chapter under § 58.1-903 when the decedent, at the time of death, was not a resident of Virginia but was a resident of the United States. A resident alien who, at the time of death, was a resident of Virginia and a resident of the United States shall be subject to the tax imposed by this chapter under § 58.1-902.
+		</section>
+		<section prefix="C">For purposes of this section, stock in a corporation organized under the laws of the Commonwealth shall be deemed physically present within the Commonwealth.
+		</section>
+	</text>
+	<history>Code 1950, § 58-238.5; 1978, c. 838; 1984, c. 675.</history>
+</law>

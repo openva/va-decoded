@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions</unit>
+	</structure>
+	<section_number>19.2-10.1</section_number>
+	<catch_line>(Effective July 1, 2026) Subpoena duces tecum for obtaining records concerning banking and credit cards</catch_line>
+	<text>
+		<section prefix="A">A financial institution as defined in § 6.2-604, money transmitter as defined in § 6.2-1922, or commercial businesses providing credit history or credit reports; or an issuer as defined in § 6.2-424 shall disclose a record or other information pertaining to a customer, to a law-enforcement officer pursuant to a subpoena duces tecum issued pursuant to this section.
+			<section prefix="1">In order to obtain such records, the law-enforcement official shall provide a statement of the facts documenting the reasons that the records or other information sought are relevant to a legitimate law-enforcement inquiry, relating to a named person or persons, to the attorney for the Commonwealth. A court shall issue a subpoena duces tecum upon motion of the Commonwealth only if the court finds that there is probable cause to believe that a crime has been committed and to believe the records sought or other information sought, including electronic data and electronic communications, are relevant to a legitimate law-enforcement inquiry into that offense. The court may issue a subpoena duces tecum under this section regardless of whether any criminal charges have been filed.
+			</section>
+			<section prefix="2">A court issuing an order pursuant to this section, on a motion made promptly by the financial institution or credit card issuer, or enterprise may quash or modify the subpoena duces tecum, if the information or records requested are unusually voluminous in nature or compliance with such subpoena duces tecum would otherwise cause an undue burden on such provider.
+			</section>
+		</section>
+		<section prefix="B">No cause of action shall lie in any court against a financial institution or credit card issuer, or enterprise, its officers, employees, agents, or other specified persons for providing information, facilities, or assistance in accordance with the terms of a subpoena duces tecum under this section.
+		</section>
+		<section prefix="C">Upon issuance of a subpoena duces tecum under this section, the statement shall be temporarily sealed by the court upon application of the attorney for the Commonwealth for good cause shown in an ex parte proceeding. Any individual arrested and claiming to be aggrieved by the order may move the court for the unsealing of the statement, and the burden of proof with respect to continued sealing shall be upon the Commonwealth.
+		</section>
+		<section prefix="D">Any and all records received by law enforcement pursuant to this section shall be utilized only for a reasonable amount of time and only for a legitimate law-enforcement purpose. Upon the completion of the investigation the records shall be submitted to the court by the attorney for the Commonwealth along with a proposed order requiring the records to be sealed. Upon entry of such order, the court shall seal the records in accordance with the requirements contained in subsection C.
+		</section>
+	</text>
+	<history>2003, cc. 223, 541, 549; 2004, cc. 883, 996; 2010, cc. 702, 794; 2025, c. 214.</history>
+</law>

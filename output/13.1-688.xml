@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="9" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-688</section_number>
+	<catch_line>Quorum and voting by directors</catch_line>
+	<text>
+		<section prefix="A">Unless the articles of incorporation or bylaws require a greater or lesser number for the transaction of all business or any particular business, or unless otherwise specifically provided in this chapter, a quorum of the board of directors consists of:
+			<section prefix="1">A majority of the fixed number of directors if the corporation has a fixed board size; or
+			</section>
+			<section prefix="2">A majority of the number of directors prescribed, or if no number is prescribed the number in office immediately before the meeting begins, if the corporation has a variable-range size board.
+			</section>
+		</section>
+		<section prefix="B">The articles of incorporation or bylaws may authorize a quorum of a board of directors to consist of no fewer than one-third of the specified or fixed number of directors determined under subsection A.
+		</section>
+		<section prefix="C">If a quorum is present when a vote is taken, the affirmative vote of a majority of directors present is the act of the board of directors unless the articles of incorporation or bylaws require the vote of a greater number of directors or unless otherwise expressly provided in this chapter.
+		</section>
+		<section prefix="D">A director who is present at a meeting of the board of directors or a committee of the board of directors when corporate action is taken is deemed to have assented to the action taken unless:
+			<section prefix="1">The director objects at the beginning of the meeting, or promptly upon the director's arrival, to holding it or transacting specified business at the meeting;
+			</section>
+			<section prefix="2">The director's dissent or abstention from the action taken is entered in the minutes of the meeting; or
+			</section>
+			<section prefix="3">The director delivers written notice of the director's dissent or abstention to the presiding officer of the meeting before its adjournment or to the secretary of the corporation or meeting immediately after adjournment of the meeting. The right of dissent or abstention is not available to a director who votes in favor of the action taken.
+			</section>
+		</section>
+		<section prefix="E">Except as may be provided in an agreement authorized by § 13.1-671.1, a director shall not vote by proxy.
+		</section>
+		<section prefix="F">Whenever this chapter requires the board of directors to take any action or to recommend or approve any proposed corporate act, such action, recommendation, or approval shall not be required if the proposed action or corporate act is adopted by the unanimous consent of shareholders.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-206, 13-207, 13.1-39, 13.1-44; 1956, c. 428; 1966, c. 131; 1985, c. 522; 1992, c. 471; 2005, c. 765; 2019, c. 734.</history>
+</law>

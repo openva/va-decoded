@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="B" level="3">Powers of Attorney</unit>
+		<unit label="chapter" identifier="16" level="4">Uniform Power of Attorney Act</unit>
+		<unit label="article" identifier="2" level="5">Authority</unit>
+	</structure>
+	<section_number>64.2-1623</section_number>
+	<catch_line>Incorporation of authority</catch_line>
+	<text>
+		<section prefix="A">An agent has authority described in this article if the power of attorney refers to general authority with respect to the descriptive term for the subjects stated in §§ 64.2-1625 through 64.2-1638, or cites the section in which the authority is described.
+		</section>
+		<section prefix="B">A reference in a power of attorney to general authority with respect to the descriptive term for a subject in §§ 64.2-1625 through 64.2-1638 or a citation to a section of §§ 64.2-1625 through 64.2-1638 incorporates the entire section as if it were set out in full in the power of attorney.
+		</section>
+		<section prefix="C">A principal may modify authority incorporated by reference.
+		</section>
+	</text>
+	<history>2010, cc. 455, 632, § 26-96; 2012, c. 614.</history>
+</law>

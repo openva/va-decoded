@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="1" level="3">Creation and Limitation of Estates</unit>
+		<unit label="article" identifier="2" level="4">Rule Against Perpetuities</unit>
+	</structure>
+	<section_number>55.1-125</section_number>
+	<catch_line>When nonvested property interest or power of appointment created</catch_line>
+	<text>
+		<section prefix="A">Except as provided in this section and in subsection B of § 55.1-128, the time of creation of a nonvested property interest or a power of appointment is determined under general principles of property law.
+		</section>
+		<section prefix="B">For the purposes of §§ 55.1-124 through 55.1-129, if there is a person who alone can exercise a power created by a governing instrument to become the unqualified beneficial owner of (i) a nonvested property interest or (ii) a property interest subject to a power of appointment described in subsection B or C of § 55.1-124, the nonvested property interest or power of appointment is created when the power to become the unqualified beneficial owner terminates.
+		</section>
+		<section prefix="C">For the purposes of §§ 55.1-124 through 55.1-129, a nonvested property interest or a power of appointment arising from a transfer of property to a previously funded trust or other existing property arrangement is created when the nonvested property interest or power of appointment in the original contribution was created.
+		</section>
+		<section prefix="D">For the purposes of §§ 55.1-124 through 55.1-129, except as provided in subsection B of § 55.1-128, if a nongeneral or testamentary power of appointment is exercised to create another nongeneral or testamentary power of appointment, every nonvested property interest or power of appointment created through the exercise of such other nongeneral or testamentary power is considered to have been created at the time of the creation of the first nongeneral or testamentary power of appointment.
+		</section>
+	</text>
+	<history>2000, c. 714, § 55-12.2; 2019, c. 712; 2024, cc. 52, 123.</history>
+</law>

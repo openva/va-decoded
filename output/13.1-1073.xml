@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="13" level="3">Merger</unit>
+	</structure>
+	<section_number>13.1-1073</section_number>
+	<catch_line>Effect of merger</catch_line>
+	<text>
+		When a merger takes effect:
+		<section prefix="1">The separate existence of every domestic limited liability company that is a party to the merger except the surviving domestic limited liability company, if any, ceases;
+		</section>
+		<section prefix="2">The title to all real estate and other property owned by each domestic limited liability company party to the merger is vested in the surviving domestic or foreign limited liability company, partnership, limited partnership, business trust or corporation without reversion or impairment;
+		</section>
+		<section prefix="3">The surviving domestic or foreign limited liability company, partnership, limited partnership, business trust or corporation has all liabilities of each domestic limited liability company party to the merger;
+		</section>
+		<section prefix="4">A proceeding pending by or against any domestic limited liability company party to the merger may be continued as if the merger had not occurred, or the surviving domestic or foreign limited liability company, partnership, limited partnership, business trust or corporation may be substituted in the proceeding for the domestic limited liability company whose existence ceased;
+		</section>
+		<section prefix="5">If a domestic limited liability company is the surviving entity of the merger, the articles of organization and operating agreement of that limited liability company are amended to the extent provided in the plan of merger; and
+		</section>
+		<section prefix="6">The former holders of membership interests of every domestic limited liability company party to the merger are entitled only to the rights provided in the plan of merger.
+		</section>
+	</text>
+	<history>1992, c. 575; 1997, c. 190; 2003, c. 340.</history>
+</law>

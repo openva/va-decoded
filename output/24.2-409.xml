@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="2" level="3">Virginia Voter Registration System</unit>
+	</structure>
+	<section_number>24.2-409</section_number>
+	<catch_line>Central Criminal Records Exchange to transmit lists of felony convictions to Department of Elections</catch_line>
+	<text>
+		The Central Criminal Records Exchange shall transmit to the Department of Elections by electronic means (i) a monthly list of all persons convicted of a felony during the preceding month and (ii) an annual list of all persons who have been convicted of a felony, regardless of when the conviction occurred. The list shall be in a format mutually agreed upon by the Commissioner of Elections and the Department of State Police and shall contain the convicted person's name; address; county, city, or town of residence; social security number, if any; date and place of birth; and date of conviction. The Department shall maintain a permanent record of the information in the lists as part of the voter registration system. Upon receipt of the monthly list, the Department shall compare, on a monthly basis, the contents of the list to the list of all registered voters maintained on the voter registration system and shall notify the appropriate general registrar of the felony conviction of any registered voter. Upon receipt of the annual list, the Department shall compare the contents of the list to the list of all registered voters maintained on the voter registration system and shall notify the appropriate general registrar of the felony conviction of any registered voter. The general registrars shall have access to the information in the lists to carry out their duties pursuant to § 24.2-427.
+	</text>
+	<history>1970, c. 462, § 24.1-26; 1972, c. 620; 1975, c. 515; 1993, c. 641; 1999, c. 117; 2013, c. 491; 2015, c. 740.</history>
+</law>

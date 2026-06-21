@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="5" level="2">Security Entitlements</unit>
+	</structure>
+	<section_number>8.8A-501</section_number>
+	<catch_line>Securities account; acquisition of security entitlement from securities intermediary</catch_line>
+	<text>
+		<section prefix="a">"Securities account" means an account to which a financial asset is or may be credited in accordance with an agreement under which the person maintaining the account undertakes to treat the person for whom the account is maintained as entitled to exercise the rights that comprise the financial asset.
+		</section>
+		<section prefix="b">Except as otherwise provided in subsections (d) and (e), a person acquires a security entitlement if a securities intermediary:
+			<section prefix="1">indicates by book entry that a financial asset has been credited to the person's securities account;
+			</section>
+			<section prefix="2">receives a financial asset from the person or acquires a financial asset for the person and, in either case, accepts it for credit to the person's securities account; or
+			</section>
+			<section prefix="3">becomes obligated under other law, regulation, or rule to credit a financial asset to the person's securities account.
+			</section>
+		</section>
+		<section prefix="c">If a condition of subsection (b) has been met, a person has a security entitlement even though the securities intermediary does not itself hold the financial asset.
+		</section>
+		<section prefix="d">If a securities intermediary holds a financial asset for another person, and the financial asset is registered in the name of, payable to the order of, or specially endorsed to the other person, and has not been endorsed to the securities intermediary or in blank, the other person is treated as holding the financial asset directly rather than as having a security entitlement with respect to the financial asset.
+		</section>
+		<section prefix="e">Issuance of a security is not establishment of a security entitlement.
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

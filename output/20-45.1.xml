@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="3" level="2">Unlawful Marriages Generally</unit>
+	</structure>
+	<section_number>20-45.1</section_number>
+	<catch_line>Void and voidable marriages</catch_line>
+	<text>
+		<section prefix="A">All marriages that are prohibited by § 20-38.1 are void.
+		</section>
+		<section prefix="B">All marriages solemnized when either of the parties lacked capacity to consent to the marriage at the time the marriage was solemnized, because of mental incapacity or infirmity, shall be void from the time they shall be so declared by a decree of divorce or nullity.
+		</section>
+		<section prefix="C">All marriages solemnized on or after (i) July 1, 2016, when either or both of the parties were, at the time of the solemnization, under the age of 18 and have not been emancipated as required by § 20-48 or (ii) July 1, 2024, when either or both of the parties were, at the time of solemnization, under the age of 18 shall be void from the time they shall be so declared by a decree of divorce or nullity. Notwithstanding the foregoing, this section shall not apply to a lawful marriage entered in another state or country prior to the parties being domiciled in the Commonwealth.
+		</section>
+	</text>
+	<history>1975, c. 644; 2016, cc. 457, 543; 2024, c. 737.</history>
+</law>

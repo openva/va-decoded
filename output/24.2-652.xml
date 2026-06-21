@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="6" level="2">The Election</unit>
+		<unit label="article" identifier="4" level="3">Conduct of Election; Election Results</unit>
+	</structure>
+	<section_number>24.2-652</section_number>
+	<catch_line>Voter whose name erroneously omitted from pollbook; provisional ballots</catch_line>
+	<text>
+		<section prefix="A">When a person offers to vote and his name does not appear on the pollbook, the officers of election shall permit him to vote only if all of the following conditions are met:
+			<section prefix="1">An officer of election is informed by the general registrar that the voter is registered to vote, that his registration has not been cancelled, and that his name is erroneously omitted from the pollbook.
+			</section>
+			<section prefix="2">The voter signs a statement, subject to felony penalties for false statements pursuant to § 24.2-1016, that he is a qualified and registered voter of that precinct, a resident of that precinct, and his registration is not subject to cancellation pursuant to §§ 24.2-430, 24.2-431, and 24.2-432; and he provides, subject to such penalties, all the information required to identify himself including the last four digits of his social security number, if any, full name including the maiden or any other prior legal name, birthdate, and complete address.
+			</section>
+			<section prefix="3">The officer of election enters the identifying information for the voter on the pollbook.
+				When the voter has signed the statement and is permitted to vote, the officers of election shall mark his name on the pollbook with the next consecutive number from the voter count form, or shall enter that the voter has voted if the pollbook is in electronic form, and shall indicate on the pollbook that he has signed the required statement in accordance with the instructions of the State Board.
+			</section>
+		</section>
+		<section prefix="B">If the general registrar is not available or cannot state that the person is registered to vote, such person shall be allowed to vote by provisional ballot pursuant to § 24.2-653. The officers of election shall provide to him an application for registration. The State Board of Elections shall provide instructions to the electoral boards for the handling and counting of such provisional ballots.
+		</section>
+	</text>
+	<history>Code 1950, § 24-95; 1970, c. 462, § 24.1-55; 1974, c. 428; 1975, c. 515; 1981, c. 425; 1984, c. 480; 1993, c. 641; 2003, c. 1015; 2011, c. 602; 2020, c. 735.</history>
+</law>

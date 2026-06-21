@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="8" level="3">Banks</unit>
+		<unit label="article" identifier="7" level="4">Interstate Bank Mergers</unit>
+	</structure>
+	<section_number>6.2-849</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article, unless a different meaning is required:
+		"Bank" has the meaning assigned to it in 12 U.S.C. § 1813 (a) (1) of the Federal Deposit Insurance Company Act of 1956 (12 U.S.C. § 1811 et seq.), as amended.
+		"Home state" has the meaning assigned to it in § 6.2-836.
+		"Host state" has the meaning assigned to it in § 6.2-836.
+		"Interstate merger transaction" means:
+		<section prefix="1">The merger or consolidation of banks with different home states, and the conversion of branches of any bank involved in the merger or consolidation to branches of the resulting bank; or
+		</section>
+		<section prefix="2">The purchase of all, or substantially all, of the assets of a bank whose home state is different than the home state of the acquiring bank.
+			"Out-of-state bank" has the meaning assigned to it in § 6.2-836.
+			"Out-of-state state bank" has the meaning assigned to it in § 6.2-836.
+			"Resulting bank" means a bank that has resulted from an interstate merger transaction under this article.
+			"Virginia bank" means a bank whose home state is Virginia.
+			"Virginia state bank" has the meaning assigned to it in § 6.2-836.
+		</section>
+	</text>
+	<history>1995, c. 301, § 6.1-44.16; 2010, c. 794.</history>
+</law>

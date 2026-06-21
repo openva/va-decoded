@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="D" level="3">State Authorities, Boards, Commissions, Councils, Foundations and Other Collegial Bodies</unit>
+		<unit label="chapter" identifier="26" level="4">Councils</unit>
+		<unit label="article" identifier="32" level="5">Modeling and Simulation Advisory Council</unit>
+	</structure>
+	<section_number>2.2-2699</section_number>
+	<catch_line>Powers and duties of the Council</catch_line>
+	<text>
+		The Council shall have the power and duty to:
+		<section prefix="1">Advise the Governor on funding priorities for modeling and simulation programs at the Commonwealth's institutions of higher education.
+		</section>
+		<section prefix="2">Develop policy initiatives and advise the Governor on strategies to promote the modeling and simulation industry in the Commonwealth.
+		</section>
+		<section prefix="3">Advise the Virginia Economic Development Partnership regarding (i) attracting new modeling and simulation businesses to the Commonwealth and (ii) assisting the development of the Commonwealth's existing modeling and simulation industry.
+		</section>
+		<section prefix="4">Develop recommendations in conjunction with the Virginia Economic Development Partnership on how to market the Commonwealth's modeling and simulation capabilities to all businesses and industries, especially those not fully utilizing modeling and simulation applications.
+		</section>
+		<section prefix="5">Develop recommendations that will assist in making Virginia a national leader in the modeling and simulation industry.
+		</section>
+	</text>
+	<history>2007, c. 857.</history>
+</law>

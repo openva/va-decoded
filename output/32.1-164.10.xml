@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="1" level="3">Sewage Disposal</unit>
+	</structure>
+	<section_number>32.1-164.10</section_number>
+	<catch_line>Alternative onsite sewage system general approval process</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section:
+			"General approval" means approval of a treatment unit that has been evaluated in accordance with the requirements of Board regulations and Department policies and approved for effluent that has been treated to a quality specified by the Board in accordance with Board regulations and Department policies.
+			"Treatment level 3" means effluent that has been treated to produce five-day biochemical oxygen demand and total suspended solid concentrations equal to or less than 10 milligrams per liter.
+			"Treatment unit" means a method, technique, piece of equipment, or process other than a septic tank used to treat sewage to produce effluent of a specified quality before the effluent is dispersed to a soil treatment area.
+		</section>
+		<section prefix="B">A treatment unit that has not been field tested to evaluate treatment level 3 performance in accordance with the applicable Board regulations and Department policies for use as an alternative onsite sewage system shall be generally approved by the Department as a treatment level 3 system if:
+			<section prefix="1">The treatment unit is certified to comply with NSF/ANSI 350 - Onsite Residential and Commercial Water Reuse Treatment Systems; or
+			</section>
+			<section prefix="2">The treatment unit is certified to comply with NSF/ANSI 245 - Residential Wastewater Treatment Systems - Nitrogen Reduction, provided that testing indicates that treatment level 3 effluent standards are achieved, or another standardized test method determined to be acceptable by the Department, or has been tested using methods determined to be acceptable by the Department, and the following conditions are met:
+				a. The treatment unit is continuously tested for a minimum of 26 weeks, with sampling conducted during all weeks of the testing period, and the treatment unit is not subjected to service, maintenance, or modification during the testing period;
+				b. The average five-day carbonaceous biochemical oxygen demand concentration for a minimum of 55 effluent samples collected on discrete testing period days does not exceed 10 milligrams per liter and no single sample exceeds 25 milligrams per liter; and
+				c. The average total suspended solids concentration for a minimum of 55 effluent samples collected on discrete testing period days does not exceed 10 milligrams per liter, and no single sample exceeds 30 milligrams per liter.
+			</section>
+		</section>
+		<section prefix="C">Treatment units that are generally approved as treatment level 3 products under subsection B shall be:
+			<section prefix="1">Certified by an organization accredited by the American National Standards Institute, Standards Council of Canada, International Laboratory Accreditation Cooperation, or other accreditation body determined to be acceptable by the Department; or
+			</section>
+			<section prefix="2">Evaluated by a testing organization determined to be acceptable by the Department when the treatment unit is not tested and certified under NSF/ANSI 350, NSF/ANSI 245, or another standard accepted by the Department.
+			</section>
+		</section>
+		<section prefix="D">A treatment unit approved as a treatment level 3 product under subsection B and meeting the applicable Board regulations and Department policies for use as a nitrogen-reducing alternative onsite sewage system shall be generally approved by the Department as a nitrogen-reducing treatment level 3 system.
+		</section>
+		<section prefix="E">Treatment units that are generally approved as treatment level 3 products under subsection B are subject to all Board regulations applicable to generally approved treatment level 3 units.
+		</section>
+	</text>
+	<history>2024, c. 419.</history>
+</law>

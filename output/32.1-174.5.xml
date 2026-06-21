@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="2" level="3">Public Water Supplies</unit>
+	</structure>
+	<section_number>32.1-174.5</section_number>
+	<catch_line>Mandatory reporting of contaminant releases and equipment failures and malfunctions</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Contaminant release" means an unplanned or uncontrolled release by a waterworks of a chemical contaminant or petroleum or synthetic oil into the water that is treated by or distributed from the waterworks to customers. "Contaminant release" includes any such release at treatment facilities and raw or finished water pump stations.
+			"Critical equipment failure or malfunction" means any equipment failure or malfunction that has significant potential for serious adverse effects on human health as a result of short-term exposure or to cause a widespread disruption of water service.
+			"Equipment failure" means an unplanned condition when the equipment cannot perform or is unable to perform as designed because of a problem with such equipment. "Equipment failure" does not mean a planned (i) removal from service, (ii) repair, or (iii) maintenance.
+			"Equipment malfunction" means an unplanned condition during which the equipment cannot perform or is unable to perform as designed due to a problem originating from outside the waterworks rather than a problem associated or originating with the equipment itself, including an issue with third-party provided gas or electric power feeds or a cyberattack.
+			"Monthly operating report" means the report submitted by a waterworks to the Office at least once each month that describes the waterworks' operational status and compliance with applicable laws, regulations, and policies, as directed by the Department.
+			"Noncritical equipment failure or malfunction" means an equipment failure or malfunction that is not a critical equipment failure or malfunction, regardless of whether such anomaly is noticeable to customers of the waterworks.
+			"Office" means the Department's Office of Drinking Water.
+		</section>
+		<section prefix="B">The owner of a waterworks shall report any critical equipment failure or malfunction or contaminant release to the Office as soon as practicable but no more than two hours after discovery.
+		</section>
+		<section prefix="C">Any owner of a waterworks that is required to submit a monthly operating report to the Office shall include any noncritical equipment failure or malfunction that could adversely affect water quality, public health, or service continuity that occurred during the applicable reporting month and was not resolved by the reporting deadline. For the purposes of this subsection, any noncritical equipment failure or malfunction that is effectively addressed by equipment repair or replacement, alternative equipment use, alternative system operation, or such other response shall be considered resolved.
+		</section>
+	</text>
+	<history>2025, cc. 631, 672.</history>
+</law>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="64" level="2">Guaranteed Asset Protection Waivers</unit>
+	</structure>
+	<section_number>38.2-6400</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, unless the context requires another meaning:
+		"Administrator" means a person, other than an insurer or creditor, that performs administrative or operational functions pursuant to a guaranteed asset protection waiver program.
+		"Borrower" means a debtor, retail buyer, or lessee, under a finance agreement.
+		"Commercial transaction" means a transaction entered into primarily for a purpose other than personal, family, or household purposes.
+		"Creditor" means:
+		<section prefix="1">The lender in a loan or credit transaction;
+		</section>
+		<section prefix="2">The lessor in a lease transaction;
+		</section>
+		<section prefix="3">The seller in a commercial retail installment transaction; or
+		</section>
+		<section prefix="4">The assignees of any person described in subdivision 1, 2, or 3 to whom the credit obligation is payable.
+			"Finance agreement" means (i) a loan secured by a lien on a motor vehicle or (ii) a lease or retail installment sales contract for the lease or purchase of a motor vehicle.
+			"Free look period" means the period of time from the effective date of the guaranteed asset protection waiver until the date the borrower may cancel the borrower's finance agreement without penalty, fees, or costs to the borrower. This period of time shall not be shorter than 30 days.
+			"Guaranteed asset protection waiver" or "GAP waiver" means a contractual agreement wherein a creditor agrees for a separate charge to cancel or waive all or part of amounts due on a borrower's finance agreement in the event of a total physical damage loss or unrecovered theft of a motor vehicle, which agreement is part of, or a separate addendum to, the finance agreement.
+			"Insurer" means an insurance company licensed, registered, or otherwise authorized to do business under the laws of the Commonwealth.
+			"Motor vehicle" means any self-propelled or towed vehicle designed for personal or commercial use, including any automobile, truck, motorcycle, off-road vehicle, all-terrain vehicle, recreational vehicle, snowmobile, camper, boat, personal watercraft, and motorcycle, boat, camper, or personal watercraft trailer.
+			"Retail buyer" means a person who buys motor vehicles not principally for the purpose of resale.
+			"Retail seller" means person that is regularly engaged in the selling of motor vehicles to retail buyers and that holds any necessary license to sell a motor vehicle to a retail buyer.
+		</section>
+	</text>
+	<history>2019, cc. 799, 800.</history>
+</law>

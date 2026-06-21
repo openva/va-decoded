@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="II" level="2">Real Estate Settlements and Recordation</unit>
+		<unit label="chapter" identifier="6" level="3">Recordation of Documents</unit>
+		<unit label="article" identifier="8" level="4">Uniform Real Property Electronic Recording Act</unit>
+	</structure>
+	<section_number>55.1-663</section_number>
+	<catch_line>Recording of electronic documents among the land records</catch_line>
+	<text>
+		<section prefix="A">A clerk of a circuit court who implements an eRecording System shall do so in compliance with standards established by the Virginia Information Technologies Agency.
+		</section>
+		<section prefix="B">A clerk of a circuit court may receive, index, store, archive, and transmit electronic land records.
+		</section>
+		<section prefix="C">A clerk of a circuit court may provide for access to, and for search and retrieval of, land records by electronic means.
+		</section>
+		<section prefix="D">A clerk of a circuit court who accepts electronic documents for recording among the land records shall continue to accept paper land records and shall place entries for both types of land records in the same indices.
+		</section>
+		<section prefix="E">A clerk of a circuit court may convert paper records accepted for recording into electronic form. The clerk of circuit court may convert into electronic form land records documents recorded before the clerk of circuit court began to record electronic records.
+		</section>
+		<section prefix="F">Any fee or tax that a clerk of circuit court is authorized to collect may be collected electronically.
+		</section>
+	</text>
+	<history>2006, c. 745, § 55-142.12; 2019, c. 712.</history>
+</law>

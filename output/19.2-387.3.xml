@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="23" level="2">Central Criminal Records Exchange</unit>
+	</structure>
+	<section_number>19.2-387.3</section_number>
+	<catch_line>Substantial Risk Order Registry; maintenance; access</catch_line>
+	<text>
+		<section prefix="A">The Department of State Police shall keep and maintain a computerized Substantial Risk Order Registry (the Registry) for the entry of orders issued pursuant to § 19.2-152.13 or 19.2-152.14. The Department of State Police shall make the Registry information available, upon request, to criminal justice agencies, including local law-enforcement agencies, through the Virginia Criminal Information Network. The Department of State Police may make the Registry information available upon request to institutions of higher education and other research organizations or institutions in the Commonwealth. The Department of State Police shall remove the names and other personal identifying information from the data before it is released to the institution of higher education or research organization or other institution. Registry information provided under this section shall be used only for the purposes of the administration of criminal justice as defined in § 9.1-101, except as otherwise provided in this subsection.
+		</section>
+		<section prefix="B">No liability shall be imposed upon any law-enforcement official who disseminates information or fails to disseminate information in good faith compliance with the requirements of this section, but this provision shall not be construed to grant immunity for gross negligence or willful misconduct.
+		</section>
+	</text>
+	<history>2020, cc. 887, 888; 2021, Sp. Sess. I, c. 461.</history>
+</law>

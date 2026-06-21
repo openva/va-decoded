@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="6" level="3">Flood Protection and Dam Safety</unit>
+		<unit label="article" identifier="2" level="4">Dam Safety Act</unit>
+	</structure>
+	<section_number>10.1-613.1</section_number>
+	<catch_line>Criminal penalties</catch_line>
+	<text>
+		<section prefix="A">It is unlawful for any owner to knowingly:
+			<section prefix="1">Operate, construct, or alter a dam without an approval as provided in this article;
+			</section>
+			<section prefix="2">Violate the terms of an approval, order, regulation, or requirement of the Board or Director under this article; or
+			</section>
+			<section prefix="3">Obstruct, hinder, or prevent the Board or its designated agents or employees from performing duties under this article.
+				A violation of any provision of this subsection or this article is a Class 3 misdemeanor.
+			</section>
+		</section>
+		<section prefix="B">Each day that any such violation occurs after notice of the original violation is served upon the violator by the Board or its designated agents or employees by registered mail shall constitute a separate offense. Upon conviction, the violator is subject to a fine not exceeding $500 per day for each day of the offense, not to exceed a total fine of $25,000, with costs imposed at the discretion of the court. In determining the amount of the penalty, the appropriate court shall consider the degree of harm to the public; whether the violation was knowing or willful; the past conduct of the defendant; whether the defendant should have been on notice of the violation; whether the defendant has taken steps to cease, remove, or mitigate the violation; and any other relevant information.
+		</section>
+	</text>
+	<history>2006, c. 30.</history>
+</law>

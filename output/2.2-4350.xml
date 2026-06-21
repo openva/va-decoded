@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="4" level="5">Prompt Payment</unit>
+	</structure>
+	<section_number>2.2-4350</section_number>
+	<catch_line>Prompt payment of bills by state agencies</catch_line>
+	<text>
+		<section prefix="A">Every state agency that acquires goods or services, or conducts any other type of contractual business with nongovernmental, privately owned enterprises shall promptly pay for the completely delivered goods or services by the required payment date.
+			Payment shall be deemed to have been made when offset proceedings have been instituted, as authorized under the Virginia Debt Collection Act (§ 2.2-4800 et seq.).
+		</section>
+		<section prefix="B">Separate payment dates may be specified for contracts under which goods or services are provided in a series of partial deliveries or executions to the extent that such contract provides for separate payment for such partial delivery or execution.
+		</section>
+	</text>
+	<history>1984, c. 736, §§ 11-62.2, 11-62.3; 1992, c. 75; 2001, c. 844.</history>
+</law>

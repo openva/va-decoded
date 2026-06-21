@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="7" level="2">Remedies</unit>
+	</structure>
+	<section_number>8.2-704</section_number>
+	<catch_line>Seller's right to identify goods to the contract notwithstanding breach or to salvage unfinished goods</catch_line>
+	<text>
+		<section prefix="1">An aggrieved seller under the preceding section [§ 8.2-703] may
+			<section prefix="a">identify to the contract conforming goods not already identified if at the time he learned of the breach they are in his possession or control;
+			</section>
+			<section prefix="b">treat as the subject of resale goods which have demonstrably been intended for the particular contract even though those goods are unfinished.
+			</section>
+		</section>
+		<section prefix="2">Where the goods are unfinished an aggrieved seller may in the exercise of reasonable commercial judgment for the purposes of avoiding loss and of effective realization either complete the manufacture and wholly identify the goods to the contract or cease manufacture and resell for scrap or salvage value or proceed in any other reasonable manner.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

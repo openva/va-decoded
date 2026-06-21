@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="6" level="2">Crimes Involving Fraud</unit>
+		<unit label="article" identifier="6" level="3">Offenses Relating to Credit Cards</unit>
+	</structure>
+	<section_number>18.2-195.2</section_number>
+	<catch_line>Fraudulent application for credit card; penalties</catch_line>
+	<text>
+		<section prefix="A">A person shall be guilty of a Class 1 misdemeanor if he makes, causes to be made or conspires to make, directly, indirectly or through an agency, any materially false statement in writing concerning the financial condition or means or ability to pay of himself or of any other person for whom he is acting or any firm or corporation in which he is interested or for which he is acting, knowing the statement to be false and intending that it be relied upon for the purpose of procuring a credit card. However, if the statement is made in response to an unrequested written solicitation from the issuer or an agent of the issuer to apply for a credit card, he shall be guilty of a Class 4 misdemeanor.
+		</section>
+		<section prefix="B">A person who knows that a false statement has been made in writing concerning the financial condition or ability to pay of himself or of any person for whom he is acting or any firm or corporation in which he is interested or for which he is acting and who with intent to defraud, procures a credit card, upon the faith of such false statement, for his own benefit, or for the benefit of the person, firm or corporation in which he is interested or for which he is acting, and obtains by use of the credit card, money, property, services or any thing of value, is guilty of grand larceny if the value of whatever is obtained is $1,000 or more or petit larceny if the value is less than $1,000.
+		</section>
+		<section prefix="C">As used in this section, "in writing" shall include information transmitted by computer, facsimile, e-mail, Internet, or any other electronic medium, and shall not include information transmitted by any such medium by voice transmission.
+		</section>
+	</text>
+	<history>1991, c. 546; 2007, c. 518; 2018, cc. 764, 765; 2020, cc. 89, 401.</history>
+</law>

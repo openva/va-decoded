@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="14" level="2">Evidence</unit>
+		<unit label="article" identifier="9" level="3">Miscellaneous Provisions</unit>
+	</structure>
+	<section_number>8.01-420.8</section_number>
+	<catch_line>Protection of confidential information in court files</catch_line>
+	<text>
+		<section prefix="A">Whenever a party files, or causes to be filed, with the court a motion, pleading, subpoena, exhibit, or other document containing a social security number or other identification number appearing on a driver's license or other document issued under Chapter 3 (§ 46.2-300 et seq.) of Title 46.2 or the comparable law of another jurisdiction, or on a credit card, debit card, bank account, or other electronic billing and payment system, the party shall make reasonable efforts to redact all but the last four digits of the identification number.
+		</section>
+		<section prefix="B">The provisions of subsection A apply to all civil actions in circuit and district court, unless there is a specific statute to the contrary that applies to the particular type of proceeding in which the party is involved.
+		</section>
+		<section prefix="C">Nothing in this section shall create a private cause of action against the party or lawyer who filed the document or any court personnel, the clerk, or any employees of the clerk's office who received it for filing.
+		</section>
+	</text>
+	<history>2014, c. 427; 2020, cc. 1227, 1246.</history>
+</law>

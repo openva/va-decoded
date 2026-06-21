@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="10" level="3">Motor Vehicle and Equipment Safety</unit>
+		<unit label="article" identifier="10" level="4">Miscellaneous Equipment</unit>
+	</structure>
+	<section_number>46.2-1088.6</section_number>
+	<catch_line>Motor vehicle recording devices</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Accessed" means downloaded, extracted, scanned, read, or otherwise retrieved.
+			"Owner" means a person having all the incidents of ownership, including the legal title of a vehicle whether or not such person lends, rents, or creates a security interest in the vehicle; a person entitled to the possession of a vehicle as the purchaser under a security agreement; or a person entitled to possession of the vehicle as the lessee pursuant to a written lease agreement, provided such agreement at inception is for a period in excess of three months.
+			"Recorded data" means the data stored or preserved electronically in a recording device identifying performance or operation information about the motor vehicle including, but not limited to:
+			<section prefix="1">Speed of the motor vehicle or the direction in which the vehicle is traveling, or both;
+			</section>
+			<section prefix="2">Vehicle location data;
+			</section>
+			<section prefix="3">Vehicle steering performance;
+			</section>
+			<section prefix="4">Vehicle brake performance including, but not limited to, whether brakes were applied before a crash;
+			</section>
+			<section prefix="5">The driver's seatbelt status; and
+			</section>
+			<section prefix="6">Information concerning a crash in which the motor vehicle has been involved, including the ability to transmit such information to a central communications system.
+				"Recording device" means an electronic system, and the physical device or mechanism containing the electronic system, that primarily, or incidental to its primary function, preserves or records, in electronic form, data collected by sensors or provided by other systems within the vehicle. "Recording device" includes event data recorders (EDRs), sensing and diagnostic modules (SDMs), electronic control modules (ECMs), automatic crash notification (ACN) systems, geographic information systems (GIS), and any other device that records and preserves data that can be accessed related to that vehicle.
+			</section>
+		</section>
+		<section prefix="B">Recorded data may only be accessed by the motor vehicle owner or with the consent of the motor vehicle owner or the owner's agent or legal representative; except under the following circumstances:
+			<section prefix="1">The owner of the motor vehicle or the owner's agent or legal representative has a contract with a third-party subscription service that requires access to a recording device or recorded data in order to perform the contract, so long as the recorded data is only accessed and used in accordance with the contract;
+			</section>
+			<section prefix="2">A licensed new motor vehicle dealer, or a technician or mechanic at a motor vehicle repair or servicing facility requires access to recorded data in order to carry out his normal and ordinary diagnosing, servicing, and repair duties and such recorded data is used only to perform such duties;
+			</section>
+			<section prefix="3">The recorded data is accessed by an emergency response provider and is used only for the purpose of determining the need for or facilitating an emergency response. Such persons are authorized to receive data transmitted or communicated by any electronic system of a motor vehicle that constitutes an automatic crash notification system and utilizes or reports data provided by or recorded by recording devices installed on or attached to a motor vehicle to assist them in performing their duties as emergency response providers;
+			</section>
+			<section prefix="4">Upon authority of a court of competent jurisdiction; or
+			</section>
+			<section prefix="5">The recorded data is accessed by law enforcement in the course of an investigation where constitutionally permissible and in accordance with any applicable law regarding searches and seizures upon probable cause to believe that the recording device contains evidence relating to a violation of the laws of the Commonwealth or the United States.
+			</section>
+		</section>
+		<section prefix="C">The consent of the motor vehicle owner or the owner's agent or legal representative for use of recorded data for purposes of investigating a motor vehicle accident or insurance claim shall not be requested or obtained until after the event giving rise to the claim has occurred, and shall not be made a condition of the defense, payment or settlement of an obligation or claim. For underwriting and rating purposes, the motor vehicle owner may provide his consent either directly to the insurer or through and as certified by a named insured.
+		</section>
+		<section prefix="D">If a person or entity accesses recorded data pursuant to subdivisions B 2 or B 3, such entity or person shall not transmit or otherwise convey the recorded data to a third party unless necessary to carry out their duties thereunder.
+		</section>
+		<section prefix="E">When the recording device and recorded data are not removed or separated from the motor vehicle, the ownership of the recording device and recorded data survives the sale of the motor vehicle to any nonbeneficial owner such as an insurer, salvage yard, or other person who does not possess and use the motor vehicle for normal transportation purposes.
+		</section>
+		<section prefix="F">The failure of an insurer to obtain access to the recorded data shall not create, nor shall it be construed to create, an independent or private cause of action in favor of any person.
+		</section>
+	</text>
+	<history>2006, cc. 851, 889.</history>
+</law>

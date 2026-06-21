@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="8" level="3">Regulation of Traffic</unit>
+		<unit label="article" identifier="1.1" level="4">Toll Violations and Enforcement</unit>
+	</structure>
+	<section_number>46.2-819.8</section_number>
+	<catch_line>Toll grace period</catch_line>
+	<text>
+		When a vehicle has been operated in violation of § 33.2-503, 46.2-819.1, 46.2-819.3, or 46.2-819.3:1, no holder of an account for an electronic toll collection device that is property of the Commonwealth when (i) such device is detected by the toll operator or (ii) such device is not detected by the toll operator but such vehicle is associated with such an account shall owe any penalties, fees, or costs in addition to the unpaid toll, unless and until the toll operator or HOT lanes operator has attempted to process the collection of the toll through the Commonwealth's electronic toll account system at least twice and at least 10 days have elapsed since the unpaid toll. A toll operator shall make an attempt to process and collect an unpaid toll on the sixth day after the unpaid toll and shall make an additional attempt on the tenth day after the unpaid toll if earlier attempts to process and collect the unpaid toll were unsuccessful.
+	</text>
+	<history>2016, c. 753.</history>
+</law>

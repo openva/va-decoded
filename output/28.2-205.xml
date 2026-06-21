@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="28.2" level="1">Fisheries and Habitat of the Tidal Waters</unit>
+		<unit label="subtitle" identifier="II" level="2">Tidal Fisheries</unit>
+		<unit label="chapter" identifier="2" level="3">General Provisions</unit>
+		<unit label="article" identifier="1" level="4">Powers and Duties</unit>
+	</structure>
+	<section_number>28.2-205</section_number>
+	<catch_line>Scientific collection permits; penalty</catch_line>
+	<text>
+		<section prefix="A">Except as provided for in § 28.2-1101, it is unlawful for any person to remove from the waters of the Commonwealth under the jurisdiction of the Commission any marine fish, marine shellfish, or marine organisms for technical research, scientific, educational or museum purposes without having first obtained from the Commissioner a collection permit.
+			A violation of this subsection is a Class 3 misdemeanor.
+		</section>
+		<section prefix="B">Application for a permit shall be made in writing to the Commissioner. There shall be no charge for a permit, and the permit shall not be transferable. The issuance of the permit shall be governed by applicable Commission regulations and shall be subject to any reasonable terms and conditions imposed by the Commissioner. The Commissioner may, with the approval of the Commission, require an applicant for such permit to submit to the Commissioner any data or results acquired through the use of the permit.
+		</section>
+		<section prefix="C">Any person who has been issued a scientific collection permit shall be exempt from any licensing provision of this subtitle relating to the taking or catching of fish, shellfish, or marine organisms.
+		</section>
+	</text>
+	<history>1977, c. 33, § 28.1-3.1; 1992, c. 836.</history>
+</law>

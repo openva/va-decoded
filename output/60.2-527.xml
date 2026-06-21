@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Taxation</unit>
+		<unit label="article" identifier="4" level="3">Computation of Tax Rate</unit>
+	</structure>
+	<section_number>60.2-527</section_number>
+	<catch_line>Tax rate of certain foreign contractors</catch_line>
+	<text>
+		<section prefix="A">For each calendar year, the tax rate of each foreign contractor doing business in Virginia shall be the maximum rate allowable by law for three years. At the end of the three-year period, such employer shall be eligible for the computed rate as provided in § 60.2-530.
+		</section>
+		<section prefix="B">As used in this section, "foreign contractor" means (i) an out-of-state "contractor" as defined in § 54.1-1100 or (ii) an out-of-state "highway contractor" engaged in the type of contracting activities referred to in § 33.2-1106, who does not maintain a principal place of business in Virginia as determined by the Commission, except that such employer need not be a member of any highway contractors association. Such determination by the Commission shall be final and not subject to judicial review.
+		</section>
+	</text>
+	<history>1982, c. 200, § 60.1-79.1; 1984, c. 468; 1986, c. 480.</history>
+</law>

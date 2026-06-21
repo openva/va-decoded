@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="18" level="2">Executions and Other Means of Recovery</unit>
+		<unit label="article" identifier="6" level="3">Interrogatories</unit>
+	</structure>
+	<section_number>8.01-506.2</section_number>
+	<catch_line>Proceedings in court of county or city where execution debtor resides</catch_line>
+	<text>
+		When pursuant to subsection B of § 8.01-506, a summons requires the execution debtor to appear before a court of the county or city in which the execution debtor resides, or of a county or city contiguous thereto, the execution creditor may have the case filed or docketed in that court as follows:
+		<section prefix="1">The execution creditor shall file with that court an abstract of the judgment rendered.
+		</section>
+		<section prefix="2">The execution creditor shall pay a fee to that court in accordance with the provisions of § 16.1-69.48:2 or subdivision 17 of § 17.1-275.
+		</section>
+		<section prefix="3">After docketing or filing the abstract of judgment and payment of any fees, the court shall issue the summons and any subsequent executions on the filed or docketed judgment, including a subpoena duces tecum pursuant to § 8.01-506.1, and shall conduct such hearings and enter such orders pursuant to §§ 8.01-507, 8.01-507.1, 8.01-508, 8.01-509, and 8.01-510 as may be required.
+		</section>
+		<section prefix="4">The execution creditor shall file in both courts any releases or satisfactions of judgment.
+		</section>
+	</text>
+	<history>2005, c. 726.</history>
+</law>

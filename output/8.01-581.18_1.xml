@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="21.1" level="2">Medical Malpractice</unit>
+		<unit label="article" identifier="2" level="3">Miscellaneous Provisions</unit>
+	</structure>
+	<section_number>8.01-581.18:1</section_number>
+	<catch_line>Immunity of physicians for laboratory results and examinations</catch_line>
+	<text>
+		<section prefix="A">No physician shall be liable for the failure to review or act on the results of laboratory tests or examinations of the physical or mental condition of any patient, which tests or examinations the physician neither requested nor authorized, unless (i) the report of such results is provided directly to the physician by the patient so examined or tested with a request for consultation; (ii) the physician assumes responsibility to review or act on the results; or (iii) the physician has reason to know that in order to manage the specific mental or physical condition of the patient, review of or action on the pending results is needed. However, no physician shall be immune under this section unless the physician establishes that (a) no physician-patient relationship existed when the results were received or accessed; or (b) the physician received or accessed the results without a request for consultation and without responsibility for management of the specific mental or physical condition of the patient relating to the results or (c) the physician consulted on a specific mental or physical condition, the results were not part of that physician's management of the patient and the physician had no reason to know that he was to inform the patient of the results or refer the patient to another physician; or (d) the physician received or accessed results, the interpretation of which would exceed the physician's scope of practice and the physician had no reason to know that he was to inform the patient of the results or refer the patient to another physician.
+		</section>
+		<section prefix="B">As used in this section, "physician" means a person licensed to practice medicine, chiropractic, or osteopathy in the Commonwealth pursuant to Chapter 29 (§ 54.1-2900 et. seq.) of Title 54.1.
+		</section>
+	</text>
+	<history>2006, c. 684.</history>
+</law>

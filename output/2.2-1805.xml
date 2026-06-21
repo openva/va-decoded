@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="18" level="4">Department of the Treasury</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-1805</section_number>
+	<catch_line>Records of receipts of such checks, etc.; reports to Comptroller</catch_line>
+	<text>
+		<section prefix="A">The State Treasurer shall keep a record of every such check, draft, or electronic transfer of funds, and of all such moneys received by him, and upon receipt shall cause the same to be placed to the credit of the Commonwealth with some state depository. If any check or draft is not paid on presentation, the State Treasurer shall immediately notify the Comptroller, who shall proceed to collect the amount from the person from whom the same was received by the Treasurer. The State Treasurer shall daily transmit to the Comptroller a detailed record of all receipts.
+		</section>
+		<section prefix="B">The State Treasurer shall not collect any money on a check or draft; but the same shall, in every case, be properly endorsed as required and deposited with some state depository for the credit of the Commonwealth.
+		</section>
+	</text>
+	<history>Code 1950, §§ 2-153, 2-154; 1966, c. 677, §§ 2.1-183, 2.1-184; 2001, c. 844.</history>
+</law>

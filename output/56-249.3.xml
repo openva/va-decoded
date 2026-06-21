@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="10" level="2">Heat, Light, Power, Water and Other Utility Companies Generally</unit>
+		<unit label="article" identifier="3" level="3">Powers of Commission in Relation to Service</unit>
+	</structure>
+	<section_number>56-249.3</section_number>
+	<catch_line>Certain electric utilities to file reports in relation to fuel transactions, fuel purchases, fuel adjustment clauses, etc</catch_line>
+	<text>
+		The Commission shall require that public electric utilities, owning and operating generating facilities, or privately owned utilities purchasing power at wholesale for retail sales within this State, file monthly with the Commission for its review such information as it may deem necessary, which may include the following:
+		<section prefix="1">The various types of fuels received such as coal, oil, nuclear fuel or natural gas;
+		</section>
+		<section prefix="2">The following information on fossil fuels:
+			a. The supplier of the fossil fuel, the cost in cents per MBTU of the fuel, with a notation of whether the fuel was contracted for, purchased on the spot market or purchased from an affiliate of the electric utility;
+			b. The quantities of the various types of fossil fuels received stated in tons of coal, barrels of oil, millions of cubic feet of natural gas;
+			c. The average BTU content per pound, gallon or cubic foot received, whichever is applicable;
+			d. The average sulfur and ash content, where applicable, of the fuel received;
+		</section>
+		<section prefix="3">Total demurrage charges incurred at each generating plant;
+		</section>
+		<section prefix="4">Total cost of transportation incurred at each generating plant;
+		</section>
+		<section prefix="5">The quantity of fuel consumed by each generation unit in the generating plant;
+		</section>
+		<section prefix="6">The average cost of the fossil and nuclear fuel in cents per MBTU's consumed at each plant with and without handling charges;
+		</section>
+		<section prefix="7">The monthly net heat rate expressed in BTU's per kilowatt-hour for each generating unit;
+		</section>
+		<section prefix="8">The kilowatt-hour output delivered into the system on a monthly basis;
+		</section>
+		<section prefix="9">The monthly net kilowatt-hour interchange; and
+		</section>
+		<section prefix="10">The monthly system kilowatt-hour sales.
+		</section>
+	</text>
+	<history>1977, c. 125; 1979, c. 617.</history>
+</law>

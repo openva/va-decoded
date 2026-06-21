@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="53.1" level="1">Prisons and Other Methods of Correction</unit>
+		<unit label="chapter" identifier="4" level="2">Probation and Parole</unit>
+		<unit label="article" identifier="5" level="3">Virginia Model Interstate Parole and Probation Hearings Act</unit>
+	</structure>
+	<section_number>53.1-170</section_number>
+	<catch_line>Rights of parolee or probationer at hearing</catch_line>
+	<text>
+		With respect to any hearing held pursuant to this article, the parolee or probationer:
+		<section prefix="1">Shall have reasonable notice in writing of the nature and content of the allegations made, including notice that its purpose is to determine whether there is probable cause to believe that he has committed a violation of a condition of parole or probation;
+		</section>
+		<section prefix="2">Shall be permitted to consult with any persons whose assistance he reasonably desires, prior to the hearing;
+		</section>
+		<section prefix="3">Shall have the right to confront and examine any person who has made allegations or given evidence against him, unless the hearing officer determines that such confrontation would present a substantial present or subsequent danger of harm to such person;
+		</section>
+		<section prefix="4">May admit, deny or explain the violation alleged and may present proof, including affidavits and other evidence, in support of his contentions.
+		</section>
+	</text>
+	<history>Code 1950, § 53-290.3; 1975, c. 39; 1982, c. 636.</history>
+</law>

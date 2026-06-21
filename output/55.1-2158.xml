@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="IV" level="2">Common Interest Communities</unit>
+		<unit label="chapter" identifier="21" level="3">Virginia Real Estate Cooperative Act</unit>
+		<unit label="article" identifier="4" level="4">Protection of Cooperative Purchasers</unit>
+	</structure>
+	<section_number>55.1-2158</section_number>
+	<catch_line>Public offering statement; cooperatives containing conversion building</catch_line>
+	<text>
+		<section prefix="A">In addition to the information required by § 55.1-2155, the public offering statement of a cooperative containing any conversion building shall contain:
+			<section prefix="1">A statement by the declarant, based on a report prepared by an independent, registered architect or engineer, describing the present condition of all structural components and mechanical and electrical installations material to the use and enjoyment of the building;
+			</section>
+			<section prefix="2">A statement by the declarant of the expected useful life of each item reported on in subdivision 1, or a statement that no representations are made in that regard; and
+			</section>
+			<section prefix="3">A list of any outstanding notices of uncured violations of building code or other municipal regulations, together with the estimated cost of curing those violations.
+			</section>
+		</section>
+		<section prefix="B">This section applies only to buildings containing units that may be occupied for residential use.
+		</section>
+	</text>
+	<history>1982, c. 277, § 55-481; 2019, c. 712.</history>
+</law>

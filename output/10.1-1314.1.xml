@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="13" level="3">Air Pollution Control Board</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>10.1-1314.1</section_number>
+	<catch_line>Protection of trade secrets</catch_line>
+	<text>
+		Any information, except emissions data, reported to or otherwise obtained by the Director, the Board, or the agents or employees of either which contains or might reveal a trade secret shall be confidential and shall be limited to those persons who need such information for purposes of enforcement of this chapter or the federal Clean Air Act or regulations and orders of the Board. It shall be the duty of each owner to notify the Director or his representatives of the existence of trade secrets when he desires the protection provided herein.
+	</text>
+	<history>1990, c. 238.</history>
+</law>

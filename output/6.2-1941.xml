@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="19.1" level="3">Money Transmitters</unit>
+	</structure>
+	<section_number>6.2-1941</section_number>
+	<catch_line>(Effective July 1, 2026) Reports of certain events</catch_line>
+	<text>
+		<section prefix="A">A licensee shall file a report with the Commission within one business day after the licensee has reason to know of the occurrence of any of the following events:
+			<section prefix="1">The filing of a petition by or against the licensee under the United States Bankruptcy Code (11 U.S.C. § 101 et seq.) for bankruptcy or reorganization;
+			</section>
+			<section prefix="2">The filing of a petition by or against the licensee for receivership, the commencement of any other judicial or administrative proceeding for its dissolution or reorganization, or the making of a general assignment for the benefit of its creditors;
+			</section>
+			<section prefix="3">The commencement of a proceeding to revoke or suspend its license or other authority to operate in another jurisdiction; or
+			</section>
+			<section prefix="4">Such other events as the Commission may prescribe by regulation.
+			</section>
+		</section>
+		<section prefix="B">A licensee shall file a report with the Commission within three business days after the licensee has reason to know of the occurrence of any of the following events:
+			<section prefix="1">An indictment, charge, or conviction of the licensee or of a key individual or person in control of the licensee for a felony;
+			</section>
+			<section prefix="2">An indictment, charge, or conviction of an authorized delegate for a felony; or
+			</section>
+			<section prefix="3">Such other events as the Commission may prescribe by regulation.
+			</section>
+		</section>
+	</text>
+	<history>2025, c. 214.</history>
+</law>

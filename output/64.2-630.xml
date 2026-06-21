@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="6" level="3">Transfers Without Qualification</unit>
+		<unit label="article" identifier="5" level="4">Uniform Real Property Transfer on Death Act</unit>
+	</structure>
+	<section_number>64.2-630</section_number>
+	<catch_line>Revocation by instrument authorized; revocation by act not permitted</catch_line>
+	<text>
+		<section prefix="A">Subject to subsection B, an instrument is effective to revoke a recorded transfer on death deed, or any part of it, only if the instrument:
+			<section prefix="1">Is one of the following:
+				a. A transfer on death deed that revokes the transfer on death deed or part of the transfer on death deed expressly;
+				b. A transfer on death deed that names a designated beneficiary that is inconsistent with the designated beneficiary in a prior transfer on death deed;
+				c. An instrument of revocation that expressly revokes the transfer on death deed or part of the transfer on death deed; or
+				d. An inter vivos deed that conveys real property to another so the transferor is no longer the owner at the time of the transferor's death.
+			</section>
+			<section prefix="2">Is acknowledged by the transferor after the acknowledgment of the transfer on death deed being revoked and recorded before the transferor's death in the land records of the clerk's office of the circuit court where the deed is recorded.
+			</section>
+		</section>
+		<section prefix="B">If a transfer on death deed is made by more than one transferor:
+			<section prefix="1">Revocation by a transferor does not affect the transfer on death deed as to the interest of another transferor; and
+			</section>
+			<section prefix="2">A transfer on death deed of joint owners is revoked only if it is revoked by all of the living joint owners.
+			</section>
+		</section>
+		<section prefix="C">After a transfer on death deed is recorded, it can be revoked only by an effective revocatory instrument recorded prior to the death of the transferor and may not be revoked by a revocatory act taken against or on the original or a copy of the recorded transfer on death deed.
+		</section>
+		<section prefix="D">This section does not limit the effect of an inter vivos transfer of the property.
+		</section>
+	</text>
+	<history>2013, c. 390, 2025, c. 85.</history>
+</law>

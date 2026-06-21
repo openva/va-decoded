@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="13" level="2">Certain Incidents of Trial</unit>
+	</structure>
+	<section_number>8.01-379.2:1</section_number>
+	<catch_line>Spoliation of evidence</catch_line>
+	<text>
+		<section prefix="A">A party or potential litigant has a duty to preserve evidence that may be relevant to reasonably foreseeable litigation. In determining whether and at what point such a duty to preserve arose, the court shall include in its consideration the totality of the circumstances, including the extent to which the party or potential litigant was on notice that specific and identifiable litigation was likely and that the evidence would be relevant.
+		</section>
+		<section prefix="B">If evidence that should have been preserved in the anticipation or conduct of litigation is lost because a party failed to take reasonable steps to preserve it, or is otherwise disposed of, altered, concealed, destroyed, or not preserved, and it cannot be restored or replaced through additional discovery, the court (i) upon finding prejudice to another party from such loss, disposal, alteration, concealment, or destruction of the evidence, may order measures no greater than necessary to cure the prejudice, or (ii) only upon finding that the party acted recklessly or with the intent to deprive another party of the evidence's use in the litigation, may (a) presume that the evidence was unfavorable to the party, (b) instruct the jury that it may or shall presume that the evidence was unfavorable to the party, or (c) dismiss the action or enter a default judgment.
+		</section>
+		<section prefix="C">Nothing in this section shall be interpreted as creating an independent cause of action for negligent or intentional spoliation of evidence.
+		</section>
+	</text>
+	<history>2019, c. 732.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="21" level="4">Setoff Debt Collection Act</unit>
+	</structure>
+	<section_number>58.1-522</section_number>
+	<catch_line>Participation in setoff program not permitted in certain instances</catch_line>
+	<text>
+		<section prefix="A">If the claimant agency determines that the administrative cost, as defined in the rules promulgated by the Tax Commissioner, of utilizing this article will exceed the amount of the delinquent debt, then such claimant agency shall not participate in the setoff program below such levels determined economically infeasible.
+		</section>
+		<section prefix="B">Neither the Virginia Commonwealth University Health System Authority (the Authority) nor the University of Virginia Medical Center (the Center) shall participate in the setoff program for debts related to medical treatment unless the Authority or Center has undertaken all reasonable efforts to determine whether an individual with delinquent debt is eligible for Medicaid or other assistance under the Authority's or the Center's financial assistance policy.
+		</section>
+	</text>
+	<history>Code 1950, § 58-19.9; 1981, c. 408; 1982, c. 621; 1984, cc. 675, 720; 2020, c. 577.</history>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="4" level="2">Liability of Parties</unit>
+	</structure>
+	<section_number>8.3A-417</section_number>
+	<catch_line>Presentment warranties</catch_line>
+	<text>
+		<section prefix="a">If an unaccepted draft is presented to the drawee for payment or acceptance and the drawee pays or accepts the draft, (i) the person obtaining payment or acceptance, at the time of presentment, and (ii) a previous transferor of the draft, at the time of transfer, warrant to the drawee making payment or accepting the draft in good faith that:
+			<section prefix="1">the warrantor is, or was, at the time the warrantor transferred the draft, a person entitled to enforce the draft or authorized to obtain payment or acceptance of the draft on behalf of a person entitled to enforce the draft;
+			</section>
+			<section prefix="2">the draft has not been altered; and
+			</section>
+			<section prefix="3">the warrantor has no knowledge that the signature of the drawer of the draft is unauthorized.
+			</section>
+		</section>
+		<section prefix="b">A drawee making payment may recover from any warrantor damages for breach of warranty equal to the amount paid by the drawee less the amount the drawee received or is entitled to receive from the drawer because of the payment. In addition, the drawee is entitled to compensation for expenses and loss of interest resulting from the breach. The right of the drawee to recover damages under this subsection is not affected by any failure of the drawee to exercise ordinary care in making payment. If the drawee accepts the draft, breach of warranty is a defense to the obligation of the acceptor. If the acceptor makes payment with respect to the draft, the acceptor is entitled to recover from any warrantor for breach of warranty the amounts stated in this subsection.
+		</section>
+		<section prefix="c">If a drawee asserts a claim for breach of warranty under subsection (a) based on an unauthorized endorsement of the draft or an alteration of the draft, the warrantor may defend by proving that the endorsement is effective under § 8.3A-404 or § 8.3A-405 or the drawer is precluded under § 8.3A-406 or § 8.4-406 from asserting against the drawee the unauthorized endorsement or alteration.
+		</section>
+		<section prefix="d">If (i) a dishonored draft is presented for payment to the drawer or an endorser or (ii) any other instrument is presented for payment to a party obliged to pay the instrument, and (iii) payment is received, the following rules apply:
+			<section prefix="1">The person obtaining payment and a prior transferor of the instrument warrant to the person making payment in good faith that the warrantor is, or was, at the time the warrantor transferred the instrument, a person entitled to enforce the instrument or authorized to obtain payment on behalf of a person entitled to enforce the instrument.
+			</section>
+			<section prefix="2">The person making payment may recover from any warrantor for breach of warranty an amount equal to the amount paid plus expenses and loss of interest resulting from the breach.
+			</section>
+		</section>
+		<section prefix="e">The warranties stated in subsections (a) and (d) cannot be disclaimed with respect to checks. Unless notice of a claim for breach of warranty is given to the warrantor within thirty days after the claimant has reason to know of the breach and the identity of the warrantor, the liability of the warrantor under subsection (b) or (d) is discharged to the extent of any loss caused by the delay in giving notice of the claim.
+		</section>
+		<section prefix="f">A cause of action for breach of warranty under this section accrues when the claimant has reason to know of the breach.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-417, 6-421; 1964, c. 219, § 8.3-417; 1992, c. 693.</history>
+</law>

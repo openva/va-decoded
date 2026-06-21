@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="2" level="3">Formation and Terms</unit>
+	</structure>
+	<section_number>59.1-502.4</section_number>
+	<catch_line>Acceptance with varying terms</catch_line>
+	<text>
+		<section prefix="a">In this section, an acceptance materially alters an offer if it contains a term that materially conflicts with or varies a term of the offer or that adds a material term not contained in the offer.
+		</section>
+		<section prefix="b">Except as otherwise provided in § 59.1-502.5, a definite and seasonable expression of acceptance operates as an acceptance, even if the acceptance contains terms that vary from the terms of the offer, unless the acceptance materially alters the offer.
+		</section>
+		<section prefix="c">If an acceptance materially alters the offer, the following rules apply:
+			<section prefix="1">A contract is not formed unless (A) a party agrees, such as by manifesting assent, to the other party's offer or acceptance or (B) all the other circumstances, including the conduct of the parties, establish a contract.
+			</section>
+			<section prefix="2">If a contract is formed by the conduct of both parties, the terms of the contract are determined under § 59.1-502.10.
+			</section>
+		</section>
+		<section prefix="d">If an acceptance varies from but does not materially alter the offer, a contract is formed based on the terms of the offer. In addition, the following rules apply:
+			<section prefix="1">Terms in the acceptance which conflict with terms in the offer are not part of the contract.
+			</section>
+			<section prefix="2">An additional nonmaterial term in the acceptance is a proposal for an additional term. Between merchants, the proposed additional term becomes part of the contract unless the offeror gives notice of objection before, or within a reasonable time after, it receives the proposed terms.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

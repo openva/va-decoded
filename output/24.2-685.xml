@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="6" level="2">The Election</unit>
+		<unit label="article" identifier="5" level="3">Special Elections</unit>
+	</structure>
+	<section_number>24.2-685</section_number>
+	<catch_line>Special elections; request for abolition of constitutional offices</catch_line>
+	<text>
+		<section prefix="A">The provisions of this section shall be applicable to the holding of any referendum, elsewhere authorized by law, on the abolition of any constitutional office conducted prior to a request for a special act of the General Assembly to abolish such office.
+		</section>
+		<section prefix="B">Notwithstanding any other provision of general law or any special act, no referendum subject to the provisions of this section shall be held unless:
+			<section prefix="1">Petitions are filed with the circuit court of the county or city requesting that a referendum be held to authorize a request for a special act on the abolition of the named office;
+			</section>
+			<section prefix="2">The petitions are signed by qualified voters of the county or city equal in number to 20 percent of the total vote cast in the county or city for presidential electors in the last preceding presidential election; and
+			</section>
+			<section prefix="3">The petitions are filed with the court within 90 days of the first signature on the petitions, and the petitions show the date each signature was affixed.
+			</section>
+		</section>
+		<section prefix="C">Upon filing of a valid petition, the court shall order the election and state the question to be placed on the ballot in its order. The court shall order the referendum to be held at the next general election for members of the governing body of the county or city held at least 81 days after the date of the order.
+		</section>
+		<section prefix="D">After a referendum is conducted pursuant to this section with respect to the abolition of a particular office, no other referendum with respect to the abolition of the same office shall be held in the same county or city pursuant to this section for a period of eight years.
+		</section>
+		<section prefix="E">No special act authorizing the abolition of any such office shall be considered by the General Assembly without court certification that a referendum has been conducted pursuant to this section and that a majority of the qualified voters voting thereon have approved the request for a special act.
+		</section>
+	</text>
+	<history>1985, c. 586, § 24.1-165.1; 1993, c. 641; 2011, c. 599.</history>
+</law>

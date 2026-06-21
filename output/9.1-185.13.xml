@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="11" level="3">Bail Bondsmen</unit>
+	</structure>
+	<section_number>9.1-185.13</section_number>
+	<catch_line>Documentation and recordkeeping standards and requirements</catch_line>
+	<text>
+		<section prefix="A">The bail bondsman shall retain, for a minimum of the three calendar years from the date of the termination of the liability:
+			<section prefix="1">Copies of all written representations made to any court or to any public official for the purpose of avoiding a forfeiture of bail, setting aside a forfeiture, or causing a defendant to be released on his own recognizance.
+			</section>
+			<section prefix="2">Copies of all affidavits and receipts made in connection with collateral received in the course of business.
+			</section>
+			<section prefix="3">Evidence of the return of any security or collateral received in the course of business, including a copy of the receipt showing when and to whom the collateral was returned.
+			</section>
+		</section>
+		<section prefix="B">Upon request of the Department, a bail bondsman shall provide any documents required to be kept pursuant to this section.
+		</section>
+	</text>
+	<history>2004, c. 460.</history>
+</law>

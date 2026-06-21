@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="6" level="2">Crimes Involving Fraud</unit>
+		<unit label="article" identifier="10" level="3">Cigarette Delivery Sale Requirements</unit>
+	</structure>
+	<section_number>18.2-246.7</section_number>
+	<catch_line>Requirements for delivery sales</catch_line>
+	<text>
+		<section prefix="A">No person shall make a delivery sale of cigarettes to any individual who is under the legal minimum purchase age in the Commonwealth.
+		</section>
+		<section prefix="B">Each person accepting a purchase order for a delivery sale shall comply with:
+			<section prefix="1">The age verification requirements set forth in § 18.2-246.8;
+			</section>
+			<section prefix="2">The disclosure requirements set forth in § 18.2-246.9;
+			</section>
+			<section prefix="3">The shipping requirements set forth in § 18.2-246.10;
+			</section>
+			<section prefix="4">The registration and reporting requirements set forth in § 18.2-246.11;
+			</section>
+			<section prefix="5">The tax collection requirements set forth in § 18.2-246.12; and
+			</section>
+			<section prefix="6">All other laws of the Commonwealth generally applicable to sales of cigarettes that occur entirely within the Commonwealth, including, but not limited to, those laws imposing: (i) excise taxes, (ii) sales taxes, and (iii) license and revenue-stamping requirements.
+			</section>
+		</section>
+	</text>
+	<history>2003, c. 1010.</history>
+</law>

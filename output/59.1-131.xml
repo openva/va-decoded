@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="9" level="2">Secondhand Articles</unit>
+		<unit label="article" identifier="3" level="3">Watches</unit>
+	</structure>
+	<section_number>59.1-131</section_number>
+	<catch_line>When watch deemed secondhand</catch_line>
+	<text>
+		A watch shall be deemed to be secondhand if
+		<section prefix="1">As a whole or the case thereof or the movement shall have been previously sold to or acquired by any person who bought or acquired the same for his use or the use of another, but not for resale; or
+		</section>
+		<section prefix="2">Its case serial numbers or movement numbers or other distinguishing numbers or identification marks shall be erased, defaced, removed, altered or covered.
+		</section>
+	</text>
+	<history>Code 1950, § 59-156; 1968, c. 439.</history>
+</law>

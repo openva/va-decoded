@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="1" level="2">Administration Generally</unit>
+		<unit label="article" identifier="3" level="3">Department of Health and State Health Commissioner</unit>
+	</structure>
+	<section_number>32.1-23.4</section_number>
+	<catch_line>Prescription drug price transparency; civil penalty</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Nonprofit data services organization" means the nonprofit organization with which the Commissioner has negotiated and entered into a contract or agreement for the compilation, storage, analysis, and evaluation of data submitted by health care providers pursuant to § 32.1-276.4.
+			"Pharmacy services administrative organization" means an entity that provides administrative services to independent pharmacies, including negotiation with pharmacy benefits managers and other entities, to support pharmacies in contracting, compliance, and other operational areas.
+		</section>
+		<section prefix="B">The Department shall negotiate and enter into a contract or agreement with a nonprofit data services organization to annually collect, compile, and make available on its website publicly available information about prescription drug prices submitted by health carriers, pharmacy benefits managers, and pharmacy services administrative organizations pursuant to § 38.2-3407.15:6, wholesale distributors pursuant to § 54.1-3436.1, and manufacturers pursuant to § 54.1-3442.02. Such data and information shall be made available in aggregate in a form and manner that does not disclose or tend to disclose proprietary or confidential information of any health carrier, pharmacy services administrative organization, pharmacy benefits manager, wholesale distributor, or manufacturer.
+		</section>
+		<section prefix="C">A health carrier, pharmacy services administrative organization, pharmacy benefits manager, wholesale distributor, or manufacturer that fails to report information required to be reported pursuant to this section or § 38.2-3407.15:6, 54.1-3436.1, or 54.1-3442.02, respectively, shall be subject to a civil penalty not to exceed $2,500 per day from the date on which such reporting is required, to be collected by the Commissioner and deposited into the Literary Fund. However, the Commissioner may reduce or waive a civil penalty imposed pursuant to this section if he determines that the violation was reasonable or resulting from good cause.
+		</section>
+		<section prefix="D">The Department shall adopt regulations to implement the provisions of this section, which shall include (i) provisions related to the specification of prescription drugs for the purpose of data collection and procedures for auditing information provided by health carriers, pharmacy services administrative organizations, pharmacy benefits managers, wholesale distributors, and manufacturers and (ii) a schedule of civil penalties for failure to report information required pursuant to this section or § 38.2-3407.15:6, 54.1-3436.1, or 54.1-3442.02, which shall be based on the level of severity of the violation.
+		</section>
+		<section prefix="E">All information submitted by a health carrier, pharmacy services administrative organization, or pharmacy benefits manager pursuant to § 38.2-3407.15:6, a wholesale distributor pursuant to § 54.1-3436.1, or a manufacturer pursuant to § 54.1-3442.02 shall be confidential and exempt from disclosure under the Virginia Freedom of Information Act (§ 2.2-3700 et seq.), except to the extent that such information is included in an aggregated form in the report required pursuant to this section.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 304; 2025, c. 269.</history>
+</law>

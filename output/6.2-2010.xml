@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="20" level="3">Agencies Providing Debt Management Plans</unit>
+	</structure>
+	<section_number>6.2-2010</section_number>
+	<catch_line>Other reporting requirements</catch_line>
+	<text>
+		<section prefix="A">Within 15 days following the occurrence of any of the following events, a licensee shall file a written report with the Commission describing such event and its expected impact upon the business of the licensee:
+			<section prefix="1">The filing of bankruptcy, reorganization, or receivership proceedings by or against the licensee;
+			</section>
+			<section prefix="2">The institution of administrative or regulatory proceedings against the licensee by any governmental authority;
+			</section>
+			<section prefix="3">Any felony indictments of the licensee or any of its members, partners, directors, officers, trustees, beneficiaries, or principals, if known;
+			</section>
+			<section prefix="4">Any felony conviction of the licensee or any of its members, partners, directors, officers, trustees, beneficiaries, or principals, if known;
+			</section>
+			<section prefix="5">The institution of an action against the licensee under the Virginia Consumer Protection Act (§ 59.1-196 et seq.) by the Attorney General or any other governmental authority; or
+			</section>
+			<section prefix="6">Such other event as the Commission may prescribe by regulation.
+			</section>
+		</section>
+		<section prefix="B">Within 30 days of judgment against the licensee in a civil action relating to the DMP of a consumer, a licensee shall file a written report with the Commission describing such event and its expected impact upon the business of the licensee. The licensee shall advise the Commission within 30 days of any settlement or the result of any judgment entered.
+		</section>
+		<section prefix="C">Within 10 days of receipt of any qualified audit, a licensee shall notify the Commission and describe what steps are being taken to address concerns raised in the audit.
+		</section>
+		<section prefix="D">Failure to file a report or other information or documents required under this section shall subject the licensee to a fine of $25 for each day the report is overdue.
+		</section>
+	</text>
+	<history>2004, c. 790, § 6.1-363.12; 2010, c. 794.</history>
+</law>

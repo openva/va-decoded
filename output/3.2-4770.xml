@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="47" level="3">Sale of Farm Produce</unit>
+		<unit label="article" identifier="5" level="4">Cotton Handlers</unit>
+	</structure>
+	<section_number>3.2-4770</section_number>
+	<catch_line>Records to be kept by cotton handler</catch_line>
+	<text>
+		<section prefix="A">Every cotton gin shall keep an accurate daily record of the cotton received from each consignor and ginned. The record shall contain:
+			<section prefix="1">The name and address of the consignor of the cotton;
+			</section>
+			<section prefix="2">The date that the cotton gin received the cotton;
+			</section>
+			<section prefix="3">The condition, quality, and quantity of the cotton on arrival at the cotton gin;
+			</section>
+			<section prefix="4">The gross weight of the vehicle containing the cotton, the tare weight for the vehicle used to transport the cotton, and the net weight of the cotton delivered to the cotton gin for final processing into bales of finished cotton;
+			</section>
+			<section prefix="5">A lot number or other identifying mark given to each consignment of cotton by the cotton gin that shall appear on all tags, tickets, or statements and on any other essential records needed to show what cotton was ginned by the cotton gin on behalf of the consignor;
+			</section>
+			<section prefix="6">The sequentially numbered tag or mark assigned to the cotton bale;
+			</section>
+			<section prefix="7">A report of the finished cotton including the weight, grade, quality and condition;
+			</section>
+			<section prefix="8">A report of credit given for seed obtained during ginning process. If the actual weight of the seed is not determined, the record shall indicate the factor used to calculate weight and the final calculation; and
+			</section>
+			<section prefix="9">An itemized statement of the charges to be paid to the cotton gin by the consignor in connection with ginning the cotton.
+			</section>
+		</section>
+		<section prefix="B">If, at any time, the cotton gin alters any record required by subsection A, the cotton gin shall create an addendum to the record indicating the nature of the alteration and the date the alteration was made and sign the addendum to the record with the full name of the person making the addendum.
+		</section>
+		<section prefix="C">Every cotton warehouse, receiving any cotton for storage, shall promptly maintain an accurate record, showing in detail the following information with reference to the handling and storage of the cotton:
+			<section prefix="1">A daily inventory record consisting of all cotton stored in the warehouse recorded by bale tag number;
+			</section>
+			<section prefix="2">The receiving record with transactions recorded by bale tag number; and
+			</section>
+			<section prefix="3">The transfer record with transactions recorded by bale tag number.
+			</section>
+		</section>
+		<section prefix="D">Every cotton merchant, having received any cotton for transfer, shall promptly maintain an accurate record, showing in detail the following information with reference to the handling and sales of the cotton:
+			<section prefix="1">The sales record with transactions recorded by bale tag number; and
+			</section>
+			<section prefix="2">The payable record with transactions recorded by bale tag number.
+			</section>
+		</section>
+		<section prefix="E">Every cotton handler shall retain all records, including tags or tickers, covering each transaction with each consignor, for a period of three years after the date that the record is required to be made.
+		</section>
+	</text>
+	<history>2000, c. 584, § 3.1-722.38; 2008, c. 860.</history>
+</law>

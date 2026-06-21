@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="5" level="3">Venereal Diseases</unit>
+	</structure>
+	<section_number>32.1-57</section_number>
+	<catch_line>Examination, testing and treatment; failure to comply with order of examination</catch_line>
+	<text>
+		<section prefix="A">A local health director may require any person suspected of being infected with any venereal disease to submit to examination, testing and treatment if necessary.
+		</section>
+		<section prefix="B">If any such person refuses to submit to an examination, testing or treatment or to continue treatment until found to be cured by proper test, the local health director may apply to the appropriate circuit court for an order compelling such examination, testing or treatment. Any person willfully failing to comply with such order shall be punishable as for contempt of court.
+		</section>
+		<section prefix="C">If a person infected with venereal disease is required by the local health director to receive treatment therefor and such person receives such treatment from the local health department, no fee shall be charged.
+		</section>
+	</text>
+	<history>Code 1950, § 32-93; 1979, c. 711; 1988, c. 399.</history>
+</law>

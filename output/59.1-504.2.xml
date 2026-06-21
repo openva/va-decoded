@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="4" level="3">Warranties</unit>
+	</structure>
+	<section_number>59.1-504.2</section_number>
+	<catch_line>Express warranty</catch_line>
+	<text>
+		<section prefix="a">Subject to subsection (c), an express warranty by a licensor is created as follows:
+			<section prefix="1">An affirmation of fact or promise made by the licensor to its licensee, including by advertising, which relates to the information and becomes part of the basis of the bargain creates an express warranty that the information to be furnished under the agreement will conform to the affirmation or promise.
+			</section>
+			<section prefix="2">Any description of the information which is made part of the basis of the bargain creates an express warranty that the information will conform to the description.
+			</section>
+			<section prefix="3">Any sample, model, or demonstration of a final product which is made part of the basis of the bargain creates an express warranty that the performance of the information will reasonably conform to the performance of the sample, model, or demonstration, taking into account differences that would appear to a reasonable person in the position of the licensee between the sample, model, or demonstration and the information as it will be used.
+			</section>
+		</section>
+		<section prefix="b">It is not necessary to the creation of an express warranty that the licensor use formal words, such as "warranty" or "guaranty", or state a specific intention to make a warranty. However, an express warranty is not created by:
+			<section prefix="1">an affirmation or prediction merely of the value of the information or informational rights;
+			</section>
+			<section prefix="2">a display or description of a portion of the information to illustrate the aesthetics, appeal, suitability to taste, subjective quality, or the like of informational content; or
+			</section>
+			<section prefix="3">a statement purporting to be merely opinion or commendation of the information or informational rights.
+			</section>
+		</section>
+		<section prefix="c">An express warranty or similar express contractual obligation, if any, exists with respect to published informational content covered by this chapter to the same extent that it would exist if the published informational content had been published in a form that placed it outside this chapter. However, if the warranty or similar express contractual obligation is breached, the remedies of the aggrieved party are those under this chapter and the agreement.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

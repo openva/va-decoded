@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="9" level="3">Virginia Estate Tax</unit>
+		<unit label="article" identifier="4" level="4">Recapture Tax on Certain Use-Valuations</unit>
+	</structure>
+	<section_number>58.1-932</section_number>
+	<catch_line>Qualified heir personally liable</catch_line>
+	<text>
+		The qualified heir shall be personally liable for the additional tax imposed under § 58.1-931. The amount of the adjusted tax difference attributable to an interest in any qualified property, computed in the same manner as provided in subsection (c)(2)(C) of § 2032A of the Internal Revenue Code, shall be a lien on such interest in the property in favor of the Commonwealth. Such lien shall arise at the time the election is filed hereunder and shall continue until:
+		<section prefix="1">The liability for tax under § 58.1-931 attributable to such interest has been satisfied or has become unenforceable by lapse of time; or
+		</section>
+		<section prefix="2">It is established to the satisfaction of the Commissioner that no further tax liability attributable to such interest may arise under § 58.1-931.
+		</section>
+	</text>
+	<history>Code 1950, § 58-238.38; 1981, c. 399; 1984, c. 675.</history>
+</law>

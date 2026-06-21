@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="3" level="4">Tax Credits for Individuals</unit>
+	</structure>
+	<section_number>58.1-332</section_number>
+	<catch_line>Credits for taxes paid other states</catch_line>
+	<text>
+		<section prefix="A">Whenever a Virginia resident has become liable to another state for income tax on any earned or business income or any gain on the sale of a capital asset (within the meaning of § 1221 of the Internal Revenue Code), not including an asset used in a trade or business, to the extent that such gain is included in federal adjusted gross income, for the taxable year, derived from sources outside the Commonwealth and subject to taxation under this chapter, the amount of such tax payable by him shall, upon proof of such payment, be credited on the taxpayer's return with the income tax so paid to the other state.
+			However, no franchise tax, license tax, excise tax, unincorporated business tax, occupation tax or any tax characterized as such by the taxing jurisdiction, although applied to earned or business income, shall qualify for a credit under this section, nor shall any tax which, if characterized as an income tax or a commuter tax, would be illegal and unauthorized under such other state's controlling or enabling legislation qualify for a credit under this section.
+			The credit allowable under this section shall not exceed: (i) such proportion of the income tax otherwise payable by him under this chapter as his income upon which the tax imposed by the other state was computed bears to his Virginia taxable income upon which the tax imposed by this Commonwealth was computed or (ii) the income tax otherwise payable under this chapter in the event that the income upon which the tax imposed by the other state is computed is less than the Virginia taxable income upon which the tax imposed by this Commonwealth is computed and all income derived from sources outside the Commonwealth and subject to taxation under this chapter is earned income or business income reported on federal form Schedule C from a single state contiguous to Virginia. The credit provided for by this section shall not be granted to a resident individual when the laws of another state, under which the income in question is subject to tax assessment, provide a credit to such resident individual substantially similar to that granted by subsection B of this section.
+		</section>
+		<section prefix="B">Whenever a nonresident individual of this Commonwealth has become liable to the state where he resides for income tax upon his Virginia taxable income for the taxable year, derived from Virginia sources and subject to taxation under this chapter, the amount of such tax payable under this chapter shall be credited with such proportion of the tax so payable by him to the state where he resides, upon proof of such payment, as his income subject to taxation under this chapter bears to his entire income upon which the tax so payable to such other state was imposed. The credit, however, shall be allowed only if the laws of such state: (i) grant a substantially similar credit to residents of Virginia subject to income tax under such laws or (ii) impose a tax upon the income of its residents derived from Virginia sources and exempt from taxation the income of residents of this Commonwealth. No credit shall be allowed against the amount of the tax on any income taxable under this chapter which is exempt from taxation under the laws of such other state.
+		</section>
+		<section prefix="C">1. For purposes of this section, the amount of any state income tax paid by an electing small business corporation (S corporation) shall be deemed to have been paid by its individual shareholders in proportion to their ownership of the stock of such corporation.
+			<section prefix="2">For taxable years beginning on and after January 1, 2021, but before January 1, 2026, for purposes of this section, the amount of any state income tax paid by a pass-through entity under a law of another state substantially similar to § 58.1-390.3 shall be deemed to have been paid by its individual owners in proportion to their ownership.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.015; 1971, Ex. Sess., c. 171; 1972, c. 827; 1984, c. 675; 1985, c. 466; 1991, cc. 362, 456; 1992, c. 317; 1994, c. 195; 1998, c. 291; 1999, c. 317; 2022, cc. 689, 690.</history>
+</law>

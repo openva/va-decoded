@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="IV" level="2">Food and Drink; Weights and Measures</unit>
+		<unit label="chapter" identifier="55.1" level="3">Waste Kitchen Grease</unit>
+	</structure>
+	<section_number>3.2-5511</section_number>
+	<catch_line>Recordkeeping</catch_line>
+	<text>
+		Every registrant shall record, maintain for two years, and make available for inspection by the Department the following information:
+		<section prefix="1">The name and address of each location or person from which the registrant obtained the waste kitchen grease for transportation;
+		</section>
+		<section prefix="2">The quantity of material received from each location or person;
+		</section>
+		<section prefix="3">The date on which the waste kitchen grease was obtained from each location or person; and
+		</section>
+		<section prefix="4">The renderer or other processor to which the waste kitchen grease was delivered.
+		</section>
+	</text>
+	<history>2010, c. 868.</history>
+</law>

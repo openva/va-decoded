@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="56" level="2">Genetic Data Privacy</unit>
+	</structure>
+	<section_number>59.1-594</section_number>
+	<catch_line>Exclusions</catch_line>
+	<text>
+		This chapter shall not apply to any of the following:
+		<section prefix="1">Protected health information that is collected, maintained, used, or disclosed by a covered entity or business associate governed by the privacy, security, and data breach notification rules issued by the U.S. Department of Health and Human Services, 45 C.F.R. Parts 160 and 164, established pursuant to the federal Health Insurance Portability and Accountability Act of 1996, P.L. 104-191, and the federal Health Information Technology for Economic and Clinical Health Act, Title XIII of the federal American Recovery and Reinvestment Act of 2009, P.L. 111-5;
+		</section>
+		<section prefix="2">A covered entity governed by the privacy, security, and data breach notification rules issued by the U.S. Department of Health and Human Services, 45 C.F.R. Parts 160 and 164, established pursuant to the Health Insurance Portability and Accountability Act of 1996, P.L. 104-191, and the federal Health Information Technology for Economic and Clinical Health Act, Title XIII of the federal American Recovery and Reinvestment Act of 2009, P.L. 111-5, to the extent that the covered entity maintains, uses, and discloses genetic data in the same manner as protected health information, as described in subdivision 1;
+		</section>
+		<section prefix="3">A business associate of a covered entity governed by the privacy, security, and data breach notification rules issued by the U.S. Department of Health and Human Services, 45 C.F.R. Parts 160 and 164, established pursuant to the federal Health Insurance Portability and Accountability Act of 1996, P.L. 104-191, and the federal Health Information Technology for Economic and Clinical Health Act, Title XIII of the federal American Recovery and Reinvestment Act of 2009, P.L. 111-5, to the extent that the business associate maintains, uses, and discloses genetic data in the same manner as protected health information, as described in subdivision 1;
+		</section>
+		<section prefix="4">Scientific research or educational activities conducted by a public or private nonprofit institution of higher education that holds an assurance with the U.S. Department of Health and Human Services pursuant to 45 C.F.R. Part 46, to the extent that such scientific research and educational activities comply with all applicable federal and state laws and regulations for the protection of human subjects in research, including the Common Rule pursuant to 45 C.F.R. Part 46, U.S. Food and Drug Administration regulations pursuant to 21 C.F.R. Parts 50 and 56, and the federal Family Educational Rights and Privacy Act, 20 U.S.C. § 1232g;
+		</section>
+		<section prefix="5">The newborn screening program established pursuant to Article 7 (§ 32.1-65 et seq.) of Chapter 2 of Title 32.1;
+		</section>
+		<section prefix="6">Tests conducted exclusively to diagnose whether an individual has a specific disease, to the extent that all persons involved in the conduct of the test maintain, use, and disclose genetic data in the same manner as protected health information, as described in subdivision 1; or
+		</section>
+		<section prefix="7">Genetic data used or maintained by an employer, or disclosed by an employee to an employer, to the extent that the use, maintenance, or disclosure of such data is necessary to comply with a local, state, or federal workplace health and safety ordinance, law, or regulation.
+		</section>
+	</text>
+	<history>2023, c. 526.</history>
+</law>

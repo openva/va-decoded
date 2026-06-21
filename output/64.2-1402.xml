@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="A" level="3">Fiduciaries</unit>
+		<unit label="chapter" identifier="14" level="4">Fiduciaries Generally</unit>
+		<unit label="article" identifier="1" level="5">Appointment, Qualification, Resignation, and Removal of Fiduciaries</unit>
+	</structure>
+	<section_number>64.2-1402</section_number>
+	<catch_line>Jurisdiction for qualification of certain testamentary trustees and trustees generally</catch_line>
+	<text>
+		<section prefix="A">In the case of a testamentary trust for which there is no jurisdiction for probate as provided in § 64.2-1401 and in the case of any trust under any deed or other writing, other than a will, the trustee may qualify in any jurisdiction where the trustee resides, or if one trustee is a corporate trustee, then in the jurisdiction where the corporate trustee has its registered office.
+		</section>
+		<section prefix="B">If real estate located in the Commonwealth constitutes any of the trust assets, the qualification of the trustee under this section shall not be in lieu of any other recordation required by law.
+		</section>
+	</text>
+	<history>1964, c. 464, § 26-46.3; 2012, c. 614.</history>
+</law>

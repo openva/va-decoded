@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.1" level="4">Uniform Trust Decanting Act</unit>
+	</structure>
+	<section_number>64.2-779.16</section_number>
+	<catch_line>Tax-related provisions</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Grantor trust" means a trust as to which a settlor of a first trust is considered the owner under §§ 671 through 677 of the Internal Revenue Code or § 679 of the Internal Revenue Code.
+			"Internal Revenue Code" means the United States Internal Revenue Code of 1986.
+			"Nongrantor trust" means a trust that is not a grantor trust.
+			"Qualified benefits property" means property subject to the minimum distribution requirements of § 401(a)(9) of the Internal Revenue Code and any applicable regulations, or to any similar requirements that refer to § 401(a)(9) of the Internal Revenue Code or the regulations.
+		</section>
+		<section prefix="B">An exercise of the decanting power is subject to the following limitations:
+			<section prefix="1">If a first trust contains property that qualified, or would have qualified but for provisions of this article other than this section, for a marital deduction for purposes of the gift or estate tax under the Internal Revenue Code or a state gift, estate, or inheritance tax, the second-trust instrument must not include or omit any term that, if included in or omitted from the trust instrument for the trust to which the property was transferred, would have prevented the transfer from qualifying for the deduction, or would have reduced the amount of the deduction, under the same provisions of the Internal Revenue Code or state law under which the transfer qualified.
+			</section>
+			<section prefix="2">If the first trust contains property that qualified, or would have qualified but for provisions of this article other than this section, for a charitable deduction for purposes of the income, gift, or estate tax under the Internal Revenue Code or a state income, gift, estate, or inheritance tax, the second-trust instrument must not include or omit any term that, if included in or omitted from the trust instrument for the trust to which the property was transferred, would have prevented the transfer from qualifying for the deduction, or would have reduced the amount of the deduction, under the same provisions of the Internal Revenue Code or state law under which the transfer qualified.
+			</section>
+			<section prefix="3">If the first trust contains property that qualified, or would have qualified but for provisions of this article other than this section, for the exclusion from the gift tax described in § 2503(b) of the Internal Revenue Code, the second-trust instrument must not include or omit a term that, if included in or omitted from the trust instrument for the trust to which the property was transferred, would have prevented the transfer from qualifying under § 2503(b) of the Internal Revenue Code. If the first trust contains property that qualified, or would have qualified but for provisions of this article other than this section, for the exclusion from the gift tax described in § 2503(b) of the Internal Revenue Code by application of § 2503(c) of the Internal Revenue Code, the second-trust instrument must not include or omit a term that, if included or omitted from the trust instrument for the trust to which the property was transferred, would have prevented the transfer from qualifying under § 2503(c) of the Internal Revenue Code.
+			</section>
+			<section prefix="4">If the property of the first trust includes shares of stock in an S corporation, as defined in § 1361 of the Internal Revenue Code, and the first trust is, or but for provisions of this article other than this section would be, a permitted shareholder under any provision of § 1361 of the Internal Revenue Code, an authorized fiduciary may exercise the power with respect to part or all of the S-corporation stock only if any second trust receiving the stock is a permitted shareholder under § 1361(c)(2) of the Internal Revenue Code. If the property of the first trust includes shares of stock in an S corporation and the first trust is, or but for provisions of this article other than this section would be, a qualified subchapter-S trust within the meaning of § 1361(d) of the Internal Revenue Code, the second-trust instrument must not include or omit a term that prevents the second trust from qualifying as a qualified subchapter-S trust.
+			</section>
+			<section prefix="5">If the first trust contains property that qualified, or would have qualified but for provisions of this article other than this section, for a zero inclusion ratio for purposes of the generation-skipping transfer tax under § 2642(c) of the Internal Revenue Code the second-trust instrument must not include or omit a term that, if included in or omitted from the first-trust instrument, would have prevented the transfer to the first trust from qualifying for a zero inclusion ratio under § 2642(c) of the Internal Revenue Code.
+			</section>
+			<section prefix="6">If the first trust is directly or indirectly the beneficiary of qualified benefits property, the second-trust instrument may not include or omit any term that, if included in or omitted from the first-trust instrument, would have increased the minimum distributions required with respect to the qualified benefits property under § 401(a)(9) of the Internal Revenue Code and any applicable regulations, or any similar requirements that refer to § 401(a)(9) of the Internal Revenue Code or the regulations. If an attempted exercise of the decanting power violates the preceding sentence, the trustee is deemed to have held the qualified benefits property and any reinvested distributions of the property as a separate share from the date of the exercise of the power, and § 64.2-779.19 applies to the separate share.
+			</section>
+			<section prefix="7">If the first trust qualifies as a grantor trust because of the application of § 672(f)(2)(A) of the Internal Revenue Code, the second trust may not include or omit a term that, if included in or omitted from the first-trust instrument, would have prevented the first trust from qualifying under § 672(f)(2)(A) of the Internal Revenue Code.
+			</section>
+			<section prefix="8">In this subdivision, "tax benefit" means a federal or state tax deduction, exemption, exclusion, or other benefit not otherwise listed in this section, except for a benefit arising from being a grantor trust. Subject to subdivision 9, a second-trust instrument may not include or omit a term that, if included in or omitted from the first-trust instrument, would have prevented qualification for a tax benefit if:
+				a. The first-trust instrument expressly indicates an intent to qualify for the benefit or the first-trust instrument clearly is designed to enable the first trust to qualify for the benefit; and
+				b. The transfer of property held by the first trust or the first trust qualified, or would have qualified but for provisions of this article other than this section, would have qualified for the tax benefit.
+			</section>
+			<section prefix="9">Subject to subdivision 4:
+				a. Except as otherwise provided in subdivision 7, the second trust may be a nongrantor trust, even if the first trust is a grantor trust; and
+				b. Except as otherwise provided in subdivision 10, the second trust may be a grantor trust, even if the first trust is a nongrantor trust.
+			</section>
+			<section prefix="10">An authorized fiduciary may not exercise the decanting power if a settlor objects in a signed record delivered to the fiduciary within the notice period and:
+				a. The first trust and a second trust are both grantor trusts, in whole or in part, the first-trust instrument grants the settlor or another person the power to cause the first trust to cease to be a grantor trust, and the second-trust instrument does not grant an equivalent power to the settlor or other person; or
+				b. The first trust is a nongrantor trust and a second trust is a grantor trust, in whole or in part, with respect to the settlor, unless:
+				<section prefix="1">The settlor has the power at all times to cause the second trust to cease to be a grantor trust; or
+				</section>
+				<section prefix="2">The first-trust instrument contains a provision granting the settlor or another person a power that would cause the first trust to cease to be a grantor trust and the second-trust instrument contains the same provision.
+				</section>
+			</section>
+		</section>
+		<section prefix="C">If an authorized fiduciary that has limited distributive discretion over the income or principal of a first trust reasonably determines that the overall income, estate, gift, and generation-skipping tax consequences of the first trust may be reduced by either (i) granting a general power of appointment to a beneficiary of the first trust or (ii) eliminating a general power of appointment granted to a beneficiary of the first trust, the fiduciary may exercise the decanting power over all or any portion of the principal of the trust to grant or eliminate such a general power of appointment and shall, in addition, have the powers found in subsection D of § 64.2-779.8 as if the fiduciary had expanded distributive discretion, subject to the following provisions:
+			<section prefix="1">In the case of the grant of a general power of appointment, the class of permissible appointees contained in the second trust shall be limited to the creditors of the powerholder or the creditors of the powerholder's estate.
+			</section>
+			<section prefix="2">In the case of the elimination of a general power of appointment, the class of permissible appointees in the second trust shall exclude the powerholder, the powerholder's creditors, the powerholder's estate, and the creditors of the powerholder's estate, but shall otherwise be identical to the class of appointees permitted in the first trust.
+			</section>
+		</section>
+	</text>
+	<history>2017, c. 592.</history>
+</law>

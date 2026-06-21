@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4333</section_number>
+	<catch_line>Retainage on construction contracts</catch_line>
+	<text>
+		<section prefix="A">In any public contract for construction that provides for progress payments in installments based upon an estimated percentage of completion, the contractor shall be paid at least ninety-five percent of the earned sum when payment is due, with no more than five percent being retained to ensure faithful performance of the contract. All amounts withheld may be included in the final payment.
+		</section>
+		<section prefix="B">Any subcontract for a public project that provides for similar progress payments shall be subject to the provisions of this section.
+		</section>
+	</text>
+	<history>1982, c. 647, § 11-56; 2001, c. 844.</history>
+</law>

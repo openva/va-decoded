@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="22" level="3">Planning, Subdivision of Land and Zoning</unit>
+		<unit label="article" identifier="7.2" level="4">Zoning for Wireless Communications Infrastructure</unit>
+	</structure>
+	<section_number>15.2-2316.4</section_number>
+	<catch_line>Zoning; small cell facilities</catch_line>
+	<text>
+		<section prefix="A">A locality shall not require that a special exception, special use permit, or variance be obtained for any small cell facility installed by a wireless services provider or wireless infrastructure provider on an existing structure, provided that the wireless services provider or wireless infrastructure provider (i) has permission from the owner of the structure to co-locate equipment on that structure and (ii) notifies the locality in which the permitting process occurs.
+		</section>
+		<section prefix="B">Localities may require administrative review for the issuance of any required zoning permits for the installation of a small cell facility by a wireless services provider or wireless infrastructure provider on an existing structure. Localities shall permit an applicant to submit up to 35 permit requests on a single application. In addition:
+			<section prefix="1">A locality shall approve or disapprove the application within 60 days of receipt of the complete application. Within 10 days after receipt of an application and a valid electronic mail address for the applicant, the locality shall notify the applicant by electronic mail whether the application is incomplete and specify any missing information; otherwise, the application shall be deemed complete. Any disapproval of the application shall be in writing and accompanied by an explanation for the disapproval. The 60-day period may be extended by the locality in writing for a period not to exceed an additional 30 days. The application shall be deemed approved if the locality fails to act within the initial 60 days or an extended 30-day period.
+			</section>
+			<section prefix="2">A locality may prescribe and charge a reasonable fee for processing the application not to exceed:
+				a. $100 each for up to five small cell facilities on a permit application; and
+				b. $50 for each additional small cell facility on a permit application.
+			</section>
+			<section prefix="3">Approval for a permit shall not be unreasonably conditioned, withheld, or delayed.
+			</section>
+			<section prefix="4">The locality may disapprove a proposed location or installation of a small cell facility only for the following reasons:
+				a. Material potential interference with other pre-existing communications facilities or with future communications facilities that have already been designed and planned for a specific location or that have been reserved for future public safety communications facilities;
+				b. The public safety or other critical public service needs;
+				c. Only in the case of an installation on or in publicly owned or publicly controlled property, excluding privately owned structures where the applicant has an agreement for attachment to the structure, aesthetic impact or the absence of all required approvals from all departments, authorities, and agencies with jurisdiction over such property; or
+				d. Conflict with an applicable local ordinance adopted pursuant to § 15.2-2306, or pursuant to local charter on a historic property that is not eligible for the review process established under 54 U.S.C. § 306108.
+			</section>
+			<section prefix="5">Nothing shall prohibit an applicant from voluntarily submitting, and the locality from accepting, any conditions that otherwise address potential visual or aesthetic effects resulting from the placement of small cell facilities.
+			</section>
+			<section prefix="6">Nothing in this section shall preclude a locality from adopting reasonable rules with respect to the removal of abandoned wireless support structures or wireless facilities.
+			</section>
+		</section>
+		<section prefix="C">Notwithstanding anything to the contrary in this section, the installation, placement, maintenance, or replacement of micro-wireless facilities that are suspended on cables or lines that are strung between existing utility poles in compliance with national safety codes shall be exempt from locality-imposed permitting requirements and fees.
+		</section>
+	</text>
+	<history>2017, c. 835.</history>
+</law>

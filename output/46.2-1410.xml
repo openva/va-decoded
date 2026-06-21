@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="14.1" level="3">Peer-to-Peer Vehicle Sharing</unit>
+	</structure>
+	<section_number>46.2-1410</section_number>
+	<catch_line>Exemption: vicarious liability</catch_line>
+	<text>
+		A peer-to-peer vehicle sharing platform and a shared vehicle owner shall be exempt from vicarious liability under any law that imposes liability solely based on vehicle ownership for any offense that occurs during a vehicle sharing period.
+	</text>
+	<history>2020, c. 1266.</history>
+</law>

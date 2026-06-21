@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="62" level="2">Virginia Redistricting Commission</unit>
+	</structure>
+	<section_number>30-398</section_number>
+	<catch_line>Consideration of plans by the General Assembly; timeline</catch_line>
+	<text>
+		<section prefix="A">All plans for districts for the Senate and the House of Delegates shall be embodied in and voted on as a single bill.
+		</section>
+		<section prefix="B">All bills embodying plans for districts for the United States House of Representatives, the Senate, or the House of Delegates shall be voted on by the General Assembly in accordance with the provisions of Article IV, Section 11 of the Constitution of Virginia, except no amendments shall be permitted. All bills embodying a plan that are approved by both houses shall become law without the signature of the Governor and, pursuant to Article II, Section 6 of the Constitution of Virginia, shall take effect immediately.
+		</section>
+		<section prefix="C">Within 15 days of receipt of any plan for districts, the General Assembly shall take a vote on a bill embodying such plan. If the General Assembly fails to adopt the bill by this deadline, the Commission shall submit a new plan for districts within 14 days of the General Assembly's failure to adopt the bill. Within seven days of receipt of such plan, the General Assembly shall take a vote on the bill embodying the plan, and if the General Assembly fails to adopt the plan by this deadline, the districts shall be established by the Supreme Court of Virginia pursuant to § 30-399.
+		</section>
+		<section prefix="D">If the Commission submits a plan for districts pursuant to subsection C of § 30-397, the General Assembly shall take a vote on such plan within seven days of its receipt. If the General Assembly fails to adopt the plan by this deadline, the districts shall be established by the Supreme Court of Virginia pursuant to § 30-399.
+		</section>
+	</text>
+	<history>2020, Sp. Sess. I, c. 56; 2022, Sp. Sess. I, c. 1.</history>
+</law>

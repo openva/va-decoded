@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="III" level="2">Local Taxes</unit>
+		<unit label="chapter" identifier="36" level="3">Tax Exempt Property</unit>
+		<unit label="article" identifier="1" level="4">Exemptions Generally</unit>
+	</structure>
+	<section_number>58.1-3601</section_number>
+	<catch_line>Property becomes taxable immediately upon sale by tax-exempt owner</catch_line>
+	<text>
+		Any property exempt from taxation pursuant to this chapter which is subsequently sold to a person not having tax-exempt status shall immediately become subject to taxation and be assessed therefor. The tax levied for the current year shall be prorated for the remainder of the tax year.
+	</text>
+	<history>Code 1950, § 58-16.1; 1964, c. 178; 1984, c. 675.</history>
+</law>

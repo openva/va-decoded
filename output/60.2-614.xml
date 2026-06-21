@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="6" level="2">Benefits</unit>
+		<unit label="article" identifier="4" level="3">Eligibility Criteria</unit>
+	</structure>
+	<section_number>60.2-614</section_number>
+	<catch_line>Service required during immediately preceding benefit year in which individual received benefits</catch_line>
+	<text>
+		No individual may receive benefits in a benefit year unless, subsequent to the beginning of the immediately preceding benefit year during which he received benefits, he performed service for an employer as defined in § 60.2-210 for remuneration (i) during thirty days, whether or not such days were consecutive, or (ii) for 240 hours, and subsequently became totally or partially separated from such employment.
+	</text>
+	<history>1971, Ex. Sess., c. 235, § 60.1-52.2; 1977, c. 445; 1981, c. 369; 1984, c. 458; 1986, c. 480; 1997, c. 202.</history>
+</law>

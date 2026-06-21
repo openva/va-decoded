@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Taxation</unit>
+		<unit label="article" identifier="2" level="3">Employer Reporting Requirements</unit>
+	</structure>
+	<section_number>60.2-515</section_number>
+	<catch_line>Amount of taxes; increase of rate</catch_line>
+	<text>
+		Each employer shall pay taxes equal to the following percentages of wages payable by him with respect to employment:
+		<section prefix="1">Except as otherwise provided in Article 4 (§ 60.2-525 et seq.) of this chapter, 6.2 percent with respect to employment during the calendar year. Wages payable beyond the last pay period in December shall be considered as wages payable in the first pay period of the succeeding year, and included in reports required for the first reporting period of such year.
+		</section>
+		<section prefix="2">If the Federal Unemployment Tax Act is at any time amended to permit a higher maximum rate of credit against the federal tax now levied under § 3301 of the Internal Revenue Code than the credit that is now permitted under § 3302 of the Internal Revenue Code, to an employer with respect to any state unemployment compensation law whose standard tax rate on payroll under such law is more than 5.4 percent, the standard tax rate for all employers under this title shall, by Commission rule promulgated under § 60.2-111, be increased from 5.4 percent on wages to that percentage on wages which corresponds to the higher maximum rate of credit thus permitted against the federal unemployment tax. Such increase shall become effective on the same date as such higher maximum rate of credit becomes permissible under such federal amendment.
+		</section>
+		<section prefix="3">If the Federal Unemployment Tax Act is at any time amended to increase the rate of excise tax each employer pays for employing individuals, the Commission may, by rules promulgated under § 60.2-111, increase the rate of taxes under this title to the rate which corresponds to the highest maximum rate of credit permitted against such higher federal unemployment excise tax. Such increase shall become effective on the same date as such higher rate of federal unemployment excise tax becomes effective.
+		</section>
+	</text>
+	<history>Code 1950, § 60-63; 1950, p. 360; 1956, c. 440; 1968, c. 738, § 60.1-75; 1974, c. 466; 1977, c. 330; 1980, c. 480; 1981, c. 606; 1985, c. 152; 1986, c. 480.</history>
+</law>

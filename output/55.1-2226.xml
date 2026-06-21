@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="IV" level="2">Common Interest Communities</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Real Estate Time-Share Act</unit>
+		<unit label="article" identifier="3" level="4">Protection of Purchasers</unit>
+	</structure>
+	<section_number>55.1-2226</section_number>
+	<catch_line>Buyer's Acknowledgment</catch_line>
+	<text>
+		<section prefix="A">Prior to the execution of a purchase contract, a purchaser shall be given a separate written document, titled "Buyer's Acknowledgment," to be signed by the purchaser and a representative of the developer other than the salesperson for the transaction.
+		</section>
+		<section prefix="B">The Buyer's Acknowledgment shall contain the following:
+			<section prefix="1">The name and address of the developer;
+			</section>
+			<section prefix="2">The name and address of the time-share project;
+			</section>
+			<section prefix="3">Whether the developer currently offers a resale or rental program or a buy-back program; and
+			</section>
+			<section prefix="4">The following statement in at least 10-point boldface type:
+				"There is no assurance that a purchaser may resell a time-share for a certain price or on particular terms. By signing below, purchaser acknowledges that this purchase is (i) for personal use and enjoyment and not for commercial or investment purposes and (ii) not being made based upon any representation that the time-share has any future market value or resale potential."
+			</section>
+		</section>
+	</text>
+	<history>2012, c. 751, § 55-376.5; 2019, c. 712.</history>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="7.1" level="3">Computer Crimes</unit>
+	</structure>
+	<section_number>18.2-152.3</section_number>
+	<catch_line>Computer fraud; penalty</catch_line>
+	<text>
+		Any person who uses a computer or computer network, without authority and:
+		<section prefix="1">Obtains property or services by false pretenses;
+		</section>
+		<section prefix="2">Embezzles or commits larceny; or
+		</section>
+		<section prefix="3">Converts the property of another;
+			is guilty of the crime of computer fraud.
+			If the value of the property or services obtained is $1,000 or more, the crime of computer fraud shall be punishable as a Class 5 felony. Where the value of the property or services obtained is less than $1,000, the crime of computer fraud shall be punishable as a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>1984, c. 751; 1985, c. 322; 2003, cc. 987, 1016; 2005, cc. 747, 761, 827, 837; 2018, cc. 764, 765; 2020, cc. 89, 401.</history>
+</law>

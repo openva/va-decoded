@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.5</section_number>
+	<catch_line>Management</catch_line>
+	<text>
+		<section prefix="A">A protected series may have more than one protected series manager.
+		</section>
+		<section prefix="B">If a protected series has no associated members, the series limited liability company is the protected series manager.
+		</section>
+		<section prefix="C">Section 13.1-1094 shall be applicable to the determination of any duties of a protected series manager of a protected series of a series limited liability company to:
+			<section prefix="1">The protected series;
+			</section>
+			<section prefix="2">Any associated member of the protected series; and
+			</section>
+			<section prefix="3">Any protected series assignee of the protected series.
+			</section>
+		</section>
+		<section prefix="D">Solely by reason of being or acting as a protected series manager of a protected series of a series limited liability company, a person owes no duty to:
+			<section prefix="1">The series limited liability company;
+			</section>
+			<section prefix="2">Another protected series of the series limited liability company; or
+			</section>
+			<section prefix="3">Another person in that person's capacity as:
+				a. A member of the series limited liability company that is not an associated member of the protected series;
+				b. A protected series assignee or protected series manager of another protected series; or
+				c. An assignee of the series limited liability company.
+			</section>
+		</section>
+		<section prefix="E">An associated member of a protected series of a series limited liability company has the same rights as any other member of the series limited liability company to vote on or consent to an amendment to the series limited liability company's operating agreement or any other matter being decided by the members, whether or not the amendment or matter affects the interests of the protected series or the associated member.
+		</section>
+		<section prefix="F">Sections 13.1-1042 through 13.1-1045 apply to a protected series in accordance with § 13.1-1094.
+		</section>
+		<section prefix="G">An associated member of a protected series is an agent for the protected series with power to bind the protected series to the same extent that a member of a limited liability company is under subdivision A 1 of § 13.1-1021.1 an agent for the series limited liability company with statutory power to bind the company.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

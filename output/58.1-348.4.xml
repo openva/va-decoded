@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="4" level="4">Accounting, Returns, Procedures for Individuals</unit>
+	</structure>
+	<section_number>58.1-348.4</section_number>
+	<catch_line>Failure to provide identification number; civil penalty</catch_line>
+	<text>
+		<section prefix="A">No income tax return preparer may provide tax preparation services for Virginia income tax returns unless he provides his PTIN, as defined in § 58.1-348.3, when submitting a return and signing as an income tax return preparer.
+		</section>
+		<section prefix="B">In addition to all other penalties provided by law, any person who violates subsection A shall pay a civil penalty to the Department in the amount of $50 per offense, but not to exceed $25,000 per calendar year. No penalty shall be imposed if the violation is reasonable and unintentional as determined by the Department.
+		</section>
+	</text>
+	<history>2018, c. 150.</history>
+</law>

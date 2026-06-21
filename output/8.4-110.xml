@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="1" level="2">General Provisions and Definitions</unit>
+	</structure>
+	<section_number>8.4-110</section_number>
+	<catch_line>Electronic presentment</catch_line>
+	<text>
+		<section prefix="a">"Agreement for electronic presentment" means an agreement, clearing-house rule, or Federal Reserve regulation or operating circular, providing that presentment of an item may be made by transmission of an image of an item or information describing the item ("presentment notice") rather than delivery of the item itself. The agreement may provide for procedures governing retention, presentment, payment, dishonor, and other matters concerning items subject to the agreement.
+		</section>
+		<section prefix="b">Presentment of an item pursuant to an agreement for presentment is made when the presentment notice is received.
+		</section>
+		<section prefix="c">If presentment is made by presentment notice, a reference to "item" or "check" in this title means the presentment notice unless the context otherwise indicates.
+		</section>
+	</text>
+	<history>1992, c. 693.</history>
+</law>

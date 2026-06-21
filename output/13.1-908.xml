@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="13" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-908</section_number>
+	<catch_line>Known claims against dissolved corporation</catch_line>
+	<text>
+		<section prefix="A">A dissolved corporation may dispose of the known claims against it by following the procedure described in this section.
+		</section>
+		<section prefix="B">The dissolved corporation shall deliver to each of its known claimants written notice of the dissolution at any time after its effective date. The written notice shall:
+			<section prefix="1">Provide a reasonable description of the claim that the claimant may be entitled to assert;
+			</section>
+			<section prefix="2">State whether the claim is admitted, or not admitted, and if admitted (i) the amount that is admitted, which may be as of a given date, and (ii) any interest obligation if fixed by an instrument of indebtedness;
+			</section>
+			<section prefix="3">Provide a mailing address where a claim may be sent;
+			</section>
+			<section prefix="4">State the deadline, which may not be fewer than 120 days from the effective date of the written notice, by which confirmation of the claim is required to be delivered to the dissolved corporation; and
+			</section>
+			<section prefix="5">State that, except to the extent that any claim is admitted, the claim will be barred if written confirmation of the claim is not delivered by the deadline.
+			</section>
+		</section>
+		<section prefix="C">A claim against the dissolved corporation is barred to the extent that it is not admitted:
+			<section prefix="1">If the dissolved corporation delivered written notice to the claimant in accordance with subsection B and the claimant does not deliver written confirmation of the claim to the dissolved corporation by the deadline; or
+			</section>
+			<section prefix="2">If the dissolved corporation delivered written notice to the claimant that his claim is not admitted, in whole or in part, and the claimant does not commence a proceeding to enforce the claim within 90 days from the delivery of written confirmation of the claim to the dissolved corporation.
+			</section>
+		</section>
+		<section prefix="D">For purposes of this section, "claim" does not include (i) a contingent liability or a claim based on an event occurring after the effective date of dissolution or (ii) a liability or claim the ultimate maturity of which is more than 60 days after the delivery of written notice to the claimant pursuant to subsection B.
+		</section>
+		<section prefix="E">If a liability exists but the full extent of any damages is or may not be ascertainable, and a proceeding to enforce the claim is commenced pursuant to subdivision C 2, the claimant may amend the pleadings after filing to include any damages that occurred or are alleged to have occurred after filing, and the court having jurisdiction of such claim may continue such proceeding during its pendency if it appears that further damages are or may be still occurring.
+		</section>
+	</text>
+	<history>1985, c. 522; 2007, c. 925.</history>
+</law>

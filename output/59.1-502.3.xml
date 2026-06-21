@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="2" level="3">Formation and Terms</unit>
+	</structure>
+	<section_number>59.1-502.3</section_number>
+	<catch_line>Offer and acceptance in general</catch_line>
+	<text>
+		Unless otherwise unambiguously indicated by the language or the circumstances:
+		<section prefix="1">An offer to make a contract invites acceptance in any manner and by any medium reasonable under the circumstances.
+		</section>
+		<section prefix="2">An order or other offer to acquire a copy for prompt or current delivery invites acceptance by either a prompt promise to ship or a prompt or current shipment of a conforming or nonconforming copy. However, a shipment of a nonconforming copy is not an acceptance if the licensor seasonably notifies the licensee that the shipment is offered only as an accommodation to the licensee.
+		</section>
+		<section prefix="3">If the beginning of a requested performance is a reasonable mode of acceptance, an offeror that is not notified of acceptance or performance within a reasonable time may treat the offer as having lapsed before acceptance.
+		</section>
+		<section prefix="4">If an offer in an electronic message evokes an electronic message accepting the offer, a contract is formed:
+			<section prefix="A">when an electronic acceptance is received; or
+			</section>
+			<section prefix="B">if the response consists of beginning performance, full performance, or giving access to information, when the performance is received or the access is enabled and necessary access materials are received.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

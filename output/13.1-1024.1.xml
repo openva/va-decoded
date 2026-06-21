@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="5" level="3">Relationship of Members to Each Other</unit>
+	</structure>
+	<section_number>13.1-1024.1</section_number>
+	<catch_line>General standards of conduct for a manager</catch_line>
+	<text>
+		<section prefix="A">A manager shall discharge his or its duties as a manager in accordance with the manager's good faith business judgment of the best interests of the limited liability company.
+		</section>
+		<section prefix="B">Unless a manager has knowledge or information concerning the matter in question that makes reliance unwarranted, a manager is entitled to rely on information, opinions, reports or statements, including financial statements and other financial data, if prepared or presented by:
+			<section prefix="1">One or more managers or employees of the limited liability company whom the manager believes, in good faith, to be reliable and competent in the matters presented;
+			</section>
+			<section prefix="2">Legal counsel, public accountants, or other persons as to matters the manager believes, in good faith, are within the person's professional or expert competence; or
+			</section>
+			<section prefix="3">A committee of the managers of which the manager is not a member if the manager believes, in good faith, that the committee merits confidence.
+			</section>
+		</section>
+		<section prefix="C">A person alleging a violation of this section has the burden of proving the violation.
+		</section>
+		<section prefix="D">For the purposes of this section only, the term "manager" shall be deemed to include any member that is participating in the management of the limited liability company.
+		</section>
+	</text>
+	<history>1992, c. 574.</history>
+</law>

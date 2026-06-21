@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1432</section_number>
+	<catch_line>Savings, certificates, etc</catch_line>
+	<text>
+		A domestic insurer may invest in any of the following:
+		<section prefix="1">Interest-bearing checking or savings accounts, certificates of deposit, or other short-term investments made available or issued by any solvent bank or trust company that is a member of the Federal Deposit Insurance Corporation;
+		</section>
+		<section prefix="2">Interest-bearing savings or share accounts, certificates of deposit or any other short-term investments made available or issued by any solvent building and loan or savings institution insured by the Federal Deposit Insurance Corporation or other federal insurance agency;
+		</section>
+		<section prefix="3">Bankers acceptances of the kinds and maturities made eligible by law for rediscount with Federal Reserve Banks, provided that these securities are accepted by a bank or trust company that is a member of the Federal Reserve System;
+		</section>
+		<section prefix="4">Money market mutual funds, provided that the Commission has granted prior written approval to the insurer with respect to its investment in any money market mutual fund sponsored by affiliates of the insurer and that such money market fund sponsored by affiliates meets the requirements set forth in subdivisions 1 and 2 of § 38.2-1427.2; or
+		</section>
+		<section prefix="5">United States government bond mutual funds.
+		</section>
+	</text>
+	<history>1983, c. 457, § 38.1-217.35; 1986, c. 562; 1990, c. 3; 1995, c. 60; 1996, c. 77.</history>
+</law>

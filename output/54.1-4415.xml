@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="VI" level="2">Professions Regulated by Other Entities</unit>
+		<unit label="chapter" identifier="44" level="3">Public Accountants</unit>
+	</structure>
+	<section_number>54.1-4415</section_number>
+	<catch_line>Exemptions from unlawful acts</catch_line>
+	<text>
+		The unlawful acts listed in § 54.1-4414 shall not apply to a person or entity holding a certification, designation, degree, or license granted in a foreign country entitling the holder to engage in the practice of public accounting or its equivalent in the country, provided that:
+		<section prefix="1">The practice of the person or entity in Virginia is limited to providing services to persons or entities who are residents of, governments of, or business entities of the country in which the entitlement is held;
+		</section>
+		<section prefix="2">The person or entity does not engage in the practice of public accounting for any other person, firm, or governmental unit located in Virginia; and
+		</section>
+		<section prefix="3">The person or entity designates the country of origin and does not use any title or designation other than the one under which he or the entity may lawfully practice in the country of origin, which may be followed by a translation of the title or designation into English.
+		</section>
+	</text>
+	<history>2001, c. 832; 2007, c. 804.</history>
+</law>

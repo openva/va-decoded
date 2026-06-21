@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="4" level="2">Health Care Planning</unit>
+		<unit label="article" identifier="2.1" level="3">Statewide Emergency Medical Services System and Services</unit>
+	</structure>
+	<section_number>32.1-111.9:1</section_number>
+	<catch_line>Out-of-state emergency medical services providers</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding the provisions of this article or any other law or regulation to the contrary, an emergency medical services provider who holds a valid license or certification in a state that borders the Commonwealth may provide emergency medical services in the Commonwealth if (i) such services are provided at a widely attended event open to the public; (ii) due to the expected number of attendees, the anticipated need for emergency medical services at the event is beyond the capacity of local emergency medical services providers; (iii) the organizers of the event notify the Commissioner at least 10 business days prior to the event that out-of-state emergency medical services providers will be onsite at the event; and (iv) the out-of-state medical services providers provide to the Commissioner relevant licensure or certification information and any other information deemed necessary by the Commissioner.
+		</section>
+		<section prefix="B">The provisions of this section shall not be construed to supersede or affect the provisions of Chapter 18 (§ 32.1-371) or any other interstate agreement regarding emergency medical services providers. Any out-of-state emergency medical services provider who holds a license or certification in a state that has entered into an interstate compact of which the Commonwealth is a member or any other interstate agreement with the Commonwealth regarding emergency medical services providers shall be governed by the provisions of such compact or agreement.
+		</section>
+	</text>
+	<history>2018, c. 196.</history>
+</law>

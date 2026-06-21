@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="12" level="3">Domestication and Conversion</unit>
+	</structure>
+	<section_number>13.1-1270</section_number>
+	<catch_line>Effect of domestication</catch_line>
+	<text>
+		<section prefix="A">When a foreign business trust's certificate of domestication in this Commonwealth becomes effective, with respect to that business trust:
+			<section prefix="1">The title to all real estate and other property remains in the business trust without reversion or impairment;
+			</section>
+			<section prefix="2">The liabilities remain the liabilities of the business trust;
+			</section>
+			<section prefix="3">A proceeding pending may be continued by or against the business trust as if the domestication did not occur;
+			</section>
+			<section prefix="4">The articles of trust attached to the articles of domestication constitute the articles of trust of the business trust; and
+			</section>
+			<section prefix="5">The business trust is deemed to:
+				a. Be formed under the laws of this Commonwealth for all purposes;
+				b. Be the same business trust as the business trust that existed under the laws of the jurisdiction or jurisdictions in which it was originally formed or formerly domiciled; and
+				c. Have been formed on the date it was originally formed or organized.
+			</section>
+		</section>
+		<section prefix="B">Any trustee of a foreign business trust that domesticates into this Commonwealth who, prior to the domestication, was liable for the liabilities or obligations of the business trust is not released from those liabilities or obligations by reason of the domestication.
+		</section>
+	</text>
+	<history>2002, c. 621.</history>
+</law>

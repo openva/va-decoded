@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="11" level="2">Proceedings on Question of Insanity</unit>
+	</structure>
+	<section_number>19.2-168.1</section_number>
+	<catch_line>Evaluation on motion of the Commonwealth after notice</catch_line>
+	<text>
+		<section prefix="A">If the attorney for the defendant gives notice pursuant to § 19.2-168, and the Commonwealth thereafter seeks an evaluation of the defendant's sanity at the time of the offense, the court shall appoint one or more qualified mental health experts to perform such an evaluation. The court shall order the defendant to submit to such an evaluation and advise the defendant on the record in court that a refusal to cooperate with the Commonwealth's expert could result in exclusion of the defendant's expert evidence. The qualification of the experts shall be governed by subsection A of § 19.2-169.5. The location of the evaluation shall be governed by subsection B of § 19.2-169.5. The attorney for the Commonwealth shall be responsible for providing the experts the information specified in subsection C of § 19.2-169.5. After performing their evaluation, the experts shall report their findings and opinions, and provide copies of psychiatric, psychological, medical or other records obtained during the course of the evaluation to the attorneys for the Commonwealth and the defense. The evaluator shall also send a redacted copy of the report removing references to the defendant's name, date of birth, case number, and court of jurisdiction to the Commissioner of Behavioral Health and Developmental Services for the purpose of peer review to establish and maintain the list of approved evaluators described in subsection A of § 19.2-169.5.
+		</section>
+		<section prefix="B">If the court finds, after hearing evidence presented by the parties, that the defendant has refused to cooperate with an evaluation requested by the Commonwealth, it may admit evidence of such refusal or, in the discretion of the court, bar the defendant from presenting expert psychiatric or psychological evidence at trial on the issue of his sanity at the time of the offense.
+		</section>
+	</text>
+	<history>1982, c. 653; 1986, c. 535; 2016, c. 445.</history>
+</law>

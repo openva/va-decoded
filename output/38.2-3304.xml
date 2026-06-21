@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="1" level="3">Life Insurance Policies; Annuities</unit>
+	</structure>
+	<section_number>38.2-3304</section_number>
+	<catch_line>Policy constitutes entire contract; statements deemed representations</catch_line>
+	<text>
+		<section prefix="A">Each individual life insurance policy shall contain a provision that the policy, or the policy and the application for the policy if a copy of the application is endorsed upon or attached to the policy when issued or delivered, shall constitute the entire contract between the parties.
+		</section>
+		<section prefix="B">The provision shall also state that:
+			<section prefix="1">All statements made by the insured shall, in the absence of fraud, be deemed representations and not warranties; and
+			</section>
+			<section prefix="2">No statement shall be used in defense of a claim under the policy unless it is contained in a written application that is endorsed upon or attached to the policy when issued or delivered.
+			</section>
+		</section>
+		<section prefix="C">As used in this section, "policy" shall include any riders, endorsements or amendments.
+		</section>
+	</text>
+	<history>Code 1950, § 38-371(3); 1950, p. 179; 1952, c. 317, § 38.1-393; 1986, c. 562; 1990, c. 223.</history>
+</law>

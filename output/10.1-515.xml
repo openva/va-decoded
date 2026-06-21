@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="5" level="3">Soil and Water Conservation</unit>
+		<unit label="article" identifier="3" level="4">Soil and Water Conservation Districts</unit>
+	</structure>
+	<section_number>10.1-515</section_number>
+	<catch_line>Composition of governing body</catch_line>
+	<text>
+		If the Board determines that the operation of the proposed district within the defined boundaries is administratively practicable and feasible, and the proposed district is created, then its governing body shall be a board of district directors appointed or elected in the number and manner specified as follows:
+		<section prefix="1">If the district embraces one county or city, or less than one county or city, the board of district directors shall consist of five members, three to be elected by the registered voters of the district and two appointed by the Board.
+		</section>
+		<section prefix="2">If the district embraces more than one county or city, or parts thereof, the board of district directors shall consist of two members elected by the registered voters from each county or city, or parts thereof embraced by the district. Two members-at-large shall be appointed by the Board.
+		</section>
+	</text>
+	<history>Code 1950, § 21-27; 1964, c. 512; 1970, c. 480; 1978, c. 763; 1988, c. 891; 2002, cc. 143, 236.</history>
+</law>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="8" level="3">Remedies</unit>
+	</structure>
+	<section_number>59.1-508.15</section_number>
+	<catch_line>Right to possession and to prevent use</catch_line>
+	<text>
+		<section prefix="a">On cancellation of a license, the licensor has the right:
+			<section prefix="1">to possession of all copies of the licensed information in the possession or control of the licensee and any other materials pertaining to that information which by contract are to be returned or delivered by the licensee to the licensor; and
+			</section>
+			<section prefix="2">to prevent the continued exercise of contractual and informational rights in the licensed information under the license.
+			</section>
+		</section>
+		<section prefix="b">Except as otherwise provided in § 59.1-508.14, a licensor may exercise his rights under subsection (a) without judicial process only if this can be done:
+			<section prefix="1">without a breach of the peace;
+			</section>
+			<section prefix="2">without a foreseeable risk of personal injury or significant physical damage to information or property other than the licensed information; and
+			</section>
+			<section prefix="3">in accordance with § 59.1-508.16.
+			</section>
+		</section>
+		<section prefix="c">In a judicial proceeding, the court may enjoin a licensee in breach of contract from continued use of the information and informational rights and may order the licensor or a judicial officer to take the steps described in § 59.1-506.18.
+		</section>
+		<section prefix="d">A party has a right to an expedited judicial hearing on a request for prejudgment relief to enforce or protect its rights under this section.
+		</section>
+		<section prefix="e">The right to possession under this section is not available to the extent that the information, before breach of the license and in the ordinary course of performance under the license, was so altered or commingled that the information is no longer identifiable or separable.
+		</section>
+		<section prefix="f">A licensee that provides information to a licensor subject to contractual use terms has the rights and is subject to the limitations of a licensor under this section with respect to the information he provides.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

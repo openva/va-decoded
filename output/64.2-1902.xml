@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="C" level="3">Guardianship of Minor</unit>
+		<unit label="chapter" identifier="19" level="4">Virginia Uniform Transfers to Minors Act</unit>
+	</structure>
+	<section_number>64.2-1902</section_number>
+	<catch_line>Nomination of custodian</catch_line>
+	<text>
+		<section prefix="A">A person having the right to designate the recipient of property transferable upon the occurrence of a future event may revocably nominate a custodian to receive the property for a minor beneficiary upon the occurrence of the event by naming the custodian followed in substance by the words: "as custodian for............… (name of minor) under the Virginia Uniform Transfers to Minors Act." The nomination may name one or more persons as substitute custodians to whom the property shall be transferred, in the order named, if the first nominated custodian dies before the transfer or is unable, declines, or is ineligible to serve. The nomination may be made in a will, a trust, a deed, an instrument exercising a power of appointment, or a writing designating a beneficiary of contractual rights that is registered with or delivered to the payor, issuer, or other obligor of the contractual rights.
+		</section>
+		<section prefix="B">A custodian nominated under this section shall be a person to whom a transfer of property of that kind may be made under subsection A of § 64.2-1908.
+		</section>
+		<section prefix="C">The nomination of a custodian under this section does not create custodial property until the nominating instrument becomes irrevocable or a transfer to the nominated custodian is completed under § 64.2-1908. Unless the nomination of custodian has been revoked, upon the occurrence of the future event the custodianship becomes effective and the custodian shall enforce a transfer of the custodial property pursuant to § 64.2-1908.
+		</section>
+	</text>
+	<history>1988, c. 516, § 31-39; 2012, c. 614.</history>
+</law>

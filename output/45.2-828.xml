@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="4" level="5">Ventilation, Mine Gases, and Other Hazardous Conditions</unit>
+	</structure>
+	<section_number>45.2-828</section_number>
+	<catch_line> Weekly examinations</catch_line>
+	<text>
+		<section prefix="A">At least once every seven days, a mine foreman shall examine each unsealed worked-out area where no pillars have been recovered.
+		</section>
+		<section prefix="B">At least once every seven days, a mine foreman shall evaluate the effectiveness of each bleeder system used pursuant to § 45.2-837.
+		</section>
+		<section prefix="C">At least once every seven days, a mine foreman shall examine each of the following locations for hazardous conditions:
+			<section prefix="1">At least one entry of each intake air course, in its entirety, so that the entire air course is traveled.
+			</section>
+			<section prefix="2">At least one entry of each return air course, in its entirety, so that the entire air course is traveled.
+			</section>
+			<section prefix="3">Each longwall or shortwall travel way, in its entirety, so that the entire travel way is traveled.
+			</section>
+			<section prefix="4">Each seal along each return or bleeder air course and each seal along each intake air course not examined pursuant to § 45.2-826.
+			</section>
+			<section prefix="5">Each escapeway, in its entirety, so that the entire escapeway is traveled.
+			</section>
+			<section prefix="6">Each working section not examined pursuant to § 45.2-826 during the previous seven days.
+			</section>
+		</section>
+		<section prefix="D">At least once every seven days, a certified person shall:
+			<section prefix="1">Determine the volume of air entering each main intake and each intake split;
+			</section>
+			<section prefix="2">Determine the volume of air and test for methane in the last open crosscut in any pair or set of developing entries or rooms. Such determination and test shall be conducted in the return of each split of air immediately before it enters the main returns and where the air leaves the main returns; and
+			</section>
+			<section prefix="3">Test for methane in the return entry nearest each set of seals immediately after the air passes the seals.
+			</section>
+		</section>
+		<section prefix="E">Any hazardous condition shall be corrected immediately. If the condition creates an imminent danger, everyone except those persons necessary to correct the hazardous condition shall be withdrawn from the area affected to a safe area until the hazardous condition is corrected.
+		</section>
+		<section prefix="F">No weekly examination is required during any seven-day period in which no person enters any underground area of a mine. If a mine is idled or is in a nonproducing status with entry only for maintenance of the mine, weekly examinations may be conducted in accordance with a plan approved by the Chief.
+		</section>
+		<section prefix="G">Except for certified persons required to make examinations, no person shall enter any underground area of a coal mine if no weekly examination has been completed within the preceding seven days. The weekly examination may be conducted at the same time as the pre-shift examination.
+		</section>
+		<section prefix="H">A person making a weekly examination shall certify completion of the examination by initials, date, and time at enough locations to show that the entire area has been examined.
+		</section>
+		<section prefix="I">Any examination of surface areas of underground coal mines shall be made in accordance with the requirements for weekly examinations at surface coal mines pursuant to § 45.2-903.
+		</section>
+	</text>
+	<history>Code 1950, §§ 45-32, 45-33, 45-35, 45-40, 45-60.4, 45-68.1, 45-69.7; 1954, c. 191; 1966, c. 594, §§ 45.1-17, 45.1-56, 45.1-65; 1968, c. 310; 1978, cc. 120, 729; 1993, cc. 170, 442; 1994, c. 28, § 45.1-161.210; 1996, c. 774; 1999, c. 256; 2005, c. 3; 2021, Sp. Sess. I, c. 387.</history>
+</law>

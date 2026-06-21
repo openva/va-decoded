@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="3" level="2">Funds</unit>
+		<unit label="article" identifier="1" level="3">Unemployment Compensation Fund</unit>
+	</structure>
+	<section_number>60.2-300</section_number>
+	<catch_line>Fund continued; accounts maintained</catch_line>
+	<text>
+		The special fund established in the state treasury and known as the Unemployment Compensation Fund is continued. The Comptroller shall maintain within the fund two separate accounts:
+		<section prefix="1">A clearing account; and
+		</section>
+		<section prefix="2">A benefit account.
+		</section>
+	</text>
+	<history>Code 1950, § 60-90; 1968, c. 738, § 60.1-106; 1986, c. 480.</history>
+</law>

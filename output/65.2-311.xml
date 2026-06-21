@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="3" level="2">Application and Effect of Title</unit>
+	</structure>
+	<section_number>65.2-311</section_number>
+	<catch_line>Expenses and attorney's fees in action under § 65.2-309 or § 65.2-310</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsection B, in any action, or claim for damages, by an employee, his personal representative or other person against any person other than the employer, and in any such action brought, or claim asserted, by the employer under his right of subrogation provided for in § 65.2-309, if a recovery is effected, either by judgment or voluntary settlement, the reasonable expenses and reasonable attorney's fees of such claimants shall be apportioned pro rata between the employer and the employee, his personal representative or other person, as their respective interests may appear.
+		</section>
+		<section prefix="B">If the employer is required to institute an action against any party to recover some or all of its lien pursuant to subsection D of § 65.2-309, the employer shall not be required to pay any share of the reasonable expenses and reasonable attorney's fees associated with that portion of its lien that is not preserved by the employee, his personal representative or other person.
+		</section>
+	</text>
+	<history>Code 1950, § 65-39.1; 1960, c. 89; 1968, c. 660, § 65.1-43; 1991, c. 355; 2004, cc. 914, 941.</history>
+</law>

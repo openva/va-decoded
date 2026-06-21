@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="55" level="4">Virginia Biotechnology Research Act</unit>
+	</structure>
+	<section_number>2.2-5501</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, unless the context requires a different meaning:
+		"Affected localities" means the locality in which a regulated introduction is proposed to be made and any locality within a three-mile radius of the location where the regulated introduction is proposed to be made.
+		"Confidential business information" means information entitled to confidential treatment under subdivision A 1 or A 2 of § 2.2-5506.
+		"Coordinated Framework" means the federal Coordinated Framework for the Regulation of Biotechnology set forth in 51 Fed. Reg. 23,302 through 23,350 (June 26, 1986), as amended.
+		"Department" means the department designated by the Secretary of Commerce and Trade to implement the requirements of this chapter for certain types or classes of regulated introductions. Where possible, the Secretary shall designate the department whose purpose most closely resembles the purpose of the federal regulator that will be responsible under the Coordinated Framework for reviewing and authorizing the regulated introduction.
+		"Federal regulator" means a federal department, agency, or other instrumentality of the federal government, or a designee of such federal instrumentality, which is responsible for regulating an introduction of a genetically engineered organism into the environment under the Coordinated Framework.
+		"Genetically engineered organism" means an organism (any organism such as animal, plant, bacterium, cyanobacterium, fungus, protist, or virus), altered or produced through genetic modification from a donor, vector, or recipient organism using modern molecular techniques such as recombinant deoxyribonucleic acid (DNA) methodology, and any living organisms derived therefrom.
+		"Locality" means any county, city or town located within the Commonwealth.
+		"Planned introduction into the environment" means the intentional introduction or use in the Commonwealth beyond the de minimis level of a genetically engineered organism anywhere except within an indoor facility that is designed to physically contain the genetically engineered organism, including a laboratory, greenhouse, building, structure, growth chamber, or fermenter.
+		"Regulated introduction" means a planned introduction into the environment for which the Coordinated Framework requires that the person proposing to commence the introduction into the environment do one or more of the following:
+		<section prefix="1">Notify a federal regulator of the proposed introduction into the environment;
+		</section>
+		<section prefix="2">Secure the approval of or a permit or license from a federal regulator before commencing the introduction into the environment; or
+		</section>
+		<section prefix="3">Secure a determination by a federal regulator of the need for notification, approval, licensing or issuance of a permit by the federal regulator if the determination is part of a procedure specified in the Coordinated Framework.
+		</section>
+	</text>
+	<history>1994, c. 472, § 2.1-770; 2001, c. 844.</history>
+</law>

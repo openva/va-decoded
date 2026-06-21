@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="2" level="3">Formation</unit>
+	</structure>
+	<section_number>13.1-1218</section_number>
+	<catch_line>Existence</catch_line>
+	<text>
+		<section prefix="A">Except to the extent otherwise provided in this chapter, in the articles of trust or in the governing instrument of the business trust, a business trust:
+			<section prefix="1">Shall have perpetual existence; and
+			</section>
+			<section prefix="2">May not be terminated or revoked by a beneficial owner or other person except in accordance with the terms of the articles of trust or the governing instrument of the business trust.
+			</section>
+		</section>
+		<section prefix="B">Except to the extent otherwise provided in the articles of trust or in the governing instrument of a business trust, the death, incapacity, dissolution, termination, or bankruptcy of a beneficial owner shall not result in the termination or dissolution of a business trust.
+		</section>
+		<section prefix="C">In the event that a business trust does not have perpetual existence, a business trust is dissolved and its affairs shall be wound up in accordance with Article 8 (§ 13.1-1234 et seq.) of this chapter at the time or on the happening of events specified in the articles of trust or the governing instrument.
+		</section>
+	</text>
+	<history>2002, c. 621.</history>
+</law>

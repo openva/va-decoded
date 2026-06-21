@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="10" level="4">Liability of Trustees and Rights of Persons Dealing With Trustee</unit>
+	</structure>
+	<section_number>64.2-794</section_number>
+	<catch_line>Damages in absence of breach</catch_line>
+	<text>
+		<section prefix="A">A trustee is accountable to an affected beneficiary for any profit made by the trustee arising from the administration of the trust, even absent a breach of trust.
+		</section>
+		<section prefix="B">Absent a breach of trust, a trustee is not liable to a beneficiary for a loss or depreciation in the value of trust property or for not having made a profit.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-550.03; 2012, c. 614.</history>
+</law>

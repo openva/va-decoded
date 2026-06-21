@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1429</section_number>
+	<catch_line>Lending of securities</catch_line>
+	<text>
+		<section prefix="A">A domestic insurer may lend securities held by it pursuant to §§ 38.2-1415 through 38.2-1427.2 if:
+			<section prefix="1">Simultaneously with the delivery of the securities, the insurer receives collateral from the borrower consisting of cash or consisting of securities issued, assumed or guaranteed by the United States, an agency of the United States or any state. The securities shall have a present market value of at least 102 percent of the market value of the securities loaned;
+			</section>
+			<section prefix="2">The securities are loaned only for the purpose of making delivery of securities in the case of short sales, in the case of failure to receive securities requested for delivery or in other similar cases;
+			</section>
+			<section prefix="3">Prior to the loan, the borrower furnishes the insurer with the most recent statement of the borrower's financial condition and a representation by the borrower that there has been no material adverse change in its financial condition since the date of that statement;
+			</section>
+			<section prefix="4">The insurer receives a reasonable fee related to the value of the borrowed securities and to the duration of the loan;
+			</section>
+			<section prefix="5">The loan is made pursuant to a written loan agreement; and
+			</section>
+			<section prefix="6">The borrower is required to furnish by the close of each business day during the term of the loan a report of the market value of all collateral and the market value of all borrowed securities as of the close of trading on the previous business day. If at the close of any business day the market value of the collateral is less than 102 percent of the market value of the securities loaned, then the borrower shall deliver by the close of the next business day an additional amount of cash or securities. The market value of these additional securities, together with the market value of all previously delivered collateral, shall equal at least 102 percent of the market value of the securities loaned.
+			</section>
+		</section>
+		<section prefix="B">For the purposes of this section, "market value" includes accrued interest.
+		</section>
+	</text>
+	<history>1983, c. 457, § 38.1-217.32; 1986, c. 562; 1992, c. 588.</history>
+</law>

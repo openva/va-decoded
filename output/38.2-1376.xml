@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="10" level="3">Standard Valuation</unit>
+	</structure>
+	<section_number>38.2-1376</section_number>
+	<catch_line>Reserve calculation; valuation net premium exceeding the gross premium charged</catch_line>
+	<text>
+		<section prefix="A">If in any contract year the gross premium charged by an insurer on a policy or contract is less than the valuation net premium for the policy or contract calculated by the method used in calculating the reserve but using the minimum valuation standards of mortality and rate of interest, the minimum reserve required for the policy or contract shall be the greater of either the reserve calculated according to the mortality table, rate of interest, and method actually used for the policy or contract or the reserve calculated by the method actually used for the policy or contract but using the minimum valuation standards of mortality and rate of interest and replacing the valuation net premium by the actual gross premium in each contract year for which the valuation net premium exceeds the actual gross premium. The minimum valuation standards of mortality and rate of interest referred to in this section are those standards stated in §§ 38.2-1369 and 38.2-1371.
+		</section>
+		<section prefix="B">For a life insurance policy issued on or after January 1, 1986, for which the gross premium in the first policy year exceeds that of the second year and for which no comparable additional benefit is provided in the first year for the excess and which provides an endowment benefit or a cash surrender value or a combination in an amount greater than the excess premium, the provisions of this section shall be applied as if the method actually used in calculating the reserve for the policy were the method described in § 38.2-1372, ignoring subsection B of § 38.2-1372. The minimum reserve at each policy anniversary of such a policy shall be the greater of the minimum reserve calculated in accordance with § 38.2-1372, including subsection B of that section, and the minimum reserve calculated in accordance with this section.
+		</section>
+	</text>
+	<history>2014, c. 571.</history>
+</law>

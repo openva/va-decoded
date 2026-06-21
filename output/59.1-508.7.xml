@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="8" level="3">Remedies</unit>
+	</structure>
+	<section_number>59.1-508.7</section_number>
+	<catch_line>Measurement of damages in general</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in the contract, an aggrieved party may not recover compensation for that part of a loss which could have been avoided by taking measures reasonable under the circumstances to avoid or reduce loss. The burden of establishing a failure of the aggrieved party to take measures reasonable under the circumstances is on the party in breach of contract.
+		</section>
+		<section prefix="b">A party may not recover:
+			<section prefix="1">consequential damages for losses resulting from the content of published informational content unless the agreement expressly so provides; or
+			</section>
+			<section prefix="2">damages that are speculative.
+			</section>
+		</section>
+		<section prefix="c">The remedy for breach of contract for disclosure or misuse of information that is a trade secret or in which the aggrieved party has a right of confidentiality includes as consequential damages compensation for the benefit obtained as a result of the breach.
+		</section>
+		<section prefix="d">For purposes of this chapter, market value is determined as of the date of breach of contract and the place for performance.
+		</section>
+		<section prefix="e">Damages or expenses that relate to events after the date of entry of judgment must be reduced to their present value as of that date. In this subsection, "present value" means the amount, as of a date certain, of one or more sums payable in the future or the value of one or more performances due in the future, discounted to the date certain. The discount is determined by the interest rate specified by the parties in their agreement unless that rate was manifestly unreasonable when the agreement was entered into. Otherwise, the discount is determined by a commercially reasonable rate that takes into account the circumstances of each case when the agreement was entered into.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

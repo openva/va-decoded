@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.4" level="4">Reduction of Heavy Metals in Packaging Act</unit>
+	</structure>
+	<section_number>10.1-1425.23</section_number>
+	<catch_line>Exemptions</catch_line>
+	<text>
+		The following packaging and packaging components shall be exempt from the requirements of this Act:
+		<section prefix="1">Packaging or packaging components with a code indicating a date of manufacture prior to July 1, 1995;
+		</section>
+		<section prefix="2">Packages or packaging components to which lead, cadmium, mercury or hexavalent chromium has been added in the manufacturing, forming, printing or distribution process in order to comply with health or safety requirements of federal law, provided that (i) the manufacturer of a package or packaging component must petition the Board for any exemption for a particular package or packaging component; (ii) the Board may grant an exemption for up to two years if warranted by the circumstances; and (iii) such an exemption may, upon reapplication for exemption and meeting the criterion of this subdivision, be renewed at two-year intervals;
+		</section>
+		<section prefix="3">Packages and packaging components to which lead, cadmium, mercury or hexavalent chromium has been added in the manufacturing, forming, printing or distribution process for which there is no feasible alternative, provided that (i) the manufacturer of a package or packaging component must petition the Board for any exemption for a particular package or packaging component; (ii) the Board may grant an exemption for up to two years if warranted by the circumstances; and (iii) such an exemption may, upon reapplication for exemption and meeting the criterion of this subdivision, be renewed at two-year intervals. For purposes of this subdivision, a use for which there is no feasible alternative is one in which the regulated substance is essential to the protection, safe handling, or function of the package's contents;
+		</section>
+		<section prefix="4">Packages and packaging components that would not exceed the maximum contaminant levels established but for the addition of recovered or recycled materials; and
+		</section>
+		<section prefix="5">Packages and packaging components used to contain alcoholic beverages, as defined in § 4.1-100, bottled prior to July 1, 1992.
+		</section>
+	</text>
+	<history>1994, c. 944; 1995, c. 115.</history>
+</law>

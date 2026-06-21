@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="IV" level="2">Other Sources of State Revenue</unit>
+		<unit label="chapter" identifier="41" level="3">Casino Gaming</unit>
+		<unit label="article" identifier="10" level="4">Prohibited Acts; Penalties</unit>
+	</structure>
+	<section_number>58.1-4128</section_number>
+	<catch_line>Prohibition on persons under 21 years of age placing wagers and sports betting on youth sports; penalty</catch_line>
+	<text>
+		<section prefix="A">No person shall wager on or conduct any wagering on the outcome of a game pursuant to the provisions of this chapter unless such person is 21 years of age or older. No person shall accept any wager from a person under age 21.
+		</section>
+		<section prefix="B">No person shall wager on or conduct any wagering on the outcome of a youth sports game. No person shall accept any wager from a person on a youth sports game.
+		</section>
+		<section prefix="C">Violation of this section is a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>2020, cc. 1197, 1248.</history>
+</law>

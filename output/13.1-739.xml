@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="15" level="3">Appraisal Rights and Other Remedies</unit>
+	</structure>
+	<section_number>13.1-739</section_number>
+	<catch_line>Procedure if shareholder dissatisfied with payment or offer</catch_line>
+	<text>
+		<section prefix="A">A shareholder paid pursuant to § 13.1-737 who is dissatisfied with the amount of the payment must notify the corporation's secretary in writing of that shareholder's estimate of the fair value of the shares and demand payment of that estimate plus interest, less any payment under § 13.1-737. A shareholder offered payment under § 13.1-738 who is dissatisfied with that offer must reject the offer and demand payment of the shareholder's stated estimate of the fair value of the shares plus interest.
+		</section>
+		<section prefix="B">A shareholder who fails to notify the corporation's secretary in writing of that shareholder's demand to be paid the shareholder's stated estimate of the fair value plus interest under subsection A within 30 days after receiving the corporation's payment or offer of payment under § 13.1-737 or 13.1-738, respectively, waives the right to demand payment under this section and shall be entitled only to the payment made or offered pursuant to those respective sections.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-85, 13.1-75, 13.1-78; 1956, c. 428; 1968, c. 733; 1972, c. 425; 1975, c. 500; 1984, c. 613; 1985, c. 522; 2005, c. 765; 2019, c. 734.</history>
+</law>

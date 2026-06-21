@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="5" level="2">School Boards; Selection, Qualification and Salaries of Members</unit>
+		<unit label="article" identifier="7" level="3">Popular Election of School Board</unit>
+	</structure>
+	<section_number>22.1-57.4</section_number>
+	<catch_line>Referendum to revert to appointment of the school board</catch_line>
+	<text>
+		<section prefix="A">By the same procedure and under the same requirements as provided in § 22.1-57.2, the registered voters of any county, city, or town which selects members of the school board by direct election of the voters may petition for, and the circuit court shall so order, a referendum on the question of changing from direct election of the school board to appointment of school board members by the governing body or, if the petition so states in the case of a county, by a school board selection commission. The question on the ballot shall be:
+			"Shall the method of selecting the school board be changed from direct election by the voters to appointment by the governing body (or, if the petition in a county so requests, a school board selection commission)?
+			[ ] YES
+			[ ] NO"
+		</section>
+		<section prefix="B">If a majority of the qualified voters voting in such referendum vote in favor of changing the method of selecting school board members to appointment by the governing body or by a school board selection commission, as the case may be, the terms of the school board members in office through direct election shall terminate on June 30 following the referendum. A school board selection commission shall be appointed pursuant to § 22.1-35 if a majority have voted in the referendum for that selection method. The members of the appointed school board shall be appointed for the terms and in the manner provided in the article of this chapter or the chapter of Title 15.2 applicable to the county, city, or town in which the referendum has been held.
+		</section>
+	</text>
+	<history>1992, c. 594.</history>
+</law>

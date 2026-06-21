@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="11" level="2">Uniform Collaborative Law Act</unit>
+	</structure>
+	<section_number>20-170</section_number>
+	<catch_line>Collaborative law participation agreement; requirements</catch_line>
+	<text>
+		<section prefix="A">A collaborative law participation agreement shall:
+			<section prefix="1">Be in a record;
+			</section>
+			<section prefix="2">Be signed by the parties;
+			</section>
+			<section prefix="3">State the parties' intention to resolve a collaborative matter through a collaborative law process under this chapter;
+			</section>
+			<section prefix="4">Describe the nature and scope of the matter;
+			</section>
+			<section prefix="5">Identify the collaborative lawyer who represents each party in the process; and
+			</section>
+			<section prefix="6">Contain a statement by each collaborative lawyer confirming the lawyer's representation of a party in the collaborative law process, which may be contained in a separate writing.
+			</section>
+		</section>
+		<section prefix="B">Parties may agree to include in a collaborative law participation agreement additional provisions not inconsistent with this chapter.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 346.</history>
+</law>

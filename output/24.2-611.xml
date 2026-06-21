@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="6" level="2">The Election</unit>
+		<unit label="article" identifier="1" level="3">General Provisions; Polling Places</unit>
+	</structure>
+	<section_number>24.2-611</section_number>
+	<catch_line>Form and signing of pollbooks; records of persons voting; electronic pollbooks</catch_line>
+	<text>
+		<section prefix="A">The following oath shall be on a form prescribed by the State Board, administered to all officers of election, and kept by the officers of election with the pollbook:
+			"I do solemnly swear (or affirm) that I will perform the duties for this election according to law and the best of my ability, and that I will studiously endeavor to prevent fraud, deceit, and abuse in conducting this election."
+			The oath shall be administered to each officer of election by the general registrar, a member of the electoral board, or an officer of election designated by the general registrar and secretary of the electoral board, who shall be so identified on the form. The oath shall be signed by each officer of election and the person administering the oath. The pollbook shall be marked to identify the election for which it is used.
+		</section>
+		<section prefix="B">The Department shall provide the pollbook pursuant to subdivision A 7 of § 24.2-404. The pollbook shall (i) provide a space for the officer of election to record the name and consecutive number of the voter at the time he offers to vote and (ii) be retained in accordance with the provisions governing pollbooks in this title. The Department shall make available a numerical check sheet required to be used with pollbooks in printed form to determine the consecutive number to be recorded with the name of the voter by the officer of election. In electronic pollbooks, the consecutive number shall be entered automatically when the officer of election records that the voter has voted. When the name and number of the last qualified voter have been entered on the pollbook, the officer of election responsible for that pollbook shall sign a statement on the check sheet, or on a separate form if an electronic pollbook is used, certifying the number of qualified registrants who have voted. The Department shall provide instructions to the local electoral boards, general registrars, and officers of election for the conduct of the election and for procedures for entering a voting record for each voter and recording each voter's name, including voters unable to enter the polling place, and for verifying the accurate entry of the voting record for each registrant on the Virginia Voter Registration System. Notwithstanding any other provision of this title, for any election held on or after November 1, 2020, all pollbooks provided by the Department shall be in electronic form only.
+		</section>
+		<section prefix="C">The Department shall incorporate safeguards to assure that the records of the election, including the pollbook, voter count sheets, or other alternative records, will provide promptly an accurate and secure record of those who have voted.
+		</section>
+		<section prefix="D">Any locality may expend its own funds to purchase electronic pollbooks that have been approved for use in elections by the State Board.
+		</section>
+		<section prefix="E">The general registrar shall produce a paper copy of the pollbook specified in subsection B for each precinct in any primary or general election.
+		</section>
+		<section prefix="F">In the event that the electronic pollbooks for a precinct fail to operate properly and no alternative voter list or pollbook is available, the officers of election, in accordance with the instructions and materials approved by the State Board, shall (i) maintain a written list of the persons voting and (ii) provide to each person voting a provisional ballot to be cast as provided in § 24.2-653.
+		</section>
+	</text>
+	<history>Code 1950, § 24-257; 1970, c. 462, § 24.1-135; 1971, Ex. Sess., c. 119; 1976, c. 616; 1980, c. 639; 1981, c. 425; 1993, c. 641; 1994, c. 321; 1999, c. 810; 2000, c. 2; 2001, c. 839; 2002, cc. 66, 216, 785, 819; 2003, c. 1015; 2008, cc. 88, 424; 2010, c. 812; 2011, c. 810; 2020, c. 297.</history>
+</law>

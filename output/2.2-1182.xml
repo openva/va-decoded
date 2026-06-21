@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="11" level="4">Department of General Services</unit>
+		<unit label="article" identifier="8" level="5">High Performance Buildings Act</unit>
+	</structure>
+	<section_number>2.2-1182</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		<section prefix="A">This article shall be known and may be cited as the High Performance Buildings Act.
+		</section>
+		<section prefix="B">As used in this article, unless the context requires a different meaning:
+			"Centralized fleet" means the same as that term is defined in § 2.2-1173.
+			"High performance building certification program" means a public building design, construction, and renovation program that meets the requirements of VEES.
+			"Sufficient electric vehicle charging infrastructure" means provision or reservation of sufficient space to provide electric vehicle charging stations and related infrastructure, including transformers, service equipment, and large conduit, to support every centralized fleet vehicle that will be located at such building.
+			"VEES" means the Virginia Energy Conservation and Environmental Standards developed by the Department considering the U.S. Green Building Council (LEED) green building rating standard, the Green Building Initiative "Green Globes" building standard, and other appropriate requirements as determined by the Department.
+		</section>
+	</text>
+	<history>2012, cc. 680, 793; 2021, Sp. Sess. I, c. 473.</history>
+</law>

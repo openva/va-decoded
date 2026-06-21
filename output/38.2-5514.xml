@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="55" level="2">Risk-Based Capital Act</unit>
+	</structure>
+	<section_number>38.2-5514</section_number>
+	<catch_line>Phase-in provision</catch_line>
+	<text>
+		For RBC Reports required to be filed by insurers with respect to 1994, the following requirements shall apply in lieu of the provisions of §§ 38.2-5503, 38.2-5504, 38.2-5505 and 38.2-5506:
+		<section prefix="1">In the event of a Company Action Level Event with respect to a domestic insurer, the Commission shall take no regulatory action hereunder.
+		</section>
+		<section prefix="2">In the event of a Regulatory Action Level Event under subdivision A 1, A 2 or A 3 of § 38.2-5504, the Commission shall take the actions required under § 38.2-5503.
+		</section>
+		<section prefix="3">In the event of a Regulatory Action Level Event under subdivision 4, 5, 6, 7, 8 or 9 of subsection A of § 38.2-5504 or an Authorized Control Level Event, the Commission shall take the actions required under § 38.2-5504 with respect to the insurer.
+		</section>
+		<section prefix="4">In the event of a Mandatory Control Level Event with respect to an insurer, the Commission shall take the actions required under § 38.2-5505 with respect to the insurer.
+		</section>
+	</text>
+	<history>1995, c. 789.</history>
+</law>

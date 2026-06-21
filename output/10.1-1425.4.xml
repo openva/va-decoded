@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.1" level="4">Lead Acid Batteries</unit>
+	</structure>
+	<section_number>10.1-1425.4</section_number>
+	<catch_line>Lead acid battery wholesalers; penalty</catch_line>
+	<text>
+		<section prefix="A">It shall be unlawful for any person selling new lead acid batteries at wholesale to not accept from customers at the point of transfer, used lead acid batteries of the type and in a quantity at least equal to the number of new batteries purchased, if offered by customers. A person accepting batteries in transfer from a battery retailer shall be allowed a period not to exceed ninety days to remove batteries from the retail point of collection.
+		</section>
+		<section prefix="B">Any person found guilty of a violation of this section shall be punished by a fine of not more than fifty dollars. Each battery unlawfully refused by a wholesaler or not removed from the retail point of collection within ninety days shall constitute a separate violation.
+		</section>
+	</text>
+	<history>1990, c. 520.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="3.2" level="4">Office of the State Inspector General</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-312</section_number>
+	<catch_line>Subpoenas</catch_line>
+	<text>
+		<section prefix="A">The State Inspector General or a designated subordinate may issue a subpoena for the appearance of an individual before any hearing conducted by the Office. The subpoena shall be served by the State Inspector General or a designated subordinate and enforced by the court of that jurisdiction.
+		</section>
+		<section prefix="B">The State Inspector General may make an ex parte application to the circuit court for the county or city wherein evidence sought is kept for the issuance of a subpoena duces tecum in furtherance of an investigation or to request production of any relevant records, documents, and physical or other evidence of any person, partnership, association, or corporation located in the Commonwealth. The court may issue and compel compliance with such a subpoena upon a showing of reasonable cause. Upon determining that reasonable cause exists to believe that evidence may be destroyed or altered, the court may issue a subpoena duces tecum requiring the immediate production of evidence.
+		</section>
+	</text>
+	<history>2011, cc. 798, 871.</history>
+</law>

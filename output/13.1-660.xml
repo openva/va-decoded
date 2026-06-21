@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Shareholders</unit>
+	</structure>
+	<section_number>13.1-660</section_number>
+	<catch_line>Record date for meeting</catch_line>
+	<text>
+		<section prefix="A">The bylaws may fix or provide the manner of fixing in advance the record date or dates for one or more voting groups to determine the shareholders entitled to notice of a shareholders' meeting, to demand a special meeting, to vote or take action by written consent, or to take any other action. If the bylaws do not fix or provide the manner of fixing a record date, the board of directors may fix in advance the record date or dates.
+		</section>
+		<section prefix="B">A record date fixed under this section may not be more than 70 days before the meeting or action requiring a determination of shareholders.
+		</section>
+		<section prefix="C">A determination of shareholders entitled to notice of or to vote at a shareholders' meeting is effective for any adjournment of the meeting unless the board of directors fixes a new record date or dates, which it shall do if the meeting is adjourned to a date more than 120 days after the date fixed for the original meeting.
+		</section>
+		<section prefix="D">If a court orders a meeting adjourned to a date more than 120 days after the date fixed for the original meeting, it may provide that the original record date or dates continue in effect or it may fix a new record date or dates.
+		</section>
+		<section prefix="E">The record dates for a shareholders' meeting fixed by or in the manner provided in the bylaws or by the board of directors shall be the record date for determining shareholders entitled both to notice of and to vote at the shareholders' meeting, unless in the case of a record date fixed by the board of directors and to the extent not prohibited by the bylaws, the board of directors, at the time it fixes the record date for shareholders entitled to notice of the meeting, fixes a later record date on or before the date of the meeting to determine the shareholders entitled to vote at the meeting.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-192, 13.1-29; 1952, c. 88; 1956, c. 428; 1985, c. 522; 2005, c. 765; 2010, c. 782; 2019, c. 734.</history>
+</law>

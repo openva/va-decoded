@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="55.5" level="4">Arrest or Summons Quota Prohibited</unit>
+	</structure>
+	<section_number>2.2-5516</section_number>
+	<catch_line>Arrest or summons quota prohibited</catch_line>
+	<text>
+		<section prefix="A">No agency of the Commonwealth or director or chief executive of any agency or department employing law-enforcement officers as defined in § 9.1-101 shall establish a formal or informal quota that requires a law-enforcement officer to make a specific number of arrests or issue a specific number of summonses within a designated period of time.
+		</section>
+		<section prefix="B">Nothing in this section shall preclude an agency of the Commonwealth or director or chief executive of any agency or department employing law-enforcement officers from collecting, analyzing, and utilizing information concerning the number of arrests made or summonses issued for any other purpose.
+		</section>
+	</text>
+	<history>2022, cc. 208, 209.</history>
+</law>

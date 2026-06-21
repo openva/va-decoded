@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="11" level="3">Care of Military Property</unit>
+	</structure>
+	<section_number>44-107</section_number>
+	<catch_line>Use for private purposes forbidden</catch_line>
+	<text>
+		No officer or enlisted person shall use, except upon military duty any article of military property belonging to the United States or to the Commonwealth.
+	</text>
+	<history>1930, p. 969; Michie Code 1942, § 2673(92); 1958, c. 393.</history>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="23" level="2">Central Criminal Records Exchange</unit>
+	</structure>
+	<section_number>19.2-390.04</section_number>
+	<catch_line>Custodial interrogations; recording</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section:
+			"Custodial interrogation" means any interview conducted by a law-enforcement officer in such circumstances that would lead a reasonable person to consider himself to be in custody associated with arrest and during which the law-enforcement officer takes actions or asks questions that are reasonably likely to elicit responses from the person that could incriminate him.
+			"Place of detention" means a police station, sheriff's office, jail, detention center, or other similar facility in which suspects may be detained.
+		</section>
+		<section prefix="B">A law-enforcement officer conducting a custodial interrogation of any person at a place of detention shall cause an audiovisual recording of the entirety of such custodial interrogation to be made. If such law-enforcement officer is unable to cause an audiovisual recording of such custodial interrogation to be made, the law-enforcement officer shall cause an audio recording of such custodial interrogation to be made.
+			This subsection shall not apply when a law-enforcement officer conducting a custodial interrogation has good cause not to record such custodial interrogation. Good cause shall include those circumstances where (i) the recording equipment fails, (ii) the recording equipment is unavailable, or (iii) exigent circumstances relating to public safety exist that prevent the recording of such custodial interrogation.
+		</section>
+		<section prefix="C">The failure of a law-enforcement officer to cause an audiovisual or audio recording to be made in accordance with subsection B shall not affect the admissibility of the statements made by the subject of the custodial interrogation, but such failure may be considered in determining the weight given to such evidence.
+		</section>
+		<section prefix="D">Any audiovisual or audio recording made in accordance to subsection B shall be preserved until such time as (i) the person is acquitted or the charges against the person are otherwise dismissed and further prosecution of such charges is prohibited by law or (ii) if convicted or adjudicated delinquent, the person has completed service of his sentence and any modification of his sentence.
+		</section>
+		<section prefix="E">Any policies, standards, and guidelines for the maintenance, exchange, storage, use, sharing, distribution, and security of data developed and adopted pursuant to Chapter 20.1 of Title 2.2 (§ 2.2-2005 et. seq.) shall not apply to any audiovisual or audio recording made in accordance with subsection B. Any policies, standards, and guidelines for the maintenance, exchange, storage, use, sharing, distribution, and security of data for any audiovisual or audio recording made in accordance with subsection B shall be developed and adopted by the law-enforcement agency employing the law-enforcement officer causing the audiovisual or audio recording to be made in accordance with subsection B.
+		</section>
+	</text>
+	<history>2020, c. 1126.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="II" level="2">Real Estate Settlements and Recordation</unit>
+		<unit label="chapter" identifier="6" level="3">Recordation of Documents</unit>
+		<unit label="article" identifier="3" level="4">Uniform Recognition of Acknowledgments Act</unit>
+	</structure>
+	<section_number>55.1-619</section_number>
+	<catch_line>When form of certificate of acknowledgment accepted</catch_line>
+	<text>
+		The form of a certificate of acknowledgment used by a person whose authority is recognized under § 55.1-616 shall be accepted in the Commonwealth if:
+		<section prefix="1">The certificate is in a form prescribed by the laws or regulations of the Commonwealth;
+		</section>
+		<section prefix="2">The certificate is in a form prescribed by the laws or regulations applicable in the place in which the acknowledgment is taken; or
+		</section>
+		<section prefix="3">The certificate contains the words "acknowledged before me" or their substantial equivalent.
+		</section>
+	</text>
+	<history>1970, c. 719, § 55-118.4; 2019, c. 712.</history>
+</law>

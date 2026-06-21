@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="6" level="2">Crimes Involving Fraud</unit>
+		<unit label="article" identifier="5" level="3">False Representations to Obtain Property or Credit</unit>
+	</structure>
+	<section_number>18.2-186.3:1</section_number>
+	<catch_line>Identity fraud; consumer reporting agencies; police reports</catch_line>
+	<text>
+		<section prefix="A">A consumer may report a case of identity theft to the law-enforcement agency in the jurisdiction where he resides. If a consumer, as defined by the Fair Credit Reporting Act, 15 U.S.C. § 1681 et seq., submits to a consumer reporting agency, as defined by the Fair Credit Reporting Act, 15 U.S.C. § 1681 et seq., a copy of a valid police report, the consumer reporting agency shall, within 30 days of receipt thereof, block the reporting of any information that the consumer alleges appears on his credit report, as defined by the Fair Credit Reporting Act, 15 U.S.C. § 1681 et seq., as a result of a violation of § 18.2-186.3. The consumer reporting agency shall promptly notify the furnisher of the information that a police report has been filed, that a block has been requested, and the effective date of the block.
+		</section>
+		<section prefix="B">Consumer reporting agencies may decline to block or may rescind any block of consumer information if, in the exercise of good faith and reasonable judgment, the consumer reporting agency believes that: (i) the information was blocked due to a misrepresentation of a material fact by the consumer; (ii) the information was blocked due to fraud, in which the consumer participated, or of which the consumer had knowledge, and which may for purposes of this section be demonstrated by circumstantial evidence; (iii) the consumer agrees that portions of the blocked information or all of it were blocked in error; (iv) the consumer knowingly obtained or should have known that he obtained possession of goods, services, or moneys as a result of the blocked transaction or transactions; or (v) the consumer reporting agency, in the exercise of good faith and reasonable judgment, has substantial reason based on specific, verifiable facts to doubt the authenticity of the consumer's report of a violation of § 18.2-186.3.
+		</section>
+		<section prefix="C">If blocked information is unblocked pursuant to this section, the consumer shall be notified in the same manner as consumers are notified of the reinsertion of information pursuant to the Fair Credit Reporting Act at 15 U.S.C. § 1681i, as amended. The prior presence of the blocked information in the consumer reporting agency's file on the consumer is not evidence of whether the consumer knew or should have known that he obtained possession of any goods, services, or moneys.
+		</section>
+		<section prefix="D">A consumer reporting agency shall accept the consumer's version of the disputed information and correct the disputed item when the consumer submits to the consumer reporting agency documentation obtained from the source of the item in dispute or from public records confirming that the report was inaccurate or incomplete, unless the consumer reporting agency, in the exercise of good faith and reasonable judgment, has substantial reason based on specific, verifiable facts to doubt the authenticity of the documentation submitted and notifies the consumer in writing of that decision, explaining its reasons for unblocking the information and setting forth the specific, verifiable facts on which the decision is based.
+		</section>
+		<section prefix="E">A consumer reporting agency shall delete from a consumer credit report inquiries for credit reports based upon credit requests that the consumer reporting agency verifies were initiated as a result of a violation of § 18.2-186.3.
+		</section>
+		<section prefix="F">The provisions of this section do not apply to (i) a consumer reporting agency that acts as a reseller of credit information by assembling and merging information contained in the databases of other consumer reporting agencies, and that does not maintain a permanent database of credit information from which new consumer credit reports are produced, (ii) a check services or fraud prevention services company that issues reports on incidents of fraud or authorizations for the purpose of approving or processing negotiable instruments, electronic funds transfers, or similar payment methods, or (iii) a demand deposit account information service company that issues reports regarding account closures due to fraud, substantial overdrafts, automatic teller machine abuse or similar negative information regarding a consumer to inquiring banks or other financial institutions for use only in reviewing a consumer request for a demand deposit account at the inquiring bank or financial institution.
+		</section>
+	</text>
+	<history>2003, cc. 914, 918; 2006, c. 298.</history>
+</law>

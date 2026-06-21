@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="D" level="3">State Authorities, Boards, Commissions, Councils, Foundations and Other Collegial Bodies</unit>
+		<unit label="chapter" identifier="26" level="4">Councils</unit>
+		<unit label="article" identifier="34" level="5">Broadband Advisory Council</unit>
+	</structure>
+	<section_number>2.2-2699.4</section_number>
+	<catch_line>Powers and duties of the Council</catch_line>
+	<text>
+		The Council shall have the power and duty to:
+		<section prefix="1">Monitor the broadband-based development efforts of other states and nations in areas such as business, education, and health;
+		</section>
+		<section prefix="2">Advise the Governor, the Secretary of Commerce and Trade, and the General Assembly on policies and strategies related to making affordable broadband services available to every Virginia home and business;
+		</section>
+		<section prefix="3">Monitor broadband-related activities at the federal level;
+		</section>
+		<section prefix="4">Encourage public-private partnerships to increase the deployment and adoption of broadband services and applications;
+		</section>
+		<section prefix="5">Annually report to the Governor and the Joint Commission on Technology and Science on the progress towards the goal of universal access for businesses and on the assessment of Commonwealth broadband infrastructure investments and utilization of Council-supported resources to promote broadband access;
+		</section>
+		<section prefix="6">Periodically review and comment on the quality, availability, and accessibility of state-maintained or funded broadband resources and programs, including but not limited to: Virginia Resources Authority Act funding of the "Online Community Toolkit"; the Center for Innovative Technology's mapping and outreach initiatives; investments made through programs administered by the Department of Education, Department of Housing and Community Development, Department of Public Rail and Transportation, and the Tobacco Region Revitalization Commission; and
+		</section>
+		<section prefix="7">Monitor regulatory and policy changes for potential impact on broadband deployment and sustainability in the Commonwealth.
+		</section>
+	</text>
+	<history>2009, cc. 818, 852; 2020, c. 738.</history>
+</law>

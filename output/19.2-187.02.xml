@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="12" level="2">Preliminary Hearing</unit>
+	</structure>
+	<section_number>19.2-187.02</section_number>
+	<catch_line>Admissibility of written reports or records of blood alcohol tests conducted in the regular course of providing emergency medical treatment</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any other provision of law, the written reports or records of blood alcohol tests conducted upon persons receiving medical treatment in a hospital or emergency room are admissible in evidence as a business records exception to the hearsay rule in prosecutions for any violation of § 18.2-266 (driving while intoxicated) or a substantially similar local ordinance, § 18.2-36.1 (involuntary manslaughter resulting from driving while intoxicated), § 18.2-36.2 (involuntary manslaughter resulting from boating while intoxicated), § 18.2-51.4 (maiming resulting from driving while intoxicated), § 18.2-51.5 (maiming resulting from boating while intoxicated), § 29.1-738 (boating while intoxicated), or § 46.2-341.24 (driving a commercial vehicle while intoxicated).
+		</section>
+		<section prefix="B">The provisions of law pertaining to confidentiality of medical records and medical treatment shall not be applicable to reports or records of blood alcohol tests sought or admitted as evidence under the provisions of this section in prosecutions as specified in subsection A. Owners or custodians of such reports or records may disclose them, in accordance with regulations concerning patient privacy promulgated by the U.S. Department of Health and Human Services, without obtaining consent or authorization for such disclosure. No person who is involved in taking blood or conducting blood alcohol tests shall be liable for civil damages for breach of confidentiality or unauthorized release of medical records because of the evidentiary use of blood alcohol test results under this section, or as a result of that person's testimony given pursuant to this section.
+		</section>
+	</text>
+	<history>2002, c. 749; 2005, c. 801; 2007, cc. 379, 679.</history>
+</law>

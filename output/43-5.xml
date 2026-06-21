@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="43" level="1">Mechanics' and Certain Other Liens</unit>
+		<unit label="chapter" identifier="1" level="2">Mechanics' and Materialmen's Liens</unit>
+	</structure>
+	<section_number>43-5</section_number>
+	<catch_line>Sufficiency of memorandum and affidavit required by § 43-4</catch_line>
+	<text>
+		The memorandum and affidavit required by § 43-4 shall be sufficient if substantially in form and effect as follows:
+		Memorandum for Mechanic's Lien Claimed by General Contractor.
+		Name of owner: ___________________________________________________________________________
+		Address of owner: ___________________________________________________________________________
+		Name of claimant: ___________________________________________________________________________
+		Address of claimant: ___________________________________________________________________________
+		Contractor license or certificate number of claimant
+		(if applicable): ___________________________________________________________________________
+		Issuance date of license or certificate
+		(if applicable): ___________________________________________________________________________
+		Expiration date of license or certificate
+		(if applicable): ___________________________________________________________________________
+		If no contractor license or certificate number is included, the claimant certifies that such a valid license or certificate is not  required by law for the work done for which the benefit of a lien is claimed.
+		<section prefix="1">Type of materials or services furnished: ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________
+			___________________________________________________________________________
+			___________________________________________________________________________
+		</section>
+		<section prefix="2">Amount claimed:  $ ___________________________________________________________________________
+			If any part of the Amount claimed is not due as of the date of this mechanic's lien, identify the date or event upon which it will be due and the sum(s) to which the due date(s) or event(s) apply: ___________________________________________________________________________
+		</section>
+		<section prefix="3">Type of structure on which work done or materials furnished: ___________________________________________________________________________
+			___________________________________________________________________________
+		</section>
+		<section prefix="4">Brief description and location of real property:
+			___________________________________________________________________________
+		</section>
+		<section prefix="5">Date from which interest on the above amount is claimed:
+			Date: _______________________
+			It is the intent of the claimant to claim the benefit of a lien.
+			The undersigned hereby certifies that he has mailed a copy of this memorandum of lien to the owner of the property at the owner's last known address: .................................. (address), on ........   (date of mailing).
+			___________________________________________________________________________  (Name of claimant).
+			Affidavit.
+			State of Virginia,
+			County (or city) of ..................,  to wit:
+			I, _______________________  (notary or other officer) for the county (or city) aforesaid, do certify that ......................  claimant, or ................, agent for claimant, this day made oath before me in my county (or city) aforesaid that ..................... (the owner) is justly indebted to claimant in the sum of .............. dollars, for the consideration stated in the foregoing memorandum, and that the same is payable as therein stated.
+			Given under my hand this the ........ day of ................., 20....
+			___________________________________________________________________________ (Notary Public or Magistrate, et cetera.)
+		</section>
+	</text>
+	<history>Code 1919, § 6427; 1940, p. 402; 1968, c. 568; 2007, c. 504; 2013, c. 293; 2019, c. 243.</history>
+</law>

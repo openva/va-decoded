@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.17</section_number>
+	<catch_line>Notice of termination</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in subsection (b), a party may not terminate a contract except on the happening of an agreed event, such as the expiration of the stated duration, unless the party gives reasonable notice of termination to the other party.
+		</section>
+		<section prefix="b">An access contract may be terminated without giving notice. However, except on the happening of an agreed event, termination requires giving reasonable notice to the licensee if the access contract pertains to information owned and provided by the licensee to the licensor.
+		</section>
+		<section prefix="c">A term dispensing with a notice required under this section is invalid if its operation would be unconscionable. However, a term specifying standards for giving notice is enforceable if the standards are not manifestly unreasonable.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

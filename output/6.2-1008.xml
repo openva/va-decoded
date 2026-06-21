@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="10" level="3">Entities Conducting Trust Business</unit>
+		<unit label="article" identifier="1" level="4">Trust Powers and Trust Business</unit>
+	</structure>
+	<section_number>6.2-1008</section_number>
+	<catch_line>Dealings with self or affiliates</catch_line>
+	<text>
+		<section prefix="A">No trust institution shall buy any property for a trust or estate from itself, or a department or branch thereof, or from an affiliate or subsidiary corporation, or from a director, officer, or employee of such trust institution. Any such purchase shall be voidable at the election of any beneficiary or successor trustee, unless (i) approved by an appropriate court, (ii) consented to by all beneficiaries after full and fair disclosure, (iii) authorized by the instrument creating the fiduciary relationship, or (iv) permitted by ruling of the Commissioner.
+		</section>
+		<section prefix="B">A sale of any trust or fiduciary property by a trust institution to itself, or a department or branch of such trust institution, or to an affiliate or subsidiary corporation, or to a director, officer, or employee of such trust institution, except as (i) approved by an appropriate court, (ii) consented to by all beneficiaries after full and fair disclosure, (iii) authorized by the instrument creating the fiduciary relationship, or (iv) permitted by ruling of the Commissioner, shall be a breach of trust and voidable at the election of any beneficiary or successor trustee.
+		</section>
+		<section prefix="C">Notwithstanding the provisions of subsections A and B, a trust institution, as fiduciary of one estate or trust, may buy or sell from or to itself, as fiduciary of another estate or trust, assets which at the time of sale are permissible fiduciary investments under Part A (§ 64.2-1200 et seq.) of Subtitle IV of Title 64.2, if the transaction is fair to both estates or trusts and is not prohibited by the terms of any instrument under which the fiduciary is acting.
+		</section>
+	</text>
+	<history>Code 1950, § 6-102; 1966, c. 584, § 6.1-24; 1974, c. 665; 1991, c. 252; 2010, c. 794.</history>
+</law>

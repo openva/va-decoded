@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4.1" level="2">Uniform Military and Overseas Voters Act</unit>
+	</structure>
+	<section_number>24.2-454</section_number>
+	<catch_line>Elections covered</catch_line>
+	<text>
+		The voting procedures in this chapter apply to:
+		<section prefix="1">A general, special, or primary election for federal office;
+		</section>
+		<section prefix="2">A general, special, or primary election for statewide or state legislative office or state referendum measure; and
+		</section>
+		<section prefix="3">A general, special, or primary election for local constitutional or government office or local referendum measure conducted under Chapter 6 (§ 24.2-600 et seq.) for which absentee voting is available for other voters.
+		</section>
+	</text>
+	<history>2012, c. 353.</history>
+</law>

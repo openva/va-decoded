@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="1.1" level="2">General Assembly Salaries and Expenses</unit>
+		<unit label="article" identifier="2" level="3">Legislator Compensation Commission</unit>
+	</structure>
+	<section_number>30-19.21</section_number>
+	<catch_line>Legislator Compensation Commission; purpose; establishment; membership; staffing</catch_line>
+	<text>
+		<section prefix="A">The Legislator Compensation Commission (the Commission) is established in the legislative branch of state government. The Commission shall convene every four years for the purpose of reviewing the salaries, expense allowances, retirement benefits, and other emoluments received by members of the General Assembly and making recommendations for any adjustments to such salaries or allowance amounts.
+		</section>
+		<section prefix="B">The Commission shall consist of 11 members who shall be appointed as follows:
+			<section prefix="1">Two former members of the Senate of Virginia, with equal representation given to each of the political parties having the highest and next highest number of members in the Senate, appointed by the Joint Rules Committee;
+			</section>
+			<section prefix="2">Four former members of the House of Delegates, with equal representation given to each of the political parties having the highest and next highest number of members in the House of Delegates, appointed by the Joint Rules Committee; and
+			</section>
+			<section prefix="3">Five nonlegislative citizen members, of whom one shall be appointed by the Governor, one shall be appointed by the Speaker of the House of Delegates, one shall be appointed by the House Minority Leader, one shall be appointed by the Senate Majority Leader, and one shall be appointed by the Senate Minority Leader.
+			</section>
+		</section>
+		<section prefix="C">Appointments of Commission members shall be made no later than July 1 of the year in which a gubernatorial election is scheduled. Members shall serve until the submission of the report required pursuant to § 30-19.22 and may be reappointed to any subsequent convening of the Commission. Vacancies shall be filled in the same manner as the original appointments.
+			The Commission shall elect a chairman and vice-chairman from among its membership. A majority of the members shall constitute a quorum. The meetings of the Commission shall be held at the call of the chairman or whenever the majority of the members so request.
+		</section>
+		<section prefix="D">Commission members shall serve without compensation but shall be reimbursed as provided in §§ 2.2-2813 and 2.2-2825 for reasonable and necessary expenses that are incurred in the performance of their duties pursuant to this article.
+		</section>
+		<section prefix="E">Administrative staff support shall be provided by the Office of the Clerk of the Senate or the Office of the Clerk of the House of Delegates as may be appropriate for the house in which the chairman of the Commission serves. The Division of Legislative Services shall provide legal, research, and policy analysis to the Commission. The staffs of the House Committee on Appropriations and the Senate Committee on Finance and Appropriations shall provide technical assistance to the Commission. All agencies of the Commonwealth shall provide assistance to the Commission, upon request.
+		</section>
+	</text>
+	<history>2025, c. 687.</history>
+</law>

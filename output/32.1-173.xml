@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="2" level="3">Public Water Supplies</unit>
+	</structure>
+	<section_number>32.1-173</section_number>
+	<catch_line>Additional or amended permits</catch_line>
+	<text>
+		<section prefix="A">Any owner intending to make changes, alterations or improvements to a waterworks for which a permit has been granted shall apply to the Commissioner for an additional or amended permit in a manner prescribed by regulations of the Board. The Commissioner shall review and act upon the application in the manner set forth in § 32.1-172.
+		</section>
+		<section prefix="B">The Commissioner may, on his own motion, amend any permit whenever he determines that:
+			<section prefix="1">The existing permit is no longer valid;
+			</section>
+			<section prefix="2">Changes, alterations, or improvements to the waterworks are necessary to provide an adequate supply of pure water; or
+			</section>
+			<section prefix="3">A change has occurred in the manner of storage or treatment or the source of the water supply.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 62.1-55; 1964, c. 475; 1968, c. 659; 1977, c. 7; 1979, c. 711.</history>
+</law>

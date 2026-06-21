@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="2" level="3">Money and Currency</unit>
+		<unit label="article" identifier="1" level="4">Money of Account</unit>
+	</structure>
+	<section_number>6.2-201</section_number>
+	<catch_line>Ascertaining value in money of account for money expressed in foreign currency</catch_line>
+	<text>
+		<section prefix="A">In any suit for a sum of money expressed in any foreign currency or otherwise than in the money of account of the Commonwealth, the jury or the court shall ascertain the value in the money of account of the sum so expressed, including an appropriate allowance for the difference of exchange. The judgment or order may be for either the amount so ascertained, or for the amount of money so expressed, and the judgment or order shall be discharged by an amount so ascertained.
+		</section>
+		<section prefix="B">In any such suit involving an instrument to which § 8.3A-107 is applicable, the provisions of that section shall apply.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.51; 2010, c. 794.</history>
+</law>

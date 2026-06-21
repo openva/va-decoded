@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="2" level="3">Proceeds of Certain Policies</unit>
+	</structure>
+	<section_number>38.2-3122.1</section_number>
+	<catch_line>Annuity contract purchased to fund retirement benefits; protection from creditor's claims</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Employer" means a person doing business in or operating within the Commonwealth who employs another to work for wages or a salary or on commission and includes any similar entity acting directly or indirectly in the interest of an employer in relation to an employee. "Employer" does not include the Commonwealth or any of its agencies, institutions, or political subdivisions or any public body.
+			"ERISA" means the federal Employee Retirement Income Security Act of 1974 (P.L. 93-406, 88 Stat. 829), as amended.
+			"Pension plan" has the same meaning ascribed to that term in § 3(2) of ERISA.
+		</section>
+		<section prefix="B">Any interest in or amounts payable to a participant or beneficiary from any allocated or unallocated group annuity contract issued or issued for delivery in the Commonwealth to an employer or a pension plan for the purpose of providing retirement benefits to employees or retirees of the employer under a defined benefit plan, which retirement benefits were protected under ERISA or the Federal Pension Benefit Guaranty Corporation prior to the effective date of the group annuity contract and will not be protected under ERISA or the Federal Pension Benefit Guaranty Corporation on and after the effective date of the group annuity contract, shall be exempt from the claims of all creditors of such participant or beneficiary.
+		</section>
+		<section prefix="C">The exemption from the claims of creditors provided under subsection B shall not apply to claims arising under a qualified domestic relations order.
+		</section>
+		<section prefix="D">The exemption from the claims of creditors provided under subsection B shall not apply to any claim by a creditor with respect to an annuity contract that was taken out, made, or assigned in writing for the benefit of the creditor.
+		</section>
+		<section prefix="E">Notwithstanding the provisions of subsection B and subject to the applicable statute of limitations, the amount of any premiums or other amounts paid for the related annuity contract that were paid with the intent to defraud creditors, with the interest thereon, shall inure to the benefit of the creditors from the proceeds of the policy, contract, or deposit.
+		</section>
+		<section prefix="F">The exemption provided by this section shall not apply to any protected annuity contract issued or effected during the six months preceding the date that the person claiming the exemption (i) files a voluntary petition in bankruptcy; (ii) becomes the subject of an order for relief or is declared insolvent in any federal or state bankruptcy or insolvency proceeding; or (iii) files a petition or answer seeking for himself any reorganization, arrangement, composition, readjustment, liquidation, dissolution, or similar relief under any statute, law, or regulation.
+		</section>
+	</text>
+	<history>2018, c. 847.</history>
+</law>

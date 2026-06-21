@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="2" level="3">Nature of Partnership</unit>
+	</structure>
+	<section_number>50-73.90</section_number>
+	<catch_line>When property is partnership property</catch_line>
+	<text>
+		<section prefix="A">Property is partnership property if acquired in the name of:
+			<section prefix="1">The partnership; or
+			</section>
+			<section prefix="2">One or more partners with an indication in the instrument transferring title to the property of the person's capacity as a partner or of the existence of a partnership but without an indication of the name of the partnership.
+			</section>
+		</section>
+		<section prefix="B">Property is acquired in the name of the partnership by a transfer to:
+			<section prefix="1">The partnership in its name; or
+			</section>
+			<section prefix="2">One or more partners in their capacity as partners in the partnership, if the name of the partnership is indicated in the instrument transferring title to the property.
+			</section>
+		</section>
+		<section prefix="C">Property is presumed to be partnership property if purchased with partnership assets, even if not acquired in the name of the partnership or of one or more partners with an indication in the instrument transferring title to the property of the person's capacity as a partner or of the existence of a partnership.
+		</section>
+		<section prefix="D">Property acquired in the name of one or more of the partners, without an indication in the instrument transferring title to the property of the person's capacity as a partner or of the existence of a partnership and without use of partnership assets, is presumed to be separate property, even if used for partnership purposes.
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

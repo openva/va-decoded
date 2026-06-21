@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="20.1" level="4">Virginia Information Technologies Agency</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-2011</section_number>
+	<catch_line>Additional powers and duties relating to development, management, and operation of information technology</catch_line>
+	<text>
+		<section prefix="A">Unless specifically exempted by law, VITA shall be responsible for the development, operation, and management of information technology for every executive branch agency, pursuant to the provisions of this chapter.
+		</section>
+		<section prefix="B">The CIO shall have the following powers and duties concerning the development, operation, and management of information technology:
+			<section prefix="1">Manage, coordinate, and provide the information technology used by executive branch agencies;
+			</section>
+			<section prefix="2">Acquire, lease, or construct such land, facilities, and equipment as necessary to deliver comprehensive information technology services, and to maintain such land, facilities, and equipment owned or leased; and
+			</section>
+			<section prefix="3">Provide technical assistance to executive branch agencies in the planning, development, operation, and management of information technology.
+			</section>
+		</section>
+	</text>
+	<history>1984, c. 746, §§ 2.1-563.16, 2.1-563.17, 2.1-563.18; 1985, c. 265; 1995, c. 357; 1997, c. 858; 1999, cc. 412, 421, 433; 2001, c. 844, § 2.2-1303; 2002, c. 579; 2003, cc. 981, 1021; 2016, c. 296.</history>
+</law>

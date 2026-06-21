@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="6.1" level="3">Virginia Hearing Loss Identification and Monitoring System</unit>
+	</structure>
+	<section_number>32.1-64.2</section_number>
+	<catch_line>Confidentiality of records; publication; Commissioner required to contact parents, physicians, and relevant local early intervention program</catch_line>
+	<text>
+		The Commissioner and all other persons to whom data is submitted pursuant to § 32.1-64.1 shall keep such information confidential. No publication of research or statistical data shall be made that identifies any infant with hearing loss or risk of hearing loss. The Commissioner shall contact the parents of children identified with hearing loss or at risk of hearing loss, their physicians, and the relevant local early intervention program to provide them with information about available public and private health care and educational resources, including any hearing loss clinics.
+		The Commissioner may authorize linkages between secure electronic data systems maintained by the Department of Health containing newborn hearing screening records and the Virginia Immunization Information System (VIIS) operated pursuant to § 32.1-46.01. The Commissioner may authorize health care providers authorized to view VIIS to view newborn hearing screening records of individuals to whom the providers are providing health care services. The records may be made available until the child reaches seven years of age, after which the records shall not be made available through a linkage to VIIS. Such linkages shall be subject to all applicable state and federal privacy laws and regulations.
+	</text>
+	<history>1986, c. 419; 1998, cc. 505, 506, 513; 2012, c. 147; 2019, c. 288.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8.1" level="3">Derivative Proceedings and Other Shareholder Actions</unit>
+	</structure>
+	<section_number>13.1-672.5</section_number>
+	<catch_line>Payment of and security for expenses</catch_line>
+	<text>
+		On termination of a derivative proceeding, the court may:
+		<section prefix="1">Order the corporation to pay the plaintiff's expenses incurred in the proceeding if it finds that the proceeding has resulted in a substantial benefit to the corporation; or
+		</section>
+		<section prefix="2">Order the plaintiff or the plaintiff's attorney to pay the corporation's or any defendant's expenses incurred in defending the proceeding if it finds that the proceeding was commenced or maintained arbitrarily, vexatiously, or not in good faith.
+		</section>
+	</text>
+	<history>1992, c. 802; 1993, c. 233; 2019, c. 734.</history>
+</law>

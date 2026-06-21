@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="9.3" level="2">Campaign Finance Disclosure Act of 2006</unit>
+		<unit label="article" identifier="2" level="3">State Board and Local Electoral Board Responsibilities</unit>
+	</structure>
+	<section_number>24.2-946.2</section_number>
+	<catch_line>Custody of reports; inspection and copying; exception for certain information</catch_line>
+	<text>
+		<section prefix="A">All campaign finance reports required to be filed under this chapter shall be open to inspection by any person during the business hours of the office in which they are filed. Copies shall be produced for any person requesting them who shall pay the reasonable cost of the copies. Copies of such reports certified by the principal administrative officer in whose office they are kept shall be evidence in all courts to the same extent as the original report would be if produced and proved.
+			Upon request from an individual granted protected voter status under the provisions of subsection B of § 24.2-418, the State Board shall replace the individual's residence address in copies of campaign finance reports available to the public with the individual's alternative mailing address found in the Virginia voter registration system.
+			Nothing in this chapter shall be construed to grant public access to information not required to be entered into the campaign finance database under this chapter that candidates or committees may include in campaign finance report-creation software managed by or for the State Board.
+		</section>
+		<section prefix="B">The following applies to campaign finance reports filed by candidate campaign committees:
+			<section prefix="1">Every officer or general registrar, with whom reports are required to be filed by this chapter, shall file and preserve such reports and keep them as part of the office's records for at least one year after the final report is filed, or through the next general election for the office to which they pertain, whichever is later; or in the case of a candidate who has not filed a final report and seeks election to the same office in a successive election, through the next general election for the office to which they pertain.
+			</section>
+			<section prefix="2">The State Board shall file and preserve as part of its records the reports required to be filed with it by this chapter for at least one year after the final report is filed, or through the next general election for the office to which they pertain, whichever is later; or in the case of a candidate who has not filed a final report and seeks election to the same office in a successive election, through the next general election for the office to which they pertain. Thereafter, the State Board shall forward the reports it preserves to The Library of Virginia for preservation under the Virginia Public Records Act (§ 42.1-76 et seq.).
+			</section>
+		</section>
+		<section prefix="C">The following applies to campaign finance reports filed by political committees:
+			<section prefix="1">Every officer or general registrar, with whom reports are required to be filed by this chapter, shall file and preserve such reports as part of the office's records for at least four years after the reporting deadline or one year after the final report is filed.
+			</section>
+			<section prefix="2">The State Board shall file and preserve as part of its records the reports required to be filed with it by this chapter for at least four years after the reporting deadline or one year after the final report is filed. Thereafter, the State Board shall forward the reports it preserves to The Library of Virginia for preservation under the Virginia Public Records Act (§ 42.1-76 et seq.).
+			</section>
+		</section>
+	</text>
+	<history>1970, c. 462, § 24.1-261; 1980, c. 639; 1982, c. 650; 1983, c. 119; 1993, cc. 396, 641, § 24.2-926; 1994, c. 64; 1996, c. 6; 2004, c. 457; 2006, cc. 787, 892; 2010, c. 297; 2012, c. 527; 2015, cc. 644, 645.</history>
+</law>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="20.1" level="4">Virginia Information Technologies Agency</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-2007</section_number>
+	<catch_line>Powers of the CIO</catch_line>
+	<text>
+		<section prefix="A">The CIO shall promulgate regulations necessary or incidental to the performance of duties or execution of powers conferred under this chapter. The CIO shall also develop policies, standards, and guidelines for the planning, budgeting, procurement, development, maintenance, security, and operations of information technology for executive branch agencies. Such policies, standards, and guidelines shall include those necessary to:
+			<section prefix="1">Support state and local government exchange, acquisition, storage, use, sharing, and distribution of data and related technologies.
+			</section>
+			<section prefix="2">Support the development of electronic transactions including the use of electronic signatures as provided in § 59.1-496.
+			</section>
+			<section prefix="3">Support a unified approach to information technology across the totality of state government, thereby assuring that the citizens and businesses of the Commonwealth receive the greatest possible security, value, and convenience from investments made in technology.
+			</section>
+			<section prefix="4">Ensure that the costs of information technology systems, products, data, and services are contained through the shared use of existing or planned equipment, data, or services.
+			</section>
+			<section prefix="5">Provide for the effective management of information technology investments through their entire life cycles, including identification, business case development, selection, procurement, implementation, operation, performance evaluation, and enhancement or retirement. Such policies, standards, and guidelines shall include, at a minimum, the periodic review by the CIO of agency Commonwealth information technology projects.
+			</section>
+			<section prefix="6">Establish an Information Technology Investment Management Standard based on acceptable technology investment methods to ensure that all executive branch agency technology expenditures are an integral part of the Commonwealth's performance management system, produce value for the agency and the Commonwealth, and are aligned with (i) agency strategic plans, (ii) the Governor's policy objectives, and (iii) the long-term objectives of the Council on Virginia's Future.
+			</section>
+		</section>
+		<section prefix="B">In addition to other such duties as the Secretary may assign, the CIO shall:
+			<section prefix="1">Oversee and administer the Virginia Technology Infrastructure Fund created pursuant to § 2.2-2023.
+			</section>
+			<section prefix="2">Report annually to the Governor, the Secretary, and the Joint Commission on Technology and Science created pursuant to § 30-85 on the use and application of information technology by executive branch agencies to increase economic efficiency, citizen convenience, and public access to state government.
+			</section>
+			<section prefix="3">Prepare annually a report for submission to the Secretary, the Information Technology Advisory Council, and the Joint Commission on Technology and Science on a prioritized list of Recommended Technology Investment Projects (RTIP Report) based upon major information technology projects submitted for business case approval pursuant to this chapter. As part of the RTIP Report, the CIO shall develop and regularly update a methodology for prioritizing projects based upon the allocation of points to defined criteria. The criteria and their definitions shall be presented in the RTIP Report. For each project recommended for funding in the RTIP Report, the CIO shall indicate the number of points and how they were awarded. For each listed project, the CIO shall also report (i) all projected costs of ongoing operations and maintenance activities of the project for the next three biennia following project implementation; (ii) a justification and description for each project baseline change; and (iii) whether the project fails to incorporate existing standards for the maintenance, exchange, and security of data. This report shall also include trends in current projected information technology spending by executive branch agencies and secretariats, including spending on projects, operations and maintenance, and payments to VITA. Agencies shall provide all project and cost information required to complete the RTIP Report to the CIO prior to May 31 immediately preceding any budget biennium in which the project appears in the Governor's budget bill.
+			</section>
+			<section prefix="4">Provide oversight for executive branch agency efforts to modernize the planning, development, implementation, improvement, operations and maintenance, and retirement of Commonwealth information technology, including oversight for the selection, development and management of enterprise information technology.
+			</section>
+			<section prefix="5">Develop statewide technical and data standards and specifications for information technology and related systems, including (i) the efficient exchange of electronic information and technology, including infrastructure, between the public and private sectors in the Commonwealth and (ii) the utilization of nationally recognized technical and data standards for health information technology systems or software purchased by an executive branch agency.
+			</section>
+			<section prefix="6">Direct the compilation and maintenance of an inventory of information technology, including but not limited to personnel, facilities, equipment, goods, and contracts for services.
+			</section>
+			<section prefix="7">Provide for the centralized marketing, provision, leasing, and executing of licensing agreements for electronic access to public information and government services through the Internet, wireless devices, personal digital assistants, kiosks, or other such related media on terms and conditions as may be determined to be in the best interest of the Commonwealth. VITA may fix and collect fees and charges for (i) public information, media, and other incidental services furnished by it to any private individual or entity, notwithstanding the charges set forth in § 2.2-3704, and (ii) such use and services it provides to any executive branch agency or local government. Nothing in this subdivision authorizing VITA to fix and collect fees for providing information services shall be construed to prevent access to the public records of any public body pursuant to the provisions of the Virginia Freedom of Information Act (§ 2.2-3700 et seq.). VITA is authorized, subject to the approval by the Secretary of Administration and any other affected Secretariat, to delegate the powers and responsibilities granted in this subdivision to any agency within the executive branch.
+			</section>
+			<section prefix="8">Periodically evaluate the feasibility of outsourcing information technology resources and services, and outsource those resources and services that are feasible and beneficial to the Commonwealth.
+			</section>
+			<section prefix="9">Have the authority to enter into and amend contracts, including contracts with one or more other public bodies, or public agencies or institutions or localities of the several states, of the United States or its territories, or the District of Columbia, for the provision of information technology services.
+			</section>
+		</section>
+		<section prefix="C">Consistent with § 2.2-2012, the CIO may enter into public-private partnership contracts to finance or implement information technology programs and projects. The CIO may issue a request for information to seek out potential private partners interested in providing programs or projects pursuant to an agreement under this subsection. The compensation for such services shall be computed with reference to and paid from the increased revenue or cost savings attributable to the successful implementation of the program or project for the period specified in the contract. The CIO shall be responsible for reviewing and approving the programs and projects and the terms of contracts for same under this subsection. The CIO shall determine annually the total amount of increased revenue or cost savings attributable to the successful implementation of a program or project under this subsection and such amount shall be deposited in the Virginia Technology Infrastructure Fund created in § 2.2-2023. The CIO is authorized to use moneys deposited in the Fund to pay private partners pursuant to the terms of contracts under this subsection. All moneys in excess of that required to be paid to private partners, as determined by the CIO, shall be reported to the Comptroller and retained in the Fund. The CIO shall prepare an annual report to the Governor, the Secretary, and General Assembly on all contracts under this subsection, describing each information technology program or project, its progress, revenue impact, and such other information as may be relevant.
+		</section>
+		<section prefix="D">Executive branch agencies shall cooperate with VITA in identifying the development and operational requirements of proposed information technology systems, products, data, and services, including the proposed use, functionality, and capacity, and the total cost of acquisition, operation, and maintenance.
+		</section>
+	</text>
+	<history>1999, cc. 412, 421, 433, § 2.1-51.47; 2000, c. 995; 2001, c. 844, § 2.2-226; 2002, c. 424; 2003, cc. 981, 1021; 2005, cc. 933, 945; 2007, cc. 276, 701; 2009, c. 86; 2010, cc. 136, 145; 2011, c. 739; 2015, c. 768; 2016, c. 296; 2020, c. 738.</history>
+</law>

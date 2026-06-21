@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="21" level="3">Regulation of Property Carriers</unit>
+		<unit label="article" identifier="4" level="4">Household Goods Carriers</unit>
+	</structure>
+	<section_number>46.2-2173</section_number>
+	<catch_line>Tariff contents</catch_line>
+	<text>
+		Tariff contents shall contain certain information:
+		<section prefix="1">Table of contents, arranged in alphabetical order, showing the number of the page and/or item number on which each subject may be found. If a tariff contains so small a volume of matter that its title page or interior arrangement plainly discloses its contents, the table of contents may be omitted.
+		</section>
+		<section prefix="2">A complete list of all carriers participating in the tariff, or reference to the governing publication which participation is shown.
+		</section>
+		<section prefix="3">A complete index of all commodities on which specific rates are named therein, together with reference to the page and/or items in which they are shown. No index need be shown in tariffs of less than five pages, or if all the rates to each destination are alphabetically arranged by commodities.
+		</section>
+		<section prefix="4">Explanations of all notes, abbreviations, symbols and reference marks used in tariff.
+		</section>
+		<section prefix="5">Rules that govern in clear and explicit terms, setting forth all privileges and services covered.
+		</section>
+		<section prefix="6">Any exceptions to the application of rates named, and non-application of rates named therein.
+		</section>
+		<section prefix="7">All line haul transportation rates shall be explicitly stated in dollars and cents.
+		</section>
+		<section prefix="8">Household goods carriers shall establish the charge to be made for each accessorial or terminal service rendered in connection with the shipment. The tariff shall separately state each service to be rendered and the charge therefor.
+			a. The charges for packing and unpacking shall be stated in amounts per container or per hundred weight.
+			b. An hourly labor charge may be established to cover miscellaneous labor services performed at the request of the shipper when a rate is not separately stated for the service requested.
+		</section>
+		<section prefix="9">Tariffs based on distances from point of origin to destination shall show the mileages or indicate a definite method by which such mileages shall be determined.
+		</section>
+	</text>
+	<history>2001, c. 596; 2006, c. 609.</history>
+</law>

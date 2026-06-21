@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="10" level="3">Entities Conducting Trust Business</unit>
+		<unit label="article" identifier="1" level="4">Trust Powers and Trust Business</unit>
+	</structure>
+	<section_number>6.2-1007</section_number>
+	<catch_line>Investment of trust funds</catch_line>
+	<text>
+		<section prefix="A">Funds received or held by a trust institution awaiting investment or distribution shall be invested or distributed as soon as practicable and shall not be held uninvested by the trust institution any longer than is reasonably necessary.
+		</section>
+		<section prefix="B">If the instrument creating the trust does not specify the character or class of investments to be made, and does not expressly grant to the trust institution, its officers or directors discretion in the matter of investments, funds held in trust shall be invested in any securities in which corporate or individual fiduciaries may lawfully invest.
+		</section>
+		<section prefix="C">If the instrument under which a trust institution is serving as fiduciary or cofiduciary does authorize it to retain:
+			<section prefix="1">Its own stock or securities, it shall be authorized to retain in like manner the stock or securities of a bank holding company of which it is a subsidiary; or
+			</section>
+			<section prefix="2">The stock or securities of a bank or trust company to the business of which the fiduciary has succeeded, or the stock or securities of a bank or trust company which has become a subsidiary of a bank holding company, such fiduciary shall be authorized in like manner to retain the stock of the successor bank or trust company or bank holding company.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-98, 6-101; 1966, c. 584, § 6.1-23; 1972, c. 740; 1974, c. 665; 1993, c. 432; 2010, c. 794.</history>
+</law>

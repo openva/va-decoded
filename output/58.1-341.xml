@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="4" level="4">Accounting, Returns, Procedures for Individuals</unit>
+	</structure>
+	<section_number>58.1-341</section_number>
+	<catch_line>Returns of individuals</catch_line>
+	<text>
+		<section prefix="A">On or before May 1 of each year if an individual's taxable year is the calendar year, or on or before the fifteenth day of the fourth month following the close of a taxable year other than the calendar year, an income tax return under this chapter shall be made and filed by or for:
+			<section prefix="1">Every resident individual, except as provided in § 58.1-321, required to file a federal income tax return for the taxable year, or having Virginia taxable income for the taxable year;
+			</section>
+			<section prefix="2">Every nonresident individual having Virginia taxable income for the taxable year, except as provided in § 58.1-321.
+				Notwithstanding the foregoing, every member of the armed services of the United States deployed outside of the United States shall be allowed an automatic extension to file an income tax return. Such extension shall expire 90 days following the completion of such member's deployment. For purposes of this section, "the armed services of the United States" includes active duty service with the regular Armed Forces of the United States or the National Guard or other reserve component.
+			</section>
+		</section>
+		<section prefix="B">If the federal income tax liability of either spouse is determined on a separate federal return, their Virginia income tax liabilities and returns shall be separate. If the federal income tax liabilities of married individuals (other than married individuals described in subdivision A 2 ) are determined on a joint federal return, or if neither files a federal return:
+			<section prefix="1">They shall file a joint Virginia income tax return, and their tax liabilities shall be joint and several; or
+			</section>
+			<section prefix="2">They may elect to file separate Virginia income tax returns if they comply with the requirements of the Department in setting forth information (whether or not on a single form), in which event their tax liabilities shall be separate unless such married individuals file separately on a combined return. The election permitted under this subsection may be made or changed at any time within three years from the last day prescribed by law for the timely filing of the return.
+			</section>
+		</section>
+		<section prefix="C">If either spouse is a resident and the other is a nonresident, they shall file separate Virginia income tax returns on such single or separate forms as may be required by the Department, in which event their tax liabilities shall be separate except as provided in subsection D, unless both elect to determine their joint Virginia taxable income as if both were residents, in which event their tax liabilities shall be joint and several.
+		</section>
+		<section prefix="D">If married individuals file separate Virginia income tax returns on a single form pursuant to subsection B or C, and:
+			<section prefix="1">If the sum of the payments by either spouse, including withheld and estimated taxes, exceeds the amount of the tax for which such spouse is separately liable, the excess may be applied by the Department to the credit of the other spouse if the sum of the payments by such other spouse, including withheld and estimated taxes, is less than the amount of the tax for which such other spouse is separately liable;
+			</section>
+			<section prefix="2">If the sum of the payments made by both spouses with respect to the taxes for which they are separately liable, including withheld and estimated taxes, exceeds the total of the taxes due, refund of the excess may be made payable to both spouses.
+				The provisions of this subsection shall not apply if the return of either spouse includes a demand that any overpayment made by him shall be applied only on account of his separate liability.
+			</section>
+		</section>
+		<section prefix="E">The return for any deceased individual shall be made and filed by his executor, administrator, or other person charged with his property.
+		</section>
+		<section prefix="F">The return for an individual who is unable to make a return by reason of minority or other disability shall be made and filed by his guardian, committee, fiduciary or other person charged with the care of his person or property (other than a receiver in possession of only a part of his property), or by his duly authorized agent.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.062; 1971, Ex. Sess., c. 171; 1972, c. 827; 1978, c. 796; 1984, c. 675; 2008, c. 591; 2020, c. 900.</history>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="54" level="2">Fair Food Delivery Act</unit>
+	</structure>
+	<section_number>59.1-587</section_number>
+	<catch_line>Food delivery platform; agreements required; disclosure of price and fees</catch_line>
+	<text>
+		<section prefix="A">No food delivery platform shall submit an order on behalf of a consumer to a restaurant or arrange for the delivery of an order from a restaurant without first obtaining an agreement with the restaurant expressly authorizing the food delivery platform to submit orders to and deliver food prepared by the restaurant.
+		</section>
+		<section prefix="B">A food delivery platform shall:
+			<section prefix="1">At the point when a consumer views and selects a vendor or items for purchase, include a clear and conspicuous disclosure of any additional fee or percentage charged; and
+			</section>
+			<section prefix="2">Prior to checkout, display a subtotal page that itemizes the price of the selected items for purchase and any additional fee or percentage included in the total cost.
+			</section>
+		</section>
+		<section prefix="C">It shall not be a violation of this chapter for a food delivery platform to (i) reduce the total cost that was previously advertised or displayed, (ii) display a promotion or discount, including an offer to waive one or more mandatory fees, or (iii) advertise or display a price for goods and services in compliance with specific state or federal laws applicable to food delivery platforms.
+		</section>
+		<section prefix="D">A food delivery platform that is a price-variable supplier, as defined in § 59.1-607, is compliant with subdivision B 1 if such supplier includes a disclosure at the point when a consumer selects items for purchase (i) of the factors determining the final price; (ii) of any mandatory fees or surcharges, as defined in § 59.1-607, associated with the transaction; and (iii) that the total cost of services may vary.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 485; 2025, cc. 685, 686.</history>
+</law>

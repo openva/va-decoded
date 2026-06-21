@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="11" level="2">Uniform Collaborative Law Act</unit>
+	</structure>
+	<section_number>20-183</section_number>
+	<catch_line>Waiver and preclusion of privilege</catch_line>
+	<text>
+		<section prefix="A">A privilege under § 20-182 may be waived in a record or orally during a proceeding if it is expressly waived by all parties and, in the case of the privilege of a nonparty participant, it is also expressly waived by such participant.
+		</section>
+		<section prefix="B">A person who makes a disclosure or representation about a collaborative law communication that prejudices another person in a proceeding shall not assert a privilege under § 20-182; such preclusion applies only to the extent necessary for the person prejudiced to respond to the disclosure or representation.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 346.</history>
+</law>

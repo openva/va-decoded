@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="II" level="2">Boards, Councils, Foundations, and Commissions</unit>
+		<unit label="part" identifier="B" level="3">Commodity Boards</unit>
+		<unit label="chapter" identifier="18" level="4">Potato Board</unit>
+		<unit label="article" identifier="2" level="5">Potato Referenda and Fund</unit>
+	</structure>
+	<section_number>3.2-1814</section_number>
+	<catch_line>Falsification of records; misdemeanor</catch_line>
+	<text>
+		It is a Class 1 misdemeanor:
+		<section prefix="1">For any handler knowingly to report falsely to the Commissioner the quantity of potatoes processed or handled by him.
+		</section>
+		<section prefix="2">For any handler to fail to keep a complete record of the potatoes processed or handled by him.
+		</section>
+		<section prefix="3">For any handler to preserve the records for a period of time less than three years from the time such potatoes are processed or handled.
+		</section>
+	</text>
+	<history>1982, c. 126, § 3.1-684.38; 2008, c. 860.</history>
+</law>

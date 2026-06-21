@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="III" level="2">Rental Conveyances</unit>
+		<unit label="chapter" identifier="12" level="3">Virginia Residential Landlord and Tenant Act</unit>
+		<unit label="article" identifier="5" level="4">Landlord Remedies</unit>
+	</structure>
+	<section_number>55.1-1246</section_number>
+	<catch_line>Barring guest or invitee of a tenant</catch_line>
+	<text>
+		<section prefix="A">A guest or invitee of a tenant may be barred from the premises by the landlord upon written notice served personally upon the guest or invitee of the tenant for conduct on the landlord's property where the premises are located that violates the terms and conditions of the rental agreement, a local ordinance, or a state or federal law. A copy of the notice shall be served upon the tenant in accordance with this chapter. The notice shall describe the conduct of the guest or invitee that is the basis for the landlord's action.
+		</section>
+		<section prefix="B">In addition to the remedies against the tenant authorized by this chapter, a landlord may apply to the magistrate for a warrant for trespass, provided that the guest or invitee has been served in accordance with subsection A.
+		</section>
+		<section prefix="C">The tenant may file a tenant's assertion, in accordance with § 55.1-1244, requesting that the general district court review the landlord's action to bar the guest or invitee.
+		</section>
+	</text>
+	<history>1999, cc. 359, 390, § 55-248.31:01; 2000, c. 760; 2019, c. 712.</history>
+</law>

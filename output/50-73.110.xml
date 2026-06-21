@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="6" level="3">Partner's Dissociation</unit>
+	</structure>
+	<section_number>50-73.110</section_number>
+	<catch_line>Partner's power to dissociate; wrongful dissociation</catch_line>
+	<text>
+		<section prefix="A">A partner has the power to dissociate at any time, rightfully or wrongfully, by express will pursuant to subdivision 1 of § 50-73.109.
+		</section>
+		<section prefix="B">A partner's dissociation is wrongful only if:
+			<section prefix="1">It is in breach of an express provision of the partnership agreement; or
+			</section>
+			<section prefix="2">In the case of a partnership for a definite term or particular undertaking, before the expiration of the term or the completion of the undertaking:
+				a. The partner withdraws by express will, unless the withdrawal follows within 90 days after another partner's dissociation by death or otherwise under subdivisions 6 through 10 and 12 of § 50-73.109 or wrongful dissociation under this subsection;
+				b. The partner is expelled by judicial determination under subdivision 5 of § 50-73.109;
+				c. The partner is dissociated under subdivision 6 of § 50-73.109; or
+				d. In the case of a partner who is not an individual, trust other than a business trust, or estate, the partner is expelled or otherwise dissociated because it willfully dissolved or terminated.
+			</section>
+		</section>
+		<section prefix="C">A partner who wrongfully dissociates is liable to the partnership and to the other partners for damages caused by the dissociation. The liability is in addition to any other obligation of the partner to the partnership or to the other partners.
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="1" level="2">General Provisions and Definitions</unit>
+	</structure>
+	<section_number>8.3A-112</section_number>
+	<catch_line>Interest</catch_line>
+	<text>
+		<section prefix="a">Unless otherwise provided in the instrument, (i) an instrument is not payable with interest, and (ii) interest on an interest-bearing instrument is payable from the date of the instrument.
+		</section>
+		<section prefix="b">Interest may be stated in an instrument as a fixed or variable amount of money, or it may be expressed as a fixed or variable rate or rates. The amount or rate of interest may be stated or described in the instrument in any manner and may require reference to information not contained in the instrument. If an instrument provides for interest, but the amount of interest payable cannot be ascertained from the description, interest is payable at the judgment rate in effect at the place of payment of the instrument and at the time interest first accrues.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-369, 6-420; 1964, c. 219, § 8.3-118; 1992, c. 693.</history>
+</law>

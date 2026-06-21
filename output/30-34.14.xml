@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="3.2" level="2">Division of Legislative Automated Systems</unit>
+	</structure>
+	<section_number>30-34.14</section_number>
+	<catch_line>Duties of Division</catch_line>
+	<text>
+		The Division shall have the following duties:
+		<section prefix="1">Operate an automated data processing center and perform computing and programming services for the House of Delegates, Senate of Virginia, and the Division of Legislative Services.
+		</section>
+		<section prefix="2">To provide technical assistance to the General Assembly of Virginia, and to the agencies which directly serve the General Assembly of Virginia.
+		</section>
+		<section prefix="3">To represent the interests of the General Assembly in activities involving, obtaining and maintaining data processing services, electronic components, and other related items.
+		</section>
+		<section prefix="4">Prepare and publish annually, as soon as practicable after January 1, a listing of designated spokespersons or information officers for each department, agency, board, or commission of state government, as shall be designated by the head thereof. Such officers or designated alternates shall (i) serve as legislative liaison between any such department, agency, board, or commission and the General Assembly, (ii) act as the official spokesperson representing such department, agency, board, or commission, and (iii) be at all times available to assist members of the General Assembly in seeking solutions to problems of citizens of the Commonwealth.
+		</section>
+		<section prefix="5">To perform other duties as directed by the Committees on Rules of the House of Delegates and the Senate of Virginia acting jointly.
+			Every document or file maintained or stored on equipment of the Division shall be considered the property of the person for whom the document or file is maintained or stored. Neither the Director nor any employee of the Division shall reveal any of this property to any person outside of the Division, except with the consent of the owner of the property.
+		</section>
+	</text>
+	<history>1980, c. 725; 2002, c. 2; 2006, c. 662.</history>
+</law>

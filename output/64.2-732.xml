@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="4" level="4">Creation, Validity, Modification, and Termination of Trust</unit>
+	</structure>
+	<section_number>64.2-732</section_number>
+	<catch_line>Modification or termination of uneconomic trust</catch_line>
+	<text>
+		<section prefix="A">After notice to the qualified beneficiaries, the trustee of a trust consisting of trust property having a total value less than $250,000 may terminate the trust without court approval if the trustee concludes that the value of the trust property is insufficient to justify the cost of administration. Notice required by this section shall be sent in accordance with § 64.2-707.
+		</section>
+		<section prefix="B">The court may modify or terminate a trust or remove the trustee and appoint a different trustee if it determines that the value of the trust property is insufficient to justify the cost of administration.
+		</section>
+		<section prefix="C">Upon termination of a trust under this section, the trustee shall distribute the trust property in a manner consistent with the purposes of the trust and may simultaneously utilize the provisions of § 64.2-779.
+		</section>
+		<section prefix="D">This section does not apply to an easement for conservation or preservation.
+		</section>
+		<section prefix="E">Expenses incurred by the trustee incident to the termination of a trust pursuant to this section shall be paid by the trust estate.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-544.14; 2012, c. 614; 2024, cc. 282, 336; 2025, c. 148.</history>
+</law>

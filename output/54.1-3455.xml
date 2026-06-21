@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="III" level="2">Professions and Occupations Regulated by Boards Within the Department of Health Professions</unit>
+		<unit label="chapter" identifier="34" level="3">Drug Control Act</unit>
+		<unit label="article" identifier="5" level="4">Standards and Schedules</unit>
+	</structure>
+	<section_number>54.1-3455</section_number>
+	<catch_line>Schedule VI</catch_line>
+	<text>
+		The following classes of drugs and devices shall be controlled by Schedule VI:
+		<section prefix="1">Any compound, mixture, or preparation containing any stimulant or depressant drug exempted from Schedules III, IV or V and designated by the Board as subject to this section.
+		</section>
+		<section prefix="2">Every drug, not included in Schedules I, II, III, IV or V, or device, which because of its toxicity or other potentiality for harmful effect, or the method of its use, or the collateral measures necessary to its use, is not generally recognized among experts qualified by scientific training and experience to evaluate its safety and efficacy as safe for use except by or under the supervision of a practitioner licensed to prescribe or administer such drug or device.
+		</section>
+		<section prefix="3">Any drug, not included in Schedules I, II, III, IV or V, required by federal law to bear on its label prior to dispensing, at a minimum, the symbol "Rx only," or which bears the legend "Caution: Federal Law Prohibits Dispensing Without Prescription" or "Caution: Federal Law Restricts This Drug To Use By Or On The Order Of A Veterinarian" or any device which bears the legend "Caution: Federal Law Restricts This Device To Sales By Or On The Order Of A _______________." (The blank should be completed with the word "Physician," "Dentist," "Veterinarian," or with the professional designation of any other practitioner licensed to use or order such device.)
+		</section>
+	</text>
+	<history>1972, c. 798, § 54-524.84:13; 1976, c. 614; 1977, c. 302; 1988, c. 765; 1999, c. 605.</history>
+</law>

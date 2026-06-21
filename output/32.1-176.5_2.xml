@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="2.1" level="3">Private Well Construction</unit>
+	</structure>
+	<section_number>32.1-176.5:2</section_number>
+	<catch_line>Prohibition on private well construction</catch_line>
+	<text>
+		<section prefix="A">No private well shall be constructed within 50 feet of the property line with an adjacent property of three acres or larger that is used for an agricultural operation, as defined in § 3.2-300. The following shall be exempt: (i) the owner of the adjacent property that is used for an agricultural operation may grant written permission for construction within 50 feet of the property line; or (ii) certification that no other site on the property complies with the Board's regulations for the construction of a private well.
+		</section>
+		<section prefix="B">The Department shall accept private site evaluations and designs, in compliance with the Board's regulations for the construction of private wells, designed and certified by a licensed professional engineer, in consultation with a licensed onsite soil evaluator, or by a licensed onsite soil evaluator. The evaluations and designs included within such submissions shall be certified as complying with the Board's regulations implementing this chapter. The Department shall not be required to perform a field check of private evaluations and designs prior to issuing the requested letter, permit, or approval. However, the Department may conduct such review of the work and field analysis as deemed necessary to protect the public health, integrity of the Commonwealth's environment, and the provisions of this chapter.
+		</section>
+		<section prefix="C">The Department, prior to issuing a permit, shall require any owner applying for a permit to construct a private well pursuant to the exemptions in subsection A to submit documentation that affirms the well construction site complies with the provisions of this section.
+		</section>
+	</text>
+	<history>2007, c. 403; 2008, c. 62; 2016, c. 90.</history>
+</law>

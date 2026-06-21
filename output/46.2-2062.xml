@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="20" level="3">Regulation of Passenger Carriers</unit>
+		<unit label="article" identifier="3" level="4">Taxicabs</unit>
+	</structure>
+	<section_number>46.2-2062</section_number>
+	<catch_line>Regulation of taxicab service by localities; rates and charges</catch_line>
+	<text>
+		<section prefix="A">The governing body of any county, city or town in the Commonwealth may by ordinance regulate the rates or charges of any motor vehicles used for the transportation of passengers for a consideration on any highway, street, road, lane or alley in such county, city or town, and may prescribe such reasonable regulations as to filing of schedules of rates, charges and the general operation of such vehicles; provided that, notwithstanding anything contained in this chapter to the contrary, such ordinances and regulations shall not prescribe the wages or compensation to be paid to any driver or lessor of any such motor vehicle by the owner or lessee thereof.
+		</section>
+		<section prefix="B">In considering rates or charges pursuant to this section, or financial responsibility as provided by this chapter, the governing body may require the owner or operator to submit such supporting financial data as may be necessary, including federal or state income tax returns for the two years preceding, provided that the governing body shall not require any owner or operator to submit any audit more extensive than that conducted by such owner or operator in the normal course of business. Such financial data shall be used only for consideration of rates or charges, or to determine financial responsibility, and shall be kept confidential by the governing body to which it has been submitted. Nothing in this subsection shall make confidential any certificate of insurance, bond, letter of credit, or other certification that the owner or operator has met the requirements of this chapter or of any local ordinance with regard to financial responsibility.
+		</section>
+		<section prefix="C">Notwithstanding the provisions of § 3.2-5620, in the absence of any specifications, tolerances, and regulations for software-based taximeter technology published in the National Institute of Standards and Technology Handbook 44, any county, city, or town that has adopted an ordinance regulating taxicabs as provided in subsection A may authorize the use of software-based devices that utilize GPS or other measurement data in the calculation of time-and-distance fares for taxicab service.
+		</section>
+	</text>
+	<history>2001, c. 596; 2007, c. 238; 2017, c. 528.</history>
+</law>

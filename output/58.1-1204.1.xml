@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="12" level="3">Bank Franchise Tax</unit>
+	</structure>
+	<section_number>58.1-1204.1</section_number>
+	<catch_line>Proration for new banks</catch_line>
+	<text>
+		Notwithstanding § 58.1-1204, any bank which did not operate for the entire twelve-month period preceding the January 1 assessment date provided for under § 58.1-1207 shall be entitled to a prorated tax rate as follows:
+		<section prefix="1">Transacting business as of March 31 of the preceding year, no proration shall be available and the tax rate shall be $1 on each $100 of net capital.
+		</section>
+		<section prefix="2">Transacting business as of June 30 of the preceding year but not before April 1, the tax rate shall be 75 cent(s) on each $100 of net capital.
+		</section>
+		<section prefix="3">Transacting business as of September 30 of the preceding year but not before July 1, the tax rate shall be 50 cent(s) on each $100 of net capital.
+		</section>
+		<section prefix="4">Transacting business as of December 31 of the preceding year but not before October 1, the tax rate shall be 25 cent(s) on each $100 of net capital.
+			For purposes of this section, "transacting business" shall mean accepting deposits from customers in the regular course of doing business. A bank shall be eligible for the prorated tax rate provided for hereunder with respect to the first return it is required to file after accepting deposits; provided, that a bank shall not be eligible for the prorated tax rate if it was organized or created as part of a reorganization within the meaning of § 368(a) of the Internal Revenue Code.
+		</section>
+	</text>
+	<history>1989, c. 64.</history>
+</law>

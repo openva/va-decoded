@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="V" level="2">Miscellaneous</unit>
+		<unit label="chapter" identifier="25" level="3">Virginia Disposition Of Unclaimed Property Act</unit>
+		<unit label="article" identifier="1" level="4">Definitions; Property Abandoned or Assumed Abandoned</unit>
+	</structure>
+	<section_number>55.1-2520</section_number>
+	<catch_line>Employee benefit trust distribution</catch_line>
+	<text>
+		<section prefix="A">All employee benefit trust distributions and any income or other increment thereon are abandoned to the Commonwealth under the provisions of this chapter if the owner has not, within 10 years after it became payable, accepted such distribution, corresponded in writing concerning such distribution, or otherwise indicated an interest as evidenced by a memorandum or other record on file with the fiduciary of the trust or custodial fund or administrator of the plan under which such trust or fund is established.
+		</section>
+		<section prefix="B">An employee benefit trust distribution and any income or other increment thereon shall not be presumed abandoned to the Commonwealth under the provisions of this chapter if, at the time such distribution becomes payable to a participant in an employee benefit plan, (i) such plan contains a provision for forfeiture or expressly authorizes the trustee to declare a forfeiture of a distribution to a beneficiary thereof who cannot be found after a period of time specified in such plan and (ii) the trust or fund established under the plan has not terminated prior to the date on which such distribution would become forfeitable in accordance with such provision.
+		</section>
+	</text>
+	<history>1981, c. 47, § 55-210.10:1; 2000, cc. 733, 745; 2019, c. 712.</history>
+</law>

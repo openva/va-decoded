@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="9" level="3">Virginia Estate Tax</unit>
+		<unit label="article" identifier="1" level="4">Substantive Provisions Generally</unit>
+	</structure>
+	<section_number>58.1-903</section_number>
+	<catch_line>Tax on transfer of taxable estate of nonresidents; property of nonresident defined</catch_line>
+	<text>
+		<section prefix="A">A tax in an amount computed as provided in this section is imposed on the transfer of every nonresident's taxable estate located in the Commonwealth of Virginia.
+			The tax shall be an amount computed by multiplying the federal credit by a fraction, the numerator of which is the value of that part of the gross estate over which Virginia has jurisdiction for estate tax purposes and the denominator of which is the value of the decedent's gross estate.
+		</section>
+		<section prefix="B">For purposes of this section, property located in the Commonwealth of Virginia which is taxable to a nonresident shall include:
+			<section prefix="1">Real property and real property interests located in the Commonwealth of Virginia including mineral interests, royalties, production payments, leasehold interests, or working interests in oil, gas, coal, or any other minerals; and
+			</section>
+			<section prefix="2">Tangible personal property having an actual situs in the Commonwealth of Virginia.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 58-238.4; 1978, c. 838; 1984, c. 675.</history>
+</law>

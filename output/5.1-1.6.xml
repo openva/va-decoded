@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="5.1" level="1">Aviation</unit>
+		<unit label="chapter" identifier="1" level="2">Aircraft, Airmen and Airports Generally</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>5.1-1.6</section_number>
+	<catch_line>Further powers and duties of Department; State Corporation Commission to administer Chapter 9</catch_line>
+	<text>
+		<section prefix="A">The Department shall have the following powers and duties:
+			<section prefix="1">Administer the provisions of Chapters 1 (§ 5.1-1 et seq.), 3 (§ 5.1-31 et seq.), 5 (§ 5.1-51 et seq.) and 8.1 (§ 5.1-88.1 et seq.);
+			</section>
+			<section prefix="2">Plan for the development of a state aviation system;
+			</section>
+			<section prefix="3">Promote aviation in the Commonwealth in the interest of the public, including representing the interests of the Commonwealth before all tribunals, agencies or offices, federal, state and local, in any matter tending to affect any phase of Virginia aviation;
+			</section>
+			<section prefix="4">Register aircraft and license airports and landing areas; and
+			</section>
+			<section prefix="5">Provide assistance to cities, towns, counties and other governmental subdivisions for the planning, development, construction and operation of airports, landing fields and other aviation facilities.
+			</section>
+		</section>
+		<section prefix="B">The State Corporation Commission shall continue to administer Chapter 9 (§ 5.1-89 et seq.).
+		</section>
+	</text>
+	<history>1979, c. 272; 1991, c. 126; 1992, c. 108; 2017, c. 793.</history>
+</law>

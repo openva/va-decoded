@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Taxation</unit>
+		<unit label="article" identifier="4" level="3">Computation of Tax Rate</unit>
+	</structure>
+	<section_number>60.2-525</section_number>
+	<catch_line>Statement of employer's benefit charges and taxes</catch_line>
+	<text>
+		The Commission, by December 31 every year, shall provide every covered employer with a statement of the employer's benefit charges and taxes for the preceding fiscal year. For any period in which benefit charges are not available, benefit charges shall be calculated as provided in § 60.2-530.
+	</text>
+	<history>1981, c. 606, § 60.1-40.1; 1986, c. 480; 2003, c. 382.</history>
+</law>

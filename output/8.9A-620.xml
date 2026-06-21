@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="1" level="3">Default and Enforcement of Security Interest</unit>
+	</structure>
+	<section_number>8.9A-620</section_number>
+	<catch_line>Acceptance of collateral in full or partial satisfaction of obligation; compulsory disposition of collateral</catch_line>
+	<text>
+		<section prefix="a">Conditions to acceptance in satisfaction. Except as otherwise provided in subsection (g), a secured party may accept collateral in full or partial satisfaction of the obligation it secures only if:
+			<section prefix="1">the debtor consents to the acceptance under subsection (c);
+			</section>
+			<section prefix="2">the secured party does not receive, within the time set forth in subsection (d), a notification of objection to the proposal signed by:
+			</section>
+		</section>
+		<section prefix="A">a person to which the secured party was required to send a proposal under § 8.9A-621; or
+		</section>
+		<section prefix="B">any other person, other than the debtor, holding an interest in the collateral subordinate to the security interest that is the subject of the proposal;
+			<section prefix="3">subsection (e) does not require the secured party to dispose of the collateral or the debtor waives the requirement pursuant to § 8.9A-624.
+			</section>
+		</section>
+		<section prefix="b">Purported acceptance ineffective. A purported or apparent acceptance of collateral under this section is ineffective unless:
+			<section prefix="1">the secured party consents to the acceptance in a signed record or sends a proposal to the debtor; and
+			</section>
+			<section prefix="2">the conditions of subsection (a) are met.
+			</section>
+		</section>
+		<section prefix="c">Debtor's consent. For purposes of this section:
+			<section prefix="1">a debtor consents to an acceptance of collateral in partial satisfaction of the obligation it secures only if the debtor agrees to the terms of the acceptance in a record signed after default; and
+			</section>
+			<section prefix="2">a debtor consents to an acceptance of collateral in full satisfaction of the obligation it secures only if the debtor agrees to the terms of the acceptance in a record signed after default or the secured party:
+			</section>
+		</section>
+		<section prefix="A">sends to the debtor after default a proposal that is unconditional or subject only to a condition that collateral not in the possession of the secured party be preserved or maintained;
+		</section>
+		<section prefix="B">in the proposal, proposes to accept collateral in full satisfaction of the obligation it secures; and
+		</section>
+		<section prefix="C">does not receive a notification of objection signed by the debtor within twenty days after the proposal is sent.
+		</section>
+		<section prefix="d">Effectiveness of notification. To be effective under subsection (a) (2), a notification of objection must be received by the secured party:
+			<section prefix="1">in the case of a person to which the proposal was sent pursuant to § 8.9A-621, within twenty days after notification was sent to that person; and
+			</section>
+			<section prefix="2">in other cases:
+			</section>
+		</section>
+		<section prefix="A">within twenty days after the last notification was sent pursuant to § 8.9A-621; or
+		</section>
+		<section prefix="B">if a notification was not sent, before the debtor consents to the acceptance under subsection (c).
+		</section>
+		<section prefix="e">Mandatory disposition of consumer goods.
+			A secured party that has taken possession of collateral shall dispose of the collateral pursuant to § 8.9A-610 within the time specified in subsection (f) if:
+			<section prefix="1">sixty percent of the cash price has been paid in the case of a purchase-money security interest in consumer goods; or
+			</section>
+			<section prefix="2">sixty percent of the principal amount of the obligation secured has been paid in the case of a nonpurchase-money security interest in consumer goods.
+			</section>
+		</section>
+		<section prefix="f">Compliance with mandatory disposition requirement. To comply with subsection (e), the secured party shall dispose of the collateral:
+			<section prefix="1">within ninety days after taking possession; or
+			</section>
+			<section prefix="2">within any longer period to which the debtor and all secondary obligors have agreed in an agreement to that effect entered into and signed after default.
+			</section>
+		</section>
+		<section prefix="g">No partial satisfaction in consumer transaction. In a consumer transaction, a secured party may not accept collateral in partial satisfaction of the obligation it secures.
+		</section>
+	</text>
+	<history>Code 1950, § 55-93; 1964, cc. 219, 410, § 8.9-505; 1973, c. 509; 2000, c. 1007; 2024, c. 652.</history>
+</law>

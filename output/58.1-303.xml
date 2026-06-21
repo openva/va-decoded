@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>58.1-303</section_number>
+	<catch_line>Residency for portion of tax year</catch_line>
+	<text>
+		<section prefix="A">Any person who, during the taxable year, becomes a resident of Virginia, whether domiciliary or actual, for purposes of income taxation, by moving to the Commonwealth from without during such taxable year, shall be taxable as a resident for only that portion of the taxable year during which he was a resident of the Commonwealth and his personal exemptions shall be reduced to an amount which bears the same ratio to the full exemptions as the number of days during which he was a resident of the Commonwealth bears to 365 days. No person to whom the preceding sentence applies shall be entitled to any credit on his income tax payable to Virginia for any income tax paid to the state or other jurisdiction of his former domicile or actual residence for that part of the taxable year during which he was a domiciliary or actual resident of such other state or jurisdiction, notwithstanding the provisions of § 58.1-332.
+		</section>
+		<section prefix="B">Any person who, on or before the last day of the taxable year, changes his place of abode to a place without the Commonwealth with the bona fide intention of continuing actually to abide permanently without Virginia shall be taxable as a resident for only that portion of the taxable year during which he was a resident of Virginia and his personal exemptions shall be reduced to an amount which bears the same ratio to the full exemptions as the number of days during which he was a resident of this Commonwealth bears to 365 days. The fact that a person who has changed his place of abode, within six months from so doing abides again in the Commonwealth, shall be prima facie evidence that he did not intend permanently to have his place of abode without Virginia. The fact that a person has removed his abode to a place without the Commonwealth is not conclusive evidence of a change of domicile.
+		</section>
+		<section prefix="C">Any person who is taxable as a resident of the Commonwealth for only a portion of a taxable year because he moved to this Commonwealth from without Virginia during the taxable year as set out in subsection A, or because he changed his place of abode during the taxable year to a place without Virginia as set out in subsection B, and who, as a nonresident of Virginia for any other part of the taxable year derived income from any property owned or from any business, trade, profession or occupation carried on in Virginia shall be taxable as a nonresident with respect to such income as provided in § 58.1-325.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.02; 1971, Ex. Sess., c. 171; 1972, cc. 310, 827; 1979, c. 404; 1984, c. 675.</history>
+</law>

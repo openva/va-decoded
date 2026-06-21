@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="6" level="2">Costs Generally</unit>
+	</structure>
+	<section_number>17.1-606</section_number>
+	<catch_line>Persons allowed services without fees or costs</catch_line>
+	<text>
+		<section prefix="A">Any person who is (i) a plaintiff in a civil action in a court of the Commonwealth and a resident of the Commonwealth or (ii) a defendant in a civil action in a court of the Commonwealth, and who is on account of his poverty unable to pay fees or costs, may be allowed by a court to sue or defend a suit therein, without paying fees or costs; whereupon he shall have, from any counsel whom the court may assign him, and from all officers, all needful services and process, without any fees, except what may be included in the costs recovered from the opposite party.
+		</section>
+		<section prefix="B">In determining a person's inability to pay fees or costs on account of his poverty, the court shall consider whether such person is a current recipient of a state or federally funded public assistance program for the indigent or is represented by a legal aid society, subject to § 54.1-3916, including an attorney appearing as counsel, pro bono, or assigned or referred by a legal aid society. If so, such person shall be presumed unable to pay such fees or costs. Except in the case of a no-fault divorce proceeding under subdivision A (9) of § 20-91, such presumption shall be rebuttable where the court finds that a more thorough examination of the person's financial resources is necessary.
+		</section>
+		<section prefix="C">If a person claims indigency but is not presumptively unable to pay under subsection B, or a court, where applicable, finds that a more thorough examination of the financial resources of the petitioner is needed, the court shall consider:
+			<section prefix="1">The net income of such person, which shall include his total salary and wages, less deductions required by law and tax withholdings;
+			</section>
+			<section prefix="2">Such person's liquid assets, including all cash on hand as well as assets in checking, savings, and similar accounts; and
+			</section>
+			<section prefix="3">Any exceptional expenses of such person and his dependents, including costs for medical care, family support obligations, and child care payments.
+				The available funds of the person shall be calculated as the sum of his total income and liquid assets less exceptional expenses as provided in subdivision 3. If the available funds are equal to or less than 125 percent of the federal poverty income guidelines prescribed for the size of the household of such person by the federal Department of Health and Human Services, he shall be presumed unable to pay. The Supreme Court of Virginia shall be responsible for distributing to all courts the annual updates of the federal poverty income guidelines made by the Department.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 14-180; 1964, c. 386, § 14.1-183; 1972, c. 839; 1987, c. 197; 1998, c. 872; 2017, cc. 226, 227; 2019, cc. 411, 730; 2020, c. 654.</history>
+</law>

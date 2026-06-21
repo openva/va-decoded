@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="28.2" level="1">Fisheries and Habitat of the Tidal Waters</unit>
+		<unit label="subtitle" identifier="II" level="2">Tidal Fisheries</unit>
+		<unit label="chapter" identifier="7" level="3">Crabs</unit>
+		<unit label="article" identifier="3" level="4">Restrictions on Harvesting Crabs</unit>
+	</structure>
+	<section_number>28.2-706</section_number>
+	<catch_line>Restrictions on crab scraping; penalty</catch_line>
+	<text>
+		It is unlawful for any person to:
+		<section prefix="1">Use a crab scrape having a mouth longer than four feet and a toothed bar;
+		</section>
+		<section prefix="2">Haul a scrape, except by hand; or
+		</section>
+		<section prefix="3">Have more than two scrapes overboard.
+			A violation of any provision of this section is a Class 3 misdemeanor.
+		</section>
+	</text>
+	<history>1983, c. 603, § 28.1-165.1; 1987, cc. 90, 159; 1992, c. 836; 2018, c. 115.</history>
+</law>

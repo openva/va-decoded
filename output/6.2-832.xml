@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="8" level="3">Banks</unit>
+		<unit label="article" identifier="5" level="4">Branches and Facilities</unit>
+	</structure>
+	<section_number>6.2-832</section_number>
+	<catch_line>Establishment of automated teller machines and electronic terminals</catch_line>
+	<text>
+		<section prefix="A">No application to, or approval from, the Commission shall be required for a bank to establish or operate an automated teller machine, cash-dispensing machine, or similar electronic or computer terminal, regardless of whether it (i) is located on bank premises or premises properly considered part of an authorized office of the bank or (ii) receives or records deposits, disburses loan proceeds, or provides for electronic fund transfers.
+		</section>
+		<section prefix="B">A Virginia state bank, as defined in § 6.2-836, may establish and operate such automated teller machines, cash-dispensing machines, or similar electronic or computer terminals in the Commonwealth, provided the bank complies with all Commonwealth and federal laws and regulations applicable to such machines and terminals. An out-of-state bank, as defined in § 6.2-836, may establish and operate such automated teller machines, cash-dispensing machines, or similar electronic or computer terminals in the Commonwealth, provided the bank complies with all Commonwealth, home state and federal laws applicable to such machines and terminals.
+		</section>
+		<section prefix="C">The Commission may adopt regulations affecting electronic fund transfers by banks if it finds such regulations necessary for the protection of the public interest.
+		</section>
+	</text>
+	<history>1997, c. 141, § 6.1-39.4:1; 2010, c. 794; 2015, cc. 19, 445.</history>
+</law>

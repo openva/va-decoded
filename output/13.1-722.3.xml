@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="12.1" level="3">Mergers and Share Exchanges</unit>
+	</structure>
+	<section_number>13.1-722.3</section_number>
+	<catch_line>Action on a plan of domestication of a domestic corporation</catch_line>
+	<text>
+		In the case of a domestication of a domestic corporation into a foreign jurisdiction, the plan of domestication shall be adopted in the following manner:
+		<section prefix="1">The plan of domestication shall first be adopted by the board of directors.
+		</section>
+		<section prefix="2">After adopting the plan of domestication the board of directors shall submit the plan to the shareholders for their approval.
+			In submitting the plan of domestication to the shareholders for approval, the board of directors shall recommend that the shareholders approve the plan, unless the board of directors makes a determination that because of conflicts of interest or other special circumstances it should not make such a recommendation, in which case the board of directors shall inform the shareholders of the basis for that determination.
+		</section>
+		<section prefix="3">The board of directors may set conditions for approval of the plan of domestication by the shareholders or the effectiveness of the plan of domestication.
+		</section>
+		<section prefix="4">If the approval of the shareholders is to be sought at a shareholders meeting, the corporation shall notify each shareholder, regardless of whether entitled to vote, of the meeting of shareholders at which the plan of domestication is to be submitted for approval. The notice shall state that the purpose, or one of the purposes, of the meeting is to consider the plan of domestication and shall contain or be accompanied by a copy or summary of the plan. The notice shall include or be accompanied by a copy of the articles of incorporation and the bylaws as they will be in effect immediately after the domestication.
+		</section>
+		<section prefix="5">Unless the articles of incorporation or the board of directors, acting pursuant to subdivision 3, require a greater vote, approval of the plan of domestication requires (i) the approval of the shareholders at a meeting at which a quorum exists consisting of more than two-thirds of the votes entitled to be cast on the plan and (ii) except as provided in subdivision 6, the approval of each class or series of shares voting as a separate voting group at the meeting at which a quorum of the voting group exists consisting of more than two-thirds of the votes entitled to be cast on the plan by that voting group. The articles of incorporation may provide for a greater or lesser vote than that provided for in this section so long as the vote provided for is not less than a majority of all votes cast on the plan by each voting group entitled to vote on the plan at a meeting at which a quorum of the voting group exists.
+		</section>
+		<section prefix="6">The articles of incorporation may expressly limit or eliminate the separate voting rights provided in clause (ii) of subdivision 5 as to any class or series of shares, except when the articles of incorporation of the foreign corporation resulting from the domestication include what would be in effect an amendment that would entitle the class or series to vote as a separate group under § 13.1-708 if it were a proposed amendment of the articles of incorporation of the domestic domesticating corporation.
+		</section>
+		<section prefix="7">If as a result of a domestication one or more shareholders of a domestic domesticating corporation would become subject to interest holder liability, approval of the plan of domestication shall require the signing in connection with the domestication, by each such shareholder, of a separate written consent to become subject to such interest holder liability, unless in the case of a shareholder that already has interest holder liability with respect to the domesticating corporation, the terms and conditions of the interest holder liability with respect to the domesticated corporation are substantially identical to those of the existing interest holder liability, other than for changes that eliminate or reduce such interest holder liability.
+		</section>
+	</text>
+	<history>2001, c. 545; 2002, c. 1; 2019, c. 734.</history>
+</law>

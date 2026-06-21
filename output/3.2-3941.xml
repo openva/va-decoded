@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="39" level="3">Pesticide Control</unit>
+		<unit label="article" identifier="5" level="4">Violations, Penalties, and Proceedings in Case of Violations</unit>
+	</structure>
+	<section_number>3.2-3941</section_number>
+	<catch_line>Exemptions from penalties</catch_line>
+	<text>
+		The penalties provided for violations of subsection A of § 3.2-3939 and § 3.2-3940 shall not apply to:
+		<section prefix="1">Any carrier transporting pesticides if such carrier permits the Commissioner to copy all records showing the transactions in and movements of the pesticides upon request;
+		</section>
+		<section prefix="2">Public officials of the Commonwealth and the federal government engaged in the performance of their official duties;
+		</section>
+		<section prefix="3">Individuals or agencies authorized by law to conduct research in the field of pesticides when such research is conducted in accordance with regulations established by the Board; and
+		</section>
+		<section prefix="4">Any person who establishes a guaranty signed by, and containing the name and address of, the registrant or person residing in the United States from whom he purchased and received in good faith the pesticide in the same unbroken package, to the effect that the pesticide was lawfully registered at the time of sale and delivery to him, and that it complies with the other requirements of this chapter, designating this chapter. In such case the guarantor shall be subject to the penalties that would otherwise attach to the person holding the guaranty under the provisions of this chapter.
+		</section>
+	</text>
+	<history>Code 1950, § 3-208.44; 1966, c. 702, § 3.1-246; 1981, c. 260; 1989, c. 575, § 3.1-249.74; 2008, c. 860.</history>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="4" level="2">Line of Duty Act</unit>
+	</structure>
+	<section_number>9.1-408</section_number>
+	<catch_line>Records of investigation confidential</catch_line>
+	<text>
+		<section prefix="A">Evidence and documents obtained by or created by, and the report of investigation prepared by, the Department of State Police, the Virginia Retirement System, or the Department of Human Resource Management in carrying out the provisions of this chapter shall (i) be deemed confidential, (ii) be exempt from disclosure under the Freedom of Information Act (§ 2.2-3700 et seq.), and (iii) not be released in whole or in part by any person to any person except as provided in this chapter. Notwithstanding the provisions of this section, VRS may release to necessary parties such information, documents, and reports for purposes of administering appeals under this chapter.
+		</section>
+		<section prefix="B">Notwithstanding subsection A, the Department of State Police and the Department of Accounts shall, upon request, share with the Virginia Retirement System and the Department of Human Resource Management any information, evidence, documents, and reports of investigation related to existing and past claims for benefits provided under this Chapter. Such information, evidence, documents, and reports of investigation shall be exempt from disclosure under the Virginia Freedom of Information Act (§ 2.2-3700 et seq.).
+		</section>
+	</text>
+	<history>2010, c. 568; 2017, c. 439.</history>
+</law>

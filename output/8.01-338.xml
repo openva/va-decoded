@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="11" level="2">Juries</unit>
+		<unit label="article" identifier="2" level="3">Jurors</unit>
+	</structure>
+	<section_number>8.01-338</section_number>
+	<catch_line>Who disqualified</catch_line>
+	<text>
+		The following persons shall be disqualified from serving as jurors:
+		<section prefix="1">Persons adjudicated incapacitated;
+		</section>
+		<section prefix="2">Persons convicted of treason or a felony; or
+		</section>
+		<section prefix="3">Any other person under a disability as defined in § 8.01-2 and not included in subdivisions 1 or 2 above.
+		</section>
+	</text>
+	<history>Code 1950, § 8-208.3; 1973, c. 439; 1977, c. 617; 1997, c. 801.</history>
+</law>

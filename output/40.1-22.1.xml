@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3" level="2">Protection of Employees</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>40.1-22.1</section_number>
+	<catch_line>Governor authorized to enter certain agreements</catch_line>
+	<text>
+		The Governor of Virginia is hereby authorized to enter into:
+		<section prefix="1">Such agreements with the United States Occupational Safety and Health Administration as are necessary to provide training for the employees of the Virginia Department of Labor and Industry and other appropriate agencies of the Commonwealth to assist in the enforcement of Public Law 91-596.
+		</section>
+		<section prefix="2">Reciprocal agreements with the appropriate authorities of any state within the United States and of the District of Columbia, with respect to the collection of claims for wages and other demands upon claims filed with the Department of Labor and Industry.
+		</section>
+	</text>
+	<history>1976, c. 607; 1997, c. 282.</history>
+</law>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="III" level="2">Local Taxes</unit>
+		<unit label="chapter" identifier="32" level="3">Real Property Tax</unit>
+		<unit label="article" identifier="9" level="4">Levy</unit>
+	</structure>
+	<section_number>58.1-3321</section_number>
+	<catch_line>Effect on rate when assessment results in tax increase; public hearings; referendum</catch_line>
+	<text>
+		<section prefix="A">When any annual assessment, biennial assessment, or general reassessment of real property by a county, city, or town would result in an increase of one percent or more in the total real property tax levied, such county, city, or town shall reduce its rate of levy for the forthcoming tax year so as to cause such rate of levy to produce no more than 101 percent of the previous year's real property tax levies, unless subsection B is complied with, which rate shall be determined by multiplying the previous year's total real property tax levies by 101 percent and dividing the product by the forthcoming tax year's total real property assessed value. An additional assessment or reassessment due to the construction of new or other improvements, including those improvements and changes set forth in § 58.1-3285, to the property shall not be an annual assessment or general reassessment within the meaning of this section, nor shall the assessed value of such improvements be included in calculating the new tax levy for purposes of this section. Special levies shall not be included in any calculations provided for under this section.
+		</section>
+		<section prefix="B">The governing body of a county, city, or town may, after conducting a public hearing, which shall not be held at the same time as the annual budget hearing, increase the rate above the reduced rate required in subsection A if any such increase is deemed to be necessary by such governing body.
+		</section>
+		<section prefix="C">Notice of any public hearing held pursuant to this section shall be given at least seven days before the date of such hearing by the publication of a notice in (i) at least one newspaper of general circulation in such county or city and (ii) a prominent public location at which notices are regularly posted in the building where the governing body of the county, city, or town regularly conducts its business. Additionally, in a county, city, or town that conducts its reassessment more than once every four years, the notice for any public hearing held pursuant to this section shall be published on a different day and in a different notice from any notice published for the annual budget hearing. Any such notice shall be at least the size of one-eighth page of a standard size or a tabloid size newspaper, and the headline in the advertisement shall be in a type no smaller than 18-point. The notice described in clause (i) shall not be placed in that portion, if any, of the newspaper reserved for legal notices and classified advertisements. The notice described in clauses (i) and (ii) shall be in the following form and contain the following information, in addition to such other information as the local governing body may elect to include:
+			NOTICE OF PROPOSED REAL PROPERTY TAX INCREASE
+			The (name of the county, city or town) proposes to increase property tax levies.
+			<section prefix="1">Assessment Increase: Total assessed value of real property, excluding additional assessments due to new construction or improvements to property, exceeds last year's total assessed value of real property by ____ percent.
+			</section>
+			<section prefix="2">Lowered Rate Necessary to Offset Increased Assessment: The tax rate which would levy the same amount of real estate tax as last year, when multiplied by the new total assessed value of real estate with the exclusions mentioned above, would be $ ___ per $100 of assessed value. This rate will be known as the "lowered tax rate."
+			</section>
+			<section prefix="3">Effective Rate Increase: The (name of the county, city or town) proposes to adopt a tax rate of $ ___ per $100 of assessed value. The difference between the lowered tax rate and the proposed rate would be $ ___ per $100, or ___ percent. This difference will be known as the "effective tax rate increase."
+				Individual property taxes may, however, increase at a percentage greater than or less than the above percentage.
+			</section>
+			<section prefix="4">Proposed Total Budget Increase: Based on the proposed real property tax rate and changes in other revenues, the total budget of (name of the county, city or town) will exceed last year's by ___ percent.
+				A public hearing on the increase will be held on (date and time) at (meeting place).
+			</section>
+		</section>
+		<section prefix="D">All hearings shall be open to the public. The governing body shall permit persons desiring to be heard an opportunity to present oral testimony within such reasonable time limits as shall be determined by the governing body.
+		</section>
+		<section prefix="E">The provisions of this section shall not be applicable to the assessment of public service corporation property by the State Corporation Commission.
+		</section>
+		<section prefix="F">Notwithstanding other provisions of general or special law, the tax rate for taxes due on or before June 30 of each year may be fixed on or before May 15 of that tax year.
+		</section>
+	</text>
+	<history>Code 1950, § 58-785.1; 1975, c. 622; 1979, c. 473; 1980, c. 396; 1981, c. 212; 1984, c. 675; 1990, c. 579; 2007, c. 948; 2009, cc. 30, 511; 2016, cc. 657, 663; 2022, c. 29; 2023, cc. 506, 507; 2024, cc. 225, 242.</history>
+</law>

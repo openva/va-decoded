@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="1" level="3">Default and Enforcement of Security Interest</unit>
+	</structure>
+	<section_number>8.9A-623</section_number>
+	<catch_line>Right to redeem collateral</catch_line>
+	<text>
+		<section prefix="a">Persons that may redeem. A debtor, any secondary obligor, or any other secured party or lienholder may redeem collateral.
+		</section>
+		<section prefix="b">Requirements for redemption. To redeem collateral, a person shall tender:
+			<section prefix="1">fulfillment of all obligations secured by the collateral; and
+			</section>
+			<section prefix="2">the reasonable expenses and attorney's fees described in § 8.9A-615 (a) (1).
+			</section>
+		</section>
+		<section prefix="c">When redemption may occur. A redemption may occur at any time before a secured party:
+			<section prefix="1">has collected collateral under § 8.9A-607;
+			</section>
+			<section prefix="2">has disposed of collateral or entered into a contract for its disposition under § 8.9A-610; or
+			</section>
+			<section prefix="3">has accepted collateral in full or partial satisfaction of the obligation it secures under § 8.9A-622.
+			</section>
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-506; 2000, c. 1007.</history>
+</law>

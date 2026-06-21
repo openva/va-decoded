@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Shareholders</unit>
+	</structure>
+	<section_number>13.1-662</section_number>
+	<catch_line>Voting entitlement of shares</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsections B, C, D, and E or unless the articles of incorporation provide otherwise, each outstanding share, regardless of class or series, is entitled to one vote on each matter voted on at a shareholders' meeting. Only shares are entitled to vote.
+		</section>
+		<section prefix="B">Unless the articles of incorporation provide otherwise, in the election of directors each outstanding share, regardless of class or series, is entitled to one vote for as many persons as there are directors to be elected at that time and for whose election the shareholder has a right to vote.
+		</section>
+		<section prefix="C">Redeemable shares are not entitled to vote after delivery of written notice of redemption is effective and a sum sufficient to redeem the shares has been deposited with a bank, trust company, or other financial institution under an irrevocable obligation to pay the holders the redemption price on surrender of the shares.
+		</section>
+		<section prefix="D">Shares of a corporation are not entitled to vote if they are owned directly or indirectly through an entity of which a majority of the voting power is held directly or indirectly by the corporation or that is otherwise controlled by the corporation.
+		</section>
+		<section prefix="E">If a corporation holds in a fiduciary capacity its own shares directly, or indirectly through an entity of which a majority of the voting power is held directly or indirectly by the corporation or that is otherwise controlled by the corporation, such shares shall not be deemed to be outstanding and entitled to vote unless:
+			<section prefix="1">The corporation has authority to vote the shares only in accordance with directions of the principal or beneficiary; or
+			</section>
+			<section prefix="2">A co-fiduciary exists, pursuant to § 6.2-1011 or otherwise, in which event the co-fiduciary may vote the shares.
+			</section>
+		</section>
+		<section prefix="F">Shares standing in the name of another corporation, domestic or foreign, may be voted by such officers, agent, or proxy as the bylaws of such corporation may prescribe, or, in the absence of such provision, as the board of directors of such corporation may determine.
+		</section>
+		<section prefix="G">Shares standing in the name of a partnership may be voted by any partner. Shares standing in the name of a limited liability company may be voted as the articles of organization or an operating agreement may prescribe, or in the absence of any such provision as the managers, or if there are no managers, the members of the limited liability company may determine.
+		</section>
+		<section prefix="H">Shares held by three or fewer persons as joint tenants or tenants in common or tenants by the entirety may be voted by any of such persons. If more than one of such tenants votes such shares, the vote shall be divided among them in proportion to the number of such tenants voting.
+		</section>
+		<section prefix="I">Shares held by an administrator, executor, guardian, conservator, committee, or curator representing the shareholder may be voted by such person without a transfer of such shares into such person's name. Shares standing in the name of a trustee may be voted by the trustee, but no trustee is entitled to vote shares held by the trustee without a transfer of such shares into the trustee's name.
+		</section>
+		<section prefix="J">Shares standing in the name of a receiver or a trustee in proceedings under the federal Bankruptcy Reform Act of 1978 may be voted by such person. Shares held by or under the control of a receiver or a trustee in proceedings under the federal Bankruptcy Reform Act of 1978 may be voted by such person without the transfer thereof into such person's name if authority to do so is contained in an order of the court by which such person was appointed.
+		</section>
+		<section prefix="K">Nothing herein contained shall prevent trustees or other fiduciaries holding shares registered in the name of a nominee pursuant to § 6.2-1010 from causing such shares to be voted by such nominee as the trustee or other fiduciary may direct. Such nominee may vote shares as directed by a trustee or other fiduciary without the necessity of transferring the shares to the name of the trustee or other fiduciary.
+		</section>
+		<section prefix="L">A shareholder whose shares are pledged is entitled to vote such shares until the shares have been transferred into the name of the pledgee, and thereafter the pledgee is entitled to vote the shares so transferred.
+		</section>
+		<section prefix="M">The articles of incorporation may provide that the holders of bonds or debentures shall be entitled to vote on specified matters and such right shall not be terminated except upon consent of the holders of two-thirds in aggregate principal amount.
+		</section>
+		<section prefix="N">Subject to the provisions of § 13.1-665, when shares are held by more than one of the fiduciaries referred to in this section, the shares shall be voted as determined by a majority of such fiduciaries, except that (i) if they are equally divided as to a vote, the vote of the shares is divided equally and (ii) if only one of such fiduciaries is present in person or by proxy at a meeting, the fiduciary shall be entitled to vote all the shares. A proxy apparently executed by one of several of such fiduciaries shall be presumed to be valid until challenged and the burden of proving invalidity shall rest on the challenger.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-192 to 13-198, 13-203, 13.1-32; 1956, c. 428; 1958, c. 564; 1975, c. 500; 1984, c. 366; 1985, c. 522; 1990, c. 267; 1997, c. 801; 2005, c. 765; 2019, c. 734.</history>
+</law>

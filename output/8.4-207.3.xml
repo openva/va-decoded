@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="2" level="2">Collection of Items: Depositary and Collecting Banks</unit>
+	</structure>
+	<section_number>8.4-207.3</section_number>
+	<catch_line>Encoding and retention warranties</catch_line>
+	<text>
+		<section prefix="a">A person who encodes information on or with respect to an item after issue warrants to any subsequent collecting bank and to the payor bank or other payor that the information is correctly encoded. If the customer of a depositary bank encodes, that bank also makes the warranty.
+		</section>
+		<section prefix="b">A person who undertakes to retain an item pursuant to an agreement for electric presentment warrants to any subsequent collecting bank and to the payor bank or other payor that retention and presentment of the item comply with the agreement. If a customer of a depositary bank undertakes to retain an item, that bank also makes this warranty.
+		</section>
+		<section prefix="c">A person to whom warranties are made under this section and who took the item in good faith may recover from the warrantor as damages for breach of warranty an amount equal to the loss suffered as a result of the breach, plus expenses and loss of interest incurred as a result of the breach.
+		</section>
+	</text>
+	<history>1992, c. 693.</history>
+</law>

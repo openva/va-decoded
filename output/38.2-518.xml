@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="5" level="2">Unfair Trade Practices</unit>
+	</structure>
+	<section_number>38.2-518</section_number>
+	<catch_line>Certificates of insurance</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "certificate of insurance" means a document, regardless of how titled or described, that is provided to a third party and is prepared or issued by an insurer or insurance producer as a statement or summary of an insured's property or casualty insurance coverage. The term does not include any (i) policy of insurance, (ii) insurance binder, (iii) policy endorsement, (iv) automobile identification card, (v) certificate issued under a group or master policy, or (vi) evidence of coverage provided to a lender in a lending transaction involving a mortgage, lien, deed of trust, or other security interest in or on any real or personal property.
+		</section>
+		<section prefix="B">No person shall issue or deliver any certificate of insurance that attempts to confer any rights upon a third party beyond what the referenced policy of insurance expressly provides.
+		</section>
+		<section prefix="C">No certificate of insurance may represent an insurer's obligation to give notice of cancellation or nonrenewal to a third party unless the giving of such notice is required by the policy.
+		</section>
+		<section prefix="D">No person shall issue or deliver a certificate of insurance unless it contains a substantially similar statement to the following: "This certificate of insurance is issued as a matter of information only. It confers no rights upon the third party requesting the certificate beyond what the referenced policy of insurance expressly provides. This certificate of insurance does not extend, amend, or alter the coverage, terms, exclusions, or conditions afforded by the policy referenced in this certificate of insurance." If a certificate of insurance is required by a state or federal agency and accurately reflects the coverage provided by the underlying policies, no such statement is required.
+		</section>
+		<section prefix="E">No person shall knowingly demand or require the issuance of a certificate of insurance from an insurer, insurance producer, or policyholder that contains any false or misleading information concerning the policy of insurance to which the certificate makes reference.
+		</section>
+		<section prefix="F">No person shall knowingly prepare or issue a certificate of insurance that contains any false or misleading information or that purports to affirmatively or negatively alter, amend, or extend the coverage provided by the policy of insurance to which the certificate makes reference.
+		</section>
+		<section prefix="G">The provisions of this section shall apply to all certificate holders, policyholders, insurers, insurance producers, and certificate of insurance forms issued as a statement or summary of insurance coverages on property, operations, or risks located in the Commonwealth.
+		</section>
+	</text>
+	<history>2012, cc. 273, 277.</history>
+</law>

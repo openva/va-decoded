@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="15" level="2">Telegraph and Telephone Companies</unit>
+		<unit label="article" identifier="7" level="3">Enhanced Public Safety Telephone Services Act</unit>
+	</structure>
+	<section_number>56-484.13</section_number>
+	<catch_line>9-1-1 Services Board; membership; terms; compensation</catch_line>
+	<text>
+		<section prefix="A">The E-911 Services Board, formerly the Wireless E-911 Services Board, is hereby continued as the 9-1-1 Services Board. The Board shall exercise the powers and duties conferred in this article.
+		</section>
+		<section prefix="B">The 9-1-1 Services Board shall:
+			<section prefix="1">Support and assist PSAPs in the provision of 9-1-1 operations and services, including through provision of funding and development of best practices;
+			</section>
+			<section prefix="2">Plan, promote, and assist in the statewide development, deployment, and maintenance of an emergency services IP network that will support future 9-1-1 and other public safety applications and technologies; and
+			</section>
+			<section prefix="3">Consult and coordinate with PSAPs, state and local public bodies in the Commonwealth, public bodies in other states, CMRS providers, VoIP service providers affiliated with cable companies, and other entities as needed in the exercise of the Board's powers and duties.
+			</section>
+		</section>
+		<section prefix="C">The Board shall consist of 16 members as follows: the Director of the Virginia Department of Emergency Management, who shall serve as chairman of the Board; the Comptroller, who shall serve as the treasurer of the Board; the Chief Information Officer; and the following 13 members to be appointed by the Governor: one member representing the Virginia State Police; one member representing a local exchange carrier providing E-911 service in Virginia; one member representing VoIP service providers affiliated with cable companies and authorized to transact business in Virginia; two members representing wireless service providers authorized to do business in Virginia; three county, city, or town PSAP directors or managers representing diverse regions of Virginia; one Virginia sheriff; one chief of police; one fire chief; one emergency medical services manager; and one finance officer of a county, city, or town.
+		</section>
+		<section prefix="D">The Commonwealth Interoperability Coordinator shall serve as an advisor to the Board in the exercise of the powers and duties conferred in this article so as to ensure, among other matters, that enhanced wireless emergency telecommunications services and technologies are compliant with the statewide interoperability strategic plan.
+		</section>
+		<section prefix="E">All members appointed by the Governor shall serve five-year terms. The CIO and the Comptroller shall serve terms coincident with their terms of office. No gubernatorial appointee shall serve more than two consecutive terms.
+		</section>
+		<section prefix="F">A majority of the Board shall constitute a quorum. The Board shall meet at least quarterly or at the call of its chairman.
+		</section>
+		<section prefix="G">Members of the Board shall serve without compensation; however, members of the Board shall be reimbursed for expenses as provided in §§ 2.2-2813 through 2.2-2826.
+		</section>
+		<section prefix="H">The Division shall provide staff support to the Board. The Division of Public Safety Communications created in § 44-146.18:5 and the Virginia Department of Transportation shall provide such technical advice as the Board requires.
+		</section>
+	</text>
+	<history>2000, c. 1064; 2003, cc. 981, 1021; 2006, c. 739; 2009, c. 613; 2011, c. 138; 2012, c. 36; 2016, c. 361; 2020, c. 423.</history>
+</law>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="1" level="2">General Provisions</unit>
+		<unit label="subpart" identifier="1" level="3">Short Title, Definitions and General Concepts</unit>
+	</structure>
+	<section_number>8.9A-104</section_number>
+	<catch_line>Control of deposit account</catch_line>
+	<text>
+		<section prefix="a">Requirements for control. A secured party has control of a deposit account if:
+			<section prefix="1">the secured party is the bank with which the deposit account is maintained;
+			</section>
+			<section prefix="2">the debtor, secured party, and bank have agreed in a signed record that the bank will comply with instructions originated by the secured party directing disposition of the funds in the deposit account without further consent by the debtor;
+			</section>
+			<section prefix="3">the secured party becomes the bank's customer with respect to the deposit account; or
+			</section>
+			<section prefix="4">another person, other than the debtor:
+			</section>
+		</section>
+		<section prefix="A">has control of the deposit account and acknowledges that it has control on behalf of the secured party; or
+		</section>
+		<section prefix="B">obtains control of the deposit account after having acknowledged that it will obtain control of the deposit account on behalf of the secured party.
+		</section>
+		<section prefix="b">Debtor's right to direct disposition. A secured party that has satisfied subsection (a) has control, even if the debtor retains the right to direct the disposition of funds from the deposit account.
+		</section>
+	</text>
+	<history>2000, c. 1007; 2024, c. 652.</history>
+</law>

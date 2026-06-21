@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8.1" level="3">Derivative Proceedings and Other Shareholder Actions</unit>
+	</structure>
+	<section_number>13.1-672.6</section_number>
+	<catch_line>Shareholder action to appoint a custodian or receiver for a public corporation</catch_line>
+	<text>
+		<section prefix="A">The circuit court in any city or county where a public corporation's principal office is or was last located, or, if none in the Commonwealth, where its registered office is or was last located may appoint one or more persons to be custodians, or, if the corporation is insolvent, to be receivers, of and for a public corporation in a proceeding by a shareholder where it is established that:
+			<section prefix="1">The directors are deadlocked in the management of the corporate affairs, the shareholders are unable to break the deadlock, and irreparable injury to the corporation is threatened or being suffered; or
+			</section>
+			<section prefix="2">The directors or those in control of the corporation are acting fraudulently and irreparable injury to the corporation is threatened or being suffered.
+			</section>
+		</section>
+		<section prefix="B">The court:
+			<section prefix="1">May issue injunctions, appoint a temporary custodian or temporary receiver with all the powers and duties the court directs, take other action to preserve the corporate assets wherever located, and carry on the business of the corporation until a full hearing is held;
+			</section>
+			<section prefix="2">Shall hold a hearing, after notifying all parties to the proceeding and any interested persons designated by the court, before appointing a custodian or receiver; and
+			</section>
+			<section prefix="3">Has jurisdiction over the corporation and all of its property, wherever located.
+			</section>
+		</section>
+		<section prefix="C">The court may appoint an individual or domestic or foreign corporation, authorized to transact business in the Commonwealth, as a custodian or receiver and may require the custodian or receiver to post bond, with or without sureties, in an amount the court directs.
+		</section>
+		<section prefix="D">The court shall describe the powers and duties of the custodian or receiver in its appointing order, which may be amended from time to time. Among other powers:
+			<section prefix="1">A custodian may exercise all of the powers of the corporation, through or in place of its board of directors, to the extent necessary to manage the business and affairs of the corporation; and
+			</section>
+			<section prefix="2">A receiver (i) may dispose of all or any part of the assets of the corporation wherever located, at a public or private sale, if authorized by the court, and (ii) may sue and defend in the receiver's own name as receiver in all courts of the Commonwealth.
+			</section>
+		</section>
+		<section prefix="E">The court during a custodianship may redesignate the custodian a receiver, and during a receivership may redesignate the receiver a custodian, if doing so is in the best interests of the corporation.
+		</section>
+		<section prefix="F">The court from time to time during the custodianship or receivership may order compensation paid and expense disbursements or reimbursements made to the custodian or receiver from the assets of the corporation or proceeds from the sale of its assets.
+		</section>
+	</text>
+	<history>2007, c. 165; 2019, c. 734.</history>
+</law>

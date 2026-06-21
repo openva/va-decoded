@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="6" level="3">Office and Agent</unit>
+	</structure>
+	<section_number>13.1-836</section_number>
+	<catch_line>Service on corporation</catch_line>
+	<text>
+		<section prefix="A">A corporation's registered agent is the corporation's agent for service of process, notice, or demand required or permitted by law to be served on the corporation. The registered agent may by instrument in writing, acknowledged before a notary public, designate a natural person or persons in the office of the registered agent upon whom any such process, notice or demand may be served and may, by instrument in writing, authorize service of process by facsimile by the sheriff, provided acknowledgement of receipt of service is returned by facsimile to the sheriff. Whenever any person so designated by the registered agent accepts service of process or whenever service is by facsimile, a photographic copy of the instruments designating the person or authorizing the method of service and receipt shall be attached to the return.
+		</section>
+		<section prefix="B">Whenever a corporation fails to appoint or maintain a registered agent in the Commonwealth, or whenever its registered agent cannot with reasonable diligence be found at the registered office, then the clerk of the Commission shall be an agent of the corporation upon whom service may be made in accordance with § 12.1-19.1.
+		</section>
+		<section prefix="C">This section does not prescribe the only means, or necessarily the required means, of serving a corporation.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-12, 13-14, 13.1-210; 1956, c. 428; 1975, c. 500; 1985, c. 522; 1986, c. 622; 1991, c. 672; 2001, cc. 517, 541; 2007, c. 925.</history>
+</law>

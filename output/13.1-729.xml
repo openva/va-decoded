@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="15" level="3">Appraisal Rights and Other Remedies</unit>
+	</structure>
+	<section_number>13.1-729</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article:
+		"Affiliate" means a person who directly or indirectly through one or more intermediaries controls, is controlled by, or is under common control with another person or is a senior executive officer of such person. For purposes of subdivision B 4 of § 13.1-730, a person is deemed to be an affiliate of its senior executives.
+		"Beneficial shareholder" means a person who is the beneficial owner of shares held in a voting trust or by a nominee on the beneficial owner's behalf.
+		"Corporation" means the domestic corporation that is the issuer of the shares held by a shareholder demanding appraisal and, for matters covered by §§ 13.1-734 through 13.1-740, includes the survivor in a merger.
+		"Fair value" means the value of the corporation's shares determined:
+		<section prefix="1">Immediately before the effectiveness of the corporate action to which the shareholder objects;
+		</section>
+		<section prefix="2">Using customary and current valuation concepts and techniques generally employed for similar businesses in the context of the transaction requiring appraisal; and
+		</section>
+		<section prefix="3">Without discounting for lack of marketability or minority status except, if appropriate, for amendments to the articles of incorporation pursuant to subdivision A 5 of § 13.1-730.
+			"Interest" means interest from the date the corporate action becomes effective until the date of payment, at the average rate currently paid by the corporation on its principal bank loans or, if none, at a rate that is fair and equitable under all the circumstances.
+			"Interested transaction" means a corporate action described in subsection A of § 13.1-730, other than a merger pursuant to § 13.1-719 or 13.1-719.1, involving an interested person in which any of the shares or assets of the corporation are being acquired or converted. As used in this definition:
+		</section>
+		<section prefix="1">"Beneficial owner" means any person who, directly or indirectly, through any contract, arrangement, or understanding, other than a revocable proxy, has or shares the power to vote, or to direct the voting of, shares; except that a member of a national securities exchange is not deemed to be a beneficial owner of securities held directly or indirectly by it on behalf of another person solely because the member is the record holder of the securities if the member is precluded by the rules of the exchange from voting without instruction on contested matters or matters that may affect substantially the rights or privileges of the holders of the securities to be voted. When two or more persons agree to act together for the purpose of voting their shares of the corporation, each member of the group formed thereby is deemed to have acquired beneficial ownership, as of the date of the agreement, of all voting shares of the corporation beneficially owned by any member of the group.
+		</section>
+		<section prefix="2">"Interested person" means a person, or an affiliate of a person, who at any time during the one-year period immediately preceding approval by the board of directors of the corporate action:
+			a. Was the beneficial owner of 20 percent or more of the voting power of the corporation, excluding any shares acquired pursuant to an offer for all shares of the corporation having voting power if the offer was made within one year prior to the corporate action for consideration of the same kind and of a value equal to or less than that paid in connection with the corporate action;
+			b. Excluding the voting power of any shares of the corporation acquired pursuant to an offer for all shares having voting power if the offer was made within the previous one year for consideration of the same kind and of a value equal to or less than that paid in connection with the corporate action, had the power, contractually or otherwise, to cause the appointment or election of 25 percent or more of the directors to the board of directors of the corporation; or
+			c. Was a senior executive officer or director of the corporation or a senior executive officer of any affiliate of the corporation, and that senior executive officer or director will receive, as a result of the corporate action, a financial benefit not generally available to other shareholders as such, other than:
+			<section prefix="1">Employment, consulting, retirement, or similar benefits established separately and not as part of or in contemplation of the corporate action;
+			</section>
+			<section prefix="2">Employment, consulting, retirement, or similar benefits established in contemplation of, or as part of, the corporate action that are not more favorable than those existing before the corporate action or, if more favorable, that have been approved on behalf of the corporation in the same manner as is provided in § 13.1-691; or
+			</section>
+			<section prefix="3">In the case of a director of the corporation who will, in the corporate action, become a director of the acquiring entity in the corporate action or one of its affiliates, rights and benefits as a director that are provided on the same basis as those afforded by the acquiring entity generally to other directors of such entity or such affiliate.
+				"Preferred shares" means a class or series of shares whose holders have preference over any other class or series of shares with respect to distributions.
+				"Senior executive" means the chief executive officer, chief operating officer, chief financial officer and anyone in charge of a principal business unit or function.
+				"Shareholder" means a record shareholder, a beneficial shareholder, and a voting trust beneficial owner.
+			</section>
+		</section>
+	</text>
+	<history>1985, c. 522; 1992, c. 575; 2005, c. 765; 2007, c. 165; 2019, c. 734.</history>
+</law>

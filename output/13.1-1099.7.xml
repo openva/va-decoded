@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.7</section_number>
+	<catch_line>Limitations on liability</catch_line>
+	<text>
+		<section prefix="A">A person is not liable, directly or indirectly, by way of contribution or otherwise, for a debt, obligation, or other liability of:
+			<section prefix="1">A protected series of a series limited liability company solely by reason of being or acting as:
+				a. An associated member, protected series manager, or protected series assignee of the protected series; or
+				b. A member, manager, or an assignee of the series limited liability company; or
+			</section>
+			<section prefix="2">A series limited liability company solely by reason of being or acting as an associated member, protected series manager, or protected series assignee of a protected series of the series limited liability company.
+			</section>
+		</section>
+		<section prefix="B">Subject to § 13.1-1099.10, the following rules apply:
+			<section prefix="1">A debt, obligation, or other liability of a series limited liability company is solely the debt, obligation, or liability of the series limited liability company.
+			</section>
+			<section prefix="2">A debt, obligation, or other liability of a protected series is solely the debt, obligation, or liability of the protected series.
+			</section>
+			<section prefix="3">A series limited liability company is not liable, directly or indirectly, by way of contribution or otherwise, for a debt, obligation, or other liability of a protected series of the series limited liability company solely by reason of the protected series being a protected series of the series limited liability company or the series limited liability company:
+				a. Being or acting as a protected series manager of the protected series;
+				b. Having the protected series manage the series limited liability company; or
+				c. Owning a protected series membership interest of the protected series.
+			</section>
+			<section prefix="4">A protected series of a series limited liability company is not liable, directly or indirectly, by way of contribution or otherwise, for a debt, obligation, or other liability of the series limited liability company or another protected series of the series limited liability company solely by reason of:
+				a. Being a protected series of the series limited liability company;
+				b. Being or acting as a manager of the series limited liability company or a protected series manager of another protected series of the series limited liability company; or
+				c. Having the series limited liability company or another protected series of the series limited liability company be or act as a protected series manager of the protected series.
+			</section>
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions; Department of Motor Vehicles</unit>
+		<unit label="chapter" identifier="2" level="3">Department of Motor Vehicles</unit>
+		<unit label="article" identifier="3" level="4">Electronic Credentials Act</unit>
+	</structure>
+	<section_number>46.2-226</section_number>
+	<catch_line>Electronic credentials</catch_line>
+	<text>
+		<section prefix="A">The Department may issue electronic credentials to persons who hold a valid physical credential that the Department is authorized to issue.
+		</section>
+		<section prefix="B">If the Department issues electronic credentials, the credentials shall be issued in addition to, and not instead of, the underlying physical credentials for which a person is eligible. No electronic credential shall be issued unless the applicant holds the corresponding physical credential. Such electronic credentials shall be issued to an electronic credential system.
+		</section>
+		<section prefix="C">The Department may issue electronic credentials to third-party electronic credential systems if the Department first enters into an agreement with the owner of the third-party electronic credential system that sets forth the terms on which the electronic credentials may be displayed.
+		</section>
+		<section prefix="D">The Department may enter into agreements with an agency of the Commonwealth, another state of the United States, or the United States to grant access to the use of electronic credentials issued by such agency. The provisions of subsection B shall apply to credentials to which the Department grants such access unless, as part of the agreement permitting the Department to grant access, the other agency agrees that the Department may grant access to electronic credentials to persons not holding a corresponding physical credential.
+		</section>
+	</text>
+	<history>2017, c. 697.</history>
+</law>

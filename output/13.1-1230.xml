@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="5" level="3">Trustees</unit>
+	</structure>
+	<section_number>13.1-1230</section_number>
+	<catch_line>Indemnification</catch_line>
+	<text>
+		<section prefix="A">A business trust shall have the power to indemnify and hold harmless any trustee, officer, employee or agent from and against any and all claims and demands to the same extent as a director, officer, employee or agent of a Virginia corporation under Chapter 9 (§ 13.1-601 et seq.) of this title.
+		</section>
+		<section prefix="B">A trustee or officer of a business trust shall be entitled to mandatory indemnification to the same extent as a director or officer of a Virginia corporation under Chapter 9 (§ 13.1-601 et seq.) of this title.
+		</section>
+		<section prefix="C">A trustee or officer may apply for court-ordered indemnification in the same manner as a director or officer of a Virginia corporation pursuant to § 13.1-700.1.
+		</section>
+		<section prefix="D">A business trust may purchase and maintain insurance on behalf of an individual who is or was a trustee, officer, employee, or agent of the business trust, or who, while a trustee, officer, employee, or agent of the business trust, is or was serving at the request of the business trust as a director, officer, partner, trustee, employee, or agent of a foreign or domestic corporation, partnership, joint venture, trust, employee benefit plan, or other enterprise, against liability asserted against or incurred by him in that capacity or arising from his status as a director, officer, employee, or agent, whether or not the business trust would have power to indemnify him against the same liability under this section.
+		</section>
+	</text>
+	<history>2002, c. 621.</history>
+</law>

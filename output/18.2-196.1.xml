@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="6" level="2">Crimes Involving Fraud</unit>
+		<unit label="article" identifier="6" level="3">Offenses Relating to Credit Cards</unit>
+	</structure>
+	<section_number>18.2-196.1</section_number>
+	<catch_line>Unlawful use of payment card scanning devices and re-encoders; penalty</catch_line>
+	<text>
+		<section prefix="A">Any person who with malicious intent uses a scanning device or a re-encoder on the payment card of another without the permission of the authorized payment card user is guilty of a Class 1 misdemeanor.
+		</section>
+		<section prefix="B">Any person who violates this section and sells or distributes such information to another is guilty of a Class 6 felony.
+		</section>
+		<section prefix="C">Any person who violates this section and uses such information in the commission of another crime is guilty of a Class 6 felony.
+		</section>
+		<section prefix="D">For the purposes of this section:
+			<section prefix="1">"Authorized payment card user" means any person with the authorization or permission to use any payment card to obtain, purchase, or receive goods, services, money, or anything else of value from a merchant.
+			</section>
+			<section prefix="2">"Merchant" means an owner or operator of any mercantile establishment or any agent, employee, lessee, consignee, officer, director, franchisee, or independent contractor of such owner or operator who receives from an authorized payment card user or someone he believes to be an authorized payment card user, a payment card or information from a payment card, or what he believes to be a payment card or information from a payment card, as the instrument for obtaining, purchasing or receiving goods, services, money, or anything else of value from him.
+			</section>
+			<section prefix="3">"Payment card" means a credit card, charge card, debit card, hotel key card, stored-value card, white plastic, or any other card containing encoded information that allows an authorized payment card user to obtain, purchase, or receive goods, services, money, or anything else of value from a merchant.
+			</section>
+			<section prefix="4">"Re-encoder" means an electronic device that transfers encoded information from the magnetic strip or stripe of a payment card onto the magnetic strip or stripe of a different payment card.
+			</section>
+			<section prefix="5">"Scanning device" means a scanner, reader, or any other electronic device that is used to access, read, scan, obtain, memorize, temporarily store, or permanently store encoded information on the magnetic strip or stripe of a payment card.
+			</section>
+		</section>
+	</text>
+	<history>2005, c. 166.</history>
+</law>

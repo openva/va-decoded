@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3" level="4">Litter Control and Recycling</unit>
+	</structure>
+	<section_number>10.1-1416</section_number>
+	<catch_line>Collection and survey of litter</catch_line>
+	<text>
+		Collections and surveys of the kinds of litter that are discarded in violation of the laws of the Commonwealth shall be conducted as the need is determined by the Department, after receipt of the recommendations of the Advisory Board, or as directed by the General Assembly. The survey shall include litter found throughout the Commonwealth, including standard metropolitan statistical areas and rural and recreational areas. To the fullest extent possible, in standard metropolitan statistical areas the Department of Transportation shall make use of local litter and trash collection services through arrangements with local governing bodies and appropriate agencies, in the discharge of the duties imposed by this section. The Department of Transportation shall report to the Governor, the General Assembly and the Department as to the amount of litter collected pursuant to this section and shall include in its report an analysis of litter types, their weights and volumes, and, where practicable, the recyclability of the types of products, packages, wrappings and containers which compose the principal amounts of the litter collected. The products whose packages, wrappings and containers constitute the litter shall include, but not be limited to the following categories:
+		<section prefix="1">Food for human or pet consumption;
+		</section>
+		<section prefix="2">Groceries;
+		</section>
+		<section prefix="3">Cigarettes and tobacco products;
+		</section>
+		<section prefix="4">Soft drinks and carbonated waters;
+		</section>
+		<section prefix="5">Beer and other malt beverages;
+		</section>
+		<section prefix="6">Wine;
+		</section>
+		<section prefix="7">Newspapers and magazines;
+		</section>
+		<section prefix="8">Paper products and household paper;
+		</section>
+		<section prefix="9">Glass containers;
+		</section>
+		<section prefix="10">Metal containers;
+		</section>
+		<section prefix="11">Plastic or fiber containers made of synthetic material;
+		</section>
+		<section prefix="12">Cleaning agents and toiletries;
+		</section>
+		<section prefix="13">Nondrug drugstore sundry products;
+		</section>
+		<section prefix="14">Distilled spirits; and
+		</section>
+		<section prefix="15">Motor vehicle parts.
+		</section>
+	</text>
+	<history>1987, c. 234, § 10-277.3; 1988, c. 891; 1995, c. 417.</history>
+</law>

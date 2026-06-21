@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="1" level="5">Mechanical Equipment</unit>
+	</structure>
+	<section_number>45.2-802</section_number>
+	<catch_line> Hydraulic hoses</catch_line>
+	<text>
+		Every hydraulic hose used on equipment purchased after January 1, 1986, shall be clearly stamped or labeled by the hydraulic hose manufacturer to indicate the manufacturer's rated pressure in pounds per square inch (psi) Every hose purchased after January 1, 1989, shall have the rated pressure permanently affixed on the outer surface of the hose and repeated at least every two feet. Every hose purchased and installed on an automatic displacement hydraulic system shall either (i) have a four-to-one safety factor based on the ratio between minimum burst pressure and the setting of the hydraulic unloading system, such as a relief valve, or (ii) meet the minimum hose pressure requirements set by the hydraulic equipment manufacturer per the applicable hose standards for each type of equipment. No hydraulic hose shall be used in an application where the hydraulic unloading system is set higher than the hose's rated pressure.
+	</text>
+	<history>1985, c. 612, § 45.1-88.1; 1988, c. 301; 1994, c. 28, § 45.1-161.125; 2021, Sp. Sess. I, c. 387.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="5" level="3">Relationship of Members to Each Other</unit>
+	</structure>
+	<section_number>13.1-1025</section_number>
+	<catch_line>Limitation of liability of members and managers; exception</catch_line>
+	<text>
+		<section prefix="A">In any proceeding brought by or in the right of a limited liability company or brought by or on behalf of members of the limited liability company, the damages assessed against a manager or member arising out of a single transaction, occurrence or course of conduct shall not exceed the lesser of:
+			<section prefix="1">The monetary amount, including the elimination of liability, specified in writing in the articles of organization or an operating agreement as a limitation on or elimination of the liability of the manager or member; or
+			</section>
+			<section prefix="2">The greater of (i) $100,000 or (ii) the amount of cash compensation received by the manager or member from the limited liability company during the twelve months immediately preceding the act or omission for which liability was imposed; however, the cash compensation of a manager or member shall not be deemed to include amounts constituting distributions for the purposes of § 13.1-1035.
+			</section>
+		</section>
+		<section prefix="B">The liability of a manager or member shall not be limited as provided in this section to the extent otherwise provided in writing in the articles of organization or an operating agreement, or if the manager or member engaged in willful misconduct or a knowing violation of the criminal law.
+		</section>
+		<section prefix="C">No limitation on or elimination of liability adopted pursuant to this section may be affected by any amendment of the articles of organization or operating agreement with respect to any act or omission occurring before such amendment.
+		</section>
+	</text>
+	<history>1991, c. 168; 1992, c. 574; 2002, c. 288.</history>
+</law>

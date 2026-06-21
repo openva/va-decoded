@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="4" level="4">Creation, Validity, Modification, and Termination of Trust</unit>
+	</structure>
+	<section_number>64.2-723</section_number>
+	<catch_line>Charitable purposes; enforcement</catch_line>
+	<text>
+		<section prefix="A">A charitable trust may be created for the relief of poverty, the advancement of education or religion, the promotion of health, governmental or municipal purposes, or other purposes the achievement of which is beneficial to the community.
+		</section>
+		<section prefix="B">If the terms of a charitable trust do not indicate a particular charitable purpose or beneficiary, the court may select one or more charitable purposes or beneficiaries. The selection shall be consistent with the settlor's intention to the extent it can be ascertained.
+		</section>
+		<section prefix="C">The settlor of a charitable trust, among others, may maintain a proceeding to enforce the trust.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-544.05; 2012, c. 614.</history>
+</law>

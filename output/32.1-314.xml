@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="9" level="2">Regulation of Medical Assistance</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>32.1-314</section_number>
+	<catch_line>False statement or representation in applications for payment or for use in determining rights to payment; concealment of facts; penalty</catch_line>
+	<text>
+		<section prefix="A">Any person who engages in the following activities shall be guilty of a felony punishable by a term of imprisonment of not less than one nor more than 20 years, or in the discretion of the jury or the court trying the case without a jury, confinement in jail for not more than 12 months and, in addition to such imprisonment or confinement, may be fined an amount not to exceed $25,000:
+			<section prefix="1">Knowingly and willfully making or causing to be made any false statement or representation of a material fact in any application for any payment under medical assistance;
+			</section>
+			<section prefix="2">At any time knowingly and willfully making or causing to be made any false statement or representation of a material fact for use in determining rights to such payment, or knowingly and willfully falsifying, concealing or covering up by any trick, scheme or device a material fact, causing a material fact to be falsified, concealed, or covered up in such a manner in connection with such application or payment; or
+			</section>
+			<section prefix="3">When having knowledge of the occurrence of any event affecting (i) the initial or continued right to any payment or (ii) the initial or continued right to any such payment of any other individual in whose behalf he has applied for or is receiving such payments, willfully concealing or failing to disclose such event, causing such concealment or failure to disclose such an event with an intent fraudulently to secure such payment either in a greater amount or quantity than is due or when no such payment is authorized.
+			</section>
+		</section>
+		<section prefix="B">Upon conviction for any violation of subsection A, the court shall order restitution to be made to the Department of Medical Assistance Services for any loss caused by the violation.
+		</section>
+		<section prefix="C">The Director of the Department of Medical Assistance Services may terminate or deny a contract to a provider for any violation of this section pursuant to § 32.1-325.
+		</section>
+		<section prefix="D">Venue for the trial of any person charged with an offense under this section shall be the county or city in which (i) any act was performed in furtherance of the offense or (ii) the person charged with the offense resided at the time of the offense.
+		</section>
+	</text>
+	<history>1981, c. 255; 1986, c. 551; 1995, c. 491; 2010, c. 305; 2011, cc. 444, 479; 2015, c. 537.</history>
+</law>

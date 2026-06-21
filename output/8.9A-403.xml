@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="4" level="2">Rights of Third Parties</unit>
+	</structure>
+	<section_number>8.9A-403</section_number>
+	<catch_line>Agreement not to assert defenses against assignee</catch_line>
+	<text>
+		<section prefix="a">"Value." In this section, "value" has the meaning provided in § 8.3A-303 (a).
+		</section>
+		<section prefix="b">Agreement not to assert claim or defense. Except as otherwise provided in this section, an agreement between an account debtor and an assignor not to assert against an assignee any claim or defense that the account debtor may have against the assignor is enforceable by an assignee that takes an assignment:
+			<section prefix="1">for value;
+			</section>
+			<section prefix="2">in good faith;
+			</section>
+			<section prefix="3">without notice of a claim of a property or possessory right to the property assigned; and
+			</section>
+			<section prefix="4">without notice of a defense or claim in recoupment of the type that may be asserted against a person entitled to enforce a negotiable instrument under § 8.3A-305 (a).
+			</section>
+		</section>
+		<section prefix="c">When subsection (b) not applicable. Subsection (b) does not apply to defenses of a type that may be asserted against a holder in due course of a negotiable instrument under § 8.3A-305 (b).
+		</section>
+		<section prefix="d">Omission of required statement in consumer transaction. In a consumer transaction, if a record evidences the account debtor's obligation, law other than this title requires that the record include a statement to the effect that the rights of an assignee are subject to claims or defenses that the account debtor could assert against the original obligee, and the record does not include such a statement:
+			<section prefix="1">the record has the same effect as if the record included such a statement; and
+			</section>
+			<section prefix="2">the account debtor may assert against an assignee those claims and defenses that would have been available if the record included such a statement.
+			</section>
+		</section>
+		<section prefix="e">Rule for individual under other law. This section is subject to law other than this title which establishes a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.
+		</section>
+		<section prefix="f">Other law not displaced. Except as otherwise provided in subsection (d), this section does not displace law other than this title which gives effect to an agreement by an account debtor not to assert a claim or defense against an assignee.
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-206; 2000, c. 1007.</history>
+</law>

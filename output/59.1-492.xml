@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="42.1" level="2">Uniform Electronic Transactions Act</unit>
+	</structure>
+	<section_number>59.1-492</section_number>
+	<catch_line>Automated transactions</catch_line>
+	<text>
+		In an automated transaction, the following rules apply:
+		<section prefix="1">A contract may be formed by the interaction of electronic agents of the parties, even if no individual was aware of or reviewed the electronic agents' actions or the resulting terms and agreements.
+		</section>
+		<section prefix="2">A contract may be formed by the interaction of an electronic agent and an individual, acting on the individual's own behalf or for another person, including by an interaction in which the individual performs actions that the individual is free to refuse to perform and which the individual knows or has reason to know will cause the electronic agent to complete the transaction or performance.
+		</section>
+		<section prefix="3">The terms of the contract are determined by the substantive law applicable to the contract.
+		</section>
+	</text>
+	<history>2000, c. 995.</history>
+</law>

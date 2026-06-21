@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="39" level="3">Pesticide Control</unit>
+		<unit label="article" identifier="2" level="4">Licensing and Registration</unit>
+	</structure>
+	<section_number>3.2-3924</section_number>
+	<catch_line>Annual business license required</catch_line>
+	<text>
+		<section prefix="A">No pesticide business may sell, distribute, or store any pesticide without a pesticide business license issued pursuant to regulations adopted by the Board. The Board shall adopt regulations exempting retailers of limited quantities of nonrestricted use pesticides including grocery stores, convenience stores, drug stores, veterinarians, and other businesses who sell pesticides primarily for limited household use.
+		</section>
+		<section prefix="B">No person may apply or recommend for use any pesticide commercially without a pesticide business license and the employment of a certified commercial applicator responsible for: (i) the safe application of the pesticides; and (ii) providing recommendations for the use of pesticides.
+		</section>
+		<section prefix="C">An annual business license shall be required for each location or outlet that sells, distributes, stores, applies, or recommends for use any pesticide.
+		</section>
+	</text>
+	<history>1975, c. 377, § 3.1-249.7; 1989, c. 575, § 3.1-249.46; 1993, c. 773; 2008, c. 860.</history>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="11" level="2">Uniform Collaborative Law Act</unit>
+	</structure>
+	<section_number>20-182</section_number>
+	<catch_line>Privilege against disclosure of collaborative law communication; admissibility; discovery</catch_line>
+	<text>
+		<section prefix="A">Subject to §§ 20-183 and 20-184, a collaborative law communication is privileged under subsection B, is not subject to discovery, and is not admissible in evidence.
+		</section>
+		<section prefix="B">In a proceeding, the following privileges apply:
+			<section prefix="1">A party may refuse to disclose, and may prevent any other person from disclosing, a collaborative law communication.
+			</section>
+			<section prefix="2">A nonparty participant may refuse to disclose, and may prevent any other person from disclosing, a collaborative law communication of the nonparty participant.
+			</section>
+		</section>
+		<section prefix="C">Evidence or information that is otherwise admissible or subject to discovery does not become inadmissible or protected from discovery solely because of its disclosure or use in a collaborative law process.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 346.</history>
+</law>

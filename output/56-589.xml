@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="23" level="2">Virginia Electric Utility Regulation Act</unit>
+	</structure>
+	<section_number>56-589</section_number>
+	<catch_line>Municipal and state aggregation</catch_line>
+	<text>
+		<section prefix="A">Subject to the provisions of subdivision A 3 of § 56-577, counties, cities, and towns (hereafter municipalities) and other political subdivisions of the Commonwealth may, at their election and upon authorization by majority votes of their governing bodies, aggregate electrical energy and demand requirements for the purpose of negotiating the purchase of electrical energy requirements from any licensed supplier within this Commonwealth, as follows:
+			<section prefix="1">Any municipality or other political subdivision of the Commonwealth may aggregate the electric energy load of residential, commercial, and industrial retail customers within its boundaries on an opt-in or opt-out basis.
+			</section>
+			<section prefix="2">Any municipality or other political subdivision of the Commonwealth may aggregate the electric energy load of its governmental buildings, facilities, and any other governmental operations requiring the consumption of electric energy. Aggregation pursuant to this subdivision shall not require licensure pursuant to § 56-588.
+			</section>
+			<section prefix="3">Two or more municipalities or other political subdivisions within the Commonwealth may aggregate the electric energy load of their governmental buildings, facilities, and any other governmental operations requiring the consumption of electric energy. Aggregation pursuant to this subdivision shall not require licensure pursuant to § 56-588 when such municipalities or other political subdivisions are acting jointly to negotiate or arrange for themselves agreements for their energy needs directly with licensed suppliers or aggregators.
+				Nothing in this subsection shall prohibit the Commission's development and implementation of pilot programs for opt-in, opt-out, or any other type of municipal aggregation, as provided in § 56-577.
+			</section>
+		</section>
+		<section prefix="B">The Commonwealth, at its election, may aggregate the electric energy load of its governmental buildings, facilities, and any other government operations requiring the consumption of electric energy for the purpose of negotiating the purchase of electricity from any licensed supplier within the Commonwealth. Aggregation pursuant to this subsection shall not require licensure pursuant to § 56-588.
+		</section>
+		<section prefix="C">Nothing in this section shall preclude municipalities from aggregating the electric energy load of their governmental buildings, facilities and any other governmental operations requiring the consumption of electric energy for the purpose of negotiating rates and terms, and conditions of service from the electric utility certificated by the Commission to serve the territory in which such buildings, facilities and operations are located, provided, however, that no such electric energy load shall be aggregated for this purpose unless all such buildings, facilities and operations to be aggregated are served by the same electric utility.
+		</section>
+	</text>
+	<history>1999, c. 411; 2000, c. 991; 2003, c. 795; 2004, c. 827; 2007, cc. 888, 933.</history>
+</law>

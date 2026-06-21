@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions; Protection and Promotion of Agriculture</unit>
+		<unit label="chapter" identifier="7" level="3">Tree and Crop Pests</unit>
+		<unit label="article" identifier="1" level="4">Pests</unit>
+	</structure>
+	<section_number>3.2-710</section_number>
+	<catch_line>Penalties</catch_line>
+	<text>
+		<section prefix="A">Any person who violates any of the provisions of this article, or who alters, forges, or counterfeits, or uses without authority any certificate or permit or other document provided for in this article or in the regulations of the Board adopted hereunder is guilty of a Class 1 misdemeanor.
+		</section>
+		<section prefix="B">Any person who has knowingly moved any regulated article into the Commonwealth from any quarantined area of any other state, which regulated article has not been treated or handled under provisions of the quarantine and regulations in effect at the point of origin, is guilty of a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>1975, c. 29, § 3.1-188.29; 1980, c. 291; 2008, c. 860.</history>
+</law>

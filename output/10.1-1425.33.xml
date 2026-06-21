@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.6" level="4">Computer Recovery and Recycling Act</unit>
+	</structure>
+	<section_number>10.1-1425.33</section_number>
+	<catch_line>Department responsibilities</catch_line>
+	<text>
+		<section prefix="A">The Department shall maintain a list of manufacturers on its website that have notified the Department of the availability of a recovery plan for the Commonwealth. Covered computer equipment from manufacturers on that list may be sold in or into the Commonwealth.
+		</section>
+		<section prefix="B">The Department shall provide links to the following information on its website:
+			<section prefix="1">Manufacturers' collection, recycling, and reuse programs, including manufacturers' recovery plans, provided by manufacturers pursuant to this article; and
+			</section>
+			<section prefix="2">The potential security issues regarding personal information stored on computer equipment that is collected, recycled, or reused.
+			</section>
+		</section>
+	</text>
+	<history>2008, c. 541.</history>
+</law>

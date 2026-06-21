@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="1" level="2">General Provisions</unit>
+		<unit label="subpart" identifier="1" level="3">Short Title, Definitions and General Concepts</unit>
+	</structure>
+	<section_number>8.9A-107.1</section_number>
+	<catch_line>Control of controllable electronic record, controllable account, or controllable payment intangible</catch_line>
+	<text>
+		<section prefix="a">Control under § 8.12-105. A secured party has control of a controllable electronic record as provided in § 8.12-105.
+		</section>
+		<section prefix="b">Control of controllable account and controllable payment intangible. A secured party has control of a controllable account or controllable payment intangible if the secured party has control of the controllable electronic record that evidences the controllable account or controllable payment intangible.
+		</section>
+	</text>
+	<history>2024, c. 652.</history>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="4" level="4">Obtaining Licenses, Generally</unit>
+	</structure>
+	<section_number>46.2-328.2</section_number>
+	<catch_line>Department to issue documents; veteran indicator</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section, "veteran" means (i) a Virginia resident who has served in the active military, naval, or air service and whose final discharge or release therefrom was under honorable conditions or (ii) a Virginia resident who has served honorably for greater than 180 days in the Virginia National Guard or the United States Armed Forces Reserves.
+		</section>
+		<section prefix="B">In cooperation with the Department of Veterans Services and the Department of Military Affairs, the Department shall issue driver's licenses, permits, and identification cards displaying an indicator that the holder is a veteran to applicants who request such indicator and provide proof of such veteran status.
+		</section>
+		<section prefix="C">The Department shall charge the same fee for any document issued pursuant to this section as is charged for the same document issued without the veteran indicator. No additional fee shall be charged for the veteran indicator.
+		</section>
+		<section prefix="D">Any veteran's indicator placed on documentation issued pursuant to this section shall not be used for determination of any federal benefit.
+		</section>
+	</text>
+	<history>2018, c. 440.</history>
+</law>

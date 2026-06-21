@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="6" level="2">Crimes Involving Fraud</unit>
+		<unit label="article" identifier="3" level="3">False Pretenses</unit>
+	</structure>
+	<section_number>18.2-178.2</section_number>
+	<catch_line>Financial exploitation by an agent; penalty</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Agent" means the same as that term is defined in § 64.2-1600.
+			"Financial exploitation" means the illegal, unauthorized, or fraudulent use, or deprivation of use, of the property of a vulnerable adult with the intention of benefiting someone other than the vulnerable adult.
+			"Power of attorney" means a writing or other record that grants authority to an agent to act in the place of the principal, whether or not the term "power of attorney" is used.
+			"Principal" means an individual who grants authority to an agent in a power of attorney.
+			"Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+			"Vulnerable adult" means the same as that term is defined in § 18.2-369.
+		</section>
+		<section prefix="B">An agent under a power of attorney who knowingly or intentionally engages in financial exploitation of a vulnerable adult who is the principal of that agent is guilty of a Class 1 misdemeanor. A violation of this section shall constitute a separate and distinct offense. If the acts or activities violating this section also violate another provision of law, a prosecution under this section shall not prohibit or bar any prosecution or proceeding under such other provision or the imposition of any penalties provided for thereby.
+		</section>
+	</text>
+	<history>2022, cc. 397, 654.</history>
+</law>

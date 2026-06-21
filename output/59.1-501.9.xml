@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>59.1-501.9</section_number>
+	<catch_line>Choice of law</catch_line>
+	<text>
+		<section prefix="a">The parties in their agreement may choose the applicable law. However, the choice is not enforceable in a consumer contract to the extent it would vary a statute, administrative rule, or regulation that may not be varied by agreement under the law of Virginia.
+		</section>
+		<section prefix="b">In the absence of an enforceable agreement on choice of law, the contract is governed by the law of Virginia.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2001, cc. 762, 763.</history>
+</law>

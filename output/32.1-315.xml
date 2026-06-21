@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="9" level="2">Regulation of Medical Assistance</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>32.1-315</section_number>
+	<catch_line>Solicitation or receipt of remuneration for certain services; offer or payment of remuneration for inducement of such services; penalty</catch_line>
+	<text>
+		<section prefix="A">A person shall be guilty of a Class 6 felony and, in addition, may be fined an amount not to exceed $25,000, if he knowingly and willfully solicits or receives any remuneration, including any kickback, bribe or rebate, directly or indirectly, overtly or covertly, in cash or in-kind, or causes such remuneration to be solicited or received:
+			<section prefix="1">In return for referring an individual to a person for the furnishing or arranging for the furnishing of any item or service for which payment may be made in whole or in part under medical assistance; or
+			</section>
+			<section prefix="2">In return for purchasing, leasing, ordering, or arranging for or recommending purchasing, leasing or ordering any goods, facility, service or item for which payment may be made in whole or in part under medical assistance.
+			</section>
+		</section>
+		<section prefix="B">A person shall be guilty of a Class 6 felony and, in addition, may be fined an amount not to exceed $25,000, if he knowingly and willfully offers or pays any remuneration, including any kickback, bribe, or rebate, directly or indirectly, overtly or covertly, in cash or in-kind to any person to induce such person, or causes such remuneration to be offered or paid:
+			<section prefix="1">To refer an individual to a person for the furnishing or arranging for the furnishing of any item or service for which payment may be made, in whole or in part, under medical assistance; or
+			</section>
+			<section prefix="2">To purchase, lease, order, or arrange for or recommend purchasing, leasing or ordering any goods, facility, service or item for which payment may be made in whole or in part under medical assistance.
+			</section>
+		</section>
+		<section prefix="C">Subsections A and B shall not apply to:
+			<section prefix="1">A discount or other reduction in price obtained by a provider of services or other person under medical assistance, if the reduction in price is properly disclosed and appropriately reflected in the cost claimed or charges made by the provider or other person under medical assistance;
+			</section>
+			<section prefix="2">Any reasonable compensation paid by an employer to an employee who has a bona fide employment relationship with such employer, for employment in the provision of covered items or services;
+			</section>
+			<section prefix="3">An agreement by health care providers for the group purchase of equipment, goods, services, or supplies which results in fees paid to an agent of the providers, when such agreement has been presented to and authorized by the Department of Medical Assistance Services on the basis that the agreement will reduce the costs of providers of institutional services; and
+			</section>
+			<section prefix="4">Any remuneration, payment, business arrangement or payment practice that is not prohibited by 42 U.S.C. § 1320a-7b (b) or by any regulations adopted pursuant thereto.
+			</section>
+		</section>
+		<section prefix="D">The Director of the Department of Medical Assistance Services may terminate or deny a contract to a provider for any violation of this section pursuant to § 32.1-325.
+		</section>
+	</text>
+	<history>1981, c. 255; 1986, c. 551; 2003, c. 312; 2010, c. 305.</history>
+</law>

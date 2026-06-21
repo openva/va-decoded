@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="15" level="3">Virginia Aircraft Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-1503</section_number>
+	<catch_line>Basis of tax; estimate of tax; penalty for misrepresentation</catch_line>
+	<text>
+		<section prefix="A">The Tax Commissioner shall levy and collect the tax for the use or sale of an aircraft pursuant to subdivisions 1 and 2 of § 58.1-1502 upon the basis of the sale price of such aircraft.
+			Any person who sells an aircraft in the Commonwealth shall supply the buyer with an invoice, signed by the seller or his representative, which shall state the sale price of the aircraft. The buyer shall present such invoice to the Tax Commissioner with his return and payment of the tax.
+		</section>
+		<section prefix="B">The Tax Commissioner shall levy and collect the tax on an aircraft licensed for commercial use and held by a dealer who has elected to be taxed under subdivision 3 of § 58.1-1502 on the basis of the gross receipts arising from all transactions involving the rental or use of such aircraft during the preceding calendar month. The dealer shall submit a return to the Commissioner on a form prescribed by him, showing the gross receipts from such transactions at the time that the dealer remits his tax payment.
+		</section>
+		<section prefix="C">In any case where (i) the invoice is not available, (ii) the Tax Commissioner has reason to believe that an invoice or return does not reflect the true sales price or gross receipts, or (iii) the aircraft was purchased more than six months prior to its use or storage in this Commonwealth, the Commissioner may assess the tax in accordance with such publications or other data as are customarily employed in ascertaining the maximum sale price of aircraft. Where the Commissioner finds that a charge for the rental or use of aircraft has been lower than the fair market value of such rental or use, the Commissioner may estimate a fair price in accordance with the cost of the aircraft, the cost of maintenance, the normal rental value as shown in similar transactions, or other relevant data.
+			Any person who knowingly misrepresents the value of an aircraft or the amount of tax due to the Commissioner or on any return or invoice shall be guilty of a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>Code 1950, §§ 58-685.30, 58-685.33; 1974, c. 431; 1975, c. 424; 1977, c. 396; 1984, c. 675.</history>
+</law>

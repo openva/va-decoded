@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="8" level="2">Recounts and Contested Elections</unit>
+		<unit label="article" identifier="1" level="3">Recounts</unit>
+	</structure>
+	<section_number>24.2-802.2</section_number>
+	<catch_line>General recount procedures</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section:
+			"Overvote" means a ballot on which a voter casts a vote for a greater number of candidates or positions than the number for which he was lawfully entitled to vote and no vote shall be counted with respect to that office or issue.
+			"Undervote" means a ballot on which a voter casts a vote for a lesser number of candidates or positions than the number for which he was lawfully entitled to vote.
+		</section>
+		<section prefix="B">The recount of the votes shall be based on votes cast in the election and shall not take into account (i) any absentee ballots or provisional ballots sought to be cast but ruled invalid and not cast in the election, (ii) ballots cast only for administrative or test purposes and voided by the officers of election, or (iii) ballots spoiled by a voter and replaced with a new ballot.
+		</section>
+		<section prefix="C">The eligibility of any voter to have voted shall not be an issue in a recount. Commencing upon the filing of the recount, nothing shall prevent the discovery or disclosure of any evidence that could be used pursuant to § 24.2-803 in contesting the results of an election.
+		</section>
+		<section prefix="D">There shall be only one recount of the vote in each precinct. The recount of the vote shall be conducted as follows:
+			<section prefix="1">For paper ballots, the recount officials shall hand count the paper ballots using the standards promulgated by the State Board pursuant to § 24.2-802.
+			</section>
+			<section prefix="2">For ballot scanner machines, the recount officials shall rerun all the machine-readable ballots through a scanner programmed to count only the votes for the parties or issue in question in the recount and to set aside all ballots containing write-in votes, overvotes, and undervotes. The ballots that are set aside, any ballots not accepted by the scanner, and any ballots for which a scanner could not be programmed to meet the programming requirements of this subdivision, shall be hand counted using the standards promulgated by the State Board pursuant to § 24.2-802. If the total number of machine-readable ballots reported as counted by the scanner plus the total number of ballots set aside by the scanner do not equal the total number of ballots rerun through the scanner, then all ballots cast on ballot scanner machines for that precinct shall be set aside to be counted by hand using the standards promulgated by the State Board pursuant to § 24.2-802. Prior to running the machine-readable ballots through the ballot scanner machine, the recount officials shall ensure that logic and accuracy tests have been successfully performed on each scanner after the scanner has been programmed. The result calculated for ballots accepted by the ballot scanner machine during the recount shall be considered correct for those machine-readable ballots unless the court finds sufficient cause to rule otherwise.
+			</section>
+			<section prefix="3">Prior to the conclusion of the recount in each precinct, the recount officials shall segregate all ballots for which there is a question regarding the ballot's validity.
+			</section>
+		</section>
+		<section prefix="E">At the conclusion of the recount of each precinct, the recount officials shall write down the number of valid ballots cast, this number being obtained from the ballots cast in the precinct, or from the ballots cast as shown on the statement of results if the ballots cannot be found, for each of the two candidates or for and against the question. They shall submit the ballots or the statement of results used, as to the validity of which questions exist, to the court. The written statement of any one recount official challenging a ballot shall be sufficient to require its submission to the court. If, on all ballot scanners, the number of persons voting in the election, or the number of votes cast for the office or on the question, totals more than the number of names on the pollbooks of persons voting on the voting machines, the figures recorded by the machines shall be accepted as correct.
+		</section>
+		<section prefix="F">At the conclusion of the recount of all precincts, after allowing the parties to inspect the questioned ballots, and after hearing arguments, the court shall rule on the validity of all questioned ballots and votes. The court may not consider the validity of any ballots not set aside prior to the conclusion of the recount in each precinct. After settling all matters pertaining to the recount of the vote as raised by the parties, the court shall certify to the State Board and the electoral board (i) the vote for each party to the recount and declare the person who received the higher number of votes to be nominated or elected, as appropriate, or (ii) the votes for and against the question and declare the outcome of the referendum. The Department shall post on the Internet any and all changes made during the recount to the results as previously certified by it pursuant to § 24.2-679.
+		</section>
+		<section prefix="G">The recount proceeding shall be final and not subject to appeal.
+		</section>
+		<section prefix="H">Except in the case of a recount of an election for Governor, Lieutenant Governor, or Attorney General, or for elector of President or Vice President of the United States, if the court finds that each party to the recount has received an equal number of votes, it shall issue a writ promptly ordering a special election be held to determine which candidate is elected to the office.
+		</section>
+	</text>
+	<history>2020, cc. 284, 500, 886.</history>
+</law>

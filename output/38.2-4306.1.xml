@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="43" level="2">Health Maintenance Organizations</unit>
+	</structure>
+	<section_number>38.2-4306.1</section_number>
+	<catch_line>Interest on claim proceeds</catch_line>
+	<text>
+		<section prefix="A">If an action to recover the claim proceeds due under a health care plan results in a judgment against a health maintenance organization, interest on the judgment at the legal rate of interest shall be paid from the date of presentation to the health maintenance organization of proof of loss to the date judgment is entered.
+		</section>
+		<section prefix="B">If no action is brought, interest upon the claim proceeds paid to the subscriber, claimant, or assignee entitled thereto shall be computed daily at the legal rate of interest from the date of thirty calendar days from the health maintenance organization's receipt of proof of loss to the date of claim payment.
+		</section>
+		<section prefix="C">This section shall not apply to individual contracts issued prior to July 1, 1990, but shall apply to any renewals or reissues of group contracts occurring after that date.
+		</section>
+		<section prefix="D">This section shall not apply to claims for which payment has been or will be made directly to health care providers pursuant to a negotiated reimbursement arrangement requiring uniform or periodic interim payments to be applied against the health maintenance organization's obligation on such claims.
+		</section>
+		<section prefix="E">For purposes of this section, "proof of loss" means all necessary documentation reasonably required by the health maintenance organization to make a determination of benefit coverage.
+		</section>
+	</text>
+	<history>1992, c. 23; 1996, c. 75.</history>
+</law>

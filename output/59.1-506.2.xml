@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.2</section_number>
+	<catch_line>Licensor's obligations to enable use</catch_line>
+	<text>
+		<section prefix="a">In this section, "enable use" means to grant a contractual right or permission with respect to information or informational rights and to complete the acts, if any, required under the agreement to make the information available to the licensee.
+		</section>
+		<section prefix="b">A licensor shall enable use by the licensee pursuant to the contract. The following rules apply to enabling use:
+			<section prefix="1">If nothing other than the grant of a contractual right or permission is required to enable use, the licensor enables use when the contract becomes enforceable.
+			</section>
+			<section prefix="2">If the agreement requires delivery of a copy, enabling use occurs when the copy is tendered to the licensee.
+			</section>
+			<section prefix="3">If the agreement requires delivery of a copy and steps authorizing the licensee's use, enabling use occurs when the last of those acts occurs.
+			</section>
+			<section prefix="4">In an access contract, enabling use requires tendering all access material necessary to enable the agreed access.
+			</section>
+			<section prefix="5">If the agreement requires a transfer of ownership of informational rights and a filing or recording is allowed by law to establish priority of the transferred ownership, on request by the licensee, the licensor shall execute and tender a record appropriate for that purpose.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="B" level="3">Powers of Attorney</unit>
+		<unit label="chapter" identifier="16" level="4">Uniform Power of Attorney Act</unit>
+		<unit label="article" identifier="3" level="5">Statutory Forms</unit>
+	</structure>
+	<section_number>64.2-1639</section_number>
+	<catch_line>Agent's certification</catch_line>
+	<text>
+		The following optional form may be used by an agent to certify facts concerning a power of attorney.
+		AGENT'S CERTIFICATION AS TO THE VALIDITY OF POWER OF ATTORNEY AND AGENT'S AUTHORITY
+		State of ____________________
+		County/City of ____________________
+		I, ____________________ (Name of Agent), certify under penalty of perjury that ____________________ (Name of Principal) granted me authority as an agent or successor agent in a power of attorney dated ____________________.
+		I further certify that to my knowledge:
+		<section prefix="1">The Principal is alive and has not revoked the power of attorney or my authority to act under the power of attorney and the power of attorney and my authority to act under the power of attorney have not terminated;
+		</section>
+		<section prefix="2">If the power of attorney was drafted to become effective upon the happening of an event or contingency, the event or contingency has occurred;
+		</section>
+		<section prefix="3">If I was named as a successor agent, the prior agent is no longer able or willing to serve; and
+		</section>
+		<section prefix="4">____________________________________
+			________________________________________
+			________________________________________
+			________________________________________ (Insert other relevant statements)
+			SIGNATURE AND ACKNOWLEDGMENT ________________________________________ Agent's Signature
+			____________________Date
+			Agent's Name Printed________________________________________
+			________________________________________ Agent's Address
+			________________________________________Agent's Telephone Number
+			This document was acknowledged before me on ____________________ (Date), by ____________________ (Name of Agent).________________________________________ Signature of Notary
+			My commission expires: ____________________ (Seal, if any)
+			Notary Registration Number: ____________________
+			This document prepared by:
+			________________________________________
+		</section>
+	</text>
+	<history>2010, cc. 455, 632, § 26-113; 2012, c. 614.</history>
+</law>

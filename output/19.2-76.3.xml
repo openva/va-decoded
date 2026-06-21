@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="7" level="2">Arrest</unit>
+	</structure>
+	<section_number>19.2-76.3</section_number>
+	<catch_line>Failure to appear on return date for summons issued under § 19.2-76.2</catch_line>
+	<text>
+		<section prefix="A">If any person fails to appear on the date of the return contained in the summons issued in accordance with § 19.2-76.2, then a summons shall be delivered to the sheriff of the county, city, or town or to another authorized process server for service on that person as set out in § 8.01-296.
+		</section>
+		<section prefix="B">If such person then fails to appear on the date of return as contained in the summons so issued, a summons shall be executed in the manner set out in § 19.2-76.
+		</section>
+		<section prefix="C">No proceedings for contempt or arrest of any person summoned under the provisions of this section shall be instituted unless such person has been personally served with a summons and has failed to appear on the return date contained therein.
+		</section>
+	</text>
+	<history>1983, c. 254; 1994, c. 642; 2016, cc. 242, 354.</history>
+</law>

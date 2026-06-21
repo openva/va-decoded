@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="10" level="3">Cigarette Tax</unit>
+		<unit label="article" identifier="2" level="4">Use Tax</unit>
+	</structure>
+	<section_number>58.1-1020</section_number>
+	<catch_line>Assessment of tax by Department</catch_line>
+	<text>
+		In case any person subject to the tax imposed by this article fails to make such a return, or makes an incorrect return, the Department, from the best information available to it, shall assess the amount of tax due from such person and mail notice thereof to the taxpayer. Collection of such assessment may be enforced by legal process.
+	</text>
+	<history>Code 1950, § 58-757.21; 1960, c. 392, § 21; 1984, c. 675.</history>
+</law>

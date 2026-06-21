@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="23.1" level="1">Institutions of Higher Education; Other Educational and Cultural Institutions</unit>
+		<unit label="subtitle" identifier="II" level="2">Students and Campus</unit>
+		<unit label="chapter" identifier="9" level="3">Academic Policies</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>23.1-900.2</section_number>
+	<catch_line>Release of student transcripts</catch_line>
+	<text>
+		<section prefix="A">Each public institution of higher education shall release an academic transcript directly to the employer or prospective employer of a student currently or formerly enrolled at such institution upon the request of the student.
+		</section>
+		<section prefix="B">No public institution of higher education shall condition the release of an academic transcript to a student currently or formerly enrolled at such institution on the payment of an outstanding debt if:
+			<section prefix="1">Such outstanding debt is less than $500;
+			</section>
+			<section prefix="2">Such outstanding debt is less than $1,000 and such currently or formerly enrolled student received a Federal Pell Grant at any time during his enrollment; or
+			</section>
+			<section prefix="3">Such currently or formerly enrolled student has enrolled in a repayment plan and has made at least three consecutive monthly payments on such outstanding debt.
+			</section>
+		</section>
+	</text>
+	<history>2024, c. 750.</history>
+</law>

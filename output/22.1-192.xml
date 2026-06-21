@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="12" level="2">Pupil Transportation</unit>
+		<unit label="article" identifier="2" level="3">Insurance Provisions</unit>
+	</structure>
+	<section_number>22.1-192</section_number>
+	<catch_line>Injury and damage covered by policy</catch_line>
+	<text>
+		Every policy of insurance issued in pursuance of the provisions of this article, in addition to compliance with other requirements of this article and with the requirements of other applicable laws, shall cover:
+		<section prefix="1">Injury, including death, to school pupils and personnel, except the driver when not a pupil, riding as passengers on any of the vehicles so insured when used to transport such persons at public expense;
+		</section>
+		<section prefix="2">Injury, including death, to any persons not passengers on any such vehicle;
+		</section>
+		<section prefix="3">Damage, including destruction, to property of any person other than the insured.
+		</section>
+	</text>
+	<history>Code 1950, § 22-288; 1962, c. 181; 1980, c. 559.</history>
+</law>

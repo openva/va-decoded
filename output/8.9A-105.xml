@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="1" level="2">General Provisions</unit>
+		<unit label="subpart" identifier="1" level="3">Short Title, Definitions and General Concepts</unit>
+	</structure>
+	<section_number>8.9A-105</section_number>
+	<catch_line>Control of electronic copy of record evidencing chattel paper</catch_line>
+	<text>
+		<section prefix="a">General rule: control of electronic copy of a record evidencing chattel paper. A secured party has control of an authoritative electronic copy of a record evidencing chattel paper if a system employed for evidencing the assignment of interests in the chattel paper reliably establishes the purchaser as the person to which the authoritative electronic copy was assigned.
+		</section>
+		<section prefix="b">Single authoritative copy. A system satisfies subsection (a) if the record or records evidencing the chattel paper are created, stored, and assigned in a manner that:
+			<section prefix="1">a single authoritative copy of the record or records exists which is unique, identifiable, and, except as otherwise provided in paragraphs (4), (5), and (6), unalterable;
+			</section>
+			<section prefix="2">the authoritative copy identifies the purchaser as the assignee of the record or records;
+			</section>
+			<section prefix="3">the authoritative copy is communicated to and maintained by the purchaser or its designated custodian;
+			</section>
+			<section prefix="4">copies or amendments that add or change an identified assignee of the authoritative copy can be made only with the consent of the purchaser;
+			</section>
+			<section prefix="5">each copy of the authoritative copy and any copy of a copy is readily identifiable as a copy that is not the authoritative copy; and
+			</section>
+			<section prefix="6">any amendment of the authoritative copy is readily identifiable as authorized or unauthorized.
+			</section>
+		</section>
+		<section prefix="c">One or more authoritative copies. A system satisfies subsection (a), and a purchaser has control of an authoritative electronic copy of a record evidencing chattel paper, if the electronic copy, a record attached to or logically associated with the electronic copy, or a system in which the electronic copy is recorded:
+			<section prefix="1">enables the purchaser readily to identify each electronic copy as either an authoritative copy or a nonauthoritative copy;
+			</section>
+			<section prefix="2">enables the purchaser readily to identify itself in any way, including by name, identifying number, cryptographic key, office, or account number, as the assignee of the authoritative electronic copy; and
+			</section>
+			<section prefix="3">gives the purchaser exclusive power, subject to subsection (d), to:
+			</section>
+		</section>
+		<section prefix="A">prevent others from adding or changing an identified assignee of the authoritative electronic copy; and
+		</section>
+		<section prefix="B">transfer control of the authoritative electronic copy.
+		</section>
+		<section prefix="d">Meaning of exclusive. Subject to subsection (e), a power is exclusive under subsection (c)(3)(A) and (B) even if:
+			<section prefix="1">the authoritative electronic copy, a record attached to or logically associated with the authoritative electronic copy, or a system in which the authoritative electronic copy is recorded limits the use of the authoritative electronic copy or has a protocol programmed to cause a change, including a transfer or loss of control; or
+			</section>
+			<section prefix="2">the power is shared with another person.
+			</section>
+		</section>
+		<section prefix="e">When power not shared with another person. A power of a purchaser is not shared with another person under subsection (d)(2) and the purchaser's power is not exclusive if:
+			<section prefix="1">the purchaser can exercise the power only if the power also is exercised by the other person; and
+			</section>
+			<section prefix="2">the other person:
+			</section>
+		</section>
+		<section prefix="A">can exercise the power without exercise of the power by the purchaser; or
+		</section>
+		<section prefix="B">is the transferor to the purchaser of an interest in the chattel paper.
+		</section>
+		<section prefix="f">Presumption of exclusivity of certain powers. If a purchaser has the powers specified in subsection (c)(3)(A) and (B), the powers are presumed to be exclusive.
+		</section>
+		<section prefix="g">Obtaining control through another person. A purchaser has control of an authoritative electronic copy of a record evidencing chattel paper if another person, other than the transferor to the purchaser of an interest in the chattel paper:
+			<section prefix="1">has control of the authoritative electronic copy and acknowledges that it has control on behalf of the purchaser; or
+			</section>
+			<section prefix="2">obtains control of the authoritative electronic copy after having acknowledged that it will obtain control of the electronic copy on behalf of the purchaser.
+			</section>
+		</section>
+	</text>
+	<history>2000, c. 1007; 2012, c. 155; 2024, c. 652.</history>
+</law>

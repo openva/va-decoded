@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="4" level="4">Creation, Validity, Modification, and Termination of Trust</unit>
+	</structure>
+	<section_number>64.2-738</section_number>
+	<catch_line>Prohibitions as to trust that is deemed a split-interest trust</catch_line>
+	<text>
+		Every trust that is a split-interest trust, as described in § 4947(a)(2) of the Internal Revenue Code, unless its governing instrument expressly includes specific provisions to the contrary, shall not engage in any act of self-dealing, as defined in § 4941(d) of the Internal Revenue Code, retain any excess business holdings, as defined in § 4943(c) of the Internal Revenue Code, that would give rise to liability for the tax imposed by § 4943(a) of the Internal Revenue Code, make any investments in such manner as to give rise to liability for the tax imposed by § 4944 of the Internal Revenue Code, or make any taxable expenditures, as defined in § 4945(d) of the Internal Revenue Code. This section shall not apply with respect to:
+		<section prefix="1">Any amounts payable under the terms of such trust to income beneficiaries, unless a deduction was allowed under § 170(f)(2)(B), 2055(e)(2)(B), or 2522(c)(2)(B) of the Internal Revenue Code;
+		</section>
+		<section prefix="2">Any amounts in trust other than amounts for which a deduction was allowed under § 170, 545(b)(2), 556(b)(2), 642(c), 2055, 2106(a)(2), or 2522 of the Internal Revenue Code, if such other amounts are segregated from amounts for which no deduction was allowable; or
+		</section>
+		<section prefix="3">Any amounts transferred in trust before May 27, 1969.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-544.20; 2012, c. 614.</history>
+</law>

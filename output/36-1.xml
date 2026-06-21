@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="36" level="1">Housing</unit>
+		<unit label="chapter" identifier="1" level="2">Housing Authorities Law</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>36-1</section_number>
+	<catch_line>Title of chapter</catch_line>
+	<text>
+		This chapter may be referred to as the "Housing Authorities Law."
+	</text>
+	<history>1938, p. 447; Michie Code 1942, § 3145(1).</history>
+</law>

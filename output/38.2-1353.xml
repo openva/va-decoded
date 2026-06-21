@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="8" level="3">Licensing of Reinsurance Intermediaries</unit>
+	</structure>
+	<section_number>38.2-1353</section_number>
+	<catch_line>Prohibited acts</catch_line>
+	<text>
+		No insurer shall authorize its reinsurance intermediary manager to, and no reinsurance intermediary manager shall:
+		<section prefix="1">Cede retrocessions on behalf of the reinsurer, except that the reinsurance intermediary manager may cede facultative retrocessions pursuant to obligatory facultative agreements if the contract between the reinsurance intermediary manager and the reinsurer contains reinsurance underwriting guidelines for such retrocessions. Such guidelines shall include a list of reinsurers with which such automatic agreements are in effect, and for each such reinsurer, the coverages and amounts or percentages that may be reinsured, and commission schedules.
+		</section>
+		<section prefix="2">Commit the reinsurer to participate in reinsurance syndicates.
+		</section>
+		<section prefix="3">Permit any agent or reinsurance intermediary to represent the reinsurer without assuring that the agent or reinsurance intermediary is lawfully licensed.
+		</section>
+		<section prefix="4">Without prior approval of the reinsurer, pay or commit the reinsurer to pay a claim, net of retrocessions, that exceeds the lesser of an amount specified by the reinsurer or one percent of the reinsurer's surplus to policyholders as of December 31 of the last completed calendar year.
+		</section>
+		<section prefix="5">Collect any payment from a retrocessionaire or commit the reinsurer to any claim settlement with a retrocessionaire without prior approval of the reinsurer. If prior approval is given, a report must be promptly forwarded to the reinsurer.
+		</section>
+		<section prefix="6">Jointly employ an individual who is employed by the reinsurer unless such reinsurance manager is under common control with the reinsurer subject to Article 5 (§ 38.2-1322 et seq.) of this chapter or Article 2 (§ 38.2-4230 et seq.) of Chapter 42 of this title.
+		</section>
+		<section prefix="7">Appoint a sub-reinsurance intermediary manager.
+		</section>
+	</text>
+	<history>2001, c. 706.</history>
+</law>

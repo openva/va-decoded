@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="42.1" level="2">Uniform Electronic Transactions Act</unit>
+	</structure>
+	<section_number>59.1-483</section_number>
+	<catch_line>Use of electronic records and electronic signatures; variation by agreement</catch_line>
+	<text>
+		<section prefix="a">This chapter does not require a record or signature to be created, generated, sent, communicated, received, stored, or otherwise processed or used by electronic means or in electronic form.
+		</section>
+		<section prefix="b">This chapter applies only to transactions between parties each of which has agreed to conduct transactions by electronic means. Whether the parties agree to conduct a transaction by electronic means is determined from the context and surrounding circumstances, including the parties' conduct. Except for a separate and optional agreement the primary purpose of which is to authorize a transaction to be conducted by electronic means, an agreement to conduct a transaction electronically may not be contained in a standard form contract unless that term is conspicuously displayed and separately consented to. An agreement to conduct a transaction electronically may not be inferred solely from the fact that a party has used electronic means to pay an account or register a purchase warranty. This subsection may not be varied by agreement.
+		</section>
+		<section prefix="c">A party that agrees to conduct a transaction by electronic means may refuse to conduct other transactions by electronic means. The right granted by this subsection may not be waived by agreement.
+		</section>
+		<section prefix="d">Except as otherwise provided in this chapter, the effect of any of the provisions of this chapter may be varied by agreement. The presence in this chapter of the words "unless otherwise agreed," or words of similar import, does not imply that the effect of other provisions may not be varied by agreement.
+		</section>
+		<section prefix="e">Whether an electronic record or electronic signature has legal consequences is determined by this chapter and other applicable law.
+		</section>
+	</text>
+	<history>2000, c. 995.</history>
+</law>

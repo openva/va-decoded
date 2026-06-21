@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="6" level="2">Insurance Information and Privacy Protection</unit>
+		<unit label="article" identifier="1" level="3">Collection, Use, and Dissemination of Information</unit>
+	</structure>
+	<section_number>38.2-606</section_number>
+	<catch_line>Content of disclosure authorization forms</catch_line>
+	<text>
+		Notwithstanding any other provision of law of this Commonwealth, no insurance institution, agent, or insurance-support organization shall utilize as its disclosure authorization form in connection with insurance transactions involving insurance policies or contracts issued after January 1, 1982, a form or statement that authorizes the disclosure of personal or privileged information about an individual to the insurance institution, agent, or insurance-support organization unless the form or statement:
+		<section prefix="1">Is written in plain language;
+		</section>
+		<section prefix="2">Is dated;
+		</section>
+		<section prefix="3">Specifies the types of persons authorized to disclose information about the individual;
+		</section>
+		<section prefix="4">Specifies the nature of the information authorized to be disclosed;
+		</section>
+		<section prefix="5">Names the insurance institution or agent and identifies by generic reference representatives of the insurance institution to whom the individual is authorizing information to be disclosed;
+		</section>
+		<section prefix="6">Specifies the purposes for which the information is collected;
+		</section>
+		<section prefix="7">Specifies the length of time such authorization shall remain valid, which shall be no longer than:
+			a. In the case of authorizations signed for the purpose of collecting information in connection with an application for an insurance policy, a policy reinstatement, or a request for change in policy benefits:
+			<section prefix="1">Thirty months from the date the authorization is signed if the application or request involves life, accident and sickness, or disability insurance; or
+			</section>
+			<section prefix="2">Two years from the date the authorization is signed if the application or request involves property or casualty insurance;
+				b. In the case of authorizations signed for the purpose of collecting information in connection with a claim for benefits under an insurance policy:
+			</section>
+			<section prefix="1">The term of coverage of the policy if the claim is for an accident and sickness insurance benefit; or
+			</section>
+			<section prefix="2">The duration of the claim if the claim is not for an accident and sickness insurance benefit; and
+			</section>
+		</section>
+		<section prefix="8">Advises the individual or a person authorized to act on behalf of the individual that the individual or the individual's authorized representative is entitled to receive a copy of the authorization form.
+		</section>
+	</text>
+	<history>1981, c. 389, § 38.1-57.9; 1986, c. 562; 2001, c. 371.</history>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-401</section_number>
+	<catch_line>Ex officio Secretary to Governor; in charge of division of records</catch_line>
+	<text>
+		The Secretary of the Commonwealth, who shall be ex officio Secretary to the Governor, shall be in direct charge of the division of records.
+	</text>
+	<history>Code 1950, § 2-58; 1966, c. 677, § 2.1-66; 2001, c. 844.</history>
+</law>

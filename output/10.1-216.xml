@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="2" level="3">Parks and Recreation</unit>
+		<unit label="article" identifier="3" level="4">Virginia Natural Area Preserves Act</unit>
+	</structure>
+	<section_number>10.1-216</section_number>
+	<catch_line>Natural area registry</catch_line>
+	<text>
+		<section prefix="A">The Department shall maintain a state registry of voluntarily protected natural areas to be called the Virginia Registry of Natural Areas. Registration of natural areas shall be accomplished through voluntary agreement between the owner of the natural area and the Director. State-owned lands may be registered by agreement with the agency to which the land is allocated. Registry agreements may be terminated by either party at any time, and upon such termination the area shall be removed from the registry.
+		</section>
+		<section prefix="B">A natural area shall be registered when an agreement to protect and manage the natural area for its specified natural heritage resource has been signed by the owner and the Director. The owner of a registered natural area shall be given a certificate signifying the inclusion of the area in the registry.
+		</section>
+	</text>
+	<history>1989, c. 553.</history>
+</law>

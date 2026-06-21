@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="7.1" level="3">Computer Crimes</unit>
+	</structure>
+	<section_number>18.2-152.5:1</section_number>
+	<catch_line>Using a computer to gather identifying information; penalties</catch_line>
+	<text>
+		<section prefix="A">It is unlawful for any person, other than a law-enforcement officer, as defined in § 9.1-101, and acting in the performance of his official duties, to use a computer to obtain, access, or record, through the use of material artifice, trickery or deception, any identifying information, as defined in clauses (iii) through (xiii) of subsection C of § 18.2-186.3. Any person who violates this section is guilty of a Class 6 felony.
+		</section>
+		<section prefix="B">Any person who violates this section and sells or distributes such information to another is guilty of a Class 5 felony.
+		</section>
+		<section prefix="C">Any person who violates this section and uses such information in the commission of another crime is guilty of a Class 5 felony.
+		</section>
+	</text>
+	<history>2005, cc. 747, 760, 761, 827, 837.</history>
+</law>

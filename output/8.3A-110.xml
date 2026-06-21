@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="1" level="2">General Provisions and Definitions</unit>
+	</structure>
+	<section_number>8.3A-110</section_number>
+	<catch_line>Identification of person to whom instrument is payable</catch_line>
+	<text>
+		<section prefix="a">The person to whom an instrument is initially payable is determined by the intent of the person, whether or not authorized, signing as, or in the name or behalf of, the issuer of the instrument. The instrument is payable to the person intended by the signer even if that person is identified in the instrument by a name or other identification that is not that of the intended person. If more than one person signs in the name or behalf of the issuer of an instrument and all the signers do not intend the same person as payee, the instrument is payable to any person intended by one or more of the signers.
+		</section>
+		<section prefix="b">If the signature of the issuer of an instrument is made by automated means, such as a check-writing machine, the payee of the instrument is determined by the intent of the person who supplied the name or identification of the payee, whether or not authorized to do so.
+		</section>
+		<section prefix="c">A person to whom an instrument is payable may be identified in any way, including by name, identifying number, office, or account number. For the purpose of determining the holder of an instrument, the following rules apply:
+			<section prefix="1">If an instrument is payable to an account and the account is identified only by number, the instrument is payable to the person to whom the account is payable. If an instrument is payable to an account identified by number and by the name of a person, the instrument is payable to the named person, whether or not that person is the owner of the account identified by number.
+			</section>
+			<section prefix="2">If an instrument is payable to:
+			</section>
+		</section>
+		<section prefix="i">a trust, an estate, or a person described as trustee or representative of a trust or estate, the instrument is payable to the trustee, the representative, or a successor of either, whether or not the beneficiary or estate is also named;
+			<section prefix="ii">a person described as agent or similar representative of a named or identified person, the instrument is payable to the represented person, the representative, or a successor of the representative;
+			</section>
+			<section prefix="iii">a fund or organization that is not a legal entity, the instrument is payable to a representative of the members of the fund or organization; or
+			</section>
+			<section prefix="iv">an office or to a person described as holding an office, the instrument is payable to the named person, the incumbent of the office, or a successor to the incumbent.
+			</section>
+		</section>
+		<section prefix="d">If an instrument is payable to two or more persons alternatively, it is payable to any of them and may be negotiated, discharged, or enforced by any or all of them in possession of the instrument. If an instrument is payable to two or more persons not alternatively, it is payable to all of them and may be negotiated, discharged, or enforced only by all of them. If an instrument payable to two or more persons is ambiguous as to whether it is payable to the persons alternatively, the instrument is payable to the persons alternatively.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-360, 6-393, 6-394; 1964, c. 219, §§ 8.3-110, 8.3-116, 8.3-117; 1966, c. 393; 1992, c. 693.</history>
+</law>

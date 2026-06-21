@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="15" level="2">Telegraph and Telephone Companies</unit>
+		<unit label="article" identifier="7" level="3">Enhanced Public Safety Telephone Services Act</unit>
+	</structure>
+	<section_number>56-484.12</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article, unless the context requires a different meaning:
+		"Automatic location identification" or "ALI" means a telecommunications network capability that enables the automatic display of information defining the geographical location of the telephone used to place a wireless enhanced 9-1-1 call.
+		"Automatic number identification" or "ANI" means a telecommunications network capability that enables the automatic display of the telephone number used to place a wireless Enhanced 9-1-1 call.
+		"Board" means the 9-1-1 Services Board created pursuant to this article.
+		"Chief Information Officer" or "CIO" means the Chief Information Officer appointed pursuant to § 2.2-2005.
+		"Coordinator" means the Virginia Public Safety Communications Systems Coordinator employed by the Division.
+		"CMRS" means mobile telecommunications service as defined in the federal Mobile Telecommunications Sourcing Act, 4 U.S.C. § 124, as amended.
+		"CMRS provider" means an entity authorized by the Federal Communications Commission to provide CMRS within the Commonwealth.
+		"Division" means the Division of Public Safety Communications created in § 44-146.18:5.
+		"Emergency services IP network" or "ESInet" means a shared public safety agency-managed Internet protocol (IP) network that (i) is used for emergency services communications, (ii) provides an IP transport infrastructure that is capable of carrying voice and data and that supports next generation 9-1-1 service core functions such as routing and location validation of emergency service requests, and (iii) is engineered, managed, and intended to support emergency public safety communications and 9-1-1 service.
+		"Enhanced 9-1-1 service" or "E-911" means a service consisting of telephone network features and PSAPs provided for users of telephone systems enabling such users to reach a PSAP by dialing the digits "9-1-1." Such service automatically directs 9-1-1 emergency telephone calls to the appropriate PSAPs by selective routing based on the geographical location from which the emergency call originated and provides the capability for ANI and ALI features.
+		"ESInet point of interconnection" means the demarcation point at which the NG9-1-1 Service Provider receives and assumes responsibility for 9-1-1 call traffic from originating service providers.
+		"Local exchange carrier" means any public service company granted a certificate to furnish public utility service for the provision of local exchange telephone service pursuant to Chapter 10.1 (§ 56-265.1 et seq.) of Title 56.
+		"Next generation 9-1-1 service" or "NG9-1-1" means a service that (i) consists of coordinated intrastate 9-1-1 IP networks serving residents of the Commonwealth with the routing of emergency service requests, by voice or data, across public safety ESInets; (ii) automatically directs 9-1-1 emergency telephone calls and other emergency service requests in data formats to the appropriate PSAPs by routing using geographical information system data; (iii) provides for ANI and ALI features; and (iv) interconnects with enhanced 9-1-1 service.
+		"9-1-1 service" includes E-911 and NG9-1-1.
+		"Originating service provider" means the local exchange carrier, VoIP provider, or CMRS provider that serves the end user over which a 9-1-1 call, 9-8-8 call, call to the crisis call center, as defined in § 37.2-311.1, or call to the NSPL, as defined in § 37.2-311.1, is made.
+		"Place of primary use" has the meaning as defined in the federal Mobile Telecommunications Sourcing Act, 4 U.S.C. § 124, as amended.
+		"Postpaid CMRS" means CMRS that is not prepaid CMRS, as defined in § 56-484.17:1.
+		"Public safety answering point" or "PSAP" means a facility (i) equipped and staffed on a 24-hour basis to receive and process 9-1-1 calls or (ii) that intends to receive and process 9-1-1 calls and has notified CMRS providers in its jurisdiction of its intention to receive and process such calls.
+		"VoIP service" means interconnected voice over Internet protocol service as defined in the Code of Federal Regulations, Title 47, Part 9, section 9.3, as amended.
+		"Wireless E-911 Fund" means the fund created pursuant to § 56-484.17.
+		"Wireless E-911 surcharge" means a fee billed with respect to postpaid CMRS customers by each CMRS provider and CMRS reseller on each CMRS device capable of two-way interactive voice communication.
+	</text>
+	<history>2000, c. 1064; 2001, c. 529; 2002, c. 68; 2003, cc. 160, 341, 981, 1021; 2005, c. 942; 2006, cc. 739, 780; 2010, cc. 466, 566; 2011, cc. 120, 138; 2016, c. 361; 2018, cc. 532, 533; 2020, c. 423; 2021, Sp. Sess. I, c. 248.</history>
+</law>

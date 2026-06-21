@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Shareholders</unit>
+	</structure>
+	<section_number>13.1-655</section_number>
+	<catch_line>Special meeting</catch_line>
+	<text>
+		<section prefix="A">A corporation shall hold a special meeting of shareholders:
+			<section prefix="1">On call of the chairman of the board of directors, the president, the board of directors, or the person or persons authorized to do so by the articles of incorporation or bylaws; or
+			</section>
+			<section prefix="2">In the case of a corporation that is not a public corporation and that has 35 or fewer shareholders of record, if the holders of at least 20 percent of all the votes entitled to be cast on an issue proposed to be considered at the special meeting sign, date, and deliver to the corporation's secretary one or more written demands for the meeting describing the purpose or purposes for which it is to be held. For such a corporation, the articles of incorporation may provide for an increase or decrease in the percentage stated in this subdivision or may prohibit shareholders from calling a special meeting.
+			</section>
+		</section>
+		<section prefix="B">Unless otherwise provided in the articles of incorporation, a written demand for a special meeting may be revoked by a writing, including an electronic transmission, to that effect received by the corporation's secretary before the start of the special meeting.
+		</section>
+		<section prefix="C">If not otherwise fixed under § 13.1-656 or 13.1-660, the record date for determining shareholders entitled to demand a special meeting shall be the first date on which a signed shareholder demand is delivered to the corporation's secretary. No written demand for a special meeting shall be effective unless, within 60 days of the earliest date on which such a demand delivered to the corporation's secretary as required by this section was signed, written demands signed by shareholders that satisfy the requirements of subsection A have been delivered to the corporation's secretary.
+		</section>
+		<section prefix="D">Except as otherwise determined by the board of directors acting pursuant to subsection C of § 13.1-660.2, special meetings of shareholders may be held in or outside of the Commonwealth at the place stated in or fixed in accordance with the bylaws. If no place is so stated or fixed, special meetings shall be held at the corporation's principal office.
+		</section>
+		<section prefix="E">Only business within the purpose or purposes described in the meeting notice required by subsection C of § 13.1-658 may be conducted at a special meeting of shareholders.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-25; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2003, c. 728; 2005, c. 765; 2012, c. 706; 2017, c. 646; 2019, c. 734.</history>
+</law>

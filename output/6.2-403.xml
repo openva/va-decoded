@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="4" level="3">Certain Lending Practices</unit>
+		<unit label="article" identifier="1" level="4">Late Charges and Rebates of Unearned Interest</unit>
+	</structure>
+	<section_number>6.2-403</section_number>
+	<catch_line>The Rule of 78</catch_line>
+	<text>
+		<section prefix="A">The Rule of 78 is so named because the integers one through 12 added together total 78.
+		</section>
+		<section prefix="B">The amount of the rebate of unearned interest to be credited upon the acceleration or anticipation of a loan on which such rebate is required to be calculated under the Rule of 78 shall be calculated as follows:
+			<section prefix="1">Determine the denominator of the fraction, to be used as provided in subdivision 3, by adding the integers corresponding to the number of months over which the loan is to be repaid according to its terms, which in the example of a four-year loan would be the sum obtained by adding all of the integers in the series one through 48.
+			</section>
+			<section prefix="2">Determine the numerator of the fraction, to be used as provided in subdivision 3, by adding in inverse sequence the integers corresponding to the number of months remaining on the loan after payment is anticipated, which in the example of a four-year loan anticipated after the third month, would be the sum obtained by adding all of the integers in the series 45 through one.
+			</section>
+			<section prefix="3">Multiply the original amount of interest that would have been paid over the life of the loan by a fraction that has as its denominator the number determined as in subdivision 1 and as its numerator the number determined as in subdivision 2. The product is the amount of unearned interest to be rebated under the Rule of 78.
+			</section>
+		</section>
+		<section prefix="C">Payment anticipated between scheduled payment dates shall not be considered but instead the succeeding scheduled payment date shall be used in determining the amount of unearned interest to be rebated under the Rule of 78 pursuant to this section.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.86; 2010, c. 794.</history>
+</law>

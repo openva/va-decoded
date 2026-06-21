@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="23.1" level="1">Institutions of Higher Education; Other Educational and Cultural Institutions</unit>
+		<unit label="subtitle" identifier="II" level="2">Students and Campus</unit>
+		<unit label="chapter" identifier="8" level="3">Health and Campus Safety</unit>
+		<unit label="article" identifier="1" level="4">Student Health</unit>
+	</structure>
+	<section_number>23.1-802.1</section_number>
+	<catch_line>Student identification cards; 988 Suicide and Crisis Lifeline; emergency services website page and telephone numbers</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Digital student identification card" means a digital identification or digital wallet issued by a public institution of higher education to identify and authenticate a student's status or information.
+			"Emergency services website page" means the website page required to be maintained by each public institution of higher education pursuant to subsection D.
+			"Physical student identification card" means a tangible, non-digital card or document issued by a public institution of higher education to identify and authenticate a student's status or information.
+			"QR code" means a two-dimensional matrix barcode consisting of blocks arranged in a grid that can be read by an imaging device.
+			"URL" means Uniform Resource Locator.
+		</section>
+		<section prefix="B">Each public institution of higher education that issues physical student identification cards shall print on one side of each student identification card "988 Suicide and Crisis Lifeline" and the URL of its emergency services website page. Each public institution of higher education may print on one side of each student identification card a QR code that directs to such URL. Each such public institution of higher education shall also:
+			<section prefix="1">Ensure that "988 Suicide and Crisis Lifeline" is clearly printed and conspicuously labeled on each physical student identification card; and
+			</section>
+			<section prefix="2">Annually review the telephone number for the 988 Suicide and Crisis Lifeline included on each physical student identification card to ensure that such contact information is accurate and current.
+			</section>
+		</section>
+		<section prefix="C">Each public institution of higher education that issues digital student identification cards shall include alongside other student resources on such cards "988 Suicide and Crisis Lifeline" and the URL of its emergency services website page. Each such public institution of higher education shall also annually review the telephone number for the 988 Suicide and Crisis Lifeline included on each digital student identification card to ensure that such contact information is accurate and current.
+		</section>
+		<section prefix="D">Each public institution of higher education shall maintain and annually update as necessary to ensure accuracy and currency a website page that includes telephone numbers for the following emergency services:
+			<section prefix="1">The law enforcement, fire department, and emergency medical services applicable to the geographical area in which such institution is located;
+			</section>
+			<section prefix="2">The institution's campus police department, any additional security departments or services available on campus pursuant to § 23.1-818, and any emergency medical services or student health departments available on campus; and
+			</section>
+			<section prefix="3">The sexual assault crisis center or victim support service with which such institution entered into a memorandum of understanding pursuant to § 23.1-807 and the National Sexual Assault Hotline.
+			</section>
+		</section>
+	</text>
+	<history>2023, c. 223; 2024, c. 176.</history>
+</law>

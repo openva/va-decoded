@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="23" level="2">Legal Services Insurance</unit>
+	</structure>
+	<section_number>38.2-2300</section_number>
+	<catch_line>Conditions; permitted contracts; approval</catch_line>
+	<text>
+		<section prefix="A">Legal services insurance may be offered in this Commonwealth subject to the following conditions:
+			<section prefix="1">Premium rates shall be made in accordance with Chapter 19 (§ 38.2-1900 et seq.) of this title.
+			</section>
+			<section prefix="2">No policy of legal services insurance may be delivered or issued for delivery in this Commonwealth unless it contains a provision that the insurer shall issue to the person in whose name the policy is issued, for delivery to each insured, a certificate summarizing the essential features of the insurance coverage and to whom benefits under the policy are payable. If dependents are included in the coverage, only one certificate need be issued for each family unit.
+			</section>
+		</section>
+		<section prefix="B">An insurer authorized to transact legal services insurance in this Commonwealth may, in connection with the implementation and operation of any legal services insurance program, contract with any person that offers and manages a group legal services insurance plan, including a state, city, county, or circuit bar association; or any person permitted to practice law in this Commonwealth.
+		</section>
+		<section prefix="C">The Commission shall not approve any legal services insurance contract if, after providing notice and opportunity to be heard, the Commission finds that the contract violates any law of this Commonwealth.
+		</section>
+	</text>
+	<history>1976, c. 636, § 38.1-389.4; 1986, c. 562.</history>
+</law>

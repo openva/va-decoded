@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3" level="2">Protection of Employees</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>40.1-28.7:11</section_number>
+	<catch_line>Veterans benefits and services poster</catch_line>
+	<text>
+		<section prefix="A">The Department shall, in consultation with the Department of Veterans Services, create and make available to all employers in the Commonwealth a poster describing benefits and services available to veterans. The poster shall, at a minimum, include information about the following benefits and services:
+			<section prefix="1">Department of Veterans Services' programs, contact information, and website address;
+			</section>
+			<section prefix="2">Substance abuse and mental health treatment services;
+			</section>
+			<section prefix="3">Educational, workforce, and training resources;
+			</section>
+			<section prefix="4">Tax benefits;
+			</section>
+			<section prefix="5">Eligibility for unemployment insurance benefits under state or federal law;
+			</section>
+			<section prefix="6">Legal services; and
+			</section>
+			<section prefix="7">The U.S. Department of Veterans Affairs Veterans Crisis Line.
+			</section>
+		</section>
+		<section prefix="B">Any employer in the Commonwealth may request from the Department and display the poster in the same location where other employee notices required by state or federal law are posted.
+		</section>
+	</text>
+	<history>2024, c. 430.</history>
+</law>

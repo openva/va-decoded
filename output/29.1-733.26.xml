@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="29.1" level="1">Wildlife, Inland Fisheries and Boating</unit>
+		<unit label="chapter" identifier="7" level="2">Boating Laws</unit>
+		<unit label="article" identifier="2.1" level="3">Virginia Uniform Certificate of Title for Watercraft Act</unit>
+	</structure>
+	<section_number>29.1-733.26</section_number>
+	<catch_line>Duties and operation of the Department</catch_line>
+	<text>
+		<section prefix="A">The Department shall retain the evidence used to establish the accuracy of the information in its files relating to the current ownership of a watercraft and the information on the certificate of title.
+		</section>
+		<section prefix="B">The Department shall retain in its files all information regarding a security interest in a watercraft for at least 10 years after the Department receives a termination statement regarding the security interest. The information shall be accessible by the hull identification number for the watercraft and any other methods provided by the Department.
+		</section>
+		<section prefix="C">If a person submits a record to the Department, or submits information that is accepted by the Department, and requests an acknowledgment of the filing or submission, the Department shall send to the person an acknowledgment showing the hull identification number of the watercraft to which the record or submission relates, the information in the filed record or submission, and the date and time the record was received or the submission accepted. A request under this section shall contain the hull identification number and be delivered by means authorized by the Department.
+		</section>
+		<section prefix="D">The Department shall send or otherwise make available in a record the following information to any person that requests it and pays the applicable fee:
+			<section prefix="1">Whether the files of the Department indicate, as of a date and time specified by the Department, but not a date earlier than three days before the Department received the request, any certificate of title, security interest, termination statement, or title brand that relates to a watercraft:
+				a. Identified by a hull identification number designated in the request;
+				b. Identified by a registration number designated in the request; or
+				c. Owned by a person designated in the request;
+			</section>
+			<section prefix="2">With respect to the watercraft:
+				a. The name and address of any owner as indicated in the files of the Department or on the certificate of title;
+				b. The name and address of any secured party as indicated in the files of the Department or on the certificate, and the effective date of the information; and
+				c. A copy of any termination statement indicated in the files of the Department and the effective date of the termination statement; and
+			</section>
+			<section prefix="3">With respect to the watercraft, a copy of any certificate of origin, secured party transfer statement, transfer by law statement under § 29.1-733.20, and other evidence of previous or current transfers of ownership.
+			</section>
+		</section>
+		<section prefix="E">In responding to a request under this section, the Department shall provide the requested information in any medium. On request, the Department shall send the requested information in a record that is self-authenticating.
+		</section>
+		<section prefix="F">Employees of the Department are authorized to administer oaths and take acknowledgments and affidavits incidental to the administration and enforcement of this article. They shall receive no compensation for these services.
+		</section>
+	</text>
+	<history>2013, c. 787.</history>
+</law>

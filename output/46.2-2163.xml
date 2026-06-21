@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="21" level="3">Regulation of Property Carriers</unit>
+		<unit label="article" identifier="4" level="4">Household Goods Carriers</unit>
+	</structure>
+	<section_number>46.2-2163</section_number>
+	<catch_line>Determination of weights by certified scales</catch_line>
+	<text>
+		<section prefix="A">Each household goods carrier shall determine the tare weight of each vehicle used by having it weighed prior to, if practicable, the loading of each shipment under the following conditions:
+			<section prefix="1">By a certified weighmaster or on a certified scale, and
+			</section>
+			<section prefix="2">The vehicle shall contain all pads, chains, dollies, handtrucks and other equipment needed in the transportation of shipments to be loaded thereon.
+			</section>
+		</section>
+		<section prefix="B">After the vehicle has been loaded it shall be weighed under the following conditions:
+			<section prefix="1">At the certified scale nearest to the point of origin of the shipment, if practicable, and
+			</section>
+			<section prefix="2">The vehicle shall contain all pads, chains, dollies, handtrucks and other equipment needed in the transportation of shipments to be loaded thereon.
+			</section>
+		</section>
+		<section prefix="C">The net weight of the shipment shall be determined by deducting the tare weight from the gross weight and such weight shall be entered on the bill of lading.
+		</section>
+		<section prefix="D">Where no certified scale is available at the point of origin, the gross weight shall be obtained at the nearest certified scale either in the direction of the movement of the shipment or in the direction of the next pick-up or delivery in the case of partial loads.
+			In the transportation of partial loads, this section shall apply in all respects, except that the gross weight of a vehicle containing one or more partial loads shall be used as the tare weight of such vehicle as to partial loads subsequently loaded thereon.
+		</section>
+		<section prefix="E">The person paying the freight charges, or his representative upon request of either, shall be permitted without charge to accompany, in his own conveyance, the carrier to the weighing station and to observe the weighing of his shipment after loading.
+			The carrier shall use a certified scale that will permit the shipper to observe the weighing of his shipment without causing delay.
+		</section>
+		<section prefix="F">The provisions of this section shall not apply to bound or fixed estimates provided in accordance with the provisions of § 46.2-2161.
+		</section>
+	</text>
+	<history>2001, c. 596; 2006, c. 609.</history>
+</law>

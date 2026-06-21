@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="3" level="3">Industrial Life Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3350</section_number>
+	<catch_line>Settlement</catch_line>
+	<text>
+		Each industrial life insurance policy shall contain a provision that when a death claim arises under the policy, settlement shall be made within two months after receipt of due proof of death.
+	</text>
+	<history>Code 1950, § 38-434(9); 1952, c. 317, § 38.1-418; 1986, c. 562.</history>
+</law>

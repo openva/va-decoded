@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="10" level="3">Motor Vehicle and Equipment Safety</unit>
+		<unit label="article" identifier="4" level="4">Tires</unit>
+	</structure>
+	<section_number>46.2-1043.1</section_number>
+	<catch_line>Tire loading</catch_line>
+	<text>
+		No person shall operate for a commercial purpose a truck, trailer, or semitrailer with tires on any highway in the Commonwealth if any officer authorized to enforce overweight vehicle laws determines upon weighing such truck, trailer, or semitrailer that any such tire carries a weight greater than 125 percent of that marked on the sidewall of the tire.
+		The provisions of this section shall not apply to:
+		<section prefix="1">Any vehicle that is being operated under the terms of a permit issued under Article 18 (§ 46.2-1139 et seq.) and is being operated at a reduced speed as required by the permit to compensate for the tire loading in excess of the manufacturer's rated capacity for the tire;
+		</section>
+		<section prefix="2">Any vehicle having a gross vehicle weight rating of 26,001 pounds or more;
+		</section>
+		<section prefix="3">Any manufactured home; or
+		</section>
+		<section prefix="4">Any vehicle not required to be registered.
+		</section>
+	</text>
+	<history>2013, c. 430.</history>
+</law>

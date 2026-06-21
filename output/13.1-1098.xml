@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1098</section_number>
+	<catch_line>Service of process, notice, or demand</catch_line>
+	<text>
+		<section prefix="A">A protected series of a series limited liability company may be served with any process, notice, or demand required or permitted by law by:
+			<section prefix="1">Serving the series limited liability company that established the protected series;
+			</section>
+			<section prefix="2">Serving the registered agent of the protected series; or
+			</section>
+			<section prefix="3">Other means authorized by any law of the Commonwealth other than as specified in this article.
+			</section>
+		</section>
+		<section prefix="B">Service of process, notice, or demand on a series limited liability company is notice to each protected series of the series limited liability company of service of the process, notice, or demand and the contents thereof.
+		</section>
+		<section prefix="C">Service of process, notice, or demand on a protected series of a series limited liability company is notice to the series limited liability company and any other protected series of the series limited liability company of service of the process, notice, or demand and the contents thereof.
+		</section>
+		<section prefix="D">Service of process, notice, or demand on a foreign series limited liability company is notice to each foreign protected series of the foreign series limited liability company of the process, notice, or demand and the contents thereof.
+		</section>
+		<section prefix="E">Service of a process, notice, or demand on a foreign protected series of a foreign series limited liability company is notice to the foreign series limited liability company and any other foreign protected series of the foreign series limited liability company of service of the process, notice, or demand and the contents thereof.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

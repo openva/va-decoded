@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="7" level="3">Newborn Screening</unit>
+	</structure>
+	<section_number>32.1-67.1</section_number>
+	<catch_line>Confidentiality of records; prohibition of discrimination</catch_line>
+	<text>
+		The results of the newborn screening services conducted pursuant to this article may be used for research and collective statistical purposes. No publication of research or statistical data shall be made that identifies any infant having a heritable or genetic disorder.
+		The Commissioner may authorize linkages between secure electronic data systems maintained by the Department of Health containing newborn screening records and the Virginia Immunization Information System (VIIS) operated pursuant to § 32.1-46.01. The Commissioner may authorize health care providers authorized to view VIIS to view the newborn screening records of individuals to whom the providers are providing health care services. The records may be made available until the child reaches seven years of age, after which the records shall not be made available through a linkage to VIIS. Such linkages shall be subject to all applicable state and federal privacy laws and regulations.
+	</text>
+	<history>1988, c. 97; 2005, cc. 717, 721; 2012, c. 147.</history>
+</law>

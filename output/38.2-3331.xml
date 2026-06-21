@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="2" level="3">Group Life Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3331</section_number>
+	<catch_line>Individual certificates</catch_line>
+	<text>
+		<section prefix="A">Each group life insurance policy shall contain a provision that the insurer will issue to the policyholder, for delivery to each person insured, an individual certificate setting forth:
+			<section prefix="1">The insured person's insurance protection, including any limitations, reductions and exclusions applicable to the coverage provided;
+			</section>
+			<section prefix="2">To whom the insurance benefits are payable; and
+			</section>
+			<section prefix="3">The rights and conditions set forth in §§ 38.2-3332, 38.2-3333 and 38.2-3334.
+			</section>
+		</section>
+		<section prefix="B">Each policy issued pursuant to § 38.2-3318.1 B, where any part of the premium is paid by the debtors or by the creditor from identifiable charges collected from the insured debtors not required of an uninsured debtor, shall contain a provision that the insurer will furnish to the policyholder for delivery to each debtor insured under the policy a form that will contain a statement that the life of the debtor is insured under the policy and that any death benefit paid under the policy by reason of his death shall be applied to reduce or extinguish the indebtedness.
+		</section>
+	</text>
+	<history>Code 1950, § 38-429(4); 1952, c. 317, § 38.1-428; 1960, c. 273, § 38.1-428.4; 1986, c. 562; 1998, c. 154.</history>
+</law>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="10" level="2">Heat, Light, Power, Water and Other Utility Companies Generally</unit>
+		<unit label="article" identifier="3" level="3">Powers of Commission in Relation to Service</unit>
+	</structure>
+	<section_number>56-248.1</section_number>
+	<catch_line>Commission to monitor fuel prices and utility fuel purchases; fuel price index</catch_line>
+	<text>
+		<section prefix="A">The Commission shall monitor all fuel purchases, transportation costs, and contracts for such purchases of a utility to ascertain that all feasible economies are being utilized. Subject to the provisions of § 56-234, the Commission shall allow natural gas utilities to include in their fuel portfolios supplemental or substitute forms of gas sources that meet the natural gas utility's pipeline quality gas standards and that reduce the emissions intensity of its fuel portfolio. A natural gas utility shall procure supplemental or substitute forms of gas sources utilizing standard industry practices and shall report to the Commission annually the imputed reduction in carbon dioxide equivalent resulting from such purchasing practices.
+		</section>
+		<section prefix="B">As used in this section:
+			"Biogas" means a mixture of hydrocarbons that is a gas at 60 degrees Fahrenheit and one atmosphere of pressure that is produced through the anaerobic digestion or thermal conversion of organic matter.
+			"Low-emission natural gas" means natural gas produced from a geologic source that has a methane intensity of 0.20 or less (i) as reported under a protocol approved by the federal Environmental Protection Agency's Gas STAR Methane Challenge, (ii) as certified by the United Nations Environment Programme's Oil and Gas Methane Partnership 2.0, or (iii) as validated under a Qualified Attribute Commodities Platform.
+			"Methane intensity" means the methane emissions assigned to natural gas on an energy basis divided by the total methane content of produced natural gas.
+			"Qualified Attribute Commodities Platform" means a trading mechanism for natural gas or natural gas attributes that are nonfinancial intangible commodities that represents, packages, and certifies the qualifying attributes of an amount of low-emission natural gas. A Qualified Attribute Commodities Platform provides validation by an independent third party, provides natural gas or natural gas attributes capable of bilateral or exchange contract trading pursuant to standardized contracts for physical delivery that reasonably eliminate validation risk, and provides transparency for audit and reporting purposes.
+			"Supplemental or substitute forms of gas sources" means (i) low-emission natural gas, (ii) biogas, or (iii) hydrogen.
+		</section>
+		<section prefix="C">In addition, the Commission shall establish a fuel price index in order to compare the prices paid for the various types of fuel by Virginia utilities with the average price of the various types of fuel paid by other public utilities at comparable geographic locations in the market.
+		</section>
+		<section prefix="D">This section shall not apply to telephone companies.
+		</section>
+	</text>
+	<history>1976, c. 507; 1982, c. 107; 2011, cc. 738, 740; 2022, cc. 728, 759.</history>
+</law>

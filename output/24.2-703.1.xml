@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="7" level="2">Absentee Voting</unit>
+	</structure>
+	<section_number>24.2-703.1</section_number>
+	<catch_line>Permanent absentee voter list</catch_line>
+	<text>
+		<section prefix="A">Any registered voter shall be eligible to file a special application to receive absentee ballots for all elections in which he is eligible to vote. Such application shall be on a form approved by the State Board. The absentee ballots sent to a voter on the permanent absentee voter list shall be sent to the address in the voter's registration record, except as provided in subdivision C 1.
+		</section>
+		<section prefix="B">In accordance with procedures established by the State Board, the general registrar shall retain the application, enroll the applicant on a permanent absentee voter list, and process the applicant's request for an absentee ballot for each succeeding election. The applicant shall specify by party designation the primary ballots he is requesting.
+		</section>
+		<section prefix="C">The State Board shall prescribe the process by which a voter on the permanent absentee voter list may:
+			<section prefix="1">Request that his absentee ballot for (i) a single election or (ii) a primary election and the following general election be sent to an address other than the address on his voter registration record.
+			</section>
+			<section prefix="2">Request a primary ballot for a political party other than the one he specified on his application for permanent absentee voter status for a single primary election.
+			</section>
+			<section prefix="3">Change his political party selection for all succeeding primary elections.
+			</section>
+		</section>
+		<section prefix="D">A voter shall be removed from the permanent absentee voter list if (i) the voter requests in writing to be removed from the list, (ii) the voter's registration is canceled pursuant to § 24.2-427, (iii) the voter's registration is placed on inactive status pursuant to § 24.2-428 or 24.2-428.1, or (iv) the voter moves to a different address not in the same county or city of his registration.
+		</section>
+	</text>
+	<history>2001, cc. 789, 850; 2008, c. 880; 2019, cc. 668, 669; 2020, cc. 1156, 1201.</history>
+</law>

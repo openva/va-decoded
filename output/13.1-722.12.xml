@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="12.2" level="3">Conversion</unit>
+	</structure>
+	<section_number>13.1-722.12</section_number>
+	<catch_line>Articles of conversion; effectiveness</catch_line>
+	<text>
+		<section prefix="A">After (i) a plan of conversion of a domestic corporation has been adopted and approved as required by this article or (ii) a domestic or foreign eligible entity that is the converting entity has approved a conversion as required under its organic law, or, if applicable, this article, articles of conversion shall be signed in the name of the converting entity. The articles of conversion shall set forth:
+			<section prefix="1">The name of the converting entity, its jurisdiction of formation, and entity type;
+			</section>
+			<section prefix="2">The original name, date of formation, jurisdiction of formation, and entity type of the converted entity and its name, jurisdiction of formation, and entity type upon each subsequent domestication or conversion;
+			</section>
+			<section prefix="3">If the converting entity is a domestic corporation:
+				a. The plan of conversion;
+				b. The date the plan of conversion was approved;
+				c. A statement that the plan of conversion was approved by the unanimous consent of the shareholders, or a statement that the plan was submitted by the board of directors to the shareholders in accordance with this chapter and was duly approved by the shareholders in the manner required by this chapter and by the articles of incorporation;
+			</section>
+			<section prefix="4">If the converted entity is a foreign eligible entity:
+				a. A statement that the corporation revokes the authority of its registered agent to accept service on its behalf and appoints the clerk of the Commission as an agent for service of process in any proceeding based on a cause of action arising during the time it was incorporated in the Commonwealth;
+				b. A mailing address to which the clerk may mail a copy of any process served on the clerk under subdivision a; and
+				c. A commitment by the converting entity to notify the clerk of the Commission in the future of any change in its mailing address after the conversion becomes effective.
+			</section>
+			<section prefix="5">If the converting entity is a foreign eligible entity and the converted entity is a domestic corporation, a statement that the conversion is permitted by and was approved in accordance with the organic law of the foreign eligible entity; and
+			</section>
+			<section prefix="6">If the converting entity is a domestic nonstock corporation, limited partnership, partnership, or business trust and the converted entity is a domestic corporation:
+				a. The plan of conversion;
+				b. The date the plan of conversion was approved; and
+				c. A statement that the plan of conversion was approved in accordance with this chapter.
+			</section>
+		</section>
+		<section prefix="B">The articles of conversion shall be delivered to the Commission for filing. If the Commission finds that the articles of conversion comply with the requirements of law and that all required fees have been paid, it shall issue a certificate of conversion.
+		</section>
+		<section prefix="C">Articles of conversion under this section may be combined with any required conversion filing under the organic law of a domestic eligible entity or a foreign eligible entity that is authorized or registered to transact business in the Commonwealth that is the converting entity or converted entity if the combined filing satisfies the requirements of both this section and the other organic law.
+		</section>
+	</text>
+	<history>2001, c. 545; 2002, c. 1; 2003, c. 598; 2015, c. 623; 2016, c. 288; 2019, c. 734; 2020, c. 1226.</history>
+</law>

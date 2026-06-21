@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="5.1" level="1">Aviation</unit>
+		<unit label="chapter" identifier="9" level="2">Air Carriers</unit>
+		<unit label="article" identifier="9" level="3">Miscellaneous</unit>
+	</structure>
+	<section_number>5.1-146</section_number>
+	<catch_line>Violations and penalties</catch_line>
+	<text>
+		<section prefix="a">Any person knowingly and willfully violating any provision of this chapter, or any rule, regulation, requirement, or order thereunder for which a penalty is not otherwise herein provided, shall, after proper proceeding before the Commission, and upon conviction thereof, be fined not more than $100 for the first offense and not more than $500 for any subsequent offense. Each day of such violation shall constitute a separate offense.
+		</section>
+		<section prefix="b">Any person, whether carrier, shipper, consignee, or broker, or any officer, employee, agent, or representative thereof, who shall knowingly offer, grant, or give, or solicit, accept, or receive any rebate, concession, or discrimination in violation of any provision of this chapter, or who, by means of any false statement or representation, or by the use of any false or fictitious bill, bill of lading, receipt, voucher, roll, account, claim, certificate, affidavit, deposition, lease, or bill of sale or by any other means or device, shall knowingly and willfully assist, suffer or permit any person, natural or artificial, to obtain transportation of passengers or property subject to this chapter for less than the applicable rate, fare, or charge, or who shall knowingly and willfully by any such means or otherwise fraudulently seek to evade or defeat regulation as in this chapter provided for air carriers or brokers, shall be deemed guilty of a misdemeanor and upon conviction thereof be fined not more than $500 for the first offense and not more than $2,000 for any subsequent offense.
+		</section>
+		<section prefix="c">Any air carrier, or broker, or any officer, agent, employee, or representative thereof who shall willfully fail or refuse to make a report to the Commission as required by this chapter, or to keep accounts, records and memoranda in the form and manner approved or prescribed by the Commission, or shall knowingly and willfully falsify, destroy, mutilate, or alter any such report, account, record, or memorandum, or shall knowingly and willfully file any false report, account, record, or memorandum, shall, after proper proceeding before the Commission and upon conviction thereof, be subject for each offense to a fine of not less than $100 and not more than $5,000.
+		</section>
+	</text>
+	<history>Code 1950, § 56-201; 1970, c. 708.</history>
+</law>

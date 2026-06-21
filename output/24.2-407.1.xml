@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="2" level="3">Virginia Voter Registration System</unit>
+	</structure>
+	<section_number>24.2-407.1</section_number>
+	<catch_line>Prohibition on disclosure of social security numbers or parts thereof</catch_line>
+	<text>
+		It shall be unlawful for any person who has obtained, under § 24.2-405 or 24.2-406 or any prior law, a list of persons registered or voting which contained social security numbers, or any parts thereof, to disclose any voter's social security number, or any part thereof, to any other person. Any person maintaining a system containing social security numbers, or any parts thereof, obtained from the Board or the Department of Elections shall delete or destroy the portion of his records containing those numbers, except for a list furnished to a court of the Commonwealth or of the United States for jury selection purposes, a commissioner of the revenue, as defined in § 58.1-3100, or a treasurer, as defined in § 58.1-3123, for tax assessment, collection, and enforcement purposes, or the Chief Election Officer of another state, permitted to use social security numbers, or any parts thereof, that provides for the use of such numbers on applications for voter registration in accordance with federal law, for the purpose of matching voter registration lists.
+	</text>
+	<history>1994, c. 656; 2007, c. 318; 2010, c. 452; 2015, c. 712.</history>
+</law>

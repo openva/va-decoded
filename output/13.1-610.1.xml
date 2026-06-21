@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>13.1-610.1</section_number>
+	<catch_line>Householding</catch_line>
+	<text>
+		<section prefix="A">A corporation shall be deemed to have delivered written notice or any other report or statement under this chapter, the articles of incorporation or the bylaws to all shareholders who share a common address as shown on the corporation's current record of shareholders if:
+			<section prefix="1">The corporation delivers one copy of the notice, report or statement to the common address;
+			</section>
+			<section prefix="2">The corporation addresses the notice, report or statement to those shareholders either as a group or to each of those shareholders individually or to the shareholders in a form to which each of those shareholders has consented; and
+			</section>
+			<section prefix="3">Each of those shareholders consents, including any implied consent pursuant to subsection B, to delivery of a single copy of such notice, report or statement to the shareholders' common address.
+			</section>
+		</section>
+		<section prefix="B">Any shareholder who fails to object by written notice to the corporation, within 60 days of written notice by the corporation of its intention to deliver single copies of notices, reports, or statements to shareholders who share a common address as permitted by subsection A, shall be deemed to have consented to receiving such single copy at the common address, provided that the notice of intention states that consent may be revoked and the method for revoking such consent.
+		</section>
+		<section prefix="C">Any consent pursuant to this section shall be revocable by any shareholder who delivers written notice of revocation to the corporation. If such written notice of revocation is delivered, the corporation shall begin providing individual notices, reports, or other statements to the revoking shareholder no later than 30 days after delivery of the written notice of revocation.
+		</section>
+	</text>
+	<history>2007, c. 165; 2019, c. 734.</history>
+</law>

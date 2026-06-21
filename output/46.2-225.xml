@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions; Department of Motor Vehicles</unit>
+		<unit label="chapter" identifier="2" level="3">Department of Motor Vehicles</unit>
+		<unit label="article" identifier="3" level="4">Electronic Credentials Act</unit>
+	</structure>
+	<section_number>46.2-225</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article, unless the context requires a different meaning:
+		"Data field" means a piece of information that appears on a physical credential, electronic credential, or profile.
+		"Display requirement" means a provision within the Code of Virginia, the Virginia Administrative Code, or a local ordinance or regulation that requires the display or possession of a physical credential to do an act, identify a person or piece of personal property, or show entitlement to a right or privilege.
+		"Electronic credential" means an electronic method by which a person may display or transmit to another person information that verifies a person's identity, identifies personal property, or serves as evidence of the right of a person to do, or to use personal property to do, an act.
+		"Electronic credential system" means a computer system accessed by a person using a computer, cellular telephone, or other electronic device and used to display or transmit electronic credentials to other persons or to a verification system.
+		"Physical credential" means a document issued by an agency of the Commonwealth, another state of the United States, the District of Columbia, the United States, a foreign country, or a political subdivision of a foreign country that is issued in a physical format, such as paper or plastic, and that identifies the holder, identifies a piece of personal property, or grants the holder the permission to do, or to use property to do, an act.
+		"Profile" means an electronic credential created by the Department that displays a different set of data fields than are displayed on the physical credential.
+		"Third-party electronic credential system" means an electronic credential system that is not maintained by the Department or by an agent of the Department on its behalf. "Third-party electronic credential system" may include an electronic wallet.
+		"Verification system" means a computer system operated by the Department or its agent on its behalf that is made available to persons who are presented with electronic credentials for the purpose of verifying the authenticity and validity of electronic credentials issued by the Department or by other government agencies or jurisdictions.
+	</text>
+	<history>2017, c. 697.</history>
+</law>

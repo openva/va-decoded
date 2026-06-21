@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="22.1" level="2">Enforcement of Forfeitures</unit>
+	</structure>
+	<section_number>19.2-386.10</section_number>
+	<catch_line>Forfeiture; default judgment; remission; trial</catch_line>
+	<text>
+		<section prefix="A">A party defendant who fails to appear as provided in § 19.2-386.9 shall be in default. The forfeiture shall be deemed established as to the interest of any party in default upon entry of judgment as provided in § 19.2-386.11. Within 21 days after entry of judgment, any party defendant against whom judgment has been so entered may petition the Department of Criminal Justice Services for remission of his interest in the forfeited property. For good cause shown and upon proof by a preponderance of the evidence that the party defendant's interest in the property is exempt under subdivision 2, 3, or 4 of § 19.2-386.8, the Department of Criminal Justice Services shall grant the petition and direct the state treasury to either (i) remit to the party defendant an amount not exceeding the party defendant's interest in the proceeds of sale of the forfeited property after deducting expenses incurred and payable pursuant to subsection B of § 19.2-386.12 or (ii) convey clear and absolute title to the forfeited property in extinguishment of such interest.
+			If any party defendant appears in accordance with § 19.2-386.9, the court shall proceed to trial of the case, unless trial by jury is demanded by the Commonwealth or any party defendant. At trial, the Commonwealth has the burden of proving by clear and convincing evidence that the property is subject to forfeiture under this chapter. Upon such a showing by the Commonwealth, the claimant has the burden of proving by a preponderance of the evidence that the claimant's interest in the property is exempt under subdivision 2, 3, or 4 of § 19.2-386.8.
+		</section>
+		<section prefix="B">The information and trial thereon shall be independent of any criminal proceeding against any party or other person for violation of law.
+		</section>
+	</text>
+	<history>1989, c. 690; 1991, c. 560; 2016, cc. 203, 423, 664; 2020, c. 1000.</history>
+</law>

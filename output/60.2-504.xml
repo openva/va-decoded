@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Taxation</unit>
+		<unit label="article" identifier="1" level="3">Employer Taxation</unit>
+	</structure>
+	<section_number>60.2-504</section_number>
+	<catch_line>Allocation of benefit costs</catch_line>
+	<text>
+		If benefits paid to an individual are based on wages paid by more than one employer and one or more of such employers are liable for payments in lieu of taxes, the amount payable to the fund by each employer that is liable for such payments shall be an amount which bears the same ratio to the total benefits paid to the individual as the total base period wages paid to the individual by such employer bear to the total base period wages paid to the individual by all of his base period employers.
+	</text>
+	<history>1974, c. 466, § 60.1-89; 1981, cc. 248, 252; 1986, c. 480.</history>
+</law>

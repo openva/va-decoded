@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="9.1" level="3">Registered Limited Liability Partnerships</unit>
+	</structure>
+	<section_number>50-73.137:1</section_number>
+	<catch_line>Effect of cancellation of limited partnership certificate or registration</catch_line>
+	<text>
+		<section prefix="A">Whenever the certificate of limited partnership of a domestic limited partnership that is registered as a registered limited liability partnership is canceled, the limited partnership's registration as a registered limited liability partnership shall thereupon be automatically canceled unless the certificate of limited partnership was canceled pursuant to a conversion to a partnership under § 50-73.126.
+		</section>
+		<section prefix="B">Whenever the certificate of registration to transact business in this Commonwealth of a foreign limited partnership that is registered as a foreign registered limited liability partnership is canceled, the foreign limited partnership's registration as a foreign registered limited liability partnership shall thereupon be automatically canceled.
+		</section>
+		<section prefix="C">A registered limited liability partnership or foreign registered limited liability partnership that has ceased to be a registered limited liability partnership or a foreign registered limited liability partnership under subsection A or B may restore its status as such by complying with the requirements of subsection E of § 50-73.134.
+		</section>
+	</text>
+	<history>2003, c. 378; 2004, c. 601; 2009, c. 716.</history>
+</law>

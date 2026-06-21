@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="6" level="3">Transfers Without Qualification</unit>
+		<unit label="article" identifier="1" level="4">Virginia Small Estate Act</unit>
+	</structure>
+	<section_number>64.2-602</section_number>
+	<catch_line>Payment or delivery of small asset valued at $35,000 or less without affidavit</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding the provisions of § 64.2-601, any person having possession of a small asset valued at $35,000 or less may pay or deliver the small asset to any successor provided that:
+			<section prefix="1">At least 60 days have elapsed since the decedent's death; and
+			</section>
+			<section prefix="2">No application for the appointment of a personal representative is pending or has been granted in any jurisdiction.
+			</section>
+		</section>
+		<section prefix="B">The designated successor shall have a fiduciary duty to safeguard and promptly pay or deliver the small asset as required by the laws of the Commonwealth to the other successors, if any.
+		</section>
+	</text>
+	<history>1981, c. 281, § 64.1-132.3; 2010, c. 269; 2012, c. 614; 2014, c. 532; 2025, c. 148.</history>
+</law>

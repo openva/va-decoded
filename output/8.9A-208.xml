@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="2" level="2">Effectiveness of Security Agreement; Attachment of Security Interest; Rights of Parties to Security Agreement</unit>
+		<unit label="subpart" identifier="2" level="3">Rights and Duties</unit>
+	</structure>
+	<section_number>8.9A-208</section_number>
+	<catch_line>Additional duties of secured party having control of collateral</catch_line>
+	<text>
+		<section prefix="a">Applicability of section. This section applies to cases in which there is no outstanding secured obligation and the secured party is not committed to make advances, incur obligations, or otherwise give value.
+		</section>
+		<section prefix="b">Duties of secured party after receiving demand from debtor. Within 10 days after receiving a signed demand by the debtor:
+			<section prefix="1">a secured party having control of a deposit account under § 8.9A-104 (a) (2) shall send to the bank with which the deposit account is maintained a signed record that releases the bank from any further obligation to comply with instructions originated by the secured party;
+			</section>
+			<section prefix="2">a secured party having control of a deposit account under § 8.9A-104 (a) (3) shall:
+			</section>
+		</section>
+		<section prefix="A">pay the debtor the balance on deposit in the deposit account; or
+		</section>
+		<section prefix="B">transfer the balance on deposit into a deposit account in the debtor's name;
+			<section prefix="3">a secured party, other than a buyer, having control  under § 8.9A-105 of an authoritative electronic copy of a record evidencing chattel paper shall transfer control of the electronic copy to a debtor or a person designated by the debtor;
+			</section>
+			<section prefix="4">a secured party having control of investment property under § 8.8A-106 (d) (2) or § 8.9A-106 (b) shall send to the securities intermediary or commodity intermediary with which the security entitlement or commodity contract is maintained a signed record that releases the securities intermediary or commodity intermediary from any further obligation to comply with entitlement orders or directions originated by the secured party;
+			</section>
+			<section prefix="5">a secured party having control of a letter-of-credit right under § 8.9A-107 shall send to each person having an unfulfilled obligation to pay or deliver proceeds of the letter of credit to the secured party a signed release from any further obligation to pay or deliver proceeds of the letter of credit to the secured party;
+			</section>
+			<section prefix="6">a secured party having control  under § 8.7-106 of an authoritative electronic copy of an electronic document of title shall transfer control of the electronic copy to the debtor or a person designated by the debtor;
+			</section>
+			<section prefix="7">a secured party having control under § 8.9A-105.1 of electronic money shall transfer control of the electronic money to the debtor or a person designated by the debtor; and
+			</section>
+			<section prefix="8">a secured party having control under § 8.12-105 of a controllable electronic record, other than a buyer of a controllable account or controllable payment intangible evidenced by the controllable electronic record, shall transfer control of the controllable electronic record to the debtor or a person designated by the debtor.
+			</section>
+		</section>
+	</text>
+	<history>2000, c. 1007; 2004, c. 200; 2024, c. 652.</history>
+</law>

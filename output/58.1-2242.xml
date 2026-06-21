@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="4" level="4">Payment and Reporting of Tax on Motor Fuel</unit>
+	</structure>
+	<section_number>58.1-2242</section_number>
+	<catch_line>Return of distributors and certain other licensees; exports</catch_line>
+	<text>
+		<section prefix="A">A distributor or any other licensee required to make monthly reports who exports motor fuel from a bulk plant located in Virginia shall file a monthly return with the Commissioner identifying the exports. The return is due by the twentieth day of the second month following the month covered by the return. The return shall serve as a claim for a refund by the distributor or such other licensee for tax paid to the Commonwealth on the exported motor fuel.
+		</section>
+		<section prefix="B">The return shall contain the following information and any other information required by the Commissioner:
+			<section prefix="1">The number of gallons of motor fuel exported during the month;
+			</section>
+			<section prefix="2">The destination state of the motor fuel exported during the month; and
+			</section>
+			<section prefix="3">A certification that the distributor or such other licensee has paid to the destination state of the motor fuel exported during the month, or will timely pay, the amount of tax due that state on the fuel.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 729, 758; 2003, c. 781.</history>
+</law>

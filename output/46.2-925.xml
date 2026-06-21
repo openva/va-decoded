@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="8" level="3">Regulation of Traffic</unit>
+		<unit label="article" identifier="16" level="4">Pedestrians</unit>
+	</structure>
+	<section_number>46.2-925</section_number>
+	<catch_line>Pedestrian control signals</catch_line>
+	<text>
+		Whenever pedestrian control signals exhibiting the words, numbers, or symbols meaning "Walk" or "Don't Walk" are in place such signals shall indicate and apply to pedestrians as follows:
+		Walk. --Pedestrians facing such signal may proceed across the highway in the direction of the signal and shall be given the right-of-way by the drivers of all vehicles.
+		Don't Walk. --No pedestrian shall start to cross the highway in the direction of such signal, but any pedestrian who has partially completed his crossing on the Walk signal shall proceed to a sidewalk or safety island and remain there while the Don't Walk signal is showing.
+	</text>
+	<history>1974, c. 347, § 46.1-231.1; 1989, c. 727; 2008, c. 451.</history>
+</law>

@@ -33,7 +33,7 @@ set_include_path( get_include_path() . PATH_SEPARATOR . INCLUDE_PATH . 'plugins/
 /*
  * What is the title of the website?
  */
-define('SITE_TITLE', 'The State Decoded');
+define('SITE_TITLE', 'Virginia Decoded');
 
 /*
  * Set the main site url.
@@ -72,12 +72,12 @@ define('SITE_URL', $url);
 /*
  * What is the name of the place that these laws govern?
  */
-define('PLACE_NAME', 'State');
+define('PLACE_NAME', 'Virginia');
 
 /*
  * What does this place call its laws?
  */
-define('LAWS_NAME', 'Code of State');
+define('LAWS_NAME', 'Code of Virginia');
 
 /*
  * What is the prefix that indicates a section? In many states, this is §, but in others it might be
@@ -103,7 +103,7 @@ define('IMPORT_MEMORY_LIMIT', '128M');
 /*
  * The file in the /includes/ directory that contains functions custom to this installation.
  */
-define('CUSTOM_FUNCTIONS', 'class.State-sample.inc.php');
+define('CUSTOM_FUNCTIONS', 'class.Virginia.inc.php');
 
 /*
  * The directory in which templates are stored.
@@ -185,7 +185,7 @@ define('SECTION_REGEX', '/([[0-9]{1,})([0-9A-Za-z\-\.]{0,3})-([0-9A-Za-z\-\.:]*)
  * When there is cause to send an e-mail (e.g., API registration), what "From" address should be
  * used? And what name should appear in the "From" field?
  */
-define('EMAIL_ADDRESS', '');
+define('EMAIL_ADDRESS', 'jaquith@gmail.com');
 define('EMAIL_NAME', SITE_TITLE);
 
 /*

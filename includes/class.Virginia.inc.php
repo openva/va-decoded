@@ -270,6 +270,11 @@ class State
 	function get_court_decisions()
 	{
 
+		if (!defined('COURTLISTENER_USERNAME') || !defined('COURTLISTENER_PASSWORD'))
+		{
+			return false;
+		}
+
 		//  We need a section number in order to search for court decisions that cite that law.
 		if (!isset($this->section_number))
 		{

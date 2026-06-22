@@ -72,8 +72,8 @@ class State
 			$text .= '<p>This law was first created in '.$created->year.'. ';
 			if ($created->year >= 1994)
 			{
-				$link = 'http://leg1.state.va.us/cgi-bin/legp504.exe?'.$year.'1+ful+CHAP'
-					.str_pad($chapter, 4, '0', STR_PAD_LEFT);
+				$link = 'http://leg1.state.va.us/cgi-bin/legp504.exe?'.$created->year.'1+ful+CHAP'
+					.str_pad($created->chapter, 4, '0', STR_PAD_LEFT);
 				$text .= ' The record of its establishment is cataloged in <a href="'
 					.$link.'">chapter '.$created->chapter.'</a> of that year’s edition of “Acts of
 					Assembly,” the annual state publication listing all changes made to the Code of
@@ -1713,7 +1713,7 @@ class Parser
 		unset($references);
 		unset($dictionary);
 		unset($definitions);
-		unset($chapter);
+
 		unset($sections);
 		unset($query);
 	}

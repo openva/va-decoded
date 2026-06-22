@@ -11,8 +11,8 @@
  * @since		0.3
 */
 
-require_once(INCLUDE_PATH . 'class.Edition.inc.php');
-require_once(INCLUDE_PATH . 'class.Permalink.inc.php');
+require_once INCLUDE_PATH . 'class.Edition.inc.php';
+require_once INCLUDE_PATH . 'class.Permalink.inc.php';
 
 /**
  * This class may be populated with custom functions.
@@ -32,7 +32,7 @@ class State
 
 		if (!isset($this->section_number))
 		{
-			return FALSE;
+			return false;
 		}
 		
 		$url = 'https://law.lis.virginia.gov/vacode/' . $this->section_number . '/';
@@ -52,14 +52,14 @@ class State
 	/**
 	 * Render the often-confusing history text for a law as plain English.
 	 *
-	 * @return the history text or false
+	 * @return string or bool false
 	 */
 	function translate_history()
 	{
 		
 		if (!isset($this->history) || empty($this->history))
 		{
-			return FALSE;
+			return false;
 		}
 
 		$text = '';
@@ -222,7 +222,7 @@ class State
 		 */
 		if (!isset($this->section_number))
 		{
-			return FALSE;
+			return false;
 		}
 		
 		/*
@@ -230,22 +230,22 @@ class State
 		 */
 		$json = fetch_url('https://api.richmondsunlight.com/1.1/bysection/' . $this->section_number
 			. '.json');
-		if ($json !== FALSE)
+		if ($json !== false)
 		{
 			
 			$bills = json_decode($json);
 			
 			if (isset($bills->error))
 			{
-				return FALSE;
+				return false;
 			}
 			
 			$this->bills = $bills;
-			return TRUE;
+			return true;
 			
 		}
 		
-		return FALSE;
+		return false;
 
 	} // end get_amendment_attempts()
 	
@@ -273,7 +273,7 @@ class State
 		//  We need a section number in order to search for court decisions that cite that law.
 		if (!isset($this->section_number))
 		{
-			return FALSE;
+			return false;
 		}
 
 		// Assemble the URL for our query to the CourtListener API.
@@ -294,18 +294,18 @@ class State
 		$json = curl_exec($ch);
 
 		// If the query failed.
-		if ($json == FALSE)
+		if ($json == false)
 		{
-			return FALSE;
+			return false;
 		}
 
 		// Turn this JSON into an object.
 		$cl_list = json_decode($json);
 
 		// If the JSON is invalid.
-		if ($cl_list == FALSE)
+		if ($cl_list == false)
 		{
-			return FALSE;
+			return false;
 		}
 
 		// If no results were found, save an empty variable. In this way we cache a lack of court
@@ -590,7 +590,7 @@ class Parser
 			/*
 			 * If we can't convert to XML, try cleaning the data first.
 			 */
-			if (class_exists('tidy', FALSE))
+			if (class_exists('tidy', false))
 			{
 
 				$tidy_config = array('input-xml' => TRUE);
@@ -641,7 +641,7 @@ class Parser
 		 */
 		if (!isset($this->section))
 		{
-			return FALSE;
+			return false;
 		}
 
 		/*
@@ -683,7 +683,7 @@ class Parser
 					{
 						$value = 'y';
 					}
-					elseif ($value == 'true')
+					elseif ($value == 'false')
 					{
 						$value = 'n';
 					}
@@ -779,7 +779,7 @@ class Parser
 
 		}
 
-		return TRUE;
+		return true;
 	}
 
 	/**
@@ -1155,7 +1155,7 @@ class Parser
 	{
 		if ( !isset($sections) || !isset($this->code) )
 		{
-			return FALSE;
+			return false;
 		}
 
 		foreach($sections as $key=>$section) {
@@ -1275,7 +1275,7 @@ class Parser
 			}
 		}
 
-		return TRUE;
+		return true;
 
 	}
 
@@ -1426,7 +1426,7 @@ class Parser
 		$statement = $this->db->prepare($sql);
 		$result = $statement->execute($sql_args);
 
-		if ($result === FALSE)
+		if ($result === false)
 		{
 			echo '<p>Failure: ' . $sql . '</p>';
 			var_dump($sql_args);
@@ -1493,7 +1493,7 @@ class Parser
 				);
 				$result = $statement->execute($sql_args);
 
-				if ($result === FALSE)
+				if ($result === false)
 				{
 					echo '<p>Failure: '.$sql.'</p>';
 				}
@@ -1523,7 +1523,7 @@ class Parser
 				);
 				$result = $statement->execute($sql_args);
 
-				if ($result === FALSE)
+				if ($result === false)
 				{
 					echo '<p>Failure: '.$sql.'</p>';
 					var_dump($sql_args);
@@ -1570,7 +1570,7 @@ class Parser
 			$statement = $this->db->prepare($sql);
 			$result = $statement->execute($sql_args);
 
-			if ($result === FALSE)
+			if ($result === false)
 			{
 				echo '<p>Failure: '.$sql.'</p>';
 			}
@@ -1610,7 +1610,7 @@ class Parser
 					$statement = $this->db->prepare($sql);
 					$result = $statement->execute($sql_args);
 
-					if ($result === FALSE)
+					if ($result === false)
 					{
 						echo '<p>Failure: ' . $sql . '</p>';
 					}
@@ -1674,7 +1674,7 @@ class Parser
 		/*
 		 * If any definitions were found in this text, store them.
 		 */
-		if ($definitions !== FALSE)
+		if ($definitions !== false)
 		{
 
 			/*
@@ -1723,7 +1723,7 @@ class Parser
 
 		if (!isset($this->identifier))
 		{
-			return FALSE;
+			return false;
 		}
 
 		/*
@@ -1755,9 +1755,9 @@ class Parser
 		$statement = $this->db->prepare($sql);
 		$result = $statement->execute($sql_args);
 
-		if ( ($result === FALSE) || ($statement->rowCount() === 0) )
+		if ( ($result === false) || ($statement->rowCount() === 0) )
 		{
-			return FALSE;
+			return false;
 		}
 
 		$structure = $statement->fetch(PDO::FETCH_OBJ);
@@ -1793,14 +1793,14 @@ class Parser
 				( empty($this->label) )
 			)
 		{
-			return FALSE;
+			return false;
 		}
 
 		/*
 		 * Begin by seeing if this structural unit already exists. If it does, return its ID.
 		 */
 		$structure_id = $this->structure_exists();
-		if ($structure_id !== FALSE)
+		if ($structure_id !== false)
 		{
 			return $structure_id;
 		}
@@ -1847,11 +1847,11 @@ class Parser
 		$statement = $this->db->prepare($sql);
 		$result = $statement->execute($sql_args);
 
-		if ($result === FALSE)
+		if ($result === false)
 		{
 			echo '<p>Failure: '.$sql.'</p>';
 			var_dump($sql_args);
-			return FALSE;
+			return false;
 		}
 
 		return $this->db->lastInsertID();
@@ -1889,7 +1889,7 @@ class Parser
 
 		if (!isset($text))
 		{
-			return FALSE;
+			return false;
 		}
 
 		/* Measure whether there are more straight quotes or directional quotes in this passage
@@ -1911,7 +1911,7 @@ class Parser
 		 * Break up this section into paragraphs. If HTML paragraph tags are present, break it up
 		 * with those. If they're not, break it up with carriage returns.
 		 */
-		if (strpos($text, '<p>') !== FALSE)
+		if (strpos($text, '<p>') !== false)
 		{
 			$paragraphs = explode('<p>', $text);
 		}
@@ -1968,7 +1968,7 @@ class Parser
 					/*
 					 * The term was found.
 					 */
-					if ($pos !== FALSE)
+					if ($pos !== false)
 					{
 
 						/*
@@ -1985,7 +1985,7 @@ class Parser
 						foreach ($length_sorted_labels as $structure)
 						{
 
-							if (stripos($phrase, $structure->label) !== FALSE)
+							if (stripos($phrase, $structure->label) !== false)
 							{
 
 								/*
@@ -1998,7 +1998,7 @@ class Parser
 								 * Now that we have a match, we can break out of both the label
 								 * foreach() and the scope foreach().
 								 */
-								break(2);
+								break 2;
 
 							}
 
@@ -2018,7 +2018,7 @@ class Parser
 			 * All defined terms are surrounded by quotation marks, so let's use that as a criteria
 			 * to round down our candidate paragraphs.
 			 */
-			if (strpos($paragraph, $quote_sample) !== FALSE)
+			if (strpos($paragraph, $quote_sample) !== false)
 			{
 
 				/*
@@ -2029,7 +2029,7 @@ class Parser
 				foreach ($this->linking_phrases as $linking_phrase)
 				{
 
-					if (strpos($paragraph, $linking_phrase) !== FALSE)
+					if (strpos($paragraph, $linking_phrase) !== false)
 					{
 
 						/*
@@ -2042,7 +2042,7 @@ class Parser
 						/*
 						 * If we've made any matches.
 						 */
-						if ( ($terms !== FALSE) && (count($terms) > 0) )
+						if ( ($terms !== false) && count($terms) > 0 )
 						{
 
 							/*
@@ -2193,7 +2193,7 @@ class Parser
 
 		if (count($definitions) == 0)
 		{
-			return FALSE;
+			return false;
 		}
 
 		/*
@@ -2221,7 +2221,7 @@ class Parser
 
 		if ( !isset($this->terms) || !isset($this->law_id) || !isset($this->scope) )
 		{
-			return FALSE;
+			return false;
 		}
 
 		/*
@@ -2246,7 +2246,7 @@ class Parser
 				:structure_id, now(), :edition_id)';
 		$statement = $this->db->prepare($sql);
 
-		$result = FALSE;
+		$result = false;
 		foreach ($this->terms as $term => $definition)
 		{
 
@@ -2281,13 +2281,13 @@ class Parser
 	function query($sql)
 	{
 		$result = $this->db->exec($sql);
-		if ($result === FALSE)
+		if ($result === false)
 		{
 			return $this->db->errorInfo();
 		}
 		else
 		{
-			return TRUE;
+			return true;
 		}
 	}
 
@@ -2302,7 +2302,7 @@ class Parser
 		 */
 		if (!isset($this->text))
 		{
-			return FALSE;
+			return false;
 		}
 
 		/*
@@ -2361,7 +2361,7 @@ class Parser
 		 */
 		if ( (!isset($this->sections)) || (!isset($this->section_id)) )
 		{
-			return FALSE;
+			return false;
 		}
 
 		/*
@@ -2385,14 +2385,14 @@ class Parser
 
 			$result = $statement->execute($sql_args);
 
-			if ($result === FALSE)
+			if ($result === false)
 			{
 				echo '<p>Failed: '.$sql.'</p>';
-				return FALSE;
+				return false;
 			}
 		}
 
-		return TRUE;
+		return true;
 
 	} // end store_references()
 
@@ -2408,7 +2408,7 @@ class Parser
 		 */
 		if (!isset($this->history))
 		{
-			return FALSE;
+			return false;
 		}
 
 		/*
@@ -2430,7 +2430,7 @@ class Parser
 			 * First check for single matches.
 			 */
 			$result = preg_match($pcre, $update, $matches);
-			if ( ($result !== FALSE) && ($result !== 0) )
+			if ( ($result !== false) && ($result !== 0) )
 			{
 
 				if (!empty($matches[1]))
@@ -2444,7 +2444,7 @@ class Parser
 				if (!empty($matches[3]))
 				{
 					$result = preg_match(SECTION_REGEX, $update, $matches[3]);
-					if ( ($result !== FALSE) && ($result !== 0) )
+					if ( ($result !== false) && ($result !== 0) )
 					{
 						$final->{$i}->section = $matches[0];
 					}
@@ -2464,7 +2464,7 @@ class Parser
 				$pcre = '/([0-9]{2,4}), cc\. ([0-9,\s]+)/';
 				$result = preg_match_all($pcre, $update, $matches);
 
-				if ( ($result !== FALSE) && ($result !== 0) )
+				if ( ($result !== false) && ($result !== 0) )
 				{
 
 					/*

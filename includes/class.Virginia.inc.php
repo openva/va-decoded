@@ -1264,6 +1264,34 @@ class Parser
 						 */
 						$children = null;
 					}
+					elseif($children)
+					{
+						/*
+						 * This section has child sections and possibly leading text. Collect
+						 * any text-node content as this section's own text, then build an
+						 * element-only list so the text nodes are not re-processed during
+						 * recursion.
+						 */
+						$intro = '';
+						$element_children = array();
+						foreach($children as $child)
+						{
+							if($child->_type === 'text')
+							{
+								$intro .= trim((string) $child);
+							}
+							else
+							{
+								$element_children[] = $child;
+							}
+						}
+						if($intro !== '')
+						{
+							$this->code->section[$this->i]->text = $intro;
+							$this->code->text .= $intro;
+						}
+						$children = $element_children;
+					}
 
 					$this->i++;
 
@@ -1272,7 +1300,7 @@ class Parser
 					 */
 					if($children)
 					{
-						$this->recurse($section->children());
+						$this->recurse($children);
 					}
 
 					array_pop($this->prefix_hierarchy);

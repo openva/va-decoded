@@ -26,7 +26,7 @@ class State
      *
      * @return the URL or false
      */
-    function official_url()
+    public function official_url()
     {
 
         if (!isset($this->section_number)) {
@@ -51,7 +51,7 @@ class State
      *
      * @return string or bool false
      */
-    function translate_history()
+    public function translate_history()
     {
 
         if (!isset($this->history) || empty($this->history)) {
@@ -112,10 +112,8 @@ class State
                         $chapter = str_pad($history->chapter, 4, '0', STR_PAD_LEFT);
                         $text .= ' chapter <a href="http://leg1.state.va.us/cgi-bin/legp504.exe?'
                             . $year . '1+ful+CHAP' . $chapter . '">' . $history->chapter . '</a>';
-                    }
-
-                    // Else if we have multiple chapters amending this law during this year.
-                    else {
+                    } else {
+                        // Else if we have multiple chapters amending this law during this year.
                         $text .= ' chapters ';
                         foreach ($history->chapter as $chapter) {
                             $chap = str_pad($chapter, 4, '0', STR_PAD_LEFT);
@@ -124,18 +122,14 @@ class State
                         }
                         $text = substr($text, 0, -2);
                     }
-                }
-
-                // If the history data is from prior to 1994, we have no external data to link to,
-                // and we just display the text.
-                else {
+                } else {
+                    // If the history data is from prior to 1994, we have no external data to link to,
+                    // and we just display the text.
                     // If we have multiple chapters amending this law during this year.
                     if (!is_array($history->chapter)) {
                         $text .= ' chapter ' . $history->chapter;
-                    }
-
-                    // Else if we just have one chapter amending this during this year.
-                    else {
+                    } else {
+                        // Else if we just have one chapter amending this during this year.
                         $text .= ' chapters ';
                         foreach ($history->chapter as $chapter) {
                             $text .= $chapter . ', ';
@@ -187,7 +181,7 @@ class State
      *
      * @return true or false
      */
-    function get_amendment_attempts()
+    public function get_amendment_attempts()
     {
 
         /*
@@ -219,7 +213,7 @@ class State
         }
 
         return false;
-    } // end get_amendment_attempts()
+    }
 
 
     /**
@@ -239,7 +233,7 @@ class State
      *
      * @return true or false
      */
-    function get_court_decisions()
+    public function get_court_decisions()
     {
 
         if (!defined('COURTLISTENER_USERNAME') || !defined('COURTLISTENER_PASSWORD')) {
@@ -285,10 +279,8 @@ class State
         // decisions that cite a given section.
         if ($cl_list->count === 0) {
             $this->decisions = '';
-        }
-
-        // Otherwise if results were found.
-        else {
+        } else {
+            // Otherwise if results were found.
             // Create an object to store the decisions that we're going to return.
             $this->decisions = new stdClass();
 
@@ -301,7 +293,10 @@ class State
 
                 // Port the fields that we need from $opinion to $this->decisions.
                 if (html_entity_decode(strlen(strip_tags($opinion->caseName))) > 60) {
-                    $this->decisions->{$i}->name = ' . . . ' . array_shift(explode("\n", wordwrap(html_entity_decode(strip_tags($opinion->caseName)), 60)))[0] . ' . . . ';
+                    $case_name = html_entity_decode(strip_tags($opinion->caseName));
+                    $this->decisions->{$i}->name = ' . . . '
+                        . array_shift(explode("\n", wordwrap($case_name, 60)))[0]
+                        . ' . . . ';
                 } else {
                     $this->decisions->{$i}->name = html_entity_decode(strip_tags($opinion->caseName));
                 }
@@ -309,7 +304,10 @@ class State
                 $this->decisions->{$i}->citation = $opinion->citation[0];
                 $this->decisions->{$i}->date = date('Y-m-d', strtotime($opinion->dateFiled));
                 $this->decisions->{$i}->url = 'https://www.courtlistener.com' . $opinion->absolute_url;
-                $this->decisions->{$i}->abstract = ' . . . ' . array_shift(explode("\n", wordwrap(html_entity_decode(strip_tags($opinion->snippet)), 100)))[0] . ' . . . ';
+                $snippet = html_entity_decode(strip_tags($opinion->snippet));
+                $this->decisions->{$i}->abstract = ' . . . '
+                    . array_shift(explode("\n", wordwrap($snippet, 100)))[0]
+                    . ' . . . ';
 
                 if ($opinion->court == 'Court of Appeals of Virginia') {
                     $this->decisions->{$i}->court_html = '<abbr title="Court of Appeals">COA</abbr>';
@@ -499,7 +497,7 @@ class Parser
              */
             return $this->section;
         }
-    } // end iterate() function
+    }
 
 
     /**
@@ -1050,12 +1048,10 @@ class Parser
                 $this->code->text .= strip_tags(trim((string) $section)) . "\n\n";
 
                 $this->i++;
-            }
-
-            /*
-             * If this is an element, handle it.
-             */
-            elseif ($section->_type == 'element') {
+            } elseif ($section->_type == 'element') {
+                /*
+                 * If this is an element, handle it.
+                 */
                 if (!isset($this->code->section[$this->i])) {
                     $this->code->section[$this->i] = new stdClass();
                 }
@@ -1074,11 +1070,10 @@ class Parser
                     $this->code->text .= strip_tags($content);
 
                     $this->i++;
-                }
-                /*
-                 * If this is a section, store our metadata about it, then recurse.
-                 */
-                else {
+                } else {
+                    /*
+                     * If this is a section, store our metadata about it, then recurse.
+                     */
                     /*
                      * Default to blank text.
                      */
@@ -1559,7 +1554,7 @@ class Parser
      * When provided with a structural identifier, verifies whether that structural unit exists.
      * Returns the structural database ID if it exists; otherwise, returns false.
      */
-    function structure_exists()
+    public function structure_exists()
     {
 
         if (!isset($this->identifier)) {
@@ -1607,7 +1602,7 @@ class Parser
      * provided with a $parent_id, which is the ID of the parent structural unit. Most structural
      * units will have a name, but not all.
      */
-    function create_structure()
+    public function create_structure()
     {
 
         /*
@@ -1689,7 +1684,7 @@ class Parser
      * When fed a section of the code that contains definitions, extracts the definitions from that
      * section and returns them as an object. Requires only a block of text.
      */
-    function extract_definitions($code)
+    public function extract_definitions($code)
     {
         /*
          * Get the length of the longest label in our structure.
@@ -1933,13 +1928,11 @@ class Parser
                                      * Append this definition to our list of definitions.
                                      */
                                     $definitions[$term] = $paragraph;
-                                }
-
-                                /* If we already have a record of this term. This is for when a word
-                                 * is defined twice, once to indicate what it means, and one to list
-                                 * what it doesn't mean. This is actually pretty common.
-                                 */
-                                else {
+                                } else {
+                                    /* If we already have a record of this term. This is for when a word
+                                     * is defined twice, once to indicate what it means, and one to list
+                                     * what it doesn't mean. This is actually pretty common.
+                                     */
                                     /*
                                      * Make sure that they're not identical -- this can happen if
                                      * the defined term is repeated, in quotation marks, in the body
@@ -1986,14 +1979,14 @@ class Parser
          * Return our list of definitions, converted from an array to an object.
          */
         return $return;
-    } // end extract_definitions()
+    }
 
 
     /**
      * When provided with an object containing a list of terms, their definitions, their scope,
      * and their section number, this will store them in the database.
      */
-    function store_definitions()
+    public function store_definitions()
     {
 
         if (!isset($this->terms) || !isset($this->law_id) || !isset($this->scope)) {
@@ -2044,10 +2037,10 @@ class Parser
         }
 
         return $result;
-    } // end store_definitions()
+    }
 
 
-    function query($sql)
+    public function query($sql)
     {
         $result = $this->db->exec($sql);
         if ($result === false) {
@@ -2060,7 +2053,7 @@ class Parser
     /**
      * Find mentions of other sections within a section and return them as an array.
      */
-    function extract_references()
+    public function extract_references()
     {
 
         /*
@@ -2107,14 +2100,14 @@ class Parser
         unset($matches);
 
         return $sections;
-    } // end extract_references()
+    }
 
 
     /**
      * Take an array of references to other sections contained within a section of text and store
      * them in the database.
      */
-    function store_references()
+    public function store_references()
     {
 
         /*
@@ -2152,13 +2145,13 @@ class Parser
         }
 
         return true;
-    } // end store_references()
+    }
 
 
     /**
      * Turn the history sections into atomic data.
      */
-    function extract_history()
+    public function extract_history()
     {
 
         /*
@@ -2198,12 +2191,10 @@ class Parser
                         $final->{$i}->section = $matches[0];
                     }
                 }
-            }
-
-            /*
-             * Then check for multiple matches.
-             */
-            else {
+            } else {
+                /*
+                 * Then check for multiple matches.
+                 */
                 /*
                  * Match lines of the format "2009, cc. 401,, 518, 726, § 2.1-350.2"
                  */
@@ -2260,5 +2251,5 @@ class Parser
         if (is_object($final)) {
             return $final;
         }
-    } // end extract_history()
-} // end Parser class
+    }
+}

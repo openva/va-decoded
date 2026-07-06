@@ -388,6 +388,11 @@ class State
 
 	}
 
+            // Uppercase bill numbers, for display
+            foreach ($bills as $bill) {
+                $bill->number = strtoupper($bill->number);
+            }
+
 }
 
 

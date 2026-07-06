@@ -58,90 +58,109 @@ class State
             return false;
         }
 
-        $text = '';
-
-
-        # If there's just one history entry, that's for the creation of this section.
-        if ((count((array) $this->history) - 1) < 1) {
-            $created = current($this->history);
-            $text .= '<p>This law was first created in ' . $created->year . '. ';
-            if ($created->year >= 1994) {
-                $link = 'http://leg1.state.va.us/cgi-bin/legp504.exe?' . $created->year . '1+ful+CHAP'
-                    . str_pad($created->chapter, 4, '0', STR_PAD_LEFT);
-                $text .= ' The record of its establishment is cataloged in <a href="'
-                    . $link . '">chapter ' . $created->chapter . '</a> of that year’s edition of “Acts of
-					Assembly,” the annual state publication listing all changes made to the Code of
-					Virginia in that year.';
-            } else {
-                $text .= ' The record of its establishment is cataloged in chapter '
-                    . $created->chapter . ' of that year’s edition of “Acts of Assembly,” the annual
-					state publication listing all changes made to the Code of Virginia in that year.
-					Unfortunately, the ' . $created->year . ' “Acts” aren’t available online.';
+        // If history is a raw string (as stored in the DB), parse it into structured entries.
+        if (is_string($this->history)) {
+            $history = [];
+            foreach (explode(‘; ‘, $this->history) as $update) {
+                $entry = new stdClass();
+                if (preg_match(‘/([0-9]{4}), c\. ([0-9]+)/’, $update, $m)) {
+                    $entry->year = $m[1];
+                    $entry->chapter = trim($m[2]);
+                    $history[] = $entry;
+                } elseif (preg_match(‘/([0-9]{2,4}), cc\. ([0-9,\s]+)/’, $update, $m)) {
+                    $entry->year = $m[1];
+                    $chapters = array_values(array_filter(array_map(‘trim’, explode(‘,’, rtrim(trim($m[2]), ‘,’)))));
+                    $entry->chapter = $chapters;
+                    $history[] = $entry;
+                }
+            }
+            if (empty($history)) {
+                return false;
             }
         } else {
-            $created = current($this->history);
-            $text .= 'This law has been modified ' . (count((array) $this->history) - 1) . '
-				time';
-            if ((count((array) $this->history) - 1) > 1) {
-                $text .= 's';
+            $history = array_values((array) $this->history);
+        }
+
+        $text = ‘’;
+
+        # If there’s just one history entry, that’s for the creation of this section.
+        if ((count($history) - 1) < 1) {
+            $created = $history[0];
+            $text .= ‘<p>This law was first created in ‘ . $created->year . ‘. ‘;
+            if ($created->year >= 1994) {
+                $link = ‘http://leg1.state.va.us/cgi-bin/legp504.exe?’ . $created->year . ‘1+ful+CHAP’
+                    . str_pad($created->chapter, 4, ‘0’, STR_PAD_LEFT);
+                $text .= ‘ The record of its establishment is cataloged in <a href=”’
+                    . $link . ‘”>chapter ‘ . $created->chapter . ‘</a> of that year’s edition of “Acts of
+					Assembly,” the annual state publication listing all changes made to the Code of
+					Virginia in that year.’;
+            } else {
+                $text .= ‘ The record of its establishment is cataloged in chapter ‘
+                    . $created->chapter . ‘ of that year’s edition of “Acts of Assembly,” the annual
+					state publication listing all changes made to the Code of Virginia in that year.
+					Unfortunately, the ‘ . $created->year . ‘ “Acts” aren’t available online.’;
             }
-            $text .= ' since it was first created in ' . $created->year . '. Those modifications
+        } else {
+            $created = $history[0];
+            $text .= ‘This law has been modified ‘ . (count($history) - 1) . ‘
+				time’;
+            if ((count($history) - 1) > 1) {
+                $text .= ‘s’;
+            }
+            $text .= ‘ since it was first created in ‘ . $created->year . ‘. Those modifications
 				are cataloged by “The Acts of Assembly,” a state publication, by year and chapter.
 				Those modifications that can be read on the General Assembly’s website will be
-				linked accordingly. ';
-            if ((count((array) $this->history) - 1) > 1) {
-                $text .= 'Those modifications are';
+				linked accordingly. ‘;
+            if ((count($history) - 1) > 1) {
+                $text .= ‘Those modifications are’;
             } else {
-                $text .= 'That modification is';
+                $text .= ‘That modification is’;
             }
 
-            $text .= ' as follows: ';
+            $text .= ‘ as follows: ‘;
 
             // Iterate through each update, skipping the first one, and display it in plain English.
-            next($this->history);
-            while ($history = current($this->history)) {
-                $text .= 'in ' . $history->year . ', ';
+            for ($i = 1; $i < count($history); $i++) {
+                $entry = $history[$i];
+                $text .= ‘in ‘ . $entry->year . ‘, ‘;
 
                 // When the history data is from 1994 or after, then a record of it exists on the
-                // state's website, and we can link to it.
-                if ($history->year >= 1994) {
-                    $year = substr($history->year, -2);
+                // state’s website, and we can link to it.
+                if ($entry->year >= 1994) {
+                    $year = substr($entry->year, -2);
 
                     // If we just have one chapter amending this during this year.
-                    if (!is_array($history->chapter)) {
-                        $chapter = str_pad($history->chapter, 4, '0', STR_PAD_LEFT);
-                        $text .= ' chapter <a href="http://leg1.state.va.us/cgi-bin/legp504.exe?'
-                            . $year . '1+ful+CHAP' . $chapter . '">' . $history->chapter . '</a>';
+                    if (!is_array($entry->chapter)) {
+                        $chapter = str_pad($entry->chapter, 4, ‘0’, STR_PAD_LEFT);
+                        $text .= ‘ chapter <a href=”http://leg1.state.va.us/cgi-bin/legp504.exe?’
+                            . $year . ‘1+ful+CHAP’ . $chapter . ‘”>’ . $entry->chapter . ‘</a>’;
                     } else {
                         // Else if we have multiple chapters amending this law during this year.
-                        $text .= ' chapters ';
-                        foreach ($history->chapter as $chapter) {
-                            $chap = str_pad($chapter, 4, '0', STR_PAD_LEFT);
-                            $text .= '<a href="http://leg1.state.va.us/cgi-bin/legp504.exe?'
-                                . $year . '1+ful+CHAP' . $chap . '">' . $chapter . '</a>, ';
+                        $text .= ‘ chapters ‘;
+                        foreach ($entry->chapter as $chapter) {
+                            $chap = str_pad($chapter, 4, ‘0’, STR_PAD_LEFT);
+                            $text .= ‘<a href=”http://leg1.state.va.us/cgi-bin/legp504.exe?’
+                                . $year . ‘1+ful+CHAP’ . $chap . ‘”>’ . $chapter . ‘</a>, ‘;
                         }
                         $text = substr($text, 0, -2);
                     }
                 } else {
                     // If the history data is from prior to 1994, we have no external data to link to,
                     // and we just display the text.
-                    // If we have multiple chapters amending this law during this year.
-                    if (!is_array($history->chapter)) {
-                        $text .= ' chapter ' . $history->chapter;
+                    if (!is_array($entry->chapter)) {
+                        $text .= ‘ chapter ‘ . $entry->chapter;
                     } else {
-                        // Else if we just have one chapter amending this during this year.
-                        $text .= ' chapters ';
-                        foreach ($history->chapter as $chapter) {
-                            $text .= $chapter . ', ';
+                        $text .= ‘ chapters ‘;
+                        foreach ($entry->chapter as $chapter) {
+                            $text .= $chapter . ‘, ‘;
                         }
                     }
                 }
-                $text .= '; ';
-                next($this->history);
+                $text .= ‘; ‘;
             }
 
             // Back up to hack off the trailing semicolon and space.
-            $text = substr($text, 0, -2) . '.';
+            $text = substr($text, 0, -2) . ‘.’;
         }
 
         return $text;

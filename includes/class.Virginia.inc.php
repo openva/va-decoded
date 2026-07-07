@@ -88,7 +88,7 @@ class State
             $created = $history[0];
             $text .= '<p>This law was first created in ' . $created->year . '. ';
             if ($created->year >= 1994) {
-                $link = 'http://leg1.state.va.us/cgi-bin/legp504.exe?' . $created->year . '1+ful+CHAP'
+                $link = 'https://legacylis.virginia.gov/cgi-bin/legp604.exe?' . $created->year . '1+ful+CHAP'
                     . str_pad($created->chapter, 4, '0', STR_PAD_LEFT);
                 $text .= ' The record of its establishment is cataloged in <a href="'
                     . $link . '">chapter ' . $created->chapter . '</a> of that year’s edition of “Acts of
@@ -132,14 +132,14 @@ class State
                     // If we just have one chapter amending this during this year.
                     if (!is_array($entry->chapter)) {
                         $chapter = str_pad($entry->chapter, 4, '0', STR_PAD_LEFT);
-                        $text .= ' chapter <a href="http://leg1.state.va.us/cgi-bin/legp504.exe?'
+                        $text .= ' chapter <a href="https://legacylis.virginia.gov/cgi-bin/legp604.exe?'
                             . $year . '1+ful+CHAP' . $chapter . '">' . $entry->chapter . '</a>';
                     } else {
                         // Else if we have multiple chapters amending this law during this year.
                         $text .= ' chapters ';
                         foreach ($entry->chapter as $chapter) {
                             $chap = str_pad($chapter, 4, '0', STR_PAD_LEFT);
-                            $text .= '<a href="http://leg1.state.va.us/cgi-bin/legp504.exe?'
+                            $text .= '<a href="https://legacylis.virginia.gov/cgi-bin/legp604.exe?'
                                 . $year . '1+ful+CHAP' . $chap . '">' . $chapter . '</a>, ';
                         }
                         $text = substr($text, 0, -2);

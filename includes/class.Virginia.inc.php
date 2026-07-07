@@ -260,7 +260,13 @@ class State
     public function get_court_decisions()
     {
 
-        if (!defined('COURTLISTENER_USERNAME') || !defined('COURTLISTENER_PASSWORD')) {
+        // A CourtListener API token is required. Bail if it is absent, empty, or is still the
+        // deploy-time placeholder (meaning no GitHub secret was configured).
+        if (
+            !defined('COURTLISTENER_API_TOKEN')
+            || COURTLISTENER_API_TOKEN === ''
+            || COURTLISTENER_API_TOKEN === '__COURTLISTENER_API_TOKEN__'
+        ) {
             return false;
         }
 
@@ -269,18 +275,25 @@ class State
             return false;
         }
 
-        // Assemble the URL for our query to the CourtListener API.
-        $url = 'https://www.courtlistener.com/api/rest/v3/search/?q="'
+        // Assemble the URL for our query to the CourtListener API. Note that, in the v4 API,
+        // opinion search results are clusters: each result carries its case-level fields at the
+        // top level, with the individual opinions (and their text snippets) nested within.
+        $url = 'https://www.courtlistener.com/api/rest/v4/search/?type=o&q="'
             . urlencode($this->section_number) . '"&court=ca4,vaeb,vawb,vaed,vawd,va,vactapp'
-            . '&order_by=score+desc&format=json';
+            . '&order_by=score+desc';
 
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 1);
-        curl_setopt($ch, CURLOPT_TIMEOUT_MS, 1200);
+        // The v4 search API can be slow on queries missing its cache (tens of seconds), and this
+        // runs during page views, so the budget is a compromise: cold queries will time out, but
+        // each attempt warms CourtListener's cache, so a subsequent page view will succeed and
+        // the result is then cached in the laws_meta table.
+        curl_setopt($ch, CURLOPT_TIMEOUT_MS, 3000);
         curl_setopt($ch, CURLOPT_URL, $url);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-        curl_setopt($ch, CURLOPT_HTTPAUTH, CURLAUTH_BASIC);
-        curl_setopt($ch, CURLOPT_USERPWD, COURTLISTENER_USERNAME . ':' . COURTLISTENER_PASSWORD);
+        curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+            'Authorization: Token ' . COURTLISTENER_API_TOKEN
+        ));
         $allowed_protocols = CURLPROTO_HTTP | CURLPROTO_HTTPS;
         curl_setopt($ch, CURLOPT_PROTOCOLS, $allowed_protocols);
         curl_setopt($ch, CURLOPT_REDIR_PROTOCOLS, $allowed_protocols & ~(CURLPROTO_FILE | CURLPROTO_SCP));
@@ -318,7 +331,7 @@ class State
 
                 // Port the fields that we need from $opinion to $this->decisions.
                 $this->decisions->{$i} = new stdClass();
-                $case_name = html_entity_decode(strip_tags($opinion->caseName));
+                $case_name = trim(html_entity_decode(strip_tags($opinion->caseName ?? '')));
                 if (strlen($case_name) > 60) {
                     $this->decisions->{$i}->name = ' . . . '
                         . explode("\n", wordwrap($case_name, 60))[0]
@@ -330,14 +343,19 @@ class State
                 $this->decisions->{$i}->citation = $opinion->citation[0] ?? null;
                 $this->decisions->{$i}->date = date('Y-m-d', strtotime($opinion->dateFiled));
                 $this->decisions->{$i}->url = 'https://www.courtlistener.com' . $opinion->absolute_url;
-                $snippet = html_entity_decode(strip_tags($opinion->snippet));
+                // In v4, the text snippet lives on the nested opinion, not the result cluster.
+                // Trim it, because snippets often lead with newlines, and the first line of the
+                // word-wrapped text becomes the abstract.
+                $snippet = trim(html_entity_decode(strip_tags($opinion->opinions[0]->snippet ?? '')));
                 $this->decisions->{$i}->abstract = ' . . . '
                     . explode("\n", wordwrap($snippet, 100))[0]
                     . ' . . . ';
 
-                if ($opinion->court == 'Court of Appeals of Virginia') {
+                // Abbreviate the two most common courts, matching on the stable court ID rather
+                // than the display name.
+                if (($opinion->court_id ?? '') == 'vactapp') {
                     $this->decisions->{$i}->court_html = '<abbr title="Court of Appeals">COA</abbr>';
-                } elseif ($opinion->court == 'Supreme Court of Virginia') {
+                } elseif (($opinion->court_id ?? '') == 'va') {
                     $this->decisions->{$i}->court_html = '<abbr title="Supreme Court of Virginia">SCV</abbr>';
                 } else {
                     $this->decisions->{$i}->court_html = $opinion->court;

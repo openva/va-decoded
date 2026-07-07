@@ -320,12 +320,11 @@ define('PLUGINS', json_encode(array(
 
 /*
  * If you want to display court decisions that affect each law using CourtListener's REST API
- * <https://www.courtlistener.com/api/rest-info/>, you must register for an account and enter your
- * username and password here. See the get_court_decisions() method in class.State-sample.inc.php
- * for more.
+ * <https://www.courtlistener.com/help/api/rest/>, you must register for an account and provide an
+ * API token here. (This is populated automatically at deploy time, from a GitHub secret.) See the
+ * get_court_decisions() method in class.Virginia.inc.php for more.
  */
-define('COURTLISTENER_USERNAME', 'jane_doe');
-define('COURTLISTENER_PASSWORD', 's3cr3tp@ssw0rd');
+define('COURTLISTENER_API_TOKEN', '__COURTLISTENER_API_TOKEN__');
 
 /*
  * To turn up or down debugging on the admin functions, set this to a value between 1 (verbose)

@@ -40,6 +40,7 @@ jobs:
           PDO_PASSWORD: ${{ secrets.PDO_PASSWORD }}
           ADMIN_USERNAME: ${{ secrets.ADMIN_USERNAME }}
           ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+          COURTLISTENER_API_TOKEN: ${{ secrets.COURTLISTENER_API_TOKEN }}
         run: |
           cp va-decoded/includes/class.Virginia.inc.php \
              statedecoded/includes/class.Virginia.inc.php
@@ -53,8 +54,7 @@ jobs:
             -e "s|__PDO_PASSWORD__|${PDO_PASSWORD}|g" \
             -e "s|__ADMIN_USERNAME__|${ADMIN_USERNAME}|g" \
             -e "s|__ADMIN_PASSWORD__|${ADMIN_PASSWORD}|g" \
-            -e "s|COURTLISTENER_USERNAME|${COURTLISTENER_USERNAME}|g" \
-            -e "s|COURTLISTENER_PASSWORD|${COURTLISTENER_PASSWORD}|g" \
+            -e "s|__COURTLISTENER_API_TOKEN__|${COURTLISTENER_API_TOKEN}|g" \
             va-decoded/includes/config.inc.php \
             > statedecoded/includes/config.inc.php
 

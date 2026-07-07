@@ -91,9 +91,11 @@ define('SECTION_SYMBOL', '§');
 define('WEB_ROOT', $_SERVER['DOCUMENT_ROOT'] ? $_SERVER['DOCUMENT_ROOT'] : dirname(INCLUDE_PATH) . '/htdocs/');
 
 /*
- * Define the location of the files to import.
+ * Define the location of the files to import. This lives outside the webroot
+ * (and outside the CodeDeploy bundle) so that the updater's scraped XML persists
+ * across deploys. See updater.md.
  */
-define('IMPORT_DATA_DIR', WEB_ROOT . '/admin/import-data/');
+define('IMPORT_DATA_DIR', dirname(WEB_ROOT) . '/import-data/');
 
 /*
  * Set the amount of memory allowed to use for importing data.

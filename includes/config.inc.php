@@ -322,8 +322,8 @@ define('PLUGINS', json_encode(array(
  * username and password here. See the get_court_decisions() method in class.State-sample.inc.php
  * for more.
  */
-// define('COURTLISTENER_USERNAME', 'jane_doe');
-// define('COURTLISTENER_PASSWORD', 's3cr3tp@ssw0rd');
+define('COURTLISTENER_USERNAME', 'jane_doe');
+define('COURTLISTENER_PASSWORD', 's3cr3tp@ssw0rd');
 
 /*
  * To turn up or down debugging on the admin functions, set this to a value between 1 (verbose)

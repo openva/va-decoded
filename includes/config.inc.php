@@ -250,7 +250,7 @@ define('SEARCH_CONFIG', json_encode(
  * The site uses its own API extensively. Provide the API key here. (This is populated automatically
  * at the time that the parser is run.)
  */
-define('API_KEY', '');
+define('API_KEY', '__API_KEY__');
 
 /*
  * The version of The State Decoded that is installed. (This is populated automatically by the

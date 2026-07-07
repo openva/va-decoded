@@ -58,112 +58,117 @@ class State
             return false;
         }
 
+        /*
+         * Track whether the history’s first entry records the law’s creation. Entries that match
+         * neither pattern (e.g., “Code 1950, § 1-10”) are dropped, and when the first entry is
+         * dropped, the oldest surviving entry is an amendment, not the law’s creation.
+         */
+        $creation_known = true;
+
         // If history is a raw string (as stored in the DB), parse it into structured entries.
         if (is_string($this->history)) {
             $history = [];
-            foreach (explode('; ', $this->history) as $update) {
+            foreach (explode('; ', $this->history) as $index => $update) {
                 $entry = new stdClass();
-                if (preg_match('/([0-9]{4}), c\\. ([0-9]+)/', $update, $m)) {
+                if (preg_match('/([0-9]{4}), c\. ([0-9]+)/', $update, $m)) {
                     $entry->year = $m[1];
                     $entry->chapter = trim($m[2]);
                     $history[] = $entry;
-                } elseif (preg_match('/([0-9]{2,4}), cc\\. ([0-9,\\s]+)/', $update, $m)) {
-                    $entry->year = $m[1];
+                } elseif (preg_match('/([0-9]{2,4}), cc\. ([0-9,\s]+)/', $update, $m)) {
+                    // Two-digit years only appear in twentieth-century histories.
+                    $entry->year = (strlen($m[1]) === 2) ? '19' . $m[1] : $m[1];
                     $chapters = array_values(array_filter(array_map('trim', explode(',', rtrim(trim($m[2]), ',')))));
                     $entry->chapter = $chapters;
                     $history[] = $entry;
+                } elseif ($index === 0) {
+                    $creation_known = false;
                 }
-            }
-            if (empty($history)) {
-                return false;
             }
         } else {
             $history = array_values((array) $this->history);
         }
 
-        $text = '';
+        if (empty($history)) {
+            return false;
+        }
 
-        # If there’s just one history entry, that’s for the creation of this section.
-        if ((count($history) - 1) < 1) {
+        /*
+         * The first entry records the law’s creation, and the rest are modifications — unless the
+         * creation record couldn’t be parsed, in which case every entry is a modification.
+         */
+        $start = $creation_known ? 1 : 0;
+        $modifications = count($history) - $start;
+
+        $text = '<p>';
+
+        if ($creation_known) {
             $created = $history[0];
-            $text .= '<p>This law was first created in ' . $created->year . '. ';
-            if ($created->year >= 1994) {
-                $link = 'https://legacylis.virginia.gov/cgi-bin/legp604.exe?' . $created->year . '1+ful+CHAP'
-                    . str_pad($created->chapter, 4, '0', STR_PAD_LEFT);
-                $text .= ' The record of its establishment is cataloged in <a href="'
-                    . $link . '">chapter ' . $created->chapter . '</a> of that year’s edition of “Acts of
-					Assembly,” the annual state publication listing all changes made to the Code of
-					Virginia in that year.';
-            } else {
-                $text .= ' The record of its establishment is cataloged in chapter '
-                    . $created->chapter . ' of that year’s edition of “Acts of Assembly,” the annual
-					state publication listing all changes made to the Code of Virginia in that year.
-					Unfortunately, the ' . $created->year . ' “Acts” aren’t available online.';
+            $text .= 'This law was first created in ' . $created->year . '. The record of its'
+                . ' establishment is cataloged in '
+                . $this->acts_chapter_html($created->year, $created->chapter)
+                . ' of that year’s edition of “Acts of Assembly,” the annual state publication'
+                . ' listing all changes made to the Code of Virginia in that year.';
+            if ($created->year < 1994) {
+                $text .= ' Unfortunately, the ' . $created->year . ' “Acts” aren’t available'
+                    . ' online.';
             }
         } else {
-            $created = $history[0];
-            $text .= 'This law has been modified ' . (count($history) - 1) . '
-				time';
-            if ((count($history) - 1) > 1) {
+            $text .= 'The record of this law’s original creation isn’t available online.';
+        }
+
+        if ($modifications > 0) {
+            $text .= ' It has been modified ' . $modifications . ' time';
+            if ($modifications > 1) {
                 $text .= 's';
             }
-            $text .= ' since it was first created in ' . $created->year . '. Those modifications
-				are cataloged by “The Acts of Assembly,” a state publication, by year and chapter.
-				Those modifications that can be read on the General Assembly’s website will be
-				linked accordingly. ';
-            if ((count($history) - 1) > 1) {
+            $text .= '. Those modifications are cataloged by “The Acts of Assembly,” a state'
+                . ' publication, by year and chapter. Those modifications that can be read on the'
+                . ' General Assembly’s website will be linked accordingly. ';
+            if ($modifications > 1) {
                 $text .= 'Those modifications are';
             } else {
                 $text .= 'That modification is';
             }
-
             $text .= ' as follows: ';
 
-            // Iterate through each update, skipping the first one, and display it in plain English.
-            for ($i = 1; $i < count($history); $i++) {
+            $entries = [];
+            for ($i = $start; $i < count($history); $i++) {
                 $entry = $history[$i];
-                $text .= 'in ' . $entry->year . ', ';
-
-                // When the history data is from 1994 or after, then a record of it exists on the
-                // state’s website, and we can link to it.
-                if ($entry->year >= 1994) {
-                    $year = substr($entry->year, -2);
-
-                    // If we just have one chapter amending this during this year.
-                    if (!is_array($entry->chapter)) {
-                        $chapter = str_pad($entry->chapter, 4, '0', STR_PAD_LEFT);
-                        $text .= ' chapter <a href="https://legacylis.virginia.gov/cgi-bin/legp604.exe?'
-                            . $year . '1+ful+CHAP' . $chapter . '">' . $entry->chapter . '</a>';
-                    } else {
-                        // Else if we have multiple chapters amending this law during this year.
-                        $text .= ' chapters ';
-                        foreach ($entry->chapter as $chapter) {
-                            $chap = str_pad($chapter, 4, '0', STR_PAD_LEFT);
-                            $text .= '<a href="https://legacylis.virginia.gov/cgi-bin/legp604.exe?'
-                                . $year . '1+ful+CHAP' . $chap . '">' . $chapter . '</a>, ';
-                        }
-                        $text = substr($text, 0, -2);
-                    }
-                } else {
-                    // If the history data is from prior to 1994, we have no external data to link to,
-                    // and we just display the text.
-                    if (!is_array($entry->chapter)) {
-                        $text .= ' chapter ' . $entry->chapter;
-                    } else {
-                        $text .= ' chapters ';
-                        foreach ($entry->chapter as $chapter) {
-                            $text .= $chapter . ', ';
-                        }
-                    }
-                }
-                $text .= '; ';
+                $entries[] = 'in ' . $entry->year . ', '
+                    . $this->acts_chapter_html($entry->year, $entry->chapter);
             }
-
-            // Back up to hack off the trailing semicolon and space.
-            $text = substr($text, 0, -2) . '.';
+            $text .= implode('; ', $entries) . '.';
         }
 
+        $text .= '</p>';
+
         return $text;
+    }
+
+    /**
+     * Render a chapter reference — a single chapter or an array of them — for a given year of
+     * the Acts of Assembly, linked to the General Assembly’s website for those years
+     * (1994–present) for which it has records.
+     *
+     * @return string HTML
+     */
+    private function acts_chapter_html($year, $chapter)
+    {
+
+        $chapters = is_array($chapter) ? $chapter : [$chapter];
+
+        $html = [];
+        foreach ($chapters as $chap) {
+            if ($year >= 1994) {
+                $url = 'https://legacylis.virginia.gov/cgi-bin/legp604.exe?' . substr($year, -2)
+                    . '1+ful+CHAP' . str_pad($chap, 4, '0', STR_PAD_LEFT);
+                $html[] = '<a href="' . $url . '">' . $chap . '</a>';
+            } else {
+                $html[] = $chap;
+            }
+        }
+
+        return (count($chapters) > 1 ? 'chapters ' : 'chapter ') . implode(', ', $html);
     }
 
 
@@ -218,7 +223,7 @@ class State
         if ($json !== false) {
             $bills = json_decode($json);
 
-            if (isset($bills->error)) {
+            if (($bills === null) || isset($bills->error)) {
                 return false;
             }
 
@@ -280,17 +285,18 @@ class State
         curl_setopt($ch, CURLOPT_PROTOCOLS, $allowed_protocols);
         curl_setopt($ch, CURLOPT_REDIR_PROTOCOLS, $allowed_protocols & ~(CURLPROTO_FILE | CURLPROTO_SCP));
         $json = curl_exec($ch);
+        $http_code = curl_getinfo($ch, CURLINFO_RESPONSE_CODE);
 
         // If the query failed.
-        if ($json == false) {
+        if (($json == false) || ($http_code != 200)) {
             return false;
         }
 
         // Turn this JSON into an object.
         $cl_list = json_decode($json);
 
-        // If the JSON is invalid.
-        if ($cl_list == false) {
+        // If the JSON is invalid, or lacks the expected shape (e.g., an API error response).
+        if (($cl_list == false) || !isset($cl_list->count)) {
             return false;
         }
 
@@ -311,21 +317,22 @@ class State
                 }
 
                 // Port the fields that we need from $opinion to $this->decisions.
-                if (html_entity_decode(strlen(strip_tags($opinion->caseName))) > 60) {
-                    $case_name = html_entity_decode(strip_tags($opinion->caseName));
+                $this->decisions->{$i} = new stdClass();
+                $case_name = html_entity_decode(strip_tags($opinion->caseName));
+                if (strlen($case_name) > 60) {
                     $this->decisions->{$i}->name = ' . . . '
-                        . array_shift(explode("\n", wordwrap($case_name, 60)))[0]
+                        . explode("\n", wordwrap($case_name, 60))[0]
                         . ' . . . ';
                 } else {
-                    $this->decisions->{$i}->name = html_entity_decode(strip_tags($opinion->caseName));
+                    $this->decisions->{$i}->name = $case_name;
                 }
                 $this->decisions->{$i}->case_number = $opinion->docketNumber;
-                $this->decisions->{$i}->citation = $opinion->citation[0];
+                $this->decisions->{$i}->citation = $opinion->citation[0] ?? null;
                 $this->decisions->{$i}->date = date('Y-m-d', strtotime($opinion->dateFiled));
                 $this->decisions->{$i}->url = 'https://www.courtlistener.com' . $opinion->absolute_url;
                 $snippet = html_entity_decode(strip_tags($opinion->snippet));
                 $this->decisions->{$i}->abstract = ' . . . '
-                    . array_shift(explode("\n", wordwrap($snippet, 100)))[0]
+                    . explode("\n", wordwrap($snippet, 100))[0]
                     . ' . . . ';
 
                 if ($opinion->court == 'Court of Appeals of Virginia') {
@@ -343,6 +350,9 @@ class State
         // Store these decisions in the metadata table.
         $law = new Law();
         $law->section_id = $this->section_id;
+        if (!isset($law->metadata)) {
+            $law->metadata = new stdClass();
+        }
         if (!isset($law->metadata->{0})) {
             $law->metadata->{0} = new stdClass();
         }
@@ -420,11 +430,22 @@ class Parser
         }
 
         /**
+         * Every parser needs a logger; default to a fresh one so that failure messages always
+         * have somewhere to go.
+         */
+        if (!isset($this->logger) && class_exists('Logger')) {
+            $this->logger = new Logger();
+        }
+
+        /**
          * Set the directory to parse
          */
         if ($this->directory) {
-            if (!isset($this->directory)) {
-                $this->directory = getcwd();
+            /*
+             * Guarantee a trailing slash, since filenames are appended directly to this path.
+             */
+            if (substr($this->directory, -1) !== '/') {
+                $this->directory .= '/';
             }
 
             if (file_exists($this->directory) && is_dir($this->directory)) {
@@ -448,6 +469,11 @@ class Parser
                     $this->files[] = $filepath;
                 }
             }
+
+            /*
+             * Sort the files, so that the import order is deterministic.
+             */
+            sort($this->files);
 
             /*
              * Check that we found at least one file
@@ -493,7 +519,7 @@ class Parser
             // TODO : Make this smarter.  We can use the PECL Fileinfo package
             // instead, but I'd rather not have to require that at this point. -BH
 
-            $extension = substr($filename, strrpos($filename, '.') + 1);
+            $extension = strtolower(substr($filename, strrpos($filename, '.') + 1));
 
             switch ($extension) {
                 case 'xml':
@@ -545,11 +571,16 @@ class Parser
                 $tidy->cleanRepair();
                 $xml = (string) $tidy;
             } elseif (exec('which tidy')) {
-                exec('tidy -xml ' . $filename, $output);
+                exec('tidy -xml ' . escapeshellarg($filename), $output);
                 $xml = join('', $output);
             }
 
-            $this->doc = new DOMWrapper($xml, true);
+            try {
+                $this->doc = new DOMWrapper($xml, true);
+            } catch (Exception $retry_exception) {
+                throw new Exception('Cannot parse XML in "' . $filename . '", even after cleanup: '
+                    . $retry_exception->getMessage());
+            }
             $this->section = $this->doc->law;
         }
 
@@ -611,6 +642,7 @@ class Parser
          * object.
          */
         if (isset($this->section->metadata)) {
+            $this->code->metadata = new stdClass();
             foreach ($this->section->metadata as $field) {
                 foreach ($field as $key => $value) {
                     /*
@@ -643,7 +675,7 @@ class Parser
             $this->code->structure[$level]->label = $unit->attribute('label');
             $this->code->structure[$level]->level = $unit->attribute('level');
             $this->code->structure[$level]->identifier = $unit->attribute('identifier');
-            if ($unit->attribute('order_by') === null) {
+            if ($unit->attribute('order_by') !== null) {
                 $this->code->structure[$level]->order_by = $unit->attribute('order_by');
             }
         }
@@ -684,15 +716,15 @@ class Parser
          */
         if (isset($this->section->tags)) {
             /*
-             * Create an object to store the tags.
+             * Create a list to store the tags.
              */
-            $this->code->tags = new stdClass();
+            $this->code->tags = array();
 
             /*
              * Iterate through each of the tags and move them over to $this->code.
              */
             foreach ($this->section->tags->tag as $tag) {
-                $this->code->tags->tag = trim((string) $tag);
+                $this->code->tags[] = trim((string) $tag);
             }
         }
 
@@ -726,13 +758,16 @@ class Parser
 
         /*
          * First, delete anything that's not a real permalink for any edition
-         * that's not current.
+         * that's not current. If no edition is current yet (e.g., on a first
+         * import), there's nothing to preserve, so skip this step.
          */
-        $sql = 'DELETE FROM permalinks
-			WHERE permalink = 0 AND edition_id <> :edition_id';
-        $sql_args = array(':edition_id' => $current_edition->id);
-        $statement = $this->db->prepare($sql);
-        $statement->execute($sql_args);
+        if ($current_edition) {
+            $sql = 'DELETE FROM permalinks
+				WHERE permalink = 0 AND edition_id <> :edition_id';
+            $sql_args = array(':edition_id' => $current_edition->id);
+            $statement = $this->db->prepare($sql);
+            $statement->execute($sql_args);
+        }
 
         /*
          * Then make all remaining permalinks preferred for any edition that's
@@ -767,11 +802,16 @@ class Parser
     /**
      * Recurse through all subsections to build permalink data.
      */
-    public function build_permalink_subsections($edition_id, $parent_id = null)
+    public function build_permalink_subsections($edition_id, $parent_id = null, $edition = null)
     {
 
-        $edition_obj = new Edition(array('db' => $this->db));
-        $edition = $edition_obj->find_by_id($edition_id);
+        /*
+         * Look up the edition just once, at the top of the recursion, and pass it down.
+         */
+        if (!isset($edition)) {
+            $edition_obj = new Edition(array('db' => $this->db));
+            $edition = $edition_obj->find_by_id($edition_id);
+        }
 
         /*
          * If we don't have a parent, set the base url.
@@ -948,13 +988,13 @@ class Parser
                  */
                 $preferred = 1;
 
-                if (!defined('LAW_LONG_URLS') || LAW_LONG_URLS === false) {
-                    $token = str_replace(
-                        array(':', '/', '\\'),
-                        array('_', '_', '_'),
-                        $law['section_number']
-                    );
+                $token = str_replace(
+                    array(':', '/', '\\'),
+                    array('_', '_', '_'),
+                    $law['section_number']
+                );
 
+                if (!defined('LAW_LONG_URLS') || LAW_LONG_URLS === false) {
                     /*
                      * Current-and-short is the most-preferred (shortest) url.
                      */
@@ -1027,7 +1067,7 @@ class Parser
                 );
                 $this->permalink_obj->create($insert_data);
             }
-            $this->build_permalink_subsections($edition_id, $item['s1_id']);
+            $this->build_permalink_subsections($edition_id, $item['s1_id'], $edition);
         }
     }
 
@@ -1086,7 +1126,7 @@ class Parser
                     $content = strip_tags($content, '<?xml>');
 
                     $this->code->section[$this->i]->text = $content;
-                    $this->code->text .= strip_tags($content);
+                    $this->code->text .= strip_tags($content) . "\n\n";
 
                     $this->i++;
                 } else {
@@ -1105,11 +1145,18 @@ class Parser
                         $this->code->section[$this->i]->prefix_hierarchy = array();
                     }
 
+                    /*
+                     * Track whether we push onto the prefix stack, so that we only pop what we
+                     * pushed: a section without a prefix must not pop its parent's prefix.
+                     */
+                    $pushed_prefix = false;
+
                     if ($section->attribute('prefix')) {
                         $prefix = $section->attribute('prefix');
 
                         $this->code->section[$this->i]->prefix = $prefix;
                         $this->prefix_hierarchy[] = $prefix;
+                        $pushed_prefix = true;
                         $this->code->text .= $prefix . "\n\n";
                         $this->code->section[$this->i]->prefix_hierarchy = $this->prefix_hierarchy;
                     }
@@ -1133,7 +1180,7 @@ class Parser
                             $content .= trim($child->rawValue(true));
                         }
 
-                        $this->code->text .= $content;
+                        $this->code->text .= $content . "\n\n";
                         $this->code->section[$this->i]->text = $content;
 
                         /*
@@ -1158,7 +1205,7 @@ class Parser
                         }
                         if ($intro !== '') {
                             $this->code->section[$this->i]->text = $intro;
-                            $this->code->text .= $intro;
+                            $this->code->text .= $intro . "\n\n";
                         }
                         $children = $element_children;
                     }
@@ -1172,7 +1219,9 @@ class Parser
                         $this->recurse($children);
                     }
 
-                    array_pop($this->prefix_hierarchy);
+                    if ($pushed_prefix) {
+                        array_pop($this->prefix_hierarchy);
+                    }
                 }
             }
         }
@@ -1187,7 +1236,17 @@ class Parser
     public function store()
     {
         if (!isset($this->code)) {
-            die('No data provided.');
+            throw new Exception('Parser::store() called with no law data provided');
+        }
+
+        /*
+         * Store each law atomically. (As a side benefit, this is much faster than autocommitting
+         * each of the dozens of inserts that a law requires.)
+         */
+        $began_transaction = false;
+        if (!$this->db->inTransaction()) {
+            $this->db->beginTransaction();
+            $began_transaction = true;
         }
 
         /*
@@ -1202,12 +1261,11 @@ class Parser
         $structure = new Parser(
             array(
                 'db' => $this->db,
+                'logger' => $this->logger,
                 'edition_id' => $this->edition_id,
                 'previous_edition_id' => $this->previous_edition_id
             )
         );
-
-        $structure_labels = array();
 
         if (isset($this->code->structure)) {
             foreach ($this->code->structure as $key => $struct) {
@@ -1224,17 +1282,12 @@ class Parser
                     $structure->order_by = 0;
                 } else {
                     $structure->identifier = $struct->identifier;
-                    if (!isset($structure->order_by)) {
-                        $structure->order_by = 1;
-                    }
+                    $structure->order_by = isset($struct->order_by) ? $struct->order_by : 1;
                 }
 
                 $structure->name = $struct->name;
                 $structure->label = $struct->label;
                 $structure->level = $struct->level;
-
-                $structure_labels[] = strtolower($struct->label);
-
 
                 /* If we've gone through this loop already, then we have a parent ID. */
                 if (isset($this->code->structure_id)) {
@@ -1308,8 +1361,8 @@ class Parser
         $result = $statement->execute($sql_args);
 
         if ($result === false) {
-            echo '<p>Failure: ' . $sql . '</p>';
-            var_dump($sql_args);
+            $this->logger->error('Failed to insert law ' . $query['section'] . ': ' . $sql
+                . ' with ' . print_r($sql_args, true), 10);
         }
 
         /*
@@ -1328,6 +1381,7 @@ class Parser
         $references = new Parser(
             array(
                 'db' => $this->db,
+                'logger' => $this->logger,
                 'edition_id' => $this->edition_id,
                 'previous_edition_id' => $this->previous_edition_id
             )
@@ -1339,8 +1393,8 @@ class Parser
             $references->sections = $sections;
             $success = $references->store_references();
             if ($success === false) {
-                echo '<p>References for section ID ' . $law_id . ' were found, but could not be
-					stored.</p>';
+                $this->logger->error('References for section ID ' . $law_id
+                    . ' were found, but could not be stored.', 10);
             }
         }
 
@@ -1369,7 +1423,7 @@ class Parser
                 $result = $statement->execute($sql_args);
 
                 if ($result === false) {
-                    echo '<p>Failure: ' . $sql . '</p>';
+                    $this->logger->error('Failed to insert metadata for law ID ' . $law_id, 10);
                 }
             }
         }
@@ -1395,8 +1449,7 @@ class Parser
                 $result = $statement->execute($sql_args);
 
                 if ($result === false) {
-                    echo '<p>Failure: ' . $sql . '</p>';
-                    var_dump($sql_args);
+                    $this->logger->error('Failed to insert tag for law ID ' . $law_id, 10);
                 }
             }
         }
@@ -1437,7 +1490,7 @@ class Parser
             $result = $statement->execute($sql_args);
 
             if ($result === false) {
-                echo '<p>Failure: ' . $sql . '</p>';
+                $this->logger->error('Failed to insert text for law ID ' . $law_id, 10);
             }
 
             /*
@@ -1473,7 +1526,8 @@ class Parser
                     $result = $statement->execute($sql_args);
 
                     if ($result === false) {
-                        echo '<p>Failure: ' . $sql . '</p>';
+                        $this->logger->error('Failed to insert text section identifiers for law ID '
+                            . $law_id, 10);
                     }
 
                     $j++;
@@ -1490,6 +1544,7 @@ class Parser
         $dictionary = new Parser(
             array(
                 'db' => $this->db,
+                'logger' => $this->logger,
                 'edition_id' => $this->edition_id,
                 'previous_edition_id' => $this->previous_edition_id
             )
@@ -1566,6 +1621,10 @@ class Parser
 
         unset($sections);
         unset($query);
+
+        if ($began_transaction) {
+            $this->db->commit();
+        }
     }
 
 
@@ -1691,8 +1750,8 @@ class Parser
         $result = $statement->execute($sql_args);
 
         if ($result === false) {
-            echo '<p>Failure: ' . $sql . '</p>';
-            var_dump($sql_args);
+            $this->logger->error('Failed to insert structure: ' . $sql . ' with '
+                . print_r($sql_args, true), 10);
             return false;
         }
 
@@ -1706,9 +1765,15 @@ class Parser
     public function extract_definitions($code)
     {
         /*
+         * Structure can be absent on malformed input, in which case definitions simply default
+         * to section scope.
+         */
+        $structure_units = isset($code->structure) ? $code->structure : array();
+
+        /*
          * Get the length of the longest label in our structure.
          */
-        $longest_label = array_reduce($code->structure, function ($longest, $struct) {
+        $longest_label = array_reduce($structure_units, function ($longest, $struct) {
             if (strlen($struct->label) > $longest) {
                 $longest = strlen($struct->label);
             }
@@ -1719,7 +1784,7 @@ class Parser
          * Sort our labels by length to text-match correctly, e.g. "subtitle"
          * before "title".
          */
-        $length_sorted_labels = $code->structure;
+        $length_sorted_labels = $structure_units;
         usort($length_sorted_labels, function ($a, $b) {
             return strlen($b->label) - strlen($a->label);
         });
@@ -1854,7 +1919,7 @@ class Parser
                         /*
                          * If we've made any matches.
                          */
-                        if (($terms !== false) && count($terms) > 0) {
+                        if (!empty($terms[0])) {
                             /*
                              * We only need the first element in this multi-dimensional array, which
                              * has the actual matched term. It includes the quotation marks in which
@@ -1881,12 +1946,12 @@ class Parser
                              * appears within a word. (Though note that we only match terms
                              * surrounded by word boundaries.)
                              */
-                            foreach ($terms as &$term) {
+                            foreach ($terms as $term_key => &$term) {
                                 /*
                                  * Drop noise words that occur in lists of words.
                                  */
                                 if (($term == 'and') || ($term == 'or')) {
-                                    unset($term);
+                                    unset($terms[$term_key]);
                                     continue;
                                 }
 
@@ -1915,22 +1980,22 @@ class Parser
                             unset($term);
 
                             /*
+                             * It's possible for a definition to be preceded by a subsection
+                             * number. We want to pare down our definition down to the minimum,
+                             * which means excluding that. Solution: Start definitions at the
+                             * first quotation mark.
+                             */
+                            if ($quote_type == 'straight') {
+                                $paragraph = substr($paragraph, strpos($paragraph, '"'));
+                            } elseif ($quote_type == 'directional') {
+                                $paragraph = substr($paragraph, strpos($paragraph, '“'));
+                            }
+
+                            /*
                              * Step through all of our matches and save them as discrete
                              * definitions.
                              */
                             foreach ($terms as $term) {
-                                /*
-                                 * It's possible for a definition to be preceded by a subsection
-                                 * number. We want to pare down our definition down to the minimum,
-                                 * which means excluding that. Solution: Start definitions at the
-                                 * first quotation mark.
-                                 */
-                                if ($quote_type == 'straight') {
-                                    $paragraph = substr($paragraph, strpos($paragraph, '"'));
-                                } elseif ($quote_type == 'directional') {
-                                    $paragraph = substr($paragraph, strpos($paragraph, '“'));
-                                }
-
                                 /*
                                  * Comma-separated lists of multiple words being defined need to
                                  * have the trailing commas removed.
@@ -2143,9 +2208,8 @@ class Parser
         $sql = 'INSERT INTO laws_references
 				(law_id, target_section_number, target_law_id, mentions, date_created, edition_id)
 				VALUES (:law_id, :section_number, :target_law_id, :mentions, now(), :edition_id)
-				ON DUPLICATE KEY UPDATE mentions=mentions';
-                $statement = $this->db->prepare($sql);
-        $i = 0;
+				ON DUPLICATE KEY UPDATE mentions = VALUES(mentions)';
+        $statement = $this->db->prepare($sql);
         foreach ($this->sections as $section => $mentions) {
             $sql_args = array(
                 ':law_id' => $this->section_id,
@@ -2158,7 +2222,7 @@ class Parser
             $result = $statement->execute($sql_args);
 
             if ($result === false) {
-                echo '<p>Failed: ' . $sql . '</p>';
+                $this->logger->error('Failed to insert reference: ' . $sql, 10);
                 return false;
             }
         }
@@ -2187,7 +2251,7 @@ class Parser
 
         $i = 0;
         $final = new stdClass();
-        foreach ($updates as &$update) {
+        foreach ($updates as $update) {
             /*
              * Match lines of the format "2010, c. 402, § 1-15.1"
              */
@@ -2198,6 +2262,7 @@ class Parser
              */
             $result = preg_match($pcre, $update, $matches);
             if (($result !== false) && ($result !== 0)) {
+                $final->{$i} = new stdClass();
                 if (!empty($matches[1])) {
                     $final->{$i}->year = $matches[1];
                 }
@@ -2205,11 +2270,12 @@ class Parser
                     $final->{$i}->chapter = trim($matches[2]);
                 }
                 if (!empty($matches[3])) {
-                    $result = preg_match(SECTION_REGEX, $update, $matches[3]);
+                    $result = preg_match(SECTION_REGEX, $update, $section_matches);
                     if (($result !== false) && ($result !== 0)) {
-                        $final->{$i}->section = $matches[0];
+                        $final->{$i}->section = $section_matches[0];
                     }
                 }
+                $i++;
             } else {
                 /*
                  * Then check for multiple matches.
@@ -2221,10 +2287,14 @@ class Parser
                 $result = preg_match_all($pcre, $update, $matches);
 
                 if (($result !== false) && ($result !== 0)) {
+                    $final->{$i} = new stdClass();
+
                     /*
-                     * Save the year.
+                     * Save the year. Two-digit years only appear in twentieth-century histories.
                      */
-                    $final->{$i}->year = $matches[1][0];
+                    $final->{$i}->year = (strlen($matches[1][0]) === 2)
+                        ? '19' . $matches[1][0]
+                        : $matches[1][0];
 
                     /*
                      * Save the chapter listing. We eliminate any trailing slash and space to avoid
@@ -2257,18 +2327,23 @@ class Parser
                     /*
                      * Locate any section identifier.
                      */
-                    $result = preg_match(SECTION_REGEX, $update, $matches);
+                    $result = preg_match(SECTION_REGEX, $update, $section_matches);
                     if (($result !== false) && ($result !== 0)) {
-                        $final->{$i}->section = $matches[0];
+                        $final->{$i}->section = $section_matches[0];
                     }
+
+                    $i++;
                 }
             }
-
-            $i++;
         }
 
-        if (is_object($final)) {
-            return $final;
+        /*
+         * If nothing in the history was parseable, say so.
+         */
+        if ($i === 0) {
+            return false;
         }
+
+        return $final;
     }
 }

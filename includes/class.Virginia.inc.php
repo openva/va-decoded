@@ -726,14 +726,22 @@ class Parser
         $children = $this->section->text->children();
         if (!$this->section->text->hasElementChildren()) {
             /*
-             * Plain text with no child elements — treat the whole <text> block as one section.
+             * Plain text with no child elements. Preserve its paragraph structure — e.g., lists
+             * of definitions — by storing each line as its own section of text, which the law
+             * page then renders as separate paragraphs.
              */
             $plain = trim((string) $this->section->text);
             if ($plain !== '') {
-                $this->code->section[0] = new stdClass();
-                $this->code->section[0]->text = $plain;
-                $this->code->text = $plain;
-                $this->i = 1;
+                foreach (preg_split('/\n+/', $plain) as $paragraph) {
+                    $paragraph = trim($paragraph);
+                    if ($paragraph === '') {
+                        continue;
+                    }
+                    $this->code->section[$this->i] = new stdClass();
+                    $this->code->section[$this->i]->text = $paragraph;
+                    $this->code->text .= $paragraph . "\n\n";
+                    $this->i++;
+                }
             }
         } else {
             $this->recurse($children);

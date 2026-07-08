@@ -168,7 +168,17 @@ class State
             }
         }
 
-        return (count($chapters) > 1 ? 'chapters ' : 'chapter ') . implode(', ', $html);
+        /*
+         * Join the list as natural English: "1 and 2" for a pair, "1, 2, and 3" for more.
+         */
+        if (count($html) > 1) {
+            $last = array_pop($html);
+            $joined = implode(', ', $html) . (count($html) > 1 ? ',' : '') . ' and ' . $last;
+        } else {
+            $joined = $html[0];
+        }
+
+        return (count($chapters) > 1 ? 'chapters ' : 'chapter ') . $joined;
     }
 
 

@@ -14,12 +14,12 @@ jobs:
 
     steps:
       - name: Check out va-decoded (configuration)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           path: va-decoded
 
       - name: Check out statedecoded
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: statedecoded/statedecoded
           ref: modernize
@@ -70,9 +70,9 @@ jobs:
         run: composer install --no-dev --no-interaction --prefer-dist
 
       - name: Set up Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Cache npm packages
         uses: actions/cache@v4
@@ -99,7 +99,7 @@ jobs:
             -x 'tests/*'
 
       - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v4
+        uses: aws-actions/configure-aws-credentials@v5
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

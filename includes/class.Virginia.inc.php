@@ -309,10 +309,19 @@ class State
         curl_setopt($ch, CURLOPT_REDIR_PROTOCOLS, $allowed_protocols & ~(CURLPROTO_FILE | CURLPROTO_SCP));
         $json = curl_exec($ch);
         $http_code = curl_getinfo($ch, CURLINFO_RESPONSE_CODE);
+        $curl_error = curl_error($ch);
         curl_close($ch);
 
         // If the query failed.
-        if (($json == false) || ($http_code != 200)) {
+        if ($curl_error) {
+            return false;
+        }
+
+        if ($http_code !== 200) {
+            return false;
+        }
+
+        if (empty($json)) {
             return false;
         }
 

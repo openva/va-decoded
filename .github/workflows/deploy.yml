@@ -112,8 +112,20 @@ jobs:
 
       - name: Create CodeDeploy deployment
         run: |
-          aws deploy create-deployment \
+          deployment_id=$(aws deploy create-deployment \
             --application-name ${{ secrets.CODEDEPLOY_APP_NAME }} \
             --deployment-group-name ${{ secrets.CODEDEPLOY_DEPLOYMENT_GROUP }} \
             --s3-location bucket=${{ secrets.S3_BUCKET }},key=statedecoded/deployment.zip,bundleType=zip \
-            --description "Deploy from ${{ github.sha }}"
+            --description "Deploy from ${{ github.sha }}" \
+            --query deploymentId --output text)
+          echo "Created deployment ${deployment_id}"
+
+          # create-deployment is fire-and-forget: without waiting for the result, the
+          # workflow goes green even when the deployment fails on the instance.
+          if ! aws deploy wait deployment-successful --deployment-id "${deployment_id}"; then
+            echo "::error::CodeDeploy deployment ${deployment_id} failed"
+            aws deploy get-deployment --deployment-id "${deployment_id}" \
+              --query 'deploymentInfo.errorInformation' --output json
+            exit 1
+          fi
+          echo "Deployment ${deployment_id} succeeded"

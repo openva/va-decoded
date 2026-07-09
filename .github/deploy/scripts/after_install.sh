@@ -17,3 +17,15 @@ sed -i "s|__API_KEY__|${api_key}|" includes/config.inc.php
 
 # Restrict config so credentials aren't world-readable
 chmod 640 includes/config.inc.php
+
+# Install the updater's schedule into root's crontab. Idempotent: any existing
+# updater entries are removed and replaced, so schedule changes made in this
+# script take effect on the next deploy.
+existing=$(crontab -l 2>/dev/null | grep -v '/var/www/vacode.org/updater.sh' || true)
+{
+    if [ -n "$existing" ]; then
+        printf '%s\n' "$existing"
+    fi
+    echo '0 2 2 1-6,8-12 * /var/www/vacode.org/updater.sh'
+    echo '0 2 2 7 * /var/www/vacode.org/updater.sh --new-edition'
+} | crontab -

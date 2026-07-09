@@ -1174,6 +1174,7 @@ class Parser
                      * We might have some xml fragments, so strip those.
                      */
                     $content = preg_replace('/<\?.*?\?>/s', '', $content);
+                    $content = strip_tags($content);
 
                     $this->code->section[$this->i]->text = $content;
                     $this->code->text .= strip_tags($content) . "\n\n";

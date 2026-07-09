@@ -329,7 +329,11 @@ class State
         $cl_list = json_decode($json);
 
         // If the JSON is invalid, or lacks the expected shape (e.g., an API error response).
-        if (($cl_list == false) || !isset($cl_list->count)) {
+        if (json_last_error() !== JSON_ERROR_NONE) {
+            return false;
+        }
+
+        if (!is_object($cl_list) || !isset($cl_list->count)) {
             return false;
         }
 

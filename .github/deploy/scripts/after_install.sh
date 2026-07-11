@@ -21,11 +21,11 @@ chmod 640 includes/config.inc.php
 # Install the updater's schedule into root's crontab. Idempotent: any existing
 # updater entries are removed and replaced, so schedule changes made in this
 # script take effect on the next deploy.
-existing=$(crontab -l 2>/dev/null | grep -v '/var/www/vacode.org/updater.sh' || true)
+existing=$(sudo -u ubuntu crontab -l 2>/dev/null | grep -v '/var/www/vacode.org/updater.sh' || true)
 {
     if [ -n "$existing" ]; then
         printf '%s\n' "$existing"
     fi
     echo '0 2 2 1-6,8-12 * /var/www/vacode.org/updater.sh'
     echo '0 2 2 7 * /var/www/vacode.org/updater.sh --new-edition'
-} | crontab -
+} | sudo -u ubuntu crontab -

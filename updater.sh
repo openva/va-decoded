@@ -18,7 +18,7 @@ APP_DIR=/var/www/vacode.org
 IMPORT_DIR="$APP_DIR/import-data"
 SCRATCH_DIR=$(mktemp -d)
 trap 'rm -rf "$SCRATCH_DIR"' EXIT
-LOG=/var/log/va-update-laws.log
+LOG=/var/www/vacode.org/update.log
 
 exec >> "$LOG" 2>&1
 echo "--- $(date -u +%Y-%m-%dT%H:%M:%SZ) new-edition=$NEW_EDITION ---"

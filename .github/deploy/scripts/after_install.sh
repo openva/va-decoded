@@ -3,7 +3,8 @@ set -euo pipefail
 
 cd /var/www/vacode.org
 
-chown -R www-data:www-data .
+chown -R www-data:ubuntu .
+chmod -R g+w .
 
 mkdir -p htdocs/admin/import-data htdocs/downloads htdocs/content
 

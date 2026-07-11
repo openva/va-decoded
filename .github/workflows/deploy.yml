@@ -46,6 +46,7 @@ jobs:
              statedecoded/includes/class.Virginia.inc.php
 
           cp va-decoded/updater.sh statedecoded/updater.sh
+          cp va-decoded/scraper.php statedecoded/scraper.php
           chmod +x statedecoded/updater.sh
 
           sed \

@@ -62,8 +62,9 @@ jobs:
           cp va-decoded/includes/class.Virginia.inc.php \
              statedecoded/includes/class.Virginia.inc.php
 
+          # The test suite imports statedecoded's own deploy/import-data/ fixtures
+          # (see ImportDataTest), so va-decoded's output/ is not copied here.
           mkdir -p statedecoded/htdocs/admin/import-data
-          cp va-decoded/output/*.xml statedecoded/htdocs/admin/import-data/
 
           sed \
             -e "s|__PDO_DSN__|mysql:dbname=statedecoded_test;host=127.0.0.1;charset=utf8|g" \

@@ -30,3 +30,8 @@ existing=$(sudo -u ubuntu crontab -l 2>/dev/null | grep -v '/var/www/vacode.org/
     echo '0 2 2 1-6,8-12 * /var/www/vacode.org/updater.sh'
     echo '0 2 2 7 * /var/www/vacode.org/updater.sh --new-edition'
 } | sudo -u ubuntu crontab -
+
+# Rotate the updater's log so it doesn't grow without bound. This script runs as
+# root, so it can write to /etc/logrotate.d.
+cp .github/deploy/logrotate-vacode /etc/logrotate.d/vacode
+chmod 644 /etc/logrotate.d/vacode

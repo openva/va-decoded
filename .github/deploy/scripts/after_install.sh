@@ -8,6 +8,10 @@ chmod -R g+w .
 
 mkdir -p htdocs/admin/import-data htdocs/downloads htdocs/content
 
+# Ensure the updater is executable: the zip → CodeDeploy round trip does not
+# reliably preserve the execute bit, and cron invokes this script directly.
+chmod +x updater.sh
+
 # Restore the preserved API_KEY value into the freshly-deployed config.
 api_key=""
 if [ -f /tmp/api_key ]; then

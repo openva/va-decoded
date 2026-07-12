@@ -19,10 +19,12 @@ sed -i "s|__API_KEY__|${api_key}|" includes/config.inc.php
 # Restrict config so credentials aren't world-readable
 chmod 640 includes/config.inc.php
 
-# Install the updater's schedule into root's crontab. Idempotent: any existing
-# updater entries are removed and replaced, so schedule changes made in this
-# script take effect on the next deploy.
-existing=$(sudo -u ubuntu crontab -l 2>/dev/null | grep -v '/var/www/vacode.org/updater.sh' || true)
+# Install the updater's schedule into the ubuntu user's crontab. Idempotent: our
+# own managed lines (the updater entries and the MAILTO we set) are stripped and
+# re-added, so schedule changes made in this script take effect on the next
+# deploy, while any unrelated entries are preserved.
+existing=$(sudo -u ubuntu crontab -l 2>/dev/null \
+    | grep -vE '/var/www/vacode.org/updater.sh|^MAILTO=waldo@jaquith\.org' || true)
 {
     if [ -n "$existing" ]; then
         printf '%s\n' "$existing"

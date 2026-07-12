@@ -47,6 +47,16 @@ jobs:
           tools: composer
           coverage: none
 
+      - name: Lint and test va-decoded
+        working-directory: va-decoded
+        run: |
+          php -l scraper.php
+          php -l test.php
+          php -l includes/config.inc.php
+          php -l includes/class.Virginia.inc.php
+          bash -n updater.sh
+          php test.php
+
       - name: Apply Virginia configuration
         run: |
           cp va-decoded/includes/class.Virginia.inc.php \

@@ -1,4 +1,4 @@
- <?php
+<?php
 
 /**
  * Virginia Code of Law Scraper

@@ -100,7 +100,7 @@ define('IMPORT_DATA_DIR', dirname(WEB_ROOT) . '/import-data/');
 /*
  * Set the amount of memory allowed to use for importing data.
  */
-define('IMPORT_MEMORY_LIMIT', '128M');
+define('IMPORT_MEMORY_LIMIT', '256M');
 
 /*
  * The file in the /includes/ directory that contains functions custom to this installation.

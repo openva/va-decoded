@@ -691,4 +691,7 @@ else
 echo "\n";
 echo "Results: $passed passed, $failed failed\n";
 
+/*
+ * Exit non-zero if anything failed, so CI (and any other caller) detects it.
+ */
 exit($failed > 0 ? 1 : 0);

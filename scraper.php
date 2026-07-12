@@ -53,8 +53,12 @@ else
 }
 
 /*
- * Process each title.
+ * Process each title. Track any titles we fail to process, so the run can exit
+ * non-zero: a partial scrape must not be treated as success, since the importer
+ * does a full replace and would drop the missing sections from the live site.
  */
+$failed_titles = [];
+
 foreach ($title_numbers as $title_number)
 {
 
@@ -65,6 +69,7 @@ foreach ($title_numbers as $title_number)
     if ($csv_data === false)
     {
         echo "  ERROR: Could not download CSV for Title $title_number\n";
+        $failed_titles[] = $title_number;
         continue;
     }
 
@@ -75,6 +80,7 @@ foreach ($title_numbers as $title_number)
     if (empty($rows))
     {
         echo "  WARNING: No rows found for Title $title_number\n";
+        $failed_titles[] = $title_number;
         continue;
     }
 
@@ -96,12 +102,20 @@ foreach ($title_numbers as $title_number)
          */
         $filename = str_replace([':', '/'], '_', $section_number) . '.xml';
         file_put_contents($output_dir . '/' . $filename, $xml);
-        echo '.';
 
     }
 
-    echo "\n";
+}
 
+/*
+ * If any title failed to download or parse, report it and exit non-zero so the
+ * updater aborts before importing an incomplete scrape.
+ */
+if (!empty($failed_titles))
+{
+    echo 'ERROR: ' . count($failed_titles) . ' title(s) failed: '
+        . implode(', ', $failed_titles) . "\n";
+    exit(1);
 }
 
 echo "Done.\n";

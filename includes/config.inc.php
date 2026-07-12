@@ -36,38 +36,28 @@ set_include_path( get_include_path() . PATH_SEPARATOR . INCLUDE_PATH . 'plugins/
 define('SITE_TITLE', 'Virginia Decoded');
 
 /*
- * Set the main site url.
- */
-$url = 'https://';
-if ( (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ||
-	($_SERVER['SERVER_PORT'] == 443) )
-{
-	$url = 'https://';
-}
-if(isset($_SERVER['SERVER_NAME']))
-{
-	$url .= $_SERVER['SERVER_NAME'];
-}
-
-/*
- * Define the site's URL. This can be defined manually by removing the below stanza, leaving just:
+ * Define the site's URL. When serving a web request, derive it from the request. In CLI context
+ * (the statedecoded task runner and the monthly cron imports), $_SERVER carries no request fields,
+ * so fall back to the canonical production URL — it is baked into the sitemap and the bulk export
+ * files at import time, so it must be correct even when no request is in flight.
  *
+ * To pin the URL manually, replace this whole stanza with, e.g.:
  * define('SITE_URL', 'https://example.com:1234');
- *
- * substituting, of course, your site's protocol, domain name, and port (if you're using a non-
- * standard port).
  */
-$url = 'https://';
-if ( (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') || ($_SERVER['SERVER_PORT'] == 443) )
+if (isset($_SERVER['SERVER_NAME']))
 {
-	$url = 'https://';
+	$url = 'https://' . $_SERVER['SERVER_NAME'];
+	if ( !empty($_SERVER['SERVER_PORT'])
+		&& ($_SERVER['SERVER_PORT'] != '80') && ($_SERVER['SERVER_PORT'] != '443') )
+	{
+		$url .= ':' . $_SERVER['SERVER_PORT'];
+	}
+	define('SITE_URL', $url);
 }
-$url .= $_SERVER['SERVER_NAME'];
-if ( ($_SERVER['SERVER_PORT'] != '80') && ($_SERVER['SERVER_PORT'] != '443') )
+else
 {
-	$url .= ':' . $_SERVER['SERVER_PORT'];
+	define('SITE_URL', 'https://vacode.org');
 }
-define('SITE_URL', $url);
 
 /*
  * What is the name of the place that these laws govern?
@@ -88,7 +78,9 @@ define('SECTION_SYMBOL', '§');
 /*
  * Define the web root -- the directory in which index.php is found.
  */
-define('WEB_ROOT', $_SERVER['DOCUMENT_ROOT'] ? $_SERVER['DOCUMENT_ROOT'] : dirname(INCLUDE_PATH) . '/htdocs/');
+define('WEB_ROOT', (isset($_SERVER['DOCUMENT_ROOT']) && $_SERVER['DOCUMENT_ROOT'])
+	? $_SERVER['DOCUMENT_ROOT']
+	: dirname(INCLUDE_PATH) . '/htdocs/');
 
 /*
  * Define the location of the files to import. This lives outside the webroot

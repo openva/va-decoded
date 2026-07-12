@@ -91,6 +91,7 @@ jobs:
           cp va-decoded/.github/deploy/appspec.yml statedecoded/appspec.yml
           mkdir -p statedecoded/.github/deploy
           cp -r va-decoded/.github/deploy/scripts statedecoded/.github/deploy/scripts
+          cp va-decoded/.github/deploy/logrotate-vacode statedecoded/.github/deploy/logrotate-vacode
           chmod +x statedecoded/.github/deploy/scripts/*.sh
           cd statedecoded
           zip -qr ../deployment.zip . \

@@ -29,6 +29,9 @@ existing=$(sudo -u ubuntu crontab -l 2>/dev/null \
     if [ -n "$existing" ]; then
         printf '%s\n' "$existing"
     fi
+    # Mail any cron-level failure of the updater jobs (e.g., a missing or
+    # non-executable script). The script redirects its own output to the log.
+    echo 'MAILTO=waldo@jaquith.org'
     echo '0 2 2 1-6,8-12 * /var/www/vacode.org/updater.sh'
     echo '0 2 2 7 * /var/www/vacode.org/updater.sh --new-edition'
 } | sudo -u ubuntu crontab -

@@ -59,6 +59,13 @@ else
  */
 $failed_titles = [];
 
+/*
+ * Accumulates the source-order of structural units across the whole run, so
+ * each unit can be tagged with an order_by reflecting the order it first
+ * appears in the source data. See assign_order().
+ */
+$order_state = [];
+
 foreach ($title_numbers as $title_number)
 {
 
@@ -95,7 +102,7 @@ foreach ($title_numbers as $title_number)
             continue;
         }
 
-        $xml = generate_xml($row);
+        $xml = generate_xml($row, $order_state);
 
         /*
          * Write the XML file. Replace colons with underscores in filenames.
@@ -178,7 +185,7 @@ function fetch_title_numbers(string $url): array
 /**
  * Generate State Decoded XML for a single section.
  */
-function generate_xml(array $row): string
+function generate_xml(array $row, array &$order_state = []): string
 {
 
     $body_html = $row['Body'] ?? '';
@@ -198,7 +205,7 @@ function generate_xml(array $row): string
     /*
      * Build the structure hierarchy.
      */
-    $structure_xml = build_structure_xml($row);
+    $structure_xml = build_structure_xml($row, $order_state);
 
     /*
      * Assemble the final XML.
@@ -226,7 +233,7 @@ function generate_xml(array $row): string
 /**
  * Build the <structure> element from the CSV row's hierarchy fields.
  */
-function build_structure_xml(array $row): string
+function build_structure_xml(array $row, array &$order_state = []): string
 {
 
     $xml = "\t<structure>\n";
@@ -240,6 +247,13 @@ function build_structure_xml(array $row): string
         'subpart'   => ['num' => 'SubPartNum',   'name' => 'SubPartName'],
         'article'   => ['num' => 'ArticleNum',   'name' => 'ArticleName'],
     ];
+
+    /*
+     * Running path of the ancestor units above the one being emitted. Used to
+     * scope the source-order counter so that, e.g., "Article 1" under one
+     * chapter is ordered independently of "Article 1" under another.
+     */
+    $parent_path = '';
 
     foreach ($hierarchy as $label => $fields)
     {
@@ -255,10 +269,31 @@ function build_structure_xml(array $row): string
         $identifier_attr = htmlspecialchars($identifier, ENT_XML1, 'UTF-8');
         $name_escaped = htmlspecialchars(to_title_case($name), ENT_XML1, 'UTF-8');
 
-        $xml .= "\t\t<unit label=\"$label\" identifier=\"$identifier_attr\" level=\"$level\">";
+        /*
+         * A unit is identified among its siblings by its label, identifier, and
+         * name; include the name so admin divisions (which share a blank
+         * identifier) remain distinct in the path.
+         */
+        $unit_key = $label . ':' . $identifier . '|' . $name;
+
+        /*
+         * Record the order this unit first appears in the source. Admin
+         * divisions (blank identifier) are forced to order_by=0 by the importer
+         * regardless, so we skip the attribute for them — but still extend the
+         * path so their children stay correctly scoped.
+         */
+        $order_attr = '';
+        if ($identifier !== '')
+        {
+            $order = assign_order($parent_path, $unit_key, $order_state);
+            $order_attr = " order_by=\"$order\"";
+        }
+
+        $xml .= "\t\t<unit label=\"$label\" identifier=\"$identifier_attr\" level=\"$level\"$order_attr>";
         $xml .= $name_escaped;
         $xml .= "</unit>\n";
 
+        $parent_path .= "\x1f" . $unit_key;
         $level++;
 
     }
@@ -266,6 +301,30 @@ function build_structure_xml(array $row): string
     $xml .= "\t</structure>\n";
 
     return $xml;
+
+}
+
+
+/**
+ * Assign a stable, 1-based order to a structural unit among its siblings,
+ * reflecting the order units are first encountered across a scrape run.
+ *
+ * The source CSVs are in document order, so the first time a unit is seen under
+ * a given parent determines its position. $order_state accumulates across every
+ * row and title in a single run and must be passed by reference throughout.
+ */
+function assign_order(string $parent_path, string $unit_key, array &$order_state): int
+{
+
+    $full = $parent_path . "\x1f" . $unit_key;
+
+    if (!isset($order_state['order'][$full]))
+    {
+        $order_state['count'][$parent_path] = ($order_state['count'][$parent_path] ?? 0) + 1;
+        $order_state['order'][$full] = $order_state['count'][$parent_path];
+    }
+
+    return $order_state['order'][$full];
 
 }
 

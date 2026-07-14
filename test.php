@@ -344,6 +344,117 @@ assert_true(
 
 /*
  * =========================================================================
+ * Structural ordering (order_by)
+ * =========================================================================
+ *
+ * order_by records the order structural units first appear in the source, so
+ * that siblings (e.g. Roman-numeral subtitles) sort by document order rather
+ * than alphabetically by identifier.
+ */
+
+echo "Testing structural ordering...\n";
+
+/*
+ * Siblings under the same parent, seen in source order, get ascending order_by.
+ * Roman numerals are the motivating case: alphabetically "IX" precedes "V", but
+ * by appearance order they must not.
+ */
+$order_state = [];
+$rows_ordered = [
+    ['ChapterNum' => '1', 'ChapterName' => 'V',    'ArticleNum' => '', 'ArticleName' => ''],
+    ['ChapterNum' => '2', 'ChapterName' => 'IX',   'ArticleNum' => '', 'ArticleName' => ''],
+    ['ChapterNum' => '3', 'ChapterName' => 'X',    'ArticleNum' => '', 'ArticleName' => ''],
+];
+$base = ['TitleNum' => '1', 'TitleName' => 'General Provisions'];
+$out = [];
+foreach ($rows_ordered as $r)
+{
+    $out[] = build_structure_xml(array_merge($base, $r), $order_state);
+}
+
+assert_true(
+    strpos($out[0], 'identifier="1" level="2" order_by="1"') !== false,
+    'first chapter seen gets order_by="1"'
+);
+assert_true(
+    strpos($out[1], 'identifier="2" level="2" order_by="2"') !== false,
+    'second chapter seen gets order_by="2"'
+);
+assert_true(
+    strpos($out[2], 'identifier="3" level="2" order_by="3"') !== false,
+    'third chapter seen gets order_by="3"'
+);
+assert_true(
+    strpos($out[0], 'label="title" identifier="1" level="1" order_by="1"') !== false,
+    'the shared title gets order_by="1"'
+);
+
+/*
+ * A unit seen again in a later row keeps its original order_by rather than
+ * being reassigned.
+ */
+$repeat = build_structure_xml(array_merge($base, $rows_ordered[0]), $order_state);
+assert_true(
+    strpos($repeat, 'identifier="1" level="2" order_by="1"') !== false,
+    'a repeated chapter keeps its first-seen order_by'
+);
+
+/*
+ * The same identifier under different parents is ordered independently: each
+ * chapter's first article is order_by="1".
+ */
+$order_state2 = [];
+$s_ch1 = build_structure_xml(
+    ['TitleNum' => '1', 'TitleName' => 'T', 'ChapterNum' => '1', 'ChapterName' => 'One',
+     'ArticleNum' => '1', 'ArticleName' => 'First'],
+    $order_state2
+);
+$s_ch2 = build_structure_xml(
+    ['TitleNum' => '1', 'TitleName' => 'T', 'ChapterNum' => '2', 'ChapterName' => 'Two',
+     'ArticleNum' => '1', 'ArticleName' => 'First'],
+    $order_state2
+);
+assert_true(
+    strpos($s_ch1, 'label="article" identifier="1" level="3" order_by="1"') !== false,
+    'article 1 under chapter 1 is order_by="1"'
+);
+assert_true(
+    strpos($s_ch2, 'label="article" identifier="1" level="3" order_by="1"') !== false,
+    'article 1 under chapter 2 is independently order_by="1"'
+);
+
+/*
+ * Admin divisions (blank identifier, name only) get no order_by attribute — the
+ * importer forces those to 0 — but their children are still scoped beneath them.
+ */
+$order_state3 = [];
+$s_admin = build_structure_xml(
+    ['TitleNum' => '1', 'TitleName' => 'T', 'ChapterNum' => '', 'ChapterName' => 'Uncodified',
+     'ArticleNum' => '1', 'ArticleName' => 'First'],
+    $order_state3
+);
+assert_true(
+    strpos($s_admin, 'label="chapter" identifier="" level="2">') !== false,
+    'blank-identifier chapter is emitted without an order_by attribute'
+);
+assert_true(
+    strpos($s_admin, 'label="article" identifier="1" level="3" order_by="1"') !== false,
+    'a real child under an admin division still gets ordered'
+);
+
+/*
+ * Called without a shared state argument, a single row still orders internally:
+ * every unit is the first of its siblings seen, so all are order_by="1".
+ */
+$s_stateless = build_structure_xml(array_merge($base, $rows_ordered[0]));
+assert_true(
+    strpos($s_stateless, 'label="chapter" identifier="1" level="2" order_by="1"') !== false,
+    'a stateless call still orders each unit within the single row'
+);
+
+
+/*
+ * =========================================================================
  * classify_prefix()
  * =========================================================================
  */

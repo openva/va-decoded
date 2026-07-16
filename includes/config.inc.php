@@ -86,8 +86,13 @@ define('WEB_ROOT', (isset($_SERVER['DOCUMENT_ROOT']) && $_SERVER['DOCUMENT_ROOT'
  * Define the location of the files to import. This lives outside the webroot
  * (and outside the CodeDeploy bundle) so that the updater's scraped XML persists
  * across deploys. See updater.md.
+ *
+ * Anchored to INCLUDE_PATH, not WEB_ROOT: WEB_ROOT follows DOCUMENT_ROOT when
+ * set, so deriving this from it would make the path depend on the vhost and
+ * differ between web and CLI invocations. This path is fixed relative to the
+ * app root under both.
  */
-define('IMPORT_DATA_DIR', dirname(WEB_ROOT) . '/import-data/');
+define('IMPORT_DATA_DIR', dirname(INCLUDE_PATH) . '/import-data/');
 
 /*
  * Set the amount of memory allowed to use for importing data.

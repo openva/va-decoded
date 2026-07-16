@@ -67,10 +67,18 @@ law_count() {
 ( cd "$SCRATCH_DIR" && php "$APP_DIR/scraper.php" )
 NEW_DIR="$SCRATCH_DIR/output"
 
-# Sanity check: abort if output looks suspiciously small.
+# Sanity check: abort if output looks suspiciously small. On the very first run
+# import-data/ does not exist yet; find exits non-zero, and pipefail propagates
+# that through wc, so the bare assignment would fail under `set -e`. Treat a
+# missing directory as an empty one, which is what it means here.
 new_count=$(find "$NEW_DIR" -name '*.xml' | wc -l)
-old_count=$(find "$IMPORT_DIR" -name '*.xml' 2>/dev/null | wc -l)
-if [ "$new_count" -lt $(( old_count * 9 / 10 )) ]; then
+if [ -d "$IMPORT_DIR" ]; then
+    old_count=$(find "$IMPORT_DIR" -name '*.xml' | wc -l)
+else
+    old_count=0
+fi
+min_count=$(( old_count * 9 / 10 ))
+if [ "$new_count" -lt "$min_count" ]; then
     echo "ERROR: new XML count ($new_count) is more than 10% below current ($old_count). Aborting."
     exit 1
 fi
@@ -108,7 +116,8 @@ if [ "$NEW_EDITION" = true ]; then
     # Refuse to promote an edition the import didn't actually fill: promoting an
     # empty edition would take the site down.
     imported=$(law_count "$YEAR" || true)
-    if [ "${imported:-0}" -lt $(( new_count * 9 / 10 )) ]; then
+    min_imported=$(( new_count * 9 / 10 ))
+    if [ "${imported:-0}" -lt "$min_imported" ]; then
         echo "ERROR: edition $YEAR has only ${imported:-0} laws after import (scraped $new_count). Not promoting."
         exit 1
     fi
@@ -125,7 +134,8 @@ else
     # without writing the stamp, so next month's run retries rather than seeing
     # "no changes."
     imported=$(law_count || true)
-    if [ "${imported:-0}" -lt $(( new_count * 9 / 10 )) ]; then
+    min_imported=$(( new_count * 9 / 10 ))
+    if [ "${imported:-0}" -lt "$min_imported" ]; then
         echo "ERROR: current edition has only ${imported:-0} laws after import (scraped $new_count)."
         exit 1
     fi

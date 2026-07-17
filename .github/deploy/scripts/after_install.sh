@@ -21,12 +21,22 @@ chmod 664 htdocs/sitemap.xml
 
 # The importer reads from IMPORT_DATA_DIR, which sits outside the webroot and
 # outside this bundle so the updater's scraped XML survives deploys. Absolute
-# path deliberately: it is not part of the deployed tree. The chown/chmod above
-# does not reach it, so grant www-data:ubuntu explicitly -- the updater (ubuntu)
-# writes it, the importer (www-data) reads it.
+# path deliberately: it is not part of the deployed tree, so the recursive
+# chown above does not reach it.
+#
+# Ownership is ubuntu, the inverse of the app tree: updater.sh runs from
+# ubuntu's crontab and rsyncs into this directory, and rsync -a (which implies
+# -t) sets mtime on the destination directory itself. That requires ownership --
+# utimensat() returns EPERM unless the effective UID matches the owner, so group
+# write is not sufficient.
+#
+# Only the ownership set here persists. rsync -a also implies -p, so the mode
+# and group below are replaced on each run by those of the scraper's output
+# directory (0755 under ubuntu's umask). That is what lets www-data, which only
+# ever reads these files, still traverse the directory and read the 0644 XML.
 mkdir -p /var/www/vacode.org/import-data
-chown www-data:ubuntu /var/www/vacode.org/import-data
-chmod g+w /var/www/vacode.org/import-data
+chown ubuntu:www-data /var/www/vacode.org/import-data
+chmod 755 /var/www/vacode.org/import-data
 
 # Ensure the updater is executable: the zip → CodeDeploy round trip does not
 # reliably preserve the execute bit, and cron invokes this script directly.

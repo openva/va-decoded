@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="4" level="4">Accounting, Returns, Procedures for Individuals</unit>
+	</structure>
+	<section_number>58.1-342</section_number>
+	<catch_line>Special cases in which nonresident need not file Virginia return</catch_line>
+	<text>
+		<section prefix="A">A nonresident of Virginia who had no actual place of abode in this Commonwealth at any time during the taxable year and commuted on a daily basis from his place of residence in another state to his place of employment in Virginia is hereby relieved of filing an income tax return with this Commonwealth for that taxable year provided:
+			<section prefix="1">His only income from Virginia sources was from salaries and wages;
+			</section>
+			<section prefix="2">Such salaries and wages were subject to income taxation by the state of his residence under an income tax law substantially similar in principle to this chapter;
+			</section>
+			<section prefix="3">The laws of such other state contain a provision substantially similar in effect to that contained in § 58.1-332 and applicable to residents of Virginia; and
+			</section>
+			<section prefix="4">The laws of such other state accord like treatment to a resident of this Commonwealth who commuted on a daily basis from his place of residence in Virginia to his place of employment in such other state.
+			</section>
+		</section>
+		<section prefix="B">The Department may enter into reciprocal agreements with other states to exempt nonresidents from the Virginia income tax if such other states similarly exempt Virginia residents. Under such reciprocal agreements nonresidents are not required to pay tax or file a return with, nor be subject to withholding by, the reciprocating state on compensation paid in that state or on income distributed by a trust domiciled in that state.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.063; 1971, Ex. Sess., c. 171; 1982, c. 528; 1984, c. 675; 1998, c. 352.</history>
+</law>

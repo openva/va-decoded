@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="2" level="2">Clerks, Clerks' Offices and Records</unit>
+		<unit label="article" identifier="4.1" level="3">Electronic Filing</unit>
+	</structure>
+	<section_number>17.1-258.3:1</section_number>
+	<catch_line>Electronic filing of land records; paper form</catch_line>
+	<text>
+		<section prefix="A">A clerk of a circuit court may provide a network or system for electronic filing of land records in accordance with the provisions of Article 3 (§ 55.1-346 et seq.) of Chapter 3 of Title 55.1 regarding the satisfaction of mortgages and the Uniform Real Property Electronic Recording Act (§ 55.1-661 et seq.). The clerk may require each filer to provide proof of identity to the clerk. The clerk shall enter into an electronic filing agreement with each filer in accordance with Virginia Real Property Electronic Recording Standards established by the Virginia Information Technologies Agency. Nothing herein shall be construed to prevent the clerk from entering into agreements with designated application service providers to provide all or part of the network or system for electronic filing of land records as provided herein. Further, nothing herein shall be construed to require the electronic filing of any land record, and such records may continue to be filed in paper form.
+		</section>
+		<section prefix="B">Any clerk of a circuit court with an electronic filing system established in accordance with this section may charge a fee not to exceed $5 per instrument for every land record filed by paper. The fee shall be paid to the clerk's office and deposited by the clerk into the clerk's nonreverting local fund to be used exclusively to cover the operational expenses as defined in § 17.1-295.
+		</section>
+		<section prefix="C">The clerk shall maintain a disaster plan, as defined in § 42.1-77, for recovery of any land record in possession of the clerk that is maintained as an electronic record.
+		</section>
+	</text>
+	<history>2008, cc. 823, 833; 2010, c. 430; 2012, c. 234; 2013, c. 77; 2016, c. 264; 2017, cc. 90, 289.</history>
+</law>

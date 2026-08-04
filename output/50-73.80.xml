@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>50-73.80</section_number>
+	<catch_line>Knowledge and notice</catch_line>
+	<text>
+		<section prefix="A">A person knows a fact if the person has actual knowledge of it.
+		</section>
+		<section prefix="B">A person has notice of a fact if the person:
+			<section prefix="1">Knows of it;
+			</section>
+			<section prefix="2">Has received a notification of it; or
+			</section>
+			<section prefix="3">Has reason to know it exists from all of the facts known to the person at the time in question.
+			</section>
+		</section>
+		<section prefix="C">A person notifies or gives a notification to another by taking steps reasonably calculated to inform the other person in ordinary course, whether or not the other person learns of it.
+		</section>
+		<section prefix="D">A person receives a notification when the notification:
+			<section prefix="1">Comes to the person's attention; or
+			</section>
+			<section prefix="2">Is duly delivered at the person's place of business or at any other place held out by the person as a place for receiving communications.
+			</section>
+		</section>
+		<section prefix="E">Except as otherwise provided in subsection F, a person other than an individual knows, has notice, or receives a notification of a fact for purposes of a particular transaction when the individual conducting the transaction knows, has notice, or receives a notification of the fact, or in any event when the fact would have been brought to the individual's attention if the person had exercised reasonable diligence. The person exercises reasonable diligence if it maintains reasonable routines for communicating significant information to the individual conducting the transaction and there is reasonable compliance with the routines. Reasonable diligence does not require an individual acting for the person to communicate information unless the communication is part of the individual's regular duties or the individual has reason to know of the transaction and that the transaction would be materially affected by the information.
+		</section>
+		<section prefix="F">A partner's knowledge, notice, or receipt of a notification of a fact relating to the partnership is effective immediately as knowledge by, notice to, or receipt of a notification by the partnership, except in the case of a fraud on the partnership committed by or with the consent of that partner.
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

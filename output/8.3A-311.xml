@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="3" level="2">Enforcement of Instruments</unit>
+	</structure>
+	<section_number>8.3A-311</section_number>
+	<catch_line>Accord and satisfaction by use of instrument</catch_line>
+	<text>
+		<section prefix="a">If a person against whom a claim is asserted proves that (i) that person in good faith tendered an instrument to the claimant as full satisfaction of the claim, (ii) the amount of the claim was unliquidated or subject to a bona fide dispute, and (iii) the claimant obtained payment of the instrument, the following subsections apply. For purposes of this subsection, a person does not act in good faith when tendering a check in full satisfaction of an obligation under a loan if (i) such check is for less than the amount due under the terms of the loan agreement and (ii) such check is tendered to a person without knowledge of a dispute concerning the loan.
+		</section>
+		<section prefix="b">Unless subsection (c) applies, the claim is discharged if the person against whom the claim is asserted proves that the instrument or an accompanying written communication contained a conspicuous statement to the effect that the instrument was tendered as full satisfaction of the claim.
+		</section>
+		<section prefix="c">Subject to subsection (d), a claim is not discharged under subsection (b) if either of the following applies:
+			<section prefix="1">The claimant, if an organization, proves that (i) within a reasonable time before the tender, the claimant sent a conspicuous statement to the person against whom the claim is asserted that communications concerning disputed debts, including an instrument tendered as full satisfaction of a debt, are to be sent to a designated person, office, or place, and (ii) the instrument or accompanying communication was not received by that designated person, office, or place.
+			</section>
+			<section prefix="2">The claimant, whether or not an organization, proves that within ninety days after payment of the instrument, the claimant tendered repayment of the amount of the instrument to the person against whom the claim is asserted. This paragraph does not apply if the claimant is an organization that sent a statement complying with paragraph (1) (i).
+			</section>
+		</section>
+		<section prefix="d">A claim is discharged if the person against whom the claim is asserted proves that within a reasonable time before collection of the instrument was initiated, the claimant, or an agent of the claimant having direct responsibility with respect to the disputed obligation, knew that the instrument was tendered in full satisfaction of the claim.
+		</section>
+	</text>
+	<history>1992, c. 693; 2006, c. 624.</history>
+</law>

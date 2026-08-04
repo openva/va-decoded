@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="9" level="3">Virginia Estate Tax</unit>
+		<unit label="article" identifier="2" level="4">Payment of Death Taxes Due by Nonresident Decedents to Other States</unit>
+	</structure>
+	<section_number>58.1-914</section_number>
+	<catch_line>Notice to domiciliary state if proof not filed</catch_line>
+	<text>
+		If such proof is not filed within the time limit set out in § 58.1-913, then the clerk of the court shall forthwith notify by mail the official or body of the domiciliary state charged with the administration of the death tax laws thereof with respect to such estate and shall state in such notice so far as is known to him:
+		<section prefix="1">The name, date of death and last domicile of such decedent;
+		</section>
+		<section prefix="2">The name and address of each executor or administrator;
+		</section>
+		<section prefix="3">A summary of the values of the real estate, tangible personalty and intangible personalty, wherever situated, belonging to such decedent at the time of his death; and
+		</section>
+		<section prefix="4">The fact that such executor or administrator has not filed the proof required in § 58.1-913.
+			The clerk shall attach to such notice a plain copy of the will and codicils of the decedent, if he died testate, or, if he died intestate, a list of his heirs and next of kin, so far as is known to the clerk.
+		</section>
+	</text>
+	<history>Code 1950, § 58-238.19; 1978, c. 838; 1979, c. 559; 1984, c. 675.</history>
+</law>

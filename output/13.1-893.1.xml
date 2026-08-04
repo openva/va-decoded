@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="11" level="3">Merger</unit>
+	</structure>
+	<section_number>13.1-893.1</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article:
+		"Merger" means a business combination pursuant to § 13.1-894.
+		"Party to a merger" means any domestic or foreign corporation or eligible entity that will merge under a plan of merger.
+		"Survivor" in a merger means the domestic or foreign corporation or the eligible entity into which one or more other domestic or foreign corporations or eligible entities are merged. A survivor of a merger may preexist the merger or be created by the merger.
+	</text>
+	<history>2007, c. 925; 2009, c. 216.</history>
+</law>

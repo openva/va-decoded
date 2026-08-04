@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="21" level="3">Regulation of Property Carriers</unit>
+		<unit label="article" identifier="4" level="4">Household Goods Carriers</unit>
+	</structure>
+	<section_number>46.2-2162</section_number>
+	<catch_line>Carrier liability</catch_line>
+	<text>
+		<section prefix="A">No delivery acknowledgement on any shipping document to be signed by the consignee at time of delivery shall contain any language that purports to release or discharge the carrier or its agents from liability, other than a statement that the property has been received in apparent good condition except as noted on the shipping documents.
+		</section>
+		<section prefix="B">Household goods carriers shall not assume any liability in excess of that for which they are legally liable under their lawful bills of lading and published tariffs.
+		</section>
+		<section prefix="C">Household goods carriers shall not advertise or represent to the public that "all loads are insured" or other similar wording, unless such carrier has filed tariffs with the Department, assuming complete liability, and has filed evidence of insurance with the Department providing protection covering all shipments to their full value without limitation and insuring against every peril to which any shipment may be exposed.
+		</section>
+		<section prefix="D">Shipper or his representative will acknowledge that the property has been received in apparent good condition except as noted on the shipping documents at time of delivery.
+		</section>
+	</text>
+	<history>2001, c. 596.</history>
+</law>

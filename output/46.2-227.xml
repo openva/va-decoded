@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions; Department of Motor Vehicles</unit>
+		<unit label="chapter" identifier="2" level="3">Department of Motor Vehicles</unit>
+		<unit label="article" identifier="3" level="4">Electronic Credentials Act</unit>
+	</structure>
+	<section_number>46.2-227</section_number>
+	<catch_line>Fees</catch_line>
+	<text>
+		<section prefix="A">The Department shall assess a fee of up to $10 per year for each individual who is issued electronic credentials by the Department or is granted access to an electronic credential issued in accordance with an agreement pursuant to the provisions of subsection C of § 46.2-226.
+		</section>
+		<section prefix="B">The Department shall assess a fee pursuant to § 46.2-214 for searches of the verification system.
+		</section>
+		<section prefix="C">Pursuant to § 46.2-214, the fees received by the Department pursuant to this section shall be paid into the state treasury and shall be set aside as a special fund to be used to meet the expenses of the Department.
+		</section>
+	</text>
+	<history>2017, c. 697; 2022, c. 183.</history>
+</law>

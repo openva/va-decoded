@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="3" level="3">Form and Effect of Deeds and Covenants; Liens</unit>
+		<unit label="article" identifier="2" level="4">Form and Effect of Deeds of Trust; Sales Thereunder; Assignments; Releases</unit>
+	</structure>
+	<section_number>55.1-319</section_number>
+	<catch_line>Priority of residential refinance mortgage over subordinate mortgage</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Prior mortgage" means a mortgage, deed of trust, or other instrument encumbering or conveying an interest in residential real estate containing not more than one dwelling unit to secure a financing.
+			"Refinance mortgage" means a mortgage, deed of trust, or other instrument encumbering or conveying an interest in residential real estate containing not more than one dwelling unit to secure a refinancing.
+			"Refinancing" means the replacement of a loan secured by a prior mortgage with a new loan secured by a refinance mortgage and the payment in full of the debt owed under the original loan secured by the prior mortgage.
+			"Subordinate mortgage" means a mortgage or deed of trust securing an original principal amount not exceeding $150,000, encumbering or conveying an interest in residential real estate containing not more than one dwelling unit that is subordinate in priority (i) under subdivision A 1 of § 55.1-407 or (ii) as a result of a previous refinancing.
+		</section>
+		<section prefix="B">Upon the refinancing of a prior mortgage, a subordinate mortgage shall retain the same subordinate position with respect to a refinance mortgage as the subordinate mortgage had with the prior mortgage, provided that:
+			<section prefix="1">Such refinance mortgage states on the first page thereof in bold or capitalized letters: "THIS IS A REFINANCE OF A (DEED OF TRUST, MORTGAGE OR OTHER SECURITY INTEREST) RECORDED IN THE CLERK'S OFFICE, CIRCUIT COURT OF (NAME OF COUNTY OR CITY), VIRGINIA, IN DEED BOOK ______, PAGE ______, IN THE ORIGINAL PRINCIPAL AMOUNT OF ______, AND WITH THE OUTSTANDING PRINCIPAL BALANCE WHICH IS ______ WHICH HAD AN INTEREST RATE OF ___% PER ANNUM.";
+			</section>
+			<section prefix="2">The principal amount secured by such refinance mortgage does not exceed the outstanding principal balance secured by the prior mortgage plus $5,000; and
+			</section>
+			<section prefix="3">The interest rate of the refinance mortgage at the time it is recorded does not exceed the interest rate of the prior mortgage. The interest rate of the prior mortgage shall be stated on the first page of the refinance mortgage.
+			</section>
+		</section>
+		<section prefix="C">The priorities among two or more subordinate mortgages shall be governed by subdivision A 1 of § 55.1-407.
+		</section>
+		<section prefix="D">The provisions of subsection B shall not apply to a subordinate mortgage securing a promissory note payable to any locality or any agency, authority, or political subdivision of the Commonwealth if such subordinate mortgage is financed pursuant to an affordable dwelling unit ordinance adopted pursuant to § 15.2-2304 or 15.2-2305, or pursuant to any program authorized by federal or state law or local ordinance or resolution, for (i) low-income and moderate-income persons or households or (ii) improvements to residential potable water supplies and sanitary sewage disposal systems made to address an existing or potential public health hazard, and which mortgage, if recorded on or after July 1, 2003, states on the first page thereof in bold or capitalized letters: "THIS (DEED OF TRUST, MORTGAGE OR OTHER SECURITY INTEREST) SHALL NOT, WITHOUT THE CONSENT OF THE SECURED PARTY HEREUNDER, BE SUBORDINATED UPON THE REFINANCING OF ANY PRIOR MORTGAGE."
+		</section>
+	</text>
+	<history>2000, c. 971, § 55-58.3; 2002, c. 172; 2003, c. 381; 2011, c. 77; 2014, c. 338; 2019, c. 712; 2021, Sp. Sess. I, c. 13.</history>
+</law>

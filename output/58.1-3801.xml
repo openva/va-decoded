@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="III" level="2">Local Taxes</unit>
+		<unit label="chapter" identifier="38" level="3">Miscellaneous Taxes</unit>
+		<unit label="article" identifier="1" level="4">Recordation Tax</unit>
+	</structure>
+	<section_number>58.1-3801</section_number>
+	<catch_line>Taxation of instruments relating to property located in more than one jurisdiction</catch_line>
+	<text>
+		The tax imposed by a city or county pursuant to this article upon a deed or other instrument which conveys, covers, or relates to property located partially within such city or county shall be computed and collected only with respect to that portion of the property located in such city or county.
+	</text>
+	<history>Code 1950, § 58-65.1; 1958, c. 590; 1972, c. 186; 1984, c. 675; 1988, c. 421.</history>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="III" level="2">Rental Conveyances</unit>
+		<unit label="chapter" identifier="13" level="3">Manufactured Home Lot Rental Act</unit>
+	</structure>
+	<section_number>55.1-1314</section_number>
+	<catch_line>Retaliatory conduct prohibited</catch_line>
+	<text>
+		<section prefix="A">Except as provided in this section, or as otherwise provided by law, a landlord shall not retaliate by selectively increasing rent or decreasing services or by bringing or threatening to bring an action for possession after the landlord has knowledge that (i) the tenant has complained to a governmental agency charged with responsibility for enforcement of a building or housing code of a violation applicable to the premises materially affecting health or safety, (ii) the tenant has made a complaint to or filed an action against the landlord for a violation of any provision of this chapter, (iii) the tenant has organized or become a member of a tenant's organization, or (iv) the tenant has testified in a court proceeding against the landlord.
+		</section>
+		<section prefix="B">The landlord shall be deemed to have knowledge of a fact if he has actual knowledge of it, he has received a notice or notification of it, or, from all the facts and circumstances known to him at the time in question, he has reason to know that it exists.
+		</section>
+		<section prefix="C">Notwithstanding the provisions of subsections A and B, a landlord may terminate the rental agreement pursuant to subsection A of § 55.1-1308 and bring an action for possession if:
+			<section prefix="1">Violation of the applicable building and housing code was caused by lack of reasonable care by the tenant, a member of the tenant's household, or a guest or invitee of the tenant;
+			</section>
+			<section prefix="2">The tenant is in default in rent; or
+			</section>
+			<section prefix="3">The tenant is in default of a provision of the rental agreement materially affecting the health and safety of the tenant or others.
+			</section>
+		</section>
+	</text>
+	<history>1986, c. 586, § 55-248.50; 1991, c. 185; 1992, c. 709; 2019, c. 712.</history>
+</law>

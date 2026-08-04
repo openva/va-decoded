@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="12" level="4">Department of Human Resource Management</unit>
+	</structure>
+	<section_number>2.2-1201.1</section_number>
+	<catch_line>Criminal background checks for certain positions</catch_line>
+	<text>
+		The Department shall develop a statewide personnel policy for designating positions within each state agency as sensitive. Such policy shall provide that a state agency require any employee, contractor, or final candidate for employment in a position that has been designated as sensitive to submit to fingerprinting and to provide personal descriptive information to be forwarded along with the applicant's fingerprints through the Central Criminal Records Exchange to the Federal Bureau of Investigation for the purpose of obtaining criminal history information regarding such individual.
+		Each state agency shall continue to record positions designated as sensitive in the Personnel Management Information System (PMIS) to ensure that the Department has a list of all such positions. For purposes of this section, "sensitive positions" shall include those positions:
+		<section prefix="1">Responsible for the health, safety, and welfare of citizens or the protection of critical infrastructures;
+		</section>
+		<section prefix="2">That have access to sensitive information, including access to federal tax information in approved exchange agreements with the Internal Revenue Service or Social Security Administration; and
+		</section>
+		<section prefix="3">That are otherwise required by state or federal law to be designated as sensitive.
+		</section>
+	</text>
+	<history>2003, c. 731; 2017, cc. 421, 431.</history>
+</law>

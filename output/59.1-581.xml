@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="53" level="2">Consumer Data Protection Act</unit>
+	</structure>
+	<section_number>59.1-581</section_number>
+	<catch_line>Processing de-identified data; exemptions</catch_line>
+	<text>
+		<section prefix="A">The controller in possession of de-identified data shall:
+			<section prefix="1">Take reasonable measures to ensure that the data cannot be associated with a natural person;
+			</section>
+			<section prefix="2">Publicly commit to maintaining and using de-identified data without attempting to re-identify the data; and
+			</section>
+			<section prefix="3">Contractually obligate any recipients of the de-identified data to comply with all provisions of this chapter.
+			</section>
+		</section>
+		<section prefix="B">Nothing in this chapter shall be construed to (i) require a controller or processor to re-identify de-identified data or pseudonymous data or (ii) maintain data in identifiable form, or collect, obtain, retain, or access any data or technology, in order to be capable of associating an authenticated consumer request with personal data.
+		</section>
+		<section prefix="C">Nothing in this chapter shall be construed to require a controller or processor to comply with an authenticated consumer rights request, pursuant to § 59.1-577, if all of the following are true:
+			<section prefix="1">The controller is not reasonably capable of associating the request with the personal data or it would be unreasonably burdensome for the controller to associate the request with the personal data;
+			</section>
+			<section prefix="2">The controller does not use the personal data to recognize or respond to the specific consumer who is the subject of the personal data, or associate the personal data with other personal data about the same specific consumer; and
+			</section>
+			<section prefix="3">The controller does not sell the personal data to any third party or otherwise voluntarily disclose the personal data to any third party other than a processor, except as otherwise permitted in this section.
+			</section>
+		</section>
+		<section prefix="D">The consumer rights contained in subdivisions A 1 through 4 of § 59.1-577 and § 59.1-578 shall not apply to pseudonymous data in cases where the controller is able to demonstrate any information necessary to identify the consumer is kept separately and is subject to effective technical and organizational controls that prevent the controller from accessing such information.
+		</section>
+		<section prefix="E">A controller that discloses pseudonymous data or de-identified data shall exercise reasonable oversight to monitor compliance with any contractual commitments to which the pseudonymous data or de-identified data is subject and shall take appropriate steps to address any breaches of those contractual commitments.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, cc. 35, 36.</history>
+</law>

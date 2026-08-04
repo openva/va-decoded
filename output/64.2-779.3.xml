@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.1" level="4">Uniform Trust Decanting Act</unit>
+	</structure>
+	<section_number>64.2-779.3</section_number>
+	<catch_line>Application; governing law</catch_line>
+	<text>
+		This article applies to a trust created before, on, or after July 1, 2017, that:
+		<section prefix="1">Has its principal place of administration in the Commonwealth, including a trust whose principal place of administration has been changed to the Commonwealth; or
+		</section>
+		<section prefix="2">Provides by its trust instrument that it is governed by the law of the Commonwealth or is governed by the law of the Commonwealth for the purpose of:
+			a. Administration, including administration of a trust whose governing law for purposes of administration has been changed to the law of the Commonwealth;
+			b. Construction of terms of the trust; or
+			c. Determining the meaning or effect of terms of the trust.
+		</section>
+	</text>
+	<history>2017, c. 592.</history>
+</law>

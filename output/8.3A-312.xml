@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="3" level="2">Enforcement of Instruments</unit>
+	</structure>
+	<section_number>8.3A-312</section_number>
+	<catch_line>Lost, destroyed, or stolen cashier's check, teller's check, or certified check</catch_line>
+	<text>
+		<section prefix="a">In this section:
+			<section prefix="1">"Check" means a cashier's check, teller's check, or certified check.
+			</section>
+			<section prefix="2">"Claimant" means a person who claims the right to receive the amount of a cashier's check, teller's check, or certified check that was lost, destroyed, or stolen.
+			</section>
+			<section prefix="3">"Declaration of loss" means a written statement, made under penalty of perjury, to the effect that (i) the declarer lost possession of a check, (ii) the declarer is the drawer or payee of the check, in the case of a certified check, or the remitter or payee of the check, in the case of a cashier's check or teller's check, (iii) the loss of possession was not the result of a transfer by the declarer or a lawful seizure, and (iv) the declarer cannot reasonably obtain possession of the check because the check was destroyed, its whereabouts cannot be determined, or it is in the wrongful possession of an unknown person or a person that cannot be found or is not amenable to service of process.
+			</section>
+			<section prefix="4">"Obligated bank" means the issuer of a cashier's check or teller's check or the acceptor of a certified check.
+			</section>
+		</section>
+		<section prefix="b">A claimant may assert a claim to the amount of a check by a communication to the obligated bank describing the check with reasonable certainty and requesting payment of the amount of the check, if (i) the claimant is the drawer or payee of a certified check or the remitter or payee of a cashier's check or teller's check, (ii) the communication contains or is accompanied by a declaration of loss of the claimant with respect to the check, (iii) the communication is received at a time and in a manner affording the bank a reasonable time to act on it before the check is paid, and (iv) the claimant provides reasonable identification if requested by the obligated bank. Delivery of a declaration of loss is a warranty of the truth of the statements made in the declaration. If a claim is asserted in compliance with this subsection, the following rules apply:
+			<section prefix="1">The claim becomes enforceable at the later of (i) the time the claim is asserted, or (ii) the ninetieth day following the date of the check, in the case of a cashier's check or teller's check, or the ninetieth day following the date of the acceptance, in the case of a certified check.
+			</section>
+			<section prefix="2">Until the claim becomes enforceable, it has no legal effect and the obligated bank may pay the check or, in the case of a teller's check, may permit the drawee to pay the check. Payment to a person entitled to enforce the check discharges all liability of the obligated bank with respect to the check.
+			</section>
+			<section prefix="3">If the claim becomes enforceable before the check is presented for payment, the obligated bank is not obliged to pay the check.
+			</section>
+			<section prefix="4">When the claim becomes enforceable, the obligated bank becomes obliged to pay the amount of the check to the claimant if payment of the check has not been made to a person entitled to enforce the check. Subject to § 8.4-302 (a) (1), payment to the claimant discharges all liability of the obligated bank with respect to the check.
+			</section>
+		</section>
+		<section prefix="c">If the obligated bank pays the amount of a check to a claimant under subsection (b) (4) and the check is presented for payment by a person having rights of a holder in due course, the claimant is obliged to (i) refund the payment to the obligated bank if the check is paid, or (ii) pay the amount of the check to the person having rights of a holder in due course if the check is dishonored.
+		</section>
+		<section prefix="d">If a claimant has the right to assert a claim under subsection (b) and is also a person entitled to enforce a cashier's check, teller's check, or certified check which is lost, destroyed, or stolen, the claimant may assert rights with respect to the check either under this section or § 8.3A-309.
+		</section>
+	</text>
+	<history>1992, c. 693.</history>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Compensation and Payment Thereof</unit>
+	</structure>
+	<section_number>65.2-505</section_number>
+	<catch_line>Injuries in different employments; injury to employee with disability; subsequent permanent injury by accident in service to employer</catch_line>
+	<text>
+		<section prefix="A">Except for hearing or vision loss that has not reached a compensable level of disability, if an employee has a permanent disability or has sustained a permanent injury in service in the armed forces of the United States or in another employment other than that in which he receives a subsequent permanent injury by accident, such as specified in § 65.2-503, he shall be entitled to compensation only for the degree of incapacity which would have resulted from the later accident if the earlier disability or injury had not existed.
+		</section>
+		<section prefix="B">Except for hearing or vision loss that has not reached a compensable level of disability, if an employee has a permanent disability or has sustained a permanent injury in service to his employer and receives a subsequent permanent injury by accident, such as specified in § 65.2-503, he shall be entitled to compensation only for the degree of incapacity which would have resulted from the later accident if the earlier disability or injury had not existed.
+		</section>
+	</text>
+	<history>Code 1950, § 65-55; 1968, c. 660, § 65.1-58; 1991, c. 355; 1996, c. 448.</history>
+</law>

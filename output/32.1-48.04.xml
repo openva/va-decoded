@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="3.01" level="3">Isolation of Certain Persons With Communicable Diseases of Public Health Significance</unit>
+	</structure>
+	<section_number>32.1-48.04</section_number>
+	<catch_line>Isolation hearing; conditions; order for isolation; right to appeal</catch_line>
+	<text>
+		<section prefix="A">The isolation hearing shall be held within 48 hours of the execution of any temporary detention order issued or, if the 48-hour period terminates on a Saturday, Sunday, legal holiday or day on which the court is lawfully closed, the isolation hearing shall be the next day that is not a Saturday, Sunday, legal holiday or day on which the court is lawfully closed.
+			Prior to the hearing, the court shall fully inform the person who is infected with the communicable disease of public health significance of the basis for his detention, if any, the basis upon which he may be isolated, and the right of appeal of its decision.
+		</section>
+		<section prefix="B">An order for isolation in the person's home or another's residence or an institution or other place, including a jail when no other reasonable alternative is available, may be issued upon a finding by the court that the following conditions are met:
+			<section prefix="1">The person is infected with a communicable disease of public health significance.
+			</section>
+			<section prefix="2">The person is engaging in at-risk behavior.
+			</section>
+			<section prefix="3">The person has demonstrated an intentional disregard for the health of the public by engaging in behavior which has placed others at risk for infection with the communicable disease of public health significance.
+			</section>
+			<section prefix="4">There is no other reasonable alternative means of reducing the risk to public health.
+			</section>
+		</section>
+		<section prefix="C">Any order for isolation in the person's home or another's residence or an institution or other place shall be valid for no more than 120 days, or for a shorter period of time if the Commissioner or his designee, or the court upon petition, determines that the person no longer poses a substantial threat to the health of others. Orders for isolation in the person's home or another's residence may be enforced through the use of electronic devices. Orders for isolation may include additional requirements such as participation in counseling or education programs. The court may, upon finding that the person no longer poses a substantial threat to the health of others, issue an order solely for participation in counseling or educational programs.
+		</section>
+		<section prefix="D">Isolation orders shall not be renewed without affording the person all rights conferred in this article.
+			Any person under an isolation order pursuant to this section shall have the right to appeal such order to the circuit court in the jurisdiction in which he resides. Such appeal shall be filed within 30 days from the date of the order. Notwithstanding the provisions of § 19.2-241 relating to the time within which the court shall set criminal cases for trial, any appeal of an isolation order shall be given priority over all other pending matters before the court, except those matters under appeal pursuant to § 37.2-821, and shall be heard as soon possible by the court. The clerk of the court from which an appeal is taken shall immediately transmit the record to the clerk of the appellate court.
+			The appeal shall be heard de novo. An order continuing the isolation shall only be entered if the conditions set forth in subsection B are met at the time the appeal is heard.
+			If the person under an isolation order is not represented by counsel, the judge shall appoint an attorney-at-law to represent him. Counsel so appointed shall be paid a fee of $150 and his necessary expenses. The order of the court from which the appeal is taken shall be defended by the attorney for the Commonwealth.
+		</section>
+	</text>
+	<history>1990, c. 958; 2001, c. 837; 2004, cc. 773, 1021.</history>
+</law>

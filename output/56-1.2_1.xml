@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>56-1.2:1</section_number>
+	<catch_line>Retail sale of electricity in connection with the provision of electric vehicle charging service</catch_line>
+	<text>
+		<section prefix="A">The provision of electric vehicle charging service by a person, locality, park authority created by a locality pursuant to § 15.2-5702, school board, or any agency as defined in § 2.2-128 that is not a public utility, public service corporation, or public service company shall not constitute the retail sale of electricity if:
+			<section prefix="1">The electricity furnished in connection with the provision of electric vehicle charging service is used solely for transportation purposes; and
+			</section>
+			<section prefix="2">The person, locality, park authority created by a locality pursuant to § 15.2-5702, school board, or agency as defined in § 2.2-128 providing the electric vehicle charging service has procured the furnished electricity from the public utility that is authorized by the Commission to engage in the retail sale of electricity within the exclusive service territory in which the electric vehicle charging service is provided.
+			</section>
+		</section>
+		<section prefix="B">The provision of electric vehicle charging service shall:
+			<section prefix="1">Be a permitted electric utility activity of a certificated electric utility; and
+			</section>
+			<section prefix="2">Not affect the status as a public utility of a certificated public utility that provides such service.
+			</section>
+		</section>
+	</text>
+	<history>2011, c. 408; 2017, c. 239; 2018, cc. 295, 446; 2019, c. 248; 2020, c. 490; 2022, c. 255.</history>
+</law>

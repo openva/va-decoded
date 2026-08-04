@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="6" level="3">Flood Protection and Dam Safety</unit>
+		<unit label="article" identifier="2" level="4">Dam Safety Act</unit>
+	</structure>
+	<section_number>10.1-607.1</section_number>
+	<catch_line>Criteria for designating a dam as unsafe</catch_line>
+	<text>
+		<section prefix="A">Designation of a dam as unsafe shall be based on one or more of the following findings:
+			<section prefix="1">The dam has serious deficiencies in its design or construction or has a physical condition that if left unaddressed could result in a failure that may result in loss of life or significant damage to downstream property.
+			</section>
+			<section prefix="2">The design, construction, operation, or maintenance of the dam is such that its expected performance during flooding conditions threatens the structural integrity of the dam.
+			</section>
+		</section>
+		<section prefix="B">After completion of the safety inspections pursuant to § 10.1-607, or as otherwise informed of an unsafe condition, the Department shall take actions in accordance with § 10.1-608 or 10.1-609 depending on the degree of hazard and imminence of failure caused by the unsafe condition.
+		</section>
+	</text>
+	<history>2006, c. 30; 2010, c. 270.</history>
+</law>

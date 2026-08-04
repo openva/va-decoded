@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="4" level="2">Limitations of Actions</unit>
+		<unit label="article" identifier="3" level="3">Personal Actions Generally</unit>
+	</structure>
+	<section_number>8.01-245</section_number>
+	<catch_line>Limitation on actions upon the bond of any fiduciaries or as to suits against fiduciaries themselves; accrual of cause of action where execution sustained</catch_line>
+	<text>
+		<section prefix="A">No action shall be brought upon the bond of any fiduciary except within ten years next after the right to bring such action shall have first accrued.
+		</section>
+		<section prefix="B">When any fiduciary has settled an account under the provisions of Part A (§ 64.2-1200 et seq.) of Subtitle IV of Title 64.2, and whether or not he has given bond, a suit to surcharge or falsify such account, or to hold such fiduciary or his sureties liable for any balance stated in such account, to be in his hands, shall be brought within ten years after the account has been confirmed.
+		</section>
+		<section prefix="C">In actions upon the bond of any personal representative of a decedent or fiduciary of a person under a disability against whom an execution has been obtained or where a court acting upon the account of such representative or committee shall order payment or delivery of estate in the hands of such committee and representative, the cause of action shall be deemed to accrue from the return day of such execution or from the time of the right to require payment or delivery upon such order, whichever shall happen first.
+		</section>
+	</text>
+	<history>Code 1950, §§ 8-13, 8-15, 8-16; 1964, c. 219; 1966, c. 118; 1972, c. 825; 1977, c. 617.</history>
+</law>

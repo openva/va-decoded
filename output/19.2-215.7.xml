@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="13" level="2">Grand Juries</unit>
+		<unit label="article" identifier="4" level="3">Multi-Jurisdiction Grand Juries</unit>
+	</structure>
+	<section_number>19.2-215.7</section_number>
+	<catch_line>Warnings given to witnesses; when witness in contempt; use of testimony compelled after witness invokes right against self-incrimination</catch_line>
+	<text>
+		<section prefix="A">Every witness testifying before a multi-jurisdiction grand jury shall be warned by special counsel or by the foreman of the grand jury that he need not answer any question that would tend to incriminate him, and that he may later be called upon to testify in any case that may result from the grand jury proceedings.
+		</section>
+		<section prefix="B">A witness who has been called to testify or produce evidence before a multi-jurisdiction grand jury, and who refuses to testify or produce evidence by expressly invoking his right not to incriminate himself, may be compelled to testify or produce evidence by the presiding judge. A witness who refuses to testify or produce evidence after being ordered to do so by the presiding judge may be held in contempt and may be incarcerated until the contempt is purged by compliance with the order.
+		</section>
+		<section prefix="C">When a witness is compelled to testify or produce evidence after expressly invoking his right not to incriminate himself, and the presiding judge has determined that the assertion of the right is bona fide, the compelled testimony, or any information directly or indirectly derived from such testimony or other information, shall not be used against the witness in any criminal proceeding except a prosecution for perjury.
+		</section>
+	</text>
+	<history>1983, c. 543.</history>
+</law>

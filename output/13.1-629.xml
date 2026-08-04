@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="4" level="3">Purposes and Powers</unit>
+	</structure>
+	<section_number>13.1-629</section_number>
+	<catch_line>Lack of power to act</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsection B, the validity of corporate action may not be challenged on the ground that the corporation lacks or lacked power to act.
+		</section>
+		<section prefix="B">A corporation's power to act may be challenged:
+			<section prefix="1">In a proceeding by a shareholder against the corporation to enjoin the act;
+			</section>
+			<section prefix="2">In a proceeding by the corporation, directly, derivatively, or through a receiver, trustee, or other legal representative, against an incumbent or former director, officer, employee, or agent of the corporation; or
+			</section>
+			<section prefix="3">In a proceeding against the corporation before the Commission.
+			</section>
+		</section>
+		<section prefix="C">In a shareholder's proceeding under subdivision 1 of subsection B to enjoin an unauthorized corporate act, if equitable and if all affected persons are parties to the proceeding, the court may enjoin or set aside the act and may award damages for loss, except anticipated profits, suffered by the corporation or another party because of enjoining the unauthorized act.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-5; 1956, c. 428; 1985, c. 522; 2019, c. 734.</history>
+</law>

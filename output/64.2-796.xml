@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="10" level="4">Liability of Trustees and Rights of Persons Dealing With Trustee</unit>
+	</structure>
+	<section_number>64.2-796</section_number>
+	<catch_line>Limitation of action against trustee</catch_line>
+	<text>
+		<section prefix="A">A beneficiary may not commence a proceeding against a trustee for breach of trust more than one year after the date the beneficiary or a representative of the beneficiary was sent a report that adequately disclosed the existence of a potential claim for breach of trust and informed the beneficiary of the time allowed for commencing a proceeding.
+		</section>
+		<section prefix="B">A report adequately discloses the existence of a potential claim for breach of trust if it provides sufficient information so that the beneficiary or representative knows of the potential claim or should have inquired into its existence.
+		</section>
+		<section prefix="C">If subsection A does not apply, a judicial proceeding by a beneficiary against a trustee for breach of trust shall be commenced within five years after the first to occur of:
+			<section prefix="1">The removal, resignation, or death of the trustee;
+			</section>
+			<section prefix="2">The termination of the beneficiary's interest in the trust; or
+			</section>
+			<section prefix="3">The termination of the trust.
+			</section>
+		</section>
+		<section prefix="D">Whenever fraud has been perpetrated in connection with any proceeding or in any statement filed under this chapter, or if fraud is used to avoid or circumvent the provisions or purposes of this chapter, any person injured thereby may obtain appropriate relief against the perpetrator of the fraud or restitution from any person benefiting from the fraud, whether innocent or not, except for a bona fide purchaser. Any proceeding shall be commenced within two years after the fraud is discovered, but no proceeding may be brought against one not a perpetrator of the fraud later than five years after the time the fraud is committed. This section does not apply to remedies for fraud practiced on a decedent during his lifetime that affects the succession of his estate.
+		</section>
+		<section prefix="E">The provisions of this section shall not operate to reduce the period of limitations applicable to actions and suits governed by § 8.01-245.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-550.05; 2012, c. 614.</history>
+</law>

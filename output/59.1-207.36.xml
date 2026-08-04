@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="17.6" level="2">Motor Vehicle Manufacturers' Warranty Adjustment Act</unit>
+	</structure>
+	<section_number>59.1-207.36</section_number>
+	<catch_line>Required disclosures</catch_line>
+	<text>
+		<section prefix="A">Every manufacturer or distributor, either directly or through its authorized agent, shall cause a notice to be given to the consumer which outlines the provisions of this chapter and the rights and remedies thereunder. The written notice shall state at minimum: "Sometimes (insert manufacturer's name) offers a special adjustment program to pay all or part of the cost of certain repairs beyond the terms of the warranty. Check with your dealer to determine whether any adjustment program is applicable to your motor vehicle."
+		</section>
+		<section prefix="B">Every dealer shall disclose to a consumer seeking repairs for a particular condition, the principal terms and conditions of any manufacturer's adjustment program covering such condition provided the dealer has been notified of the adjustment program pursuant to § 59.1-207.35.
+		</section>
+	</text>
+	<history>1991, c. 300.</history>
+</law>

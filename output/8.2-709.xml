@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="7" level="2">Remedies</unit>
+	</structure>
+	<section_number>8.2-709</section_number>
+	<catch_line>Action for the price</catch_line>
+	<text>
+		<section prefix="1">When the buyer fails to pay the price as it becomes due the seller may recover, together with any incidental damages under the next section [§ 8.2-710], the price
+			<section prefix="a">of goods accepted or of conforming goods lost or damaged within a commercially reasonable time after risk of their loss has passed to the buyer; and
+			</section>
+			<section prefix="b">of goods identified to the contract if the seller is unable after reasonable effort to resell them at a reasonable price or the circumstances reasonably indicate that such effort will be unavailing.
+			</section>
+		</section>
+		<section prefix="2">Where the seller sues for the price he must hold for the buyer any goods which have been identified to the contract and are still in his control except that if resale becomes possible he may resell them at any time prior to the collection of the judgment. The net proceeds of any such resale must be credited to the buyer and payment of the judgment entitles him to any goods not resold.
+		</section>
+		<section prefix="3">After the buyer has wrongfully rejected or revoked acceptance of the goods or has failed to make a payment due or has repudiated (§ 8.2-610), a seller who is held not entitled to the price under this section shall nevertheless be awarded damages for nonacceptance under the preceding section [§ 8.2-708].
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

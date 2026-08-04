@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="8" level="3">Remedies</unit>
+	</structure>
+	<section_number>59.1-508.5</section_number>
+	<catch_line>Limitation of actions</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in subsection (b), an action for breach of contract must be commenced within the later of four years after the right of action accrues or one year after the breach was or should have been discovered, but not later than five years after the right of action accrues.
+		</section>
+		<section prefix="b">If the original agreement of the parties alters the period of limitations, the following rules apply:
+			<section prefix="1">The parties may reduce the period of limitation to not less than one year after the right of action accrues but may not extend it.
+			</section>
+			<section prefix="2">In a consumer contract, the period of limitation may not be reduced.
+			</section>
+		</section>
+		<section prefix="c">Except as otherwise provided in subsection (d), a right of action accrues when the act or omission constituting a breach of contract occurs, even if the aggrieved party did not know of the breach. A right of action for breach of warranty accrues when tender of delivery of a copy pursuant to § 59.1-506.6, or access to the information, occurs. However, if the warranty expressly extends to future performance of the information or a copy, the right of action accrues when the performance fails to conform to the warranty, but not later than the date the warranty expires.
+		</section>
+		<section prefix="d">In the following cases, a right of action accrues on the later of the date the act or omission constituting the breach of contract occurred or the date on which it was or should have been discovered by the aggrieved party, but not earlier than the date for delivery of a copy if the claim relates to information in the copy:
+			<section prefix="1">a breach of warranty against third-party claims for:
+			</section>
+		</section>
+		<section prefix="A">infringement or misappropriation; or
+		</section>
+		<section prefix="B">libel, slander, or the like;
+			<section prefix="2">a breach of contract involving a party's disclosure or misuse of confidential information; or
+			</section>
+			<section prefix="3">a failure to provide an indemnity or to perform another obligation to protect or defend against a third-party claim.
+			</section>
+		</section>
+		<section prefix="e">If an action commenced within the period of limitation is so concluded as to leave available a remedy by another action for the same breach of contract, the other action may be commenced after expiration of the period of limitation if the action is commenced within six months after conclusion of the first action, unless the action was concluded as a result of voluntary discontinuance or dismissal for failure or neglect to prosecute.
+		</section>
+		<section prefix="f">This section does not alter the law on tolling of the statute of limitations and does not apply to a right of action that accrued before the effective date of this chapter.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

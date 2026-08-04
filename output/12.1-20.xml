@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="12.1" level="1">State Corporation Commission</unit>
+		<unit label="chapter" identifier="4" level="2">Subordinate Employees of the Commission</unit>
+	</structure>
+	<section_number>12.1-20</section_number>
+	<catch_line>Facts to be certified by clerk upon request; signing and sealing; fees</catch_line>
+	<text>
+		The clerk of the Commission shall, when requested, certify any one or more of the following facts:
+		<section prefix="1">That a named domestic corporation is organized and existing under and by virtue of the laws of the Commonwealth and whether it is in good standing.
+		</section>
+		<section prefix="2">That a named foreign corporation of a named state or other jurisdiction is authorized to transact business in the Commonwealth and whether it is in good standing in the Commonwealth.
+		</section>
+		<section prefix="3">That a particular security has or has not been registered for sale in the Commonwealth pursuant to the provisions of the Securities Act (§ 13.1-501 et seq.).
+		</section>
+		<section prefix="4">That a statement or other document required or permitted by law to be filed in the office of the clerk of the Commission has not been filed in that office.
+		</section>
+		<section prefix="5">The existence or nonexistence of any other fact appearing from the official records of the Commission, unless the disclosure of such fact is forbidden by law, regulation, or legal privilege.
+			The certificate shall be signed by the clerk or by a member of the clerk's staff and shall be sealed with the seal of the Commission, or a facsimile thereof. Any signature may be a facsimile. When so sealed, the certificate shall be admitted in evidence in all cases, civil and criminal, as prima facie evidence of the facts contained in it.
+			For each certificate, the clerk shall charge and collect fees pursuant to § 12.1-21.1 or subsection C of § 12.1-21.2.
+		</section>
+	</text>
+	<history>Code 1950, § 12-41.1; 1962, c. 219; 1971, Ex. Sess., c. 157; 1982, c. 564; 1985, c. 522; 1991, c. 123; 2001, c. 545; 2002, c. 1; 2010, c. 669; 2015, c. 446.</history>
+</law>

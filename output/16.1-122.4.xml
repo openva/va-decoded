@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="16.1" level="1">Courts Not of Record</unit>
+		<unit label="chapter" identifier="6" level="2">Venue, Jurisdiction and Procedure in Civil Matters</unit>
+		<unit label="article" identifier="5" level="3">Small Claims Court</unit>
+	</structure>
+	<section_number>16.1-122.4</section_number>
+	<catch_line>Representation and removal; rights of parties</catch_line>
+	<text>
+		<section prefix="A">All parties shall be represented by themselves in actions before the small claims court except as follows:
+			<section prefix="1">A corporation, partnership, limited liability company, or other legal or commercial entity may be represented by an owner, a general partner, an officer, a member, or an employee of that corporation, partnership, limited liability company, or other legal or commercial entity who shall have all the rights and privileges given an individual to represent, plead, and try a case without an attorney. An attorney may serve in this capacity if he is appearing pro se, but he may not serve in a representative capacity.
+			</section>
+			<section prefix="2">A plaintiff or defendant who, in the judge's opinion, is unable to understand or participate on his own behalf in the hearing may be represented by a friend or relative if the representative is familiar with the facts of the case and is not an attorney.
+			</section>
+		</section>
+		<section prefix="B">A defendant shall have the right to remove the case to the general district court at any point preceding the handing down of the decision by the judge and may be represented by an attorney for that purpose.
+		</section>
+	</text>
+	<history>1988, c. 799; 1997, c. 243; 2001, c. 74; 2024, c. 58.</history>
+</law>

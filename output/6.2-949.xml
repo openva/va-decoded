@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="8" level="3">Banks</unit>
+		<unit label="article" identifier="16" level="4">Voluntary Regulatory Self-Assessments</unit>
+	</structure>
+	<section_number>6.2-949</section_number>
+	<catch_line>Exceptions from self-evaluation privilege</catch_line>
+	<text>
+		The self-assessment privilege established by § 6.2-948 shall not apply:
+		<section prefix="1">If a bank expressly waives the protections of the self-assessment privilege established by § 6.2-948;
+		</section>
+		<section prefix="2">If a bank discloses a self-assessment report to any third party, provided that disclosure of a self-assessment report to a third party shall not void or waive the self-assessment privilege with respect to such self-assessment report if such third party (i) is a bank regulator, (ii) is subject to an agreement or obligation to preserve the confidentiality of the self-assessment report, which agreement or obligation to preserve confidentiality need not be in writing and may be evidenced by an indication of confidentiality on the face of any such self-assessment report, a verbal agreement regarding its confidentiality, an employment relationship, a principal-agent relationship, a fiduciary relationship, or an attorney-client relationship, or (iii) receives the self-assessment report from a person described in clause (i) or (ii);
+		</section>
+		<section prefix="3">If a court or hearing officer, after an in camera review, determines that (i) the privilege is being asserted for a fraudulent purpose, (ii) the self-assessment report was prepared to avoid disclosure of information in an investigative, administrative, or judicial proceeding that was underway at the time of its preparation or for which the bank had been provided written notification that an investigation into a specific violation had been initiated, or (iii) the self-assessment report addresses a matter reasonably expected to have an imminent and substantial harm to bank customers or consumers and the bank has not previously taken reasonable actions to correct the matter; or
+		</section>
+		<section prefix="4">To any self-assessment report requested by a bank regulator, provided that disclosure of a self-assessment report to a bank regulator shall not void or waive the self-assessment privilege with respect to such self-assessment report, and provided further that disclosure of a self-assessment report by a bank regulator to any third party shall not void or waive the self-assessment privilege with respect to such self-assessment report.
+		</section>
+	</text>
+	<history>2013, cc. 32, 148.</history>
+</law>

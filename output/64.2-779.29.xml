@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.2" level="4">Uniform Directed Trust Act</unit>
+	</structure>
+	<section_number>64.2-779.29</section_number>
+	<catch_line>Powers of trust director</catch_line>
+	<text>
+		<section prefix="A">Subject to § 64.2-779.30, the terms of a trust may grant a power of direction to a trust director.
+		</section>
+		<section prefix="B">Unless the terms of a trust provide otherwise:
+			<section prefix="1">A trust director may exercise any further power appropriate to the exercise or nonexercise of a power of direction granted to the trust director under subsection A; and
+			</section>
+			<section prefix="2">Trust directors with joint powers must act by majority decision.
+			</section>
+		</section>
+	</text>
+	<history>2020, c. 768.</history>
+</law>

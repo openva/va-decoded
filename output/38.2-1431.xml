@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1431</section_number>
+	<catch_line>Policy loans</catch_line>
+	<text>
+		A domestic insurer issuing life insurance policies or annuities may loan any sum not exceeding the cash surrender value specified in the policy to its policyholder upon the pledge of the policy as collateral.
+	</text>
+	<history>1983, c. 457, § 38.1-217.34; 1986, c. 562.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="II" level="2">Boards, Councils, Foundations, and Commissions</unit>
+		<unit label="part" identifier="B" level="3">Commodity Boards</unit>
+		<unit label="chapter" identifier="22" level="4">Small Grains Board</unit>
+	</structure>
+	<section_number>3.2-2214</section_number>
+	<catch_line>Falsification of records; misdemeanor</catch_line>
+	<text>
+		It is a Class 1 misdemeanor:
+		<section prefix="1">For any handler knowingly to report falsely to the Tax Commissioner the quantity of small grains handled by him during any period.
+		</section>
+		<section prefix="2">For any handler to falsify the records of the small grains handled by him.
+		</section>
+		<section prefix="3">For any handler to fail to preserve the records of the small grains handled for a period of three years from the time such small grains were handled.
+		</section>
+	</text>
+	<history>1991, c. 587, § 3.1-684.58; 2008, c. 860.</history>
+</law>

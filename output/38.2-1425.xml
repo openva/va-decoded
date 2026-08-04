@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1425</section_number>
+	<catch_line>Common stock of banks or trust companies</catch_line>
+	<text>
+		<section prefix="A">A domestic insurer may invest in the common capital stock of any bank or trust company that is a member of the Federal Deposit Insurance Corporation.
+		</section>
+		<section prefix="B">No domestic insurer shall invest in more than ten percent of the actually issued and outstanding common capital stock of any one such bank or trust company.
+		</section>
+		<section prefix="C">For the purpose of this section, the term "bank" includes a registered bank holding company as defined by the Federal Bank Holding Act of 1956, as amended, and a registered bank holding company shall be considered a member of the Federal Deposit Insurance Corporation if all its subsidiary banks are members of the Federal Deposit Insurance Corporation.
+		</section>
+	</text>
+	<history>1983, c. 457, § 38.1-217.28; 1986, c. 562; 2000, c. 155.</history>
+</law>

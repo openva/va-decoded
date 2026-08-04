@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="63.2" level="1">Welfare (Social Services)</unit>
+		<unit label="subtitle" identifier="III" level="2">Social Services Programs</unit>
+		<unit label="chapter" identifier="12" level="3">Adoption</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>63.2-1200</section_number>
+	<catch_line>Who may place children for adoption</catch_line>
+	<text>
+		A child may be placed for adoption by:
+		<section prefix="1">A licensed child-placing agency;
+		</section>
+		<section prefix="2">A local board;
+		</section>
+		<section prefix="3">The child's parent or legal guardian if the placement is a parental placement; and
+		</section>
+		<section prefix="4">Any agency outside the Commonwealth that is licensed or otherwise duly authorized to place children for adoption by virtue of the laws under which it operates.
+		</section>
+	</text>
+	<history>1978, c. 730, § 63.1-220.1; 1985, c. 285; 1989, c. 647; 2000, c. 830, § 63.1-219.8; 2002, c. 747; 2004, c. 815; 2006, cc. 825, 848.</history>
+</law>

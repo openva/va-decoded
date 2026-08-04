@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="21" level="3">Regulation of Property Carriers</unit>
+		<unit label="article" identifier="1" level="4">Motor Carriers of Property -- Generally</unit>
+	</structure>
+	<section_number>46.2-2134</section_number>
+	<catch_line>Grounds for denying, suspending, or revoking permits</catch_line>
+	<text>
+		A permit issued under this chapter may be denied, suspended, or revoked on any one or more of the following grounds:
+		<section prefix="1">Failure to submit to the Department any tax, fees, fines, or penalties owed to the Department.
+		</section>
+		<section prefix="2">Failure to maintain and keep on file with the Department motor carrier liability insurance or cargo insurance, issued by a company licensed to do business in the Commonwealth, or a bond, certificate of insurance, certificate of self-insurance, or unconditional letter of credit in accordance with this chapter, with respect to each motor vehicle operated in the Commonwealth.
+		</section>
+		<section prefix="3">Inactivity of a motor carrier as may be evidenced by the absence of a motor vehicle registered to operate under such permit for a period of greater than three months.
+		</section>
+	</text>
+	<history>2001, c. 596; 2017, cc. 790, 815.</history>
+</law>

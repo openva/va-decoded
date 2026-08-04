@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.24</section_number>
+	<catch_line>Disclosure required when foreign series limited liability company or foreign protected series subject to proceeding</catch_line>
+	<text>
+		<section prefix="A">Not later than 30 days after becoming a party to a proceeding before a civil, criminal, administrative, or other adjudicative tribunal of the Commonwealth or a tribunal of the United States located in the Commonwealth:
+			<section prefix="1">A foreign series limited liability company shall disclose to each other party the name and the street and mailing addresses of:
+				a. Each foreign protected series of the foreign series limited liability company; and
+				b. Each foreign protected series manager of and an agent for service of process for each foreign protected series of the foreign series limited liability company; and
+			</section>
+			<section prefix="2">A foreign protected series of a foreign series limited liability company shall disclose to each other party the name and the street and mailing addresses of:
+				a. The foreign series limited liability company that established the foreign protected series, each person managing the foreign series limited liability company, and an agent for service of process for the foreign series limited liability company; and
+				b. Any other foreign protected series of the foreign series limited liability company and each protected series manager of and an agent for service of process for the other protected series.
+			</section>
+		</section>
+		<section prefix="B">If a foreign series limited liability company or foreign protected series challenges the personal jurisdiction of the tribunal, the requirement that the foreign series limited liability company or foreign protected series make disclosure under subsection A is tolled until the tribunal determines whether it has personal jurisdiction.
+		</section>
+		<section prefix="C">If a foreign series limited liability company or foreign protected series does not comply with subsection A, a party to the proceeding may:
+			<section prefix="1">Request the tribunal to treat the noncompliance as a failure to comply with the tribunal's discovery rules; or
+			</section>
+			<section prefix="2">Bring a separate proceeding in the tribunal to enforce subsection A.
+			</section>
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

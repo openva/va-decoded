@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.2" level="4">Uniform Directed Trust Act</unit>
+	</structure>
+	<section_number>64.2-779.27</section_number>
+	<catch_line>Application</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection B and § 64.2-779.28, this article applies to a trust that has its principal place of administration in the Commonwealth and that:
+			<section prefix="1">Is created on or after July 1, 2020;
+			</section>
+			<section prefix="2">Is amended by a settlor on or after July 1, 2020;
+			</section>
+			<section prefix="3">Is amended or modified on or after July 1, 2020, by a nonjudicial settlement agreement under § 64.2-709, by a second-trust instrument under the Uniform Trust Decanting Act (§ 64.2-779.1 et seq.), or by the court; or
+			</section>
+			<section prefix="4">In the case of any trust not described in subdivision A 1, A 2, or A 3, was made subject to subsection E of § 64.2-770, as it existed prior to the effective date of this article, by specific reference in the trust instrument.
+			</section>
+		</section>
+		<section prefix="B">In the case of a trust described in subdivision A 2 or A 3, this article applies only to a decision or action on or after the date of the first such amendment or modification.
+		</section>
+		<section prefix="C">Any trust, decision, or action to which this article does not apply shall be governed by the following rules:
+			<section prefix="1">If the terms of a trust confer upon a person other than the settlor of a revocable trust power to direct certain actions of the trustee, the trustee shall act in accordance with an exercise of the power unless the attempted exercise is manifestly contrary to the terms of the trust or the trustee knows the attempted exercise would constitute a serious breach of a fiduciary duty that the person holding the power owes to the beneficiaries of the trust.
+			</section>
+			<section prefix="2">The terms of a trust may confer upon a trustee or other person a power to direct the modification or termination of the trust.
+			</section>
+			<section prefix="3">A person, other than a beneficiary, who holds a power to direct is presumptively a fiduciary who, as such, is required to act in good faith with regard to the purposes of the trust and the interests of the beneficiaries. The holder of a power to direct is liable for any loss that results from breach of a fiduciary duty.
+			</section>
+		</section>
+	</text>
+	<history>2020, c. 768.</history>
+</law>

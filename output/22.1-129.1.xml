@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="9" level="2">School Property</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>22.1-129.1</section_number>
+	<catch_line>Transfer of assistive technology devices</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section:
+			"Assistive technology device" means any device, including equipment or a product system, which is used to increase, maintain, or improve functional capabilities of a child with a disability. Assistive technology device shall not include surgically implanted medical devices, such as cochlear implants.
+			"Child with a disability" means the same as that term is defined in § 22.1-213.
+			"Transfer" means the process by which a school division that has purchased an assistive technology device may sell, lease, donate, or loan the device pursuant to subsection B.
+		</section>
+		<section prefix="B">An assistive technology device may be transferred to (i) the school division to which a child with a disability transfers from the school division that purchased the device; (ii) a state agency, including the Department for Aging and Rehabilitative Services, that provides services to a child with a disability following the child's graduation or when a school division ceases to provide special education services for the student; or (iii) the parents of a child with a disability, or the child with a disability if the child with a disability is age 18 or older and has capacity to enter into a contract.
+		</section>
+	</text>
+	<history>2012, c. 214; 2016, cc. 720, 750.</history>
+</law>

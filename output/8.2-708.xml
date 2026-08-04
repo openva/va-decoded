@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="7" level="2">Remedies</unit>
+	</structure>
+	<section_number>8.2-708</section_number>
+	<catch_line>Seller's damages for nonacceptance or repudiation</catch_line>
+	<text>
+		<section prefix="1">Subject to subsection (2) and to the provisions of this title with respect to proof of market price (§ 8.2-723), the measure of damages for nonacceptance or repudiation by the buyer is the difference between the market price at the time and place for tender and the unpaid contract price together with any incidental damages provided in this title (§ 8.2-710), but less expenses saved in consequence of the buyer's breach.
+		</section>
+		<section prefix="2">If the measure of damages provided in subsection (1) is inadequate to put the seller in as good a position as performance would have done then the measure of damages is the profit (including reasonable overhead) which the seller would have made from full performance by the buyer, together with any incidental damages provided in this title (§ 8.2-710), due allowance for costs reasonably incurred and due credit for payments or proceeds of resale.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

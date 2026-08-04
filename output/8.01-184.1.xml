@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="17" level="3">Declaratory Judgments</unit>
+	</structure>
+	<section_number>8.01-184.1</section_number>
+	<catch_line>Declaratory judgment to adjudicate constitutional nexus</catch_line>
+	<text>
+		<section prefix="A">Circuit courts shall have original jurisdiction over civil actions seeking declaratory judgment where:
+			<section prefix="1">The party seeking declaratory relief is a business that (i) is organized under the laws of the Commonwealth or a sole proprietorship owned by a Commonwealth domiciliary, or (ii) has qualified to do business in the Commonwealth; and
+			</section>
+			<section prefix="2">The responding party is a government official of another state, or political subdivision of another state, who asserts that the business in question is or was in the past obliged to collect sales or use taxes for such state or political subdivision based upon conduct of the business occurring wholly or partially within the Commonwealth.
+			</section>
+		</section>
+		<section prefix="B">Any business meeting the requirements and facing the circumstances described in subsection A shall be entitled to declaratory relief on the issue of whether the requirement of another state, or political subdivision of another state, that the business collect and remit sales or use taxes to that state, or political subdivision, in the factual circumstances of the business' operations giving rise to the demand, constitutes an undue burden on interstate commerce within the meaning of Article I, Section 8, Clause 3 of the United States Constitution.
+		</section>
+		<section prefix="C">Any government official meeting the requirements of subdivision A 2 shall be subject to the personal jurisdiction of Virginia circuit courts to the extent permitted by the Constitution of the United States. This subsection shall govern personal jurisdiction in actions under this section, and shall constitute authorization for purposes of § 8.01-330.
+		</section>
+	</text>
+	<history>2004, cc. 609, 647; 2005, cc. 736, 800.</history>
+</law>

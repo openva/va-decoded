@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="7" level="4">Office of Trustee</unit>
+	</structure>
+	<section_number>64.2-756</section_number>
+	<catch_line>Cotrustees</catch_line>
+	<text>
+		<section prefix="A">Cotrustees who are unable to reach a unanimous decision may act by majority decision.
+		</section>
+		<section prefix="B">If a vacancy occurs in a cotrusteeship, the remaining cotrustees may act for the trust.
+		</section>
+		<section prefix="C">Subject to subsection I, a cotrustee shall participate in the performance of a trustee's function unless the cotrustee is unavailable to perform the function because of absence, illness, disqualification under other law, or other temporary incapacity, or the cotrustee has properly delegated the performance of the function to another trustee.
+		</section>
+		<section prefix="D">If a cotrustee is unavailable to perform duties because of absence, illness, disqualification under other law, or other temporary incapacity, and prompt action is necessary to achieve the purposes of the trust or to avoid injury to the trust property, the remaining cotrustee or a majority of the remaining cotrustees may act for the trust.
+		</section>
+		<section prefix="E">A trustee may delegate to a cotrustee the performance of any function other than a function that the terms of the trust expressly require to be performed by the trustees jointly. Unless a delegation was irrevocable, a trustee may revoke a delegation previously made.
+		</section>
+		<section prefix="F">Except as otherwise provided in subsection G, a trustee who does not join in an action of another trustee is not liable for the action.
+		</section>
+		<section prefix="G">Subject to subsection I, each trustee shall exercise reasonable care to:
+			<section prefix="1">Prevent a cotrustee from committing a serious breach of trust; and
+			</section>
+			<section prefix="2">Compel a cotrustee to redress a serious breach of trust.
+			</section>
+		</section>
+		<section prefix="H">A dissenting trustee who joins in an action at the direction of the majority of the trustees and who notified any cotrustee of the dissent at or before the time of the action is not liable for the action unless the action is a serious breach of trust.
+		</section>
+		<section prefix="I">The terms of a trust may relieve a cotrustee from duty and liability with respect to another cotrustee's exercise or nonexercise of a power of the other cotrustee to the same extent that in a directed trust a directed trustee is relieved from duty and liability with respect to a trust director's power of direction under §§ 64.2-779.32, 64.2-779.33, and 64.2-779.34.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-547.03; 2012, c. 614; 2020, c. 768.</history>
+</law>

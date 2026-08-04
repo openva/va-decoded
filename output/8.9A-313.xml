@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="2" level="3">Perfection</unit>
+	</structure>
+	<section_number>8.9A-313</section_number>
+	<catch_line>When possession by or delivery to secured party perfects security interest without filing</catch_line>
+	<text>
+		<section prefix="a">Perfection by possession or delivery. Except as otherwise provided in subsection (b), a secured party may perfect a security interest in goods, instruments, negotiable tangible documents, or tangible money by taking possession of the collateral. A secured party may perfect a security interest in certificated securities by taking delivery of the certificated securities under § 8.8A-301.
+		</section>
+		<section prefix="b">Goods covered by certificate of title. With respect to goods covered by a certificate of title issued by this Commonwealth, a secured party may perfect a security interest in the goods by taking possession of the goods only in the circumstances described in § 8.9A-316 (d).
+		</section>
+		<section prefix="c">Collateral in possession of person other than debtor. With respect to collateral other than certificated securities and goods covered by a document, a secured party takes possession of collateral in the possession of a person other than the debtor, the secured party, or a lessee of the collateral from the debtor in the ordinary course of the debtor's business, when:
+			<section prefix="1">the person in possession signs a record acknowledging that it holds possession of the collateral for the secured party's benefit; or
+			</section>
+			<section prefix="2">the person takes possession of the collateral after having signed a record acknowledging that it will hold possession of the collateral for the secured party's benefit.
+			</section>
+		</section>
+		<section prefix="d">Time of perfection by possession; continuation of perfection. If perfection of a security interest depends upon possession of the collateral by a secured party, perfection occurs not earlier than the time the secured party takes possession and continues only while the secured party retains possession.
+		</section>
+		<section prefix="e">Time of perfection by delivery; continuation of perfection. A security interest in a certificated security in registered form is perfected by delivery when delivery of the certificated security occurs under § 8.8A-301 and remains perfected by delivery until the debtor obtains possession of the security certificate.
+		</section>
+		<section prefix="f">Acknowledgment not required. A person in possession of collateral is not required to acknowledge that it holds possession for a secured party's benefit.
+		</section>
+		<section prefix="g">Effectiveness of acknowledgment; no duties or confirmation. If a person acknowledges that it holds possession for the secured party's benefit:
+			<section prefix="1">the acknowledgment is effective under subsection (c) or § 8.8A-301 (a), even if the acknowledgment violates the rights of a debtor; and
+			</section>
+			<section prefix="2">unless the person otherwise agrees or law other than this title otherwise provides, the person does not owe any duty to the secured party and is not required to confirm the acknowledgment to another person.
+			</section>
+		</section>
+		<section prefix="h">Secured party's delivery to person other than debtor. A secured party having possession of collateral does not relinquish possession by delivering the collateral to a person other than the debtor or a lessee of the collateral from the debtor in the ordinary course of the debtor's business if the person was instructed before the delivery or is instructed contemporaneously with the delivery:
+			<section prefix="1">to hold possession of the collateral for the secured party's benefit; or
+			</section>
+			<section prefix="2">to redeliver the collateral to the secured party.
+			</section>
+		</section>
+		<section prefix="i">Effect of delivery under subsection (h); no duties or confirmation. A secured party does not relinquish possession, even if a delivery under subsection (h) violates the rights of a debtor. A person to which collateral is delivered under subsection (h) does not owe any duty to the secured party and is not required to confirm the delivery to another person unless the person otherwise agrees or law other than this title otherwise provides.
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-305; 1973, c. 509; 1984, c. 613; 1996, c. 216, § 8.9-115; 1997, c. 343; 2000, c. 1007; 2004, c. 200; 2024, c. 652.</history>
+</law>

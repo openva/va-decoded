@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="2" level="4">Motor Fuel Licensing</unit>
+	</structure>
+	<section_number>58.1-2215</section_number>
+	<catch_line>License cancellation</catch_line>
+	<text>
+		<section prefix="A">The Commissioner may cancel the license of any person licensed under this article, upon written notice sent by certified mail to the licensee's last known address appearing in the Commissioner's files, for any of the following reasons:
+			<section prefix="1">Filing by the licensee of a false report of the data or information required by this chapter;
+			</section>
+			<section prefix="2">Failure, refusal, or neglect of the licensee to file a report required by this chapter;
+			</section>
+			<section prefix="3">Failure of the licensee to pay the full amount of the tax due or pay any penalties or interest due as required by this chapter;
+			</section>
+			<section prefix="4">Failure of the licensee to keep accurate records of the quantities of motor fuel received, produced, refined, manufactured, compounded, sold, or used in Virginia;
+			</section>
+			<section prefix="5">Failure to file a new or additional bond or certificate of deposit upon request of the Commissioner pursuant to § 58.1-2211;
+			</section>
+			<section prefix="6">Conviction of the licensee or a principal of the licensee for any act prohibited under this chapter;
+			</section>
+			<section prefix="7">Failure, refusal, or neglect of a licensee to comply with any other provision of this chapter or any regulation promulgated pursuant to this chapter; or
+			</section>
+			<section prefix="8">A change in the ownership or control of the business.
+			</section>
+		</section>
+		<section prefix="B">Upon cancellation of any license for any cause listed in subsection A, the tax levied under this chapter shall become due and payable on (i) all untaxed motor fuel held in storage or otherwise in the possession of the licensee and (ii) all motor fuel sold, delivered, or used prior to the cancellation on which the tax has not been paid.
+		</section>
+		<section prefix="C">The Commissioner may cancel any license upon the written request of the licensee.
+		</section>
+		<section prefix="D">Upon cancellation of any license and payment by the licensee of all taxes due, including all penalties accruing due to any failure by the licensee to comply with the provisions of this chapter, the Commissioner shall cancel and surrender the bond or certificate of deposit filed by such licensee.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758; 2006, c. 594.</history>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="6" level="2">Insurance Information and Privacy Protection</unit>
+		<unit label="article" identifier="1" level="3">Collection, Use, and Dissemination of Information</unit>
+	</structure>
+	<section_number>38.2-612.1</section_number>
+	<catch_line>Special requirements for providing financial information to nonaffiliated third parties</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in § 38.2-613, no insurance institution, agent, or insurance-support organization may, directly or through an affiliate, disclose to a nonaffiliated third party financial information about an individual collected or received in connection with an insurance transaction, unless:
+			<section prefix="1">The individual has been given a clear and conspicuous notice in writing, or in electronic form if the individual agrees, stating that such financial information may be disclosed to such nonaffiliated third party;
+			</section>
+			<section prefix="2">The individual is given an opportunity, before such financial information is initially disclosed, to direct that such information not be disclosed, and in no case shall the individual be given less than 30 days from the date of notice to direct that such information not be disclosed;
+			</section>
+			<section prefix="3">The individual is given a reasonable means by which to exercise the right to direct that such information not be disclosed as well as an explanation that such right may be exercised at any time and that such right remains effective until revoked by the individual; and
+			</section>
+			<section prefix="4">The nonaffiliated third party agrees not to disclose such financial information to any other person unless such disclosure would otherwise be permitted by this article if made by the insurance institution, agent, or insurance-support organization.
+			</section>
+		</section>
+		<section prefix="B">1. No insurance institution, agent, or insurance-support organization may disclose to a nonaffiliated third party, directly or through an affiliate, other than to a consumer reporting agency, a policy number or similar form of access number or transaction account of a policyholder or applicant for use in telemarketing, direct mail marketing or other marketing through electronic mail to an applicant or policyholder, other than to:
+			a. An agent or other person solely for the purpose of marketing the insurance institution's own products or services as long as the agent or other person is not authorized to directly initiate charges to the account; or
+			b. A participant in a private label credit card program or an affinity or similar program where the participants in the program are identified to the policyholder or applicant at the time the policyholder or applicant enters the program.
+			<section prefix="2">A policy or transaction account shall not include an account to which third parties cannot initiate charges.
+			</section>
+		</section>
+		<section prefix="C">No insurance institution or agent shall unfairly discriminate against an individual because (i) the individual has directed that his personal information not be disclosed pursuant to subsection A or (ii) the individual has refused to grant authorization of the disclosure of his privileged information or medical record information by an insurance institution, agent or insurance support organization pursuant to subsection A of § 38.2-613.
+		</section>
+		<section prefix="D">The requirements of subsection A may be satisfied by providing a single notice if two or more applicants or policyholders jointly obtain or apply for an insurance product. Such notice shall allow one applicant or policyholder to direct that financial information not be disclosed to nonaffiliated third parties on behalf of all of the joint applicants or policyholders, provided that each applicant or policyholder may separately direct that his financial information not be disclosed to nonaffiliated third parties.
+		</section>
+		<section prefix="E">An insurance agent shall not be subject to the requirements of subsection A in any instance where the insurance institution on whose behalf the agent is acting otherwise complies with the requirements contained herein, and the agent does not disclose any financial information to any person other than the insurance institution or its affiliates, or as permitted by § 38.2-613.
+		</section>
+		<section prefix="F">An insurance agent seeking to place coverage on behalf of a current policyholder shall be deemed to be in compliance with the requirements of this section in any instance where the agent has provided the notice required by this section within the previous 12 months.
+		</section>
+	</text>
+	<history>2001, c. 371; 2003, c. 266; 2020, c. 264.</history>
+</law>

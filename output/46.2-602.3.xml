@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="6" level="3">Titling and Registration of Motor Vehicles</unit>
+		<unit label="article" identifier="1" level="4">Titling and Registration, Generally</unit>
+	</structure>
+	<section_number>46.2-602.3</section_number>
+	<catch_line>Titling and registration of converted electric vehicles</catch_line>
+	<text>
+		<section prefix="A">Upon receipt of an application and such evidence of ownership as required by the Commissioner pursuant to § 46.2-625, the Department shall issue a certificate of title for a converted electric vehicle. The first certificate of title issued for a converted electric vehicle shall be an original certificate of title, regardless of the submission of a Virginia certificate of title issued for the vehicle prior to conversion.
+		</section>
+		<section prefix="B">1. No converted electric vehicle shall be registered or operated on the highways of the Commonwealth until the owner submits to the Department a certification by a certified Virginia safety inspector that the conversion to electric propulsion is complete and proof that the vehicle has passed a Virginia safety inspection subsequent to the certification. Such certification shall be on a form approved by the Commissioner and the Superintendent and shall state that the inspector has verified that (i) the internal combustion engine has been removed; (ii) the fuel tank has been removed and not replaced; (iii) a traction battery pack has been installed that is distinct from the vehicle's original auxiliary battery system; and (iv) an electric motor has been installed to drive the wheels of the vehicle. The safety inspector may charge a fee not to exceed $40 to complete a certification pursuant to this subsection, but no such charge shall be mandatory. Any fee charged for such certification shall be in addition to any fee imposed pursuant to § 46.2-1167 for the completion of a Virginia safety inspection.
+			<section prefix="2">The completion of the certification required by this section shall not impose any liability on the safety inspector for the quality of the conversion process; however, nothing in this section shall be construed so as to relieve the safety inspector of any liability that may be imposed pursuant to Article 21 (§ 46.2-1157 et seq.) of Chapter 10 or under any regulation promulgated pursuant to § 46.2-1165, relating to the safety inspection of the converted electric vehicle.
+			</section>
+			<section prefix="3">The submission of a certification pursuant to this section shall be sufficient documentation to exempt the converted electric vehicle for which it is submitted from the emissions inspection program required by Article 22 (§ 46.2-1176 et seq.) of Chapter 10.
+			</section>
+			<section prefix="4">When necessary and upon application, the Department shall issue temporary trip permits in accordance with § 46.2-651 for the purpose of transporting the converted electric vehicle to and from an official Virginia safety inspection station.
+			</section>
+		</section>
+		<section prefix="C">The provisions of this section need only be satisfied once for each converted electric vehicle.
+		</section>
+	</text>
+	<history>2012, c. 177; 2013, c. 216.</history>
+</law>

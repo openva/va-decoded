@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="8" level="3">Radiation Control</unit>
+	</structure>
+	<section_number>32.1-229.3</section_number>
+	<catch_line>Licensing of radioactive material</catch_line>
+	<text>
+		<section prefix="A">All radioactive material not under the authority of the United States Nuclear Regulatory Commission, and devices or equipment utilizing such material, shall be licensed by the Board. The Board shall promulgate regulations that provide for general or specific licenses. The Board may require registration or licensing of any other source of radiation and may exempt certain sources of radiation, uses of radiation, or users of radiation from the licensing and registration requirements set forth in this article when the Commissioner finds that the exemption of such sources, uses, or users of radiation will not constitute a significant risk to the health and safety of the public. The terms and conditions of all licenses shall be subject to amendment, revision, or modification by rules, regulations, or orders issued in accordance with the provisions of this article.
+		</section>
+		<section prefix="B">Regulations promulgated under this article should provide for recognition of other Agreement State or federal licenses, subject to such requirements as the Board may prescribe.
+		</section>
+		<section prefix="C">It shall be unlawful for any person to use, manufacture, produce, distribute, sell, transport, transfer, install, repair, receive, acquire, own, or possess any source of radiation unless licensed by or registered with the Department in conformance with this article and any regulations promulgated by the Board pursuant to this article.
+		</section>
+	</text>
+	<history>2008, cc. 41, 466.</history>
+</law>

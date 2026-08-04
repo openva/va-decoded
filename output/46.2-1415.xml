@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="14.1" level="3">Peer-to-Peer Vehicle Sharing</unit>
+	</structure>
+	<section_number>46.2-1415</section_number>
+	<catch_line>Automobile safety recalls</catch_line>
+	<text>
+		<section prefix="A">When a vehicle owner registers as a shared vehicle owner on a peer-to-peer vehicle sharing platform and prior to when the shared vehicle owner makes a shared vehicle available for vehicle sharing on the peer-to-peer vehicle sharing platform, the peer-to-peer vehicle sharing platform shall:
+			<section prefix="1">Verify that the shared vehicle does not have any safety recalls on the vehicle for which the repairs have not been made; and
+			</section>
+			<section prefix="2">Notify the shared vehicle owner of the requirements under subsection B.
+			</section>
+		</section>
+		<section prefix="B">1. If the shared vehicle owner has received an actual notice of a safety recall on the vehicle, a shared vehicle owner may not make a vehicle available as a shared vehicle on a peer-to-peer vehicle sharing platform until the safety recall repair has been made.
+			<section prefix="2">If a shared vehicle owner receives an actual notice of a safety recall on a shared vehicle while the shared vehicle is available on the peer-to-peer vehicle sharing platform, the shared vehicle owner shall remove the shared vehicle from the peer-to-peer vehicle sharing platform as soon as practicably possible after receiving the notice of the safety recall, and such vehicle shall remain off of the peer-to-peer vehicle sharing platform until the safety recall repair has been made.
+			</section>
+			<section prefix="3">If a shared vehicle owner receives an actual notice of a safety recall during a vehicle sharing period, such owner shall, as soon as practicably possible after receiving the notice of the safety recall, notify the peer-to-peer vehicle sharing platform about the safety recall so that the shared vehicle owner may address the safety recall repair.
+			</section>
+		</section>
+	</text>
+	<history>2020, c. 1266.</history>
+</law>

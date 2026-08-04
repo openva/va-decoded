@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="4" level="3">Wills</unit>
+		<unit label="article" identifier="3" level="4">Construction and Effect</unit>
+	</structure>
+	<section_number>64.2-414</section_number>
+	<catch_line>When wills deemed to speak</catch_line>
+	<text>
+		<section prefix="A">A will shall be construed, with reference to the real and personal estate comprised in it, to speak and take effect as if it had been executed immediately before the death of the testator, unless a contrary intention shall appear by the will.
+		</section>
+		<section prefix="B">Every will reexecuted or republished, or revived by any codicil, shall be deemed to have been made at the time it was reexecuted, republished, or revived.
+		</section>
+	</text>
+	<history>Code 1950, §§ 64-62, 64-71; 1968, c. 656, §§ 64.1-62, 64.1-72; 2012, c. 614.</history>
+</law>

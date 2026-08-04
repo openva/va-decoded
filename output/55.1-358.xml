@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="3" level="3">Form and Effect of Deeds and Covenants; Liens</unit>
+		<unit label="article" identifier="4" level="4">Effect of Certain Expressions in Deeds</unit>
+	</structure>
+	<section_number>55.1-358</section_number>
+	<catch_line>Effect of certain transfer fee covenants</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Transfer"  means assignment, conveyance, gift, inheritance, sale, or other transfer of ownership interest in real property located in the Commonwealth.
+			"Transfer fee"  means a fee or charge payable to a nongovernmental person or entity upon transfer or payable for the right to make or accept such transfer, regardless of whether the fee or charge is a fixed amount or is determined as a percentage of the value of the property, the purchase price of the property, or other consideration given for the transfer. "Transfer fee" does not include:
+			<section prefix="1">Any consideration that is payable by a grantee to a grantor for the interest in real property being transferred;
+			</section>
+			<section prefix="2">Any commission that is payable to a licensed real estate broker for a transfer under an agreement between the broker and the grantor or grantee;
+			</section>
+			<section prefix="3">Any amount, charge, fee, or interest that is payable by a borrower to a lender under a loan secured by a deed of trust or mortgage on real property, including (i) any fee that is payable to the lender for consenting to an assumption of the loan or a transfer of the real property subject to the deed of trust or mortgage and (ii) any consideration allowed by law that is payable to the lender in connection with the loan;
+			</section>
+			<section prefix="4">Any amount, charge, fee, reimbursement, or rent that is payable by a lessee to a lessor under a lease, including any fee that is payable to the lessor for consenting to an assignment, sublease, encumbrance, or transfer of the lease;
+			</section>
+			<section prefix="5">Any consideration that is payable to the holder of an option to purchase an interest in real property, the holder of a right of first refusal, or the holder of a right of first offer to purchase an interest in real property for releasing, waiving, or not exercising the option or right upon the transfer of the property to a person other than the holder;
+			</section>
+			<section prefix="6">Any assessment, charge, or fee authorized by statute, the recorded condominium instrument, or the recorded declaration to be charged by, or payable to, a common interest community as defined in § 54.1-2345 or a cooperative as defined in § 55.1-2100; or
+			</section>
+			<section prefix="7">Any amount, assessment, charge, fee, fine, or tax that is payable to or imposed by a governmental authority.
+				"Transfer fee covenant"  means a covenant or declaration that purports to affect real property and that requires or purports to require, upon a subsequent transfer of such property, the payment of a transfer fee to the declarant or other nongovernmental person or entity specified in the covenant or declaration or to the assigns or successors of such declarant or nongovernmental person or entity.
+			</section>
+		</section>
+		<section prefix="B">A transfer fee covenant recorded in the Commonwealth on or after July 1, 2011, shall not run with the title to real property and is not binding on, or enforceable at law or in equity against, any subsequent owner, purchaser, or mortgagee of any interest in real property as an equitable servitude or otherwise. Any lien purporting to secure the payment of a transfer fee under a transfer fee covenant recorded in the Commonwealth on or after July 1, 2011, is void and unenforceable.
+		</section>
+	</text>
+	<history>2011, c. 706, § 55-70.2; 2019, c. 712.</history>
+</law>

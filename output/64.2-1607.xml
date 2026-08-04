@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="B" level="3">Powers of Attorney</unit>
+		<unit label="chapter" identifier="16" level="4">Uniform Power of Attorney Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>64.2-1607</section_number>
+	<catch_line>When power of attorney effective</catch_line>
+	<text>
+		<section prefix="A">A power of attorney is effective when executed unless the principal provides in the power of attorney that it becomes effective at a future date or upon the occurrence of a future event or contingency.
+		</section>
+		<section prefix="B">If a power of attorney becomes effective upon the occurrence of a future event or contingency, the principal, in the power of attorney, may authorize one or more persons to determine in a writing or other record that the event or contingency has occurred.
+		</section>
+		<section prefix="C">If a power of attorney becomes effective upon the principal's incapacity and the principal has not authorized a person to determine whether the principal is incapacitated, or the person authorized is unable or unwilling to make the determination, the power of attorney becomes effective upon a determination in a writing or other record by (i) the principal's attending physician and a second physician or licensed clinical psychologist after personal examination of the principal that the principal is incapacitated within the meaning of subdivision 1 of the definition of incapacity in § 64.2-1600 or (ii) an attorney-at-law, a judge, or an appropriate governmental official that the principal is incapacitated within the meaning of subdivision 1 of the definition of incapacity in § 64.2-1600.
+		</section>
+		<section prefix="D">A person authorized by the principal in the power of attorney to determine that the principal is incapacitated may act as the principal's personal representative pursuant to the Health Insurance Portability and Accountability Act, §§ 1171 through 1179 of the Social Security Act, 42 U.S.C. § 1320d, as amended, and applicable regulations, to obtain access to the principal's health care information and communicate with the principal's health care provider.
+		</section>
+	</text>
+	<history>2010, cc. 455, 632, § 26-80; 2012, c. 614.</history>
+</law>

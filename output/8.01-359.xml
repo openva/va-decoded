@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="11" level="2">Juries</unit>
+		<unit label="article" identifier="4" level="3">Jury Service</unit>
+	</structure>
+	<section_number>8.01-359</section_number>
+	<catch_line>Trial; numbers of jurors in civil cases; how jurors selected from panel</catch_line>
+	<text>
+		<section prefix="A">Five persons from a panel of not less than 11 shall constitute a jury in a civil case when the amount involved exclusive of interest and costs does not exceed the maximum jurisdictional limits as provided in § 16.1-77 (1). Seven persons from a panel of not less than 13 shall constitute a jury in all other civil cases except that when a special jury is allowed, 12 persons from a panel of not less than 20 shall constitute the jury.
+		</section>
+		<section prefix="B">The parties or their counsel, beginning with the plaintiff, shall alternately strike off one name from the panel until the number remaining shall be reduced to the number required for a jury. Where there are more than two parties, all plaintiffs shall share three strikes between them and all defendants and third-party defendants shall share three strikes between them.
+		</section>
+		<section prefix="C">In any case in which there are two or more parties on the same side, if counsel or the parties are unable to agree on the full number to be stricken, or, if for any other reason a party or his counsel fails or refuses to strike off the full number of jurors allowed such party, the clerk shall place in a box ballots bearing the names of the jurors whose names have not been stricken and shall cause to be drawn from the box such number of ballots as may be necessary to complete the number of strikes allowed the party or parties failing or refusing to strike. Thereafter, if the opposing side is entitled to further strikes, they shall be made in the usual manner.
+		</section>
+		<section prefix="D">In any civil case in which the consent of the plaintiff and defendant shall be entered of record, it shall be lawful for the plaintiff to select one person who is eligible as a juror and for the defendant to select another, and for the two so selected to select a third of like qualifications, and the three so selected shall constitute a jury in the case. They shall take the oath required of jurors, and hear and determine the issue, and any two concurring shall render a verdict in like manner and with like effect as a jury of seven.
+		</section>
+	</text>
+	<history>Code 1950, § 8-208.21; 1973, c. 439; 1974, c. 611; 1975, c. 578; 1977, c. 617; 1985, c. 188; 2005, c. 356.</history>
+</law>

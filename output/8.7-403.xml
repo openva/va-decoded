@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.7" level="1">Commercial Code — Warehouse Receipts, Bills of Lading and Other Documents of Title</unit>
+		<unit label="part" identifier="4" level="2">Warehouse Receipts and Bills of Lading: General Obligations</unit>
+	</structure>
+	<section_number>8.7-403</section_number>
+	<catch_line>Obligation of bailee to deliver; excuse</catch_line>
+	<text>
+		<section prefix="1">The bailee must deliver the goods to a person entitled under the document who complies with subsections (2) and (3), unless and to the extent that the bailee establishes any of the following:
+			<section prefix="a">delivery of the goods to a person whose receipt was rightful as against the claimant;
+			</section>
+			<section prefix="b">damage to or delay, loss or destruction of the goods for which the bailee is not liable;
+			</section>
+			<section prefix="c">previous sale or other disposition of the goods in lawful enforcement of a lien or on warehouseman's lawful termination of storage;
+			</section>
+			<section prefix="d">the exercise by a seller of his right to stop delivery pursuant to § 8.2-705 or by a lessor of his right to stop delivery pursuant to § 8.2A-526;
+			</section>
+			<section prefix="e">a diversion, reconsignment or other disposition pursuant to § 8.7-303;
+			</section>
+			<section prefix="f">release, satisfaction or any other fact affording a personal defense against the claimant; or
+			</section>
+			<section prefix="g">any other lawful excuse.
+			</section>
+		</section>
+		<section prefix="2">A person claiming goods covered by a document must satisfy the bailee's lien where the bailee so requests or where the bailee is prohibited by law from delivering the goods until the charges are paid.
+		</section>
+		<section prefix="3">Unless the person claiming the goods is one against whom the document confers no right under § 8.7-503 (1), he must surrender possession or control, for cancellation or notation of partial deliveries, any outstanding negotiable document covering the goods, and the bailee must cancel the document or conspicuously note the partial delivery thereon or be liable to any person to whom the document is duly negotiated.
+		</section>
+		<section prefix="4">"Person entitled under the document" means holder, in the case of a negotiable document, or the person to whom delivery of the goods is to be made by the terms of, or pursuant to instructions in a record under, a nonnegotiable document.
+		</section>
+	</text>
+	<history>Code 1950, §§ 61-11 to 61-15, 61-19, 61-22; 1964, c. 219; 2004, c. 200.</history>
+</law>

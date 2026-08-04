@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3" level="2">Protection of Employees</unit>
+		<unit label="article" identifier="2.1" level="3">Paid Sick Leave</unit>
+	</structure>
+	<section_number>40.1-33.4</section_number>
+	<catch_line>Accrual of paid sick leave</catch_line>
+	<text>
+		<section prefix="A">All employees shall accrue a minimum of one hour of paid sick leave for every 30 hours worked. Paid sick leave shall be carried over to the year following the year in which it was accrued. An employee shall not accrue or use more than 40 hours of paid sick leave in a year, unless the employer selects a higher limit.
+		</section>
+		<section prefix="B">Employees who are exempt from overtime requirements under 29 U.S.C. § 213(a)(1) of the federal Fair Labor Standards Act, 29 U.S.C. § 201 et seq., will be assumed to work 40 hours in each workweek for purposes of paid sick leave accrual unless their normal workweek is less than 40 hours, in which case paid sick leave accrues on the basis of that normal workweek.
+		</section>
+		<section prefix="C">Paid sick leave as provided in this section shall begin to accrue at the commencement of employment. An employer may provide all paid sick leave that an employee is expected to accrue in a year at the beginning of the year.
+		</section>
+		<section prefix="D">Any employer with a paid leave policy, such as a paid time off policy, that provides an employee an amount of paid leave sufficient to meet the requirements of this section and that may be used for the same purposes and under the same conditions as paid sick leave under this article shall not be required to provide additional paid sick leave to any employee that is eligible for paid leave under the policy.
+		</section>
+		<section prefix="E">Any employer that has entered into a bona fide collective bargaining agreement that requires the employer to provide an amount of paid leave sufficient to meet the requirements of this section and that may be used for the same purposes and under the same conditions as paid sick leave under this article shall not be required to provide additional paid sick leave to any employee covered by such collective bargaining agreement.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 449.</history>
+</law>

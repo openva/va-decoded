@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="7" level="3">Navigators</unit>
+	</structure>
+	<section_number>38.2-3456</section_number>
+	<catch_line>Prohibited activities</catch_line>
+	<text>
+		<section prefix="A">A navigator shall not:
+			<section prefix="1">Engage in any activity that would require an insurance agent license under this title;
+			</section>
+			<section prefix="2">Offer advice about which qualified health plan or qualified dental plan is better or worse for a particular individual or employer;
+			</section>
+			<section prefix="3">Act as an intermediary between an employer and an insurer that offers a qualified health plan or qualified dental plan offered through an exchange;
+			</section>
+			<section prefix="4">Violate any unfair trade practice and privacy requirements in §§ 38.2-502, 38.2-503, 38.2-506, 38.2-509, 38.2-512, 38.2-515, 38.2-612.1, 38.2-613, and 38.2-614 to the extent such requirements are applicable to the activities of navigators; or
+			</section>
+			<section prefix="5">Receive compensation for services or duties as a navigator that are prohibited by federal law, including compensation from a health carrier.
+			</section>
+		</section>
+		<section prefix="B">An individual or entity shall not claim to be, or otherwise hold himself or itself out as, a navigator or conduct business as a navigator in the Commonwealth without:
+			<section prefix="1">Having been selected as a navigator in accordance with applicable federal or state law;
+			</section>
+			<section prefix="2">Having evidence of successful completion of all navigator requirements prescribed by the Secretary or the Exchange; and
+			</section>
+			<section prefix="3">Having met requirements established pursuant to § 38.2-3457.
+			</section>
+		</section>
+		<section prefix="C">If an individual or entity has engaged in the Commonwealth in one or more of the prohibited activities identified in this section, a complaint may be filed with the Commission. The Commission, upon investigation and verification of the prohibited activity or activities, may order such individual or entity to cease and desist such prohibited conduct.
+		</section>
+	</text>
+	<history>2013, cc. 595, 791; 2014, cc. 752, 769; 2020, cc. 916, 917.</history>
+</law>

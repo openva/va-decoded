@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="9.1" level="4">Reporting Adjustments to Federal Taxable Income from Federal Partnership Audits</unit>
+	</structure>
+	<section_number>58.1-399.1</section_number>
+	<catch_line>Elective payment by a partnership</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding §§ 58.1-390.2 and 58.1-399, an audited partnership may make an elective payment pursuant to the provisions of this section. Such partnership shall:
+			<section prefix="1">No later than 90 days after the final determination date, file a completed federal adjustments report, which shall include any information required by the Department;
+			</section>
+			<section prefix="2">No later than 90 days after a final determination date, notify the Department that it is making an elective payment; and
+			</section>
+			<section prefix="3">No later than one year after the final determination date, pay the elective payment amount specified in subsection B. Such amount shall be in lieu of taxes owed by the direct and indirect partners.
+			</section>
+		</section>
+		<section prefix="B">The elective payment amount shall be the amount of final federal adjustments, subject to the following modifications:
+			<section prefix="1">The elective payment amount shall exclude the distributive share of final federal adjustments that is reported to a direct exempt partner;
+			</section>
+			<section prefix="2">For the total distributive shares of the remaining final federal adjustments reported to (i) any direct corporate partner subject to tax under § 58.1-400 and (ii) any direct exempt partner subject to tax under § 58.1-400 on its unrelated business income or other taxable income, such adjustments shall be apportioned or allocated, as applicable, pursuant to the provisions of §§ 58.1-405 through 58.1-423 and, after such apportionment or allocation, shall be multiplied by the tax rate specified in § 58.1-400 and, after such multiplication, shall be included in the elective payment;
+			</section>
+			<section prefix="3">For the total distributive shares of the remaining final federal adjustments reported to any nonresident direct partner that is subject to tax under Article 2 (§ 58.1-320 et seq.) or 6 (§ 58.1-360 et seq.), such adjustments shall be sourced to Virginia pursuant to applicable laws governing sourcing, and any adjustments sourced to Virginia shall be multiplied by the highest tax rate specified in § 58.1-320 and, after such multiplication, shall be included in the elective payment;
+			</section>
+			<section prefix="4">For the total distributive shares of the remaining final federal adjustments reported to any tiered partner, the elective payment shall include the amount specified in this subdivision. Subject to the modifications specified in this subdivision, the amount shall (i) include that portion of the adjustments that are of a type that would be sourced to Virginia pursuant to applicable laws governing sourcing, and (ii) include all adjustments that are of a type that would not be subject to sourcing in Virginia pursuant to applicable laws governing sourcing. However, the amount specified in clause (ii) shall exclude any amount that can be established, under guidelines issued by the Department, to be properly (a) allocable to a nonresident indirect partner, (b) allocable to a partner that is not subject to tax on such amount, or (c) excludable under procedures for alternative reporting and payment as specified in § 58.1-399.3. The amount specified in clauses (i) and (ii), as reduced by the exclusions specified in clauses (a), (b), and (c), shall be multiplied by the highest tax rate specified in § 58.1-320 or 58.1-360, as applicable, and, after such multiplication, shall be included in the elective payment;
+			</section>
+			<section prefix="5">For the total distributive shares of the remaining final federal adjustments reported to any resident direct partner that is subject to tax under § 58.1-320 or 58.1-360, such adjustments shall be multiplied by the highest tax rate specified in § 58.1-320 or 58.1-360, as applicable, and, after such multiplication, shall be included in the elective payment; and
+			</section>
+			<section prefix="6">Any penalty and interest provided for by this title shall be included in the elective payment.
+			</section>
+		</section>
+	</text>
+	<history>2020, c. 1030.</history>
+</law>

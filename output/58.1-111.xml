@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>58.1-111</section_number>
+	<catch_line>Taxpayer refusing to file return; estimated tax</catch_line>
+	<text>
+		Whenever any taxpayer liable under the law to file a state tax return with the Department shall fail or refuse on demand to file a correct and proper return, the Department may make an estimate of the amount of taxes due the Commonwealth by such taxpayer, from any information in its possession, and assess the taxes, penalties and interest due the Commonwealth by such taxpayer.
+	</text>
+	<history>Code 1950, § 58-40; 1984, c. 675.</history>
+</law>

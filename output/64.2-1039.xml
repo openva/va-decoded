@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="3" level="4">Unitrust</unit>
+	</structure>
+	<section_number>64.2-1039</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article, unless the context requires a different meaning:
+		"Applicable value" means the amount of the net fair market value of a trust taken into account under § 64.2-1045.
+		"Express unitrust" means a trust for which, under the terms of the trust without regard to this article, income or net income must or may be calculated as a unitrust amount.
+		"Income trust" means a trust that is not a unitrust.
+		"Net fair market value of a trust" means the fair market value of the assets of the trust, less the noncontingent liabilities of the trust.
+		"Unitrust" means a trust for which net income is a unitrust amount. "Unitrust" includes an express unitrust.
+		"Unitrust amount" means an amount computed by multiplying a determined value of a trust by a determined percentage. For a unitrust administered under a unitrust policy, "unitrust amount" means the applicable value, multiplied by the unitrust rate.
+		"Unitrust policy" means a policy described in §§ 64.2-1043 through 64.2-1047 and adopted under § 64.2-1041.
+		"Unitrust rate" means the rate used to compute the unitrust amount for a unitrust administered under a unitrust policy.
+	</text>
+	<history>2022, c. 354.</history>
+</law>

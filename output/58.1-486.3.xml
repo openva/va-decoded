@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="16.1" level="4">Withholding by Pass-Through Entities</unit>
+	</structure>
+	<section_number>58.1-486.3</section_number>
+	<catch_line>Penalty</catch_line>
+	<text>
+		<section prefix="A">If any payment is not made in full when due, there shall be added to the entire tax or to any unpaid balance of the tax a penalty of six percent of the amount thereof, if the failure is for not more than one month, with an additional six percent for each additional month or fraction thereof during which such failure to pay continues, not exceeding 30 percent in the aggregate. The entire tax or any unpaid balance of the tax, together with such penalty and interest, shall immediately become collectible. Interest upon such tax or any unpaid balance of the tax and on the accrued penalty shall be added at a rate determined in accordance with § 58.1-15 from the date the tax or any unpaid balance of the tax was originally due until paid. In the case of an additional tax assessed by the Department, if the return was made in good faith and the understatement of the amount in the return was not due to any fault of the taxpayer, there shall be no penalty on the additional tax because of such understatement, but interest shall be added to the amount of the deficiency at a rate determined in accordance with § 58.1-15 from the time the return was required by law to be filed until paid.
+		</section>
+		<section prefix="B">In any month or fraction thereof for which the pass-through entity is subject to the penalty imposed under § 58.1-394.1 and the penalty under this section, the greater of the two penalties shall apply.
+		</section>
+		<section prefix="C">The penalty under this section shall not apply to any tax attributable to income that was included in a return filed pursuant to § 58.1-395.
+		</section>
+	</text>
+	<history>2010, c. 120.</history>
+</law>

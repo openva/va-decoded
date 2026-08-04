@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Members and Meetings</unit>
+	</structure>
+	<section_number>13.1-846</section_number>
+	<catch_line>Voting entitlement of members</catch_line>
+	<text>
+		<section prefix="A">Members shall not be entitled to vote except as the right to vote shall be conferred by the articles of incorporation or if the articles of incorporation so provide, in the bylaws.
+		</section>
+		<section prefix="B">When directors or officers are to be elected by members, the bylaws may provide that such elections may be conducted by mail.
+		</section>
+		<section prefix="C">Unless the articles of incorporation provide otherwise, in the election of directors every member, regardless of class, is entitled to one vote for as many persons as there are directors to be elected at that time and for whose election the member has a right to vote.
+		</section>
+		<section prefix="D">If a corporation has no members or its members have no right to vote, the directors shall have the sole voting power.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-217; 1956, c. 428; 1975, c. 500; 1982, c. 182; 1985, c. 522; 2002, c. 285; 2007, c. 925.</history>
+</law>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="14.1" level="3">Peer-to-Peer Vehicle Sharing</unit>
+	</structure>
+	<section_number>46.2-1409</section_number>
+	<catch_line>Peer-to-peer insurance coverage</catch_line>
+	<text>
+		<section prefix="A">A peer-to-peer vehicle sharing platform shall ensure that at all times during each vehicle sharing period the shared vehicle owner and the shared vehicle driver are insured under a motor vehicle liability insurance policy that provides uninsured motorist coverage and bodily injury and property damage liability coverage and that provides primary insurance coverage in an amount not less than the applicable financial responsibility limits set forth in this title and in § 38.2-2206 and:
+			<section prefix="1">Contains written recognition that the shared vehicle insured under the policy is made available and used through a peer-to-peer vehicle sharing platform; or
+			</section>
+			<section prefix="2">Does not exclude use of a shared vehicle by a shared vehicle driver.
+			</section>
+		</section>
+		<section prefix="B">A peer-to-peer vehicle sharing platform shall assume primary liability, except as provided in subsection C, of a shared vehicle owner for bodily injury and property damage to third parties and uninsured motorist losses during the vehicle sharing period in an amount stated in the vehicle sharing platform agreement, which amount shall not be less than the applicable financial responsibility limits set forth in this title and in § 38.2-2206.
+		</section>
+		<section prefix="C">Notwithstanding the definition of vehicle sharing termination time in § 46.2-1408, the assumption of liability under subsection B does not apply to any shared vehicle owner when such shared vehicle owner:
+			<section prefix="1">Performs an act, practice, or omission that constitutes fraud or makes an intentional misrepresentation of material fact to the peer-to-peer vehicle sharing platform before the vehicle sharing period in which the loss occurred; or
+			</section>
+			<section prefix="2">Acts in concert with a shared vehicle driver who fails to return the shared vehicle pursuant to the terms of the vehicle sharing platform agreement.
+			</section>
+		</section>
+		<section prefix="D">The insurance described under subsection A may be satisfied by motor vehicle liability insurance maintained by:
+			<section prefix="1">A shared vehicle owner;
+			</section>
+			<section prefix="2">A shared vehicle driver;
+			</section>
+			<section prefix="3">A peer-to-peer vehicle sharing platform; or
+			</section>
+			<section prefix="4">Any combination of a shared vehicle owner, a shared vehicle driver, and a peer-to-peer vehicle sharing platform.
+			</section>
+		</section>
+		<section prefix="E">The peer-to-peer vehicle sharing platform shall assume primary liability for a claim when it is in whole or in part providing the insurance required pursuant to subsections A and D and:
+			<section prefix="1">A dispute exists as to who was in control of the shared vehicle at the time of the loss; and
+			</section>
+			<section prefix="2">The peer-to-peer vehicle sharing platform does not have available, did not retain, or fails to provide the information required by § 46.2-1413.
+			</section>
+		</section>
+		<section prefix="F">The vehicle owner's insurer shall indemnify the peer-to-peer vehicle sharing platform to the extent of its obligation under the applicable insurance policy, if it is determined that the shared vehicle's owner or his designee was in control of the shared vehicle at the time of the loss.
+			If any insurer providing insurance coverage under subsection D pays a claim that it was not obligated to pay, such insurer shall be entitled to indemnification from the insurer of the party that had the obligation to pay the claim.
+		</section>
+		<section prefix="G">If insurance maintained by a shared vehicle owner or shared vehicle driver in accordance with subsection D has lapsed, has been canceled, or does not provide the required coverage, the insurer providing the insurance maintained by a peer-to-peer vehicle sharing platform shall provide coverage pursuant to subsection A beginning with the first dollar of a claim and shall have the duty to defend such claim except under circumstances set forth in subsection C.
+		</section>
+		<section prefix="H">Coverage under a motor vehicle liability insurance policy maintained by the peer-to-peer vehicle sharing platform shall not be dependent on another automobile insurer's first denying a claim, nor shall another motor vehicle insurance policy be required to first deny a claim.
+		</section>
+		<section prefix="I">Nothing in this chapter:
+			<section prefix="1">Limits the liability of the peer-to-peer vehicle sharing platform for any act or omission of the peer-to-peer vehicle sharing platform itself that results in injury to any person as a result of the use of a shared vehicle through a peer-to-peer vehicle sharing platform; or
+			</section>
+			<section prefix="2">Limits the ability of the peer-to-peer vehicle sharing platform to, by contract, seek indemnification from the shared vehicle owner or the shared vehicle driver for economic loss sustained by the peer-to-peer vehicle sharing platform resulting from a breach of the terms and conditions of the vehicle sharing platform agreement.
+			</section>
+		</section>
+		<section prefix="J">A peer-to-peer vehicle sharing platform shall either provide or offer for sale to the shared vehicle owner or shared vehicle driver collision and other than collision coverage for physical loss to the shared vehicle during the vehicle sharing period. Such coverage shall be in an amount not less than the actual cash value of the shared vehicle.
+		</section>
+		<section prefix="K">Any insurer providing coverage under subsection D, or an individual who suffers a loss arising from the use of a shared vehicle or the attorney for such insurer or individual, or a personal representative of the estate of a decedent who died as a result of a motor vehicle accident involving a shared vehicle if not represented by counsel, and who provides the peer-to-peer vehicle sharing platform with the date, approximate time, and location of the accident and, if available, the name of the shared vehicle owner and, if available, the accident report, may request in writing from the peer-to-peer vehicle sharing platform the identity of any insurer that may have provided coverage and the limits of liability, regardless of whether the insurer contests the applicability of the policy to the claim, and whether, at the approximate time of the accident, the shared vehicle was in a vehicle sharing period. The peer-to-peer vehicle sharing platform shall respond within 30 days with the requested information if such information is in the peer-to-peer vehicle sharing platform's possession. Any further exchange of information shall be covered pursuant to § 8.01-417.
+		</section>
+	</text>
+	<history>2020, c. 1266.</history>
+</law>

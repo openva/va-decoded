@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="16" level="4">Income Tax Withholding</unit>
+	</structure>
+	<section_number>58.1-482</section_number>
+	<catch_line>Certain nonresidents; reciprocity with other states</catch_line>
+	<text>
+		If the income tax law of another state of the United States or of the District of Columbia results in its residents being allowed a credit under § 58.1-332 sufficient to offset all taxes required by this article to be withheld from the wages of an employee, the Tax Commissioner may by regulation relieve the employers of such employees from the withholding requirements of this article with respect to such employees.
+	</text>
+	<history>Code 1950, § 58-151.19; 1962, c. 612; 1971, Ex. Sess., c. 171; 1984, c. 675.</history>
+</law>

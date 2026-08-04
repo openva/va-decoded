@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="15" level="2">Telegraph and Telephone Companies</unit>
+		<unit label="article" identifier="7" level="3">Enhanced Public Safety Telephone Services Act</unit>
+	</structure>
+	<section_number>56-484.16</section_number>
+	<catch_line>Local emergency telecommunications requirements; text messages; use of digits "9-1-1."</catch_line>
+	<text>
+		<section prefix="A">On or before July 1, 2003, every county, city or town in the Commonwealth shall be served by an E-911 system, unless an extension of time has been granted by the Board.
+		</section>
+		<section prefix="B">On or before July 1, 2020, each PSAP in the Commonwealth shall deploy equipment, products, and services necessary or appropriate to enable the PSAP to receive and process calls for emergency assistance sent via Short Message Service (SMS) text messages in a manner consistent with FCC Order 14-118 and any other FCC order that affects the deployment of SMS text-to-9-1-1. Upon such deployment, the PSAP shall notify the FCC's PSAP Text-to-911 Readiness and Certification Registry.
+		</section>
+		<section prefix="C">The digits "9-1-1" shall be the designated emergency telephone number in Virginia. No public safety agency shall advertise or otherwise promote the use of any number for emergency response service other than "9-1-1."
+		</section>
+		<section prefix="D">All originating service providers required to provide access to 9-1-1 service shall route the 9-1-1 calls of their subscribers to ESInet points of interconnection designated by the Board. The Board shall establish points of interconnection at or within the local access and transport area and in proximity of each selective router central office providing E-911 service as of July 1, 2018. Additionally, the Board shall establish a minimum of one pair (two) and a maximum of three pair (six) geographically diverse from their designated pair point of session initiation protocol (SIP) interconnection within the Commonwealth. The Board shall establish ESInet points of interconnection in a manner that minimizes cost to the originating service providers to the extent practicable while still achieving necessary 9-1-1 service and ESInet objectives.
+		</section>
+		<section prefix="E">The NG9-1-1 service provider shall receive the 9-1-1 calls delivered by the originating service provider at the designated ESInet points of interconnection and deliver the calls to the appropriate PSAP. The NG9-1-1 service provider shall not charge the originating service provider to connect to the ESInet point of interconnection nor for the delivery of the 9-1-1 calls to the PSAP. The originating service provider responsibility for 9-1-1 calls ends and the PSAP responsibility begins at their respective sides of the ESInet point of interconnection.
+		</section>
+		<section prefix="F">The PSAP shall validate the location of the originating service provider subscribers as necessary to ensure the location exists and will route to the appropriate PSAP if 9-1-1 is dialed. The PSAP shall not charge the originating service provider for such validation.
+		</section>
+		<section prefix="G">No later than July 1, 2023, the Board shall develop and fully implement NG9-1-1 transition plans to migrate PSAPs and originating service providers from E-911 to NG9-1-1. To the extent practicable, the migration of PSAPs will be implemented on a sequential region-by-region basis for those PSAPs served by each legacy E-911 selective router pair. With a minimum of six months' written notice to the impacted stakeholders, this date may be extended by the Board for good cause. For purposes of this section, "good cause" means an event or events reasonably beyond the ability of the Board to anticipate or control.
+		</section>
+	</text>
+	<history>2000, c. 1064; 2001, c. 713; 2005, c. 942; 2018, cc. 532, 533, 673.</history>
+</law>

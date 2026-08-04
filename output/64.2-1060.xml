@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="6" level="4">Allocation of Receipts: Receipts Normally Apportioned</unit>
+	</structure>
+	<section_number>64.2-1060</section_number>
+	<catch_line>Marital deduction property not productive of income</catch_line>
+	<text>
+		<section prefix="A">If a trust received property for which a gift or estate tax marital deduction was allowed and the settlor's spouse holds a mandatory income interest in the trust, the spouse may require the trustee, to the extent the trust assets otherwise do not provide the spouse with sufficient income from or use of the trust assets to qualify for the deduction, to:
+			<section prefix="1">Make property productive of income;
+			</section>
+			<section prefix="2">Convert property to property productive of income within a reasonable time; or
+			</section>
+			<section prefix="3">Exercise the power to adjust under § 64.2-1038.
+			</section>
+		</section>
+		<section prefix="B">The trustee may decide which action or combination of actions in subsection A to take.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

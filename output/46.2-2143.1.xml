@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="21" level="3">Regulation of Property Carriers</unit>
+		<unit label="article" identifier="2" level="4">Insurance Requirements</unit>
+	</structure>
+	<section_number>46.2-2143.1</section_number>
+	<catch_line>Insurance requirement for motor carriers</catch_line>
+	<text>
+		<section prefix="A">All motor carriers shall keep in force at all times insurance, a bond, or bonds in an amount required by this section. However, motor carriers exempt under subdivision 6 of § 46.2-2101 shall only be required to keep in force insurance, a bond, or bonds in the amount required by this section that provide primary coverage (i) when the motor carrier or person acting on behalf of the motor carrier is available to transport property for compensation and (ii) from the time the motor carrier or a person acting for or on behalf of the motor carrier accepts the request to transport property and the vehicle is en route to pick up the property until the time the property has been removed from the vehicle and delivered to its final destination.
+		</section>
+		<section prefix="B">The minimum public liability financial responsibility requirements for motor carriers operating in intrastate commerce shall be based on the gross vehicle weight rating of the vehicle as follows: for vehicles with a gross vehicle weight rating in excess of 10,000 pounds, the minimum requirement is $750,000; for vehicles with a gross vehicle weight rating in excess of 7,500 pounds but not in excess of 10,000 pounds, the minimum requirement is $300,000; and for passenger cars, motorcycles, autocycles, and vehicles with a gross vehicle weight rating of 7,500 pounds or less, the minimum requirement for clause (i) of subsection A is the financial responsibility requirements set forth in § 46.2-472 and for clause (ii) of subsection A is $100,000 per person and $300,000 per incident for death and bodily injury and at least $50,000 for property damage. The minimum insurance for motor carriers operating in interstate commerce shall equal the minimum required by federal law, rule, or regulation.
+		</section>
+		<section prefix="C">Notwithstanding subsection B, the minimum public financial responsibility requirements for household goods carriers required to obtain a certificate of fitness pursuant to this chapter shall be $750,000.
+		</section>
+		<section prefix="D">The minimum cargo insurance required for motor carriers operating in intrastate commerce shall be $50,000. Motor carriers not engaged in the transportation of household goods and those solely operating passenger cars, motorcycles, autocycles, and vehicles with a gross vehicle weight rating of 7,500 pounds or less shall not be required to file any cargo insurance, bond, or bonds for cargo liability.
+		</section>
+	</text>
+	<history>2012, c. 638; 2017, cc. 790, 815; 2023, c. 242.</history>
+</law>

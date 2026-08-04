@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="21" level="3">Miscellaneous Provisions</unit>
+	</structure>
+	<section_number>8.01-226.13</section_number>
+	<catch_line>Limited standing to seek injunctive relief against manufacturing companies</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Manufacturing company" means a domestic or foreign corporation primarily engaged in activities that, in accordance with the North American Industrial Classification System (NAICS), United States Manual, United States Office of Management and Budget, 2012 Edition, would be included in Sector 31, 32, or 33.
+			"Public greenway" means any system of hiking, biking, or horseback riding trails established by a locality or political subdivision.
+			"Public park, recreational facility, or playground" means any such facility established by a locality pursuant to § 15.2-1806.
+		</section>
+		<section prefix="B">No action shall be initiated or maintained to enjoin the continued use and operation of a manufacturing company solely on the basis of the claimant's use of a public park, recreational facility, or playground or public greenway, when such manufacturing company existed prior to the creation of such public park, recreational facility, or playground, or public greenway.
+		</section>
+		<section prefix="C">This section shall not limit actions brought by the Commonwealth, a locality, or an entity designated pursuant to subdivision A 3 of § 15.2-1806.
+		</section>
+	</text>
+	<history>2016, c. 669.</history>
+</law>

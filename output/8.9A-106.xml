@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="1" level="2">General Provisions</unit>
+		<unit label="subpart" identifier="1" level="3">Short Title, Definitions and General Concepts</unit>
+	</structure>
+	<section_number>8.9A-106</section_number>
+	<catch_line>Control of investment property</catch_line>
+	<text>
+		<section prefix="a">Control under § 8.8A-106. A person has control of a certificated security, uncertificated security, or security entitlement as provided in § 8.8A-106.
+		</section>
+		<section prefix="b">Control of commodity contract. A secured party has control of a commodity contract if:
+			<section prefix="1">the secured party is the commodity intermediary with which the commodity contract is carried; or
+			</section>
+			<section prefix="2">the commodity customer, secured party, and commodity intermediary have agreed that the commodity intermediary will apply any value distributed on account of the commodity contract as directed by the secured party without further consent by the commodity customer.
+			</section>
+		</section>
+		<section prefix="c">Effect of control of securities account or commodity account. A secured party having control of all security entitlements or commodity contracts carried in a securities account or commodity account has control over the securities account or commodity account.
+		</section>
+	</text>
+	<history>1996, c. 216, §§ 8.8-106, 8.9-115; 2000, c. 1007.</history>
+</law>

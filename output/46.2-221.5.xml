@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions; Department of Motor Vehicles</unit>
+		<unit label="chapter" identifier="2" level="3">Department of Motor Vehicles</unit>
+		<unit label="article" identifier="1" level="4">Powers and Duties of Department, Generally</unit>
+	</structure>
+	<section_number>46.2-221.5</section_number>
+	<catch_line>Information on veterans services provided</catch_line>
+	<text>
+		<section prefix="A">If any person indicates that he is a veteran on any form or application submitted to the Department for the purpose of a driver or vehicle transaction, the Department shall offer such person information on veterans services that are available in the Commonwealth. Such information may be electronic, provided that printed materials are made available upon request.
+		</section>
+		<section prefix="B">The Department of Veterans Services shall furnish the Department with all materials required to be offered pursuant to this section. Distribution of materials shall be in a manner prescribed by the Commissioner in consultation with the Department of Veterans Services.
+		</section>
+		<section prefix="C">Nothing in this section shall require the Department to verify a person's veteran status.
+		</section>
+	</text>
+	<history>2020, c. 698.</history>
+</law>

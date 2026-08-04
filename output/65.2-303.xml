@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="3" level="2">Application and Effect of Title</unit>
+	</structure>
+	<section_number>65.2-303</section_number>
+	<catch_line>Recovery from subcontractor; proceedings against owner or contractor</catch_line>
+	<text>
+		<section prefix="A">Nothing in §§ 65.2-302 and 65.2-304 shall be construed as preventing a worker from recovering compensation under this title from a subcontractor (as described in § 65.2-302) instead of from the principal contractor (as described in § 65.2-302) but he shall not collect from both.
+		</section>
+		<section prefix="B">When compensation is claimed from or proceedings are taken against the owner or contractor (as described in § 65.2-302), then, in the application of this title, reference to the owner or contractor shall be substituted for reference to the subcontractor (as described in § 65.2-302), except that the amount of compensation shall be calculated with reference to the earnings of the worker under the subcontractor by whom he is immediately employed.
+		</section>
+	</text>
+	<history>Code 1950, §§ 65-29, 65-31; 1968, c. 660, §§ 65.1-32, 65.1-34; 1991, c. 355.</history>
+</law>

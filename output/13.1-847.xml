@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Members and Meetings</unit>
+	</structure>
+	<section_number>13.1-847</section_number>
+	<catch_line>Proxies</catch_line>
+	<text>
+		<section prefix="A">A member entitled to vote may vote in person or, unless the articles of incorporation or bylaws otherwise provide, by proxy.
+		</section>
+		<section prefix="B">A member or the member's agent or attorney-in-fact may appoint a proxy to vote or otherwise act for the member by signing an appointment form or by an electronic transmission. Any copy, facsimile telecommunications or other reliable reproduction of the writing or transmission created pursuant to this subsection may be substituted or used in lieu of the original writing or transmission for any and all purposes for which the original writing or transmission could be used, provided that such copy, facsimile telecommunication or other reproduction shall be a complete reproduction of the entire original writing or transmission.
+		</section>
+		<section prefix="C">An appointment of a proxy is effective when a signed appointment form or an electronic transmission of the appointment is received by the inspectors of election or the officer or agent of the corporation authorized to tabulate votes. An appointment is valid for 11 months unless a longer period is expressly provided in the appointment form.
+		</section>
+		<section prefix="D">An appointment of a proxy is revocable unless the appointment form or electronic transmission states that it is irrevocable and the appointment is coupled with an interest. Appointments coupled with an interest include the appointment of:
+			<section prefix="1">A creditor of the corporation who extended it credit under terms requiring the appointment;
+			</section>
+			<section prefix="2">An employee of the corporation whose employment contract requires the appointment; or
+			</section>
+			<section prefix="3">A party to a voting agreement created under § 13.1-852.2.
+			</section>
+		</section>
+		<section prefix="E">The death or incapacity of the member appointing a proxy does not affect the right of the corporation to accept the proxy's authority unless notice of the death or incapacity is received by the secretary or other officer or agent authorized to tabulate votes before the proxy exercises the proxy's authority under the appointment.
+		</section>
+		<section prefix="F">An appointment made irrevocable under subsection D is revoked when the interest with which it is coupled is extinguished.
+		</section>
+		<section prefix="G">Subject to § 13.1-848 and to any express limitation on the proxy's authority stated in the appointment form or electronic transmission, a corporation is entitled to accept the proxy's vote or other action as that of the member making the appointment.
+		</section>
+		<section prefix="H">Any fiduciary who is entitled to vote any membership interest may vote such membership interest by proxy.
+		</section>
+	</text>
+	<history>1985, c. 522; 1999, c. 101; 2002, c. 285; 2007, c. 925; 2010, c. 171.</history>
+</law>

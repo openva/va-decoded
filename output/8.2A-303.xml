@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2A" level="1">Commercial Code — Leases</unit>
+		<unit label="part" identifier="3" level="2">Effect of Lease Contract</unit>
+	</structure>
+	<section_number>8.2A-303</section_number>
+	<catch_line>Alienability of party's interest under lease contract or of lessor's residual interest in goods; delegation of performance; transfer of rights</catch_line>
+	<text>
+		<section prefix="1">As used in this section, "creation of a security interest" includes the sale of a lease contract that is subject to Title 8.9A, Secured Transactions, by reason of subdivision (a) (3) of § 8.9A-109.
+		</section>
+		<section prefix="2">Except as provided in subsection (3) of this section and § 8.9A-407, a provision in a lease agreement which (i) prohibits the voluntary or involuntary transfer, including a transfer by sale, sublease, creation or enforcement of a security interest, or attachment, levy, or other judicial process, of an interest of a party under the lease contract or of the lessor's residual interest in the goods, or (ii) makes such a transfer an event of default, gives rise to the rights and remedies provided in subsection (4) of this section, but a transfer that is prohibited or is an event of default under the lease agreement is otherwise effective.
+		</section>
+		<section prefix="3">A provision in a lease agreement which (i) prohibits a transfer of a right to damages for default with respect to the whole lease contract or of a right to payment arising out of the transferor's due performance of the transferor's entire obligation, or (ii) makes such a transfer an event of default, is not enforceable, and such a transfer is not a transfer that materially impairs the prospect of obtaining return performance by, materially changes the duty of, or materially increases the burden or risk imposed on, the other party to the lease contract within the purview of subsection (4) of this section.
+		</section>
+		<section prefix="4">Subject to subsection (3) of this section and § 8.9A-407:
+			<section prefix="a">If a transfer is made which is made an event of default under a lease agreement, the party to the lease contract not making the transfer, unless that party waives the default or otherwise agrees, has the rights and remedies described in subsection (2) of § 8.2A-501;
+			</section>
+			<section prefix="b">Subdivision (a) of this subsection is not applicable and if a transfer is made that (i) is prohibited under a lease agreement or (ii) materially impairs the prospect of obtaining return performance by, materially changes the duty of, or materially increases the burden or risk imposed on, the other party to the lease contract, unless the party not making the transfer agrees at any time to the transfer in the lease contract or otherwise, then, except as limited by contract, (i) the transferor is liable to the party not making the transfer for damages caused by the transfer to the extent that the damages could not reasonably be prevented by the party not making the transfer and (ii) a court having jurisdiction may grant other appropriate relief, including cancellation of the lease contract or an injunction against the transfer.
+			</section>
+		</section>
+		<section prefix="5">A transfer of "the lease" or of "all my rights under the lease," or a transfer in similar general terms, is a transfer of rights and, unless the language or the circumstances, as in a transfer for security, indicate the contrary, the transfer is a delegation of duties by the transfer to the transferee. Acceptance by the transferee constitutes a promise by the transferee to perform those duties. The promise is enforceable by either the transfer or the other party to the lease contract.
+		</section>
+		<section prefix="6">Unless otherwise agreed by the lessor and the lessee, a delegation of performance does not relieve the transferor as against the other party of any duty to perform or of any liability for default.
+		</section>
+		<section prefix="7">In a consumer lease, to prohibit the transfer of an interest of a party under the lease contract or to make a transfer an event of default, the language shall be specific, by a writing, and conspicuous.
+		</section>
+	</text>
+	<history>1991, c. 536; 2000, c. 1007.</history>
+</law>

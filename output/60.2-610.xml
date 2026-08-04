@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="6" level="2">Benefits</unit>
+		<unit label="article" identifier="3" level="3">Extended Benefits</unit>
+	</structure>
+	<section_number>60.2-610</section_number>
+	<catch_line>Extended benefits defined</catch_line>
+	<text>
+		<section prefix="A">As used in this article, unless the context clearly requires otherwise, "extended benefit period" means a period which:
+			<section prefix="1">Begins with the third week following a week for which there is a state "on" indicator; and
+			</section>
+			<section prefix="2">Ends with either of the following weeks, whichever occurs later:
+				a. The third week after the first week for which there is a state "off" indicator; or
+				b. The thirteenth consecutive week of such period; however, no extended benefit period may begin by reason of a state "on" indicator before the fourteenth week following the end of a prior extended benefit period which was in effect with respect to this Commonwealth.
+			</section>
+		</section>
+		<section prefix="B">"Rate of insured unemployment," for purposes of subsections H and I of this section, means the percentage derived by dividing:
+			<section prefix="1">The average weekly number of individuals filing claims for regular compensation in this Commonwealth for weeks of unemployment with respect to the most recent, 13 consecutive week period, as determined by the Commission on the basis of its reports to the United States Secretary of Labor, by
+			</section>
+			<section prefix="2">The average monthly employment covered under this act for the first four of the most recent six completed calendar quarters ending before the end of such 13-week period.
+			</section>
+		</section>
+		<section prefix="C">"Regular benefits" means benefits, other than extended benefits, payable to an individual under this title or under any other state law, including benefits payable to federal civilian employees and to ex-servicemen pursuant to Chapter 85 (5 U.S.C. § 8501 et seq.) of Title 5 of the United States Code.
+		</section>
+		<section prefix="D">"Extended benefits" means benefits, including benefits payable to federal civilian employees and to ex-servicemen pursuant to Chapter 85 (5 U.S.C. § 8501 et seq.) of Title 5 of the United States Code, payable to an individual under the provisions of § 60.2-611 for weeks of unemployment in his eligibility period.
+		</section>
+		<section prefix="E">"Eligibility period" of an individual means the period consisting of the weeks in his benefit year which begin in an extended benefit period and, if his benefit year ends within such extended benefit period, any weeks thereafter which begin in such period.
+		</section>
+		<section prefix="F">1. "Exhaustee" means an individual who, with respect to any week of unemployment in his eligibility period:
+			a. Has received, prior to such week, all of the regular benefits that were available to him under this title or any other state law, including dependents' allowances and benefits payable to federal civilian employees and ex-servicemen under Chapter 85 (5 U.S.C. § 8501 et seq.) of Title 5 of the United States Code, in his current benefit year that includes such week;
+			b. His benefit year having expired prior to such week, has no, or insufficient, wages or employment on the basis of which he could establish a new benefit year that would include such week; and
+			c. (i) Has no right to unemployment benefits or allowances, under the Railroad Unemployment Insurance Act (45 U.S.C. § 351 et seq.), the Automotive Products Trade Act of 1965 (19 U.S.C. § 2001 et seq.) and such other federal laws as are specified in regulations issued by the United States Secretary of Labor, and (ii) has not received and is not seeking unemployment benefits under the unemployment compensation law of Canada. However, if he is seeking such benefits and the appropriate agency finally determines that he is not entitled to benefits under such law he is considered an exhaustee.
+			<section prefix="2">For the purposes of subdivision 1 a of this subsection, an individual shall be deemed to have received all of the regular benefits that were available to him although (i) as a result of a pending appeal with respect to wages or employment that were not considered in the original monetary determination in his benefit year, he may subsequently be determined to be entitled to added regular benefits, or (ii) he may be entitled to regular benefits with respect to future weeks of unemployment.
+			</section>
+		</section>
+		<section prefix="G">"State law" means the unemployment insurance law of any state, approved by the United States Secretary of Labor under 26 U.S.C. § 3304.
+		</section>
+		<section prefix="H">There is a "state 'on' indicator" for this Commonwealth for a week if:
+			<section prefix="1">The Commission determines, in accordance with the regulations of the United States Secretary of Labor, that for the period consisting of such week and the immediately preceding 12 weeks, the rate of insured unemployment, not seasonally adjusted, under this title:
+				a. Equaled or exceeded 120 percent of the average of such rates for the corresponding 13-week period ending in each of the preceding two calendar years; and
+				b. Equaled or exceeded five percent, provided that the determination of whether there has been a state trigger "on" indicator shall be made as if this subsection did not contain subdivision 1 a, if the rate of insured unemployment as defined in this subsection equaled or exceeded six percent, except that any week for which there would otherwise be a state "on" indicator shall continue to be such a week and shall not be determined to be a week for which there is a state "off" indicator; or
+			</section>
+			<section prefix="2">With respect to weeks of unemployment beginning on or after February 1, 2009, and thereafter until the week ending three weeks prior to the last week for which federal sharing is authorized by Section 2005(a) of Public Law 111-5, or by an extension thereof or amendment thereto, the United States Secretary of Labor determines that, for the period consisting of the most recent three months for which data for all states are published before the close of such week, the average rate of total unemployment in this Commonwealth, seasonally adjusted:
+				a. Equaled or exceeded 110 percent of the average of such rates for either or both of the corresponding three month periods ending in the two preceding calendar years; and
+				b. Equaled or exceeded a six and one half percent.
+			</section>
+		</section>
+		<section prefix="I">There is a "state 'off' indicator" for this Commonwealth for a week if the Commission determines, in accordance with the regulations of the United States Secretary of Labor, that for the period consisting of such week and the immediately preceding 12 weeks the requirements of subsection H of this section have not been satisfied.
+		</section>
+	</text>
+	<history>1982, c. 237, § 60.1-51.2; 1986, c. 480; 2009, c. 789; 2011, c. 303.</history>
+</law>

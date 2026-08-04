@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-862</section_number>
+	<catch_line>Vacancy on board of directors</catch_line>
+	<text>
+		<section prefix="A">Unless the articles of incorporation provide otherwise, if a vacancy occurs on the board of directors, including a vacancy resulting from an increase in the number of directors:
+			<section prefix="1">The members may fill the vacancy;
+			</section>
+			<section prefix="2">The board of directors may fill the vacancy; or
+			</section>
+			<section prefix="3">If the directors remaining in office constitute fewer than a quorum of the board, they may fill the vacancy by the affirmative vote of a majority of the directors remaining in office.
+			</section>
+		</section>
+		<section prefix="B">Unless the articles of incorporation provide otherwise, if the vacant office was held by a director elected by a voting group of members, only the members of that voting group are entitled to vote to fill the vacancy if it is filled by the members.
+		</section>
+		<section prefix="C">A vacancy that will occur at a specific later date, by reason of a resignation effective at a later date under subsection B of § 13.1-859 or otherwise, may be filled before the vacancy occurs but the new director may not take office until the vacancy occurs.
+		</section>
+		<section prefix="D">The corporation may file an amended annual report with the Commission indicating the filling of a vacancy.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-222; 1956, c. 428; 1985, c. 522; 1991, c. 124; 2007, c. 925.</history>
+</law>

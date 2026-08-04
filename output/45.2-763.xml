@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="7" level="4">Requirements Applicable to Underground Coal Mines; Mine Construction</unit>
+		<unit label="article" identifier="8" level="5">Transportation</unit>
+	</structure>
+	<section_number>45.2-763</section_number>
+	<catch_line> Transporting miners by conveyor belt</catch_line>
+	<text>
+		<section prefix="A">If a conveyor belt is used for transporting miners, such belt shall be free of loose materials and shall maintain a minimum clearance of at least 18 inches between the belt and the overhead roof or crossbars, projecting equipment, cap pieces, overhead cables, wiring, and other objects. Each conveyor belt that is used for transporting miners shall be equipped with emergency stop cords for its entire length.
+		</section>
+		<section prefix="B">The conveyor belt speed while miners are being transported shall not exceed (i) 250 feet per minute if the overhead clearance maintained pursuant to subsection A is more than 18 inches but less than 24 inches and (ii) 300 feet per minute if the overhead clearance is 24 inches or more. Such conveyor belt shall be stopped while miners are boarding or disembarking.
+		</section>
+		<section prefix="C">The space between miners riding on a conveyor belt line shall be at least five feet.
+		</section>
+		<section prefix="D">Adequate clearance and proper illumination shall be provided where miners board or disembark a conveyor belt.
+		</section>
+	</text>
+	<history>Code 1950, § 45-69.2; 1954, c. 191; 1966, c. 594, § 45.1-74; 1985, c. 296; 1994, c. 28, § 45.1-161.152; 1996, c. 774; 1999, c. 256; 2021, Sp. Sess. I, c. 387.</history>
+</law>

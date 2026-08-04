@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="6" level="2">Benefits</unit>
+		<unit label="article" identifier="2" level="3">Benefit Computation</unit>
+	</structure>
+	<section_number>60.2-604</section_number>
+	<catch_line>Reduction of benefit amount by amount of pension</catch_line>
+	<text>
+		The weekly benefit amount payable to an individual for any week which begins in a period for which such individual is receiving a governmental or other pension, retirement or retired pay, annuity, or any other similar periodic payment under a plan maintained or contributed to by a base period or chargeable employer based on the previous work of such individual, including payments received by such individual in accordance with § 65.2-500 or 65.2-502, shall be reduced, but not below zero, by an amount equal to the amount of such pension, retirement or retired pay, annuity, or other payment, which is reasonably attributable to such week; however, in consideration of the employee's contributions thereto, the weekly benefit amount payable to an individual for any week shall not be reduced by any amount of Social Security Act or Railroad Retirement Act retirement benefits received by such individual and attributable to such week.
+	</text>
+	<history>1977, c. 330, § 60.1-48.1; 1978, c. 269; 1986, c. 480; 1987, c. 3; 2003, cc. 534, 555; 2005, c. 1; 2011, cc. 748, 751.</history>
+</law>

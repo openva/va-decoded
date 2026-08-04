@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="29.1" level="1">Wildlife, Inland Fisheries and Boating</unit>
+		<unit label="chapter" identifier="3" level="2">Licenses</unit>
+		<unit label="article" identifier="1" level="3">Hunting, Trapping and Fishing Licenses</unit>
+	</structure>
+	<section_number>29.1-303</section_number>
+	<catch_line>Fees to hunt</catch_line>
+	<text>
+		The license fees to hunt shall be as follows or as such fees may be subsequently revised by the Board pursuant to § 29.1-103:
+		<section prefix="1">County or city resident license to hunt in the county or city of residence only, $5.
+		</section>
+		<section prefix="2">State resident license to hunt in all counties and cities of the Commonwealth, issued to residents age 16 or older, $12.
+		</section>
+		<section prefix="3">State nonresident license for persons 16 years of age and older to hunt in all counties and cities of the Commonwealth, $80; however, for (i) nonresidents under the age of 12, $12, and (ii) nonresidents 12 years of age to 15 years of age, $15.
+		</section>
+	</text>
+	<history>Code 1950, § 29-54; 1960, c. 566; 1974, c. 363; 1980, c. 494; 1987, c. 488; 1988, c. 250; 2003, c. 120; 2004, c. 269; 2009, c. 9.</history>
+</law>

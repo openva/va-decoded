@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1440</section_number>
+	<catch_line>Investment in personal property</catch_line>
+	<text>
+		<section prefix="A">A domestic insurer may invest in interests in tangible personal property for the production of income, evidenced by trust certificates or other instruments.
+		</section>
+		<section prefix="B">The investments shall be accompanied by (i) a right to receive rental, charter hire, purchase or other payments for the use or purchase of the personal property, (ii) a valid, binding and enforceable contract or lease for the purchase or use of the tangible personal property, and (iii) a provision for contractual payments to be made that will return the cost of the property and provide earnings on the investments within the anticipated useful life of the property which shall be at least three years.
+		</section>
+		<section prefix="C">The payments must be made payable or guaranteed by one or more domestic governmental entities or business entities whose obligations would qualify for investment under § 38.2-1421.
+		</section>
+		<section prefix="D">The unit cost of such property shall not be less than $25,000, and the cost of all property covered by any single contract or lease shall not be less than $100,000.
+		</section>
+		<section prefix="E">The tangible personal property shall not include furniture or fixtures.
+		</section>
+	</text>
+	<history>1983, c. 457, § 38.1-217.43; 1986, c. 562; 1992, c. 588.</history>
+</law>

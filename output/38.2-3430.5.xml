@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="4.1" level="3">Individual Health Insurance Coverage</unit>
+	</structure>
+	<section_number>38.2-3430.5</section_number>
+	<catch_line>Application of financial capacity limits</catch_line>
+	<text>
+		<section prefix="A">A health insurance issuer may deny health insurance coverage in the individual market to an eligible individual if the health insurance issuer has demonstrated to the satisfaction of the Commission that:
+			<section prefix="1">It does not have the financial reserves necessary to underwrite additional coverage; and
+			</section>
+			<section prefix="2">It is applying this section uniformly to all individuals in the individual market in the Commonwealth consistent with the laws of this Commonwealth and without regard to any health status-related factor of such individuals and without regard to whether the individuals are eligible individuals.
+			</section>
+		</section>
+		<section prefix="B">A health insurance issuer, upon denying individual health insurance coverage in any service area in accordance with subsection A, may not offer such coverage in the individual market within such service area for a period of 180 days after the date such coverage is denied or until the health insurance issuer has demonstrated to the satisfaction of the Commission that the health insurance issuer has sufficient financial reserves to underwrite additional coverage, whichever is later.
+		</section>
+	</text>
+	<history>1997, cc. 807, 913.</history>
+</law>

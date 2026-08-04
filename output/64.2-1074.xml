@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="9" level="4">Apportionment at Beginning and End of Income Interest</unit>
+	</structure>
+	<section_number>64.2-1074</section_number>
+	<catch_line>Apportionment of receipts and disbursements when decedent dies or income interest begins</catch_line>
+	<text>
+		<section prefix="A">A fiduciary shall allocate an income receipt or disbursement, other than a receipt to which subsection B of § 64.2-1071 applies, to principal if its due date occurs before the date on which:
+			<section prefix="1">For an estate, the decedent died; or
+			</section>
+			<section prefix="2">For a trust or successive interest, an income interest begins.
+			</section>
+		</section>
+		<section prefix="B">If the due date of a periodic income receipt or disbursement occurs on or after the date on which a decedent died or an income interest begins, a fiduciary shall allocate the receipt or disbursement to income.
+		</section>
+		<section prefix="C">If an income receipt or disbursement is not periodic or has no due date, a fiduciary shall treat the receipt or disbursement under this section as accruing from day to day. The fiduciary shall allocate to principal the portion of the receipt or disbursement accruing before the date on which a decedent died or an income interest begins and to income the balance.
+		</section>
+		<section prefix="D">A receipt or disbursement is periodic under subsections B and C if:
+			<section prefix="1">The receipt or disbursement must be paid at regular intervals under an obligation to make payments; or
+			</section>
+			<section prefix="2">The payor customarily makes payments at regular intervals.
+			</section>
+		</section>
+		<section prefix="E">An item of income or obligation is due under this section on the date the payor is required to make a payment. If a payment date is not stated, there is no due date.
+		</section>
+		<section prefix="F">Distributions to shareholders or other owners from an entity to which § 64.2-1048 applies are due:
+			<section prefix="1">On the date fixed by or on behalf of the entity for determining the persons entitled to receive the distribution;
+			</section>
+			<section prefix="2">If no date is fixed, on the date of the decision by or on behalf of the entity to make the distribution; or
+			</section>
+			<section prefix="3">If no date is fixed and the fiduciary does not know the date of the decision by or on behalf of the entity to make the distribution, on the date the fiduciary learns of the decision.
+			</section>
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

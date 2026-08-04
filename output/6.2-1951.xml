@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="19.1" level="3">Money Transmitters</unit>
+	</structure>
+	<section_number>6.2-1951</section_number>
+	<catch_line>(Effective July 1, 2026) Surety bond</catch_line>
+	<text>
+		<section prefix="A">An applicant for a money transmission license shall provide, and a licensee at all times shall maintain, security consisting of a surety bond, in a form satisfactory to the Commission, or, with the Commission's approval, a deposit instead of a bond in accordance with this section.
+		</section>
+		<section prefix="B">The minimum amount of the required security shall be:
+			<section prefix="1">The greater of $100,000 or an amount equal to 100 percent of the applicant's or licensee's average daily money transmission liability in the Commonwealth calculated for the most recent quarter, up to a maximum of $1 million; or
+			</section>
+			<section prefix="2">$100,000 in the event that the applicant's or licensee's tangible net worth exceeds 10 percent of total assets.
+			</section>
+		</section>
+		<section prefix="C">An applicant or licensee that maintains a bond of $1 million pursuant to subdivision B 1 or $100,000 pursuant to subdivision B 2 shall not be required to calculate its average daily money transmission liability in the Commonwealth for purposes of this section.
+		</section>
+		<section prefix="D">An applicant or licensee may exceed the required security amount, including pursuant to subdivision A 5 of § 6.2-1953.
+		</section>
+		<section prefix="E">The security device required by this section shall remain in place for five years after a licensee ceases money transmission activities. The Commission may permit the security device to be reduced or eliminated prior to that time to the extent the amount of such licensee's outstanding money transmission transactions are reduced. The Commission may also permit any licensee to substitute a letter of credit, or such other form of security device as may be acceptable to the Commission, for the security device in place at the time the licensee ceases money transmission activities.
+		</section>
+		<section prefix="F">A surety bond shall remain effective until cancellation, which may occur only after 90 days' written notice to the Commission. Cancellation does not affect the rights of any claimant for any liability incurred or accrued during the period for which the bond was in force.
+		</section>
+	</text>
+	<history>2025, c. 214.</history>
+</law>

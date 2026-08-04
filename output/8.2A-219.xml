@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2A" level="1">Commercial Code — Leases</unit>
+		<unit label="part" identifier="2" level="2">Formation and Construction of Lease Contract</unit>
+	</structure>
+	<section_number>8.2A-219</section_number>
+	<catch_line>Risk of loss</catch_line>
+	<text>
+		<section prefix="1">Except in the case of a finance lease, risk of loss is retained by the lessor and does not pass to the lessee. In the case of a finance lease, risk of loss passes to the lessee.
+		</section>
+		<section prefix="2">Subject to the provisions of this Title on the effect of default on risk of loss (§ 8.2A-220), if risk of loss is to pass to the lessee and the time of passage is not stated, the following rules apply:
+			<section prefix="a">If the lease contract requires or authorizes the goods to be shipped by carrier
+			</section>
+			<section prefix="i">and it does not require delivery at a particular destination, the risk of loss passes to the lessee when the goods are duly delivered to the carrier; but
+				<section prefix="ii">if it does require delivery at a particular destination and the goods are there duly tendered while in the possession of the carrier, the risk of loss passes to the lessee when the goods are there duly so tendered as to enable the lessee to take delivery.
+				</section>
+			</section>
+			<section prefix="b">If the goods are held by a bailee to be delivered without being moved, the risk of loss passes to the lessee on acknowledgment by the bailee of the lessee's right to possession of the goods.
+			</section>
+			<section prefix="c">In any case not within subdivision (a) or (b) of this subsection, the risk of loss passes to the lessee on the lessee's receipt of the goods if the lessor, or, in the case of a finance lease, the supplier, is a merchant; otherwise the risk passes to the lessee on tender of delivery.
+			</section>
+		</section>
+	</text>
+	<history>1991, c. 536.</history>
+</law>

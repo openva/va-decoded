@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="15" level="4">Department of Planning and Budget</unit>
+	</structure>
+	<section_number>2.2-1509.3</section_number>
+	<catch_line>Budget bill to include appropriations for major information technology projects</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section, unless the context requires a different meaning:
+			"Commonwealth Project Management Standard" means the same as that term is defined in § 2.2-2006.
+			"Major information technology project" means the same as that term is defined in § 2.2-2006.
+			"Major information technology project funding" means an estimate of each funding source for a major information technology project for the duration of the project.
+		</section>
+		<section prefix="B">In "The Budget Bill" submitted pursuant to § 2.2-1509, the Governor shall provide for the funding of major information technology projects, as specified herein. Such funding recommendations shall be for major information technology projects that have or are pending project initiation approval as defined in the Commonwealth Project Management Standard.
+			The Governor shall include in "The Budget Bill" submitted pursuant to § 2.2-1509 a biennial appropriation for major information technology projects and the following information for each such project:
+			<section prefix="1">For major information technology projects that have been recommended for funding, a brief statement explaining the business case for the project, the priority of the project in the Recommended Technology Investment Projects Report as required by § 2.2-2007, and an explanation, if necessary, if the Governor informed the Chief Information Officer (CIO) that an emergency existed as set forth in subdivision A 5 of § 2.2-2016.1;
+			</section>
+			<section prefix="2">Total estimated project costs, as defined by the Commonwealth Project Management Standard, including the amount of the agency's or institution's operating appropriation that will support the project;
+			</section>
+			<section prefix="3">All project costs incurred to date as defined by the Commonwealth Project Management Standard;
+			</section>
+			<section prefix="4">Recommendations or comments of the Public-Private Partnership Advisory Commission, if the project is part of a proposal under the Public-Private Education Facilities and Infrastructure Act of 2002 (§ 56-575.1 et seq.);
+			</section>
+			<section prefix="5">The CIO's assessment of the project and the status as of the date of the budget bill submission to the General Assembly;
+			</section>
+			<section prefix="6">The planned project start and end dates as defined by the Commonwealth Project Management Standard; and
+			</section>
+			<section prefix="7">Projected annual operations and maintenance expenditures, including but not limited to fees, licenses, infrastructure, and agency and nonagency staff support costs, for information technology delivered by major information technology projects for the first budget biennium after project completion.
+			</section>
+		</section>
+		<section prefix="C">The CIO shall immediately notify each member of the Senate Committee on Finance and Appropriations and the House Committee on Appropriations of any decision to terminate in accordance with subsection B of § 2.2-2016.1 any major information technology project in the budget bill. Such communication shall include the CIO's reason for such termination.
+		</section>
+	</text>
+	<history>2009, c. 757; 2010, cc. 136, 145; 2011, c. 739; 2015, c. 768; 2016, c. 296.</history>
+</law>

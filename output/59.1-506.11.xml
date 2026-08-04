@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.11</section_number>
+	<catch_line>Access contracts</catch_line>
+	<text>
+		<section prefix="a">If an access contract provides for access over a period of time, the following rules apply:
+			<section prefix="1">The licensee's rights of access are to the information as modified and made commercially available by the licensor from time to time during that period.
+			</section>
+			<section prefix="2">A change in the content of the information is a breach of contract only if the change conflicts with an express term of the agreement.
+			</section>
+			<section prefix="3">Unless it is subject to a contractual use term, information obtained by the licensee is free of any use restriction other than a restriction resulting from the informational rights of another person or other law.
+			</section>
+			<section prefix="4">Access must be available:
+			</section>
+		</section>
+		<section prefix="A">at times and in a manner conforming to the express terms of the agreement; and
+		</section>
+		<section prefix="B">to the extent not expressly stated in the agreement, at times and in a manner reasonable for the particular type of contract in light of the ordinary standards of the business, trade, or industry.
+		</section>
+		<section prefix="b">In an access contract that gives the licensee a right of access at times substantially of its own choosing during agreed periods, an occasional failure to have access available during those times is not a breach of contract if it is:
+			<section prefix="1">consistent with ordinary standards of the business, trade, or industry for the particular type of contract; or
+			</section>
+			<section prefix="2">caused by:
+			</section>
+		</section>
+		<section prefix="A">scheduled downtime;
+		</section>
+		<section prefix="B">reasonable needs for maintenance;
+		</section>
+		<section prefix="C">reasonable periods of failure of equipment, computer programs, or communications; or
+		</section>
+		<section prefix="D">events reasonably beyond the licensor's control, and the licensor exercises such commercially reasonable efforts as the circumstances require.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

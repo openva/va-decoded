@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="44" level="2">Legal Services Plans</unit>
+	</structure>
+	<section_number>38.2-4405</section_number>
+	<catch_line>Change of participating providers</catch_line>
+	<text>
+		<section prefix="A">Any participating provider may resign from a plan at any time but will continue to be liable on each subscription contract while effective. However, this liability shall not extend beyond the end of each such subscription contract's current contract year.
+		</section>
+		<section prefix="B">Participating providers may be admitted to a plan at any time and will then automatically become liable on all its outstanding contracts.
+		</section>
+	</text>
+	<history>1978, c. 658, § 38.1-795; 1986, c. 562; 1994, c. 224.</history>
+</law>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="6" level="3">Federal Market Reforms</unit>
+	</structure>
+	<section_number>38.2-3445.01</section_number>
+	<catch_line>Balance billing for certain services; prohibited</catch_line>
+	<text>
+		<section prefix="A">No out-of-network provider shall balance bill an enrollee for (i) emergency services provided to an enrollee or (ii) nonemergency services provided to an enrollee at an in-network facility if the nonemergency services involve surgical or ancillary services provided by an out-of-network provider.
+		</section>
+		<section prefix="B">An enrollee that receives services described in subsection A satisfies his obligation to pay for the services if he pays the in-network cost-sharing requirement specified in the enrollee's or applicable group health plan contract. The enrollee's obligation shall be determined using the carrier's median in-network contracted rate for the same or similar service in the same or similar geographical area. The carrier shall provide an explanation of benefits to the enrollee and the out-of-network provider that reflects the cost-sharing requirement determined under this subsection. The obligation of an enrollee in a health benefit plan that uses no median in-network contracted rate for the services provided shall be determined as provided in § 38.2-3407.3.
+		</section>
+		<section prefix="C">The health carrier and the out-of-network provider shall ensure that the enrollee incurs no greater cost than the amount determined under subsection B and shall not balance bill or otherwise attempt to collect from the enrollee any amount greater than such amount. Additional amounts owed to health care providers through good faith negotiations or arbitration shall be the sole responsibility of the carrier unless the carrier is prohibited from providing the additional benefits under 26 U.S.C. § 223(c)(2) or any other federal or state law. Nothing in this subsection shall preclude a provider from collecting a past due balance on a cost-sharing requirement with interest.
+		</section>
+		<section prefix="D">The health carrier shall treat any cost-sharing requirement determined under subsection B in the same manner as the cost-sharing requirement for health care services provided by an in-network provider and shall apply any cost-sharing amount paid by the enrollee for such services toward the in-network maximum out-of-pocket payment obligation.
+		</section>
+		<section prefix="E">If the enrollee pays the out-of-network provider an amount that exceeds the amount determined under subsection B, the provider shall refund the excess amount to the enrollee within 30 business days of receipt. The provider shall pay the enrollee interest computed daily at the legal rate of interest stated in § 6.2-301 beginning on the first calendar day after the 30 business days for any unrefunded payments.
+		</section>
+		<section prefix="F">The amount paid to an out-of-network provider for health care services described in subsection A shall be a commercially reasonable amount, based on payments for the same or similar services provided in a similar geographic area. Within 30 calendar days of receipt of a clean claim from an out-of-network provider, the carrier shall offer to pay the provider a commercially reasonable amount. If the out-of-network provider disputes the carrier's payment, the provider shall notify the carrier no later than 30 calendar days after receipt of payment or payment notification from the carrier. If the out-of-network provider disputes the carrier's initial offer, the carrier and provider shall have 30 calendar days from the initial offer to negotiate in good faith. If the carrier and provider do not agree to a commercially reasonable payment amount within 30 calendar days and either party chooses to pursue further action to resolve the dispute, the dispute shall be resolved through arbitration as provided in § 38.2-3445.02.
+		</section>
+		<section prefix="G">The carrier shall make payments for services described in subsection A directly to the provider.
+		</section>
+		<section prefix="H">Carriers shall make available through electronic and other methods of communication generally used by a provider to verify enrollee eligibility and benefits information regarding whether an enrollee's health plan is subject to the requirements of this section.
+		</section>
+	</text>
+	<history>2020, cc. 1080, 1081.</history>
+</law>

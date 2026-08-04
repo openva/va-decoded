@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="8" level="3">Regulation of Traffic</unit>
+		<unit label="article" identifier="1.1" level="4">Toll Violations and Enforcement</unit>
+	</structure>
+	<section_number>46.2-819.6</section_number>
+	<catch_line>Invoice for unpaid toll</catch_line>
+	<text>
+		<section prefix="A">The operator of a toll facility shall send an invoice for the unpaid toll pursuant to subsection C to the registered owner of the vehicle. An invoice for the unpaid toll shall contain the following:
+			<section prefix="1">The name and address of the registered owner alleged to be liable under this section;
+			</section>
+			<section prefix="2">The registration number of the motor vehicle involved in such violation or information obtained from an automatic vehicle identification system if the vehicle is identified by an automatic vehicle identification system for the purpose of violation detection;
+			</section>
+			<section prefix="3">The location where such violation took place;
+			</section>
+			<section prefix="4">The date and time of such violation;
+			</section>
+			<section prefix="5">The amount of the toll not paid;
+			</section>
+			<section prefix="6">The amount of the administrative fee;
+			</section>
+			<section prefix="7">The date by which the toll and administrative fee must be paid;
+			</section>
+			<section prefix="8">The statutory defenses available under this chapter, including a notice of (i) the summoned person's ability to provide the name and address of the vehicle operator at the time of the violation through the filing of an affidavit as provided in § 33.2-503, 46.2-819.1, or 46.2-819.3:1 and (ii) instructions for filing such affidavit, including the address to which the affidavit is to be sent;
+			</section>
+			<section prefix="9">A warning describing the penalties for nonpayment of the invoice for the unpaid toll or failure to file a notice to contest liability for the unpaid toll; and
+			</section>
+			<section prefix="10">The procedures and time limits for filing a notice to contest liability for an unpaid toll as provided in subsection C of § 46.2-819.3:1.
+			</section>
+		</section>
+		<section prefix="B">The toll facility operator shall include with the invoice a form to be used by the registered owner or operator of the vehicle to contest liability for an unpaid toll. This form shall include the mailing address to which it should be sent.
+		</section>
+		<section prefix="C">Whenever an invoice for an unpaid toll is to be provided to any person by the toll facility operator, it may be executed by mailing by first-class mail a copy of the invoice to the address of the owner of the vehicle as shown on the records of the Department.
+		</section>
+	</text>
+	<history>2011, c. 736; 2016, c. 753.</history>
+</law>

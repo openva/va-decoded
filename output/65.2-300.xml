@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="3" level="2">Application and Effect of Title</unit>
+	</structure>
+	<section_number>65.2-300</section_number>
+	<catch_line>Presumption of acceptance of provisions of title; exemptions; notice and rejection</catch_line>
+	<text>
+		<section prefix="A">Every employer and employee, except as herein stated, shall be conclusively presumed to have accepted the provisions of this title respectively to pay and accept compensation for personal injury or death by accident arising out of and in the course of the employment and shall be bound thereby. Except as otherwise provided herein, no contract or agreement, written or implied, and no rule, regulation or other device shall in any manner operate to relieve any employer in whole or in part of any obligation created by this title.
+		</section>
+		<section prefix="B">An executive officer may reject coverage under this title for injury or death by accident, but not with respect to occupational disease, if prior to such accident, notice is given to the employer and filed with the Commission in the manner described herein.
+			The notice shall be in substantially the form prescribed by the Commission and shall be given by the executive officer by sending the same in a registered letter, addressed to the employer at his last known address or place of business, or by giving it personally to the employer or any of his agents upon whom a summons in a civil action may be served under the laws of the Commonwealth. A copy of the notice in prescribed form shall also be filed with the Commission. Such notice shall be effective as of the last to occur of (i) the date of the inception of the policy or (ii) the delivery of such notice to the employer as provided in this subsection.
+		</section>
+		<section prefix="C">An executive officer who rejects coverage under this title shall, in any action to recover damages for personal injury or death brought against an employer accepting the compensation provisions of this title, proceed at common law, and the employer may avail himself of the defenses of contributory negligence, negligence of a fellow servant and assumption of risk, as such defenses exist at common law.
+		</section>
+		<section prefix="D">An executive officer who has rejected coverage under this title may nevertheless by notice revoke such rejection and thereby accept coverage under the provisions of this title. A notice revoking such rejection shall be given to the employer and a copy filed with the Commission in the manner provided for rejecting such coverage. Coverage under this title shall not be extended to injuries that occur within five days of the giving of such notice.
+		</section>
+	</text>
+	<history>Code 1950, §§ 65-20, 65-22, 65-23, 65-34, 65-40; 1968, c. 660, §§ 65.1-23, 65.1-25, 65.1-26, 65.1-37, 65.1-44; 1972, c. 619; 1973, c. 542; 1991, c. 355; 2000, c. 530.</history>
+</law>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="16" level="2">Evidence and Witnesses</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>19.2-268.3</section_number>
+	<catch_line>Admissibility of statements by children in certain cases</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "offense against children" means a violation or an attempt to violate § 18.2-31, 18.2-32, or 18.2-35, subsection A of § 18.2-47, § 18.2-48, 18.2-51, 18.2-51.2, 18.2-51.6, 18.2-52, 18.2-54.1, 18.2-54.2, 18.2-61, 18.2-67.1, 18.2-67.2, or 18.2-67.3, § 18.2-346.01 if punishable as a felony, § 18.2-355, 18.2-356, 18.2-357, or 18.2-357.1, subsection B of § 18.2-361, subsection B of § 18.2-366, § 18.2-370, 18.2-370.1, 18.2-371.1, 18.2-374.1, 18.2-374.1:1, 18.2-374.3, or 18.2-374.4, § 18.2-386.1 if punishable as a felony, or § 40.1-103.
+		</section>
+		<section prefix="B">An out-of-court statement made by a child who is under 13 years of age at the time of trial or hearing who is the alleged victim of an offense against children describing any act directed against the child relating to such alleged offense shall not be excluded as hearsay under Rule 2:802 of the Rules of Supreme Court of Virginia if both of the following apply:
+			<section prefix="1">The court finds, in a hearing conducted prior to a trial, that the time, content, and totality of circumstances surrounding the statement provide sufficient indicia of reliability so as to render it inherently trustworthy. In determining such trustworthiness, the court may consider, among other things, the following factors:
+				a. The child's personal knowledge of the event;
+				b. The age, maturity, and mental state of the child;
+				c. The credibility of the person testifying about the statement;
+				d. Any apparent motive the child may have to falsify or distort the event, including bias or coercion;
+				e. Whether the child was suffering pain or distress when making the statement; and
+				f. Whether extrinsic evidence exists to show the defendant's opportunity to commit the act; and
+			</section>
+			<section prefix="2">The child:
+				a. Testifies; or
+				b. Is declared by the court to be unavailable as a witness; when the child has been declared unavailable, such statement may be admitted pursuant to this section only if there is corroborative evidence of the act relating to an alleged offense against children.
+			</section>
+		</section>
+		<section prefix="C">At least 14 days prior to the commencement of the proceeding in which a statement will be offered as evidence, the party intending to offer the statement shall notify the opposing party, in writing, of the intent to offer the statement and shall provide or make available copies of the statement to be introduced.
+		</section>
+		<section prefix="D">This section shall not be construed to limit the admission of any statement offered under any other hearsay exception or applicable rule of evidence.
+		</section>
+	</text>
+	<history>2016, cc. 542, 553; 2021, Sp. Sess. I, c. 188.</history>
+</law>

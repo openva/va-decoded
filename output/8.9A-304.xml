@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="1" level="3">Law Governing Perfection and Priority</unit>
+	</structure>
+	<section_number>8.9A-304</section_number>
+	<catch_line>Law governing perfection and priority of security interests in deposit accounts</catch_line>
+	<text>
+		<section prefix="a">Law of bank's jurisdiction governs. The local law of a bank's jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in a deposit account maintained with that bank even if the transaction does not bear any relation to the bank's jurisdiction.
+		</section>
+		<section prefix="b">Bank's jurisdiction. The following rules determine a bank's jurisdiction for purposes of this part:
+			<section prefix="1">If an agreement between the bank and the debtor governing the deposit account expressly provides that a particular jurisdiction is the bank's jurisdiction for purposes of this part, this title, or the Uniform Commercial Code, that jurisdiction is the bank's jurisdiction.
+			</section>
+			<section prefix="2">If paragraph (1) does not apply and an agreement between the bank and its customer governing the deposit account expressly provides that the agreement is governed by the law of a particular jurisdiction, that jurisdiction is the bank's jurisdiction.
+			</section>
+			<section prefix="3">If neither paragraph (1) nor paragraph (2) applies and an agreement between the bank and its customer governing the deposit account expressly provides that the deposit account is maintained at an office in a particular jurisdiction, that jurisdiction is the bank's jurisdiction.
+			</section>
+			<section prefix="4">If none of the preceding paragraphs applies, the bank's jurisdiction is the jurisdiction in which the office identified in an account statement as the office serving the customer's account is located.
+			</section>
+			<section prefix="5">If none of the preceding paragraphs applies, the bank's jurisdiction is the jurisdiction in which the chief executive office of the bank is located.
+			</section>
+		</section>
+	</text>
+	<history>2000, c. 1007; 2024, c. 652.</history>
+</law>

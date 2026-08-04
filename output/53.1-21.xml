@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="53.1" level="1">Prisons and Other Methods of Correction</unit>
+		<unit label="chapter" identifier="2" level="2">State Correctional Facilities</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>53.1-21</section_number>
+	<catch_line>Transfer of prisoners into and between state and local correctional facilities</catch_line>
+	<text>
+		<section prefix="A">Any person who (i) is accused or convicted of an offense (a) in violation of any county, city, or town ordinance within the Commonwealth, (b) against the laws of the Commonwealth, or (c) against the laws of any other state or country or (ii) is a witness held in any case in which the Commonwealth is a party and who is confined in a state or local correctional facility may be transferred by the Director, subject to the provisions of § 53.1-20, to any other state or local correctional facility which he may designate.
+		</section>
+		<section prefix="B">The following limitations shall apply to the transfer of persons into the custody of the Department:
+			<section prefix="1">No person convicted of violating § 20-61 shall be committed or transferred to the custody of the Department.
+			</section>
+			<section prefix="2">No person who is convicted of a misdemeanor or a felony and receives a jail sentence of 12 months or less shall be committed or transferred to the custody of the Department without the consent of the Director.
+			</section>
+			<section prefix="3">Beginning July 1, 1991, and subject to the provisions of § 53.1-20, no person, whether convicted of a felony or misdemeanor, shall be transferred to the custody of the Department when the combined length of all sentences to be served totals two years or less, without the consent of the Director.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, §§ 19.2-310.1, 53-19.17, 53-84, 53-103, 53-135.1; Code 1950, § 53-8; 1952, c. 557; 1960, c. 432; 1962, c. 326; 1968, c. 357; 1970, c. 648; 1971, Ex. Sess., c. 110; 1972, c. 573; 1973, cc. 330, 342; 1974, cc. 44, 45; 1976, cc. 287, 462; 1982, c. 636; 1990, cc. 676, 768; 1999, cc. 945, 987; 2021, Sp. Sess. I, c. 463.</history>
+</law>

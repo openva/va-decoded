@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="6" level="3">Legal Proceedings</unit>
+	</structure>
+	<section_number>13.1-1231</section_number>
+	<catch_line>Capacity to sue and be sued; process; liabilities and obligations; attachment; seizure of certain assets</catch_line>
+	<text>
+		<section prefix="A">A business trust may sue and be sued in its own name, and service of process on one of the trustees shall be sufficient to constitute service on the business trust.
+		</section>
+		<section prefix="B">A business trust may be sued for debts and other obligations or liabilities contracted or incurred by the trustees, or by the duly authorized agents of such trustees, in the performance of their respective duties under the governing instrument of the business trust, and for any damages to persons or property resulting from the negligence of such trustees or agents acting in the performance of such respective duties.
+		</section>
+		<section prefix="C">The property of a business trust is subject to attachment and execution as if the business trust was a Virginia corporation organized under Chapter 9 (§ 13.1-601 et seq.) of this title.
+		</section>
+		<section prefix="D">Notwithstanding the provisions of this section, in the event that the governing instrument of a business trust, including a business trust that is a registered investment company under the Investment Company Act of 1940, as amended, creates one or more series as provided in subsection B of § 13.1-1219, and if separate and distinct records are maintained for any such series and the assets associated with any such series are held and accounted for separately from the other assets of the business trust, or any other series, and if the governing instrument so provides, and notice of the limitation on liabilities of a series as referenced in this subsection is set forth in the articles of trust of the business trust, then the debts, liabilities, obligations, and expenses incurred, contracted for, or otherwise existing with respect to a particular series shall be enforceable against the assets of that series only, and not against the assets of the business trust generally or any other series, and, unless otherwise provided in the articles of trust or in the governing instrument, none of the debts, liabilities, obligations, and expenses incurred, contracted for, or otherwise existing with respect to the business trust generally or any other series shall be enforceable against the assets of that series.
+		</section>
+	</text>
+	<history>2002, c. 621.</history>
+</law>

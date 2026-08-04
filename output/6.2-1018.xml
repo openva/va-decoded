@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="10" level="3">Entities Conducting Trust Business</unit>
+		<unit label="article" identifier="2" level="4">Trust Companies</unit>
+	</structure>
+	<section_number>6.2-1018</section_number>
+	<catch_line>Minimum capital; state of incorporation; form of entity</catch_line>
+	<text>
+		A certificate shall not be issued under § 6.2-1017 to an applicant:
+		<section prefix="1">Unless it meets the minimum capital requirement for a trust company prescribed by § 6.2-1017; and
+		</section>
+		<section prefix="2">That is not a corporation organized under the laws of the Commonwealth.
+		</section>
+	</text>
+	<history>1993, c. 432, §§ 6.1-32.15, 6.1-32.16; 1994, c. 7; 2010, c. 794.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="9" level="4">Taxation of Partnerships</unit>
+	</structure>
+	<section_number>58.1-394.1</section_number>
+	<catch_line>Failure of pass-through entity to make a return</catch_line>
+	<text>
+		<section prefix="A">Any pass-through entity that fails to file a return required by this article within the time required shall be liable for a penalty of $200 if the failure is for not more than one month, with an additional $200 for each additional month or fraction thereof during which such failure to file continues, not exceeding six months in the aggregate. In no case, however, shall the penalty be less than $200.
+		</section>
+		<section prefix="B">If any pass-through entity's failure to file a return required by this article exceeds six months, the Department shall assess a penalty of six percent of the total amount of Virginia taxable income derived by its owners from the pass-through entity for the taxable year. The Department may determine such penalty from any information in its possession. The penalty assessed pursuant to this subsection shall be reduced by the penalty assessed pursuant to subsection A and any tax paid by the owners on their share of income from the pass-through entity for the taxable year.
+		</section>
+		<section prefix="C">The penalties set forth in this subsection shall be assessed and collected by the Department in the manner provided for the assessment and collection of taxes under this chapter or in a civil action, at the instance of the Department. In addition, such pass-through entity shall be compellable by mandamus to file such return.
+		</section>
+	</text>
+	<history>2004, Sp. Sess. I, c. 3.</history>
+</law>

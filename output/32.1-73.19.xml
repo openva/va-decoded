@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="20" level="3">Renal Disease Council</unit>
+	</structure>
+	<section_number>32.1-73.19</section_number>
+	<catch_line>Powers and duties of the Council</catch_line>
+	<text>
+		The Council shall have the power and duty to:
+		<section prefix="1">Within the first year, hold public hearings and make inquiries of and solicit comments from the public to assist the Council in understanding the scope of the challenges related to renal disease in the Commonwealth and the impact of renal disease on individuals in the Commonwealth.
+		</section>
+		<section prefix="2">Conduct research and consult with experts to develop policy recommendations related to:
+			a. Improving access to health care and other services for individuals with renal disease, including access to health insurance, specialists, health care services, and other necessary services for individuals with renal disease;
+			b. The impact of health insurance coverage, cost-sharing, tiers, or other utilization management procedures on access to health care and other necessary services; and
+			c. The impact of providing coverage under the state program for medical assistance services for approved health care services and medications for renal disease.
+		</section>
+		<section prefix="3">Publish a list of existing publicly accessible resources on research, diagnosis, treatment, and education relating to renal disease on the Council's webpage.
+		</section>
+		<section prefix="4">Submit annually by October 1 a report to the Governor and the General Assembly for publication as a report document as provided in the procedures of the Division of Legislative Automated Systems for the processing of legislative documents and reports. The annual report shall (i) describe the activities and recommendations of the Council and (ii) describe the status of funding available to the Council, including information regarding any grants applied for and received by the Council.
+		</section>
+		<section prefix="5">Apply for, accept, and expend gifts, grants, and donations from public or private sources to enable the Council to better carry out its objectives.
+		</section>
+	</text>
+	<history>2022, c. 717.</history>
+</law>

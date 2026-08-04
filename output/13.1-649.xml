@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Shares and Distributions</unit>
+	</structure>
+	<section_number>13.1-649</section_number>
+	<catch_line>Restriction on transfer of shares and other securities</catch_line>
+	<text>
+		<section prefix="A">The articles of incorporation, the bylaws, an agreement among shareholders, or an agreement between shareholders and the corporation may impose restrictions on the transfer or registration of transfer of shares of the corporation. A restriction does not affect shares issued before the restriction was adopted unless the holders of the shares are parties to the restriction agreement or voted in favor of the restriction.
+		</section>
+		<section prefix="B">A restriction on the transfer or registration of transfer of shares is valid and enforceable against the holder or a transferee of the holder if the restriction is authorized by this section and its existence is noted conspicuously on the front or back of the certificate or is contained in the information statement required by subsection B of § 13.1-648. Unless so noted or contained, a restriction is not enforceable against a person without knowledge of the restriction.
+		</section>
+		<section prefix="C">A restriction on the transfer or registration of transfer of shares is authorized:
+			<section prefix="1">To maintain the corporation's status when it is dependent on the number or identity of its shareholders;
+			</section>
+			<section prefix="2">To preserve exemptions under federal or state securities law; or
+			</section>
+			<section prefix="3">For any other reasonable purpose.
+			</section>
+		</section>
+		<section prefix="D">A restriction on the transfer or registration of transfer of shares may:
+			<section prefix="1">Obligate the shareholder first to offer the corporation or other persons (separately, consecutively, or simultaneously) an opportunity to acquire the restricted shares;
+			</section>
+			<section prefix="2">Obligate the corporation or other persons (separately, consecutively, or simultaneously) to acquire the restricted shares;
+			</section>
+			<section prefix="3">Require the corporation, the holders of any class or series of its shares, or other persons to approve the transfer of the restricted shares, if the requirement is not manifestly unreasonable; or
+			</section>
+			<section prefix="4">Prohibit the transfer of the restricted shares to designated persons or classes of persons, if the prohibition is not manifestly unreasonable.
+			</section>
+		</section>
+		<section prefix="E">For purposes of this section, "shares" includes any warrants, rights, or options to acquire any shares or any security or other obligation of the corporation convertible into or carrying a right to subscribe for or acquire any such shares or warrants, rights, or options to acquire any such shares.
+		</section>
+	</text>
+	<history>1985, c. 522; 2005, c. 765; 2015, c. 611; 2019, c. 734.</history>
+</law>

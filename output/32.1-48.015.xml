@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="3.02" level="3">Quarantine and Isolation of Persons with Communicable Diseases of Public Health Threat</unit>
+	</structure>
+	<section_number>32.1-48.015</section_number>
+	<catch_line>Authorization to disclose health records</catch_line>
+	<text>
+		<section prefix="A">The provisions of this article are hereby declared to be necessary to prevent serious harm and serious threats to the health and safety of individuals and the public in Virginia for purposes of authorizing the State Health Commissioner or his designee to examine and review any health records of any person or persons subject to any order of quarantine or order of isolation pursuant to this article and the regulations of the Department of Health and Human Services promulgated in compliance with the Health Insurance Portability and Accountability Act of 1996, as amended. The State Health Commissioner shall authorize any designee in writing to so examine and review any health records of any person or persons subject to any order of quarantine or order of isolation pursuant to this article.
+		</section>
+		<section prefix="B">Pursuant to the regulations concerning patient privacy promulgated by the federal Department of Health and Human Services, covered entities may disclose protected health information to the State Health Commissioner or his designee without obtaining consent or authorization for such disclosure from the person who is the subject of the records. Such protected health information shall be used to facilitate the health care of any person or persons who are subject to an order of quarantine or an order of isolation. The State Health Commissioner or his designee shall only redisclose such protected health information in compliance with the aforementioned federal regulations. Further, the protected health information disclosed to the State Health Commissioner or his designee shall be held confidential and shall not be disclosed pursuant to the provisions of subdivision 12 of § 2.2-3705.5.
+		</section>
+		<section prefix="C">Pursuant to subsection G of § 32.1-116.3, any person requesting or requiring any employee of a public safety agency as defined in subsection M of § 32.1-45.2 to arrest, transfer, or otherwise exercise custodial supervision over an individual known to the requesting person (i) to be infected with any communicable disease or (ii) to be subject to an order of quarantine or an order of isolation pursuant to Article 3.02 (§ 32.1-48.05 et seq.) of Chapter 2 shall inform such employee of a public safety agency of the potential risk of exposure to a communicable disease.
+		</section>
+	</text>
+	<history>2004, cc. 773, 1021; 2007, cc. 699, 783; 2017, c. 778; 2020, c. 502.</history>
+</law>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="18" level="3">Short-term Loans</unit>
+	</structure>
+	<section_number>6.2-1812</section_number>
+	<catch_line>Other reporting requirements</catch_line>
+	<text>
+		<section prefix="A">A licensee shall file a written report with the Commissioner within 15 days following the occurrence of any of the following:
+			<section prefix="1">The filing of bankruptcy, reorganization or receivership proceedings by or against the licensee;
+			</section>
+			<section prefix="2">The institution of administrative or regulatory proceedings against the licensee by any governmental authority;
+			</section>
+			<section prefix="3">Any felony indictments of the licensee or any of its members, partners, directors, officers, or principals;
+			</section>
+			<section prefix="4">Any felony conviction of the licensee or any of its members, partners, directors, officers, or principals; and
+			</section>
+			<section prefix="5">Such other event as the Commission may prescribe by regulation.
+			</section>
+		</section>
+		<section prefix="B">The report shall be in writing and describe the event and its expected impact on the business of the licensee.
+		</section>
+	</text>
+	<history>2002, c. 897, § 6.1-455; 2010, c. 794.</history>
+</law>

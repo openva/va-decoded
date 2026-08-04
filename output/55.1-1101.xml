@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="II" level="2">Real Estate Settlements and Recordation</unit>
+		<unit label="chapter" identifier="11" level="3">Commercial Real Estate Broker's Lien Act</unit>
+	</structure>
+	<section_number>55.1-1101</section_number>
+	<catch_line>Broker's lien</catch_line>
+	<text>
+		<section prefix="A">Any principal broker who, either himself or through the principal broker's or associated broker's employees or independent contractors, has provided licensed services that result in the procuring of a tenant of commercial real estate upon the terms provided for in a written agreement signed by the owner of such commercial real estate, or that are otherwise acceptable to the owner as evidenced by a written agreement signed by the owner, shall have a lien, in the amount of the compensation agreed upon by and between the principal broker and the owner, upon rent paid by the tenant of the commercial real estate or by the successors or assigns of such tenant. The amount of the lien shall not exceed the lesser of (i) the amount of the rent to be paid during the term of the lease or (ii) the amount of the rent to be paid during the first 20 years of such lease.
+		</section>
+		<section prefix="B">The lien provided by this chapter shall not attach or be perfected until a memorandum of such lien signed under oath by the broker and meeting the requirements of this subsection has been recorded in the clerk's office of the circuit court of the county or city where the commercial real estate is located, from which date the lien shall have priority over all liens recorded subsequent thereto. The memorandum of lien shall state the name of the claimant, the name of the owner of the commercial real estate, a description of the commercial real estate, the name and address of the person against whom the broker's claim for compensation is made, the name and address of the tenant paying the rent against which the lien is being claimed, the amount for which the lien is being claimed, and the real estate license number of the principal broker claiming the lien. The lien provided by this chapter and the right to rents secured by such lien shall be subordinate to all liens, deeds of trust, mortgages, or assignments of the leases, rents, or profits recorded prior to the time the memorandum of lien is recorded and shall not affect a purchaser for valuable consideration without constructive or actual notice of the recorded lien.
+			However, a purchaser acquiring fee simple title to commercial real estate and having actual knowledge of terms of a lease agreement that provide for the payment of brokerage fees due and payable to a real estate broker shall be liable for payment of such brokerage fees, unless otherwise agreed to in writing by the parties at or before the time of sale regardless of whether the real estate broker has perfected the lien in accordance with this chapter. The term "purchaser" does not include a trustee under or a beneficiary of a deed of trust, a mortgagee under a mortgage, a secured party or any other assignee under an assignment as security, or successors, assigns, transferees, or purchasers from such persons or entities.
+		</section>
+		<section prefix="C">Nothing in this section shall be construed to prevent a subsequent purchaser of commercial real estate subject to a lien under this chapter from establishing an escrow fund at settlement sufficient to satisfy the lien that may otherwise affect transferability of title.
+		</section>
+	</text>
+	<history>1992, c. 877, § 55-527; 1996, c. 557; 1998, c. 617; 2019, c. 712.</history>
+</law>

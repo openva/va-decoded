@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="3" level="3">Formation of Corporations</unit>
+	</structure>
+	<section_number>13.1-822</section_number>
+	<catch_line>Organization of corporation</catch_line>
+	<text>
+		<section prefix="A">After incorporation:
+			<section prefix="1">If initial directors are named in the articles of incorporation, the initial directors shall hold an organizational meeting, at the call of a majority of the directors, to complete the organization of the corporation by adopting bylaws, appointing officers, and carrying on any other business brought before the meeting or
+			</section>
+			<section prefix="2">If initial directors are not named in the articles, the incorporator or incorporators shall hold an organizational meeting at the call of a majority of the incorporators:
+				a. To elect a board of directors and complete the organization of the corporation; or
+				b. To elect directors who shall complete the organization of the corporation.
+			</section>
+		</section>
+		<section prefix="B">Action required or permitted by this Act to be taken by incorporators at an organizational meeting may be taken without a meeting if the action taken is evidenced by one or more written consents describing the action taken and signed by each incorporator.
+		</section>
+		<section prefix="C">An organizational meeting may be held in or out of the Commonwealth.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-234; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2007, c. 925.</history>
+</law>

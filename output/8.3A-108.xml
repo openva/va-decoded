@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="1" level="2">General Provisions and Definitions</unit>
+	</structure>
+	<section_number>8.3A-108</section_number>
+	<catch_line>Payable on demand or at definite time</catch_line>
+	<text>
+		<section prefix="a">A promise or order is "payable on demand" if it (i) states that it is payable on demand or at sight, or otherwise indicates that it is payable at the will of the holder, or (ii) does not state any time of payment.
+		</section>
+		<section prefix="b">A promise or order is "payable at a definite time" if it is payable on elapse of a definite period of time after sight or acceptance or at a fixed date or dates or at a time or times readily ascertainable at the time the promise or order is issued, subject to rights of (i) prepayment, (ii) acceleration, (iii) extension at the option of the holder, or (iv) extension to a further definite time at the option of the maker or acceptor or automatically upon or after a specified act or event.
+		</section>
+		<section prefix="c">If an instrument, payable at a fixed date, is also payable upon demand made before the fixed date, the instrument is payable on demand until the fixed date and, if demand for payment is not made before that date, becomes payable at a definite time on the fixed date.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-356, 6-359; 1964, c. 219, §§ 8.3-108, 8.3-109; 1992, c. 693.</history>
+</law>

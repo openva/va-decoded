@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="6" level="3">Federal Market Reforms</unit>
+	</structure>
+	<section_number>38.2-3445</section_number>
+	<catch_line>Patient access to emergency services</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any provision of § 38.2-3407.11, 38.2-4312.3, or any other section of this title to the contrary, if a health carrier providing individual or group health insurance coverage provides any benefits with respect to services in an emergency department of a hospital, the health carrier shall provide coverage for emergency services:
+			<section prefix="1">Without the need for any prior authorization determination, regardless of whether the emergency services are provided on an in-network or out-of-network basis;
+			</section>
+			<section prefix="2">Without regard to the final diagnosis rendered to the covered person or whether the health care provider furnishing the emergency services is a participating health care provider with respect to such services;
+			</section>
+			<section prefix="3">If such services are provided out-of-network, without imposing any administrative requirement or limitation on coverage that is more restrictive than the requirements or limitations that apply to such services received from an in-network provider;
+			</section>
+			<section prefix="4">If such services are provided out-of-network, the health carrier shall pay the out-of-network provider in accordance with § 38.2-3445.01 less any cost-sharing requirement. Any such cost-sharing requirement shall not exceed the cost-sharing requirement that would apply if such services were provided in-network as provided in § 38.2-3445.01; and
+			</section>
+			<section prefix="5">Without regard to any term or condition of such coverage other than the exclusion of or coordination of benefits or an affiliation or waiting period.
+			</section>
+		</section>
+		<section prefix="B">Coverage for emergency services that are related to mental health services or substance abuse services, as those terms are defined in § 38.2-3412.1, shall be provided in accordance with the federal Mental Health Parity and Addiction Equity Act of 2008, P.L. 110-343, even where those requirements would not otherwise apply directly. Such emergency services may be rendered at a location other than the emergency department of a hospital, such as a behavioral health crisis service provider, as required.
+		</section>
+	</text>
+	<history>2011, c. 882; 2020, cc. 1080, 1081; 2024, cc. 199, 360.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="17" level="3">Police and Public Order</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>15.2-1718.2</section_number>
+	<catch_line>Receipt of critically missing adult reports</catch_line>
+	<text>
+		<section prefix="A">No police or sheriff's department shall establish or maintain any policy that requires the observance of any waiting period before accepting a critically missing adult report. Upon receipt of a critically missing adult report by any police or sheriff's department, the department shall immediately, but in all cases within two hours of receiving the report, enter identifying and descriptive data about the critically missing adult into the Virginia Criminal Information Network and the National Crime Information Center Systems, forward the report to the Department of State Police, notify all other law-enforcement agencies in the area, and initiate an investigation of the case.
+		</section>
+		<section prefix="B">For purposes of this section:
+			"Critically missing adult" means any missing adult, including an adult who has a developmental disability, intellectual disability, or mental illness as those terms are defined in § 37.2-100, 18 years of age or older whose disappearance indicates a credible threat to the health and safety of the adult as determined by a law-enforcement agency and under such other circumstances as deemed appropriate after consideration of all known circumstances.
+			"Critically missing adult report" means a report prepared in a format prescribed by the Superintendent of State Police for use by law-enforcement agencies to report critically missing adult information, including a photograph, to the Department of State Police.
+		</section>
+	</text>
+	<history>2015, cc. 205, 223; 2022, cc. 394, 395.</history>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="8" level="3">Regulation of Traffic</unit>
+		<unit label="article" identifier="11" level="4">Accidents</unit>
+	</structure>
+	<section_number>46.2-902</section_number>
+	<catch_line>Leaving scene of accident when directed to do so by officer</catch_line>
+	<text>
+		A person shall leave the scene of a traffic accident when directed to do so by a law-enforcement officer.
+	</text>
+	<history>Code 1950, § 46-258; 1958, c. 541, § 46.1-251; 1989, c. 727.</history>
+</law>

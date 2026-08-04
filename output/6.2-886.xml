@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="8" level="3">Banks</unit>
+		<unit label="article" identifier="9" level="4">Investments and Loans</unit>
+	</structure>
+	<section_number>6.2-886</section_number>
+	<catch_line>Regulation of controlled subsidiary corporations by Commission</catch_line>
+	<text>
+		<section prefix="A">A controlled subsidiary corporation shall be subject to audit and examination by the Commission whether or not it is an affiliate as defined in § 6.2-899. The controlled subsidiary corporation shall pay such examination fees as shall be imposed under § 6.2-908 for the examination of trust departments. If upon examination the Commission shall ascertain that the corporation is created or operated in violation of this section or that the manner of operation is detrimental to the business of the parent bank and its depositors, it may order the bank to dispose of all or part of its investment in such corporation upon such terms as the Commission may deem proper.
+		</section>
+		<section prefix="B">A controlled subsidiary may not merge or consolidate unless the surviving corporation is itself a controlled subsidiary corporation, or unless as a result of such merger or consolidation the bank divests itself of all stock or other securities that are held pursuant to the authority granted by this section.
+		</section>
+		<section prefix="C">The Commission shall have the same powers over controlled subsidiary corporations as it has over banks under §§ 6.2-913, 6.2-915, 6.2-917, 6.2-918, and 6.2-919, excepting those controlled subsidiary corporations that have no state banks as stockholders.
+		</section>
+	</text>
+	<history>1968, c. 270, § 6.1-58.1; 1978, c. 797; 1988, c. 296; 1993, c. 64; 1997, c. 277; 1999, c. 60; 2001, c. 508; 2003, cc. 536, 558; 2010, c. 794.</history>
+</law>

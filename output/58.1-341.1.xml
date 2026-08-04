@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="4" level="4">Accounting, Returns, Procedures for Individuals</unit>
+	</structure>
+	<section_number>58.1-341.1</section_number>
+	<catch_line>Returns of individuals; required information</catch_line>
+	<text>
+		<section prefix="A">For all taxable years beginning on and after January 1, 1995, the Department of Taxation shall include in any packet of instructions and forms for individual income tax returns an application to register to vote by mail and appropriate instructions for the completion and mailing of the application to register to vote. The form of the application shall be prescribed and the instructions shall be provided by the State Board of Elections.
+		</section>
+		<section prefix="B">1. For taxable years beginning on and after January 1, 2021, the Department of Taxation shall include on the appropriate individual income tax return forms the following:
+			a. A checkoff box or similar mechanism for indicating whether the individual, or spouse in the case of a married taxpayer filing jointly, or any dependent of the individual (i) is an uninsured individual at the time the return is filed (ii) voluntarily consents to the Department of Taxation providing the individual's tax information, as provided in clause (xxii) of subsection C of § 58.1-3, to the Department of Medical Assistance Services for purposes of affirming that the individual, the individual's spouse, or any dependent of the individual meets the income eligibility for medical assistance. Such information shall not be used to determine an individual is ineligible for medical assistance; and
+			b. Space for an individual to voluntarily include a preferred method for the Department of Medical Assistance Services to contact the individual for purposes of an eligibility determination.
+			<section prefix="2">For taxable years beginning on and after January 1, 2022, the Department of Taxation shall include on the appropriate individual income tax return forms the following:
+				a. A checkoff box or similar mechanism for indicating whether the individual, or spouse in the case of a married taxpayer filing jointly, or any dependent of the individual voluntarily consents to the Department of Taxation providing the individual's tax information to the Department of Social Services and the Department of Medical Assistance Services as provided in clause (xxii) of subsection C of § 58.1-3; and
+				b. Space for an individual to voluntarily include the following information: date of birth; email address; dependent's name and date of birth, and preferred method for the Department of Social Services and the Department of Medical Assistance Services to contact the individual for purposes of an eligibility determination.
+			</section>
+			<section prefix="3">For taxable years beginning on and after January 1, 2023, the Department of Taxation shall include on the appropriate individual income tax return forms the following:
+				a. A checkoff box or similar mechanism for indicating whether the individual, or spouse in the case of a married taxpayer filing jointly, or any dependent of the individual voluntarily consents to the Department of Taxation providing the individual's tax information to the Virginia Health Benefit Exchange pursuant to clause (xxiv) of subsection C of § 58.1-3; and
+				b. Space for an individual to voluntarily include a preferred method for the Virginia Health Benefit Exchange to contact the individual for purposes of an eligibility determination.
+			</section>
+			<section prefix="4">Information obtained pursuant to this subsection shall not be used to determine an individual is ineligible for medical assistance.
+			</section>
+		</section>
+	</text>
+	<history>1994, c. 632; 2020, cc. 916, 917; 2021, Sp. Sess. I, c. 162.</history>
+</law>

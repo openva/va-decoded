@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1089</section_number>
+	<catch_line>Nature of protected series</catch_line>
+	<text>
+		A protected series of a series limited liability company is a person distinct from:
+		<section prefix="1">The series limited liability company, subject to subsection C of § 13.1-1090, subdivision 1 of § 13.1-1099.11, and § 13.1-1099.12;
+		</section>
+		<section prefix="2">Another protected series of the series limited liability company;
+		</section>
+		<section prefix="3">A member of the series limited liability company, whether or not the member is an associated member of the protected series;
+		</section>
+		<section prefix="4">A protected series assignee of any protected series of the series limited liability company; and
+		</section>
+		<section prefix="5">An assignee of a membership interest of the series limited liability company.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

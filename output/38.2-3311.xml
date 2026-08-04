@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="1" level="3">Life Insurance Policies; Annuities</unit>
+	</structure>
+	<section_number>38.2-3311</section_number>
+	<catch_line>Reinstatement</catch_line>
+	<text>
+		Each individual life insurance policy shall have a provision that in the event of default in premium payments, if (i) the value of the policy has been applied automatically to the purchase of other insurance as provided for in this article, (ii) the insurance is in force, and (iii) the original policy has not been surrendered to the insurer and cancelled, the policy may be reinstated within three years from default, upon:
+		<section prefix="1">Evidence of insurability satisfactory to the insurer;
+		</section>
+		<section prefix="2">Payment of premiums in arrears with interest at a rate not exceeding six percent per year payable annually; and
+		</section>
+		<section prefix="3">The payment or reinstatement of any other indebtedness to the insurer upon the policy, with interest at the rate set forth in the policy for the indebtedness.
+		</section>
+	</text>
+	<history>Code 1950, § 38-371(10); 1950, p. 180; 1952, c. 317, § 38.1-400; 1986, c. 562.</history>
+</law>

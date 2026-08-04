@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="6" level="4">Allocation of Receipts: Receipts Normally Apportioned</unit>
+	</structure>
+	<section_number>64.2-1056</section_number>
+	<catch_line>Deferred compensation, annuity, or similar payment</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Internal income of a separate fund" means the amount determined under subsection B.
+			"Marital trust" means a trust:
+			<section prefix="1">Of which the settlor's surviving spouse is the only current income beneficiary and is entitled to a distribution of all of the current net income of the trust; and
+			</section>
+			<section prefix="2">That qualifies for a marital deduction with respect to the settlor's estate under § 2056 of the Internal Revenue Code of 1986, as amended, because:
+				a. An election to qualify for a marital deduction under § 2056(b)(7) of the Internal Revenue Code of 1986, as amended, has been made; or
+				b. The trust qualifies for a marital deduction under § 2056(b)(5) of the Internal Revenue Code of 1986, as amended.
+				"Payment" means an amount a fiduciary may receive over a fixed number of years or during the life of one or more individuals because of services rendered or property transferred to the payor in exchange for future amounts the fiduciary may receive. "Payment" includes an amount received in money or property from the payor's general assets or from a separate fund created by the payor.
+				"Separate fund" includes a private or commercial annuity, an individual retirement account, and a pension, profit-sharing, stock-bonus, or stock-ownership plan.
+			</section>
+		</section>
+		<section prefix="B">For each accounting period, the following rules apply to a separate fund:
+			<section prefix="1">The fiduciary shall determine the internal income of the separate fund as if the separate fund were a trust subject to this chapter.
+			</section>
+			<section prefix="2">If the fiduciary cannot determine the internal income of the separate fund under subdivision 1, the internal income of the separate fund is deemed to equal four percent of the value of the separate fund, according to the most recent statement of value preceding the beginning of the accounting period.
+			</section>
+			<section prefix="3">If the fiduciary cannot determine the value of the separate fund under subdivision 2, the value of the separate fund is deemed to equal the present value of the expected future payments, as determined under § 7520 of the Internal Revenue Code of 1986, as amended, for the month preceding the beginning of the accounting period for which the computation is made.
+			</section>
+		</section>
+		<section prefix="C">A fiduciary shall allocate a payment received from a separate fund during an accounting period to income, to the extent of the internal income of the separate fund during the period, and the balance to principal.
+		</section>
+		<section prefix="D">The fiduciary of a marital trust shall:
+			<section prefix="1">Withdraw from a separate fund the amount the current income beneficiary of the trust requests the fiduciary to withdraw, not greater than the amount by which the internal income of the separate fund during the accounting period exceeds the amount the fiduciary otherwise receives from the separate fund during the period;
+			</section>
+			<section prefix="2">Transfer from principal to income the amount the current income beneficiary requests the fiduciary to transfer, not greater than the amount by which the internal income of the separate fund during the period exceeds the amount the fiduciary receives from the separate fund during the period after the application of subdivision 1; and
+			</section>
+			<section prefix="3">Distribute to the current income beneficiary as income:
+				a. The amount of the internal income of the separate fund received or withdrawn during the period; and
+				b. The amount transferred from principal to income under subdivision 2.
+			</section>
+		</section>
+		<section prefix="E">For a trust, other than a marital trust, of which one or more current income beneficiaries are entitled to a distribution of all of the current net income, the fiduciary shall transfer from principal to income the amount by which the internal income of a separate fund during the accounting period exceeds the amount the fiduciary receives from the separate fund during the period.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

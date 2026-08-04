@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="10" level="3">Standard Valuation</unit>
+	</structure>
+	<section_number>38.2-1375</section_number>
+	<catch_line>Optional reserve calculation</catch_line>
+	<text>
+		<section prefix="A">Reserves for any category of policies, contracts, or benefits as established by the Commission may be calculated, at the insurer's option, according to any standards that produce greater aggregate reserves for the category than those calculated according to the minimum standard provided in this article, but the rate or rates of interest used for policies and contracts other than annuity and pure endowment contracts shall not be higher than the corresponding rate or rates of interest used in calculating any nonforfeiture benefits provided for in those policies and contracts.
+		</section>
+		<section prefix="B">An insurer that adopts at any time a standard of valuation producing greater aggregate reserves than those calculated according to the minimum standard provided under this article may adopt a lower standard of valuation with the approval of the Commission, but not lower than the minimum provided herein, provided that, for the purposes of this section, the holding of additional reserves previously determined by the appointed actuary to be necessary to render the opinion required by § 38.2-1367 shall not be deemed to be the adoption of a higher standard of valuation.
+		</section>
+	</text>
+	<history>2014, c. 571.</history>
+</law>

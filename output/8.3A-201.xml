@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="2" level="2">Negotiation, Transfer, and Endorsement</unit>
+	</structure>
+	<section_number>8.3A-201</section_number>
+	<catch_line>Negotiation</catch_line>
+	<text>
+		<section prefix="a">"Negotiation" means a transfer of possession, whether voluntary or involuntary, of an instrument by a person other than the issuer to a person who thereby becomes its holder.
+		</section>
+		<section prefix="b">Except for negotiation by a remitter, if an instrument is payable to an identified person, negotiation requires transfer of possession of the instrument and its endorsement by the holder. If an instrument is payable to bearer, it may be negotiated by transfer of possession alone.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-382 through 6-384; 1964, c. 219, § 8.3-202; 1992, c. 693.</history>
+</law>

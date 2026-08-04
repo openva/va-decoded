@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="3" level="3">Construction</unit>
+	</structure>
+	<section_number>59.1-503.1</section_number>
+	<catch_line>Parol or extrinsic evidence</catch_line>
+	<text>
+		Terms with respect to which confirmatory records of the parties agree or which are otherwise set forth in a record intended by the parties as a final expression of their agreement with respect to terms included therein may not be contradicted by evidence of any previous agreement or of a contemporaneous oral agreement but may be explained or supplemented by:
+		<section prefix="1">course of performance, course of dealing, or usage of trade; and
+		</section>
+		<section prefix="2">evidence of consistent additional terms, unless the court finds the record to have been intended as a complete and exclusive statement of the terms of the agreement.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

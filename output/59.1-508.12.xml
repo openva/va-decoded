@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="8" level="3">Remedies</unit>
+	</structure>
+	<section_number>59.1-508.12</section_number>
+	<catch_line>Completing performance</catch_line>
+	<text>
+		<section prefix="a">On breach of contract by a licensee, the licensor may:
+			<section prefix="1">identify to the contract any conforming copy not already identified if, at the time the licensor learned of the breach, the copy was in its possession;
+			</section>
+			<section prefix="2">in the exercise of reasonable commercial judgment for purposes of avoiding loss and effective realization on effort or investment, complete the information and identify it to the contract, cease work on it, relicense or dispose of it, or proceed in any other commercially reasonable manner; and
+			</section>
+			<section prefix="3">pursue any remedy for breach that has not been waived.
+			</section>
+		</section>
+		<section prefix="b">On breach by a licensee, both parties remain bound by all contractual use terms, but the contractual use terms do not apply to information or copies properly received or obtained from another source.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

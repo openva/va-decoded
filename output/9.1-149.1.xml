@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="4" level="3">Private Security Services Businesses</unit>
+	</structure>
+	<section_number>9.1-149.1</section_number>
+	<catch_line>Unlawful advertisement for regulated services; notice; penalty</catch_line>
+	<text>
+		<section prefix="A">It shall be unlawful for any person to place before the public through any medium an advertisement for services in the Commonwealth requiring a license, certification, or registration under this article unless the individual who will perform such services possesses the necessary license, certification, or registration at the time of the posting.
+		</section>
+		<section prefix="B">Whenever the Board receives information that an advertisement has been placed in violation of this section, the Board shall provide notice to the entity publishing the advertisement to the public.
+		</section>
+		<section prefix="C">Any person who is convicted of a violation of subsection A is guilty of a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>2014, c. 396.</history>
+</law>

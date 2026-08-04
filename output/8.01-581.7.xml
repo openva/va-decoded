@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="21.1" level="2">Medical Malpractice</unit>
+		<unit label="article" identifier="1" level="3">Medical Malpractice Review Panels; Arbitration of Malpractice Claims</unit>
+	</structure>
+	<section_number>8.01-581.7</section_number>
+	<catch_line>Opinion of panel</catch_line>
+	<text>
+		<section prefix="A">Within thirty days, after receiving all the evidence, the panel shall have the duty, after joint deliberation, to render one or more of the following opinions:
+			<section prefix="1">The evidence does not support a conclusion that the health care provider failed to comply with the appropriate standard of care;
+			</section>
+			<section prefix="2">The evidence supports a conclusion that the health care provider failed to comply with the appropriate standard of care and that such failure is a proximate cause in the alleged damages;
+			</section>
+			<section prefix="3">The evidence supports a conclusion that the health care provider failed to comply with the appropriate standard of care and that such failure is not a proximate cause in the alleged damages; or
+			</section>
+			<section prefix="4">The evidence indicates that there is a material issue of fact, not requiring an expert opinion, bearing on liability for consideration by a court or jury.
+			</section>
+		</section>
+		<section prefix="B">If the review panel's finding is that set forth in subdivision 2 of subsection A of this section, the panel may determine whether the plaintiff suffered any disability or impairment and the degree and extent thereof.
+		</section>
+		<section prefix="C">The opinion shall be in writing and shall be signed by all panelists who agree therewith. Any member of the panel may note his dissent. All such opinions shall be filed with the clerk of the court in which the action is pending and mailed to the plaintiff and the defendant within five days of the date of their rendering. However, this subsection shall not be construed to preclude the panel from announcing the opinion in the presence of the parties or their counsel, provided a signed written opinion is subsequently mailed as provided in this subsection.
+		</section>
+	</text>
+	<history>Code 1950, § 8-917; 1976, c. 611; 1977, c. 617; 1986, c. 227; 1993, c. 928.</history>
+</law>

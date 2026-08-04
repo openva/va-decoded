@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="22" level="3">Motor Vehicle Title Loans</unit>
+	</structure>
+	<section_number>6.2-2211</section_number>
+	<catch_line>Other reporting requirements</catch_line>
+	<text>
+		Within 15 days following the occurrence of any of the following events, a licensee shall file a written report with the Commission describing such event and its expected impact upon the business of the licensee:
+		<section prefix="1">The filing of bankruptcy, reorganization, or receivership proceedings by or against the licensee;
+		</section>
+		<section prefix="2">The institution of administrative or regulatory proceedings against the licensee by any governmental authority;
+		</section>
+		<section prefix="3">Any felony indictments of the licensee or any of its members, partners, directors, officers, or principals;
+		</section>
+		<section prefix="4">Any felony conviction of the licensee or any of its members, partners, directors, officers, or principals; and
+		</section>
+		<section prefix="5">Such other event as the Commission may prescribe by regulation.
+		</section>
+	</text>
+	<history>2010, c. 477, § 6.1-491.</history>
+</law>

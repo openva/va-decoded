@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4328.2</section_number>
+	<catch_line>Purchase of personal protective equipment by state agencies</catch_line>
+	<text>
+		<section prefix="A">When in the course of procuring personal protective equipment for public use, a state agency shall ensure that such equipment comply with all applicable federal and international certifications and requirements for such equipment, and if a state agency receives three or more bids (i) from a Virginia-based company or a manufacturer that uses materials or product components made in Virginia or the United States or (ii) when personal protective equipment are unavailable from such companies or manufacturers, from a United States-based manufacturer using materials or product components made in the United States, such state agency may only select among those bids.
+		</section>
+		<section prefix="B">If a state agency is unable to purchase equipment in accordance with subsection A, it may purchase equipment from another company or manufacturer so long as the state agency ensures that the personal protective equipment are tested by an independent laboratory to ensure compliance with all applicable federal and international certifications and requirements for such equipment. A state agency may purchase equipment without the need for additional independent laboratory testing if the manufacturer of such equipment provides verifiable proof of internal and independent testing by an accredited United States laboratory or testing facility at the time of purchase.
+		</section>
+		<section prefix="C">State agencies shall comply with the provisions of this section unless the requirements stated in subsections A and B cannot be met.
+		</section>
+	</text>
+	<history>2022, c. 802.</history>
+</law>

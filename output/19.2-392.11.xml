@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="23.2" level="2">Sealing of Criminal History Record Information and Court Records</unit>
+	</structure>
+	<section_number>19.2-392.11</section_number>
+	<catch_line>(Effective July 1, 2026) Automatic sealing of misdemeanor offenses resulting in acquittal, nolle prosequi, or dismissal for persons with no convictions or deferred and dismissed offenses on their criminal history record</catch_line>
+	<text>
+		<section prefix="A">On at least an annual basis, the Department of State Police shall electronically review the Central Criminal Records Exchange and identify all persons with finalized misdemeanor case dispositions with an offense date on or after January 1, 1986, that resulted in (i) an acquittal, (ii) a nolle prosequi, or (iii) a dismissal, excluding any charge that was deferred and dismissed after a finding of facts sufficient to justify a finding of guilt, where the criminal history record of such person contains no convictions for any criminal offense for a violation of any law of the Commonwealth that requires a report to the Central Criminal Records Exchange under subsection A of § 19.2-390and where such criminal history record contains no arrests or charges for a violation of any law of the Commonwealth that requires a report to the Central Criminal Records Exchange under subsection A of § 19.2-390in the past three years, excluding traffic infractions under Title 46.2. For purposes of this subsection, any offense on the person's criminal history record that has previously been ordered to be sealed shall not be deemed a conviction.
+		</section>
+		<section prefix="B">Upon identification of the finalized case dispositions under subsection A, the Department of State Police shall provide an electronic list of such offenses to the Executive Secretary of the Supreme Court and to any circuit court clerk who maintains a case management system that interfaces with the Department of State Police under subsection B1 of § 17.1-502. The Department of State Police shall not be required to include an offense on such list if it cannot be determined by an electronic review whether the offense is eligible for automatic sealing.
+		</section>
+		<section prefix="C">Upon receipt of the electronic list from the Department of State Police provided under subsection B, on at least an annual basis the Executive Secretary of the Supreme Court shall provide an electronic list of such offenses to the clerk of each circuit court in the jurisdiction where the case was finalized, if such circuit court clerk participates in the case management system maintained by the Executive Secretary.
+		</section>
+		<section prefix="D">Upon receipt of the electronic list provided under subsection B or C, on at least an annual basis the clerk of each circuit court shall prepare an order and the chief judge or presiding judge of that circuit court shall enter such order directing that the offenses be automatically sealed under the process described in § 19.2-392.13.Such order shall contain the names of the persons charged with such offenses. The clerk of each circuit court shall maintain a copy of all orders entered pursuant to this subsection under seal.
+		</section>
+		<section prefix="E">The clerk of each circuit court shall provide an electronic notification of any order entered under subsection D to the Department of State Police on at least an annual basis. Upon receipt of such electronic notification, the Department of State Police shall proceed as set forth in § 19.2-392.13.
+		</section>
+		<section prefix="F">Any order to seal issued pursuant to this section shall be sealed and may only be disseminated for the purposes set forth in § 19.2-392.13and pursuant to rules and regulations adopted pursuant to § 9.1-128and procedures adopted pursuant to § 9.1-134.
+		</section>
+		<section prefix="G">This section shall not be construed as prohibiting a person from seeking expungement in the circuit court pursuant to the provisions of § 19.2-392.2.Entry of a sealing order pursuant to this section shall not prohibit a person from seeking expungement in the circuit court pursuant to the provisions of § 19.2-392.2.
+		</section>
+		<section prefix="H">If an offense is automatically sealed contrary to law, the automatic sealing of that particular offense shall be voidable upon motion and notice made within two years of the entry of the order to automatically seal such offense.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, cc. 524, 542; 2023, cc. 554, 555; 2025, cc. 634, 671.</history>
+</law>

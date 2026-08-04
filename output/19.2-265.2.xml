@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="15" level="2">Trial and Its Incidents</unit>
+		<unit label="article" identifier="5" level="3">Miscellaneous Provisions</unit>
+	</structure>
+	<section_number>19.2-265.2</section_number>
+	<catch_line>Judicial notice of laws (Supreme Court Rule 2:202 derived in part from this section)</catch_line>
+	<text>
+		<section prefix="A">Whenever, in any criminal case it becomes necessary to ascertain what the law, statutory or otherwise, of this Commonwealth, of another state, of the United States, of another country, or of any political subdivision or agency of the same is, or was, at any time, the court shall take judicial notice thereof whether specially pleaded or not.
+		</section>
+		<section prefix="B">The court, in taking such notice, shall consult any book, record, register, journal, or other official document or publication purporting to contain, state, or explain such law, and may consider any evidence or other information or argument that is offered on the subject.
+		</section>
+	</text>
+	<history>1978, c. 328.</history>
+</law>

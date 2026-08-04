@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="III" level="2">Professions and Occupations Regulated by Boards Within the Department of Health Professions</unit>
+		<unit label="chapter" identifier="24" level="3">General Provisions</unit>
+	</structure>
+	<section_number>54.1-2406</section_number>
+	<catch_line>Treatment records of practitioners</catch_line>
+	<text>
+		No records of the identity, diagnosis, prognosis, or treatment of any practitioner of any profession regulated by any of the regulatory boards within the Department of Health Professions obtained by the Department or any health regulatory board from a health care provider or facility that is treating or has treated such practitioner for drug addiction or chronic alcoholism shall be disclosed except:
+		<section prefix="1">In a disciplinary hearing before a health regulatory board or in any subsequent trial or appeal of a board action or order;
+		</section>
+		<section prefix="2">To licensing or disciplinary authorities of other jurisdictions or to hospital committees located within or outside this Commonwealth which are concerned with granting, limiting, or denying a physician hospital privileges if a final determination regarding disciplinary action has been made; or
+		</section>
+		<section prefix="3">Pursuant to an order of a court of competent jurisdiction.
+		</section>
+	</text>
+	<history>1992, c. 808.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-866</section_number>
+	<catch_line>Notice of board of directors' meetings</catch_line>
+	<text>
+		<section prefix="A">Unless the articles of incorporation or bylaws provide otherwise, regular meetings of the board of directors may be held without notice of the date, time, place, or purpose of the meeting.
+		</section>
+		<section prefix="B">Special meetings of the board of directors shall be held upon such notice as is prescribed in the articles of incorporation or bylaws, or when not inconsistent with the articles of incorporation or bylaws, by resolution of the board of directors. The notice need not describe the purpose of the special meeting unless required by the articles of incorporation or bylaws.
+		</section>
+	</text>
+	<history>1985, c. 522; 2002, c. 285; 2007, c. 925; 2010, c. 171.</history>
+</law>

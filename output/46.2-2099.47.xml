@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="20" level="3">Regulation of Passenger Carriers</unit>
+		<unit label="article" identifier="15" level="4">Transportation Network Companies</unit>
+	</structure>
+	<section_number>46.2-2099.47</section_number>
+	<catch_line>Operation except in accordance with chapter prohibited</catch_line>
+	<text>
+		No transportation network company or TNC partner shall transport passengers for compensation on any highway in the Commonwealth on an intrastate basis except in accordance with the provisions of this chapter.
+	</text>
+	<history>2015, cc. 2, 3.</history>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="V" level="2">Domestic Animals</unit>
+		<unit label="chapter" identifier="60" level="3">Livestock and Poultry</unit>
+		<unit label="article" identifier="1" level="4">Contagious and Infectious Diseases</unit>
+	</structure>
+	<section_number>3.2-6003</section_number>
+	<catch_line>Duty of State Veterinarian when animals are suspected of having a contagious or infectious disease</catch_line>
+	<text>
+		<section prefix="A">The State Veterinarian, upon receipt of reliable information of the existence of any contagious or infectious disease among animals of the Commonwealth with potential impact on livestock or poultry, shall immediately make an evaluation that may include going to the place where such disease has been reported. The evaluation may include conducting tests of the animals believed to be affected with such disease, and ascertain, if possible, what, if any, disease exists, and whether the same is contagious or infectious.
+		</section>
+		<section prefix="B">Upon notice by the State Veterinarian or his representative, the owner or custodian of any animal to be evaluated shall isolate and confine the animal if necessary to accomplish the evaluation or to prevent the spread of contagious or infectious disease.
+		</section>
+		<section prefix="C">1. If a disease is found to be contagious or infectious, the State Veterinarian, or his representative, may adopt and enforce quarantine lines and regulations and shall enforce such cleaning and disinfection as may be deemed necessary to prevent the spread of such disease. Quarantine lines and regulations, when adopted, shall supersede any similar provisions made by the governing body of any county under the provisions of Chapter 12 (§ 15.2-1200 et seq.) of Title 15.2.
+			<section prefix="2">The State Veterinarian may issue and enforce a proclamation limiting live animal sales and events or the movement of manure, bedding, equipment, vehicles, or other material that may be infectious to prevent the spread of contagious or infectious diseases to livestock and poultry.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 3-569; 1966, c. 702, § 3.1-727; 2008, c. 860.</history>
+</law>

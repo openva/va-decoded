@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3" level="2">Protection of Employees</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>40.1-27.2</section_number>
+	<catch_line>Preference for veterans and spouses</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Disabled veteran" means a veteran who has been found by the U.S. Department of Veterans Affairs or by the retirement board of one of the several branches of the armed forces to have a compensable service-connected permanent and total disability.
+			"Veteran" has the same meaning ascribed to such term in § 2.2-2903.
+		</section>
+		<section prefix="B">An employer may grant preference in hiring and promotion to a veteran or the spouse of a disabled veteran.
+		</section>
+		<section prefix="C">Granting preference under subsection B does not violate any local or state equal employment opportunity law.
+		</section>
+	</text>
+	<history>2014, c. 740.</history>
+</law>

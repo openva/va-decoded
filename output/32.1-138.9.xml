@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="2.1" level="3">Private Review Agents</unit>
+	</structure>
+	<section_number>32.1-138.9</section_number>
+	<catch_line>Standards for approval</catch_line>
+	<text>
+		Each private review agent shall file an application with the Department which shall meet the following minimum standards and any additional standards established by regulation pursuant to § 32.1-138.15, and pay a filing fee established by the Department, in order to be approved by the Department:
+		<section prefix="1">A description of the procedures to be used in evaluating proposed or delivered hospital, medical, or other health care services;
+		</section>
+		<section prefix="2">The procedures by which patients or providers may seek reconsideration of determinations by private review agents;
+		</section>
+		<section prefix="3">The type and qualifications of the personnel either employed or under contract to perform the utilization review;
+		</section>
+		<section prefix="4">Procedures and policies which ensure that patient-specific medical records and information shall be kept strictly confidential except as authorized by the patient or by regulations adopted pursuant to this article; and
+		</section>
+		<section prefix="5">Assurances that reviewers be readily accessible by telephone to patients and providers at least forty hours per week during normal business hours.
+		</section>
+	</text>
+	<history>1990, c. 826, § 38.2-5302; 1998, c. 129.</history>
+</law>

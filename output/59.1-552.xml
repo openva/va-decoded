@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="50" level="2">Electronic Identity Management Act</unit>
+	</structure>
+	<section_number>59.1-552</section_number>
+	<catch_line>Establishment of liability; limitation of liability</catch_line>
+	<text>
+		<section prefix="A">An identity trust framework operator, identity provider, federation administrator, or federation operator shall be liable if the issuance of an identity credential or assignment of an identity attribute, or a trustmark, is not in compliance with the Commonwealth's identity management standards in place at the time of issuance. Further, the identity trust framework operator or identity provider shall be liable for noncompliance with applicable terms of any contractual agreement with a contracting party and any written rules and policies of the identity trust framework or federation of which it is a member.
+		</section>
+		<section prefix="B">An identity trust framework operator, identity provider, federation administrator, or federation operator shall not be liable if the issuance of the identity credential or assignment of an identity attribute or a trustmark was in compliance with (i) the Commonwealth's identity management standards in place at the time of issuance or assignment, (ii) applicable terms of any contractual agreement with a contracting party, and (iii) any written rules and policies of the identity trust framework or federation of which it is a member, provided such identity trust framework operator or identity provider did not commit an act or omission that constitutes gross negligence or willful misconduct. An identity trust framework operator or identity provider shall not be liable for misuse of an identity credential by the identity credential holder or by any other person who misuses an identity credential.
+		</section>
+	</text>
+	<history>2015, cc. 482, 483; 2020, c. 736.</history>
+</law>

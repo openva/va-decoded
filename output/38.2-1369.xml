@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="10" level="3">Standard Valuation</unit>
+	</structure>
+	<section_number>38.2-1369</section_number>
+	<catch_line>Computation of minimum standard</catch_line>
+	<text>
+		Except as otherwise provided in §§ 38.2-1370, 38.2-1371, and 38.2-1378, the minimum standard for the valuation of all policies and contracts issued on or after the operative date stated in § 38.2-3214 shall be the Commissioners reserve valuation methods defined in §§ 38.2-1372, 38.2-1373, 38.2-1376, and 38.2-1378, three and one-half percent interest, or in the case of life insurance policies and contracts, other than annuity and pure endowment contracts, issued on or after July 1, 1975, four percent interest for policies issued prior to July 1, 1979, five and one-half percent interest for single premium life insurance policies and four and one-half percent interest for all other policies issued on and after July 1, 1979, and the following tables:
+		<section prefix="1">For ordinary policies of life insurance issued on the standard basis, excluding any disability and accidental death benefits in the policies: The Commissioners 1941 Standard Ordinary Mortality Table for policies issued prior to the operative date of § 38.2-3215; the Commissioners 1958 Standard Ordinary Mortality Table for policies issued on or after the operative date of § 38.2-3215 and prior to the operative date of § 38.2-3209, provided that for any category of policies issued on female risks, all modified net premiums and present values referred to in this article may be calculated according to an age not more than six years younger than the actual age of the insured; and for policies issued on or after the operative date of § 38.2-3209:
+			a. The Commissioners 1980 Standard Ordinary Mortality Table;
+			b. At the election of the insurer for any one or more specified plans of life insurance, the Commissioners 1980 Standard Ordinary Mortality Table with Ten-Year Select Mortality Factors; or
+			c. Any ordinary mortality table, adopted after 1980 by the NAIC, that is approved by regulation adopted by the Commission for use in determining the minimum standard of valuation for those policies;
+		</section>
+		<section prefix="2">For industrial life insurance policies issued on the standard basis, excluding any disability and accidental death benefits in those policies: The 1941 Standard Industrial Mortality Table for policies issued prior to the operative date of § 38.2-3216, and for policies issued on or after the operative date of § 38.2-3216, the Commissioners 1961 Standard Industrial Mortality Table or any industrial mortality table adopted after 1980 by the NAIC and approved by regulation adopted by the Commission for use in determining the minimum standard of valuation for the policies;
+		</section>
+		<section prefix="3">For individual annuity and pure endowment contracts, excluding any disability and accidental death benefits in those contracts: The 1937 Standard Annuity Mortality Table or, at the insurer's option, the Annuity Mortality Table for 1949 Ultimate, or any modification of either of these tables approved by the Commission;
+		</section>
+		<section prefix="4">For group annuity and pure endowment contracts, excluding any disability and accidental death benefits in those contracts: The Group Annuity Mortality Table for 1951, any modification of that table approved by the Commission, or, at the insurer's option, any of the tables or modifications of tables specified for individual annuity and pure endowment contracts;
+		</section>
+		<section prefix="5">For total and permanent disability benefits in or supplementary to ordinary policies or contracts: For policies or contracts issued on or after January 1, 1966, the tables of Period 2 disablement rates and the 1930 to 1950 termination rates of the 1952 Disability Study of the Society of Actuaries, with due regard to the type of benefit or any tables of disablement rates and termination rates adopted after 1980 by the NAIC, and approved by regulation adopted by the Commission for use in determining the minimum standard of valuation for those policies; for policies or contracts issued on or after January 1, 1961, and prior to January 1, 1966, either those tables or, at the insurer's option, the Class (3) Disability Table (1926); and for policies issued prior to January 1, 1961, the Class (3) Disability Table (1926). Any such table shall, for active lives, be combined with a mortality table permitted for calculating the reserves for life insurance policies;
+		</section>
+		<section prefix="6">For accidental death benefits in or supplementary to policies issued on or after January 1, 1966: The 1959 Accidental Death Benefits Table or any accidental death benefits table adopted after 1980 by the NAIC and approved by regulation adopted by the Commission for use in determining the minimum standard of valuation for those policies; for policies issued on or after January 1, 1961, and prior to January 1, 1966, either that table or, at the insurer's option, the Inter-Company Double Indemnity Mortality Table; and for policies issued prior to January 1, 1961, the Inter-Company Double Indemnity Mortality Table. Either table shall be combined with a mortality table for calculating the reserves for life insurance policies; and
+		</section>
+		<section prefix="7">For group life insurance, life insurance issued on the substandard basis, and other special benefits: Any table approved by the Commission.
+		</section>
+	</text>
+	<history>2014, c. 571.</history>
+</law>

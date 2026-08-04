@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="III" level="2">Rental Conveyances</unit>
+		<unit label="chapter" identifier="12" level="3">Virginia Residential Landlord and Tenant Act</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>55.1-1208</section_number>
+	<catch_line>Prohibited provisions in rental agreements</catch_line>
+	<text>
+		<section prefix="A">A rental agreement shall not contain provisions that the tenant:
+			<section prefix="1">Agrees to waive or forgo rights or remedies under this chapter;
+			</section>
+			<section prefix="2">Agrees to waive or forgo rights or remedies pertaining to the 120-day conversion or rehabilitation notice required in the Virginia Condominium Act (§ 55.1-1900 et seq.) or the Virginia Real Estate Cooperative Act (§ 55.1-2100 et seq.) or under § 55.1-1410;
+			</section>
+			<section prefix="3">Authorizes any person to confess judgment on a claim arising out of the rental agreement;
+			</section>
+			<section prefix="4">Agrees to pay the landlord's attorney fees except as provided in this chapter;
+			</section>
+			<section prefix="5">Agrees to the exculpation or limitation of any liability of the landlord to the tenant arising under law or to indemnify the landlord for that liability or any associated costs;
+			</section>
+			<section prefix="6">Agrees as a condition of tenancy in public housing to a prohibition or restriction of any lawful possession of a firearm within individual dwelling units unless required by federal law or regulation;
+			</section>
+			<section prefix="7">Agrees to the payment of a security deposit, insurance premiums for damage insurance, and insurance premiums for renter's insurance prior to the commencement of the tenancy that exceed the amount of two months' periodic rent; or
+			</section>
+			<section prefix="8">Agrees to waive remedies or rights under the Servicemembers Civil Relief Act, 50 U.S.C. § 3901 et seq., prior to the occurrence of a dispute between landlord and tenant. Execution of leases shall not be contingent upon the execution of a waiver of rights under the Servicemembers Civil Relief Act; however, upon the occurrence of any dispute, the landlord and tenant may execute a waiver of such rights and remedies as to that dispute in order to facilitate a resolution.
+			</section>
+		</section>
+		<section prefix="B">Any provision prohibited by subsection A that is included in a rental agreement is unenforceable. If a landlord brings an action to enforce any such provision, the tenant may recover actual damages sustained by him and reasonable attorney fees.
+		</section>
+		<section prefix="C">If the landlord is a public housing authority, the landlord shall not require a tenant to pay any fee for the maintenance or repair of any dwelling unit unless the repair is necessitated by the tenant's action or omission.
+		</section>
+	</text>
+	<history>1974, c. 680, § 55-248.9; 1977, c. 427; 1987, c. 473; 1991, c. 720; 2000, c. 760; 2002, c. 531; 2003, c. 905; 2016, c. 744; 2019, c. 712; 2020, c. 998; 2021, Sp. Sess. I, cc. 427, 477, 478; 2025, cc. 684, 688.</history>
+</law>

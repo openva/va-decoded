@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="3" level="3">Enforcement</unit>
+	</structure>
+	<section_number>20-146.29</section_number>
+	<catch_line>Expedited enforcement of child custody; determination</catch_line>
+	<text>
+		<section prefix="A">A petition under this article must be verified. Certified copies of all orders sought to be enforced and of any order confirming registration must be attached to the petition. A copy of a certified copy of an order may be attached instead of the original.
+		</section>
+		<section prefix="B">A petition for enforcement of a child custody determination must state:
+			<section prefix="1">Whether the court that issued the determination identified the jurisdictional basis it relied upon in exercising jurisdiction and, if so, what the basis was;
+			</section>
+			<section prefix="2">Whether the determination for which enforcement is sought has been vacated, stayed, or modified by a court whose decision must be enforced under this act and, if so, identify the court, the case number, and the nature of the proceeding;
+			</section>
+			<section prefix="3">Whether any proceeding has been commenced that could affect the current proceeding, including proceedings relating to domestic violence, protective orders, termination of parental rights, and adoptions and, if so, identify the court, the case number, and the nature of the proceeding;
+			</section>
+			<section prefix="4">The present physical address of the child and the respondent, if known;
+			</section>
+			<section prefix="5">Whether relief in addition to the immediate physical custody of the child and attorneys' fees is sought, including a request for assistance from law-enforcement officials and, if so, the relief sought; and
+			</section>
+			<section prefix="6">If the child custody determination has been registered under § 20-146.26, the date and place of registration.
+			</section>
+		</section>
+		<section prefix="C">Upon the filing of a petition, the court shall issue an order directing the respondent to appear in person with or without the child at a hearing and may enter any order necessary to ensure the safety of the parties and the child. The hearing must be held on the next judicial day after service of the order unless that date is impossible. In that event, the court shall hold the hearing on the first judicial day possible. The court may extend the date of hearing at the request of the petitioner.
+		</section>
+		<section prefix="D">An order issued under subsection C must state the time and place of the hearing and advise the respondent that at the hearing the court will order that the petitioner may take immediate physical custody of the child and the payment of fees, costs, and expenses under § 20-146.33, and may schedule a hearing to determine whether further relief is appropriate, unless the respondent appears and establishes that:
+			<section prefix="1">The child custody determination has not been registered under § 20-146.26, and that:
+				a. The issuing court did not have jurisdiction under Article 2 (§ 20-146.12 et seq.) of this chapter;
+				b. The child custody determination for which enforcement is sought has been vacated, stayed, or modified by a court having jurisdiction to do so under Article 2 (§ 20-146.12 et seq.) of this chapter;
+				c. The respondent was entitled to notice, but notice was not given in accordance with the standards of § 20-146.7, in the proceedings before the court that issued the order for which enforcement is sought; or
+			</section>
+			<section prefix="2">The child custody determination for which enforcement is sought was registered under § 20-146.26, but has been vacated, stayed, or modified by a court of a state having jurisdiction to do so under Article 2 (§ 20-146.12 et seq.) of this chapter.
+			</section>
+		</section>
+	</text>
+	<history>2001, c. 305.</history>
+</law>

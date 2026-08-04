@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="2" level="3">Perfection</unit>
+	</structure>
+	<section_number>8.9A-312</section_number>
+	<catch_line>Perfection of security interests in chattel paper, controllable accounts, controllable electronic records, controllable payment intangibles, deposit accounts, documents, goods covered by documents, instruments, investment property, letter-of-credit rights, and money; perfection by permissive filing, temporary perfection without filing or transfer of possession</catch_line>
+	<text>
+		<section prefix="a">Perfection by filing permitted. A security interest in chattel paper, controllable accounts, controllable electronic records, controllable payment intangibles, instruments, investment property, or negotiable documents may be perfected by filing.
+		</section>
+		<section prefix="b">Control or possession of certain collateral. Except as otherwise provided in § 8.9A-315 (c) and (d) for proceeds:
+			<section prefix="1">a security interest in a deposit account may be perfected only by control under § 8.9A-314;
+			</section>
+			<section prefix="2">except as otherwise provided in § 8.9A-308 (d), a security interest in a letter-of-credit right may be perfected only by control under § 8.9A-314;
+			</section>
+			<section prefix="3">a security interest in tangible money may be perfected only by the secured party's taking possession under § 8.9A-313; and
+			</section>
+			<section prefix="4">a security interest in electronic money may be perfected only by control under § 8.9A-314.
+			</section>
+		</section>
+		<section prefix="c">Goods covered by negotiable document. While goods are in the possession of a bailee that has issued a negotiable document covering the goods:
+			<section prefix="1">a security interest in the goods may be perfected by perfecting a security interest in the document; and
+			</section>
+			<section prefix="2">a security interest perfected in the document has priority over any security interest that becomes perfected in the goods by another method during that time.
+			</section>
+		</section>
+		<section prefix="d">Goods covered by nonnegotiable document. While goods are in the possession of a bailee that has issued a nonnegotiable document covering the goods, a security interest in the goods may be perfected by:
+			<section prefix="1">issuance of a document in the name of the secured party;
+			</section>
+			<section prefix="2">the bailee's receipt of notification of the secured party's interest; or
+			</section>
+			<section prefix="3">filing as to the goods.
+			</section>
+		</section>
+		<section prefix="e">Temporary perfection; new value. A security interest in certificated securities, negotiable documents, or instruments is perfected without filing or the taking of possession or control for a period of 20 days from the time it attaches to the extent that it arises for new value given under a signed security agreement.
+		</section>
+		<section prefix="f">Temporary perfection; goods or documents made available to debtor. A perfected security interest in a negotiable document or goods in possession of a bailee, other than one that has issued a negotiable document for the goods, remains perfected for 20 days without filing if the secured party makes available to the debtor the goods or documents representing the goods for the purpose of:
+			<section prefix="1">ultimate sale or exchange; or
+			</section>
+			<section prefix="2">loading, unloading, storing, shipping, transshipping, manufacturing, processing, or otherwise dealing with them in a manner preliminary to their sale or exchange.
+			</section>
+		</section>
+		<section prefix="g">Temporary perfection; delivery of security certificate or instrument to debtor. A perfected security interest in a certificated security or instrument remains perfected for 20 days without filing if the secured party delivers the security certificate or instrument to the debtor for the purpose of:
+			<section prefix="1">ultimate sale or exchange; or
+			</section>
+			<section prefix="2">presentation, collection, enforcement, renewal, or registration of transfer.
+			</section>
+		</section>
+		<section prefix="h">Expiration of temporary perfection. After the 20-day period specified in subsection (e), (f), or (g) expires, perfection depends upon compliance with this title.
+		</section>
+	</text>
+	<history>1973, c. 509, § 8.9-304; 1984, c. 613; 1996, c. 216, § 8.9-115; 1997, c. 343; 2000, c. 1007; 2004, c. 200; 2024, c. 652.</history>
+</law>

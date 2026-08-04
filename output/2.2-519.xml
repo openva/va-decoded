@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="B" level="3">Department of Law</unit>
+		<unit label="chapter" identifier="5" level="4">Department of Law</unit>
+		<unit label="article" identifier="3" level="5">Division of Debt Collection</unit>
+	</structure>
+	<section_number>2.2-519</section_number>
+	<catch_line>Prompt collection of accounts receivable</catch_line>
+	<text>
+		<section prefix="A">The Division shall oversee and ensure prompt delivery of the Commonwealth's accounts receivable in accordance with the Virginia Debt Collection Act (§ 2.2-4800 et seq.). The Division shall enforce the policies and procedures as set forth in § 2.2-4806 for reporting, accounting for, and collecting the Commonwealth's delinquent accounts receivable.
+		</section>
+		<section prefix="B">All agencies and institutions of the Commonwealth shall comply with all requirements established pursuant to § 2.2-4806 and by the Department of Law regarding the collection of the Commonwealth's accounts receivable.
+		</section>
+	</text>
+	<history>2008, c. 637.</history>
+</law>

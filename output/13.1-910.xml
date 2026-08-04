@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="13" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-910</section_number>
+	<catch_line>Receivership or custodianship</catch_line>
+	<text>
+		<section prefix="A">A court in a judicial proceeding brought to dissolve a corporation may appoint one or more receivers to wind up and liquidate, or one or more custodians to manage while the proceeding is pending, the business and affairs of the corporation. The court shall hold a hearing, after notifying all parties to the proceeding and any interested persons designated by the court, before appointing a receiver or custodian. The court appointing a receiver or custodian has exclusive jurisdiction over the corporation and all its property wherever located.
+		</section>
+		<section prefix="B">The court may appoint an individual, a domestic corporation, or a foreign corporation, authorized to transact business in the Commonwealth, as a receiver or custodian. The court may require the receiver or custodian to post bond, with or without sureties, in an amount the court directs.
+		</section>
+		<section prefix="C">The court shall describe the powers and duties of the receiver or custodian in its appointing order, which may be amended from time to time. Among other powers:
+			<section prefix="1">The receiver (i) may dispose of all or any part of the assets of the corporation wherever located, at a public or private sale, if authorized by the court, and (ii) may sue and defend in his own name as receiver of the corporation in all courts of the Commonwealth; and
+			</section>
+			<section prefix="2">The custodian may exercise all of the powers of the corporation, through or in place of its board of directors or officers, to the extent necessary to manage the affairs of the corporation in the best interest of its members and creditors.
+			</section>
+		</section>
+		<section prefix="D">The court during a receivership may redesignate the receiver a custodian, and during a custodianship may redesignate the custodian a receiver, if doing so is in the best interest of the corporation, its members, and creditors.
+		</section>
+		<section prefix="E">The court from time to time during the receivership or custodianship may order compensation paid and expense disbursements or reimbursements made to the receiver or custodian and the custodian's counsel from the assets of the corporation or proceeds from the sale of the assets.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13.1-258, 13.1-259; 1956, c. 428; 1985, c. 522; 2007, c. 925.</history>
+</law>

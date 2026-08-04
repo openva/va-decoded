@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="5" level="2">Securities Act</unit>
+		<unit label="article" identifier="5" level="3">Miscellaneous</unit>
+	</structure>
+	<section_number>13.1-522</section_number>
+	<catch_line>Civil liabilities</catch_line>
+	<text>
+		<section prefix="A">Any person who: (i) sells a security in violation of §§ 13.1-502, 13.1-504 A, 13.1-507 (i) or (ii), 13.1-510 (e) or (f), or (ii) sells a security by means of an untrue statement of a material fact or any omission to state a material fact necessary in order to make the statement made, in the light of the circumstances under which they were made, not misleading (the purchaser not knowing of such untruth or omission), and who shall not sustain the burden of proof that he did not know, and in the exercise of reasonable care could not have known, of such untruth or omission, shall be liable to the person purchasing such security from him who may sue either at law or in equity to recover the consideration paid for such security, together with interest thereon at the annual rate of six percent, costs, and reasonable attorneys' fees, less the amount of any income received on the security, upon the tender of such security, or for the substantial equivalent in damages if he no longer owns the security.
+		</section>
+		<section prefix="B">Any person who (i) engages in the business of advising others, for compensation, either directly or through publications or writings, as to the value of securities or as to the advisability of investing in, purchasing, or selling securities, or who, for compensation and as a part of a regular business, issues or promulgates analyses or reports concerning securities in willful and material violation of § 13.1-503, subsection A of § 13.1-504, or of any rule or order under § 13.1-505.1, or (ii) receives, directly or indirectly, any consideration from another person for advice as to the value of securities or their purchase or sale, whether through the issuance of analyses, reports or otherwise and employs any device, scheme, or artifice to defraud such other person or engages in any act, practice or course of business which operates or would operate as a fraud or deceit on such other person, shall be liable to that person who may sue either at law or in equity to recover the consideration paid for such advice and any loss due to such advice, together with interest thereon at the annual rate of six percent from the date of payment of the consideration plus costs and reasonable attorney's fees, less the amount of any income received from such advice and any other economic advantage.
+		</section>
+		<section prefix="C">Every person who directly or indirectly controls a person liable under subsection A or B of this section, including every partner, officer, or director of such a person, every person occupying a similar status or performing similar functions, every employee of such a person who materially aids in the conduct giving rise to the liability, and every broker-dealer, investment advisor, investment advisor representative or agent who materially aids in such conduct shall be liable jointly and severally with and to the same extent as such person, unless able to sustain the burden of proof that he did not know, and in the exercise of reasonable care could not have known, of the existence of the facts by reason of which the liability is alleged to exist. There shall be contribution as in cases of contract among the several persons so liable.
+		</section>
+		<section prefix="D">No suit shall be maintained to enforce any liability created under this section unless brought within two years after the transaction upon which it is based; provided, that, if any person liable by reason of subsection A, B or C of this section makes a written offer, before suit is brought, to refund the consideration paid and any loss due to any investment advice provided by such person, together with interest thereon at the annual rate of six percent, less the amount of any income received on the security or resulting from such advice, or to pay damages if the purchaser no longer owns the security, no purchaser or user of the investment advisory service shall maintain a suit under this section who has refused or failed to accept such offer within thirty days of its receipt.
+		</section>
+		<section prefix="E">Any tender specified in this section may be made at any time before entry of judgment.
+		</section>
+		<section prefix="F">Any condition, stipulation or provision binding any person acquiring any security or receiving any investment advice to waive compliance with any provision of this chapter or of any rule or order thereunder shall be void.
+		</section>
+		<section prefix="G">The rights and remedies provided by this chapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.
+		</section>
+	</text>
+	<history>Code 1950, § 13-150; 1956, c. 428; 1987, c. 678; 1997, c. 279.</history>
+</law>

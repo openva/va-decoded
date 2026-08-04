@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="32" level="2">Standard Nonforfeiture Provisions for Life Insurance</unit>
+	</structure>
+	<section_number>38.2-3203</section_number>
+	<catch_line>Same; cash surrender value in case of default</catch_line>
+	<text>
+		<section prefix="A">Any cash surrender value available under any life insurance policy issued on or after the operative date stated in § 38.2-3214 in the event of default in a premium payment due on any policy anniversary, whether or not required by § 38.2-3202, shall at least equal any excess of the present value, on that anniversary, of the future guaranteed benefits that would have been provided for by the policy, including any existing paid-up additions had there been no default, over the sum of (i) the then present value of the adjusted premiums as defined in §§ 38.2-3205 through 38.2-3209, corresponding to premiums that would have fallen due on and after that anniversary, and (ii) the amount of any indebtedness to the insurer on the policy.
+		</section>
+		<section prefix="B">For any policy issued on or after the operative date of § 38.2-3209 and providing at the option of the insured supplemental life insurance or annuity benefits for an identifiable additional premium by rider or supplemental policy provision, the cash surrender value referred to in subsection A of this section shall at least equal the sum of (i) the cash surrender value defined in subsection A for an otherwise similar policy issued at the same age without the rider or supplemental policy provision and (ii) the cash surrender value defined in subsection A for a policy providing only the benefits provided by the rider or supplemental policy provision.
+		</section>
+		<section prefix="C">For any family policy issued on or after the operative date of § 38.2-3209, defining a primary insured and providing term insurance on the life of the spouse of the primary insured expiring before the spouse achieves the age of seventy-one, the cash surrender value referred to in subsection A of this section shall at least equal the sum of (i) the cash surrender value defined in subsection A for an otherwise similar policy issued at the same age without the term insurance on the life of the spouse and (ii) the cash surrender value defined in subsection A for a policy providing only the benefits provided by the term insurance on the life of the spouse.
+		</section>
+		<section prefix="D">Any cash surrender value available within thirty days after any policy anniversary under any policy paid-up by completion of all premium payments or any policy continued under any paid-up nonforfeiture benefit, whether or not required by § 38.2-3202, shall at least equal the present value, on that anniversary, of the future guaranteed benefits provided for by the policy, including any existing paid-up additions, decreased by any indebtedness to the insurer on the policy.
+		</section>
+	</text>
+	<history>Code 1950, § 38-377; 1952, c. 317, § 38.1-462; 1982, c. 228; 1986, c. 562.</history>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="52" level="1">Police (State)</unit>
+		<unit label="chapter" identifier="13" level="2">Gaming Enforcement</unit>
+	</structure>
+	<section_number>52-54</section_number>
+	<catch_line>Office of the Gaming Enforcement Coordinator established; purpose; duties</catch_line>
+	<text>
+		<section prefix="A">The Superintendent shall designate a Department employee to serve as the Gaming Enforcement Coordinator. The purpose of the office of the Coordinator shall be to synchronize the enforcement of gaming laws by state and local law enforcement, and to serve as a liaison between such agencies and federal law enforcement.
+		</section>
+		<section prefix="B">The Coordinator shall have the following duties:
+			<section prefix="1">Coordinating enforcement of the Commonwealth's gaming laws by the Department, the Department of Agriculture and Consumer Services, and all other state agencies; attorneys for the Commonwealth; and local law enforcement;
+			</section>
+			<section prefix="2">Acting as a liaison between the federal government and the agencies identified in subdivision 1 for purposes of any federal investigation into gaming activities;
+			</section>
+			<section prefix="3">Establishing, advertising, and administering a tip line, which may be accessed by phone and by Internet, for members of the public to report concerns about, or suspected instances of, gaming activities; and
+			</section>
+			<section prefix="4">Performing any other duties as are necessary to promote and enable the equitable enforcement of gaming laws in the Commonwealth.
+			</section>
+		</section>
+	</text>
+	<history>2022, cc. 721, 768.</history>
+</law>

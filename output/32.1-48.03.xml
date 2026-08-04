@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="3.01" level="3">Isolation of Certain Persons With Communicable Diseases of Public Health Significance</unit>
+	</structure>
+	<section_number>32.1-48.03</section_number>
+	<catch_line>Petition for hearing; temporary detention</catch_line>
+	<text>
+		<section prefix="A">Upon receiving a verified report or upon receiving medical evidence that any person who has been counseled pursuant to § 32.1-48.02 has continued to engage in at-risk behavior, the Commissioner or his designee may petition the general district court of the county or city in which such person resides to order the person to appear before the court to determine whether isolation is necessary to protect the public health from the risk of infection with a communicable disease of public health significance.
+		</section>
+		<section prefix="B">If such person cannot be conveniently brought before the court, the court may issue an order of temporary detention. The officer executing the order of temporary detention shall order such person to remain confined in his home or another's residence or in some convenient and willing institution or other willing place for a period not to exceed 48 hours prior to a hearing. An electronic device may be used to enforce such detention in the person's home or another's residence. The institution or other place of temporary detention shall not include a jail or other place of confinement for persons charged with criminal offenses.
+			If the specified 48-hour period terminates on a Saturday, Sunday, legal holiday or day on which the court is lawfully closed, such person may be detained until the next day which is not a Saturday, Sunday, legal holiday or day on which the court is lawfully closed.
+		</section>
+		<section prefix="C">Any person ordered to appear before the court pursuant to this section shall be informed of his right to be represented by counsel. The court shall provide the person with reasonable opportunity to employ counsel at his own expense, if so requested. If the person is not represented by counsel, the court shall appoint an attorney-at-law to represent him. Counsel so appointed shall be paid a fee of $75 and his necessary expenses.
+		</section>
+	</text>
+	<history>1990, c. 958; 2001, c. 837; 2004, cc. 773, 1021.</history>
+</law>

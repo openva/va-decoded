@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="1" level="2">General Provisions</unit>
+		<unit label="subpart" identifier="2" level="3">Applicability of Title</unit>
+	</structure>
+	<section_number>8.9A-109</section_number>
+	<catch_line>Scope</catch_line>
+	<text>
+		<section prefix="a">General scope of title. Except as otherwise provided in subsections (c) and (d), this title applies to:
+			<section prefix="1">a transaction, regardless of its form, that creates a security interest in personal property or fixtures by contract;
+			</section>
+			<section prefix="2">an agricultural lien;
+			</section>
+			<section prefix="3">a sale of accounts, chattel paper, payment intangibles, or promissory notes;
+			</section>
+			<section prefix="4">a consignment;
+			</section>
+			<section prefix="5">a security interest arising under §§ 8.2-401, 8.2-505, 8.2-711 (3), or § 8.2A-508 (5), as provided in § 8.9A-110; and
+			</section>
+			<section prefix="6">a security interest arising under § 8.4-210 or § 8.5A-118.
+			</section>
+		</section>
+		<section prefix="b">Security interest in secured obligation. The application of this title to a security interest in a secured obligation is not affected by the fact that the obligation is itself secured by a transaction or interest to which this title does not apply.
+		</section>
+		<section prefix="c">Extent to which title does not apply. This title does not apply to the extent that:
+			<section prefix="1">a statute, regulation, or treaty of the United States preempts this title;
+			</section>
+			<section prefix="2">another statute of this Commonwealth expressly governs the creation, perfection, priority, or enforcement of a security interest created by this Commonwealth or a governmental unit of this Commonwealth;
+			</section>
+			<section prefix="3">a statute of another state, a foreign country, or a governmental unit of another state or a foreign country, other than a statute generally applicable to security interests, expressly governs creation, perfection, priority, or enforcement of a security interest created by the state, country, or governmental unit; or
+			</section>
+			<section prefix="4">the rights of a transferee beneficiary or nominated person under a letter of credit are independent and superior under § 8.5A-114.
+			</section>
+		</section>
+		<section prefix="d">Inapplicability of title. This title does not apply to:
+			<section prefix="1">a landlord's lien, other than an agricultural lien;
+			</section>
+			<section prefix="2">a lien, other than an agricultural lien, given by statute or other rule of law for services or materials, but § 8.9A-333 applies with respect to priority of the lien;
+			</section>
+			<section prefix="3">an assignment of a claim for wages, salary, or other compensation of an employee;
+			</section>
+			<section prefix="4">a sale of accounts, chattel paper, payment intangibles, or promissory notes as part of a sale of the business out of which they arose;
+			</section>
+			<section prefix="5">an assignment of accounts, chattel paper, payment intangibles, or promissory notes which is for the purpose of collection only;
+			</section>
+			<section prefix="6">an assignment of a right to payment under a contract to an assignee that is also obligated to perform under the contract;
+			</section>
+			<section prefix="7">an assignment of a single account, payment intangible, or promissory note to an assignee in full or partial satisfaction of a preexisting indebtedness;
+			</section>
+			<section prefix="8">a transfer of an interest in or an assignment of a claim under a policy of insurance or contract for an annuity including a variable, other than an assignment by or to a health-care provider of a health-care-insurance receivable and any subsequent assignment of the right to payment, but §§ 8.9A-315 and 8.9A-322 apply with respect to proceeds and priorities in proceeds;
+			</section>
+			<section prefix="9">an assignment of a right represented by a judgment, other than a judgment taken on a right to payment that was collateral;
+			</section>
+			<section prefix="10">a right of recoupment or set-off, but:
+			</section>
+		</section>
+		<section prefix="A">§ 8.9A-340 applies with respect to the effectiveness of rights of recoupment or set-off against deposit accounts; and
+		</section>
+		<section prefix="B">§ 8.9A-404 applies with respect to defenses or claims of an account debtor;
+			<section prefix="11">the creation or transfer of an interest in or lien on real property, including a lease or rents thereunder, except to the extent that provision is made for:
+			</section>
+		</section>
+		<section prefix="A">liens on real property in §§ 8.9A-203 and 8.9A-308;
+		</section>
+		<section prefix="B">fixtures in § 8.9A-334;
+		</section>
+		<section prefix="C">fixture filings in §§ 8.9A-501, 8.9A-502, 8.9A-512, 8.9A-516, and 8.9A-519; and
+		</section>
+		<section prefix="D">security agreements covering personal and real property in § 8.9A-604;
+			<section prefix="12">an assignment of a claim arising in tort, other than a commercial tort claim, but §§ 8.9A-315 and 8.9A-322 apply with respect to proceeds and priorities in proceeds;
+			</section>
+			<section prefix="13">an assignment of a deposit account in a consumer transaction, but §§ 8.9A-315 and 8.9A-322 apply with respect to proceeds and priorities in proceeds;
+			</section>
+			<section prefix="14">a sale of promissory notes by the Commonwealth or a governmental unit of the Commonwealth in connection with or in furtherance of the exercise of the borrowing power of the Commonwealth or a governmental unit of the Commonwealth.
+			</section>
+		</section>
+		<section prefix="e">Except as provided below, the creation, perfection, priority and enforcement of a security interest, lien or pledge created, made or granted by the Commonwealth or a governmental unit of the Commonwealth to pay or secure any bonds, notes, obligations or other debt securities issued thereby shall be governed by § 2.2-4902.1 and this title shall not apply to such a security interest, lien or pledge. Security interests, liens or pledges created by the Commonwealth or a governmental unit of this Commonwealth in goods or software, or the proceeds thereof, shall be governed by this title.
+		</section>
+	</text>
+	<history>1964, c. 219, §§ 8.9-102, 8.9-104; 1973, c. 509; 1974, c. 190; 1997, c. 343; 2000, c. 1007; 2001, cc. 289, 296.</history>
+</law>

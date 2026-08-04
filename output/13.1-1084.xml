@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="15" level="3">Conversion</unit>
+	</structure>
+	<section_number>13.1-1084</section_number>
+	<catch_line>Action on plan of entity conversion</catch_line>
+	<text>
+		<section prefix="A">In the case of a domestic limited liability company that is the converting entity:
+			<section prefix="1">If the limited liability company has members, unless the articles of organization or a written operating agreement of the limited liability company provides otherwise, the members shall approve the plan of entity conversion in the manner provided in the limited liability company's operating agreement for amendments to the operating agreement by the members or, if no provision is made in the operating agreement, by all the members; and
+			</section>
+			<section prefix="2">If the limited liability company has been formed without any members and no members have been admitted, the plan of entity conversion shall be approved by a majority of the persons named as a manager in the articles of organization or, if there are no members or managers, by a majority of the organizers of the limited liability company.
+			</section>
+		</section>
+		<section prefix="B">In the case of a partnership that is a converting entity, unless a written partnership agreement of the partnership provides otherwise, the plan of entity conversion shall be approved by the partners of the partnership in the manner provided in a written partnership agreement for amendments to the partnership agreement by the partners or, if no provision is made in the partnership agreement, by all the partners.
+		</section>
+		<section prefix="C">In the case of a limited partnership that is a converting entity, unless the certificate of limited partnership or a written partnership agreement of the limited partnership provides otherwise, the plan of entity conversion shall be approved by the partners of the limited partnership in the manner provided in a written partnership agreement for amendments to the partnership agreement by the partners or, if no provision is made in the partnership agreement, by all the partners.
+		</section>
+	</text>
+	<history>2016, c. 288.</history>
+</law>

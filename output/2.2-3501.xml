@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="A" level="3">General Provisions</unit>
+		<unit label="chapter" identifier="35" level="4">Information Technology Access Act</unit>
+	</structure>
+	<section_number>2.2-3501</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, unless the context requires a different meaning:
+		"Accessibility" means alignment with federal § 508 standards and § 255 guidelines adopted pursuant to 29 U.S.C. § 794d and 47 U.S.C. § 255, and 28 C.F.R. § 35.200.
+		"Accessibility Conformance Report" means a completed Voluntary Product Accessibility Template (VPAT) or other document indicating the conformance of a product to accessibility standards such as federal § 508 Standards and § 255 Guidelines adopted pursuant to 29 U.S.C. § 794d and 47 U.S.C. § 255. The Accessibility Conformance Report shall be completed by a digital accessibility subject matter expert with significant experience with product evaluation or by a qualified neutral third party.
+		"Acquired" means obtained from a third party without the need to engage in the procurement process.
+		"Covered entity" means all state agencies, public school divisions, public institutions of higher education, and political subdivisions of the Commonwealth.
+		"Head of each covered entity" means the person responsible for making executive decisions on behalf of the covered entity.
+		"Information and communications technology" or "ICT" means any website, application, or other product or service primarily intended to fulfill or enable the function of information processing and communication by electronic means, including transmission and display via the Internet.
+		"Person with a disability" means the same as that term is defined in § 51.5-40.1.
+		"Procured" means a product or service obtained through a covered entity's procurement process.
+		"Vendor Accessibility Roadmap" means a document prepared and provided by the vendor highlighting the aspects and elements of the product that do not meet accessibility standards and includes the timelines for these aspects and elements to meet such accessibility standards.
+	</text>
+	<history>1999, cc. 769, 773, § 2.1-808; 2001, c. 844; 2012, cc. 803, 835; 2016, c. 296; 2025, c. 571.</history>
+</law>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="4" level="2">Rights of Third Parties</unit>
+	</structure>
+	<section_number>8.9A-407</section_number>
+	<catch_line>Restrictions on creation or enforcement of security interest in leasehold interest or in lessor's residual interest</catch_line>
+	<text>
+		<section prefix="a">Term restricting assignment generally ineffective. Except as otherwise provided in subsection (b), a term in a lease agreement is ineffective to the extent that it:
+			<section prefix="1">prohibits, restricts, or requires the consent of a party to the lease to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security interest in, an interest of a party under the lease contract or in the lessor's residual interest in the goods; or
+			</section>
+			<section prefix="2">provides that the assignment or transfer or the creation, attachment, perfection, or enforcement of the security interest may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or remedy under the lease.
+			</section>
+		</section>
+		<section prefix="b">Effectiveness of certain terms. Except as otherwise provided in § 8.2A-303 (7), a term described in subsection (a) (2) is effective to the extent that there is:
+			<section prefix="1">a transfer by the lessee of the lessee's right of possession or use of the goods in violation of the term; or
+			</section>
+			<section prefix="2">a delegation of a material performance of either party to the lease contract in violation of the term.
+			</section>
+		</section>
+		<section prefix="c">Security interest not material impairment. The creation, attachment, perfection, or enforcement of a security interest in the lessor's interest under the lease contract or the lessor's residual interest in the goods is not a transfer that materially impairs the lessee's prospect of obtaining return performance or materially changes the duty of or materially increases the burden or risk imposed on the lessee within the purview of § 8.2A-303 (4) unless, and then only to the extent that, enforcement actually results in a delegation of material performance of the lessor.
+		</section>
+	</text>
+	<history>1991, c. 536, § 8.2A-303; 2000, c. 1007.</history>
+</law>

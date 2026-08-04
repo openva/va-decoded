@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="15" level="3">Records and Reports</unit>
+	</structure>
+	<section_number>13.1-934</section_number>
+	<catch_line>Scope of inspection right</catch_line>
+	<text>
+		<section prefix="A">A member's agent or attorney has the same inspection and copying rights as the member he represents.
+		</section>
+		<section prefix="B">The right to copy records under § 13.1-933 includes, if reasonable, the right to receive copies by xerographic or other means, including copies through an electronic transmission if available and so requested by the member.
+		</section>
+		<section prefix="C">The corporation may impose a reasonable charge, covering the costs of labor and material, for copies of any documents provided to the member. The charge may not exceed the estimated cost of production, reproduction, and transmission of the records.
+		</section>
+		<section prefix="D">The corporation may comply with a member's demand to inspect the record of members under subdivision B 3 of § 13.1-933 by providing the member with a list of its members that was compiled no earlier than the date of the member's demand.
+		</section>
+	</text>
+	<history>1985, c. 522; 2007, c. 925.</history>
+</law>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="5" level="2">Filing</unit>
+		<unit label="subpart" identifier="1" level="3">Filing Office, Contents and Effectiveness of Financing Statement</unit>
+	</structure>
+	<section_number>8.9A-503</section_number>
+	<catch_line>Name of debtor and secured party</catch_line>
+	<text>
+		<section prefix="a">Sufficiency of debtor's name. A financing statement sufficiently provides the name of the debtor:
+			<section prefix="1">except as otherwise provided in paragraph (3), if the debtor is a registered organization or the collateral is held in a trust that is a registered organization, only if the financing statement provides the name that is stated to be the registered organization's name on the public organic record most recently filed with or issued or enacted by the registered organization's jurisdiction of organization which purports to state, amend, or restate the registered organization's name;
+			</section>
+			<section prefix="2">subject to subsection (f), if the collateral is being administered by the personal representative of a decedent, only if the financing statement provides, as the name of the debtor, the name of the decedent and, in a separate part of the financing statement, indicates that the collateral is being administered by a personal representative;
+			</section>
+			<section prefix="3">if the collateral is held in a trust that is not a registered organization, only if the financing statement:
+			</section>
+		</section>
+		<section prefix="A">provides, as the name of the debtor:
+		</section>
+		<section prefix="i">if the organic record of the trust specifies a name for the trust, the name specified; or
+			<section prefix="ii">if the organic record of the trust does not specify a name for the trust, the name of the settlor or testator; and
+			</section>
+		</section>
+		<section prefix="B">in a separate part of the financing statement:
+		</section>
+		<section prefix="i">if the name is provided in accordance with subparagraph (A)(i), indicates that the collateral is held in trust; or
+			<section prefix="ii">if the name is provided in accordance with subparagraph (A)(ii), provides additional information sufficient to distinguish the trust from other trusts having one or more of the same settlors or the same testator and indicates that the collateral is held in a trust, unless the additional information so indicates;
+			</section>
+			<section prefix="4">subject to subsection (g), if the debtor is an individual to whom the Commonwealth has issued a driver's license or other document under Chapter 3 (§ 46.2-300 et seq.) of Title 46.2 that has not expired, only if it provides the name of the individual which is indicated on the driver's license or other document;
+			</section>
+			<section prefix="5">if the debtor is an individual to whom paragraph (4) does not apply, only if it provides the individual name of the debtor or the surname and first personal name of the debtor; and
+			</section>
+			<section prefix="6">in other cases:
+			</section>
+		</section>
+		<section prefix="A">if the debtor has a name, only if it provides the organizational name of the debtor; and
+		</section>
+		<section prefix="B">if the debtor does not have a name, only if it provides the names of the partners, members, associates, or other persons comprising the debtor, in a manner that each name provided would be sufficient if the person named were the debtor.
+		</section>
+		<section prefix="b">Additional debtor-related information. A financing statement that provides the name of the debtor in accordance with subsection (a) is not rendered ineffective by the absence of:
+			<section prefix="1">a trade name or other name of the debtor; or
+			</section>
+			<section prefix="2">unless required under subsection (a)(6)(B), names of partners, members, associates, or other persons comprising the debtor.
+			</section>
+		</section>
+		<section prefix="c">Debtor's trade name insufficient.  A financing statement that provides only the debtor's trade name does not sufficiently provide the name of the debtor.
+		</section>
+		<section prefix="d">Representative capacity.  Failure to indicate the representative capacity of a secured party or representative of a secured party does not affect the sufficiency of a financing statement.
+		</section>
+		<section prefix="e">Multiple debtors and secured parties.  A financing statement may provide the name of more than one debtor and the name of more than one secured party.
+		</section>
+		<section prefix="f">Name of decedent.  The name of the decedent indicated on the order appointing the personal representative of the decedent issued by the court having jurisdiction over the collateral is sufficient as the "name of the decedent" under subsection (a)(2).
+		</section>
+		<section prefix="g">Multiple driver's licenses.  If the Commonwealth has issued to an individual more than one driver's license or other document of a kind described in subsection (a)(4), the one that was issued most recently is the one to which subsection (a)(4) refers.
+		</section>
+		<section prefix="h">Definition. In this section, the "name of the settlor or testator" means:
+			<section prefix="1">if the settlor is a registered organization, the name of the registered organization indicated on the public organic record filed with or issued or enacted by the registered organization's jurisdiction of organization; or
+			</section>
+			<section prefix="2">in other cases, the name of the settlor or testator indicated in the trust's organic record.
+			</section>
+		</section>
+	</text>
+	<history>2000, c. 1007; 2009, cc. 217, 610; 2012, c. 155; 2020, cc. 1227, 1246.</history>
+</law>

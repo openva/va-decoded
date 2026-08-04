@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="35" level="2">Accident and Sickness Insurance Policies</unit>
+		<unit label="article" identifier="1" level="3">Individual Accident and Sickness Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3513</section_number>
+	<catch_line>Age limit</catch_line>
+	<text>
+		<section prefix="A">If any individual accident and sickness insurance policy contains a provision establishing, as an age limit or otherwise, a date after which the coverage provided by the policy will not be effective, and if the date falls within a period for which a premium is accepted by the insurer or if the insurer accepts a premium after the date, the coverage provided by the policy will continue in force subject to any right of cancellation until the end of the period for which the premium has been accepted.
+		</section>
+		<section prefix="B">If the age of the insured has been misstated, and if according to the correct age of the insured, the coverage provided by the policy would not have become effective or would have ceased prior to the acceptance of the premium, then the liability of the insurer shall be limited to the refund, upon request, of all premiums paid for the period not covered by the policy.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-359; 1986, c. 562.</history>
+</law>

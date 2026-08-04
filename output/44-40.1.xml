@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="3" level="3">National Guard in General</unit>
+	</structure>
+	<section_number>44-40.1</section_number>
+	<catch_line>Persons subject to the Virginia military laws</catch_line>
+	<text>
+		All members of the Virginia National Guard are subject to the military laws of Virginia when under orders to be present for duty under Title 32 of the United States Code or while in a state active duty status.
+	</text>
+	<history>1976, c. 399; 2011, cc. 572, 586.</history>
+</law>

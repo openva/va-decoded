@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="6.1" level="4">Commercial Driver's Licenses</unit>
+	</structure>
+	<section_number>46.2-341.14:8</section_number>
+	<catch_line>Test administration</catch_line>
+	<text>
+		<section prefix="A">Skills tests shall be conducted strictly in accordance with the provisions of this article and with current test instructions provided from time to time by the Department. Such instructions will include test forms and directions for completing such forms.
+		</section>
+		<section prefix="B">Skills tests shall be conducted:
+			<section prefix="1">On test routes that are located at least in part in Virginia and have been approved by the Department;
+			</section>
+			<section prefix="2">In a vehicle that is representative of the class and type of vehicle for which the commercial driver's license applicant seeks to be licensed and for which the third party tester and third party examiner are certified to test; and
+			</section>
+			<section prefix="3">In vehicles that are inspected, licensed, and insured, as required by law.
+			</section>
+		</section>
+		<section prefix="C">All third party testers shall submit a skills test schedule of commercial driver's license skills testing appointments to the Department no later than two business days prior to each test.
+		</section>
+		<section prefix="D">All third party testers shall notify the Department through secure electronic means when a driver applicant passes skills tests.
+		</section>
+	</text>
+	<history>2013, cc. 165, 582.</history>
+</law>

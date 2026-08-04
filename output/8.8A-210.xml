@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="2" level="2">Issue and Issuer</unit>
+	</structure>
+	<section_number>8.8A-210</section_number>
+	<catch_line>Overissue</catch_line>
+	<text>
+		<section prefix="a">In this section, "overissue" means the issue of securities in excess of the amount the issuer has corporate power to issue, but an overissue does not occur if appropriate action has cured the overissue.
+		</section>
+		<section prefix="b">Except as otherwise provided in subsections (c) and (d), the provisions of this title which validate a security or compel its issue or reissue do not apply to the extent that validation, issue, or reissue would result in overissue.
+		</section>
+		<section prefix="c">If an identical security not constituting an overissue is reasonably available for purchase, a person entitled to issue or validation may compel the issuer to purchase the security and deliver it if certificated or register its transfer if uncertificated, against surrender of any security certificate the person holds.
+		</section>
+		<section prefix="d">If a security is not reasonably available for purchase, a person entitled to issue or validation may recover from the issuer the price the person or the last purchaser for value paid for it with interest from the date of the person's demand.
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

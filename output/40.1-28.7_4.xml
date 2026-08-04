@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3" level="2">Protection of Employees</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>40.1-28.7:4</section_number>
+	<catch_line>Release of employee's personal identifying information</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "personal identifying information" means any of the following items of information about a current or former employee: home telephone number, mobile telephone number, email address, shift times, or work schedule.
+		</section>
+		<section prefix="B">An employer shall not, unless an exemption described in subsection C applies, be required to release, communicate, or distribute to a third party any current or former employee's personal identifying information.
+		</section>
+		<section prefix="C">The provisions of subsection B shall not apply to a release, communication, or distribution of personal identifying information that is:
+			<section prefix="1">Required pursuant to any applicable provision of federal law that preempts the provisions of this section or of state law that requires an employer to release, communicate, or distribute personal identifying information;
+			</section>
+			<section prefix="2">Ordered by a court of competent jurisdiction;
+			</section>
+			<section prefix="3">Required pursuant to a warrant issued by a judicial officer; or
+			</section>
+			<section prefix="4">Required by a subpoena issued in a pending civil or criminal case, or by discovery in a civil case.
+			</section>
+		</section>
+	</text>
+	<history>2013, c. 495.</history>
+</law>

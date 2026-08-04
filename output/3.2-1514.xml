@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="II" level="2">Boards, Councils, Foundations, and Commissions</unit>
+		<unit label="part" identifier="B" level="3">Commodity Boards</unit>
+		<unit label="chapter" identifier="15" level="4">Cotton Board</unit>
+	</structure>
+	<section_number>3.2-1514</section_number>
+	<catch_line>Falsification of records; misdemeanor</catch_line>
+	<text>
+		It is a Class 1 misdemeanor:
+		<section prefix="1">For any handler to fail to submit to the Tax Commissioner any report required pursuant to § 3.2-1512 within 60 days after the time such report is required to be submitted.
+		</section>
+		<section prefix="2">For any handler knowingly to report falsely to the Tax Commissioner any information required pursuant to § 3.2-1512.
+		</section>
+		<section prefix="3">For any producer knowingly to report falsely to the Commissioner any information required pursuant to § 3.2-1508.
+		</section>
+	</text>
+	<history>1997, c. 873, § 3.1-1103; 2008, c. 860.</history>
+</law>

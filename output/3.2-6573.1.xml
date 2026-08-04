@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="V" level="2">Domestic Animals</unit>
+		<unit label="chapter" identifier="65" level="3">Comprehensive Animal Care</unit>
+		<unit label="article" identifier="9" level="4">Cruelty to Animals</unit>
+	</structure>
+	<section_number>3.2-6573.1</section_number>
+	<catch_line>Local animal cruelty registries</catch_line>
+	<text>
+		<section prefix="A">Any locality may establish, organize, and maintain a computerized animal cruelty registry as a database of information regarding persons convicted of a felony violation of (i) cruelty to animals as provided by § 3.2-6570; (ii) animal fighting as provided by § 3.2-6571; (iii) maiming, killing, or poisoning an animal as provided by § 18.2-144; or (iv) killing or injuring a police animal as provided by § 18.2-144.1. Information on such registry may include the name and address of the offender at the time of conviction as well as the offense for which the offender was convicted and the date and place of conviction. Access to such registry may be made available to the public on the website of the locality or local police department.
+		</section>
+		<section prefix="B">On a form promulgated by a locality or local police department, a person may request removal of his name and information from a registry established in subsection A not less than 15 years after the violation that warranted inclusion in the registry, provided he has no additional felony convictions of an offense listed in subsection A.
+		</section>
+		<section prefix="C">A locality that has established a registry pursuant to subsection A may adopt ordinances and develop forms to implement the provisions of this section, including the operation and maintenance of a registry and the removal of records on persons who are deceased, whose convictions have been reversed or who have been pardoned, or who have requested removal pursuant to subsection B.
+		</section>
+		<section prefix="D">All costs to establish, organize, and maintain a locality's animal cruelty registry pursuant to this section shall be borne by such locality.
+		</section>
+	</text>
+	<history>2024, cc. 712, 758.</history>
+</law>

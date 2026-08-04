@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="3.1" level="2">Legislative Support Commission</unit>
+	</structure>
+	<section_number>30-34.4:1</section_number>
+	<catch_line>Request and distribution of state publications</catch_line>
+	<text>
+		<section prefix="A">The Commission, through the Division of Legislative Automated Systems, shall distribute to each member of the General Assembly a request form containing a checklist for selection of the Acts of Assembly, the Journals of the Senate and House of Delegates, and reports submitted to the General Assembly or any committee, subcommittee, commission, agency, or other body within the legislative branch. All requested materials shall be delivered electronically as read-only and text-searchable Portable Document Format (.pdf) files or as another widely used and accessible read-only and text-searchable electronic document format unless expressly requested otherwise.
+		</section>
+		<section prefix="B">The Division of Legislative Automated Systems shall notify each individual entitled to receive state publications listed in subsection A of the availability of the publications and that each will be forwarded to them by the appropriate entity upon written request. The Division shall forward requested reports of legislative entities and shall notify each agency, institution, collegial body, or other governmental entity outside of the legislative branch of the names of the members of the General Assembly requesting such entity's report.
+		</section>
+	</text>
+	<history>1987, c. 128; 1992, c. 857; 2003, c. 264; 2004, c. 650; 2020, c. 421.</history>
+</law>

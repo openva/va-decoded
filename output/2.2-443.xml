@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4.4" level="4">Office of the Children's Ombudsman</unit>
+	</structure>
+	<section_number>2.2-443</section_number>
+	<catch_line>Abused or neglected children; children receiving child-protective services, in foster care, or placed for adoption; powers of Children's Ombudsman; child fatality cases; investigation</catch_line>
+	<text>
+		<section prefix="A">The Ombudsman may do all of the following:
+			<section prefix="1">Determine, in the Ombudsman's sole discretion, if a complaint involves an administrative act.
+			</section>
+			<section prefix="2">Decide, in the Ombudsman's discretion, whether to investigate an administrative act.
+			</section>
+			<section prefix="3">Upon the Ombudsman's own initiative or upon receipt of a complaint and subject to an appropriation of funds, investigate an alleged violation of the rights of a foster parent.
+			</section>
+			<section prefix="4">Except as otherwise provided in this subdivision, access records and reports necessary to carry out the Ombudsman's powers and duties under this chapter to the same extent and in the same manner as provided to the Department. The Ombudsman shall be provided access to medical and mental health disorder records in the same manner as access is provided to the Department. The Ombudsman may request substance use disorder records if the Ombudsman obtains a valid consent or a court order under 42 C.F.R. Part 2. In the course of a child fatality investigation, the Ombudsman may access records from the court of jurisdiction, Attorney General, prosecuting attorney, or any attorney retained by the Department or local department and reports from a county child fatality review team to the same extent and in the same manner as provided to the Department or local department under state law.
+			</section>
+			<section prefix="5">Request a subpoena from a court requiring the production of a record or report necessary to carry out the Ombudsman's duties and powers, including a child fatality investigation. If the person to whom a subpoena is issued fails or refuses to produce the record or report, the Ombudsman may petition the court for enforcement of the subpoena.
+			</section>
+			<section prefix="6">Hold informal hearings and request that individuals appear before the Ombudsman and give testimony or produce documentary or other evidence that the Ombudsman considers relevant to a matter under investigation.
+			</section>
+			<section prefix="7">Make recommendations to the Governor and the General Assembly concerning the need for child protective services, adoption, or foster care legislation, policy, or practice without prior review by other offices, departments, or agencies in the executive branch in order to facilitate rapid implementation of recommendations or for suggested improvements to the recommendations. No other office, department, or agency shall prohibit the release of an Ombudsman's recommendation to the Governor or the General Assembly.
+			</section>
+		</section>
+		<section prefix="B">The Ombudsman may investigate all child fatality cases that occurred or are alleged to have occurred due to abuse or neglect of a child in the following situations:
+			<section prefix="1">A child died during an active child protective services investigation or open services case, or there was a valid or invalid child protective services complaint within 12 months immediately preceding the child's death.
+			</section>
+			<section prefix="2">A child died while in foster care, unless the death is determined to have resulted from natural causes and there were no prior child protective services or licensing complaints concerning the foster home.
+			</section>
+			<section prefix="3">A child was returned home from foster care and there is an active foster care case.
+			</section>
+			<section prefix="4">A foster care case involving the deceased child or sibling was closed within 24 months immediately preceding the child's death.
+			</section>
+		</section>
+		<section prefix="C">Subject to state appropriations, an investigation under subsection B shall be completed within 12 months after the Ombudsman opens a child fatality case for investigation.
+		</section>
+		<section prefix="D">The Ombudsman is subject to the same standards for safeguarding the confidentiality of information under this section and the same sanctions for unauthorized release of information as the Department.
+		</section>
+	</text>
+	<history>2020, c. 1090; 2023, c. 750.</history>
+</law>

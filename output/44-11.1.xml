@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="2" level="3">General Administrative Officers</unit>
+	</structure>
+	<section_number>44-11.1</section_number>
+	<catch_line>Duties of the Department of Military Affairs</catch_line>
+	<text>
+		<section prefix="A">The Department of Military Affairs shall support the objectives of the Governor and federal authorities by:
+			<section prefix="1">Administering and employing the Virginia Militia, as set forth in § 44-1;
+			</section>
+			<section prefix="2">Integrating into state operations all supporting Department of Defense capabilities and those forces provided by supporting states in a Title 32 or State Active Duty status;
+			</section>
+			<section prefix="3">Providing for the safety of citizens of the Commonwealth by maintaining order and public safety and assisting in counter-drug efforts, in cooperation with Virginia State Police and local law-enforcement agencies;
+			</section>
+			<section prefix="4">Preparing and executing contingency plans to provide for a timely and capable response to chemical, biological, radiological, nuclear, or explosive incidents;
+			</section>
+			<section prefix="5">Preparing and executing contingency plans necessary for the provision of homeland defense;
+			</section>
+			<section prefix="6">Ensuring the support to families of service members of the Virginia National Guard;
+			</section>
+			<section prefix="7">Administering a state at-risk program for youth; and
+			</section>
+			<section prefix="8">Recruiting a force sufficiently manned and trained to accomplish the above duties.
+			</section>
+		</section>
+		<section prefix="B">The Department of Military Affairs shall perform such other duties as may be designated by the Governor.
+		</section>
+	</text>
+	<history>2007, cc. 127, 728.</history>
+</law>

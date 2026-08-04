@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="25.1" level="1">Eminent Domain</unit>
+		<unit label="chapter" identifier="3" level="2">Transferring Defeasible Title by Certificate</unit>
+	</structure>
+	<section_number>25.1-305</section_number>
+	<catch_line>Authorized condemnor to make payment into court or file certificate of deposit before entering upon land</catch_line>
+	<text>
+		<section prefix="A">Before entering upon or taking possession of property, the authorized condemnor shall either:
+			<section prefix="1">Pay into the court wherein condemnation proceedings are pending, or are to be instituted, such sum as is required by subsection B; or
+			</section>
+			<section prefix="2">File with the court wherein condemnation proceedings are pending, or are to be instituted, a certificate of deposit issued by the authorized condemnor for such sum as is required by subsection B, which shall be deemed and held for the purpose of this chapter to be payment into the custody of such court.
+			</section>
+		</section>
+		<section prefix="B">The amount to be paid into the court as provided in subdivision A 1 or represented by a certificate of deposit as provided in subdivision A 2 shall be the amount that the authorized condemnor estimates to be the fair value of the land taken, or interest therein sought, and damage done, which estimate shall be based on a bona fide appraisal if required by § 25.1-417; however, such estimate shall not be less than the current assessed value of the land for real estate tax purposes, unless the property has physically changed in a material and substantial way since the current assessment date such that the real estate tax assessment no longer represents a fair valuation of the property, when the entire parcel for which the assessment has been made is to be acquired.
+		</section>
+		<section prefix="C">If the condemning authority makes a payment into court as provided in subdivision A 1, it shall also record a certificate of take as provided in § 25.1-307.
+		</section>
+		<section prefix="D">Payment against a certificate of deposit, when ordered by the court named therein, shall be paid by the authorized condemnor.
+		</section>
+		<section prefix="E">Nothing in this section shall make evidence of tax assessments admissible as proof of value in an eminent domain proceeding.
+		</section>
+	</text>
+	<history>2003, c. 940; 2013, c. 764.</history>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="8" level="2">Process</unit>
+		<unit label="article" identifier="4" level="3">Who to Be Served</unit>
+	</structure>
+	<section_number>8.01-325</section_number>
+	<catch_line>Return by person serving process</catch_line>
+	<text>
+		<section prefix="A">Unless otherwise directed by the court, the person serving process shall make return thereof to the clerk's office within seventy-two hours of service, except when such return would be due on a Saturday, Sunday, or legal holiday. In such case, the return is due on the next day following such Saturday, Sunday, or legal holiday. The process shall state thereon the date and manner of service and the name of the party served.
+		</section>
+		<section prefix="B">Proof of service shall be in the following manner:
+			<section prefix="1">If service by sheriff, the form of the return of such sheriff as provided by the Rules of the Supreme Court; or
+			</section>
+			<section prefix="2">If service by any other person qualified under § 8.01-293, whether service made in or out of the Commonwealth, his affidavit of such qualifications; the date and manner of service and the name of the party served; and stamped, typed, or printed on the return of process, an annotation that the service was by a private server, and the name, address, and telephone number of the server; or
+			</section>
+			<section prefix="3">In case of service by publication, the affidavit of the publisher or his agent giving the dates of publication and an accompanying copy of the published order.
+			</section>
+		</section>
+		<section prefix="C">The clerk's office shall accept a photocopy, facsimile, or other copy of the original proof of service as if it were an original, provided that the proponent provides a statement that any such copy is a true copy of the original.
+		</section>
+	</text>
+	<history>Code 1950, §§ 8-52, 8-329; 1977, c. 617; 1996, c. 538; 2020, c. 158.</history>
+</law>

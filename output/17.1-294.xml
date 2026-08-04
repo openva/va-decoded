@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="2" level="2">Clerks, Clerks' Offices and Records</unit>
+		<unit label="article" identifier="8" level="3">Secure Remote Access</unit>
+	</structure>
+	<section_number>17.1-294</section_number>
+	<catch_line>Secure remote access to land records</catch_line>
+	<text>
+		<section prefix="A">No circuit court clerk shall provide secure remote access to any land record that does not comply with the provisions of this section and the secure remote access standards developed by the Virginia Information Technologies Agency in consultation with the circuit court clerks, the Executive Secretary of the Supreme Court, the Compensation Board, and users of land and other court records.
+		</section>
+		<section prefix="B">1. Beginning July 1, 2012, any land record made available to subscribers via secure remote access may contain only the last four digits of the social security number of any party. Nothing in this subsection shall be construed to require the clerk to reinsert the last four digits of a social security number on any land record where the redaction of the entire social security number has been completed prior to July 1, 2012.
+			<section prefix="2">However, the original land record maintained by the clerk may contain a social security number if otherwise provided by law, but that original record shall not be made available via secure remote access unless it complies with this section.
+			</section>
+			<section prefix="3">Except in cases where the original record is required by law to contain a social security number, the attorney or party who prepares or submits the land record for recordation has the responsibility for ensuring that the social security number has been removed from the writing prior to the instrument's being submitted for recordation.
+			</section>
+		</section>
+		<section prefix="C">Nothing in this section shall be construed to prohibit access to any original document as provided by law.
+		</section>
+		<section prefix="D">Nothing in this section shall be construed to permit any data accessed by secure remote access to be sold or posted on any other website or in any way redistributed to any third party, and the clerk, in his discretion, may deny secure remote access to ensure compliance with these provisions. However, the data accessed by secure remote access may be included in products or services provided to a third party of the subscriber provided that (i) such data is not made available to the general public and (ii) the subscriber maintains administrative, technical, and security safeguards to protect the confidentiality, integrity, and limited availability of the data.
+		</section>
+		<section prefix="E">The clerk of the circuit court of any jurisdiction shall be immune from suit arising from any acts or omissions relating to providing secure remote access to land records pursuant to this section unless the clerk was grossly negligent or engaged in willful misconduct.
+		</section>
+	</text>
+	<history>2007, cc. 548, 626; 2009, c. 312; 2011, c. 715; 2012, c. 234.</history>
+</law>

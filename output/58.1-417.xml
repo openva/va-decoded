@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-417</section_number>
+	<catch_line>Motor carriers; apportionment</catch_line>
+	<text>
+		<section prefix="A">Motor carriers of property or passengers shall apportion their net apportionable income to this Commonwealth by the use of the ratio of vehicle miles in this Commonwealth to total vehicle miles of the corporation everywhere. For the purposes of this section the words "vehicle miles" in the case of motor carriers of property shall mean miles traveled by vehicles (whether owned or operated by the corporation) hauling property for a charge or traveling on a scheduled route. In the case of motor carriers of passengers the same shall mean miles traveled by vehicles (whether owned or operated by the corporation) carrying passengers for a fare or traveling on a scheduled route.
+		</section>
+		<section prefix="B">The provisions of subsection A shall not be applicable to a carrier:
+			<section prefix="1">Which neither owns nor rents real or tangible personal property within this Commonwealth, except vehicles, which has made no pick-ups or deliveries within this Commonwealth, and which has traveled less than 50,000 vehicle miles in this Commonwealth in the taxable year; or
+			</section>
+			<section prefix="2">Which neither owns nor rents any real or tangible personal property within this Commonwealth, except vehicles, and which makes no more than twelve round trips into this Commonwealth during a taxable year.
+				The mileage traveled under 50,000 miles or the mileage traveled in such round trips, however, may not represent more than 5 percent of the total miles annually traveled in all states by such carrier.
+			</section>
+		</section>
+		<section prefix="C">Any eligible company, as defined in § 58.1-405.1, may subtract its vehicle miles traveled in any qualified locality or qualified localities, as defined in § 58.1-405.1, during the taxable year from the numerator of the ratio in subsection A. Such eligible company may make such modification for the taxable year in which it first becomes eligible and for the six subsequent, consecutive taxable years, except for any year in which the eligible company's (i) total, cumulative new capital investment falls below the applicable initial threshold or (ii) number of new jobs falls below the applicable initial threshold.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.050; 1971, Ex. Sess., c. 171; 1977, c. 658; 1984, c. 675; 2018, cc. 801, 802.</history>
+</law>

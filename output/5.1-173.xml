@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="5.1" level="1">Aviation</unit>
+		<unit label="chapter" identifier="10" level="2">Metropolitan Washington Airports Authority</unit>
+	</structure>
+	<section_number>5.1-173</section_number>
+	<catch_line>Jurisdiction of courts; liability for contracts and torts</catch_line>
+	<text>
+		<section prefix="A">The courts of the Commonwealth of Virginia shall have original jurisdiction of all actions brought by or against the Authority, which courts shall in all cases apply the law of the Commonwealth of Virginia.
+		</section>
+		<section prefix="B">The Authority shall be liable for its contracts and for its torts and those of its members, officers, employees, and agents committed in the conduct of any proprietary function, in accordance with the law of the Commonwealth of Virginia but shall not be liable for any torts occurring in the performance of a governmental function. The exclusive remedy for such breach of contracts and torts for which the Authority shall be liable, as herein provided, shall be by suit against the Authority. Nothing in this act shall be construed as a waiver by the Commonwealth of Virginia or the District of Columbia or of their political subdivisions of any immunity from suit.
+		</section>
+		<section prefix="C">The Authority shall be responsible for all executory contracts entered into by the United States with respect to the former Metropolitan Washington Airports before the date of acquisition of those airports, except that the procedure for disputes resolution contained in any such contract shall continue to govern the performance of the contract unless otherwise agreed to by the parties to the contract.
+		</section>
+		<section prefix="D">The Authority shall not be responsible for any tort claims arising before the date of transfer.
+		</section>
+	</text>
+	<history>2001, c. 342.</history>
+</law>

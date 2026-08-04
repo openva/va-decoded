@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1426</section_number>
+	<catch_line>Application of earnings tests</catch_line>
+	<text>
+		If the issuing, assuming or guaranteeing business entity has not been in operation for the entire period for which earnings are being applied pursuant to § 38.2-1424, the earnings tests shall be based upon pro forma statements incorporating statements of any predecessor or constituent business entity for that portion of the earnings tests period that the current business entity was not in operation, if:
+		<section prefix="1">The current business entity was formed as a consolidation or a merger of two or more business entities, at least one of which was in operation at the beginning of the period; or
+		</section>
+		<section prefix="2">The current business entity has acquired all of the assets of a business entity or any division or other unit of a business entity that was in operation at the beginning of the test period.
+		</section>
+	</text>
+	<history>1983, c. 457, § 38.1-217.29; 1986, c. 562; 1992, c. 588; 2000, c. 155; 2002, c. 147.</history>
+</law>

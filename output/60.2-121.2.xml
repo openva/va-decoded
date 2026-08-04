@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions and Administration</unit>
+		<unit label="article" identifier="2" level="3">Administration</unit>
+	</structure>
+	<section_number>60.2-121.2</section_number>
+	<catch_line>Electronic submission of information; payments</catch_line>
+	<text>
+		<section prefix="A">Each employer subject to the provisions of this title shall submit claim-related forms, including separation information, using an electronic format as prescribed by the Commission, unless the employer has been granted a waiver by the Commission. An employer shall submit any other information related to a claim, as defined in § 60.2-528.1, at any time when requested by the Commission, to the Commission by electronic means, unless the employer has been granted a waiver by the Commission. The Commission may also require, at any time, that an employer submit unemployment insurance tax payments electronically, unless the employer has been granted a waiver by the Commission.
+		</section>
+		<section prefix="B">The Commission may grant a waiver to an employer from providing information or payments electronically pursuant to this section at any time. The Commission may grant a waiver only if the Commission finds that the electronic submission requirement creates an unreasonable burden on the employer. All requests for a waiver shall be submitted in writing.
+		</section>
+	</text>
+	<history>2022, cc. 716, 754.</history>
+</law>

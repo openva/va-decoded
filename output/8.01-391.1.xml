@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="14" level="2">Evidence</unit>
+		<unit label="article" identifier="2.1" level="3">Check Clearing for the 21St Century Evidence Act</unit>
+	</structure>
+	<section_number>8.01-391.1</section_number>
+	<catch_line>Substitute checks as evidence (Supreme Court Rule 2:1003 derived from subsections A and B of this section)</catch_line>
+	<text>
+		<section prefix="A">A substitute check created pursuant to the federal Check Clearing for the 21st Century Evidence Act (Check 21 Act), 12 U.S.C. § 5001 et seq., shall be admissible in evidence in any legal proceeding, civil or criminal, to the same extent the original check would be.
+		</section>
+		<section prefix="B">A document received from a banking institution that is designated as a "substitute check" and that bears the legend "This is a legal copy of your check. You can use it the same way you would use the original check" shall be presumed to be a substitute check created pursuant to the Check 21 Act.
+		</section>
+		<section prefix="C">Any person who shall forge a substitute check or utter or attempt to employ as true any forged substitute check shall be punished as provided in § 18.2-172.
+		</section>
+	</text>
+	<history>2006, c. 127.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="C" level="3">Guardianship of Minor</unit>
+		<unit label="chapter" identifier="19" level="4">Virginia Uniform Transfers to Minors Act</unit>
+	</structure>
+	<section_number>64.2-1901</section_number>
+	<catch_line>Scope and jurisdiction</catch_line>
+	<text>
+		<section prefix="A">This chapter applies to any transfer that refers to the Uniform Transfers to Minors Act or this chapter in the designation under subsection A of § 64.2-1908 by which the transfer is made if, at the time of the transfer, the transferor, the minor, or the custodian is a resident of the Commonwealth or the custodial property is located in the Commonwealth. The custodianship so created remains subject to this chapter despite a subsequent change in residence of a transferor, the minor, or the custodian or the removal of custodial property from the Commonwealth.
+		</section>
+		<section prefix="B">A person designated as custodian under this chapter is subject to personal jurisdiction in the Commonwealth with respect to any matter relating to the custodianship.
+		</section>
+		<section prefix="C">A transfer that purports to be made and that is valid under the Uniform Transfers to Minors Act, the Uniform Gifts to Minors Act, or a substantially similar act of another state is governed by the law of the designated state and may be executed and is enforceable in the Commonwealth if, at the time of the transfer, the transferor, the minor, or the custodian is a resident of the designated state or the custodial property is located in the designated state.
+		</section>
+	</text>
+	<history>1988, c. 516, § 31-38; 2012, c. 614.</history>
+</law>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="11" level="3">Merger</unit>
+	</structure>
+	<section_number>13.1-896</section_number>
+	<catch_line>Articles of merger</catch_line>
+	<text>
+		<section prefix="A">After a plan of merger has been adopted and approved as required by this Act, articles of merger shall be executed on behalf of each party to the merger. The articles shall set forth:
+			<section prefix="1">The plan of merger, the names of the parties to the merger, and, for each party that is a foreign corporation or eligible entity, the name of the state or country under whose law it is incorporated or formed;
+			</section>
+			<section prefix="2">If the articles of incorporation of a domestic corporation that is the survivor of a merger are amended, or if a new domestic corporation is created as a result of a merger, as an attachment to the articles of merger, the amendments to the survivor's articles of incorporation or the articles of incorporation of the new corporation;
+			</section>
+			<section prefix="3">The date the plan of merger was adopted by each domestic corporation that was a party to the merger;
+			</section>
+			<section prefix="4">If the plan of merger required approval by the members of a domestic corporation that was a party to the merger, either:
+				a. A statement that the plan was approved by the unanimous consent of the members; or
+				b. A statement that the plan was submitted to the members by the board of directors in accordance with this Act, and a statement of:
+				<section prefix="1">The designation of and number of votes entitled to be cast by each voting group entitled to vote separately on the plan; and
+				</section>
+				<section prefix="2">Either the total number of votes cast for and against the plan by each voting group entitled to vote separately on the plan or the total number of undisputed votes cast for the plan separately by each voting group and a statement that the number cast for the plan by each voting group was sufficient for approval by that voting group.
+				</section>
+			</section>
+			<section prefix="5">If the plan of merger was adopted by the directors without approval by the members of a domestic corporation that was a party to the merger, a statement that the plan of merger was duly approved by the vote of a majority of the directors in office, including the reason member approval was not required; and
+			</section>
+			<section prefix="6">As to each foreign corporation or eligible entity that was a party to the merger, a statement that the participation of the foreign corporation or eligible entity was duly authorized as required by the organic law of the corporation or eligible entity.
+			</section>
+		</section>
+		<section prefix="B">Articles of merger shall be filed with the Commission by the survivor of the merger. If the Commission finds that the articles of merger comply with the requirements of law and that all required fees have been paid, it shall issue a certificate of merger. Articles of merger filed under this section may be combined with any filing required under the organic law of any domestic eligible entity involved in the transaction if the combined filing satisfies the requirements of both this section and the other organic law.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13.1-243, 13.1-244; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2000, c. 53; 2003, c. 597; 2007, c. 925; 2009, c. 216.</history>
+</law>

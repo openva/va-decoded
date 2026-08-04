@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="26" level="2">Uniform Trade Secrets Act</unit>
+	</structure>
+	<section_number>59.1-336</section_number>
+	<catch_line>Short title and definitions</catch_line>
+	<text>
+		As used in this chapter, which may be cited as the Uniform Trade Secrets Act, unless the context requires otherwise:
+		"Improper means" includes theft, bribery, misrepresentation, use of a computer or computer network without authority, breach of a duty or inducement of a breach of a duty to maintain secrecy, or espionage through electronic or other means.
+		"Misappropriation" means:
+		<section prefix="1">Acquisition of a trade secret of another by a person who knows or has reason to know that the trade secret was acquired by improper means; or
+		</section>
+		<section prefix="2">Disclosure or use of a trade secret of another without express or implied consent by a person who
+			a. Used improper means to acquire knowledge of the trade secret; or
+			b. At the time of disclosure or use, knew or had reason to know that his knowledge of the trade secret was
+			<section prefix="1">Derived from or through a person who had utilized improper means to acquire it;
+			</section>
+			<section prefix="2">Acquired under circumstances giving rise to a duty to maintain its secrecy or limit its use;
+			</section>
+			<section prefix="3">Derived from or through a person who owed a duty to the person seeking relief to maintain its secrecy or limit its use; or
+			</section>
+			<section prefix="4">Acquired by accident or mistake.
+				"Person" means a natural person, corporation, business trust, estate, trust, partnership, association, joint venture, government, governmental subdivision or agency, or any other legal or commercial entity.
+				"Trade secret" means information, including but not limited to, a formula, pattern, compilation, program, device, method, technique, or process, that:
+			</section>
+		</section>
+		<section prefix="1">Derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use, and
+		</section>
+		<section prefix="2">Is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.
+		</section>
+	</text>
+	<history>1986, c. 210; 2009, cc. 321, 376.</history>
+</law>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="2" level="3">Perfection</unit>
+	</structure>
+	<section_number>8.9A-310</section_number>
+	<catch_line>When filing required to perfect security interest or agricultural lien; security interests and agricultural liens to which filing provisions do not apply</catch_line>
+	<text>
+		<section prefix="a">General rule; perfection by filing. Except as otherwise provided in subsection (b) and § 8.9A-312 (b), a financing statement must be filed to perfect all security interests and agricultural liens.
+		</section>
+		<section prefix="b">Exceptions; filing not necessary. The filing of a financing statement is not necessary to perfect a security interest:
+			<section prefix="1">that is perfected under § 8.9A-308 (d), (e), (f), or (g);
+			</section>
+			<section prefix="2">that is perfected under § 8.9A-309 when it attaches;
+			</section>
+			<section prefix="3">in property subject to a statute, regulation, or treaty described in § 8.9A-311 (a);
+			</section>
+			<section prefix="4">in goods in possession of a bailee that is perfected under § 8.9A-312 (d) (1) or (2);
+			</section>
+			<section prefix="5">in certificated securities, documents, goods, or instruments that is perfected without filing, control, or possession under § 8.9A-312 (e), (f), or (g);
+			</section>
+			<section prefix="6">in collateral in the secured party's possession under § 8.9A-313;
+			</section>
+			<section prefix="7">in a certificated security which is perfected by delivery of the security certificate to the secured party under § 8.9A-313;
+			</section>
+			<section prefix="8">in controllable accounts, controllable electronic records, controllable payment intangibles, deposit accounts, electronic documents, investment property, or letter-of-credit rights which is perfected by control under § 8.9A-314;
+				(8.1) in chattel paper which is perfected by possession and control under § 8.9A-314.1.
+			</section>
+			<section prefix="9">in proceeds which is perfected under § 8.9A-315; or
+			</section>
+			<section prefix="10">that is perfected under § 8.9A-316.
+			</section>
+		</section>
+		<section prefix="c">Assignment of perfected security interest. If a secured party assigns a perfected security interest or agricultural lien, a filing under this title is not required to continue the perfected status of the security interest against creditors of and transferees from the original debtor.
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-302; 1966, c. 569; 1973, c. 509; 1983, cc. 204, 367; 1984, c. 613; 1996, c. 216; 2000, c. 1007; 2004, c. 200; 2024, c. 652.</history>
+</law>

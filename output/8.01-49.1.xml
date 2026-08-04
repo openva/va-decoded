@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="4" level="3">Defamation</unit>
+	</structure>
+	<section_number>8.01-49.1</section_number>
+	<catch_line>Liability for defamatory material on the Internet</catch_line>
+	<text>
+		<section prefix="A">No provider or user of an interactive computer service on the Internet shall be treated as the publisher or speaker of any information provided to it by another information content provider. No provider or user of an interactive computer service shall be liable for (i) any action voluntarily taken by it in good faith to restrict access to, or availability of, material that the provider or user considers to be obscene, lewd, lascivious, excessively violent, harassing, or intended to incite hatred on the basis of race, religious conviction, gender, disability, gender identity, sexual orientation, color, or ethnic or national origin, whether or not such material is constitutionally protected, or (ii) any action taken to enable, or make available to information content providers or others, the technical means to restrict access to information provided by another information content provider.
+		</section>
+		<section prefix="B">As used in this section:
+			"Disability" means a physical or mental impairment that substantially limits one or more of a person's major life activities.
+			"Information content provider" means any person or entity that is responsible, in whole or in part, for the creation or development of information provided through the Internet or any other interactive computer service.
+			"Interactive computer service" means any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server, including specifically a service or system that provides access to the Internet and such systems operated or services offered by libraries or educational institutions.
+			"Internet" means the international computer network of interoperable packet-switched data networks.
+		</section>
+	</text>
+	<history>2000, c. 930; 2020, cc. 746, 1171; 2024, cc. 266, 334.</history>
+</law>

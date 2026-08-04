@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8.1" level="3">Derivative Proceedings and Other Shareholder Actions</unit>
+	</structure>
+	<section_number>13.1-672.1</section_number>
+	<catch_line>Standing; condition precedent; stay of proceedings</catch_line>
+	<text>
+		<section prefix="A">A shareholder shall not commence or maintain a derivative proceeding unless the shareholder:
+			<section prefix="1">Was a shareholder of the corporation at the time of the act or omission complained of, became a shareholder through transfer by operation of law from one who was a shareholder at that time, or became a shareholder before public disclosure and without knowledge of the act or omission complained of;
+			</section>
+			<section prefix="2">Was a shareholder at the time the shareholder made the written demand required by subdivision B 1; and
+			</section>
+			<section prefix="3">Fairly and adequately represents the interests of the corporation in enforcing the right of the corporation.
+			</section>
+		</section>
+		<section prefix="B">No shareholder may commence a derivative proceeding until:
+			<section prefix="1">A written demand has been made on the corporation to take suitable action; and
+			</section>
+			<section prefix="2">Ninety days have expired from the date delivery of the written demand was made on the corporation unless (i) the shareholder has earlier been notified that the demand has been rejected by the corporation or (ii) irreparable injury to the corporation would result by waiting for the expiration of the 90-day period.
+			</section>
+		</section>
+		<section prefix="C">If the corporation commences an inquiry into the allegations made in the demand or complaint, the court may stay any derivative proceeding for such period as the court deems appropriate.
+		</section>
+	</text>
+	<history>1992, c. 802; 2007, c. 165; 2010, c. 782; 2019, c. 734.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="IV" level="2">Other Sources of State Revenue</unit>
+		<unit label="chapter" identifier="41" level="3">Casino Gaming</unit>
+		<unit label="article" identifier="3" level="4">Licenses</unit>
+	</structure>
+	<section_number>58.1-4113</section_number>
+	<catch_line>Electronic accounting and reporting requirements; annual audit of licensed gaming operations</catch_line>
+	<text>
+		<section prefix="A">Each casino game that operates electronically shall be connected to a central monitoring and audit system established and operated by the Department. Such system shall provide the ability to audit and account for terminal revenues and distributions in real time. The central monitoring and audit system shall collect the following information from each electronically operated casino game, as applicable: (i) cash in, (ii) cash out, (iii) points played, (iv) points won, (v) gross terminal income, (vi) net terminal income, (vii) the number of plays of the game, (viii) the amounts paid to play the game, (ix) door openings, (x) power failures, (xi) remote activations and disabling, and (xii) any other information required by Board regulations.
+		</section>
+		<section prefix="B">Within 90 days after the end of each fiscal year, the licensed operator shall transmit to the Department a third-party, independent audit of the financial transactions and condition of the licensee's total operations. All audits required by this section shall conform to Board regulations.
+		</section>
+	</text>
+	<history>2020, cc. 1197, 1248.</history>
+</law>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="10" level="3">Entities Conducting Trust Business</unit>
+		<unit label="article" identifier="6" level="4">Trust Powers of Savings Institutions</unit>
+	</structure>
+	<section_number>6.2-1089</section_number>
+	<catch_line>Funds awaiting investment or distribution</catch_line>
+	<text>
+		<section prefix="A">Funds and assets held in a fiduciary capacity by an association awaiting investment or distribution shall not be held uninvested or undistributed any longer than is reasonable for the proper management of the trust account.
+		</section>
+		<section prefix="B">Funds and assets held in trust by an association, including managing agency accounts, awaiting investment or distribution, unless prohibited by the governing instrument, may be deposited in other departments of the association, provided that the association shall first set aside under the sole control of the trust department, as collateral security:
+			<section prefix="1">Direct obligations of the United States, or other obligations fully guaranteed by the United States as to principal and interest;
+			</section>
+			<section prefix="2">Readily marketable securities of the classes in which fiduciaries are authorized or permitted to invest trust funds, as set forth in § 64.2-1502; or
+			</section>
+			<section prefix="3">Other readily marketable securities as may be authorized by the Commissioner.
+				Such collateral securities, or securities substituted therefor as collateral, shall at all times be at least equal in face value to the amount of trust funds so deposited, but such security shall not be required to the extent that the funds so deposited are insured by the Federal Deposit Insurance Corporation or other federal insurance agency. The requirements of this subsection are met when qualifying assets of the association are pledged in such manner as to fully secure all trust account funds deposited by the trust department of the association in another department of the association.
+			</section>
+		</section>
+		<section prefix="C">Any funds held by an association as fiduciary awaiting investment or distribution and deposited in other departments of the association shall be made productive.
+		</section>
+		<section prefix="D">In the event of the failure or liquidation of an association, the owners of the funds held in trust and deposited in another department of the association shall have a first lien on the securities set apart as collateral for such funds, in addition to any other claim that such owners may have against the association.
+		</section>
+	</text>
+	<history>1984, c. 303, § 6.1-195.86; 1990, c. 3; 1992, c. 810; 2010, c. 794.</history>
+</law>

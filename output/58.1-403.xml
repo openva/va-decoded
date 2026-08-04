@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-403</section_number>
+	<catch_line>Additional modifications to determine Virginia taxable income for certain corporations</catch_line>
+	<text>
+		In addition to the modifications set forth in § 58.1-402 for determining Virginia taxable income for corporations generally, the adjustments set forth in subdivision 1 shall be made to the federal taxable income for savings institutions and as set forth in subdivisions 2 and 3 for railway companies, as set forth in subdivisions 6 and 7 for telecommunications companies, and as set forth in subdivisions 8 and 9 for gas suppliers, pipeline distribution companies and gas utilities.
+		<section prefix="1">There shall be added the deduction allowed for bad debts. The percentage which would have been used in determining the bad debt deduction under the Internal Revenue Code of 1954, as in effect immediately prior to the enactment of the Tax Reform Act of 1986 (Public Law 99-514), shall then be applied to federal taxable income as adjusted under the provisions of § 58.1-402 and the amount so determined subtracted therefrom.
+		</section>
+		<section prefix="2">There shall be added to federal taxable income any amount which was deducted in determining taxable income as a net operating loss carryover from any taxable year beginning on or before December 31, 1978.
+		</section>
+		<section prefix="3">Where such railway company would have been allowed to deduct an amount as a net operating loss carryover or net capital loss carryover in determining taxable income for a taxable year beginning after December 31, 1978, but for the fact that such loss, or a portion of such loss, had been carried back in determining taxable income for a taxable year beginning prior to January 1, 1979, there shall be added to federal taxable income any amount which was actually deducted in determining taxable income as a net operating loss carryover or net capital loss carryover and there shall be subtracted from federal taxable income the amount which could have been deducted as a net operating loss carryover or net capital loss carryover in arriving at taxable income but for the fact that such loss, or a portion of such loss, had been carried back for federal purposes.
+			4., 5. [Repealed.]
+		</section>
+		<section prefix="6">There shall be added to federal taxable income any amount which was deducted in determining taxable income as a net operating loss carryover from any taxable year beginning on or before December 31, 1988.
+		</section>
+		<section prefix="7">Where such telecommunications company would have been allowed to deduct an amount as a net operating loss carryover or net capital loss carryover in determining taxable income for a taxable year beginning after December 31, 1988, but for the fact that such loss, or a portion of such loss, had been carried back in determining taxable income for a taxable year beginning prior to January 1, 1989, there shall be added to federal taxable income any amount which was actually deducted in determining taxable income as a net operating loss carryover or net capital loss carryover and there shall be subtracted from federal taxable income the amount which could have been deducted as a net operating loss carryover or net capital loss in arriving at taxable income but for the fact that such loss, or a portion of such loss, had been carried back for federal purposes.
+		</section>
+		<section prefix="8">There shall be added to federal taxable income any amount that was deducted in determining taxable income as a net operating loss carryover from any taxable year beginning on or before December 31, 2000.
+		</section>
+		<section prefix="9">Where such gas supplier, pipeline distribution company or gas utility would have been allowed to deduct an amount as a net operating loss carryover or net capital loss carryover in determining taxable income for a taxable year beginning after December 31, 2000, but for the fact that such loss, or a portion of such loss, had been carried back in determining taxable income for a taxable year beginning prior to January 1, 2001, there shall be added to federal taxable income any amount that was actually deducted in determining taxable income as a net operating loss carryover or net capital loss carryover and there shall be subtracted from federal taxable income the amount that could have been deducted as a net operating loss carryover or net capital loss in arriving at taxable income but for the fact that such loss, or a portion of such loss, had been carried back for federal purposes.
+		</section>
+	</text>
+	<history>Code 1950, §§ 58-151.032:1, 58-151.032:2; 1972, c. 310; 1973, c. 198; 1978, c. 784; 1979, c. 226; 1981, c. 402; 1982, c. 633; 1984, cc. 672, 675; 1985, c. 221; 1987, c. 614; 1988, c. 899; 1996, c. 77; 2000, cc. 691, 706.</history>
+</law>

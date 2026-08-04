@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="28.2" level="1">Fisheries and Habitat of the Tidal Waters</unit>
+		<unit label="subtitle" identifier="II" level="2">Tidal Fisheries</unit>
+		<unit label="chapter" identifier="2" level="3">General Provisions</unit>
+		<unit label="article" identifier="5" level="4">Licensing Generally</unit>
+	</structure>
+	<section_number>28.2-228.1</section_number>
+	<catch_line>Seafood landing licenses</catch_line>
+	<text>
+		<section prefix="A">The Commission may by regulation establish licenses for the landing of seafood in Virginia, the fee for which shall not exceed $150 or as subsequently revised by the Commission pursuant to § 28.2-201. The regulations may limit the number of such licenses that may be issued and may establish eligibility criteria. Fees collected from the sale of seafood landing licenses shall be deposited to the Marine Fishing Improvement Fund established in § 28.2-208.
+		</section>
+		<section prefix="B">The Commission may grant exceptions to the license requirement established in subsection A to any person registered as a commercial fisherman under the provisions of § 28.2-241.
+		</section>
+		<section prefix="C">The following shall be Class 3 misdemeanors: (i) landing seafood without the license that may be required under this section and (ii) failure to produce or have available for inspection the license that may be required under this section when requested by any officer. Failure to produce the license is prima facie evidence that the person is landing seafood without a license.
+		</section>
+	</text>
+	<history>1996, c. 214; 2009, c. 9.</history>
+</law>

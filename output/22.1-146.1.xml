@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="10" level="2">Literary Fund</unit>
+	</structure>
+	<section_number>22.1-146.1</section_number>
+	<catch_line>School modernization loan interest rate subsidy payments</catch_line>
+	<text>
+		<section prefix="A">The Board of Education shall establish a program to subsidize interest payments on certain loans made by the Virginia Public School Authority to local governing bodies and school boards for the design and construction of new school buildings and facilities or the modernization and maintenance of existing school buildings and facilities as follows:
+			<section prefix="1">For school divisions with a composite index of local ability-to-pay that is greater than 0.2500 but less than 0.4000 at the time an application to the program is made, the Board may subsidize up to 50 percent of the interest due on such loan; or
+			</section>
+			<section prefix="2">For school divisions with a composite index of local ability-to-pay that is 0.2500 or less at the time an application to the program is made, the Board may subsidize up to 100 percent of the interest rate on such loan.
+			</section>
+		</section>
+		<section prefix="B">The aggregate amount of subsidies provided pursuant to this section shall not exceed the allocation specified in the general appropriation act for each fiscal year.
+		</section>
+		<section prefix="C">For each loan, the annual subsidy amount shall not include both:
+			<section prefix="1">Interest or other loan-related costs related to any part of the loan that exceed $7.5 million in loan value; and
+			</section>
+			<section prefix="2">Interest on any part of the loan that exceeds the rate that the local governing body or school board would have obtained for such loan under the provisions of §§ 22.1-146 and 22.1-150.
+			</section>
+		</section>
+	</text>
+	<history>2019, c. 807.</history>
+</law>

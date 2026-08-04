@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="9" level="4">Apportionment at Beginning and End of Income Interest</unit>
+	</structure>
+	<section_number>64.2-1073</section_number>
+	<catch_line>When right to income begins and ends</catch_line>
+	<text>
+		<section prefix="A">An income beneficiary is entitled to net income in accordance with the terms of the trust from the date an income interest begins. The income interest begins on the date specified in the terms of the trust or, if no date is specified, on the date an asset becomes subject to:
+			<section prefix="1">The trust for the current income beneficiary; or
+			</section>
+			<section prefix="2">A successive interest for a successor beneficiary.
+			</section>
+		</section>
+		<section prefix="B">An asset becomes subject to a trust under subdivision A 1:
+			<section prefix="1">For an asset that is transferred to the trust during the settlor's life, on the date the asset is transferred;
+			</section>
+			<section prefix="2">For an asset that becomes subject to the trust because of a decedent's death, on the date of the decedent's death, even if there is an intervening period of administration of the decedent's estate; or
+			</section>
+			<section prefix="3">For an asset that is transferred to a fiduciary by a third party because of a decedent's death, on the date of the decedent's death.
+			</section>
+		</section>
+		<section prefix="C">An asset becomes subject to a successive interest under subdivision A 2 on the day after the preceding income interest ends, as determined under subsection D, even if there is an intervening period of administration to wind up the preceding income interest.
+		</section>
+		<section prefix="D">An income interest ends on the day before an income beneficiary dies or another terminating event occurs or on the last day of a period during which there is no beneficiary to which a fiduciary may or must distribute income.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

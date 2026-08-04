@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="V" level="2">Domestic Animals</unit>
+		<unit label="chapter" identifier="65" level="3">Comprehensive Animal Care</unit>
+		<unit label="article" identifier="13" level="4">Animal Research</unit>
+	</structure>
+	<section_number>3.2-6592</section_number>
+	<catch_line>Manufacturers and contract testing facilities required to use alternative test methods when available</catch_line>
+	<text>
+		<section prefix="A">No manufacturer or contract testing facility shall use an animal test method when an alternative test method is available.
+		</section>
+		<section prefix="B">Nothing in this section shall prohibit the use of a test method that does not use animals.
+		</section>
+		<section prefix="C">This section shall not apply to any manufacturer or contract test facility using an animal test method for the purpose of medical research related to the causes, diagnosis, treatment, control, or prevention of physical or mental diseases and impairments of humans and animals, or related to the development of devices or drugs, as those terms are defined in 21 U.S.C. § 321, biomedical products, or any other products regulated by the U.S. Food and Drug Administration, except for any product regulated under Subchapter VI of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. § 301 et seq.). Such medical research does not include the testing of an ingredient that (i) was formerly used in a drug; (ii) was tested for use in a drug using commonly accepted animal testing methods to characterize the ingredient and to substantiate its safety for human use; and (iii) is proposed for use in a product other than a biomedical product, medical device, or drug.
+		</section>
+	</text>
+	<history>2018, c. 672.</history>
+</law>

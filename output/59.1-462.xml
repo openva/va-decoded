@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="38" level="2">Virginia Music Licensing Fees Act</unit>
+	</structure>
+	<section_number>59.1-462</section_number>
+	<catch_line>Royalty contract requirements</catch_line>
+	<text>
+		Every contract for the payment of royalties between a proprietor and a performing rights society executed, issued or renewed in the Commonwealth on or after July 1, 1995, shall be:
+		<section prefix="1">In writing;
+		</section>
+		<section prefix="2">Signed by the parties;
+		</section>
+		<section prefix="3">Written to include, at a minimum, the following information:
+			a. The proprietor's name and business address and the name and location of each place of business to which the contract applies;
+			b. The name of the performing rights society;
+			c. The duration of the contract; and
+			d. The schedule of rates and terms of the royalties to be collected under the contract, including any sliding scale or schedule for any increase or decrease of such rates for the duration of the contract.
+		</section>
+	</text>
+	<history>1995, c. 648.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="6" level="4">General Provisions</unit>
+		<unit label="article" identifier="1" level="5">In General</unit>
+	</structure>
+	<section_number>2.2-612</section_number>
+	<catch_line>Notification to localities of reduction or discontinuation of service</catch_line>
+	<text>
+		<section prefix="A">No agency, board, commission or other entity of the Commonwealth shall take any action to reduce or discontinue a service that it performs for a local government or reduce or discontinue any form of financial assistance to a local government without first notifying all affected local governments at least 90 days in advance of the proposed action. However, in emergencies, certified by the Governor for executive branch agencies or by the chief administrative officer for any other entity of the Commonwealth, such action may be taken immediately following the notice.
+		</section>
+		<section prefix="B">The provisions of subsection A shall not apply to any action taken by an executive branch agency or other entity of the Commonwealth pursuant to a specific legislative requirement, agreement or contract negotiated with a local government, the application of a statute prescribing periodic adjustments in state financial assistance, workforce reduction resulting from diminished appropriation or legislated early retirement provisions, or judicial decree.
+		</section>
+		<section prefix="C">Nothing in subsection A shall apply to any officer who receives funding under § 15.2-1636.7 or who may appeal Compensation Board budget decisions under § 15.2-1636.9 or § 15.2-1636.10, or to those payments made to localities in accordance with §§ 53.1-20.1, 53.1-83.1, 53.1-84, or § 53.1-85.
+		</section>
+	</text>
+	<history>1997, c. 859, § 2.1-7.3; 2001, c. 844; 2004, cc. 34, 155.</history>
+</law>

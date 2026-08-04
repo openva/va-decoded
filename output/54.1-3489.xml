@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="III" level="2">Professions and Occupations Regulated by Boards Within the Department of Health Professions</unit>
+		<unit label="chapter" identifier="34.1" level="3">Physical Therapy</unit>
+		<unit label="article" identifier="2" level="4">Physical Therapy Licensure Compact</unit>
+	</structure>
+	<section_number>54.1-3489</section_number>
+	<catch_line>Active duty military personnel or their spouses</catch_line>
+	<text>
+		A licensee who is active duty military or is the spouse of an individual who is active duty military may designate one of the following as the home state:
+		<section prefix="1">Home of record;
+		</section>
+		<section prefix="2">Permanent Change of Station (PCS); or
+		</section>
+		<section prefix="3">State of current residence if it is different from the PCS state or home of record.
+		</section>
+	</text>
+	<history>2019, c. 300.</history>
+</law>

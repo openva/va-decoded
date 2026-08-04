@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="15" level="2">Telegraph and Telephone Companies</unit>
+		<unit label="article" identifier="3" level="3">Supervision by Commission</unit>
+	</structure>
+	<section_number>56-479.3</section_number>
+	<catch_line>Authorization and verification for products, goods, and services to be billed on a telephone bill</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires otherwise:
+			"Billing agent" means any entity that submits charges for products, goods, or services to the billing carrier on behalf of itself or any service provider.
+			"Billing carrier" means any telephone company that issues a telephone bill directly to customers.
+			"Service provider" means any entity that offers products, goods, and services to a customer and that directly or indirectly charges to or collects from a customer's bill received from a billing carrier an amount for such products, goods, or services.
+		</section>
+		<section prefix="B">This section does not apply to (i) products, goods, or services offered by or bundled with the services of a telephone company or its affiliates; (ii) telephone calls that are customer initiated by dialing 1+, 0+, 0-, or 1010XXX or that a customer accepts as collect; or (iii) commercial mobile radio services.
+		</section>
+		<section prefix="C">No service provider or billing agent shall willfully (i) add products, goods, or services not authorized by any customer or (ii) charge or attempt to collect charges from any customer for any such products, goods, or services without the customer's authorization. A customer is not liable for an amount charged through a billing carrier by a service provider or a billing agent without the authorization of the customer.
+		</section>
+		<section prefix="D">A service provider or billing agent shall obtain verification of a customer's authorization before submitting charges for products, goods, or services directly or indirectly to the billing carrier. The verification may be in written, oral, or electronic form and shall be verified by an independent third party. The service provider shall retain the verification for a minimum of two years.
+		</section>
+		<section prefix="E">A billing carrier shall not enter into an agreement to bill for any charges for products, goods, or services for a service provider or billing agent unless that agreement requires the service provider or billing agent to comply with subsection D.
+		</section>
+	</text>
+	<history>2010, c. 322.</history>
+</law>

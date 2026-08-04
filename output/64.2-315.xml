@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="3" level="3">Rights of Married Persons</unit>
+		<unit label="article" identifier="3" level="4">Uniform Disposition of Community Property Rights at Death Act</unit>
+	</structure>
+	<section_number>64.2-315</section_number>
+	<catch_line>Application</catch_line>
+	<text>
+		This article applies to the disposition at death of the following property acquired by a married person:
+		<section prefix="1">All personal property, wherever situated:
+			a. Which was acquired as or became, and remained, community property under the laws of another jurisdiction;
+			b. Which, all or the proportionate part of that property, was acquired with the rents, issues, or income of, or the proceeds from, or in exchange for, that community property; or
+			c. Which is traceable to that community property;
+		</section>
+		<section prefix="2">All or the proportionate part of any real property situated in the Commonwealth which was acquired with the rents, issues or income of, the proceeds from, or in exchange for, property acquired as, or which became and remained, community property under the laws of another jurisdiction, or property traceable to that community property.
+		</section>
+	</text>
+	<history>1982, c. 456, § 64.1-197; 2012, c. 614.</history>
+</law>

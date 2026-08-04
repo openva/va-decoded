@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="V" level="2">Domestic Animals</unit>
+		<unit label="chapter" identifier="65" level="3">Comprehensive Animal Care</unit>
+		<unit label="article" identifier="10" level="4">Mandatory Sterilization of Dogs and Cats Adopted From Releasing Agencies</unit>
+	</structure>
+	<section_number>3.2-6578</section_number>
+	<catch_line>Exemptions</catch_line>
+	<text>
+		This article shall not apply to:
+		<section prefix="1">An owner reclaiming his dog or cat from a releasing agency;
+		</section>
+		<section prefix="2">A releasing agency within a locality that has adopted a more stringent mandatory sterilization ordinance; and
+		</section>
+		<section prefix="3">A local governing body that has disposed of an animal by sale or gift to a federal agency, state-supported institution, agency of the Commonwealth, agency of another state, or licensed federal dealer having its principal place of business located within the Commonwealth.
+		</section>
+	</text>
+	<history>1993, c. 959, § 3.1-796.126:5; 2008, c. 860.</history>
+</law>

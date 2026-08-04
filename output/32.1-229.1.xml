@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="8" level="3">Radiation Control</unit>
+	</structure>
+	<section_number>32.1-229.1</section_number>
+	<catch_line>Inspections of X-ray machines required; Radiation Inspection Reports; fees; qualification of inspectors</catch_line>
+	<text>
+		<section prefix="A">All X-ray machines shall be registered with the Department.
+		</section>
+		<section prefix="B">Every owner or operator of an X-ray machine shall request an initial inspection by a private inspector or a Department inspector no later than 30 days after the installation of the equipment.
+			Inspections shall be performed periodically on a schedule prescribed by the Board. The Department may also require random, unannounced, follow-up inspections of machines that were inspected by private inspectors in order to maintain quality control. In the event of changes in or installations of new equipment during the last 90 days of a period for which an inspection has been made, no interim inspection shall be required. In addition, the Department may require the inspection and certification of other machines emitting radiation or utilizing radiation for patients, consumers, workers, or the general public.
+			Inspections shall be performed by Department personnel or by private inspectors only. Inspections conducted by private inspectors shall be conducted in conformance with the regulations of the Board and reports on these inspections shall be filed by the registrant with the Department on forms prescribed by the Department. Results of all inspections shall be reviewed by the Department.
+		</section>
+		<section prefix="C">The Department shall issue a certificate for a diagnostic or therapeutic X-ray machine, or X-ray machine not used in the healing arts, when the results of the inspection indicate the machine meets the Board's standards. If the machine does not meet the Board's standards, the certification may be denied. If the certification is denied, the machine shall not be used for treatment, diagnosis, evaluation of patients, whether human or animal, or any other use until the standards of the Board have been met. A copy of the certificate shall be displayed by the registrant in a conspicuous place in close proximity to the X-ray machine.
+		</section>
+		<section prefix="D">The Board shall, in accordance with the Administrative Process Act (§ 2.2-4000 et seq.), promulgate such regulations as the Board deems necessary to protect the health and safety of health care workers, patients, and the general public, including but not limited to:
+			<section prefix="1">Fee schedules for registration of X-ray machines;
+			</section>
+			<section prefix="2">Schedule for inspections of X-ray machines;
+			</section>
+			<section prefix="3">Fee schedules for inspections of X-ray machines by Department personnel; however, no fee shall be charged for inspections initiated by the Department;
+			</section>
+			<section prefix="4">Standards for certification of X-ray machines; and
+			</section>
+			<section prefix="5">Qualifications for private inspectors of X-ray machines required for inclusion on a list of qualified inspectors of X-ray machines published pursuant to § 32.1-228.1, a requirement for annual registration as a private inspector of X-ray machines for inclusion on such list, and a fee not to exceed $150.00 for such registration.
+			</section>
+		</section>
+		<section prefix="E">The provisions of this section and of §§ 32.1-229 and 32.1-229.2 relating to X-ray machines and machines emitting or utilizing radiation shall not apply to devices purchased or used primarily for personal, family, or household purposes.
+		</section>
+	</text>
+	<history>1987, c. 666; 2008, cc. 41, 466; 2016, c. 685.</history>
+</law>

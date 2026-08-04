@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="18" level="2">Executions and Other Means of Recovery</unit>
+		<unit label="article" identifier="7" level="3">Garnishment</unit>
+	</structure>
+	<section_number>8.01-512.3</section_number>
+	<catch_line>Form of garnishment summons</catch_line>
+	<text>
+		Any garnishment issued pursuant to § 8.01-511 shall be in the following form:
+		<section prefix="a">Front side of summons:
+			GARNISHMENT SUMMONS
+			(Court Name)
+			(Name, address and telephone number of judgment creditor except that when the judgment creditor's attorney's name, address and telephone number appear on the summons, only the creditor's name shall be used.)
+			(Name, address and telephone number of judgment creditor's attorney)
+			(Name, street address and social security number of judgment debtor)
+			(Name and street address of garnishee)
+			______________________________ Hearing Date and Time
+			This is a garnishment against (check only one of the designations below):
+			[ ] wages, salary, or other compensation.
+			[ ] some other debt due or property of the judgment debtor.
+			MAXIMUM PORTION OF DISPOSABLEEARNINGS SUBJECT TO GARNISHMENT
+			STATEMENT
+			[ ] 50% [ ] 55% [ ] 60% [ ] 65%
+			Interest
+			________________________________________Date of Judgment
+			TO ANY AUTHORIZED OFFICER: You are hereby commanded to serve this summons on the judgment debtor and the garnishee.
+			TO THE GARNISHEE: You are hereby commanded to
+			<section prefix="1">File a written answer with this court, or
+			</section>
+			<section prefix="2">Deliver payment to this court, or
+			</section>
+			<section prefix="3">Appear before this court on the return date and time shown on this summons to answer the Suggestion for Summons in Garnishment of the judgment creditor that, by reason of the lien of writ of fieri facias, there is a liability as shown in the statement upon the garnishee.
+				As garnishee, you shall withhold from the judgment debtor any sums of money to which the judgment debtor is or may be entitled from you during the period between the date of service of this summons on you and the date for your appearance in court, subject to the following limitations:
+			</section>
+			<section prefix="1">The maximum amount which may be garnished is the "TOTAL BALANCE DUE" as shown on this summons.
+			</section>
+			<section prefix="2">If the sums of money being garnished are earnings of the judgment debtor, then the provision of "MAXIMUM PORTION OF DISPOSABLE EARNINGS SUBJECT TO GARNISHMENT" shall apply.
+				If a garnishment summons is served on an employer having 1,000 or more employees, then money to which the judgment debtor is or may be entitled from his or her employer shall be considered those wages, salaries, commissions, or other earnings which, following service on the garnishee-employer, are determined and are payable to the judgment debtor under the garnishee-employer's normal payroll procedure with a reasonable time allowance for making a timely return by mail to this court.
+				________________________________________Date of Issuance of Summons
+				________________________________________Clerk
+				________________________________________Date of delivery of writ of fieri facias to sheriff if different from date of issuance of this summons.
+			</section>
+		</section>
+		<section prefix="b">A plain language interpretation of § 34-29 shall appear on the reverse side of the summons as follows:
+			"The following statement is not the law but is an interpretation of the law which is intended to assist those who must respond to this garnishment. You may rely on this only for general guidance because the law itself is the final word. (Read the law, § 34-29 of the Code of Virginia, for a full explanation. A copy of § 34-29 is available at the clerk's office. If you do not understand the law, call a lawyer for help.)
+			An employer may take as much as 25 percent of an employee's disposable earnings to satisfy this garnishment. But if an employee makes the minimum wage or less for his week's earnings, the employee will ordinarily get to keep 40 times the minimum hourly wage."
+			But an employer may withhold a different amount of money from that above if:
+			<section prefix="1">The employee must pay child support or spousal support and was ordered to do so by a court procedure or other legal procedure. No more than 65 percent of an employee's earnings may be withheld for support;
+			</section>
+			<section prefix="2">Money is withheld by order of a bankruptcy court; or
+			</section>
+			<section prefix="3">Money is withheld for a tax debt.
+				"Disposable earnings" means the money an employee makes after taxes and after other amounts required by law to be withheld are satisfied. Earnings can be salary, hourly wages, commissions, bonuses, or otherwise, whether paid directly to the employee or not. After those earnings are in the bank for 30 days, they are not considered earnings any more.
+				If an employee tries to transfer, assign, or in any way give his earnings to another person to avoid the garnishment, it will not be legal; earnings are still earnings.
+				An employee cannot be fired because he is garnished for one debt.
+				Financial institutions that receive an employee's paycheck by direct deposit do not have to determine what part of a person's earnings can be garnished.
+			</section>
+		</section>
+	</text>
+	<history>1983, c. 399; 1994, c. 40; 1995, c. 379; 1996, c. 1051; 2006, c. 55; 2017, cc. 36, 143.</history>
+</law>

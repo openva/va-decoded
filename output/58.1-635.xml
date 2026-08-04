@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="6" level="3">Retail Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-635</section_number>
+	<catch_line>Failure to file return; fraudulent return; civil penalties</catch_line>
+	<text>
+		<section prefix="A">When any dealer fails to make any return and pay the full amount of the tax required by this chapter, there shall be imposed, in addition to other penalties provided herein, a specific penalty to be added to the tax in the amount of six percent if the failure is for not more than one month, with an additional six percent for each additional month, or fraction thereof, during which the failure continues, not to exceed 30 percent in the aggregate. In no case, however, shall the penalty be less than $10 and such minimum penalty shall apply whether or not any tax is due for the period for which such return was required. If such failure is due to providential or other good cause shown to the satisfaction of the Tax Commissioner, such return with or without remittance may be accepted exclusive of penalties. In the case of a false or fraudulent return where willful intent exists to defraud the Commonwealth of any tax due under this chapter, or in the case of a willful failure to file a return with the intent to defraud the Commonwealth of any such tax, a specific penalty of 50 percent of the amount of the proper tax shall be assessed. All penalties and interest imposed by this chapter shall be payable by the dealer and collectible by the Tax Commissioner in the same manner as if they were a part of the tax imposed.
+		</section>
+		<section prefix="B">It shall be prima facie evidence of intent to defraud the Commonwealth of any tax due under this chapter when any dealer reports its gross sales, gross proceeds or cost price, as the case may be, at 50 percent or less of the actual amount.
+		</section>
+		<section prefix="C">Interest at a rate determined in accordance with § 58.1-15, shall accrue on the tax until the same is paid, or until an assessment is made, pursuant to § 58.1-15, after which interest shall accrue as provided therein.
+		</section>
+		<section prefix="D">Notwithstanding any other provision of this section, any remote seller or marketplace facilitator that has collected an incorrect amount of sales and use tax shall be relieved from liability for such amount, including any penalty or interest, if the error is a result of the remote seller's or marketplace facilitator's reasonable reliance on information provided by the Commonwealth.
+		</section>
+	</text>
+	<history>Code 1950, § 58-441.27; 1966, c. 151; 1972, c. 355; 1973, c. 269; 1975, c. 52; 1977, c. 396; 1984, c. 675; 1991, cc. 316, 331; 2013, c. 766; 2019, cc. 815, 816, 854.</history>
+</law>

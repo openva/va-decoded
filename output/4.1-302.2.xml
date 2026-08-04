@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="4.1" level="1">Alcoholic Beverage and Cannabis Control</unit>
+		<unit label="subtitle" identifier="I" level="2">Alcoholic Beverage Control Act</unit>
+		<unit label="chapter" identifier="3" level="3">Prohibited Practices; Penalties; Procedural Matters</unit>
+		<unit label="article" identifier="1" level="4">Prohibited Practices Generally</unit>
+	</structure>
+	<section_number>4.1-302.2</section_number>
+	<catch_line>Sale, purchase, use of powdered or crystalline alcohol prohibited; penalty</catch_line>
+	<text>
+		<section prefix="A">No person shall purchase or possess, offer for sale or use, sell, or use any powdered or crystalline alcohol product.
+		</section>
+		<section prefix="B">As used in this section, "powdered or crystalline alcohol" means a product that is manufactured into a powdered or crystalline form and that contains any amount of alcohol.
+		</section>
+		<section prefix="C">A violation of this section is a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>2015, cc. 25, 735.</history>
+</law>

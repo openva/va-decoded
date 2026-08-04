@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="47" level="3">Sale of Farm Produce</unit>
+		<unit label="article" identifier="2" level="4">Commission Merchants</unit>
+	</structure>
+	<section_number>3.2-4736</section_number>
+	<catch_line>License required</catch_line>
+	<text>
+		<section prefix="A">It is unlawful for any person to act as, operate, or carry on the business of a commission merchant without first obtaining a license.
+		</section>
+		<section prefix="B">Any person who violates this section is guilty of a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>Code 1950, § 3-535; 1966, c. 702, § 3.1-693; 2008, c. 860.</history>
+</law>

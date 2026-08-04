@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="IV" level="2">Food and Drink; Weights and Measures</unit>
+		<unit label="chapter" identifier="57" level="3">Weights and Measures Service Agencies and Technicians</unit>
+	</structure>
+	<section_number>3.2-5705</section_number>
+	<catch_line>Exemption from registration fee</catch_line>
+	<text>
+		<section prefix="A">No service agency shall be required to pay a registration fee under the provisions of this chapter if it is:
+			<section prefix="1">A business employing service technicians to install, place in service, adjust, repair, service, or recondition weights or measures that are owned or operated by the business but that are used by no other business; or
+			</section>
+			<section prefix="2">A government or political subdivision engaged in the installation, placing in service, adjusting, repairing, servicing, or reconditioning of weights or measures owned or operated by the government or political subdivision.
+			</section>
+		</section>
+		<section prefix="B">A service technician that is employed by a business that is exempt from paying a registration fee pursuant to subsection A of this section shall not be required to pay a certification fee under the provisions of this chapter.
+		</section>
+	</text>
+	<history>1992, c. 242, § 3.1-969.6; 2008, c. 860.</history>
+</law>

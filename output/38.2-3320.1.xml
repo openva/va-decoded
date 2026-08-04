@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="2" level="3">Group Life Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3320.1</section_number>
+	<catch_line>Policies issued outside of the Commonwealth of Virginia</catch_line>
+	<text>
+		A group life insurance policy issued outside of this Commonwealth, providing coverage to residents of this Commonwealth, that does not qualify under § 38.2-3318.1 or does not comply with § 38.2-3319.1 shall be subject to the statutory requirements of this title and may subject the insurer issuing such policy to the penalties available under this title for violation of such requirements.
+	</text>
+	<history>1998, c. 154.</history>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="3" level="3">Injury to Person or Property</unit>
+	</structure>
+	<section_number>8.01-40.5</section_number>
+	<catch_line>Publishing or distributing material harmful to minors on the Internet</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section:
+			"Interactive computer service" means the same as that term is defined in § 8.01-49.1.
+			"Material harmful to minors" means any description or representation of nudity, sexual conduct, sexual excitement, or sadomasochistic abuse when it (i) appeals to the prurient, shameful, or morbid interest of minors; (ii) is patently offensive to prevailing standards in the adult community as a whole with respect to what is suitable material for minors; and (iii) is, when taken as a whole, lacking in serious literary, artistic, political, or scientific value for minors.
+			"Sexual conduct" means the same as that term is defined in § 18.2-390.
+			“Substantial portion” means more than 33 and one-third percent of total material on a website that meets the definition of material harmful to minors.
+		</section>
+		<section prefix="B">Any commercial entity that knowingly or intentionally publishes or distributes material harmful to minors on the Internet from a website that contains a substantial portion of such material shall, through the use of (i) a commercially available database that is regularly used by businesses or governmental entities for the purpose of age and identity verification or (ii) another commercially reasonable method of age and identity verification, verify that any person attempting to access such material harmful to minors is 18 years of age or older.
+		</section>
+		<section prefix="C">Any commercial entity that violates the provisions of this section shall be subject to civil liability for damages resulting from a minor's access to such material harmful to a minor and reasonable attorney fees and costs.
+		</section>
+		<section prefix="D">Nothing in this section shall be construed to impose an obligation or liability on a provider or user of an interactive computer service on the Internet.
+		</section>
+	</text>
+	<history>2023, c. 811.</history>
+</law>

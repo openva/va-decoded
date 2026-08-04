@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="23" level="2">Commissioners in Chancery</unit>
+	</structure>
+	<section_number>8.01-607</section_number>
+	<catch_line>Appointment and removal</catch_line>
+	<text>
+		<section prefix="A">Each circuit court may, from time to time, appoint such commissioners in chancery as may be deemed necessary for the convenient dispatch of the business of such court. Such commissioners shall be removable at pleasure.
+		</section>
+		<section prefix="B">Commissioners in chancery may be appointed in cases in circuit court, including uncontested divorce cases, only when:
+			<section prefix="1">There is agreement by the parties with the concurrence of the court; or
+			</section>
+			<section prefix="2">Upon (i) motion of a party, or (ii) upon motion of the court, sua sponte. The court shall make a finding of good cause shown in each individual case.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 8-248; 1977, c. 617; 2005, c. 885.</history>
+</law>

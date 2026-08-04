@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="9" level="3">Partition</unit>
+	</structure>
+	<section_number>8.01-81.1</section_number>
+	<catch_line>Determination of value</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsections B and C, the court in every partition action shall order an appraisal pursuant to subsection D, and such appraisal shall inform the court's determination of fair market value under subsection F. The expense of the appraisal shall be advanced by the plaintiff, and such other parties as the court may determine in its discretion, and taxed as costs so that such expenses will be shared by the parties to the extent of their respective interest in the property.
+		</section>
+		<section prefix="B">If all parties have agreed to the value of the property or to another method of valuation, the court shall adopt such value or the value produced by the agreed-upon method of valuation.
+		</section>
+		<section prefix="C">If the court determines that the evidentiary value of an appraisal is outweighed by the cost of the appraisal, the court, after an evidentiary hearing, shall enter an order to determine the fair market value for the property.
+		</section>
+		<section prefix="D">If the court orders an appraisal, the court shall appoint a disinterested real estate appraiser licensed in the Commonwealth to assist the court in determining the fair market value of the property assuming sole ownership of the fee simple estate. Upon completion of the appraisal, the appraiser shall file a sworn or verified appraisal with the court and shall, within three business days of such filing, mail a notice of filing to all counsel of record stating:
+			<section prefix="1">The appraised fair market value of the property;
+			</section>
+			<section prefix="2">That the appraisal is available at the clerk's office; and
+			</section>
+			<section prefix="3">That a party may file with the court an objection to the appraisal not later than 30 days after the notice is sent, stating the grounds for the objection.
+			</section>
+		</section>
+		<section prefix="E">If an appraisal is filed with the court pursuant to subsection D, the court shall conduct a hearing to determine the fair market value of the property not sooner than 31 days after a copy of the notice of the appraisal is sent to each party under subsection D, whether or not an objection to the appraisal is filed under subdivision D 3. In addition to the court-ordered appraisal, the court may consider any other evidence of value offered by a party, which may include the opinions of other appraisers retained by a party.
+		</section>
+		<section prefix="F">After a hearing under subsection E, but before considering the merits of the partition action, the court shall enter an order determining the fair market value of the property.
+		</section>
+	</text>
+	<history>2020, cc. 115, 193; 2023, c. 333.</history>
+</law>

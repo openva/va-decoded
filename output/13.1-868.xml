@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-868</section_number>
+	<catch_line>Quorum and voting by directors</catch_line>
+	<text>
+		<section prefix="A">Unless the articles of incorporation or bylaws require a greater or lesser number for the transaction of all business or any particular business, or unless otherwise specifically provided in this Act, a quorum of a board of directors consists of:
+			<section prefix="1">A majority of the fixed number of directors if the corporation has a fixed board size; or
+			</section>
+			<section prefix="2">A majority of the number of directors prescribed, or if no number is prescribed, the number in office immediately before the meeting begins, if the corporation has a variable-range size board.
+			</section>
+		</section>
+		<section prefix="B">The articles of incorporation or bylaws may authorize a quorum of a board of directors to consist of no fewer than one-third of the fixed or prescribed number of directors determined under subsection A.
+		</section>
+		<section prefix="C">If a quorum is present when a vote is taken, the affirmative vote of a majority of directors present is the act of the board of directors unless the articles of incorporation or bylaws require the vote of a greater number of directors.
+		</section>
+		<section prefix="D">A director who is present at a meeting of the board of directors or a committee of the board of directors when corporate action is taken is deemed to have assented to the action taken unless:
+			<section prefix="1">The director objects at the beginning of the meeting, or promptly upon his arrival, to holding it or transacting specified business at the meeting; or
+			</section>
+			<section prefix="2">He votes against, or abstains from, the action taken.
+			</section>
+		</section>
+		<section prefix="E">Except as provided in § 13.1-852.1, a director shall not vote by proxy.
+		</section>
+		<section prefix="F">Whenever this Act requires the board of directors to take any action or to recommend or approve any proposed corporate act, such action, recommendation or approval shall not be required if the proposed action or corporate act is adopted by the unanimous consent of members.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-223; 1956, c. 428; 1985, c. 522; 1992, c. 471; 2007, c. 925.</history>
+</law>

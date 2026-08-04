@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="1" level="3">Creation and Limitation of Estates</unit>
+		<unit label="article" identifier="1" level="4">Creation and Transfer of Estates</unit>
+	</structure>
+	<section_number>55.1-103</section_number>
+	<catch_line>Suicide or attainder of felony</catch_line>
+	<text>
+		Neither suicide nor attainder of felony shall cause a corruption of blood or forfeiture of estate.
+	</text>
+	<history>Code 1919, § 4762; Code 1950, § 55-4; 2019, c. 712.</history>
+</law>

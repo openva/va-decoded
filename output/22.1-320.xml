@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="16" level="2">Schools for Students With Disabilities</unit>
+	</structure>
+	<section_number>22.1-320</section_number>
+	<catch_line>Exemptions</catch_line>
+	<text>
+		This chapter shall not apply to any of the following:
+		<section prefix="1">Any school that is licensed or approved pursuant to other statutes of the Commonwealth;
+		</section>
+		<section prefix="2">Any public or private high school accredited or recognized by the Board of Education that has offered or that may offer programs for students with disabilities covered in this chapter, if any tuition, fees and charges made by the school are collected in accordance with the regulations prescribed by the governing body of such school;
+		</section>
+		<section prefix="3">Tutorial instruction given in a private home or elsewhere as supplemental to regular classes for students enrolled in any public or private school or in preparation of an individual for an examination for professional practice or higher education; or
+		</section>
+		<section prefix="4">A program through which persons with disabilities are provided employment and training primarily in simple skills in a sheltered or protective environment.
+		</section>
+	</text>
+	<history>Code 1950, § 22-330.18; 1970, c. 665; 1971, Ex. Sess., c. 198; 1972, c. 523; 1973, c. 435; 1980, c. 559; 1988, c. 574; 1993, c. 351; 1996, cc. 691, 832; 2004, c. 991.</history>
+</law>

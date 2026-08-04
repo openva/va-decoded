@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="4" level="2">Health Care Planning</unit>
+		<unit label="article" identifier="4.1" level="3">Health Planning and Resources Development</unit>
+	</structure>
+	<section_number>32.1-122.04</section_number>
+	<catch_line>Responsibilities of the Department</catch_line>
+	<text>
+		The Department shall have the following responsibilities as directed by the Board:
+		<section prefix="1">To conduct the research for the health planning activities of the Commonwealth.
+		</section>
+		<section prefix="2">To prepare, review and revise the State Health Plan when so directed by the Board.
+		</section>
+		<section prefix="3">To develop, under the direction of the Board and with the cooperation of the regional health planning agencies, the components and methodology for the State Health Plan, including any research, issue analyses and related reports.
+		</section>
+		<section prefix="4">To provide technical assistance to the regional health planning agencies.
+		</section>
+		<section prefix="5">To perform such other functions relating to health planning in the Commonwealth as may be requested by the Governor or the Secretary.
+		</section>
+	</text>
+	<history>1989, cc. 617, 633; 2002, c. 83.</history>
+</law>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="21" level="2">Fire Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-2123</section_number>
+	<catch_line>Chapter not applicable to certain mutual insurers</catch_line>
+	<text>
+		This chapter shall not apply to mutual assessment property and casualty insurers, or to mutual insurers and associations organized under the laws of this Commonwealth, conducting business only in this Commonwealth, and issuing only policies providing for perpetual insurance.
+	</text>
+	<history>Code 1950, §§ 38-182, 38-183, 38-193; 1952, c. 317, § 38.1-378; 1960, c. 293; 1986, c. 562.</history>
+</law>

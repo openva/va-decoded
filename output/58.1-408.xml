@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-408</section_number>
+	<catch_line>What income apportioned and how</catch_line>
+	<text>
+		<section prefix="A">The Virginia taxable income of any corporation, except those subject to the provisions of § 58.1-417, 58.1-418, 58.1-419, 58.1-420, 58.1-422, 58.1-422.1, 58.1-422.2, or 58.1-422.3, excluding income allocable under § 58.1-407, shall be apportioned to the Commonwealth by multiplying such income by a fraction, the numerator of which is the property factor plus the payroll factor, plus twice the sales factor, and the denominator of which is four; however, where the sales factor does not exist, the denominator of the fraction shall be the number of existing factors and where the sales factor exists but the payroll factor or the property factor does not exist, the denominator of the fraction shall be the number of existing factors plus one.
+		</section>
+		<section prefix="B">Any eligible company, as defined in § 58.1-405.1, may subtract from the numerator of the corresponding factor the value of its (i) property acquired in any qualified locality or qualified localities, as defined in § 58.1-405.1, on or after January 1, 2018, but before January 1, 2025; (ii) payroll attributable to jobs created on or after January 1, 2018, but before January 1, 2025, in any qualified locality or qualified localities; and (iii) sales in the Commonwealth during the taxable year. Such eligible company may make such modification for the taxable year in which it first becomes eligible and for the six subsequent, consecutive taxable years, except for any year in which the eligible company's (a) total, cumulative new capital investment falls below the applicable initial threshold or (b) number of new jobs falls below the applicable initial threshold.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.041; 1971, Ex. Sess., c. 171; 1981, c. 402; 1984, c. 675; 1999, cc. 158, 186; 2009, c. 821; 2012, cc. 86, 666; 2015, cc. 92, 237; 2018, cc. 801, 802, 807.</history>
+</law>

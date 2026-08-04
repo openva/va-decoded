@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="13" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-916</section_number>
+	<catch_line>Reinstatement of a corporation that has ceased to exist</catch_line>
+	<text>
+		<section prefix="A">A corporation that has ceased to exist pursuant to this article may apply to the Commission for reinstatement within five years thereafter unless the corporate existence was terminated by order of the Commission (i) upon a finding that the corporation has continued to exceed or abuse the authority conferred upon it by law or (ii) entered pursuant to § 13.1-911 and the circuit court's decree directing dissolution contains no provision of reinstatement of corporate existence.
+		</section>
+		<section prefix="B">To have its corporate existence reinstated, the corporation shall provide the Commission with the following:
+			<section prefix="1">An application for reinstatement, which shall include the identification number issued by the Commission to the corporation, and which may be in the form of a letter signed by an officer or director of the corporation, or which may be by affidavit signed by an agent of any member's interests stating that after diligent search by such agent, no officer or director can be found;
+			</section>
+			<section prefix="2">A reinstatement fee of $10;
+			</section>
+			<section prefix="3">All annual registration fees and penalties that were due before the corporation ceased to exist and that would have been assessed or imposed to the date of reinstatement if the corporation's existence had not been terminated;
+			</section>
+			<section prefix="4">An annual report for the calendar year that corresponds to the calendar year of the latest annual registration fee that was assessed or that would have been assessed to the date of reinstatement;
+			</section>
+			<section prefix="5">If the name of the corporation does not comply with the provisions of § 13.1-829 at the time of reinstatement, articles of amendment to the articles of incorporation to change the corporation's name to a name that satisfies the provisions of § 13.1-829, with the fee required by this chapter for the filing of articles of amendment; and
+			</section>
+			<section prefix="6">If the corporation's registered agent has filed a statement of resignation and a new registered agent has not been appointed, a statement of change pursuant to § 13.1-834.
+			</section>
+		</section>
+		<section prefix="C">If the corporation complies with the provisions of this section, the Commission shall enter an order of reinstatement of corporate existence. Upon entry of the order of reinstatement, the corporate existence shall be deemed to have continued from the date of termination as if termination had never occurred, and any liability incurred by the corporation or a director, officer, or other agent after the termination and before the reinstatement is determined as if the termination of the corporation's existence had never occurred.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-255; 1956, c. 428; 1958, c. 564; 1976, c. 350; 1985, c. 522; 1986, c. 234; 1988, c. 405; 2004, c. 601; 2005, c. 379; 2006, c. 663; 2007, c. 925; 2015, c. 623.</history>
+</law>

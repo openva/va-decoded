@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="13" level="2">Programs, Courses of Instruction and Textbooks</unit>
+		<unit label="article" identifier="1.5" level="3">School Divisions of Innovation</unit>
+	</structure>
+	<section_number>22.1-212.32</section_number>
+	<catch_line>SDI designation; duration; renewal</catch_line>
+	<text>
+		<section prefix="A">The initial designation of an SDI shall be for a five-year period.
+		</section>
+		<section prefix="B">The initial designation of an SDI may be renewed for subsequent periods not to exceed five years each.
+		</section>
+	</text>
+	<history>2017, c. 760.</history>
+</law>

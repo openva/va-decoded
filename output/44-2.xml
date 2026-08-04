@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="1" level="3">Classification of Militia</unit>
+	</structure>
+	<section_number>44-2</section_number>
+	<catch_line>Composition of National Guard</catch_line>
+	<text>
+		<section prefix="A">The National Guard shall consist of the regularly enlisted militia and of commissioned and warrant officers, who shall be residents of the Commonwealth of Virginia and shall fall within the age limits and qualifications as prescribed in existing or subsequently amended National Guard regulations (army and air), organized, armed and equipped as hereinafter provided. Upon original enlistment members of the National Guard shall not be less than 17 nor more than 55 years of age, or, in subsequent enlistments not more than 64 years of age.
+		</section>
+		<section prefix="B">Notwithstanding the above, persons otherwise qualified but residing outside the Commonwealth of Virginia, may enlist or serve as commissioned or warrant officers in the National Guard.
+		</section>
+	</text>
+	<history>1930, p. 948; Michie Code 1942, § 2673(2); 1958, c. 393; 1976, c. 399; 1979, c. 647; 2011, cc. 572, 586.</history>
+</law>

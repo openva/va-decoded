@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4303.2</section_number>
+	<catch_line>Job order contracting; limitations</catch_line>
+	<text>
+		<section prefix="A">A job order contract may be awarded by a public body for multiple jobs, provided (i) the jobs require similar experience and expertise, (ii) the nature of the jobs is clearly identified in the solicitation, and (iii) the contract is limited to a term of one year or when the cumulative total project fees reach the maximum authorized in this section, whichever occurs first. Contractors may be selected through either competitive sealed bidding or competitive negotiation.
+		</section>
+		<section prefix="B">Such contracts may be renewable for three additional one-year terms at the option of the public body. The fair and reasonable prices as negotiated shall be used in determining the cost of each job performed, and the sum of all jobs performed in a one-year contract term shall not exceed the maximum threshold amount.
+			Beginning on July 1, 2024, the maximum threshold amount shall be $10 million.
+			Subject to the maximum threshold amount, no individual job order shall exceed $1 million.
+		</section>
+		<section prefix="C">For the purposes of this section, any unused amounts from one contract term shall not be carried forward to any additional term.
+		</section>
+		<section prefix="D">Order splitting with the intent of keeping a job order under the maximum dollar amounts prescribed in subsection B is prohibited.
+		</section>
+		<section prefix="E">No public body shall issue or use a job order, under a job order contract, solely for the purpose of receiving professional architectural or engineering services that constitute the practice of architecture or the practice of engineering as those terms are defined in § 54.1-400. However, professional architectural or engineering services may be included on a job order where such professional services (i) are incidental and directly related to the job, (ii) do not exceed $25,000 per job order, and (iii) do not exceed $75,000 per contract term.
+		</section>
+		<section prefix="F">Job order contracting shall not be used for construction, maintenance, or asset management services for a highway, bridge, tunnel, or overpass. However, job order contracting may be used for safety improvements or traffic calming measures for individual job orders up to $250,000, subject to the maximum annual threshold amount established in this section.
+		</section>
+	</text>
+	<history>2015, cc. 760, 776; 2019, cc. 171, 286; 2024, c. 60.</history>
+</law>

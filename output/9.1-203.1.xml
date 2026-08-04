@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="2" level="2">Department of Fire Programs</unit>
+	</structure>
+	<section_number>9.1-203.1</section_number>
+	<catch_line>Firefighter mental health awareness training</catch_line>
+	<text>
+		<section prefix="A">Each fire department as defined in § 27-6.01 shall develop curricula for mental health awareness training for its personnel, which shall include training regarding the following:
+			<section prefix="1">Understanding signs and symptoms of cumulative stress, depression, anxiety, exposure to acute and chronic trauma, compulsive behaviors, and addiction;
+			</section>
+			<section prefix="2">Combating and overcoming stigmas;
+			</section>
+			<section prefix="3">Responding appropriately to aggressive behaviors such as domestic violence and harassment;
+			</section>
+			<section prefix="4">Accessing available mental health treatment and resources; and
+			</section>
+			<section prefix="5">Managing stress, self-care techniques, and resiliency.
+			</section>
+		</section>
+		<section prefix="B">Any fire department may develop the mental health awareness training curricula in conjunction with other fire departments or firefighter stakeholder groups or may use any training program, developed by any entity, that satisfies the criteria set forth in subsection A.
+		</section>
+		<section prefix="C">Firefighters who receive mental health awareness training in accordance with this section shall receive appropriate continuing education credits from the Department of Fire Programs and the Virginia Fire Services Board.
+		</section>
+	</text>
+	<history>2018, cc. 456, 658; 2020, c. 1262.</history>
+</law>

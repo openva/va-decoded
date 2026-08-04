@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3.1" level="2">Boiler and Pressure Vessel Safety Act</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>40.1-51.7</section_number>
+	<catch_line>Installations, repairs and alterations to conform to rules and regulations; existing installations</catch_line>
+	<text>
+		<section prefix="a">No boiler or pressure vessel which does not conform to the rules and regulations of the Board governing new construction and installation and which has been certified by the Board shall be installed or operated in this Commonwealth after twelve months from July 1, 1973. Prior to such date no boiler or pressure vessel shall be installed and operated unless it is in conformity with the rules and regulations established pursuant to this chapter which were in existence on July 1, 1972.
+		</section>
+		<section prefix="b">This chapter shall not be construed as in any way preventing the use, sale or reinstallation of a boiler or pressure vessel constructed prior to July 1, 1972, provided it has been made to conform to the rules and regulations of the Board governing existing installations prior to its reinstallation or operation.
+		</section>
+		<section prefix="c">Repairs and alterations shall conform to the rules and regulations set forth by the Board.
+		</section>
+	</text>
+	<history>1972, c. 237; 1974, c. 195; 1986, c. 211.</history>
+</law>

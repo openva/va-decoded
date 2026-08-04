@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="26" level="3">Uniform Disclaimer of Property Interests Act</unit>
+	</structure>
+	<section_number>64.2-2611</section_number>
+	<catch_line>When disclaimer barred or limited</catch_line>
+	<text>
+		<section prefix="A">A disclaimer is barred by a written waiver of the right to disclaim.
+		</section>
+		<section prefix="B">A disclaimer of an interest in property is barred if any of the following events occur before the disclaimer becomes effective: (i) the disclaimant accepts the interest sought to be disclaimed; (ii) the disclaimant voluntarily assigns, conveys, encumbers, pledges, or transfers the interest sought to be disclaimed or contracts to do so; or (iii) a judicial sale of the interest sought to be disclaimed occurs.
+		</section>
+		<section prefix="C">A disclaimer, in whole or in part, of the future exercise of a power held in a fiduciary capacity is not barred by its previous exercise.
+		</section>
+		<section prefix="D">A disclaimer, in whole or in part, of the future exercise of a power not held in a fiduciary capacity is not barred by its previous exercise unless the power is exercisable in favor of the disclaimant.
+		</section>
+		<section prefix="E">A disclaimer is barred or limited if so provided by law other than this chapter.
+		</section>
+		<section prefix="F">A disclaimer of a power over property that is barred by this section is ineffective. A disclaimer of an interest in property that is barred by this section takes effect as a transfer of the interest disclaimed to the persons who would have taken the interest under this chapter had the disclaimer not been barred.
+		</section>
+	</text>
+	<history>2003, c. 253, § 64.1-196.12; 2012, c. 614.</history>
+</law>

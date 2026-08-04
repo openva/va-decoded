@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="16" level="4">Income Tax Withholding</unit>
+	</structure>
+	<section_number>58.1-478</section_number>
+	<catch_line>Withholding tax statements for employees; employers must file annual returns with Tax Commissioner; penalties</catch_line>
+	<text>
+		<section prefix="A">Every person required to deduct and withhold from an employee's wages under this article shall furnish to each such employee in respect to the remuneration paid by such person to such employee during the calendar year, on or before January 31 of the succeeding year, or if his employment is terminated before the close of such calendar year, on the day on which the last payment of remuneration is made, a written statement in duplicate showing the following: (i) the name of such person; (ii) the name of the employee and his social security account number; (iii) the total amount of wages; and (iv) the total amount deducted and withheld under this article by such employer.
+		</section>
+		<section prefix="B">The written statements required to be furnished pursuant to this section in respect of any remuneration shall be furnished at such other times, shall contain such other information, and shall be in such form as the Tax Commissioner may by regulations prescribe.
+		</section>
+		<section prefix="C">1. Every employer shall file an annual return with the Tax Commissioner, setting forth such information as the Tax Commissioner may require, not later than January 31 of the calendar year succeeding the calendar year in which wages were withheld from employees, and such annual return shall be accompanied by an additional copy of each of the written statements furnished to each employee under subsections A and B.
+			<section prefix="2">Every employer shall file the annual return and copies of written statements required under this subsection using an electronic medium using a format prescribed by the Tax Commissioner. Waivers shall be granted only if the Tax Commissioner finds that this requirement creates an unreasonable burden on the employer. All requests for waiver shall be submitted to the Tax Commissioner in writing.
+			</section>
+		</section>
+		<section prefix="D">The Tax Commissioner shall have the authority to require every employer to furnish the names and social security numbers of all employees whose wages or withholding amounts for the taxable year are below levels specified by the Tax Commissioner.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.14; 1962, c. 612; 1971, Ex. Sess., c. 171; 1984, c. 675; 1987, c. 9; 1998, c. 335; 2001, cc. 297, 307; 2010, cc. 36, 151; 2016, cc. 660, 676.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="15" level="2">Telegraph and Telephone Companies</unit>
+		<unit label="article" identifier="8" level="3">Emergency Calls on Multiline Telephone Systems</unit>
+	</structure>
+	<section_number>56-484.24</section_number>
+	<catch_line>Liability</catch_line>
+	<text>
+		<section prefix="A">An MLTS provider, its employees or agents shall not be liable to any person for damages incurred as a result of any act or omission by it, except gross negligence or intentional, willful or wanton misconduct, in connection with maintaining or operating the MLTS in a manner required by this article.
+		</section>
+		<section prefix="B">A telecommunications service provider, its employees or agents shall not be liable to any person for damages incurred as the result of the release of information not in the public record, including, but not limited to, unpublished or unlisted telephone numbers, to a PSAP, its employees or agents, or to emergency responders, made in connection with an emergency call.
+		</section>
+	</text>
+	<history>2007, c. 427.</history>
+</law>

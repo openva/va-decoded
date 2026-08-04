@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="4" level="3">Certain Lending Practices</unit>
+		<unit label="article" identifier="1" level="4">Late Charges and Rebates of Unearned Interest</unit>
+	</structure>
+	<section_number>6.2-400</section_number>
+	<catch_line>Amount of late charge; when charge can be made</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Late charges" does not include charges imposed upon acceleration of the entire debt or costs of collection and attorney fees as otherwise permitted by law by reason of a default by the debtor.
+			"Timely payment" means a payment made by the date fixed for payment or within a period of seven calendar days after such due date.
+		</section>
+		<section prefix="B">Any lender or seller may impose a late charge for failure to make timely payment of any installment due on a debt, whether installment or single maturity, provided that such late charge does not exceed five percent of the amount of such installment payment and that the charge is specified in the contract between the lender or seller and the debtor.
+		</section>
+		<section prefix="C">If any federal governmental agency or organization shall adopt any rules or regulations dealing with the application of late penalties as to loans insured or guaranteed by such federal agency or organization, then such rules and regulations shall control as to such loans insured or guaranteed by them.
+		</section>
+		<section prefix="D">Any provision for late charges in excess of the amount permitted by this section shall be void as to such excess but shall not otherwise affect the validity of the obligation.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.80; 2010, c. 794.</history>
+</law>

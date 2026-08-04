@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="2" level="4">Solid Waste Management</unit>
+	</structure>
+	<section_number>10.1-1413.1</section_number>
+	<catch_line>Waste information and assessment program</catch_line>
+	<text>
+		<section prefix="A">The Department shall report by June 30 of each year the amount of solid waste, by weight or volume, disposed of in the Commonwealth during the preceding calendar year. The report shall identify solid waste by the following categories: (i) municipal solid waste; (ii) construction and demolition debris; (iii) incinerator ash; (iv) sludge other than sludge that is land applied in accordance with § 62.1-44.19:3; and (v) tires. For each such category the report shall include an estimate of the amount that was generated outside of the Commonwealth and the jurisdictions where such waste originated, if known. The report shall also estimate the amount of solid waste managed or disposed of by each of the following methods: (i) recycling; (ii) composting; (iii) landfilling; and (iv) incineration.
+		</section>
+		<section prefix="B">All permitted facilities that treat, store or dispose of solid waste shall provide the Department not more than annually, upon request, with such information in their possession as is reasonably necessary to prepare the report required by this section. At the option of the facility owner, the data collected may include an accounting of the facility's economic benefits to the locality where the facility is located including the value of disposal and recycling facilities provided to the locality at no cost or reduced cost, direct employment associated with the facility, and other economic benefits resulting from the facility during the preceding calendar year. No facility shall be required pursuant to this section to provide information that is a trade secret as defined in § 59.1-336.
+		</section>
+		<section prefix="C">This section shall not apply to captive waste management facilities.
+		</section>
+	</text>
+	<history>1997, c. 512.</history>
+</law>

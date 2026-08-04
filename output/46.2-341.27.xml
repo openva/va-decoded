@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="6.1" level="4">Commercial Driver's Licenses</unit>
+	</structure>
+	<section_number>46.2-341.27</section_number>
+	<catch_line>Presumptions from alcohol and drug content of blood</catch_line>
+	<text>
+		In any prosecution for a violation of clause (ii), (iii), or (iv) of subsection A of § 46.2-341.24, the amount of alcohol or drugs in the blood of the accused at the time of the alleged offense as indicated by a chemical analysis of a sample of the suspect's blood or breath to determine the alcohol or drug content of his blood (i) in accordance with the provisions of §§ 46.2-341.26:1 through 46.2-341.26:11 or (ii) performed by the Department of Forensic Science in accordance with the provisions of §§ 46.2-341.26:5, 46.2-341.26:6, and 46.2-341.26:7 on the suspect's whole blood drawn pursuant to a search warrant shall give rise to the following rebuttable presumptions:
+		<section prefix="A">If there was at that time 0.08 percent or more by weight by volume of alcohol in the accused's blood or 0.08 grams or more per 210 liters of the accused's breath, it shall be presumed that the accused was under the influence of alcoholic intoxicants.
+		</section>
+		<section prefix="B">If there was at that time less than 0.08 percent by weight by volume of alcohol in the accused's blood or 0.08 grams or more per 210 liters of the accused's breath, such fact shall not give rise to any presumption that the accused was or was not under the influence of alcoholic intoxicants, but such fact may be considered with other competent evidence in determining the guilt or innocence of the accused.
+		</section>
+		<section prefix="C">If there was at that time an amount of the following substances at a level that is equal to or greater than: (a) 0.02 milligrams of cocaine per liter of blood, (b) 0.1 milligrams of methamphetamine per liter of blood, (c) 0.01 milligrams of phencyclidine per liter of blood, or (d) 0.1 milligrams of 3,4-methylenedioxymethamphetamine per liter of blood, it shall be presumed that the accused was under the influence of drugs to a degree which impairs his ability to drive or operate any commercial motor vehicle safely.
+		</section>
+	</text>
+	<history>1989, c. 705, § 46.1-372.26; 1992, c. 830; 1994, cc. 359, 363; 2005, c. 616; 2017, c. 623.</history>
+</law>

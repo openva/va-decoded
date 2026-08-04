@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="3" level="3">Locations and Times for Registration</unit>
+	</structure>
+	<section_number>24.2-411.3</section_number>
+	<catch_line>Registration of Department of Motor Vehicles customers</catch_line>
+	<text>
+		<section prefix="A">Each person coming into an office of the Department of Motor Vehicles or accessing its website in order to (i) apply for, replace, or renew a driver's license or other document issued under Chapter 3 (§ 46.2-300 et seq.) of Title 46.2 except driver privilege cards or permits issued pursuant to § 46.2-328.3 or identification privilege cards issued pursuant to § 46.2-345.3; or (ii) change an address on an existing driver's license or other document issued under Chapter 3 (§ 46.2-300 et seq.) of Title 46.2 except driver privilege cards or permits issued pursuant to § 46.2-328.3 or identification privilege cards issued pursuant to § 46.2-345.3 shall be presented with (a) a question asking whether or not the person is a United States citizen and (b) the option to decline to have his information transmitted to the Department of Elections for voter registration purposes. The citizenship question and option to decline shall be accompanied by a statement that intentionally making a materially false statement during the transaction constitutes election fraud and is punishable under Virginia law as a felony.
+			The Department of Motor Vehicles may not transmit the information of any person who so declines. The Department of Motor Vehicles may not transmit the information of any person who indicates that he is not a United States citizen, nor may such person be asked any additional questions relevant to voter registration but not relevant to the purpose for which the person came to an office of the Department of Motor Vehicles or accessed its website.
+		</section>
+		<section prefix="B">For each person who does not select the option to decline to have his information transmitted to the Department of Elections for voter registration purposes and who has identified himself as a United States citizen, the Department of Motor Vehicles shall request any information as may be required by the State Board to ensure that the person meets all voter registration eligibility requirements.
+		</section>
+		<section prefix="C">The Department of Motor Vehicles shall electronically transmit to the Department of Elections, in accordance with the standards set by the State Board, the information collected pursuant to subsection B for any person who (i) has indicated that he is a United States citizen, (ii) has indicated that he is 17 years of age or older, and (iii) at the time of such transaction did not decline to have his information transmitted to the Department of Elections for voter registration purposes.
+		</section>
+		<section prefix="D">The Department of Elections shall use the information transmitted to determine whether a person already has a registration record in the voter registration system.
+			<section prefix="1">For any person who does not yet have a registration record in the voter registration system, the Department of Elections shall transmit the information to the appropriate general registrar. The general registrar shall accept or reject the registration of such person in accordance with the provisions of this chapter.
+			</section>
+			<section prefix="2">For any person who already has a registration record in the voter registration system, if the information indicates that the voter has moved within the Commonwealth, the Department of Elections shall transmit the information and the registration record to the appropriate general registrar, who shall treat such transmittal as a request for transfer and process it in accordance with the provisions of this chapter.
+			</section>
+			<section prefix="3">General registrars shall not register any person who does not satisfy all voter eligibility requirements.
+			</section>
+		</section>
+	</text>
+	<history>2020, cc. 908, 909, 1227, 1246; 2021, Sp. Sess. I, c. 544.</history>
+</law>

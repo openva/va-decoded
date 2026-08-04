@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="16.1" level="1">Courts Not of Record</unit>
+		<unit label="chapter" identifier="11" level="2">Juvenile and Domestic Relations District Courts</unit>
+		<unit label="article" identifier="17" level="3">Standby Guardianship</unit>
+	</structure>
+	<section_number>16.1-353</section_number>
+	<catch_line>Further proceedings to determine permanent guardianship, custody</catch_line>
+	<text>
+		<section prefix="A">If the triggering event was death of the qualified parent, within 90 days following the occurrence of the triggering event or, if later, commencement of the standby guardian's authority, the standby guardian shall (i) petition for appointment of a guardian for the child as otherwise provided by law or (ii) initiate other proceedings to determine custody of the child pursuant to Chapter 6.1 (§ 20-124.1 et seq.) of Title 20, or both.
+		</section>
+		<section prefix="B">In all other cases a standby guardian shall promptly after occurrence of the triggering event initiate such proceedings to determine permanent custody, absent objection by the qualified parent.
+			The petition shall be accompanied by:
+			<section prefix="1">The court order approving or written designation of a standby guardian; and
+			</section>
+			<section prefix="2">The attending physician's written determination of incompetence or debilitation; a verification of death; or evidence of the parent's detention, incarceration, or deportation in connection with an immigration action.
+			</section>
+		</section>
+	</text>
+	<history>1998, c. 829; 2021, Sp. Sess. I, c. 241.</history>
+</law>

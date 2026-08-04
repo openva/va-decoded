@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>13.1-614</section_number>
+	<catch_line>Hearing and finality of Commission action; injunctions</catch_line>
+	<text>
+		<section prefix="A">The Commission shall have no power to grant a hearing with respect to any certificate issued by the Commission with respect to any articles filed with the Commission except on a petition by a shareholder filed with the Commission and delivered to the corporation within 30 days after the effective date of the certificate, in which the shareholder asserts that the certification of corporate action contained in the articles contains a misstatement of a material fact as to compliance with statutory requirements, specifying the particulars thereof. After hearing, on notice in writing to the corporation and the shareholder, the Commission shall determine the issues and revoke or refuse to revoke its order accordingly.
+		</section>
+		<section prefix="B">No court in or outside of the Commonwealth shall have jurisdiction to enjoin or delay the holding of any meeting of directors or shareholders for the purpose of authorizing or consummating any amendment, correction, merger, share exchange, domestication, conversion, dissolution, or termination of corporate existence or the execution or filing with the Commission of any articles or other documents for such purpose, except pursuant to subsection C of § 13.1-661 or for fraud. No court in or outside of the Commonwealth, except the Supreme Court by way of appeal as authorized by law, shall have jurisdiction to review, reverse, correct, or annul any action of the Commission, within the scope of its authority, with regard to any articles, certificate, order, objection, or petition, or to suspend or delay the execution or operation thereof, or to enjoin, restrain, or interfere with the Commission in the performance of its official duties.
+		</section>
+		<section prefix="C">Notwithstanding any provision of subsection A to the contrary, the Commission shall have the power to act upon articles of correction filed by the corporation pursuant to § 13.1-607 or upon a petition filed by a corporation at any time to correct Commission records so as to eliminate the effects of clerical errors and of filings made by a person or persons without authority to act for the corporation, or on the Commission's own motion to correct Commission records so as to eliminate the effects of clerical errors committed by its staff.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-125; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2005, c. 765; 2008, c. 91; 2010, c. 782; 2015, c. 623; 2019, c. 734; 2023, cc. 529, 530.</history>
+</law>

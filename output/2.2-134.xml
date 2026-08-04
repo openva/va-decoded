@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="1" level="4">Governor</unit>
+		<unit label="article" identifier="3" level="5">Gubernatorial Commissions</unit>
+	</structure>
+	<section_number>2.2-134</section_number>
+	<catch_line>Authority to create gubernatorial commissions</catch_line>
+	<text>
+		<section prefix="A">The Governor may create gubernatorial commissions for purposes related to his authority and responsibility. These entities shall be referred to as "Commissions."
+		</section>
+		<section prefix="B">For the purpose of this chapter, "gubernatorial commission" includes any temporary study group, task force, blue ribbon panel or any similar collegial body created by the Governor.
+		</section>
+	</text>
+	<history>1984, c. 615, §§ 2.1-51.35, 2.1-51.36; 2001, c. 844.</history>
+</law>

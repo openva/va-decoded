@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="8" level="4">Accounting, Returns, Procedures for Estates and Trusts</unit>
+	</structure>
+	<section_number>58.1-380</section_number>
+	<catch_line>Accounting</catch_line>
+	<text>
+		<section prefix="A">An estate and trust taxable year under this chapter shall be the same as its taxable year for federal income tax purposes.
+		</section>
+		<section prefix="B">If a taxpayer's taxable year is changed for federal income tax purposes, its taxable year for purposes of this chapter shall be similarly changed. If a taxable year of less than twelve months results from a change of taxable year, the Virginia taxable income shall be prorated under regulations of the Department.
+		</section>
+		<section prefix="C">A taxpayer's method of accounting under this chapter shall be the same as its method of accounting for federal income tax purposes. In the absence of any method of accounting for federal income tax purposes, Virginia taxable income shall be computed under such method as in the opinion of the Tax Commissioner clearly reflects income.
+		</section>
+		<section prefix="D">If a taxpayer's method of accounting is changed for federal income tax purposes, its method of accounting for purposes of this chapter shall be similarly changed. If a taxpayer's method of accounting is changed, other than from an accrual to an installment method, any additional tax which results from adjustments determined to be necessary solely by reason of the change shall not be greater than if such adjustments were ratably allocated and included for the taxable year of the change and the preceding taxable years, not in excess of two, during which the taxpayer used the method of accounting from which the change is made. If a taxpayer's method of accounting is changed from an accrual to an installment method, any additional tax for the year of such change of method and for any subsequent year which is attributable to the receipt of installment payments properly accrued in a prior year, shall be reduced by the portion of tax for any prior taxable year attributable to the accrual of such installment payments, in accordance with regulations of the Department.
+		</section>
+		<section prefix="E">In computing a taxpayer's Virginia taxable income for any taxable year under a method of accounting different from the method under which the taxpayer's Virginia taxable income was computed, there shall be taken into account those adjustments which are determined, under regulations prescribed by the Department of Taxation, to be necessary solely by reason of change in order to prevent amounts from being duplicated or omitted.
+		</section>
+		<section prefix="F">Notwithstanding any other provisions of this section, any accounting adjustments made for federal income tax purposes for any taxable year shall be applied in computing the taxpayer's taxable income for such year.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.061; 1971, Ex. Sess., c. 171; 1984, c. 675.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="36" level="1">Housing</unit>
+		<unit label="chapter" identifier="6" level="2">Uniform Statewide Building Code</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>36-99.7</section_number>
+	<catch_line>Asbestos inspection in buildings to be renovated or demolished; exceptions</catch_line>
+	<text>
+		<section prefix="A">A local building department shall not issue a building permit allowing a building for which an initial building permit was issued before January 1, 1985, to be renovated or demolished until the local building department receives certification from the owner or his agent that the affected portions of the building have been inspected for the presence of asbestos by an individual licensed to perform such inspections pursuant to § 54.1-503 and that no asbestos-containing materials were found or that appropriate response actions will be undertaken in accordance with the requirements of the Clean Air Act National Emission Standard for the Hazardous Air Pollutant (NESHAPS) (40 CFR 61, Subpart M), and the asbestos worker protection requirements established by the U.S. Occupational Safety and Health Administration for construction workers (29 CFR 1926.1101). Local educational agencies that are subject to the requirements established by the Environmental Protection Agency under the Asbestos Hazard Emergency Response Act (AHERA) shall also certify compliance with 40 CFR 763 and subsequent amendments thereto.
+		</section>
+		<section prefix="B">To meet the inspection requirements of subsection A except with respect to schools, asbestos inspection of renovation projects consisting only of repair or replacement of roofing, floorcovering, or siding materials may be satisfied by a statement that the materials to be repaired or replaced are assumed to contain friable asbestos and that asbestos installation, removal, or encapsulation will be accomplished by a licensed asbestos contractor.
+		</section>
+		<section prefix="C">The provisions of this section shall not apply to single-family dwellings or residential housing with four or fewer units, unless the renovation or demolition of such buildings is for commercial or public development purposes. The provisions of this section shall not apply if the combined amount of regulated asbestos-containing material involved in the renovation or demolition is less than 260 linear feet on pipes or less than 160 square feet on other facility components or less than thirty-five cubic feet off facility components where the length or area could not be measured previously.
+		</section>
+		<section prefix="D">An abatement area shall not be reoccupied until the building official receives certification from the owner that the response actions have been completed and final clearances have been measured. The final clearance levels for reoccupancy of the abatement area shall be 0.01 or fewer asbestos fibers per cubic centimeter if determined by Phase Contrast Microscopy analysis (PCM) or 70 or fewer structures per square millimeter if determined by Transmission Electron Microscopy analysis (TEM).
+		</section>
+	</text>
+	<history>1987, c. 656; 1988, c. 723; 1989, c. 398; 1990, c. 823; 1993, c. 660; 1996, c. 742; 1997, c. 166.</history>
+</law>

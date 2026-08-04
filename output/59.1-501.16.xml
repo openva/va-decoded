@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>59.1-501.16</section_number>
+	<catch_line>Supplemental principles; good faith; commercial practice</catch_line>
+	<text>
+		<section prefix="a">Unless displaced by this chapter, principles of law and equity, including the merchant law and the common law of the Commonwealth relative to capacity to contract, principal and agent, estoppel, fraud, misrepresentation, duress, coercion, mistake, and other validating or invalidating cause, supplement this chapter. Among the laws supplementing and not displaced by this chapter are trade secret laws and unfair competition laws, including application of such laws as they may deal with failure to disclose defects.
+		</section>
+		<section prefix="b">Every contract or duty within the scope of this chapter imposes an obligation of good faith in its performance or enforcement.
+		</section>
+		<section prefix="c">Any usage of trade in the vocation or trade in which the parties are engaged or of which the parties are or should be aware and any course of dealing or course of performance between the parties are relevant to determining the existence or meaning of an agreement.
+		</section>
+	</text>
+	<history>2004, c. 794.</history>
+</law>

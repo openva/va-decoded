@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="53" level="4">Early Intervention Services System</unit>
+	</structure>
+	<section_number>2.2-5306</section_number>
+	<catch_line>Duties of local public agencies</catch_line>
+	<text>
+		Local public agencies represented on local interagency coordinating councils are responsible for:
+		<section prefix="1">Providing services as appropriate and agreed upon by members of the local interagency coordinating council;
+		</section>
+		<section prefix="2">Maintaining data and providing information as requested to their respective state agencies;
+		</section>
+		<section prefix="3">Developing and implementing interagency agreements;
+		</section>
+		<section prefix="4">Complying with applicable state and federal regulations and local policies and procedures; and
+		</section>
+		<section prefix="5">Following procedural safeguards and dispute resolution procedures as adopted by the Commonwealth.
+		</section>
+	</text>
+	<history>1992, c. 771, § 2.1-767; 2001, c. 844.</history>
+</law>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="6" level="3">Retail Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-601</section_number>
+	<catch_line>Administration of chapter</catch_line>
+	<text>
+		<section prefix="A">The Tax Commissioner shall administer and enforce the assessment and collection of the taxes and penalties imposed by this chapter, including the collection of state and local sales and use taxes from remote sellers.
+		</section>
+		<section prefix="B">In administering the collection of state and local sales and use taxes from remote sellers, the Tax Commissioner shall:
+			<section prefix="1">Provide adequate information to remote sellers to enable them to identify state and local sales and use tax rates and exemptions;
+			</section>
+			<section prefix="2">Provide adequate information to software providers to enable them to make software and services available to remote sellers;
+			</section>
+			<section prefix="3">Ensure that if the Department requires a periodic audit the remote seller may complete a single audit that covers the state and local sales and use taxes in all localities; and
+			</section>
+			<section prefix="4">Require no more than one sales and use tax return per month be filed with the Department by any remote seller or any software provider on behalf of such remote seller.
+			</section>
+		</section>
+		<section prefix="C">For purposes of evaluating the fiscal, economic and policy impact of sales and use tax exemptions, the Tax Commissioner may require from any person information relating to the evaluation of exempt purchases or sales, information relating to the qualification for exempt purchases, and information relating to direct or indirect government financial assistance that the person receives. Such information shall be filed on forms prescribed by the Tax Commissioner.
+		</section>
+	</text>
+	<history>Code 1950, § 58-441.40; 1966, c. 151; 1984, c. 675; 1988, c. 457; 2013, c. 766; 2019, cc. 815, 816, 854.</history>
+</law>

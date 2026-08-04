@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="V" level="2">Miscellaneous</unit>
+		<unit label="chapter" identifier="28" level="3">Trespasses; Fences</unit>
+		<unit label="article" identifier="1" level="4">Electric Fences</unit>
+	</structure>
+	<section_number>55.1-2802</section_number>
+	<catch_line>Unlawful to sell other controlling devices unless they meet certain standards</catch_line>
+	<text>
+		<section prefix="A">A controlling device that does not conform to the requirements of § 55.1-2801 shall not be sold, distributed, constructed, installed, maintained, or used unless it meets the following standards:
+			<section prefix="1">A peak-discharge-output type controlling device that delivers intermittent current of a value not in excess of four milliampere-seconds for a maximum "on" period of two-tenths second and a minimum "off" period of three-quarters second. The mean value of the peak output from such device shall progressively decrease from four milliampere-seconds at maximum "on" periods of both two-tenths and one-tenth second to three and two-tenths milliampere-seconds at six-hundredths second, one and nine-tenths milliampere-seconds at three-hundredths second, and consequently to shorter "on" periods as output current increases.
+			</section>
+			<section prefix="2">A sinusoidal-output type controlling device that delivers an intermittent current of a value not in excess of five milliamperes for a maximum "on" period of two-tenths second and a minimum "off" period of nine-tenths second. The effective value of the output from such device may increase as the "on" period decreases, increasing from 40 milliamperes for one-tenth second to 57 milliamperes for five-hundredths second, and 65 milliamperes for twenty-seven thousandths second.
+			</section>
+			<section prefix="3">Any other type of controlling device that delivers a maximum intermittent current output of a value not in excess of four milliampere-seconds for a maximum "on" period of two-tenths second and a minimum "off" period of nine-tenths second.
+			</section>
+		</section>
+		<section prefix="B">Notwithstanding the provisions of subsection A, no electric fence controlling device shall be sold, distributed, constructed, installed, maintained, or used that will permit for longer than one second an uninterrupted electric current on the fence with an effective value in excess of five milliamperes when the load, including the measuring device, is not less than 450 ohms nor more than 550 ohms.
+		</section>
+	</text>
+	<history>1982, c. 280, §§ 55-298.2, 55-298.3; 2019, c. 712.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="3" level="3">Locations and Times for Registration</unit>
+	</structure>
+	<section_number>24.2-415.1</section_number>
+	<catch_line>Persons authorized to receive voter registration applications</catch_line>
+	<text>
+		<section prefix="A">Any designated employee of a state-designated voter registration agency or Armed Forces recruitment office shall be authorized to receive a voter registration application when hand delivered by the applicant during the hours that the office is open.
+		</section>
+		<section prefix="B">The registration date for a valid voter registration application that has been hand delivered is the date when received by any general registrar or any person authorized to receive voter registration applications pursuant to subsection A.
+		</section>
+	</text>
+	<history>1996, cc. 72, 73; 2020, cc. 908, 909.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="3" level="2">Election Districts, Precincts, and Polling Places</unit>
+		<unit label="article" identifier="3" level="3">Requirements for Election Districts, Precincts, and Polling Places</unit>
+	</structure>
+	<section_number>24.2-306</section_number>
+	<catch_line>Changes not to be enacted within 60 days of general election; notice requirements</catch_line>
+	<text>
+		<section prefix="A">No change in any local election district, precinct, or polling place shall be enacted within 60 days next preceding any general election. Notice shall be published prior to enactment in a newspaper having general circulation in the election district or precinct once a week for two successive weeks. The published notice shall state where descriptions and maps of proposed boundary and polling place changes may be inspected.
+		</section>
+		<section prefix="B">Notice of any adopted change in any election district, town, precinct, or polling place other than in the location of the office of the general registrar shall be mailed to all registered voters whose election district, town, precinct, or polling place is changed at least 30 days prior to the next general, special, or primary election in which the voters will be voting in the changed election district, town, precinct, or polling place.
+			Notice of a change in the location of a polling place shall also be posted, to the extent practicable, at the location last used for such polling place on the day of the first primary election and first general election conducted in the new location. This notice shall also include information on how voters may find their polling place.
+			Notice of a change in the location of the office of the general registrar shall be given by posting on the official website of the county or city, by posting at not less than 10 public places, or by publication once in a newspaper of general circulation in the county or city within not more than 21 days in advance of the change or within seven days following the change.
+		</section>
+		<section prefix="C">Each county, city, and town shall comply with the applicable requirements of law, including §§ 24.2-304.3 and 30-395, and send copies of enacted changes, including a Geographic Information System (GIS) map showing the new boundaries of the districts or precincts, to the local electoral board, the Department, and the Division of Legislative Services. Any county, city, or town that does not have GIS capabilities may request the Department of Elections to create on its behalf a GIS map showing the boundaries of the new districts or precincts, and the Department of Elections shall create such a map.
+		</section>
+	</text>
+	<history>Code 1950, §§ 24-49 through 24-51; 1970, c. 462, § 24.1-39; 1971, Ex. Sess., c. 119; 1993, c. 641; 1995, c. 249; 2003, c. 1015; 2004, c. 1000; 2012, cc. 328, 486; 2019, cc. 777, 778; 2020, Sp. Sess. I, c. 56; 2021, Sp. Sess. I, cc. 528, 533; 2022, Sp. Sess. I, c. 1; 2024, cc. 312, 461.</history>
+</law>

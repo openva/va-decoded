@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="21" level="3">Check Cashers</unit>
+	</structure>
+	<section_number>6.2-2102</section_number>
+	<catch_line>Exempt persons</catch_line>
+	<text>
+		This chapter shall not apply to:
+		<section prefix="1">Any person who:
+			a. Does not hold itself out to be a check cashing service;
+			b. Is principally engaged in the bona fide retail sale of goods or services;
+			c. Either as an incident to or independently of such a retail sale from time to time cashes items; and
+			d. Charges a fee or other consideration for the service that does not exceed the greater of $2 or two percent of the amount of the item; or
+		</section>
+		<section prefix="2">Any person authorized to engage in business as a bank, savings institution, or credit union under the laws of the United States or any state.
+		</section>
+	</text>
+	<history>1995, c. 221, § 6.1-434; 2010, c. 794.</history>
+</law>

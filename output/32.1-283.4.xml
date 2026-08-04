@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="8" level="2">Postmortem Examinations and Services</unit>
+		<unit label="article" identifier="1" level="3">Chief Medical Examiner and Postmortem Examinations</unit>
+	</structure>
+	<section_number>32.1-283.4</section_number>
+	<catch_line>Confidentiality of certain information and records collected and maintained by the Office of the Chief Medical Examiner</catch_line>
+	<text>
+		<section prefix="A">Confidential records and information obtained from private and public entities and provided to the Office of the Chief Medical Examiner during the course of a death investigation shall remain confidential and shall not be subject to the provisions of the Virginia Freedom of Information Act (§ 2.2-3700 et seq.).
+		</section>
+		<section prefix="B">Information and records concerning a decedent collected and maintained by the Office of the Chief Medical Examiner during the course of surveillance programs or research or studies of deaths having public health importance shall be confidential and may only be published in summary or aggregate form or as authorized by the Chief Medical Examiner.
+		</section>
+		<section prefix="C">The confidential records and information set forth in subsections A and B shall not be subject to subpoena, subpoena duces tecum, or discovery when in the possession of the Office of the Chief Medical Examiner, or be admissible in any criminal or civil proceeding through any discovery relating to the Office. If available from other sources, however, such records and information shall not be immune from subpoena duces tecum, or discovery when obtained through such other sources solely because the records and information were presented to the Office during a death investigation.
+		</section>
+		<section prefix="D">Nothing in this section shall be construed to prohibit the disclosure or publication of the findings of investigations, surveillance programs, research, and studies in aggregate or statistical form from which personal identifiers have been removed.
+		</section>
+	</text>
+	<history>2005, c. 37; 2007, c. 868.</history>
+</law>

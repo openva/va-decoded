@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="V" level="2">Domestic Animals</unit>
+		<unit label="chapter" identifier="65" level="3">Comprehensive Animal Care</unit>
+		<unit label="article" identifier="10" level="4">Mandatory Sterilization of Dogs and Cats Adopted From Releasing Agencies</unit>
+	</structure>
+	<section_number>3.2-6575</section_number>
+	<catch_line>Sterilization agreement</catch_line>
+	<text>
+		Any agreement used by a releasing agency pursuant to subsection B of § 3.2-6574 shall contain:
+		<section prefix="1">The date of the agreement;
+		</section>
+		<section prefix="2">The names, addresses, and signatures of the releasing agency and the new owner;
+		</section>
+		<section prefix="3">A description of the dog or cat to be adopted;
+		</section>
+		<section prefix="4">The date by which the dog or cat is required to be sterilized; and
+		</section>
+		<section prefix="5">A statement printed in conspicuous, bold print, that sterilization of the dog or cat is required under this article; that a person who violates this article is subject to a civil penalty; and that the new owner may be compelled to comply with the provisions of this article.
+		</section>
+	</text>
+	<history>1993, c. 959, § 3.1-796.126:2; 2008, c. 860.</history>
+</law>

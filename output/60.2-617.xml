@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="6" level="2">Benefits</unit>
+		<unit label="article" identifier="4" level="3">Eligibility Criteria</unit>
+	</structure>
+	<section_number>60.2-617</section_number>
+	<catch_line>Benefits denied to certain aliens</catch_line>
+	<text>
+		<section prefix="A">Benefits shall not be paid on the basis of services performed by an alien unless such individual was lawfully admitted for permanent residence at the time such services were performed, was lawfully present for purposes of performing such services, or was permanently and lawfully residing in the United States under color of law at the time such services were performed. The provisions of this subsection shall include aliens who were lawfully present in the United States as a result of the application of the provisions of § 1153 (a) (7) or § 1182 (d) (5) of the Immigration and Nationality Act (8 U.S.C. § 1101 et seq.). Additionally, any modifications to the provisions of § 3304 (a) (14) of the Federal Unemployment Tax Act (26 U.S.C. § 3301 et seq.) which specify other conditions or other effective dates than stated herein for the denial of benefits based on services performed by aliens and which modifications are required to be implemented under state law as a condition for full tax credit against the tax imposed by the Federal Unemployment Tax Act, shall be deemed applicable under the provisions of this section.
+		</section>
+		<section prefix="B">Any data or information required of individuals claiming benefits to determine whether benefits are not payable to them because of their alien status shall be uniformly required from all applicants for benefits.
+		</section>
+		<section prefix="C">In the case of an individual whose claim for benefits would otherwise be approved, no determination that benefits to such individual are not payable because of his alien status shall be made except upon a preponderance of the evidence.
+		</section>
+	</text>
+	<history>1977, c. 330, § 60.1-52.5:1; 1986, c. 480.</history>
+</law>

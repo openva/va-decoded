@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="3" level="2">Provisions Relating to Insurance Policies and Contracts</unit>
+	</structure>
+	<section_number>38.2-318</section_number>
+	<catch_line>Validity of noncomplying forms</catch_line>
+	<text>
+		<section prefix="A">Any insurance policy or form containing any condition or provision that is not in compliance with this title shall be valid, but shall be construed and applied in accordance with the conditions and provisions required by this title.
+		</section>
+		<section prefix="B">As used in this section, "form" means any contract, rider, endorsement, amendment, certificate, or application or other instrument providing, modifying, or eliminating insurance coverage.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-343; 1986, c. 562.</history>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="23" level="2">Virginia Electric Utility Regulation Act</unit>
+	</structure>
+	<section_number>56-594.01:1</section_number>
+	<catch_line>Local facilities usage charges; electric cooperatives</catch_line>
+	<text>
+		<section prefix="A">For the purpose of this section:
+			"Electric cooperative" or "cooperative" means a utility formed under or subject to Chapter 9.1 (§ 56-231.15 et seq.) and subject to regulation as to rates and service by the Commission.
+			"Customer" means a customer interconnected to facilities of an electric cooperative pursuant to 20VAC5-314, generating or interconnected for export, which customer is neither selling power to the cooperative nor interconnected pursuant to § 56-594.01 or 56-594.2.
+		</section>
+		<section prefix="B">Any customer may enter into an agreement for local facilities usage charges, which may be denominated as an operations and maintenance agreement or facilities agreement or otherwise. Such agreement shall be deemed just and reasonable by operation of law without separate approval by the Commission.
+		</section>
+		<section prefix="C">In the absence of an agreement between the parties, an electric cooperative may apply at any time to the Commission for a tariff for local facilities usage charges for the use of cooperative system facilities. Local facilities usage charges shall be designed by the cooperative, either on the basis of line-miles of utility facilities used or the capacity of the interconnecting facility, or on the basis of a combination of these factors. The Commission shall approve a just and reasonable rate. In approving such rate, the Commission shall consider (i) the ongoing costs of operating and maintaining all local utility facilities used by interconnecting customers to access a contract path to PJM Interconnection, LLC, market delivery points, including a reasonable margin and all costs of any associated regulatory proceeding, and (ii) standard utility practices. The Commission is not required to conduct a hearing on any application pursuant to this subsection, but the Commission shall order notice to each affected customer and an opportunity to comment. Any party to the proceeding shall have the right to request a hearing on the application. Any proceeding conducted pursuant to this subsection shall be completed within 12 months of its commencement. Once the Commission approves a tariff for charges as described in this subsection, any interconnected customer shall be subject to the tariff thereafter. However, any agreements entered into pursuant to subsection B shall continue to have force and effect according to their terms and shall not be subject to the tariff unless the customer desires to transition to tariffed services.
+		</section>
+		<section prefix="D">In the absence of an agreement executed pursuant to subsection B or a specific tariff approved for local facilities usage charges pursuant to subsection C, any electric cooperative with a previously approved tariff for excess facilities charges may use such tariff to recover local facilities usage charges without seeking separate approval from the Commission. Any customer impacted by any action of a cooperative pursuant to this subsection shall have the right to petition the Commission for redress and review of the charges as applied to the customer by initiating a petition proceeding pursuant to subsection C of 5VAC5-20-100. The petitioner shall bear the burden of proof in such proceeding. If a cooperative's acts are found to be unjust or unreasonable, such a proceeding shall include the establishment of a tariff pursuant to subsection C. If such a proceeding includes the establishment of a tariff pursuant to subsection C, the cooperative shall bear the burden of proof. The results of any such proceeding shall not, in any case, invalidate an excess facilities tariff or charges as to any person other than the customer initiating the proceeding.
+		</section>
+		<section prefix="E">The provisions of this section shall be applied notwithstanding any other provision of law.
+		</section>
+	</text>
+	<history>2022, cc. 363, 364.</history>
+</law>

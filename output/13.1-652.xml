@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Shares and Distributions</unit>
+	</structure>
+	<section_number>13.1-652</section_number>
+	<catch_line>Corporation's acquisition of its own shares</catch_line>
+	<text>
+		<section prefix="A">A corporation may acquire its own shares, and shares so acquired constitute authorized but unissued shares of the same class, if any, but undesignated as to series.
+		</section>
+		<section prefix="B">If the articles of incorporation prohibit the reissuance of acquired shares or if the board of directors has authorized the reduction in the number of authorized shares by the number of shares acquired, the number of authorized shares shall be reduced by the number of shares acquired effective when the certificate of amendment is effective. The corporation shall deliver to the Commission for filing articles of amendment that shall set forth:
+			<section prefix="1">The name of the corporation;
+			</section>
+			<section prefix="2">The reduction in the number of authorized shares, itemized by class and series;
+			</section>
+			<section prefix="3">The total number of authorized shares, itemized by class and series, remaining after reduction of the shares; and
+			</section>
+			<section prefix="4">A statement that the reduction in the number of authorized shares was required by the articles of incorporation or was adopted by the board of directors without shareholder approval pursuant to this section, with the date of adoption.
+			</section>
+		</section>
+		<section prefix="C">The articles of amendment may be adopted by the board of directors without shareholder action.
+		</section>
+		<section prefix="D">If the Commission finds that the articles of amendment comply with the requirements of law and that all required fees have been paid, it shall issue a certificate of amendment.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13.1-65, 13.1-66; 1956, c. 428; 1958, c. 564; 1985, c. 522; 2005, c. 765; 2019, c. 734; 2020, c. 1226.</history>
+</law>

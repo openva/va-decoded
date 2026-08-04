@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="4" level="4">Hazardous Waste Management</unit>
+	</structure>
+	<section_number>10.1-1428</section_number>
+	<catch_line>Financial responsibility for abandoned facilities; penalties</catch_line>
+	<text>
+		<section prefix="A">The Board shall promulgate regulations which ensure that, if a facility in which hazardous waste is stored, treated, or disposed is closed or abandoned, the costs associated with protecting the public health and safety from the consequences of such abandonment may be recovered from the person abandoning the facility.
+		</section>
+		<section prefix="B">Such regulations may include bonding requirements, the creation of a trust fund to be maintained within the Department, self-insurance, other forms of commercial insurance, or other mechanisms that the Department deems appropriate. Regulations governing the amount thereof shall take into consideration the potential for contamination and injury by the hazardous waste, the cost of disposal of the hazardous waste and the cost of restoring the facility to a safe condition.
+		</section>
+		<section prefix="C">No state agency shall be required to comply with such regulations.
+		</section>
+		<section prefix="D">Forfeiture of any financial obligation imposed pursuant to this section shall not relieve any holder of a permit issued pursuant to this article of any other legal obligations for the consequences of abandonment of any facility.
+		</section>
+		<section prefix="E">Any funds forfeited pursuant to this section and the regulations of the Board shall be paid over to the Director, who shall then expend the forfeited funds as necessary to restore and maintain the facility in a safe condition. Nothing in this section shall require the Director to expend funds from any other source to carry out the activities contemplated under this section.
+		</section>
+		<section prefix="F">Any person who knowingly and willfully abandons a hazardous waste management facility without proper closure or without providing adequate financial assurance instruments for such closure shall, if such failure to close results in a significant harm or an imminent and substantial threat of significant harm to human health or the environment, be liable to the Commonwealth and any political subdivision for the costs incurred in abating, controlling, preventing, removing, or containing such harm or threat.
+			Any person who knowingly and willfully abandons a hazardous waste management facility without proper closure or without providing adequate financial assurance instruments for such closure shall, if such failure to close results in a significant harm or an imminent and substantial threat of significant harm to human health or the environment, be guilty of a Class 4 felony.
+		</section>
+	</text>
+	<history>1986, c. 492, § 10-281; 1988, c. 891; 1991, c. 702; 2005, c. 180.</history>
+</law>

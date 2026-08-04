@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3104</section_number>
+	<catch_line>No policy to be issued purporting to take effect more than six months before application made; conversion permitted</catch_line>
+	<text>
+		<section prefix="A">No life insurance policy delivered or issued for delivery in this Commonwealth shall be backdated more than six months from the date the written application for the insurance was made if the premium on the policy is less than the premium that would be payable on the policy, as determined by the nearest birthday of the insured when the application was made.
+		</section>
+		<section prefix="B">Neither the provisions of subsection A of this section nor any other provision of general law shall prohibit the conversion or exchange to some form of life insurance dated back to become effective at an age not less than the insured's age at his nearest birthday on the date of issue of the existing contract for:
+			<section prefix="1">A policy insuring one person for a policy insuring another person dated not earlier than the original policy exchanged;
+			</section>
+			<section prefix="2">The conversion of any existing life insurance policy; or
+			</section>
+			<section prefix="3">Any deferred annuity contract purchased by a consideration payable in annual or more frequent installments, and under which no annuity payments have yet been made.
+				The exchanged or converted form of life insurance shall not exceed the greater of (i) the amount of insurance under the existing policy or (ii) the amount of insurance that the premium or consideration paid for the existing policy or contract would have purchased at the insured's age on his nearest birthday at the date of issue of the existing policy or contract.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 38-363; 1952, c. 317, § 38.1-435; 1956, c. 417; 1980, c. 205; 1986, c. 562.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="2" level="3">Formation and Terms</unit>
+	</structure>
+	<section_number>59.1-502.13</section_number>
+	<catch_line>Determining attribution</catch_line>
+	<text>
+		<section prefix="a">An electronic authentication, display, message, record, or performance is attributed to a person if it was the act of the person or its electronic agent, or if the person is bound by it under agency or other law. The party relying on attribution of an electronic authentication, display, message, record, or performance to another person has the burden of establishing attribution.
+		</section>
+		<section prefix="b">The act of a person may be shown in any manner, including a showing of the efficacy of an attribution procedure that was agreed to or adopted by the parties or established by law.
+		</section>
+		<section prefix="c">The effect of an electronic act attributed to a person under subsection (a) is determined from the context at the time of its creation, execution, or adoption, including the parties' agreement, if any, or otherwise as provided by law.
+		</section>
+		<section prefix="d">If an attribution procedure exists to detect errors or changes in an electronic authentication, display, message, record, or performance, and was agreed to or adopted by the parties or established by law, and one party conformed to the procedure but the other party did not, and the nonconforming party would have detected the change or error had that party also conformed, the effect of noncompliance is determined by the agreement but, in the absence of agreement, the conforming party may avoid the effect of the error or change.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="9" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-1050.4</section_number>
+	<catch_line>Reinstatement of a limited liability company that has ceased to exist</catch_line>
+	<text>
+		<section prefix="A">A limited liability company that has ceased to exist may apply to the Commission for reinstatement within five years thereafter, unless the cancellation was by order of the Commission (i) entered pursuant to subdivision A 1 of § 13.1-1050.3 or (ii) entered pursuant to § 13.1-1047 and the circuit court's decree directing dissolution contains no provision for reinstatement of the existence of the limited liability company.
+		</section>
+		<section prefix="B">To have its existence reinstated, a limited liability company shall provide the Commission with the following:
+			<section prefix="1">An application for reinstatement, which may be in the form of a letter, that includes the identification number issued by the Commission to the limited liability company;
+			</section>
+			<section prefix="2">A reinstatement fee of $100;
+			</section>
+			<section prefix="3">All annual registration fees and penalties that were due before the limited liability company ceased to exist and that would have been assessed or imposed to the date of reinstatement if the limited liability company's existence had not been canceled;
+			</section>
+			<section prefix="4">If the name of the limited liability company does not comply with the provisions of § 13.1-1012 at the time of reinstatement, articles of amendment to the articles of organization to change the limited liability company's name to a name that satisfies the provisions of § 13.1-1012, with the fee required by this chapter for the filing of articles of amendment; and
+			</section>
+			<section prefix="5">If the limited liability company's registered agent has filed a statement of resignation and a new registered agent has not been appointed, a statement of change pursuant to § 13.1-1016.
+			</section>
+		</section>
+		<section prefix="C">If the limited liability company complies with the provisions of this section, the Commission shall enter an order of reinstatement of existence. Upon entry of the order, the existence of the limited liability company shall be deemed to have continued from the date of the cancellation as if cancellation had never occurred, and any liability incurred by the limited liability company or a member, manager, or other agent after the cancellation and before the reinstatement is determined as if cancellation of the limited liability company's existence had never occurred.
+		</section>
+	</text>
+	<history>2008, c. 108; 2013, c. 17.</history>
+</law>

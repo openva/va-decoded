@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="10" level="2">Department of Medical Assistance Services</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>32.1-325.3</section_number>
+	<catch_line>Disclosure or use of information for purpose not connected with medical assistance program; Department not subject to certain disclosure</catch_line>
+	<text>
+		<section prefix="A">The Board of Medical Assistance Services shall promulgate regulations consistent with federal law to provide safeguards against the use or disclosure of information, including information provided to a managed care organization pursuant to § 32.1-330.5, concerning applicants for and recipients of medical assistance services for any purpose that is not directly connected with the administration of the state plan for medical assistance services.
+		</section>
+		<section prefix="B">Information in the possession or control of the Department or a managed care organization pursuant to § 32.1-330.5 concerning applicants for and recipients of medical assistance services shall not be subject to disclosure through discovery in litigation to which the Department is not a necessary party, unless the appropriate circuit court, for good cause shown, shall order such disclosure.
+		</section>
+	</text>
+	<history>1989, c. 67; 1992, c. 107; 2018, c. 382.</history>
+</law>

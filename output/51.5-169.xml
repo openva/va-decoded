@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="51.5" level="1">Persons With Disabilities</unit>
+		<unit label="chapter" identifier="14" level="2">Department for Aging and Rehabilitative Services</unit>
+		<unit label="article" identifier="10" level="3">Community-Based Services for People With Disabilities</unit>
+	</structure>
+	<section_number>51.5-169</section_number>
+	<catch_line>Cooperative agreements with community services boards and schools</catch_line>
+	<text>
+		No services funded under the authority of this article shall be provided to:
+		<section prefix="1">Persons whose primary impairment is mental illness, intellectual disability, or substance abuse, except by cooperative agreement with the local community services board established pursuant to Chapter 5 (§ 37.2-500 et seq.) of Title 37.2 or the behavioral health authority established pursuant to Chapter 6 (§ 37.2-600 et seq.) of Title 37.2 when that board or authority is currently offering the same services; or
+		</section>
+		<section prefix="2">Public school-aged persons, except by cooperative agreement with that person's school.
+		</section>
+	</text>
+	<history>1985, c. 421, §§ 51.01-30, 51.5-30; 2012, cc. 476, 507, 803, 835.</history>
+</law>

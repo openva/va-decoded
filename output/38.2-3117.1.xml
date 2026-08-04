@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="1.1" level="3">Use of Retained Asset Accounts</unit>
+	</structure>
+	<section_number>38.2-3117.1</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article, unless the context requires a different meaning:
+		"Insurer" means an insurance company licensed in the Commonwealth that offers retained asset accounts for death benefits.
+		"Policy" means any policy or certificate of insurance that provides a death benefit.
+		"Retained asset account" means any mechanism whereby the settlement of proceeds payable under a life insurance policy is accomplished by the insurer or an entity acting on behalf of the insurer depositing the proceeds into an account with check or draft writing privileges where those proceeds are retained by the insurer pursuant to a supplementary contract not involving annuity benefits.
+	</text>
+	<history>2011, cc. 194, 227.</history>
+</law>

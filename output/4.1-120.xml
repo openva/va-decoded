@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="4.1" level="1">Alcoholic Beverage and Cannabis Control</unit>
+		<unit label="subtitle" identifier="I" level="2">Alcoholic Beverage Control Act</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+	</structure>
+	<section_number>4.1-120</section_number>
+	<catch_line>When government stores closed</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsection B, no sale or delivery of alcoholic beverages shall be made at any government store, nor shall any such store be kept open for the sale of alcoholic beverages:
+			<section prefix="1">On Sunday;
+			</section>
+			<section prefix="2">On Thanksgiving Day, Christmas Day and New Year's Day; or
+			</section>
+			<section prefix="3">During such other periods and on such other days as the Board may direct.
+			</section>
+		</section>
+		<section prefix="B">Certain government stores, as determined by the Board, may be open on Sunday for the sale of alcoholic beverages after 10:00 a.m.
+		</section>
+	</text>
+	<history>Code 1950, § 4-19; 1972, c. 138; 1992, c. 129; 1993, c. 866; 2004, c. 1002; 2008, c. 134; 2012, c. 245; 2019, cc. 810, 811.</history>
+</law>

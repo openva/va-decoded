@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="27" level="3">Uniform Powers of Appointment Act</unit>
+		<unit label="article" identifier="3" level="4">Exercise of Power of Appointment</unit>
+	</structure>
+	<section_number>64.2-2723</section_number>
+	<catch_line>Disposition of unappointed property under released or unexercised nongeneral power</catch_line>
+	<text>
+		To the extent that a powerholder releases, ineffectively exercises, or fails to exercise a nongeneral power of appointment:
+		<section prefix="1">The gift-in-default clause controls the disposition of the unappointed property; or
+		</section>
+		<section prefix="2">If there is no gift-in-default clause or to the extent that the clause is ineffective, the unappointed property:
+			a. Passes to the permissible appointees if:
+			<section prefix="1">The permissible appointees are defined and limited; and
+			</section>
+			<section prefix="2">The terms of the instrument creating the power do not manifest a contrary intent; or
+				b. If there is no taker under subdivision 2 a, passes under a reversionary interest to the donor or the donor's transferee or successor in interest.
+			</section>
+		</section>
+	</text>
+	<history>2016, c. 266.</history>
+</law>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="17.2" level="2">Uniform Foreign-Country Money Judgments Recognition Act</unit>
+	</structure>
+	<section_number>8.01-465.13:3</section_number>
+	<catch_line>Standards for recognition of foreign-country judgment</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsections B and C, a court of the Commonwealth shall recognize a foreign-country judgment to which this chapter applies.
+		</section>
+		<section prefix="B">A court of the Commonwealth shall not recognize a foreign-country judgment if:
+			<section prefix="1">The judgment was rendered under a judicial system that does not provide impartial tribunals or procedures compatible with the requirements of due process of law;
+			</section>
+			<section prefix="2">The foreign court did not have personal jurisdiction over the defendant; or
+			</section>
+			<section prefix="3">The foreign court did not have jurisdiction over the subject matter.
+			</section>
+		</section>
+		<section prefix="C">A court of the Commonwealth need not recognize a foreign-country judgment if:
+			<section prefix="1">The defendant in the proceeding in the foreign court did not receive notice of the proceeding in sufficient time to enable the defendant to defend;
+			</section>
+			<section prefix="2">The judgment was obtained by fraud that deprived the losing party of an adequate opportunity to present its case;
+			</section>
+			<section prefix="3">The judgment or the cause of action on which the judgment is based is repugnant to the public policy of the Commonwealth or of the United States;
+			</section>
+			<section prefix="4">The judgment conflicts with another final and conclusive judgment;
+			</section>
+			<section prefix="5">The proceeding in the foreign court was contrary to an agreement between the parties under which the dispute in question was to be determined otherwise than by proceedings in that foreign court;
+			</section>
+			<section prefix="6">In the case of jurisdiction based only on personal service, the foreign court was a seriously inconvenient forum for the trial of the action;
+			</section>
+			<section prefix="7">The judgment was rendered in circumstances that raise substantial doubt about the integrity of the rendering court with respect to the judgment; or
+			</section>
+			<section prefix="8">The specific proceeding in the foreign court leading to the judgment was not compatible with the requirements of due process of law.
+			</section>
+		</section>
+		<section prefix="D">A party resisting recognition of a foreign-country judgment has the burden of establishing that a ground for nonrecognition stated in subsection B or C exists.
+		</section>
+	</text>
+	<history>2014, c. 462.</history>
+</law>

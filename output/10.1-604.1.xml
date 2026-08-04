@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="6" level="3">Flood Protection and Dam Safety</unit>
+		<unit label="article" identifier="2" level="4">Dam Safety Act</unit>
+	</structure>
+	<section_number>10.1-604.1</section_number>
+	<catch_line>Determination of hazard potential classification</catch_line>
+	<text>
+		<section prefix="A">The hazard potential classification for an impounding structure shall be determined by one of the following procedures:
+			<section prefix="1">The owner of an impounding structure that does not currently hold a regular or conditional certificate from the Board or general permit in accordance with § 10.1-605.3, or the owner of an impounding structure that is already under certificate or general permit in accordance with § 10.1-605.3 but the owner believes that a condition has changed downstream of the impounding structure that may reduce its hazard potential classification, may request that the Department conduct a simplified dam break inundation zone analysis to determine whether the impounding structure has a low hazard potential classification. The owner shall pay 50 percent of the cost of the analysis. If the Department finds that the impounding structure has a low hazard potential classification, the owner shall be eligible for general permit coverage in accordance with § 10.1-605.3. If the Department finds that the impounding structure appears to be a high or significant hazard potential structure, the owner's engineer shall provide further analysis in accordance with § 10.1-606.2 and the criteria set out in the Impounding Structure Regulations (4VAC50-20). The owner may be eligible for grant assistance in accordance with § 10.1-603.19.
+			</section>
+			<section prefix="2">The owner may propose a hazard potential classification that shall be subject to approval by the Board. To support the proposed hazard classification, an analysis shall be conducted by the owner's engineer and shall comply with the criteria set out in the Impounding Structure Regulations (4VAC50-20). If the engineer finds that the impounding structure has a low hazard potential classification, the owner shall be eligible for general permit coverage in accordance with § 10.1-605.3.
+				An impounding structure's hazard potential classification's determination shall include an analysis of those hazards created by flood and nonflood dam failures. In conducting the hazard potential classification, the Department or the owner's engineer may utilize an incremental damage analysis. When considering the failure of the impounding structure under a flood condition, such engineers shall only consider those hazards that exceed those created by the flood event.
+			</section>
+		</section>
+		<section prefix="B">Any owner aggrieved by a decision of the Department regarding his impounding structure shall have the right to judicial review of the final decision pursuant to the provisions of the Administrative Process Act (§ 2.2-4000 et seq.).
+		</section>
+		<section prefix="C">The Board may adopt regulations in accordance with § 10.1-605 to establish a simplified methodology for dam break inundation zone analysis.
+		</section>
+	</text>
+	<history>2011, c. 637; 2025, cc. 228, 241.</history>
+</law>

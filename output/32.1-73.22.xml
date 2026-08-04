@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="22" level="3">Statewide Sickle Cell Disease Registry</unit>
+	</structure>
+	<section_number>32.1-73.22</section_number>
+	<catch_line>Information from hospitals, clinics, certain laboratories, and physicians supplied to Commissioner; statewide sickle cell disease registry</catch_line>
+	<text>
+		<section prefix="A">Each hospital, clinic, and independent pathology laboratory shall make available to the Commissioner or his agents information on patients having sickle cell disease. A physician shall report information on patients having sickle cell disease unless he has determined that a hospital, clinic, or in-state pathology laboratory has reported the information. Such information shall include the name, address, sex, race, diagnosis, trait status, newborn screening data, and any other pertinent identifying information regarding each such patient. Each hospital, clinic, independent pathology laboratory, or physician shall provide other available clinical information as defined by the Board.
+		</section>
+		<section prefix="B">From such information the Commissioner shall establish and maintain a statewide sickle cell disease registry. The purpose of the statewide sickle cell disease registry shall include:
+			<section prefix="1">Determining means of improving the diagnosis and treatment of sickle cell disease patients.
+			</section>
+			<section prefix="2">Determining the need for and means of providing better long-term, follow-up care to sickle cell disease patients.
+			</section>
+			<section prefix="3">Conducting epidemiological analyses of the incidence, prevalence, survival, and risk factors associated with the occurrence of sickle cell disease in Virginia.
+			</section>
+			<section prefix="4">Improving rehabilitative programs for sickle cell disease patients.
+			</section>
+			<section prefix="5">Assisting in the training of hospital personnel.
+			</section>
+			<section prefix="6">Determining other needs of sickle cell disease patients and health personnel.
+			</section>
+		</section>
+	</text>
+	<history>2024, c. 437.</history>
+</law>

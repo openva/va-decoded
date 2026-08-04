@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="3" level="3">Injury to Person or Property</unit>
+	</structure>
+	<section_number>8.01-40.2</section_number>
+	<catch_line>Unsolicited transmission of advertising materials by facsimile machine</catch_line>
+	<text>
+		<section prefix="A">Any person aggrieved by the intentional electronic or telephonic transmission to a facsimile device of unsolicited advertising material may bring an action against the person responsible for the transmission to enjoin further violations and to recover the greater of (i) actual damages sustained, together with costs and reasonable attorneys' fees, or (ii) $500. Carriers or other companies which provide facsimile transmission services shall not be responsible for transmissions of unsolicited advertising materials by their customers. An action brought pursuant to this section shall be commenced within two years of the transmission.
+		</section>
+		<section prefix="B">Any intentional transmission to a facsimile device of any unsolicited advertising material shall be a violation of the Virginia Consumer Protection Act (§ 59.1-196 et seq.).
+		</section>
+	</text>
+	<history>1990, c. 246; 2003, c. 800.</history>
+</law>

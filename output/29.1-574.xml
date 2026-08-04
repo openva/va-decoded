@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="29.1" level="1">Wildlife, Inland Fisheries and Boating</unit>
+		<unit label="chapter" identifier="5" level="2">Wildlife and Fish Laws</unit>
+		<unit label="article" identifier="7" level="3">Nonindigenous Aquatic Nuisance Species Act</unit>
+	</structure>
+	<section_number>29.1-574</section_number>
+	<catch_line>Prohibitions</catch_line>
+	<text>
+		<section prefix="A">No person shall knowingly import, possess, transport, sell, purchase, give, receive, or introduce into the Commonwealth any member of a species designated as a nonindigenous aquatic nuisance species without a permit from the Director issued pursuant to § 29.1-575.
+		</section>
+		<section prefix="B">Subsection A shall not apply to any person who (i) lawfully catches a snakehead fish of the family Channidae, (ii) subsequently kills such fish, and (iii) notifies the Department, as soon as practicable, of his actions.
+		</section>
+		<section prefix="C">Subsection A shall not apply to any Hazard Analysis and Critical Control Point (HACCP) plan (21 C.F.R. 120 et seq.) certified restaurant or retail market that purchases from an HACCP certified dealer or sells processed snakehead fish of the family Channidae.
+		</section>
+	</text>
+	<history>2003, c. 446; 2005, c. 916; 2018, c. 559.</history>
+</law>

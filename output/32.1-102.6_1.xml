@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="4" level="2">Health Care Planning</unit>
+		<unit label="article" identifier="1.1" level="3">Medical Care Facilities Certificate of Public Need</unit>
+	</structure>
+	<section_number>32.1-102.6:1</section_number>
+	<catch_line>Revocation of a certificate</catch_line>
+	<text>
+		The Commissioner shall revoke a certificate of public need for:
+		<section prefix="1">Failure to comply with the requirements of subsection A of § 32.1-102.4 regarding schedules for completion of a project or maximum capital expenditures for a project; or
+		</section>
+		<section prefix="2">Willfully or recklessly misrepresented intentions or facts in obtaining a certificate.
+		</section>
+	</text>
+	<history>2020, c. 1271.</history>
+</law>

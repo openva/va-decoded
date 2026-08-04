@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="7" level="4">Requirements Applicable to Underground Coal Mines; Mine Construction</unit>
+		<unit label="article" identifier="8" level="5">Transportation</unit>
+	</structure>
+	<section_number>45.2-754</section_number>
+	<catch_line> Transportation of material</catch_line>
+	<text>
+		<section prefix="A">Any equipment, material, or supplies being transported shall be loaded in a manner that protects the operator and other personnel from sliding equipment, material, or supplies.
+		</section>
+		<section prefix="B">Any equipment, material, or supplies that are not necessary for the operation of a piece of self-propelled mobile equipment shall not be transported on such equipment, except for when the mobile equipment is designed to carry such materials or supplies and no hazard is created. Only small hand tools and materials or supplies that do not create hazards may be transported in the same compartment of a mantrip where any miner is seated.
+		</section>
+	</text>
+	<history>Code 1950, § 45-69.1; 1954, c. 191; 1966, c. 594, § 45.1-73; 1979, c. 315; 1983, c. 70; 1985, c. 302; 1994, c. 28, § 45.1-161.143; 1999, c. 256; 2021, Sp. Sess. I, c. 387.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1097</section_number>
+	<catch_line>Registered office and registered agent</catch_line>
+	<text>
+		<section prefix="A">The registered office and registered agent in the Commonwealth for a series limited liability company are the registered office and registered agent in the Commonwealth for each protected series of the series limited liability company.
+		</section>
+		<section prefix="B">A person that ceases to be the registered agent for a series limited liability company ceases to be the registered agent for each protected series of the series limited liability company.
+		</section>
+		<section prefix="C">A person that ceases to be the registered agent for a protected series of a series limited liability company, other than a protected series that has been canceled, ceases to be the registered agent of the series limited liability company and of any other protected series of the series limited liability company.
+		</section>
+		<section prefix="D">Except as otherwise agreed by a series limited liability company and its registered agent, the agent is not obligated to distinguish between a process, notice, demand, or other record concerning the series limited liability company and a process, notice, demand, or other record concerning a protected series of the series limited liability company.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

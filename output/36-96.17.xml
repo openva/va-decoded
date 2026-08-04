@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="36" level="1">Housing</unit>
+		<unit label="chapter" identifier="5.1" level="2">Virginia Fair Housing Law</unit>
+	</structure>
+	<section_number>36-96.17</section_number>
+	<catch_line>Civil action by Attorney General; matters involving the legality of any local zoning or other land use ordinance; pattern or practice cases; or referral of conciliation agreement for enforcement</catch_line>
+	<text>
+		<section prefix="A">If the Board determines, after consultation with the Office of the Attorney General, that an alleged discriminatory housing practice involves (i) the legality of any local zoning or land use ordinance or (ii) activity proscribed in subsection C of § 36-96.3, instead of issuing a charge, the Board shall immediately refer the matter to the Attorney General for civil action in the appropriate circuit court for appropriate relief. A civil action under this subsection shall be commenced no later than the expiration of 18 months after the date of the occurrence or the termination of the alleged discriminatory housing practice.
+		</section>
+		<section prefix="B">Whenever the Attorney General has reasonable cause to believe that any person or group of persons is engaged in a pattern or practice of resistance to the full enjoyment of any of the rights granted by this chapter, or that any group of persons has been denied any of the rights granted by this chapter and such denial raises an issue of general public importance, the Attorney General may commence a civil action in the appropriate circuit court for appropriate relief.
+		</section>
+		<section prefix="C">In the event of a breach of a conciliation agreement by a respondent, the Board may authorize a civil action by the Attorney General. The Attorney General may commence a civil action in any appropriate circuit court for appropriate relief. A civil action under this subsection shall be commenced no later than the expiration of 90 days after the referral of such alleged breach.
+		</section>
+		<section prefix="D">The Attorney General, on behalf of the Board, or other party at whose request a subpoena is issued, under this chapter, may enforce such subpoena in appropriate proceedings in the appropriate circuit court.
+		</section>
+		<section prefix="E">In a civil action under subsections A, B, and C, the court may:
+			<section prefix="1">Award such preventive relief, including a permanent or temporary injunction, restraining order, or other order against the person responsible for a violation of this chapter as is necessary to assure the full enjoyment of the rights granted by this chapter.
+			</section>
+			<section prefix="2">Assess a civil penalty against the respondent (i) in an amount not exceeding $50,000 for a first violation and (ii) in an amount not exceeding $100,000 for any subsequent violation.
+			</section>
+			<section prefix="3">Award the prevailing party reasonable attorney fees and costs. The Commonwealth shall be liable for such fees and costs to the extent provided by the Code of Virginia.
+				The court or jury may award such other relief to the aggrieved person, as the court deems appropriate, including compensatory damages, and punitive damages without limitation otherwise imposed by state law.
+			</section>
+		</section>
+		<section prefix="F">Upon timely application, any person may intervene in a civil action commenced by the Attorney General under subsection A, B, or C that involves an alleged discriminatory housing practice with respect to which such person is an aggrieved person or a party to a conciliation agreement. The court may grant such appropriate relief to any such intervening party as is authorized to be granted to a plaintiff in a civil action under § 36-96.18.
+		</section>
+	</text>
+	<history>1991, c. 557; 1994, c. 814; 2021, Sp. Sess. I, c. 267.</history>
+</law>

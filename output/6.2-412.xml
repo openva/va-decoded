@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="4" level="3">Certain Lending Practices</unit>
+		<unit label="article" identifier="2" level="4">Loans Secured by Lien on Real Estate</unit>
+	</structure>
+	<section_number>6.2-412</section_number>
+	<catch_line>Insurance coverage under certain loans not to exceed replacement value of improvements</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Flood insurance coverage" means insurance against loss or damage to any property caused by flooding or the rising of the waters of the ocean or its tributaries.
+			"Property insurance coverage" means insurance against losses or damages caused by perils that commonly are covered in insurance policies described with terms similar to "standard fire" or "standard fire with extended coverage."
+		</section>
+		<section prefix="B">No lender shall require a borrower, as a condition to receiving or maintaining a loan secured by any mortgage or deed of trust, to provide or purchase property insurance coverage or flood insurance coverage against risks to any improvements on any real property in an amount exceeding the replacement value of the improvements on the real property.
+		</section>
+		<section prefix="C">In determining the replacement value of the improvements on any real property, the lender may:
+			<section prefix="1">Accept the value placed on the improvements by the insurer; or
+			</section>
+			<section prefix="2">Use the value placed on the improvements that is determined by the lender's appraisal of the real property.
+			</section>
+		</section>
+		<section prefix="D">A violation of this section shall not affect the validity of the mortgage or deed of trust securing the loan.
+		</section>
+	</text>
+	<history>1989, c. 230, § 6.1-2.6:1; 2010, c. 794; 2014, c. 247.</history>
+</law>

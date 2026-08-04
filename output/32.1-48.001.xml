@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="3" level="3">Disease Control Measures</unit>
+	</structure>
+	<section_number>32.1-48.001</section_number>
+	<catch_line>(For contingent effective date, see Acts 2021, Sp. Sess. I, c. 472, cl. 2) Real-time information sharing for emergency medical services agencies</catch_line>
+	<text>
+		<section prefix="A">The Department shall develop and implement a system for sharing information regarding confirmed cases of communicable diseases of public health threat with emergency medical services agencies in real time during a declared public health emergency related to a communicable disease of public health threat, in order to protect the health and safety of emergency medical services personnel and the public. Such system shall include information about the location of confirmed cases of the communicable disease of public health threat, including the address of such location; the number of confirmed and suspected cases of the communicable disease of public health threat at each such location; any measures implemented at such location to prevent exposing others to the communicable disease of public health threat; and any other information that the Department shall deem appropriate. Such system shall be updated in real time to reflect each confirmed case of the communicable disease of public health threat.
+		</section>
+		<section prefix="B">During a declared public health emergency related to a communicable disease of public health threat, every local and district health department in the Commonwealth shall report information regarding confirmed and suspected cases of the communicable disease of public health threat to the Department, in a format specified by the Board, for inclusion in the system developed pursuant to subsection A.
+		</section>
+		<section prefix="C">Information contained in the system developed pursuant to subsection A shall be made available to every emergency medical services agency in the Commonwealth and shall be used by such emergency medical services agencies for the purpose of (i) developing protocols to ensure the safety of emergency medical services personnel and the public when responding to calls for assistance at locations at which a case of the communicable disease of public health threat has been confirmed, including protocols related to appropriate staffing of the emergency medical services agency and the availability and use of appropriate equipment, including personal protective equipment, by emergency medical services personnel when responding to such calls, and (ii) during a declared public health emergency related to a communicable disease of public health threat, identifying specific locations at which a case of such communicable disease of public health threat has been confirmed for the purpose of implementing such protocols when responding to calls for assistance.
+		</section>
+		<section prefix="D">The Department shall make information submitted pursuant to subsection B and any other information contained in the system developed pursuant to subsection A available, upon request, to the Emergency Medical Services Advisory Board and each regional emergency medical services council, for the purpose of monitoring and improving the quality of emergency medical services in the Commonwealth.
+		</section>
+		<section prefix="E">The Department shall regularly consult with the Emergency Medical Services Advisory Board to identify the types of information that should be included in the system developed pursuant to subsection A and to revise reporting requirements for local and district health departments pursuant to subsection B.
+		</section>
+		<section prefix="F">Information contained in the system developed pursuant to subsection A shall be confidential and shall not be disclosed except in accordance with this section.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 472.</history>
+</law>

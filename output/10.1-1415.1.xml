@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3" level="4">Litter Control and Recycling</unit>
+	</structure>
+	<section_number>10.1-1415.1</section_number>
+	<catch_line>Labeling of plastic container products required; penalty</catch_line>
+	<text>
+		<section prefix="A">It shall be unlawful for any person to sell, expose for sale, or distribute any plastic bottle or rigid plastic container unless the container is labeled indicating the plastic resin used to produce the container. Such label shall appear on or near the bottom of the container, be clearly visible, and consist of a number placed within three triangulated arrows and letters placed below the triangle of arrows. The triangulated arrows shall be equilateral, formed by three arrows with the apex of each point of the triangle at the midpoint of each arrow, rounded with a short radius. The pointer (arrowhead) of each arrow shall be at the midpoint of each side of the triangle with a short gap separating the pointer from the base of the adjacent arrow. The triangle, formed by three arrows curved at their midpoints, shall depict a clockwise path around the code number. The numbers and letters shall be as follows:
+			<section prefix="1">For polyethylene terepthalate, the letters "PETE" and the number 1.
+			</section>
+			<section prefix="2">For high density polyethylene, the letters "HDPE" and the number 2.
+			</section>
+			<section prefix="3">For vinyl, the letter "V" and the number 3.
+			</section>
+			<section prefix="4">For low density polyethylene, the letters "LDPE" and the number 4.
+			</section>
+			<section prefix="5">For polypropylene, the letters "PP" and the number 5.
+			</section>
+			<section prefix="6">For polystyrene, the letters "PS" and the number 6.
+			</section>
+			<section prefix="7">For any other plastic resin, the letters "OTHER" and the number 7.
+			</section>
+		</section>
+		<section prefix="B">As used in subsection A of this section:
+			"Container," unless otherwise specified, refers to "rigid plastic container" or "plastic bottle" as those terms are defined below.
+			"Plastic bottle" means a plastic container intended for single use that has a neck that is smaller than the container, accepts a screw-type, snap cap or other closure and has a capacity of sixteen fluid ounces or more but less than five gallons.
+			"Rigid plastic container" means any formed or molded container, other than a bottle, intended for single use, composed predominantly of plastic resin, and having a relatively inflexible finite shape or form with a capacity of eight ounces or more but less than five gallons.
+		</section>
+		<section prefix="C">Any person convicted of a violation of the provisions of subsection A of this section shall be punished by a fine of not more than fifty dollars. Each day of violation shall constitute a separate offense.
+		</section>
+	</text>
+	<history>1990, c. 519.</history>
+</law>

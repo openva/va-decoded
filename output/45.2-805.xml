@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="2" level="5">Electricity</unit>
+	</structure>
+	<section_number>45.2-805</section_number>
+	<catch_line> Underground transformers</catch_line>
+	<text>
+		Every transformer that is used underground shall be air-cooled or filled with nonflammable liquid or inert gas.
+	</text>
+	<history>Code 1950, § 45-82.2; 1954, c. 191; 1966, c. 594, § 45.1-76; 1994, c. 28, § 45.1-161.183; 2021, Sp. Sess. I, c. 387.</history>
+</law>

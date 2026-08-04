@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="2" level="2">Form, Formation and Readjustment of Contract</unit>
+	</structure>
+	<section_number>8.2-207</section_number>
+	<catch_line>Additional terms in acceptance or confirmation</catch_line>
+	<text>
+		<section prefix="1">A definite and seasonable expression of acceptance or a written confirmation which is sent within a reasonable time operates as an acceptance even though it states terms additional to or different from those offered or agreed upon, unless acceptance is expressly made conditional on assent to the additional or different terms.
+		</section>
+		<section prefix="2">The additional terms are to be construed as proposals for addition to the contract. Between merchants such terms become part of the contract unless:
+			<section prefix="a">the offer expressly limits acceptance to the terms of the offer;
+			</section>
+			<section prefix="b">they materially alter it; or
+			</section>
+			<section prefix="c">notification of objection to them has already been given or is given within a reasonable time after notice of them is received.
+			</section>
+		</section>
+		<section prefix="3">Conduct by both parties which recognizes the existence of a contract is sufficient to establish a contract for sale although the writings of the parties do not otherwise establish a contract. In such case the terms of the particular contract consist of those terms on which the writings of the parties agree, together with any supplementary terms incorporated under any other provisions of this act.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

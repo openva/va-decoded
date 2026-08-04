@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="17" level="3">Police and Public Order</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>15.2-1718.1</section_number>
+	<catch_line>Receipt of missing senior adult reports</catch_line>
+	<text>
+		<section prefix="A">No police or sheriff's department shall establish or maintain any policy which requires the observance of any waiting period before accepting a missing senior adult report. Upon receipt of a missing senior adult report by any police or sheriff's department, the department shall immediately, but in all cases within two hours of receiving the report, enter identifying and descriptive data about the senior adult into the Virginia Criminal Information Network and the National Crime Information Center Systems, forward the report to the Department of State Police, notify all other law-enforcement agencies in the area, and initiate an investigation of the case.
+		</section>
+		<section prefix="B">For purposes of this section:
+			"Missing senior adult report" means a report prepared in a format prescribed by the Superintendent of State Police for use by law-enforcement agencies to report missing senior adult information and photograph to the Department of State Police.
+		</section>
+	</text>
+	<history>2007, cc. 486, 723.</history>
+</law>

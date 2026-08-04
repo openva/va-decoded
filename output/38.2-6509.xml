@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="65" level="2">Virginia Health Benefit Exchange</unit>
+	</structure>
+	<section_number>38.2-6509</section_number>
+	<catch_line>Choice</catch_line>
+	<text>
+		<section prefix="A">In accordance with § 1312(f)(2)(A) of the Federal Act, a qualified employer may either designate one or more qualified health plans from which its eligible employees may choose or designate any level of coverage to be made available to eligible employees through an Exchange.
+		</section>
+		<section prefix="B">In accordance with § 1312(b) of the Federal Act, a qualified individual enrolled in any qualified health plan may pay any applicable premium owed by such individual to the health carrier issuing such qualified health plan.
+		</section>
+		<section prefix="C">In accordance with § 1312(d) of the Federal Act:
+			<section prefix="1">This section shall not prohibit:
+				a. A health carrier from offering outside of an Exchange a health benefit plan to a qualified individual or qualified employer; or
+				b. A qualified individual from enrolling in, or a qualified employer from selecting for its eligible employees, a health benefit plan offered outside of an Exchange; and
+			</section>
+			<section prefix="2">This section shall not limit the operation of any requirement under state law or regulation with respect to any policy or plan that is offered outside of the Exchange with respect to any requirement to offer benefits.
+			</section>
+		</section>
+		<section prefix="D">Nothing in this section shall restrict the choice of a qualified individual to enroll or not to enroll in a qualified health plan or to participate in an Exchange.
+		</section>
+		<section prefix="E">Nothing in this section shall compel an individual to enroll in a qualified health plan or to participate in an Exchange.
+		</section>
+		<section prefix="F">A qualified individual may enroll in any qualified health plan, except that in the case of a catastrophic plan described in § 1302(e) of the Federal Act, a qualified individual may enroll in the plan only if the individual is eligible to enroll in the plan under § 1302(e)(2) of the Federal Act.
+		</section>
+		<section prefix="G">In accordance with § 1312(e) of the Federal Act, the Exchange may, for a licensed agent who agrees to comply with regulatory requirements, including advance registration with the Exchange, completion of training, and adherence to privacy and security standards set by the Exchange, allow such licensed agents:
+			<section prefix="1">To enroll qualified individuals and qualified employers in any qualified health plan or any qualified dental plan offered through the Exchange for which the individual or employer is eligible; and
+			</section>
+			<section prefix="2">To assist qualified individuals in applying for premium tax credits and cost-sharing reductions for qualified health plans purchased through the Exchange.
+			</section>
+		</section>
+	</text>
+	<history>2020, cc. 916, 917.</history>
+</law>

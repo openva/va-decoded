@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="2" level="3">Formation and Terms</unit>
+	</structure>
+	<section_number>59.1-502.6</section_number>
+	<catch_line>Offer and acceptance; electronic agents</catch_line>
+	<text>
+		<section prefix="a">A contract may be formed by the interaction of electronic agents. If the interaction results in the electronic agents' engaging in operations that under the circumstances indicate acceptance of an offer, a contract is formed, but a court may grant appropriate relief if the operations resulted from fraud, electronic mistake, or the like.
+		</section>
+		<section prefix="b">A contract may be formed by the interaction of an electronic agent and an individual acting on the individual's own behalf or for another person. A contract is formed if the individual takes an action or makes a statement that the individual can refuse to take or say and that the individual has reason to know will:
+			<section prefix="1">cause the electronic agent to perform, provide benefits, or allow the use or access that is the subject of the contract, or send instructions to do so; or
+			</section>
+			<section prefix="2">indicate acceptance, regardless of other expressions or actions by the individual to which the individual has reason to know the electronic agent cannot react.
+			</section>
+		</section>
+		<section prefix="c">The terms of a contract formed under subsection (b) are determined under § 59.1-502.8 or § 59.1-502.9 but do not include a term provided by the individual if the individual had reason to know that the electronic agent could not react to the term.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Shareholders</unit>
+	</structure>
+	<section_number>13.1-666</section_number>
+	<catch_line>Quorum and voting requirements for voting groups</catch_line>
+	<text>
+		<section prefix="A">Shares entitled to vote as a separate voting group may take action at a meeting only if a quorum of those shares exists for the meeting. Unless the articles of incorporation or this chapter provides otherwise, shares representing a majority of the votes entitled to be cast at the meeting by the voting group constitutes a quorum of that voting group for the meeting. Whenever this chapter requires a particular quorum for a specified action, the articles of incorporation may not provide for a lower quorum. Less than a quorum may adjourn a meeting.
+		</section>
+		<section prefix="B">Once a share is represented for any purpose at a meeting, it is deemed present for quorum purposes for the remainder of the meeting and for any adjournment of that meeting unless a new record date is or shall be set for that adjourned meeting.
+		</section>
+		<section prefix="C">If a quorum exists, action on a matter, other than the election of directors, by a voting group is approved if the votes cast within the voting group favoring the action exceed the votes cast opposing the action, unless the articles of incorporation or this chapter requires a greater number of affirmative votes. An abstention or an election by a shareholder not to vote on the action because of the failure to receive voting instructions from the beneficial owner of the shares shall not be considered a vote cast.
+		</section>
+		<section prefix="D">An amendment of the articles of incorporation adding, changing, or deleting a quorum or voting requirement for a voting group greater than specified in subsection A or C is governed by section § 13.1-668.
+		</section>
+		<section prefix="E">The election of directors is governed by § 13.1-669.
+		</section>
+		<section prefix="F">Whenever a provision of this chapter provides for voting of classes or series of shares as separate voting groups, the rules provided in subsection C of § 13.1-708 for amendments of the articles of incorporation apply to that provision.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-31; 1956, c. 428; 1985, c. 522; 2007, c. 165; 2019, c. 734.</history>
+</law>

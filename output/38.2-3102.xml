@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3102</section_number>
+	<catch_line>Domestic insurers prohibited from insuring lives and persons of residents of "reciprocal states."</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "reciprocal state" means a state whose laws prohibit its domestic insurers from insuring the lives or persons of residents of this Commonwealth unless the insurer is licensed in this Commonwealth. The prohibition may be subject to exceptions similar to those set forth in subsection C of this section.
+		</section>
+		<section prefix="B">Subject to the exceptions set forth in subsection C of this section, a domestic insurer shall not enter into an insurance contract upon the life or person of a resident of a reciprocal state unless the insurer is licensed in that state.
+		</section>
+		<section prefix="C">The following are exceptions to the provisions of subsection B of this section:
+			<section prefix="1">Contracts entered into when the person insured, or proposed to be insured, is, at the time he signs the application, personally present in a state where the insurer is licensed;
+			</section>
+			<section prefix="2">Certificates issued under any lawfully issued group life or group accident and sickness policy, when the group policy is entered into in a state where the insurer is licensed;
+			</section>
+			<section prefix="3">Contracts made pursuant to a pension or retirement plan of an employer, when the contracts are applied for in a state where the employer is personally present or doing business and where the insurer is also licensed; or
+			</section>
+			<section prefix="4">Contracts renewed, reinstated, converted, or continued in force, with or without modification, that are otherwise lawful and that were not originally executed in violation of this section.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 38-364; 1952, c. 317, § 38.1-433; 1986, c. 562.</history>
+</law>

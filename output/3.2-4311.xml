@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="43" level="3">Grades, Marks, and Brands</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>3.2-4311</section_number>
+	<catch_line>Defenses to prosecution</catch_line>
+	<text>
+		No person shall be convicted under the provisions of this article if:
+		<section prefix="1">The person is not a party to the packing, grading, or marking of such product; or
+		</section>
+		<section prefix="2">The agricultural product has passed inspection by an authorized inspector in the voluntary inspection service of the Department, or the U.S. Department of Agriculture, and found to be marked in accordance with the requirements of this article.
+		</section>
+	</text>
+	<history>Code 1950, § 3-269; 1966, c. 702, § 3.1-348; 2008, c. 860.</history>
+</law>

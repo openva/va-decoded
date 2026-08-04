@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3" level="2">Protection of Employees</unit>
+		<unit label="article" identifier="2.1" level="3">Paid Sick Leave</unit>
+	</structure>
+	<section_number>40.1-33.3</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article, unless the context requires a different meaning:
+		"Employee" means  a home health worker who works on average at least 20 hours per week or 90 hours per month. "Employee" does not include an individual who (i) is licensed, registered, or certified by a health regulatory board within the Department of Health Professions; (ii) is employed by a hospital licensed by the Department of Health; and (iii) works, on average, no more than 30 hours per month.
+		"Employer" has the same meaning as provided in § 40.1-2. "Employer" does not include any agency of the federal government.
+		"Family member" means:
+		<section prefix="1">Regardless of age, a biological child, adopted or foster child, stepchild, legal ward, child to whom the employee stands in loco parentis, or individual to whom an employee stood in loco parentis when the individual was a minor;
+		</section>
+		<section prefix="2">A biological parent, foster parent, stepparent, adoptive parent, legal guardian of an employee or an employee's spouse, or individual who stood in loco parentis to an employee when the employee or employee's spouse was a minor child;
+		</section>
+		<section prefix="3">An individual to whom an employee is legally married under the laws of any state;
+		</section>
+		<section prefix="4">A grandparent, grandchild, or sibling, whether of a biological, foster, adoptive, or step relationship, of an employee or the employee's spouse;
+		</section>
+		<section prefix="5">An individual for whom an employee is responsible for providing or arranging care, including helping that individual obtain diagnostic, preventive, routine, or therapeutic health treatment; or
+		</section>
+		<section prefix="6">Any other individual related by blood or affinity whose close association with an employee is the equivalent of a family relationship.
+			"Home health worker" means  an individual who provides personal care, respite, or companion services to an individual who receives consumer-directed services under the state plan for medical assistance services.
+			"Paid sick leave" means  leave that is compensated at the same hourly rate and with the same benefits, including health care benefits, as an employee normally earns during hours worked and is provided by an employer to an employee for the purposes described in § 40.1-33.5; however, such hourly rate shall not be less than the minimum wage amount set forth in § 40.1-28.10 without reduction for any tip credit that the employer would otherwise be permitted to claim.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 449.</history>
+</law>

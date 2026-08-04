@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="10" level="2">Dockets</unit>
+	</structure>
+	<section_number>8.01-331</section_number>
+	<catch_line>Entry of cases on current dockets</catch_line>
+	<text>
+		When any civil action is commenced in a circuit court, or any such action is removed to such court and the required writ tax and fees thereon paid, the clerk shall enter the same in the civil docket. These dockets may be either (i) a substantial, well-bound loose-leaf book, (ii) a visible card index or (iii) automated data processing media. Each case shall be entered on the civil docket, on which shall be entered:
+		<section prefix="1">The short style of the suit or action,
+		</section>
+		<section prefix="2">The names of the attorneys,
+		</section>
+		<section prefix="3">The nature of the suit or action, and
+		</section>
+		<section prefix="4">The date filed and case file number.
+			In addition the docket may contain the following information applicable in an individual case as deemed appropriate:
+		</section>
+		<section prefix="1">The names of the parties,
+		</section>
+		<section prefix="2">The date of the issuance of process,
+		</section>
+		<section prefix="3">A memorandum of the service of process,
+		</section>
+		<section prefix="4">A memorandum of the orders and proceedings in the case, and
+		</section>
+		<section prefix="5">The hearing date(s) and type(s) of hearing(s) conducted on such date(s).
+			The clerk may enter the clerk's fees in the case on such docket instead of in the fee book.
+			Cases appealed from the juvenile and domestic relations district courts shall be docketed as provided in this section and, to the extent inconsistent with this section, § 16.1-302.
+		</section>
+	</text>
+	<history>Code 1950, §§ 8-160, 8-165; 1954, c. 333; 1956, c. 307; 1977, c. 617; 1983, c. 293; 1990, c. 258; 2005, c. 681.</history>
+</law>

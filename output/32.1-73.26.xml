@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="22" level="3">Statewide Sickle Cell Disease Registry</unit>
+	</structure>
+	<section_number>32.1-73.26</section_number>
+	<catch_line>Notification of sickle cell disease patients of statewide sickle cell disease registry reporting</catch_line>
+	<text>
+		<section prefix="A">Any physician diagnosing sickle cell disease shall, at such time and in such manner as considered appropriate by such physician, notify each patient whose name and record abstract is required to be reported to the statewide sickle cell disease registry pursuant to § 32.1-73.22 that personal identifying information about him has been included in the registry as required by law. Any physician required to so notify a patient that personal identifying information about him has been included in the sickle cell disease registry may, when, in the opinion of the physician, such notice would be injurious to the patient's health or well-being, provide the required notice to the patient's authorized representative or next of kin in lieu of notifying the patient.
+		</section>
+		<section prefix="B">Upon request to the statewide sickle cell disease registry, the patient whose personal identifying information has been submitted to such registry shall have a right to know the identity of the reporter of his information to such registry. A patient diagnosed with sickle cell disease may self-report information to the statewide sickle cell disease registry. A patient diagnosed with sickle cell disease shall have the right to opt out of having his data reported to the statewide sickle cell disease registry.
+		</section>
+	</text>
+	<history>2024, c. 437.</history>
+</law>

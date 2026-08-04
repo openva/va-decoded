@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-1411.1</section_number>
+	<catch_line>Investment limits generally</catch_line>
+	<text>
+		<section prefix="A">Any securities described in 15 U.S.C. § 77r-1 shall be subject to all the limitations prescribed by this chapter for investments not guaranteed by the full faith and credit of the United States. However, upon prior written application by an insurer, the Commission may, until July 1, 1992, at its discretion, allow such insurer to increase its investments in § 77r-1 securities to an amount not to exceed ten percent of the insurer's total admitted assets.
+		</section>
+		<section prefix="B">On and after July 1, 1992, investments made in any securities described in 15 U.S.C. § 77r-1 shall be subject to the percentage limitations and requirements set forth in this chapter.
+		</section>
+	</text>
+	<history>1991, c. 283; 1992, c. 588.</history>
+</law>

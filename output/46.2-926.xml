@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="8" level="3">Regulation of Traffic</unit>
+		<unit label="article" identifier="16" level="4">Pedestrians</unit>
+	</structure>
+	<section_number>46.2-926</section_number>
+	<catch_line>Pedestrians stepping into highway where they cannot be seen</catch_line>
+	<text>
+		<section prefix="A">No pedestrian shall step into a highway open to moving vehicular traffic at any point between intersections where his presence would be obscured from the vision of drivers of approaching vehicles by a vehicle or other obstruction at the curb or side. The foregoing prohibition shall not apply to a pedestrian stepping into a highway to board a bus or to enter a safety zone, in which event he shall cross the highway only at right angles.
+		</section>
+		<section prefix="B">No law-enforcement officer shall stop a pedestrian for a violation of this section. No evidence discovered or obtained as the result of a stop in violation of this subsection, including evidence discovered or obtained with the person's consent, shall be admissible in any trial, hearing, or other proceeding.
+		</section>
+	</text>
+	<history>Code 1950, § 46-245; 1958, c. 541, § 46.1-232; 1989, c. 727; 2020, Sp. Sess. I, cc. 45, 51.</history>
+</law>

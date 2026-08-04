@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="21" level="4">Setoff Debt Collection Act</unit>
+	</structure>
+	<section_number>58.1-532</section_number>
+	<catch_line>Accounting to claimant agency; confidentiality; credit to debtor's obligation</catch_line>
+	<text>
+		<section prefix="A">Simultaneously with the transmittal of proceeds collected to a claimant agency, the Department shall provide the agency with an accounting of the setoffs finalized for which payment is being made. The accounting, whenever possible, shall include the full names of the debtors and the debtors' social security numbers. No federal tax return information shall be divulged by the Department under any circumstances.
+		</section>
+		<section prefix="B">Upon receipt by a claimant agency of proceeds collected on a claimant agency's behalf by the Department and an accounting of the proceeds as specified under this section, the claimant agency shall credit the debtor's obligation.
+		</section>
+	</text>
+	<history>Code 1950, § 58-19.19; 1981, c. 408; 1982, c. 621; 1984, c. 675.</history>
+</law>

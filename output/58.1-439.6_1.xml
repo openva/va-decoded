@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="13" level="4">Tax Credits for Corporations</unit>
+	</structure>
+	<section_number>58.1-439.6:1</section_number>
+	<catch_line>Worker training tax credit</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Eligible worker training" means the training of a qualified employee or non-highly compensated worker in the form of (i) credit or noncredit courses at any institution recognized on the Eligible Training Provider List or at any Virginia public institution of higher education, as such term is defined in § 23.1-100, or as described in §§ 23.1-3111, 23.1-3115, 23.1-3120, and 23.1-3125, that results in the qualified employee or non-highly compensated worker receiving a workforce credential or (ii) instruction or training that is part of an apprenticeship agreement approved by the Commissioner of Labor and Industry.
+			"Industry-recognized" means demonstrating competency or proficiency in the technical and occupational skills identified as necessary for performing functions of an occupation based on standards developed or endorsed by employers or industry organizations.
+			"Manufacturing" means processing, manufacturing, refining, mining, or converting products for sale or resale.
+			"Non-highly compensated worker" means a worker whose income is less than Virginia's median wage, as reported by the Virginia Employment Commission, in the taxable year prior to applying for the credit. "Non-highly compensated worker" does not include an owner or relative.
+			"Owner" means an individual who owns, directly or indirectly, more than a five percent interest in the business claiming the credit.
+			"Qualified employee" means an employee of a business eligible for a credit under this section in a full-time position requiring a minimum of 1,680 hours in the entire normal year of the business' operations if the standard fringe benefits are paid by the business for the employee. Employees in seasonal or temporary positions shall not qualify as qualified employees. "Qualified employee" does not include an owner or relative.
+			"Relative" means a spouse, child, grandchild, parent, or sibling of an owner.
+			"Workforce credential" means an industry-recognized (i) certification, (ii) certificate, or (iii) degree.
+		</section>
+		<section prefix="B">1. For taxable years beginning on and after January 1, 2019, but prior to July 1, 2025, a business shall be allowed a credit against the taxes imposed by Articles 2 (§ 58.1-320 et seq.), 6 (§ 58.1-360 et seq.), and 10 (§ 58.1-400 et seq.) of Chapter 3; Chapter 12 (§ 58.1-1200 et seq.); Article 1 (§ 58.1-2500 et seq.) of Chapter 25; or Article 2 (§ 58.1-2620 et seq.) of Chapter 26 in an amount equal to 35 percent of expenses incurred by the business during the taxable year for eligible worker training. If the recipient of the training is a qualified employee, the credit shall not exceed $500 per qualified employee annually. If the recipient of the training is a non-highly compensated worker, the credit shall not exceed $1,000 per non-highly compensated worker annually.
+			<section prefix="2">For taxable years beginning on and after January 1, 2019, but prior to January 1, 2025, a business primarily engaged in manufacturing shall be allowed a credit against the taxes imposed by Articles 2 (§ 58.1-320 et seq.) and 10 (§ 58.1-400 et seq.) in an amount equal to 35 percent of its direct costs incurred during the taxable year in conducting orientation, instruction, and training in the Commonwealth relating to the manufacturing activities undertaken by the business. In no event shall the credit allowed to a business under this subdivision exceed $2,000 for any taxable year. The Department shall allow credit only for programs that (i) provide orientation, instruction, and training solely to students in grades six through 12; (ii) are coordinated with the local school division; and (iii) are conducted either at a plant or facility owned, leased, rented, or otherwise used by the business or at a public middle or high school in the Commonwealth. The taxpayer shall include in its direct costs only the following expenditures: (a) salaries or wages paid to instructors and trainers, prorated for the period of instruction or training; (b) costs for orientation, instruction, and training materials; (c) amounts paid for machinery and equipment used primarily for such instruction and training; and (d) the cost of leased or rented space used primarily for conducting the program.
+			</section>
+			<section prefix="3">The total amount of tax credits granted under this section for each fiscal year shall not exceed $1 million.
+			</section>
+		</section>
+		<section prefix="C">For purposes of this section, the amount of any credit attributable to a partnership, electing small business corporation (S corporation), or limited liability company shall be allocated to the individual partners, shareholders, or members, respectively, in proportion to their ownership or interest in such business entities.
+		</section>
+		<section prefix="D">1. A business shall be allowed a credit pursuant to subdivision B 1 only for those programs and providers that have been approved for inclusion in the Commonwealth's Eligible Training Provider List. The Workforce Innovation Opportunity Act Title 1 Administrator shall provide the Tax Commissioner with the approved list annually.
+			<section prefix="2">A business shall be allowed the credit pursuant to subdivision B 2 only for an orientation, instruction, and training program that has been approved by the local school division and certified as eligible by the Department of Education. A business seeking a tax credit under subdivision B 2 shall include in its application reviewed by the Department of Education an approval from the local school division. The Department of Education shall review requests for certification submitted by businesses and shall advise the Tax Commissioner whether an orientation, instruction, and training program qualifies as relating to the manufacturing activities undertaken by the business and meets other applicable requirements.
+			</section>
+			<section prefix="3">The Tax Commissioner shall develop guidelines (i) establishing procedures for claiming the credit provided by this section and (ii) providing for the allocation of credits among businesses requesting credits in the event that the amount of credits for which requests are made exceeds the available amount of credits in any year. Such guidelines shall be exempt from the provisions of the Administrative Process Act (§ 2.2-4000 et seq.).
+			</section>
+		</section>
+		<section prefix="E">Any credit not usable for the taxable year may be carried over for the next three taxable years. The amount of credit allowed pursuant to this section shall not exceed the tax imposed for such taxable year. No credit shall be carried back to a preceding taxable year. If a business that is subject to the tax limitation imposed pursuant to this subsection is allowed another credit pursuant to any other section of this Code, or has a credit carryover from a preceding taxable year, such business shall be considered to have first utilized any credit allowed that does not have a carryover provision, and then any credit which is carried forward from a preceding taxable year, prior to the utilization of any credit allowed pursuant to this section.
+		</section>
+		<section prefix="F">No business shall be eligible to claim a credit under this section for eligible worker training or manufacturing orientation, instruction, and training undertaken by any program operated, administered, or paid for by the Commonwealth.
+		</section>
+		<section prefix="G">The Tax Commissioner shall report annually to the Chairmen of the House Committee on Finance and the Senate Committee on Finance and Appropriations on the status and implementation of the credit established by this section.
+		</section>
+	</text>
+	<history>2019, c. 189; 2022, c. 431.</history>
+</law>

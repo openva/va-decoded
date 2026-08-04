@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="14" level="4">Accounting, Returns, Procedures for Corporations</unit>
+	</structure>
+	<section_number>58.1-454</section_number>
+	<catch_line>Department may estimate corporation's tax when no return filed</catch_line>
+	<text>
+		If any report or return required to be made by any corporation under this chapter is not made as herein required, the Department is authorized to make an estimate of the net income of such corporation and of the amount of tax due under this chapter, from any information in its possession, and to order and state an account according to such estimate for the taxes, penalties and interest due to the Commonwealth from such corporation.
+	</text>
+	<history>Code 1950, § 58-151.091; 1971, Ex. Sess., c. 171; 1984, c. 675.</history>
+</law>

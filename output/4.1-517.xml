@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="4.1" level="1">Alcoholic Beverage and Cannabis Control</unit>
+		<unit label="subtitle" identifier="I" level="2">Alcoholic Beverage Control Act</unit>
+		<unit label="chapter" identifier="5" level="3">Beer Franchise Act</unit>
+	</structure>
+	<section_number>4.1-517</section_number>
+	<catch_line>Reasonableness and good faith</catch_line>
+	<text>
+		<section prefix="A">Every agreement entered into under this chapter shall impose on the parties the obligation to act in good faith.
+		</section>
+		<section prefix="B">This chapter shall impose on every term and provision of any agreement a requirement of reasonableness. Every term or provision shall be interpreted so that the requirements or obligations imposed therein are reasonable.
+		</section>
+	</text>
+	<history>1985, c. 549, § 4-118.20:1; 1993, c. 866.</history>
+</law>

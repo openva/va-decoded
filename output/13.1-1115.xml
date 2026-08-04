@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="13" level="2">Virginia Professional Limited Liability Company Act</unit>
+	</structure>
+	<section_number>13.1-1115</section_number>
+	<catch_line>Transfer of membership interests</catch_line>
+	<text>
+		<section prefix="A">No member of a professional limited liability company organized under this chapter may sell, assign in whole or in part, or otherwise transfer that member's membership interest in the professional limited liability company except to (i) the professional limited liability company, (ii) another individual or professional business entity that is eligible to be a member of that professional limited liability company, or (iii) a qualified charitable remainder trust as described in subsection B. In the case of a professional limited liability company rendering the services of architects, professional engineers, land surveyors and certified landscape architects, or any combination thereof, no person or professional business entity which is not duly licensed or otherwise legally authorized to render one of those services will be eligible unless at least two-thirds of the remaining membership interests after the sale or transfer are held by persons or professional business entities duly licensed or otherwise legally authorized to perform one of those services.
+		</section>
+		<section prefix="B">As used in this section, "qualified charitable remainder trust" means a trust meeting the requirements of § 664 of the United States Internal Revenue Code of 1986, as amended, and which meets all of the following conditions:
+			<section prefix="1">Has one or more current income beneficiaries, all of which are eligible to be members in the professional limited liability company under § 13.1-1103.
+			</section>
+			<section prefix="2">Has a trustee or independent special trustee who:
+				a. Is eligible to have a membership interest in the professional limited liability company under § 13.1-1103; and
+				b. Has exclusive authority over the membership interests while such interests are held in the trust.
+			</section>
+			<section prefix="3">Has one or more irrevocably designated charitable remaindermen, all of which must at all times be domiciled or maintain a local chapter in the Commonwealth of Virginia.
+			</section>
+			<section prefix="4">When transferring any assets during the term of the trust to charitable organizations, the distributions are made only to charitable organizations described in § 170(c) of the Internal Revenue Code that are domiciled or maintain a local chapter in this Commonwealth.
+			</section>
+		</section>
+	</text>
+	<history>1992, c. 574; 1999, c. 100.</history>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="15" level="4">Proof of Financial Responsibility</unit>
+	</structure>
+	<section_number>46.2-461</section_number>
+	<catch_line>When Commissioner not to release proof of financial responsibility; affidavit of nonexistence of facts</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding the provisions of § 46.2-460 the Commissioner shall not release the proof in the event:
+			<section prefix="1">Any action for damages upon a liability included in this chapter is then pending;
+			</section>
+			<section prefix="2">Any judgment on any liability is then outstanding and unsatisfied; or
+			</section>
+			<section prefix="3">The Commissioner has received notice that the person involved has within the period of twelve months immediately preceding been involved as a driver in any motor vehicle accident.
+			</section>
+		</section>
+		<section prefix="B">An affidavit of the applicant of the nonexistence of these facts shall be sufficient evidence thereof in the absence of evidence in the records of the Department tending to indicate the contrary.
+		</section>
+	</text>
+	<history>Code 1950, § 46-481; 1958, c. 541, § 46.1-492; 1989, c. 727.</history>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="11" level="2">Offenses Against the Sovereignty of the Commonwealth</unit>
+		<unit label="article" identifier="1" level="3">Treason and Related Offenses</unit>
+	</structure>
+	<section_number>18.2-481</section_number>
+	<catch_line>Treason defined; how proved and punished</catch_line>
+	<text>
+		Treason shall consist only in:
+		<section prefix="1">Levying war against the Commonwealth;
+		</section>
+		<section prefix="2">Adhering to its enemies, giving them aid and comfort;
+		</section>
+		<section prefix="3">Establishing, without authority of the legislature, any government within its limits separate from the existing government;
+		</section>
+		<section prefix="4">Holding or executing, in such usurped government, any office, or professing allegiance or fidelity to it; or
+		</section>
+		<section prefix="5">Resisting the execution of the laws under color of its authority.
+			Such treason, if proved by the testimony of two witnesses to the same overt act, or by confession in court, shall be punishable as a Class 2 felony.
+		</section>
+	</text>
+	<history>Code 1950, § 18.1-418; 1960, c. 358; 1975, cc. 14, 15.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>13.1-1205</section_number>
+	<catch_line>Unlawful to sign false documents; penalty</catch_line>
+	<text>
+		<section prefix="A">It shall be unlawful for any person to sign a document he knows is false in any material respect with intent that the document be delivered to the Commission for filing under this chapter.
+		</section>
+		<section prefix="B">Any person who violates the provisions of this section is guilty of a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>2002, c. 621.</history>
+</law>

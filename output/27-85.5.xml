@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="27" level="1">Fire Protection</unit>
+		<unit label="chapter" identifier="6" level="2">Department of State Police; Public Building Safety Law; Arson Reporting Immunity Act</unit>
+		<unit label="article" identifier="3" level="3">Arson Reporting Immunity Act</unit>
+	</structure>
+	<section_number>27-85.5</section_number>
+	<catch_line>Disclosure of information</catch_line>
+	<text>
+		<section prefix="A">Any authorized agency may, in writing, require an insurance company to release to the requesting agency any or all relevant information or evidence deemed material by the requesting agency in the insurance company's possession relating to the fire loss in question. Relevant information may include, but shall not be limited to:
+			<section prefix="1">Pertinent insurance policy information relevant to a fire loss under investigation and any application for such a policy;
+			</section>
+			<section prefix="2">Policy premium payment records;
+			</section>
+			<section prefix="3">History of previous claims made by the insured;
+			</section>
+			<section prefix="4">Material relating to the investigation of the loss, including statements of any person, proof of loss, and any other evidence relevant to the investigation.
+			</section>
+		</section>
+		<section prefix="B">1. When an insurance company has reason to believe that a fire loss in which it has an interest may be of other than accidental cause, then, for the purpose of notification and for having such fire loss investigated, the company shall, in writing, notify an authorized agency and provide it with any or all material developed from the company's inquiry into the fire loss.
+			<section prefix="2">When an insurance company provides any one of the authorized agencies with notice of a fire loss, it shall be sufficient notice for the purpose of this article.
+			</section>
+		</section>
+		<section prefix="C">The authorized agency provided with information pursuant to subsections A or B of this section and in furtherance of its own purposes, may release or provide such information to any of the other authorized agencies.
+		</section>
+		<section prefix="D">Any insurance company providing information to an authorized agency or agencies pursuant to subsections A or B of this section shall have the right to request relevant information and receive, within a reasonable time, not to exceed thirty days, the information requested.
+		</section>
+		<section prefix="E">Any insurance company, or person acting in its behalf or authorized agency who releases information, whether oral or written, pursuant to subsections A or B of this section shall be immune from any liability arising out of a civil action, or penalty resulting from a criminal prosecution unless actual malice on the part of the insurance company or authorized agency is present.
+		</section>
+	</text>
+	<history>1979, c. 279.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="9" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-1049</section_number>
+	<catch_line>Distribution of assets upon dissolution</catch_line>
+	<text>
+		Upon the winding up of a limited liability company, the assets of the limited liability company shall be distributed as follows:
+		<section prefix="1">To creditors, including members who are creditors, to the extent permitted by law, in satisfaction of liabilities of the limited liability company other than for distributions to members under § 13.1-1031;
+		</section>
+		<section prefix="2">Unless otherwise provided in the articles of organization or an operating agreement, to members and former members in satisfaction of liabilities for distributions under § 13.1-1031; and
+		</section>
+		<section prefix="3">Unless otherwise provided in the articles of organization or an operating agreement, to members first for the return of their contributions and second with respect to their interests in the limited liability company, in the proportions in which the members share in distributions.
+		</section>
+	</text>
+	<history>1991, c. 168; 1996, c. 265.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="10" level="2">Court Reporters</unit>
+	</structure>
+	<section_number>17.1-1000</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, unless the context requires a different meaning:
+		"Court reporter" means a person who records legal proceedings by stenotype machine or other means allowed under the Rules of Supreme Court of Virginia and provides prompt preparation of an accurate, verbatim written transcript.
+		"Court reporting services" means services provided by a court reporter and associated videography services.
+		"Court reporting services provider" means a business, entity, or firm that provides or arranges for court reporting services.
+		"Legal proceeding" includes a court proceeding, a deposition, an administrative hearing, an arbitration hearing, an examination under oath, and a sworn statement.
+	</text>
+	<history>2018, c. 783.</history>
+</law>

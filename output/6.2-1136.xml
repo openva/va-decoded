@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="11" level="3">Savings Institutions</unit>
+		<unit label="article" identifier="3" level="4">Offices, Branches, and Facilities</unit>
+	</structure>
+	<section_number>6.2-1136</section_number>
+	<catch_line>Remote service units</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Personal security identifier" or "PSI" or "PIN" means any word, number, or other security identifier essential for an account holder to gain access to an account through a remote service unit.
+			"Remote service unit" or "RSU" means an information processing device, including associated equipment, structures and systems, by which information relating to financial services rendered to the public is stored and transmitted, instantaneously or otherwise, to a financial institution. Any such device not on the premises of a state savings institution that, for activation and account access, requires use of a machine-readable instrument and personal security identifier in the possession and control of an account holder, is an RSU. The term includes, without limitation, point-of-sale terminals, merchant-operated terminals, cash-dispensing machines, and automated teller machines. The term does not include automated teller machines on the premises of a state savings institution, unless shared with other financial institutions.
+		</section>
+		<section prefix="B">Subject to the requirements of the federal Electronic Fund Transfers Act (15 U.S.C. § 1693 et seq.) and Regulation E of the Consumer Financial Protection Bureau, a state savings institution may establish or use remote service units and participate with others in remote service unit operations on an unrestricted geographic basis. A state savings institution may establish a remote service unit without prior approval of the Commission, provided that notice is given to the Commissioner in accordance with the provisions of subsection A of § 6.2-1133. No remote service unit may be used to open a savings account or a demand account or to establish a loan account.
+		</section>
+		<section prefix="C">Before permitting an account holder to use a remote service unit, the savings institution shall provide a personal security identifier to the account holder and require its use when accessing a remote service unit. An institution may not employ RSU access techniques that require the account holder to disclose a PSI to another person.
+		</section>
+		<section prefix="D">A state savings institution shall not share an RSU with any financial institution or other entity the accounts of which are not insured by an agency of the federal government or by some other insuring agency approved by the Commissioner.
+		</section>
+		<section prefix="E">A state savings institution shall not share an RSU located in the Commonwealth with any foreign savings institution, or other financial institution that is not incorporated under the laws of the Commonwealth, unless the foreign savings institution or other financial institution has been authorized by the Commission to conduct its business in the Commonwealth. Nothing herein shall be deemed to prohibit a state savings institution from sharing an RSU with a federal savings institution or other federally chartered financial institution authorized to conduct its business in the Commonwealth.
+		</section>
+		<section prefix="F">An RSU shall not be considered to be a branch office of a state savings institution.
+		</section>
+	</text>
+	<history>1985, c. 425, § 6.1-194.29; 1991, c. 230, § 6.1-194.122; 2010, c. 794; 2016, c. 501.</history>
+</law>

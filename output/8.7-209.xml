@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.7" level="1">Commercial Code — Warehouse Receipts, Bills of Lading and Other Documents of Title</unit>
+		<unit label="part" identifier="2" level="2">Warehouse Receipts: Special Provisions</unit>
+	</structure>
+	<section_number>8.7-209</section_number>
+	<catch_line>Lien of warehouseman</catch_line>
+	<text>
+		<section prefix="1">A warehouseman has a lien against the bailor on the goods covered by a warehouse receipt or storage agreement or on the proceeds thereof in his possession for charges for storage or transportation (including demurrage and terminal charges), insurance, labor, or other charges, present or future, in relation to the goods, and for expenses necessary for preservation of the goods or reasonably incurred in their sale pursuant to law. If the person on whose account the goods are held is liable for like charges or expenses in relation to other goods whenever deposited and it is stated in the warehouse receipt or storage agreement that a lien is claimed for charges and expenses in relation to other goods, the warehouseman also has a lien against the goods covered by the warehouse receipt or storage agreement or on the proceeds thereof in his possession for such charges and expenses whether or not the other goods have been delivered by the warehouseman. But against a person to whom a negotiable warehouse receipt is duly negotiated a warehouseman's lien is limited to charges in an amount or at a rate specified on the receipt or if no charges are so specified then to a reasonable charge for storage of the goods covered by the receipt subsequent to the date of the receipt.
+		</section>
+		<section prefix="2">The warehouseman may also reserve a security interest against the bailor for a maximum amount specified on the receipt for charges other than those specified in subsection (1), such as for money advanced and interest. Such a security interest is governed by the title on secured transactions (Title 8.9A).
+		</section>
+		<section prefix="3">A warehouseman's lien for charges and expenses under subsection (1) or a security interest under subsection (2) is also effective against any person who so entrusted the bailor with possession of the goods that a pledge of them by the bailor to a good faith purchaser for value would have been valid but is not effective against a person who before issuance of a document had a legal interest or a perfected security interest in the goods and that did not:
+			<section prefix="a">deliver or entrust the goods or any document of title covering the goods to the bailor or the bailor's nominee with:
+			</section>
+			<section prefix="i">actual or apparent authority to ship, store, or sell;
+				<section prefix="ii">power to obtain delivery under § 8.7-403; or
+				</section>
+				<section prefix="iii">power of disposition under §§ 8.2-403, 8.2A-304(2), 8.2A-305(2), 8.9A-320, or § 8.9A-321(c) or other statute or rule of law; or
+				</section>
+			</section>
+			<section prefix="b">acquiesce in the procurement by the bailor or its nominee of any document.
+			</section>
+		</section>
+		<section prefix="4">A warehouseman's lien under subsection (1) on household goods for charges and expenses in relation to the goods is also effective against all persons if the depositor was the legal possessor of the goods at the time of deposit. The term "household goods" means furniture, furnishings, or personal effects used by the depositor in a dwelling. Such lien shall be effective against a prior security interest that has been otherwise perfected as required by law only to the extent of $150.
+		</section>
+		<section prefix="5">A warehouseman loses his lien on any goods that he voluntarily delivers or unjustifiably refuses to deliver.
+		</section>
+	</text>
+	<history>Code 1950, §§ 61-30 to 61-35; 1964, c. 219; 1974, c. 435; 2004, c. 200.</history>
+</law>

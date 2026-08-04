@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="22" level="3">Uniform Simultaneous Death Act</unit>
+	</structure>
+	<section_number>64.2-2204</section_number>
+	<catch_line>Evidence of death or status</catch_line>
+	<text>
+		In addition to otherwise applicable rules of evidence, the following rules relating to a determination of death and status shall apply:
+		<section prefix="1">Death occurs when an individual is determined to be dead in accordance with the provisions of § 54.1-2972 or Chapter 23 (§ 64.2-2300 et seq.).
+		</section>
+		<section prefix="2">A certified or authenticated copy of a death certificate purporting to be issued by a governmental official or agency, domestic or foreign, of the place where the death purportedly occurred is prima facie evidence of the fact, place, date, and time of death and the identity of the decedent.
+		</section>
+		<section prefix="3">A certified or authenticated copy of any record or report purporting to be issued by a governmental official or agency, domestic or foreign, that an individual is missing, detained, dead, or alive is prima facie evidence of the status of the individual and of the dates, times, identities, circumstances, and places disclosed by the record or report.
+		</section>
+		<section prefix="4">In the absence of prima facie evidence of death under subdivision 2 or 3, the facts of death may be established by clear and convincing evidence, including circumstantial evidence.
+		</section>
+		<section prefix="5">In the absence of evidence disputing the time of death stated on a document described in subdivision 2 or 3, such a document that states a time of death 120 hours or more after the time of death of another individual, however the time of death of the other individual is determined, establishes by clear and convincing evidence that the individual survived the other individual by 120 hours.
+		</section>
+	</text>
+	<history>1994, c. 475, § 64.1-104.5; 2012, c. 614.</history>
+</law>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="1" level="3">Creation and Limitation of Estates</unit>
+		<unit label="article" identifier="2" level="4">Rule Against Perpetuities</unit>
+	</structure>
+	<section_number>55.1-124</section_number>
+	<catch_line>Uniform Statutory Rule Against Perpetuities</catch_line>
+	<text>
+		<section prefix="A">A nonvested property interest is invalid unless:
+			<section prefix="1">When the interest is created, it is certain to vest or terminate no later than 21 years after the death of an individual then alive; or
+			</section>
+			<section prefix="2">The interest either vests or terminates within 90 years after its creation.
+			</section>
+		</section>
+		<section prefix="B">A general power of appointment not presently exercisable because of a condition precedent is invalid unless:
+			<section prefix="1">When the power is created, the condition precedent is certain to be satisfied or becomes impossible to satisfy no later than 21 years after the death of an individual then alive; or
+			</section>
+			<section prefix="2">The condition precedent either is satisfied or becomes impossible to satisfy within 90 years after its creation.
+			</section>
+		</section>
+		<section prefix="C">A nongeneral power of appointment or a general testamentary power of appointment is invalid unless:
+			<section prefix="1">When the power is created, it is certain to be irrevocably exercised or otherwise to terminate no later than 21 years after the death of an individual then alive; or
+			</section>
+			<section prefix="2">The power is irrevocably exercised or otherwise terminates within 90 years after its creation.
+			</section>
+		</section>
+		<section prefix="D">In determining whether a nonvested property interest or a power of appointment is valid under subdivision A 1, B 1, or C 1, the possibility that a child will be born to an individual after the individual's death is disregarded.
+		</section>
+		<section prefix="E">If, in measuring a period from the creation of a trust or other property arrangement, language in a governing instrument (i) seeks to disallow the vesting or termination of any interest or trust beyond, (ii) seeks to postpone the vesting or termination of any interest or trust until, or (iii) seeks to operate in effect in any similar fashion upon, the later of (a) the expiration of a period of time not exceeding 21 years after the death of the survivor of specified lives in being at the creation of the trust or other property arrangement or (b) the expiration of a period of time that exceeds or might exceed 21 years after the death of the survivor of lives in being at the creation of the trust or other property arrangement, that language is inoperative to the extent it produces a period of time that exceeds 21 years after the death of the survivor of the specified lives.
+		</section>
+		<section prefix="F">For any nonvested interest in or power of appointment over personal property held in trust, or a power of appointment over personal property granted under a trust, if such interest or power is created on or after July 1, 2024, §§ 55.1-124 through 55.1-129 shall apply to such interest or power by substituting "1,000 years" in each instance in which the term "90 years" appears in §§ 55.1-124 through 55.1-129. This subsection shall not extend to a nonvested property interest in, or a power of appointment over, real property held in trust or a power of appointment over real property granted under a trust. For the purposes of this subsection, real property does not include an interest in a corporation, limited liability company, partnership, business trust, or other entity, even if such entity owns an interest in real property.
+		</section>
+	</text>
+	<history>2000, c. 714, § 55-12.1; 2019, c. 712; 2024, cc. 52, 123.</history>
+</law>

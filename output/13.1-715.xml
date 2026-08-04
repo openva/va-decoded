@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="11" level="3">Amendment of Articles of Incorporation and Bylaws</unit>
+	</structure>
+	<section_number>13.1-715</section_number>
+	<catch_line>Bylaw provisions increasing quorum or voting requirements for the board of directors</catch_line>
+	<text>
+		<section prefix="A">A bylaw that increases a quorum or voting requirement for the board of directors may be amended or repealed:
+			<section prefix="1">If originally adopted by the shareholders, only by the shareholders, unless the bylaw otherwise provides; or
+			</section>
+			<section prefix="2">If adopted by the board of directors, either by the shareholders or by the board of directors.
+			</section>
+		</section>
+		<section prefix="B">A bylaw adopted or amended by the shareholders that increases a quorum or voting requirement for the board of directors may provide that it may be amended or repealed only by a specified vote of either the shareholders or the board of directors.
+		</section>
+		<section prefix="C">Action by the board of directors under subsection A to amend or repeal a bylaw that changes the quorum or voting requirement for the board of directors must meet the same quorum requirement and be adopted by the same vote required to take action under the quorum and voting requirement then in effect.
+		</section>
+	</text>
+	<history>1985, c. 522; 2005, c. 765; 2019, c. 734.</history>
+</law>

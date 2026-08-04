@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="1" level="3">General Provisions</unit>
+		<unit label="article" identifier="1.1" level="4">Resource Management Plans</unit>
+	</structure>
+	<section_number>10.1-104.8</section_number>
+	<catch_line>Resource management plans; criteria</catch_line>
+	<text>
+		<section prefix="A">The Soil and Water Conservation Board shall by regulation, and in consultation with the Department of Agriculture and Consumer Services and the Department of Environmental Quality, specify the criteria to be included in a resource management plan.
+		</section>
+		<section prefix="B">The regulations shall:
+			<section prefix="1">Be technically achievable and take into consideration the economic impact to the agricultural landowner or operator;
+			</section>
+			<section prefix="2">Include (i) determinations of persons qualified to develop resource management plans and to perform on-farm best management practice assessments; (ii) plan approval or review procedures if determined necessary; (iii) allowable implementation timelines and schedules; (iv) determinations of the effective life of the resource management plans taking into consideration a change in or a transfer of the ownership or operation of the agricultural land, a material change in the agricultural operations, issuance of a new or modified total maximum daily load (TMDL) implementation plan for the Chesapeake Bay or other local total maximum daily load water quality requirements, and a determination pursuant to Chapter 4 (§ 3.2-400 et seq.) of Title 3.2 that an agricultural activity on the land is creating or will create pollution; (v) factors that necessitate renewal or new plan development; and (vi) a means to determine full implementation and compliance with the plans including reporting and verification;
+			</section>
+			<section prefix="3">Provide for a process by which an on-farm assessment of all reportable best management practices currently in place, whether as part of a cost-share program or through voluntary implementation, shall be conducted to determine their adequacy in achieving needed on-farm nutrient, sediment, and bacteria reductions;
+			</section>
+			<section prefix="4">Include agricultural best management practices sufficient to implement the Virginia Chesapeake Bay TMDL Watershed Implementation Plan and other local total maximum daily load water quality requirements of the Commonwealth; and
+			</section>
+			<section prefix="5">Specify that the required components of each resource management plan shall be based upon an individual on-farm assessment. Such components shall comply with on-farm water quality objectives as set forth in subdivision B 4, including best management practices identified in this subdivision and any other best management practices approved by the Board or identified in the Chesapeake Bay Watershed Model or the Virginia Chesapeake Bay TMDL Watershed Implementation Plan.
+				a. For all cropland or specialty crops such components shall include the following, as needed and based upon an individual on-farm assessment:
+				<section prefix="1">A nutrient management plan that meets the nutrient management specifications developed by the Department;
+				</section>
+				<section prefix="2">A forest or grass buffer between cropland and perennial streams of sufficient width to meet water quality objectives and consistent with Natural Resources Conservation Service standards and specifications;
+				</section>
+				<section prefix="3">A soil conservation plan that achieves a maximum soil loss rate of "T," as defined by the Natural Resources Conservation Service; and
+				</section>
+				<section prefix="4">Cover crops meeting best management practice specifications as determined by the Natural Resources Conservation Service or the Virginia Agricultural Best Management Practices Cost-Share Program.
+					b. For all hayland, such components shall include the following, as needed and based upon an individual on-farm assessment:
+				</section>
+				<section prefix="1">A nutrient management plan that meets the nutrient management specifications developed by the Department;
+				</section>
+				<section prefix="2">A forest or grass buffer between cropland and perennial streams of sufficient width to meet water quality objectives and consistent with Natural Resources Conservation Service standards and specifications; and
+				</section>
+				<section prefix="3">A soil conservation plan that achieves a maximum soil loss rate of "T," as defined by the Natural Resources Conservation Service.
+					c. For all pasture, such components shall include the following, as needed and based upon an individual on-farm assessment:
+				</section>
+				<section prefix="1">A nutrient management plan that meets the nutrient management specifications developed by the Department;
+				</section>
+				<section prefix="2">A system that limits or prevents livestock access to perennial streams; and
+				</section>
+				<section prefix="3">A pasture management plan or soil conservation plan that achieves a maximum soil loss rate of "T," as defined by the Natural Resources Conservation Service.
+				</section>
+			</section>
+		</section>
+	</text>
+	<history>2011, c. 781.</history>
+</law>

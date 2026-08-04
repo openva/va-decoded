@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="4.1" level="1">Alcoholic Beverage and Cannabis Control</unit>
+		<unit label="subtitle" identifier="II" level="2">Cannabis Control Act</unit>
+		<unit label="chapter" identifier="6" level="3">General Provisions</unit>
+	</structure>
+	<section_number>4.1-619</section_number>
+	<catch_line>Certified mail; subsequent mail or notices may be sent by regular mail; electronic communications as alternative to regular mail; limitation</catch_line>
+	<text>
+		<section prefix="A">Whenever in this subtitle the Board is required to send any mail or notice by certified mail and such mail or notice is sent certified mail, return receipt requested, then any subsequent, identical mail or notice that is sent by the Board may be sent by regular mail.
+		</section>
+		<section prefix="B">Except as provided in subsection C, whenever in this subtitle the Board is required or permitted to send any mail, notice, or other official communication by regular mail to persons licensed under Chapter 8 (§ 4.1-800 et seq.), upon the request of a licensee, the Board may instead send such mail, notice, or official communication by email, text message, or other electronic means to the email address, telephone number, or other contact information provided to the Board by the licensee, provided that the Board retains sufficient proof of the electronic delivery, which may be an electronic receipt of delivery or a certificate of service prepared by the Board confirming the electronic delivery.
+		</section>
+		<section prefix="C">No notice required by § 4.1-903 to a licensee of a hearing that may result in the suspension or revocation of his license or the imposition of a civil penalty shall be sent by the Board by email, text message, or other electronic means, nor shall any decision by the Board to suspend or revoke a license or impose a civil penalty be sent by the Board by email, text message, or other electronic means.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, cc. 550, 551.</history>
+</law>

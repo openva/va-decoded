@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="4" level="2">The Court of Appeals</unit>
+	</structure>
+	<section_number>17.1-409</section_number>
+	<catch_line>Certification to the Supreme Court</catch_line>
+	<text>
+		<section prefix="A">In any case in which an appeal has been taken to or filed with the Court of Appeals, the Supreme Court in its discretion, on motion of the Court of Appeals, or on its own motion, may certify the case for review by the Supreme Court before it has been determined by the Court of Appeals. The effect of such certification shall be to transfer jurisdiction over the case to the Supreme Court for all purposes.
+		</section>
+		<section prefix="B">Such certification may be made only when, in its discretion, the Supreme Court determines that:
+			<section prefix="1">The case is of such imperative public importance as to justify the deviation from normal appellate practice and to require prompt decision in the Supreme Court; or
+			</section>
+			<section prefix="2">The docket or the status of the work of the Court of Appeals is such that the sound or expeditious administration of justice requires that jurisdiction over the case be transferred to the Supreme Court.
+			</section>
+		</section>
+	</text>
+	<history>1983, c. 413, § 17-116.06; 1984, c. 701; 1998, c. 872.</history>
+</law>

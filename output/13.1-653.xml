@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Shares and Distributions</unit>
+	</structure>
+	<section_number>13.1-653</section_number>
+	<catch_line>Distributions to shareholders</catch_line>
+	<text>
+		<section prefix="A">The board of directors may authorize and the corporation may make distributions to its shareholders, subject to restriction by the articles of incorporation and the limitation in subsection C.
+		</section>
+		<section prefix="B">The board of directors may fix the record date for determining shareholders entitled to a distribution. If the board of directors does not fix the record date for determining shareholders entitled to a distribution, other than one involving a purchase, redemption, or other acquisition of the corporation's shares, the record date is the date the board of directors authorizes the distribution.
+		</section>
+		<section prefix="C">No distribution may be made if, after giving it effect:
+			<section prefix="1">The corporation would not be able to pay its debts as they become due in the usual course of business; or
+			</section>
+			<section prefix="2">The corporation's total assets would be less than the sum of its total liabilities plus (unless the articles of incorporation permit otherwise) the amount that would be needed, if the corporation were to be dissolved at the time of the distribution, to satisfy the preferential rights upon dissolution of shareholders whose preferential rights are superior to those receiving the distribution.
+			</section>
+		</section>
+		<section prefix="D">The board of directors may base a determination that a distribution is not prohibited under subsection C either on financial statements prepared on the basis of accounting practices and principles that are reasonable in the circumstances or on a fair valuation or other method that is reasonable in the circumstances. For any public corporation, reliance upon the most recent financial statements that have been prepared in accordance with generally accepted accounting principles in the United States shall be deemed to be reasonable in the circumstances if the financial statements have been audited by independent certified public accountants whose certification does not include a going concern qualification.
+		</section>
+		<section prefix="E">Except as provided in subsection G, the effect of a distribution under subsection C is measured:
+			<section prefix="1">In the case of a distribution by purchase, redemption, or other acquisition of the corporation's shares, as of the earlier of (i) the date cash or other property is transferred or debt to a shareholder incurred by the corporation or (ii) the date the shareholder ceases to be a shareholder with respect to the acquired shares;
+			</section>
+			<section prefix="2">In the case of any other distribution of indebtedness, as of the date the indebtedness is distributed; and
+			</section>
+			<section prefix="3">In all other cases, as of (i) the date the distribution is authorized if the payment occurs within 120 days after the date of authorization or (ii) the date payment is made if it occurs more than 120 days after the date of authorization.
+			</section>
+		</section>
+		<section prefix="F">A corporation's indebtedness to a shareholder incurred by reason of a distribution made in accordance with this section is at parity with the corporation's indebtedness to its general, unsecured creditors except to the extent subordinated by agreement.
+		</section>
+		<section prefix="G">Indebtedness of a corporation, including indebtedness issued as a distribution, is not considered a liability for purposes of determinations under subsection C if its terms provide that payment of principal and interest is made only if and to the extent that payment of a distribution to shareholders could then be made under this section. If such indebtedness is issued as a distribution, each payment of principal or interest is treated as a distribution, the effect of which is measured on the date the payment is actually made.
+		</section>
+		<section prefix="H">This section shall not apply to distributions in liquidation under Article 16 (§ 13.1-742 et seq.).
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-206, 13.1-4, 13.1-43, 13.1-62; 1956, c. 428; 1962, c. 14; 1979, c. 175; 1985, c. 522; 2005, c. 765; 2019, c. 734.</history>
+</law>

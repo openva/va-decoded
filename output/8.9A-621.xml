@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="1" level="3">Default and Enforcement of Security Interest</unit>
+	</structure>
+	<section_number>8.9A-621</section_number>
+	<catch_line>Notification of proposal to accept collateral</catch_line>
+	<text>
+		<section prefix="a">Persons to which proposal to be sent. A secured party that desires to accept collateral in full or partial satisfaction of the obligation it secures shall send its proposal to:
+			<section prefix="1">any person from which the secured party has received, before the debtor consented to the acceptance, a signed notification of a claim of an interest in the collateral;
+			</section>
+			<section prefix="2">any other secured party or lienholder that, ten days before the debtor consented to the acceptance, held a security interest in or other lien on the collateral perfected by the filing of a financing statement that:
+			</section>
+		</section>
+		<section prefix="A">identified the collateral;
+		</section>
+		<section prefix="B">was indexed under the debtor's name as of that date; and
+		</section>
+		<section prefix="C">was filed in the office or offices in which to file a financing statement against the debtor covering the collateral as of that date; and
+			<section prefix="3">any other secured party that, ten days before the debtor consented to the acceptance, held a security interest in the collateral perfected by compliance with a statute, regulation, or treaty described in § 8.9A-311 (a).
+			</section>
+		</section>
+		<section prefix="b">Proposal to be sent to secondary obligor in partial satisfaction. A secured party that desires to accept collateral in partial satisfaction of the obligation it secures shall send its proposal to any secondary obligor in addition to the persons described in subsection (a).
+		</section>
+	</text>
+	<history>Code 1950, § 55-93; 1964, cc. 219, 410, § 8.9-505; 1973, c. 509; 2000, c. 1007; 2024, c. 652.</history>
+</law>

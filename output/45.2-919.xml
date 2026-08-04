@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="C" level="3">Surface Coal Mines</unit>
+		<unit label="chapter" identifier="9" level="4">Requirements Applicable to Surface Coal Mines</unit>
+		<unit label="article" identifier="6" level="5">Surface Equipment</unit>
+	</structure>
+	<section_number>45.2-919</section_number>
+	<catch_line> Lighting</catch_line>
+	<text>
+		<section prefix="A">Lights shall be provided on or in surface structures as needed.
+		</section>
+		<section prefix="B">Roads, paths, and walks outside of surface structures shall be kept free from obstructions and shall be well-illuminated if used at night.
+		</section>
+	</text>
+	<history>1966, c. 594, § 45.1-38; 1994, c. 28, § 45.1-161.272; 2021, Sp. Sess. I, c. 387.</history>
+</law>

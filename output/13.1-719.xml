@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="12" level="3">Mergers and Share Exchanges</unit>
+	</structure>
+	<section_number>13.1-719</section_number>
+	<catch_line>Merger between parent and subsidiary or between subsidiaries</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Parent entity" means a domestic or foreign corporation or eligible entity that owns shares of a domestic corporation that possess at least 90 percent of the voting power of each class and series of the outstanding shares of the domestic corporation that have voting power.
+			"Subsidiary" means the domestic corporation whose outstanding shares are owned by a parent entity.
+		</section>
+		<section prefix="B">A parent entity may merge (i) a subsidiary into itself or another subsidiary or (ii) itself into a subsidiary without the approval of the board of directors or the shareholders of any subsidiary and, if the parent entity is a domestic corporation, without the approval of the shareholders of the parent entity, unless the articles of incorporation of any subsidiary or the articles of incorporation or the organic rules of the parent entity otherwise provide.
+		</section>
+		<section prefix="C">A parent entity may be a foreign corporation or eligible entity only if the merger is permitted under the laws by which the foreign corporation or eligible entity is organized.
+		</section>
+		<section prefix="D">The parent entity shall, within 10 days after the effective date of the merger, notify each of the subsidiary's shareholders that the merger has become effective.
+		</section>
+		<section prefix="E">Except as provided in subsections B and C, a merger under this section shall be governed by the provisions of this article applicable to mergers generally, including subsection J of § 13.1-718.
+		</section>
+		<section prefix="F">The articles of incorporation of the survivor shall not be altered or amended by a merger pursuant to this section, except for amendments permitted by § 13.1-706.
+		</section>
+		<section prefix="G">Two or more domestic corporations may be merged into a parent entity pursuant to this section.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-76; 1956, c. 428; 1964, c. 417; 1968, c. 115; 1975, c. 500; 1985, c. 522; 1990, c. 230; 2005, c. 765; 2015, c. 611; 2019, c. 734; 2020, c. 1226.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="3" level="3">Registered Office and Agent</unit>
+	</structure>
+	<section_number>13.1-1220</section_number>
+	<catch_line>Registered office and registered agent</catch_line>
+	<text>
+		<section prefix="A">Each domestic business trust and each foreign business trust registered pursuant to Article 9 (§ 13.1-1241 et seq.) of this chapter shall continuously maintain in this Commonwealth:
+			<section prefix="1">A registered office that may be the same as any of its places of business; and
+			</section>
+			<section prefix="2">A registered agent, who shall be either:
+				a. An individual who is a resident of this Commonwealth and is either (i) a trustee or officer of the business trust, (ii) an officer or director of a corporation that is a trustee of the business trust, (iii) a general partner of a general or limited partnership that is a trustee of the business trust, (iv) a member or manager of a limited liability company that is a trustee of the business trust, (v) a trustee of a business trust or other trust that is a trustee of the business trust, or (vi) a member of the Virginia State Bar, and whose business office is identical with the registered office; or
+				b. A domestic or foreign stock or nonstock corporation, limited liability company, registered limited liability partnership or business trust authorized to transact business in this Commonwealth, the business office of which is identical with the registered office; provided such a registered agent (i) shall not be its own registered agent and (ii) shall designate by instrument in writing, acknowledged before a notary public, one or more natural persons at the office of the registered agent upon whom any process, notice or demand may be served and shall continuously maintain at least one such person at that office. Whenever any such person accepts service, a photographic copy of such instrument shall be attached to the return.
+			</section>
+		</section>
+		<section prefix="B">The sole duty of the registered agent is to forward to the domestic business trust or the foreign business trust at its last known address any process, notice or demand that is served on the registered agent.
+		</section>
+	</text>
+	<history>2002, c. 621.</history>
+</law>

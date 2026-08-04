@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="12" level="2">Reciprocal Insurance</unit>
+		<unit label="article" identifier="2" level="3">Domestic Reciprocals</unit>
+	</structure>
+	<section_number>38.2-1229</section_number>
+	<catch_line>Impaired reciprocals</catch_line>
+	<text>
+		<section prefix="A">If (i) the assets of a domestic reciprocal are at any time insufficient to settle the sum of its liabilities, except those on account of funds contributed by the attorney or other parties, and its required surplus to policyholders, and (ii) the deficiency is not cured from other sources, its attorney shall levy an assessment upon subscribers made subject to assessment by the terms of their policies for the amount needed to make up the deficiency. However, the assessment shall be subject to § 38.2-1212.
+		</section>
+		<section prefix="B">If the attorney fails to make the assessment within thirty days after the Commission orders him to do so, or if the deficiency is not fully made up within sixty days after the date the assessment was made, delinquency proceedings may be instituted and conducted against the insurer as provided in Chapter 15 of this title.
+		</section>
+		<section prefix="C">If liquidation of the reciprocal is ordered, an assessment shall be levied upon the subscribers for the amount the Commission or the court, as the case may be, determines to be necessary to discharge all liabilities of the reciprocal. This assessment shall exclude any funds contributed by the attorney or other persons, but shall include the reasonable cost of the liquidation. However, the assessment shall be subject to § 38.2-1212.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-718; 1986, c. 562.</history>
+</law>

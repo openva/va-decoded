@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="62" level="2">Virginia Redistricting Commission</unit>
+	</structure>
+	<section_number>30-397</section_number>
+	<catch_line>Proposal and submission of plans for districts</catch_line>
+	<text>
+		<section prefix="A">The Commission shall submit to the General Assembly plans for districts for the Senate and the House of Delegates of the General Assembly no later than 45 days following the receipt of census data.
+			To be submitted as a proposed plan for districts for members of the Senate, a plan shall receive affirmative votes of at least six of the eight legislative commissioners, including at least three of the four legislative commissioners who are members of the Senate, and at least six of the eight citizen commissioners.
+			To be submitted as a proposed plan for districts for members of the House of Delegates, a plan shall receive affirmative votes of at least six of the eight legislative commissioners, including at least three of the four legislative commissioners who are members of the House of Delegates, and at least six of the eight citizen commissioners.
+		</section>
+		<section prefix="B">The Commission shall submit to the General Assembly plans for districts for the United States House of Representatives no later than 60 days following the receipt of census data or by the first day of July of that year, whichever occurs first.
+			To be submitted as a proposed plan for districts for members of the United States House of Representatives, a plan shall receive affirmative votes of at least six of the eight legislative commissioners and at least six of the eight citizen commissioners.
+		</section>
+		<section prefix="C">If the Commission fails to submit a plan for districts by the deadline set forth in subsection A or B, the Commission shall have 14 days following its initial failure to submit a plan to the General Assembly. If the Commission fails to submit a plan for districts to the General Assembly by this date, the districts shall be established by the Supreme Court of Virginia pursuant to § 30-399.
+		</section>
+		<section prefix="D">All plans submitted pursuant to this section shall comply with the criteria and standards set forth in § 24.2-304.04.
+		</section>
+	</text>
+	<history>2020, Sp. Sess. I, c. 56; 2022, Sp. Sess. I, c. 1.</history>
+</law>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.7" level="1">Commercial Code — Warehouse Receipts, Bills of Lading and Other Documents of Title</unit>
+		<unit label="part" identifier="2" level="2">Warehouse Receipts: Special Provisions</unit>
+	</structure>
+	<section_number>8.7-202</section_number>
+	<catch_line>Form of warehouse receipt; essential terms; optional terms</catch_line>
+	<text>
+		<section prefix="1">A warehouse receipt need not be in any particular form.
+		</section>
+		<section prefix="2">Unless a warehouse receipt provides for each of the following, the warehouseman is liable for damages caused by the omission to a person injured thereby:
+			<section prefix="a">the location of the warehouse where the goods are stored;
+			</section>
+			<section prefix="b">the date of issue of the receipt;
+			</section>
+			<section prefix="c">the consecutive number of the receipt;
+			</section>
+			<section prefix="d">a statement whether the goods received will be delivered to the bearer, to a specified person, or to a specified person or his order;
+			</section>
+			<section prefix="e">the rate of storage and handling charges, except that where goods are stored under a field warehousing arrangement a statement of that fact is sufficient on a nonnegotiable receipt;
+			</section>
+			<section prefix="f">a description of the goods or of the packages containing them;
+			</section>
+			<section prefix="g">the signature of the warehouseman, which may be made by his authorized agent;
+			</section>
+			<section prefix="h">if the receipt is issued for goods of which the warehouseman is owner, either solely or jointly or in common with others, the fact of such ownership; and
+			</section>
+			<section prefix="i">a statement of the amount of advances made and of liabilities incurred for which the warehouseman claims a lien or security interest (§ 8.7-209). If the precise amount of such advances made or of such liabilities incurred is, at the time of the issue of the receipt, unknown to the warehouseman or to his agent who issued the receipt, a statement of the fact that advances have been made or liabilities incurred and the purpose thereof is sufficient.
+			</section>
+		</section>
+		<section prefix="3">A warehouseman may insert in his receipt any other terms that are not contrary to the provisions of this act and do not impair his obligation of delivery (§ 8.7-403) or his duty of care (§ 8.7-204). Any contrary provisions shall be ineffective.
+		</section>
+	</text>
+	<history>Code 1950, § 61-5; 1964, c. 219; 2004, c. 200.</history>
+</law>

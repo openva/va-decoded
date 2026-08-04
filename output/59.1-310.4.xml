@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="24.1" level="2">Tanning Facilities</unit>
+	</structure>
+	<section_number>59.1-310.4</section_number>
+	<catch_line>Warning signs</catch_line>
+	<text>
+		<section prefix="A">A tanning facility shall post a warning sign in a conspicuous location where it is readily readable by persons entering the establishment. The sign shall contain the following warning:
+			DANGER: ULTRAVIOLET RADIATION
+			Repeated exposure to ultraviolet radiation may cause chronic sun damage to the skin characterized by wrinkling, dryness, fragility, and bruising of the skin, and skin cancer.
+			Failure to use protective eyewear may result in severe burns or permanent injury to the eyes.
+			Medications or cosmetics may increase your sensitivity to ultraviolet radiation. Consult a physician or an advanced practice registered nurse before using a sunlamp if you are using medications, have a history of skin problems, or believe you are especially sensitive to sunlight. Pregnant women or women taking oral contraceptives who use this product may develop discolored skin.
+			IF YOU DO NOT TAN IN THE SUN, YOU WILL NOT TAN FROM USE OF AN ULTRAVIOLET SUNLAMP.
+		</section>
+		<section prefix="B">A tanning facility shall post a warning sign, one sign for each tanning device, in a conspicuous location that is readily readable to a person about to use the device. The sign shall contain the following:
+			DANGER: ULTRAVIOLET RADIATION
+			<section prefix="1">Follow the manufacturer's instructions for use of this device.
+			</section>
+			<section prefix="2">Avoid too frequent or lengthy exposure. As with natural sunlight, exposure can cause serious eye and skin injuries and allergic reactions. Repeated exposure may cause skin cancer.
+			</section>
+			<section prefix="3">Wear protective eyewear. Failure to use protective eyewear may result in severe burns or permanent damage to the eyes.
+			</section>
+			<section prefix="4">Do not sunbathe before or after exposure to ultraviolet radiation from sunlamps.
+			</section>
+			<section prefix="5">Medications or cosmetics may increase your sensitivity to ultraviolet radiation. Consult a physician or an advanced practice registered nurse before using a sunlamp if you are using medication, have a history of skin problems, or believe you are especially sensitive to sunlight. Pregnant women or women using oral contraceptives who use this product may develop discolored skin.
+				IF YOU DO NOT TAN IN THE SUN, YOU WILL NOT TAN FROM USE OF THIS DEVICE.
+			</section>
+		</section>
+	</text>
+	<history>1990, c. 776; 2004, c. 855; 2023, c. 183.</history>
+</law>

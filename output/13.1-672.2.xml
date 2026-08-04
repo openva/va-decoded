@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8.1" level="3">Derivative Proceedings and Other Shareholder Actions</unit>
+	</structure>
+	<section_number>13.1-672.2</section_number>
+	<catch_line>Discontinuance or settlement</catch_line>
+	<text>
+		<section prefix="A">A derivative proceeding may not be settled or discontinued without the court's approval. If the court determines that a proposed discontinuance or settlement will substantially and adversely affect the interests of the corporation's shareholders or a class or series of the corporation's shareholders, the court shall direct that notice be given to the shareholders affected.
+		</section>
+		<section prefix="B">Notice required by subsection A shall be given in such manner as the court shall determine, and the costs of such notice shall be borne in such manner as the court shall direct.
+		</section>
+	</text>
+	<history>1992, c. 802; 2019, c. 734.</history>
+</law>

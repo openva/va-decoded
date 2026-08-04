@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="4" level="2">Health Care Planning</unit>
+		<unit label="article" identifier="2.1" level="3">Statewide Emergency Medical Services System and Services</unit>
+	</structure>
+	<section_number>32.1-111.5:1</section_number>
+	<catch_line>Emergency medical services personnel mental health awareness training</catch_line>
+	<text>
+		<section prefix="A">Each emergency medical services agency shall develop curricula for mental health awareness training for its personnel, which shall include training regarding the following:
+			<section prefix="1">Understanding signs and symptoms of cumulative stress, depression, anxiety, exposure to acute and chronic trauma, compulsive behaviors, and addiction;
+			</section>
+			<section prefix="2">Combating and overcoming stigmas;
+			</section>
+			<section prefix="3">Responding appropriately to aggressive behaviors such as domestic violence and harassment; and
+			</section>
+			<section prefix="4">Accessing available mental health treatment and resources.
+			</section>
+		</section>
+		<section prefix="B">Any emergency medical services agency may develop the mental health awareness training curricula in conjunction with other emergency medical services agencies or emergency medical services personnel stakeholder groups or may use any training program, developed by any entity, that satisfies the criteria set forth in subsection A.
+		</section>
+		<section prefix="C">Emergency medical services personnel who receive mental health awareness training in accordance with this section shall receive appropriate continuing education credits from the Office of Emergency Medical Services.
+		</section>
+	</text>
+	<history>2018, cc. 456, 658.</history>
+</law>

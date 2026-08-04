@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="5" level="2">Securities Act</unit>
+		<unit label="article" identifier="4" level="3">Registration of Securities</unit>
+	</structure>
+	<section_number>13.1-508</section_number>
+	<catch_line>Registration by notification</catch_line>
+	<text>
+		<section prefix="A">The following securities may be registered by notification:
+			<section prefix="1">Any security whose issuer (which, for the purposes of this subsection, shall include any predecessor by merger, consolidation or acquisition of assets) has been in continuous operation for at least five years if there has been no default within the past three fiscal years in the payment of principal, interest or dividends on any security of the issuer with a fixed maturity or a fixed interest or dividend provision, and (where the security being registered does not have a fixed maturity or a fixed interest or dividend provision) (a) the issuer is a corporation which has assets of at least $500,000 after deduction of depreciation and other reserves, which has a net worth of at least $10,000, which is incorporated under the laws of this Commonwealth and which conducts a substantial portion of its business in this Commonwealth, or (b) the issuer during its past three fiscal years has had average net earnings applicable to all securities without a fixed maturity or a fixed interest or dividend provision (whether of one or more classes) outstanding at the date when the registration statement is filed (i) aggregating at least five percent of the amount of such outstanding securities as measured by their maximum public offering price or their market price on a day within 30 days of the date of filing the registration statement, whichever is higher, or their book value on a day within 90 days of the date of filing the registration statement if there is neither a readily determinable market price nor a public offering price or (ii) if no such securities are outstanding, then aggregating at least five percent of the amount of such securities then offered for sale based upon the maximum price at which such securities are to be offered for sale; and all accounting determinations required by this section shall be made in accordance with generally accepted accounting practices. Noncumulative preferred stock shall be deemed for the purposes of this subsection a security with a fixed dividend provision.
+			</section>
+			<section prefix="2">Any security registered for nonissuer distribution if (i) any security of the same class has ever been registered or (ii) the security being registered was originally issued pursuant to an exemption in this chapter.
+			</section>
+		</section>
+		<section prefix="B">A registration statement under this section shall state the facts showing eligibility of the securities for registration by notification, the amount and maximum offering price of the securities proposed to be offered in this Commonwealth, and a copy of any prospectus to be used in connection with the offering. It shall be accompanied by a fee of 1/20 of one percent of the maximum offering price of the securities proposed to be offered in this Commonwealth; provided that the fee shall not be less than $100 nor more than $250.
+		</section>
+		<section prefix="C">If no stop order is in effect and no proceeding for the issuance of a stop order is pending, a registration statement under this section shall automatically become effective at three o'clock in the afternoon of the second full business day after filing of the registration statement or the last amendment thereto or at such earlier time as the Commission may determine by order, letter, telegram, or electronic means.
+		</section>
+		<section prefix="D">The Commission may require that a prospectus be used in connection with the offering. If the Commission requires the use of a prospectus, it shall be unlawful to sell any security registered under this section except upon delivery of a prospectus to each person to whom an offer is made. The prospectus shall contain such information specified in subsection (b) of § 13.1-510 as may be designated by the Commission as necessary for the protection of investors and such additional information as the Commission may require.
+		</section>
+	</text>
+	<history>1956, c. 428; 1981, c. 168; 1984, c. 771; 1993, c. 179; 2003, c. 595.</history>
+</law>

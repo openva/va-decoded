@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="5.1" level="1">Aviation</unit>
+		<unit label="chapter" identifier="1" level="2">Aircraft, Airmen and Airports Generally</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>5.1-9.5</section_number>
+	<catch_line>Contract carriers; bonds, insurance or certificate of insurance required prior to issuance of registration or permit; securities deposited in lieu thereof</catch_line>
+	<text>
+		<section prefix="A">No registration or permit shall be issued by the Department to any contract carrier by aircraft until and after such contract carrier has filed with the Department an insurance policy, a bond underwritten by an insurer, or certificate of insurance in lieu thereof, which certificate shall certify that such policy or bond covers the liability of such contract carrier in accordance with the provisions of this statute.
+		</section>
+		<section prefix="B">Such policy, bond or certificate of insurance shall be issued or underwritten only by an insurer approved or authorized to do business in Virginia, or by one who is eligible as a surplus lines insurer pursuant to Chapter 48 (§ 38.2-4805.1 et seq.) of Title 38.2, and shall be in amounts not less than the following minimum limits: liability for bodily injury to or death of any one person, passenger or other, aboard the aircraft; $75,000, liability for each occurrence in any one aircraft of at least an amount equal to the sum produced by multiplying $75,000 by seventy-five percent of the total number of passenger seats installed in the aircraft; and liability for loss or damage to cargo owned by others than the insured of at least $10,000 for each occurrence. However, the holder of a registration or permit issued by the Department shall not be required to file any cargo insurance, bond, or bonds for cargo liability for the hauling of property transported under contract.
+		</section>
+		<section prefix="C">In no event shall the limits required herein for contract carriers be less than those prescribed for like carriers by the Civil Aeronautics Board or the Federal Aviation Administration or their successors.
+		</section>
+		<section prefix="D">In lieu of such policy, underwritten bond or certificate of insurance, a contract carrier may, with the consent of the Department, submit bonds, in an amount approved by the Department, of the United States of America, the Commonwealth of Virginia, or of any municipality of this Commonwealth as security for its bond. Such federal, state, or municipal bonds shall be deposited with the State Treasurer, and shall not be reduced in amount, pledged as security, or otherwise encumbered for any other purpose during the life of such registration or permit, except with the prior written approval of the Department.
+		</section>
+	</text>
+	<history>1980, c. 721; 2017, c. 793.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="14" level="2">Evidence</unit>
+		<unit label="article" identifier="2" level="3">Laws, Public Records, and Copies of Original Records as Evidence</unit>
+	</structure>
+	<section_number>8.01-390</section_number>
+	<catch_line>Nonjudicial records as evidence (Subdivision (10)(a) of Supreme Court Rule 2:803 derived from subsection C of this section)</catch_line>
+	<text>
+		<section prefix="A">Copies of records of this Commonwealth, of another state, of the United States, of another country, or of any political subdivision or agency of the same, other than those located in a clerk's office of a court, shall be received as prima facie evidence, provided that such copies are authenticated to be true copies either by the custodian thereof or by the person to whom the custodian reports, if they are different. A digitally certified copy of a record provided pursuant to the provisions of Chapter 38.2 (§ 2.2-3817 et seq.) of Title 2.2, whether in electronic form or in print form with visible assurance of the digital signature, shall be deemed to be authenticated by the custodian of the record unless evidence is presented to the contrary.
+		</section>
+		<section prefix="B">Records and recordings of 911 emergency service calls shall be deemed authentic transcriptions or recordings of the original statements if they are accompanied by a certificate that meets the provisions of subsection A and the certificate contains the date and time of the incoming call and the incoming phone number, if available, associated with the call.
+		</section>
+		<section prefix="C">An affidavit signed by an officer deemed to have custody of such an official record, or by his deputy, stating that after a diligent search, no record or entry of such record is found to exist among the records in his office is admissible as evidence that his office has no such record or entry.
+		</section>
+	</text>
+	<history>1977, c. 617; 1996, c. 668; 2000, c. 334; 2014, c. 353; 2017, c. 738.</history>
+</law>

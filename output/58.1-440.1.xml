@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="14" level="4">Accounting, Returns, Procedures for Corporations</unit>
+	</structure>
+	<section_number>58.1-440.1</section_number>
+	<catch_line>Accounting-deferred taxes</catch_line>
+	<text>
+		In the case of a pipeline distribution company, a gas utility, a gas supplier or an electric supplier, as defined in § 58.1-400.2, that was subject to the tax imposed under § 58.1-2626 with respect to its gross receipts received during the year commencing January 1, 2000, and that on or after January 1, 2001, becomes subject to the corporate income tax pursuant to Article 10 (§ 58.1-400 et seq.) of this chapter, net income shall be computed by taking into account the following adjustments:
+		In addition to the deductions for depreciation, amortization, or other cost recovery currently allowed by this Code, there shall be allowed deductions for the amortization of the Virginia tax basis of assets that are recoverable for financial accounting and/or income tax purposes placed in service prior to the adjustment date. For purposes of this section, (i) "Virginia tax basis" means the aggregate adjusted book basis less the aggregate adjusted tax basis of such assets as recorded on the company's books of accounts as of the last day of the tax year immediately preceding the adjustment date and (ii) "adjustment date" means the first day of the tax year in which such pipeline distribution company, gas utility, gas supplier or electric supplier becomes subject to the tax imposed by § 58.1-400.2 A. The amortization of the Virginia tax basis shall be computed using the straight-line method over a period of thirty years, beginning on the adjustment date. Gain or loss on the disposition or retirement of any such asset shall be computed using its adjusted federal tax basis, and the amortization of the Virginia tax basis shall continue thereafter without adjustment. The Department of Taxation shall promulgate regulations describing a reasonable method of allocating the Virginia tax basis in the event that a portion of the operations of a pipeline distribution company, gas utility, gas supplier or electric supplier are separated, spun-off, transferred to a separate company or otherwise disaggregated. For gas suppliers, pipeline distribution companies or gas utilities which are required to file an income tax return for a short taxable year pursuant to subsection E of § 58.1-400.2, a portion of the amortized Virginia tax basis will be disallowed based on the proration in computing Virginia taxable income. Such portion will be recovered as a deduction in the first taxable year after which this deduction is no longer applicable.
+		For rate-making and accounting purposes, the State Corporation Commission shall not require a pipeline distribution company or gas utility to amortize these deferred taxes over a period other than the thirty-year period prescribed herein, nor shall the State Corporation Commission require the treatment of accelerated depreciation different from that allowed for federal income taxes.
+	</text>
+	<history>1999, c. 971; 2000, cc. 691, 706.</history>
+</law>

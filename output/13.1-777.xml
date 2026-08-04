@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="19" level="3">Proceeding for Determination of Shareholders</unit>
+	</structure>
+	<section_number>13.1-777</section_number>
+	<catch_line>Institution of proceeding to determine shareholders</catch_line>
+	<text>
+		<section prefix="A">Whenever the records of a corporation are such that its board of directors determines that there are entities that appear to be lost shareholders who may or may not be entitled to the shares of stock shown by its records or that there may be asserted shareholders, the board of directors may, by a suit in equity brought in the circuit court of the city or county in which its registered office is located, begin a proceeding for a determination of the identity of its proper shareholders.
+		</section>
+		<section prefix="B">Each lost shareholder shall be named a party defendant. Asserted shareholders shall be joined as defendants as persons unknown. Service shall be effected by order of publication pursuant to § 8.01-316. The Commonwealth shall be named a party defendant and service shall be effected on the Attorney General.
+		</section>
+		<section prefix="C">The court shall hear all evidence that shall be available as to the identity of lost shareholders and asserted shareholders and whether or not they are entitled to own shares of stock of the corporation.
+		</section>
+		<section prefix="D">The court, on the basis of such evidence, shall determine, to the best of its ability, the identity of the lost shareholders and asserted shareholders of the corporation. Such determination shall be final, subject to appeal to the Supreme Court of Virginia.
+		</section>
+		<section prefix="E">The court, in its final decree, shall declare that the shares owned by lost shareholders or asserted shareholders and any dividends declared thereon and unpaid shall be the property of the Commonwealth in accordance with § 55.1-2511.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13.1-157 to 13.1-161; 1979, c. 90; 1985, c. 522.</history>
+</law>

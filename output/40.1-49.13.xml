@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3" level="2">Protection of Employees</unit>
+		<unit label="article" identifier="5" level="3">Safety Provisions</unit>
+	</structure>
+	<section_number>40.1-49.13</section_number>
+	<catch_line>Voluntary Protection Program</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Model system" means an exemplary, voluntarily implemented worker safety and health management system that (i) implements comprehensive safety and health programs that exceed basic compliance with occupational safety and health laws and regulations and (ii) meets the VPP standards adopted by the Safety and Health Codes Board pursuant to subsection B.
+			"Voluntary Protection Program" or "VPP" means a program under which the Commissioner recognizes and partners with workplaces in which a model system has been implemented.
+		</section>
+		<section prefix="B">The Safety and Health Codes Board shall adopt definitions, rules, regulations, and standards necessary for the operation of the Voluntary Protection Program in a manner that will promote safe and healthy workplaces throughout the Commonwealth. The standards for the VPP shall include the following requirements for VPP participation:
+			<section prefix="1">Upper management leadership and active and meaningful employee involvement;
+			</section>
+			<section prefix="2">Systematic assessment of occupational hazards;
+			</section>
+			<section prefix="3">Comprehensive hazard prevention, mitigation, and control programs;
+			</section>
+			<section prefix="4">Employee safety and health training; and
+			</section>
+			<section prefix="5">Safety and health program evaluation.
+			</section>
+		</section>
+		<section prefix="C">Applications for participation in the VPP shall be submitted by the workplace's management. Applications shall include documentation establishing to the satisfaction of the Commissioner that the employer meets all standards for VPP participation.
+		</section>
+		<section prefix="D">The Department shall provide for onsite evaluations by VPP evaluation teams of each workplace that has applied to participate in the VPP to determine that the applicant's workplace complies with the standards for VPP participation.
+		</section>
+		<section prefix="E">A workplace's continued participation in the VPP shall be conditioned on compliance with the standards for VPP participation, as determined by periodic onsite evaluations by VPP evaluation teams.
+		</section>
+		<section prefix="F">During periods in which a workplace is a participant in the VPP, the workplace shall be exempt from inspections or investigations under § 40.1-49.4; however, this exception shall not apply to inspections or investigations of the workplace arising from complaints, referrals, fatalities, catastrophes, nonfatal accidents, or significant toxic chemical releases.
+		</section>
+	</text>
+	<history>2015, cc. 20, 339.</history>
+</law>

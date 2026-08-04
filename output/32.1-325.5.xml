@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="10" level="2">Department of Medical Assistance Services</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>32.1-325.5</section_number>
+	<catch_line>State pharmacy benefits manager</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Pharmacy benefits manager" means the same as that term is defined in § 38.2-3465.
+			"Spread pricing" means the model of prescription drug pricing in which the pharmacy benefits manager charges a managed care plan a contracted price for prescription drugs, and the contracted price for the prescription drugs differs from the amount the pharmacy benefits manager directly or indirectly pays the pharmacist or pharmacy for pharmacist services.
+			"State pharmacy benefits manager" means the pharmacy benefits manager contracted by the Department pursuant to this section to administer pharmacy benefits for all Medicaid recipients in the Commonwealth.
+		</section>
+		<section prefix="B">By July 1, 2026, the Department shall select and contract with a single third-party administrator to serve as the state pharmacy benefits manager to administer all pharmacy benefits for Medicaid recipients, including those enrolled in a managed care organization by such date with whom the Department contracts for the delivery of Medicaid services. Each managed care contract entered into or renewed by the Department for the delivery of Medicaid services by a managed care organization shall require the managed care organization to contract with and utilize the state pharmacy benefits manager for the purpose of administering all pharmacy benefits for Medicaid recipients enrolled with the managed care organization. Notwithstanding the provisions of § 38.2-3470, the state pharmacy benefits manager shall adhere to subdivision A 5 of § 38.2-3467 unless otherwise prohibited by federal law.
+		</section>
+		<section prefix="C">The Department's contract with the state pharmacy benefits manager shall:
+			<section prefix="1">Establish the state pharmacy benefits manager's fiduciary duty owed to the Department;
+			</section>
+			<section prefix="2">Require the use of pass-through pricing;
+			</section>
+			<section prefix="3">Require the state pharmacy benefits manager to use the common formulary, reimbursement methodologies, and dispensing fees negotiated by the Department;
+			</section>
+			<section prefix="4">Require transparency in drug costs, rebates collected and paid, dispensing fees paid, administrative fees, and all other charges, fees, costs, and holdbacks; and
+			</section>
+			<section prefix="5">Prohibit the use of spread pricing.
+			</section>
+		</section>
+	</text>
+	<history>2025, cc. 701, 704.</history>
+</law>

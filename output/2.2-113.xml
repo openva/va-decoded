@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="1" level="4">Governor</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-113</section_number>
+	<catch_line>Temporary suspension of state mandates</catch_line>
+	<text>
+		<section prefix="A">The Governor may suspend, temporarily and for a period not to exceed one year, any mandate, or portion thereof, prescribed by any unit of the executive branch of state government on a county, city, town, or other unit of local government upon a finding that it faces fiscal stress and the suspension of the mandate or portion thereof would help alleviate the fiscal hardship.
+			However, for a period beginning July 1, 2010, and ending July 1, 2012, the Governor may suspend any such mandate for a period not to exceed two years upon proper application by a locality pursuant to this section.
+		</section>
+		<section prefix="B">No application shall be made by the locality until approved by resolution of the governing body.
+		</section>
+		<section prefix="C">At the time of application, the following information shall be published in the Virginia Register: (i) the name of the petitioning locality, (ii) the mandate or portion thereof requested to be suspended, (iii) the impact of the suspension of the mandate on the ability of the local government to deliver services, (iv) the estimated reduction in current budget from the suspension, and (v) the time period requested for suspension. Publication in the Virginia Register shall occur at least 20 days in advance of any suspension by the Governor.
+		</section>
+		<section prefix="D">No later than January 1 of each year, the Governor shall submit to the General Assembly a report that identifies each petitioning locality, the mandate or portion thereof for which suspension was sought, and the response provided to the locality.
+		</section>
+		<section prefix="E">Nothing in this section shall apply to the Department of Education.
+			In making a determination of fiscal stress, the Governor may consider, but is not limited to, the following factors: any changes in anticipated revenue, income distribution of residents, revenue effort, revenue capacity, and changes in local population and employment levels.
+		</section>
+	</text>
+	<history>1991, c. 638, § 2.1-51.5:1; 1993, c. 230; 1994, c. 158; 2001, c. 844; 2003, c. 169; 2010, c. 79.</history>
+</law>

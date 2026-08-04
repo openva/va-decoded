@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="III" level="2">Rental Conveyances</unit>
+		<unit label="chapter" identifier="12" level="3">Virginia Residential Landlord and Tenant Act</unit>
+		<unit label="article" identifier="4" level="4">Tenant Remedies</unit>
+	</structure>
+	<section_number>55.1-1242</section_number>
+	<catch_line>Rent escrow required for continuance of tenant's case</catch_line>
+	<text>
+		<section prefix="A">Where a landlord has filed an unlawful detainer action seeking possession of the premises as provided by this chapter and the tenant seeks to obtain a continuance of the action or to set it for a contested trial, the court shall, upon request of the landlord, order the tenant to pay an amount equal to the rent that is due as of the initial court date into the court escrow account prior to granting the tenant's request for a delayed court date. However, if the tenant asserts a good faith defense, and the court so finds, the court shall not require the rent to be escrowed. If the landlord requests a continuance or to set the case for a contested trial, the court shall not require the rent to be escrowed.
+		</section>
+		<section prefix="B">If the court finds that the tenant has not asserted a good faith defense, the tenant shall be required to pay an amount determined by the court to be proper into the court escrow account in order for the case to be continued or set for contested trial. The court may grant the tenant a continuance of no more than one week to make full payment of the court-ordered amount into the court escrow account. If the tenant fails to pay the entire amount ordered, the court shall, upon request of the landlord, enter judgment for the landlord and enter an order of possession of the premises.
+		</section>
+		<section prefix="C">The court shall further order that should the tenant fail to pay future rents due under the rental agreement into the court escrow account, the court shall, upon the request of the landlord, enter judgment for the landlord and enter an order of possession of the premises.
+		</section>
+		<section prefix="D">Upon motion of the landlord, the court may disburse the moneys held in the court escrow account to the landlord for payment of his mortgage or other expenses relating to the dwelling unit.
+		</section>
+		<section prefix="E">Except as provided in subsection D, no rent required to be escrowed under this section shall be disbursed within 10 days of the date of the judgment unless otherwise agreed to by the parties. If an appeal is taken by the plaintiff, the rent held in escrow shall be transmitted to the clerk of the circuit court to be held in such court escrow account pending the outcome of the appeal.
+		</section>
+	</text>
+	<history>1999, cc. 382, 506, § 55-248.25:1; 2009, c. 137; 2019, c. 712.</history>
+</law>

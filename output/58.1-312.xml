@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>58.1-312</section_number>
+	<catch_line>Limitations on assessment</catch_line>
+	<text>
+		<section prefix="A">The tax imposed by this chapter may be assessed at any time if:
+			<section prefix="1">No return is filed;
+			</section>
+			<section prefix="2">A false or fraudulent return is filed with intent to evade tax;
+			</section>
+			<section prefix="3">The taxpayer fails to comply with § 58.1-311 in not reporting a change or correction increasing his federal taxable income as reported on his federal income tax return, or in not reporting a change or correction which is treated in the same manner as if it were a deficiency for federal income tax purposes, or in not filing an amended return; or
+			</section>
+			<section prefix="4">The taxpayer fails to comply with § 58.1-311.1 by not reporting a change or correction decreasing the tax paid to another state for which a credit was claimed on his Virginia income tax return as a result of an examination conducted by any other state or an amended income tax return filed with any other state.
+			</section>
+		</section>
+		<section prefix="B">The tax may be assessed within six years after the return was filed, whether such return was filed on or after the date prescribed, if the taxpayer knowingly failed to disclose on his state income tax return a transaction identified by the Tax Commissioner as an abusive tax avoidance transaction and published as provided in § 58.1-204. A return of tax filed before the last day prescribed by law for the timely filing thereof shall be considered as filed on the last day. If such return is false or fraudulent, an assessment may be made at any time whether or not the falsity or fraud is related to the abusive tax avoidance transaction.
+		</section>
+		<section prefix="C">If the taxpayer pursuant to § 58.1-311 or 58.1-311.1 reports a change or correction or files an amended return increasing his federal taxable income, decreasing the tax paid to another state, or reports a change or correction which is treated in the same manner as if it were a deficiency for federal income tax purposes, the assessment (if not deemed to have been made upon the filing of the report or amended return) may be made at any time within one year after such report or amended return was filed. The amount of such assessment of tax shall not exceed the amount of the increase in Virginia tax attributable to such federal change or correction. The provisions of this paragraph shall not affect the time within which or the amount for which an assessment may otherwise be made.
+		</section>
+		<section prefix="D">If a deficiency is attributable to the application to the taxpayer of a net operating loss carry-back, or to a net capital loss carry-back, it may be assessed at any time that a deficiency for the taxable year of the loss may be assessed.
+		</section>
+		<section prefix="E">An erroneous refund shall be considered an underpayment of tax on the date made, and an assessment of a deficiency arising out of an erroneous refund may be made at any time within two years from the making of the refund, except that the assessment may be made within five years from the making of the refund if it appears that any part of the refund was induced by fraud or misrepresentation of a material fact.
+		</section>
+		<section prefix="F">If a return is required for a decedent or for his estate during the period of administration, the tax shall be assessed within eighteen months after written request therefor (made after the return is filed) by the executor, administrator or other person representing the estate of such decedent, but not more than three years after the return was filed, except as otherwise provided in this subsection.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.0104; 1971, Ex. Sess., c. 171; 1984, c. 675; 2006, c. 234; 2007, c. 524.</history>
+</law>

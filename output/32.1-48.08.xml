@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="3.02" level="3">Quarantine and Isolation of Persons With Communicable Diseases of Public Health Threat</unit>
+	</structure>
+	<section_number>32.1-48.08</section_number>
+	<catch_line>Declaration of quarantine</catch_line>
+	<text>
+		<section prefix="A">The State Health Commissioner may declare a quarantine of any person or persons or any affected area after he finds that the quarantine is the necessary means to contain a communicable disease of public health threat as defined in § 32.1-48.06 to which such person or persons or the people of an affected area have been or may have been exposed and thus may become infected.
+		</section>
+		<section prefix="B">The State Health Commissioner shall record his findings and any information on which he has relied in making the finding required for quarantine pursuant to subsection A. The State Health Commissioner's record of findings concerning any communicable disease of public health threat shall be confidential and shall not be disclosed in accordance with subdivision 12 of § 2.2-3705.5.
+		</section>
+		<section prefix="C">The State Health Commissioner may order the quarantined person or persons to remain in their residences, to remain in another place where they are present, or to report to a place or places designated by the State Health Commissioner for the duration of their quarantine. An electronic device may be used to enforce any such quarantine. The Commissioner's order of quarantine shall be for a duration consistent with the known incubation period for such disease or, if the incubation period is unknown, for a period anticipated as being consistent with the incubation period for other similar infectious agents.
+		</section>
+	</text>
+	<history>2004, cc. 773, 1021; 2017, c. 778.</history>
+</law>

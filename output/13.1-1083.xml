@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="15" level="3">Conversion</unit>
+	</structure>
+	<section_number>13.1-1083</section_number>
+	<catch_line>Plan of entity conversion</catch_line>
+	<text>
+		<section prefix="A">In the case of a domestic limited liability company that is a converting entity:
+			<section prefix="1">The limited liability company shall approve a plan of entity conversion setting forth:
+				a. A statement of the limited liability company's intention to convert to a domestic stock corporation or business trust;
+				b. The terms and conditions of the conversion, including the manner and basis of converting the membership interests of the limited liability company into shares of the stock corporation or beneficial interests of the business trust, preserving the ownership proportion and relative rights, preferences, and limitations of each membership interest of the converting entity;
+				c. As an attachment to the plan, the full text of the articles of incorporation or articles of trust of the converting entity as they will be in effect upon consummation of the conversion; and
+				d. Any other provision relating to the conversion that may be desired.
+			</section>
+			<section prefix="2">The plan of entity conversion may also include a provision that the plan may be amended before the effective time and date of the certificate of entity conversion. An amendment made after the submission of the plan to the members shall not alter or change any of the terms or conditions of the plan if the change would adversely affect the membership interests of the converting entity, unless the amendment has been approved by the members in the manner set forth in § 13.1-1084.
+			</section>
+		</section>
+		<section prefix="B">In the case of a domestic partnership or limited partnership that is a converting entity:
+			<section prefix="1">The partnership or limited partnership shall approve a plan of entity conversion setting forth:
+				a. A statement of the partnership's or limited partnership's intention to convert to a domestic limited liability company;
+				b. The terms and conditions of the conversion, including the manner and basis of converting the partnership interests of the partnership or limited partnership into membership interests of the limited liability company, preserving the ownership proportion and relative rights, preferences, and limitations of each partnership interest;
+				c. As an attachment to the plan, the full text of the articles of organization of the resulting entity as they will be in effect upon consummation of the conversion; and
+				d. Any other provision relating to the conversion that may be desired.
+			</section>
+			<section prefix="2">The plan of entity conversion may also include a provision that the plan of entity conversion may be amended before the effective time and date of the certificate of entity conversion. An amendment made after the submission of the plan:
+				a. To the partners of a partnership shall not alter or change any of the terms or conditions of the plan if the change would adversely affect the partnership interests of the partnership, unless the amendment is approved by the partners in the manner set forth in § 13.1-1084; and
+				b. To the partners of a limited partnership shall not alter or change any of the terms or conditions of the plan if the change would adversely affect the partnership interests of the limited partnership, unless the amendment is approved by the partners in the manner set forth in § 13.1-1084.
+			</section>
+		</section>
+	</text>
+	<history>2016, c. 288.</history>
+</law>

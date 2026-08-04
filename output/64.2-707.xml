@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="1" level="4">General Provisions and Definitions</unit>
+	</structure>
+	<section_number>64.2-707</section_number>
+	<catch_line>Methods and waiver of notice</catch_line>
+	<text>
+		<section prefix="A">Notice to a person under this chapter or the sending of a document to a person under this chapter shall be accomplished in a manner reasonably suitable under the circumstances and likely to result in receipt of the notice or document. Permissible methods of notice or for sending a document include first-class mail, personal delivery, delivery to the person's last known place of residence or place of business, or a properly directed electronic message.
+		</section>
+		<section prefix="B">Notice otherwise required under this chapter or a document otherwise required to be sent under this chapter need not be provided to a person whose identity or location is unknown to and not reasonably ascertainable by the trustee.
+		</section>
+		<section prefix="C">Notice under this chapter or the sending of a document under this chapter may be waived by the person to be notified or sent the document.
+		</section>
+		<section prefix="D">Notice of a judicial proceeding shall be given as provided in § 64.2-713.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-541.09; 2012, c. 614.</history>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="2" level="2">Collection of Items: Depositary and Collecting Banks</unit>
+	</structure>
+	<section_number>8.4-204</section_number>
+	<catch_line>Methods of sending and presenting; sending directly to payor bank</catch_line>
+	<text>
+		<section prefix="a">A collecting bank shall send items by a reasonably prompt method, taking into consideration relevant instructions, the nature of the item, the number of those items on hand, the cost of collection involved and the method generally used by it or others to present those items.
+		</section>
+		<section prefix="b">A collecting bank may send:
+			<section prefix="1">an item directly to the payor bank;
+			</section>
+			<section prefix="2">an item to a nonbank payor if authorized by its transferor; and
+			</section>
+			<section prefix="3">an item other than documentary drafts to a nonbank payor, if authorized by federal reserve regulation or operating circular, clearing-house rule, or the like.
+			</section>
+		</section>
+		<section prefix="c">Presentment may be made by a presenting bank at a place where the payor bank or other payor has requested that presentment be made.
+		</section>
+	</text>
+	<history>Code 1950, § 6-63; 1964, c. 219; 1992, c. 693.</history>
+</law>

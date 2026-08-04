@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="44" level="4">Virginia Security for Public Deposits Act</unit>
+	</structure>
+	<section_number>2.2-4404</section_number>
+	<catch_line>Procedure for payment of losses by dedicated method</catch_line>
+	<text>
+		When the Treasury Board determines that a qualified public depository securing public deposits in accordance with this section is a defaulting depository, it shall as promptly as practicable take steps to reimburse public depositors of all uninsured public deposits using the following procedures:
+		<section prefix="1">The Treasury Board shall ascertain the amount of uninsured public deposits held by the defaulting depository with the cooperation of the Commissioner of Financial Institutions, the receiver appointed for such depository or by any other means available.
+		</section>
+		<section prefix="2">The amount of such uninsured public deposits ascertained as provided in subdivision 1, plus any costs associated with liquidation of the eligible collateral of the defaulting depository, shall be assessed by the Treasury Board against the defaulting depository. The State Treasurer shall promptly take possession of the eligible collateral deposited by such depository with the depository's escrow agent, as is necessary to satisfy the assessment of the Treasury Board and shall liquidate the same and turn over the net proceeds to the Treasury Board.
+		</section>
+		<section prefix="3">Upon receipt from the State Treasurer of the eligible collateral liquidated, the Treasury Board shall reimburse the public depositors from the proceeds of the collateral up to the extent of the depository's deposit liability to them, net of any applicable deposit insurance.
+		</section>
+	</text>
+	<history>1984, c. 135, § 2.1-363.1; 2001, c. 844; 2009, c. 64; 2010, cc. 640, 674.</history>
+</law>

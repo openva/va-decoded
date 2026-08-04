@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="12" level="3">Domestication and Conversion</unit>
+	</structure>
+	<section_number>13.1-1265</section_number>
+	<catch_line>Domestication</catch_line>
+	<text>
+		<section prefix="A">A foreign business trust may become a domestic business trust if the laws of the jurisdiction in which the foreign entity is formed authorize it to domesticate in another jurisdiction. The laws of this Commonwealth shall govern the effect of domesticating in this Commonwealth pursuant to this article.
+		</section>
+		<section prefix="B">A domestic business trust not required by law to be a domestic business trust may become a foreign business trust if the jurisdiction in which the business trust intends to domesticate allows for the domestication. Regardless of whether the laws of the foreign jurisdiction require the adoption of a plan of domestication, the domestication shall be approved in the manner provided in this article. The laws of the jurisdiction in which the business trust domesticates shall govern the effect of domesticating in that jurisdiction.
+		</section>
+	</text>
+	<history>2002, c. 621; 2021, Sp. Sess. I, c. 487.</history>
+</law>

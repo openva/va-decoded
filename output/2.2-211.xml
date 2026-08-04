@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="2" level="4">Governor's Secretaries</unit>
+		<unit label="article" identifier="5" level="5">Secretary of Finance</unit>
+	</structure>
+	<section_number>2.2-211</section_number>
+	<catch_line>Position established; agencies for which responsible; additional powers</catch_line>
+	<text>
+		<section prefix="A">The position of Secretary of Finance (the Secretary) is created. The Secretary shall be responsible for the following agencies: Department of Accounts, Department of Planning and Budget, Department of Taxation, Department of the Treasury, Board of Accountancy, and Virginia Resources Authority. The Governor, by executive order, may assign any other state executive agency to the Secretary of Finance, or reassign any agency listed.
+		</section>
+		<section prefix="B">To the greatest extent practicable, the agencies assigned to the Secretary shall pay all amounts due and owing by the Commonwealth through electronic transfers of funds from the general fund or appropriate special fund to the bank account of the payee or a party identified by law to receive funds on behalf of the payee. All wire transfer costs associated with the electronic transfer shall be paid by the payee subject to exemptions authorized by the State Treasurer affecting the investment, debt, and intergovernmental transactions of the Commonwealth and its agencies, institutions, boards, and authorities.
+		</section>
+	</text>
+	<history>1984, c. 720, §§ 2.1-51.32, 2.1-51.33, 2.1-51.34; 1985, c. 72; 1996, c. 500; 2001, c. 844; 2011, cc. 798, 871; 2017, cc. 30, 31; 2024, cc. 654, 677.</history>
+</law>

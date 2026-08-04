@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="4" level="5">Prompt Payment</unit>
+	</structure>
+	<section_number>2.2-4354</section_number>
+	<catch_line>Payment clauses to be included in contracts</catch_line>
+	<text>
+		Any contract awarded by any state agency, or any contract awarded by any agency of local government in accordance with § 2.2-4352, shall include:
+		<section prefix="1">A payment clause that obligates the contractor on a construction contract, in the event that the contractor has not received payment from the state agency or local government for work performed by a subcontractor under such contract, to be liable for the entire amount owed to such subcontractor and to pay such subcontractor within 60 days of the receipt of an invoice following satisfactory completion of the work for which the subcontractor has invoiced. Such contractor shall not be liable for amounts otherwise reducible due to the subcontractor's noncompliance with the terms of the contract. However, in the event that the contractor withholds all or a part of the amount invoiced by the subcontractor under the terms of the contract, the contractor shall notify the subcontractor within 50 days of the receipt of such invoice, in writing, of his intention to withhold all or a part of the subcontractor's payment with the reason for nonpayment, specifically identifying the contractual noncompliance, the dollar amount being withheld, and the lower-tier subcontractor responsible for the contractual noncompliance. Payment by the party contracting with the contractor shall not be a condition precedent to payment to any lower-tier subcontractor, regardless of that contractor's receiving payment for amounts owed to that contractor. Any provision in a construction contract contrary to this section shall be unenforceable. Nothing in this subdivision shall be construed to (i) apply to or prohibit the inclusion of any retainage provisions in a construction contract or (ii) apply to contracts awarded solely for professional services as that term is defined in § 2.2-4301 where the public body is contracting directly with an architectural and engineering firm.
+		</section>
+		<section prefix="2">A payment clause that obligates the contractor to take one of the two following actions within seven days after receipt of amounts paid to the contractor by the state agency or local government for work performed by the subcontractor under that contract:
+			a. Pay the subcontractor for the proportionate share of the total payment received from the agency attributable to the work performed by the subcontractor under that contract; or
+			b. Notify the agency and subcontractor, in writing, of his intention to withhold all or a part of the subcontractor's payment with the reason for nonpayment.
+		</section>
+		<section prefix="3">A payment clause that requires (i) individual contractors to provide their social security numbers and (ii) proprietorships, partnerships, and corporations to provide their federal employer identification numbers.
+		</section>
+		<section prefix="4">An interest clause that obligates the contractor to pay interest to the subcontractor on all amounts owed by the contractor that remain unpaid after seven days following receipt by the contractor of payment from the state agency or agency of local government for work performed by the subcontractor under that contract, except for amounts withheld as allowed in subdivision 2.
+		</section>
+		<section prefix="5">An interest rate clause stating, "Unless otherwise provided under the terms of this contract, interest shall accrue at the rate of one percent per month."
+			Any such contract awarded shall further require the contractor to include in each of its subcontracts a provision requiring each subcontractor to include or otherwise be subject to the same payment and interest requirements with respect to each lower-tier subcontractor.
+			A contractor's obligation to pay an interest charge to a subcontractor pursuant to the payment clause in this section shall not be construed to be an obligation of the state agency or agency of local government. A contract modification shall not be made for the purpose of providing reimbursement for the interest charge. A cost reimbursement claim shall not include any amount for reimbursement for the interest charge.
+		</section>
+	</text>
+	<history>1990, c. 824, § 11-62.11; 1992, c. 110; 2001, c. 844; 2022, c. 727; 2023, cc. 675, 676.</history>
+</law>

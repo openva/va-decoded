@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="6" level="2">Interception of Wire, Electronic or Oral Communications</unit>
+	</structure>
+	<section_number>19.2-70.2</section_number>
+	<catch_line>Application for and issuance of order for a pen register or trap and trace device; assistance in installation and use</catch_line>
+	<text>
+		<section prefix="A">An investigative or law-enforcement officer may make application for an order or an extension of an order authorizing or approving the installation and use of a pen register or a trap and trace device, in writing under oath or equivalent affirmation, to a court of competent jurisdiction. The application shall include:
+			<section prefix="1">The identity of the officer making the application and the identity of the law-enforcement agency conducting the investigation; and
+			</section>
+			<section prefix="2">A certification by the applicant that the information likely to be obtained is relevant to an ongoing criminal investigation being conducted by that agency.
+				The application may include a request that the order require information, facilities and technical assistance necessary to accomplish the installation be furnished.
+			</section>
+		</section>
+		<section prefix="B">An application for an ex parte order authorizing the installation and use of a pen register or trap and trace device may be filed in the jurisdiction where the ongoing criminal investigation is being conducted; where there is probable cause to believe that an offense was committed, is being committed, or will be committed; or where the person or persons who subscribe to the wire or electronic communication system live, work, or maintain an address or a post office box. For the purposes of an order entered pursuant to this section for the installation and use of a pen register or trap and trace device, such installation shall be deemed to occur in the jurisdiction where the order is entered, regardless of the physical location or the method by which the information is captured or routed to the law-enforcement officer that made the application. Upon application, the court shall enter an ex parte order authorizing the installation and use of a pen register or a trap and trace device if the court finds that the investigative or law-enforcement officer has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation.
+			The order shall specify:
+			<section prefix="1">The identity, if known, of the person in whose name the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied is listed or to whom the line or other facility is leased;
+			</section>
+			<section prefix="2">The identity, if known, of the person who is the subject of the criminal investigation;
+			</section>
+			<section prefix="3">The attributes of the communications to which the order applies, including the number or other identifier and, if known, the location of the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied; and
+			</section>
+			<section prefix="4">A statement of the offense to which the information likely to be obtained by the pen register or trap and trace device relates.
+			</section>
+		</section>
+		<section prefix="C">Installation and use of a pen register or a trap and trace device shall be authorized for a period not to exceed 60 days. Extensions of the order may be granted, but only upon application made and order issued in accordance with this section. The period of an extension shall not exceed 60 days.
+		</section>
+		<section prefix="D">An order authorizing or approving the installation and use of a pen register or a trap and trace device shall direct that:
+			<section prefix="1">The order and application be sealed until otherwise ordered by the court;
+			</section>
+			<section prefix="2">Information, facilities and technical assistance necessary to accomplish the installation be furnished if requested in the application; and
+			</section>
+			<section prefix="3">The person owning or leasing the line or other facility to which the pen register or trap and trace device is attached or applied, or who is obligated by the order to provide assistance to the applicant, not disclose the existence of the pen register or trap and trace device or the existence of the investigation to the listed subscriber, or to any other person, unless or until otherwise ordered by the court.
+			</section>
+		</section>
+		<section prefix="E">Upon request of an investigative or a law-enforcement officer authorized by the court to install and use a pen register, a provider of wire or electronic communication service, a landlord, custodian or any other person so ordered by the court shall, as soon as practicable, furnish the officer with all information, facilities, and technical assistance necessary to accomplish the installation of the pen register unobtrusively and with a minimum of interference with the services that the person so ordered by the court accords the party with respect to whom the installation and use is to take place.
+		</section>
+		<section prefix="F">Upon request of an investigative or law-enforcement officer authorized by the court to receive the results of a trap and trace device under this section, a provider of wire or electronic communication service, a landlord, custodian or any other person so ordered by the court shall, as soon as practicable, install the device on the appropriate line and furnish the officer with all additional information, facilities and technical assistance, including installation and operation of the device, unobtrusively and with a minimum of interference with the services that the person so ordered by the court accords the party with respect to whom the installation and use is to take place. Unless otherwise ordered by the court, the results of the trap and trace device shall be furnished to the investigative or law-enforcement officer designated by the court at reasonable intervals during regular business hours for the duration of the order. Where the law-enforcement agency implementing an ex parte order under this subsection seeks to do so by installing and using its own pen register or trap and trace device on a packet-switched data network of a provider of electronic communication service to the public, the agency shall ensure that a record will be maintained that will identify (i) any officer or officers who installed the device and any officer or officers who accessed the device to obtain information from the network; (ii) the date and time the device was installed, the date and time the device was uninstalled, and the date, time, and duration of each time the device is accessed to obtain information; (iii) the configuration of the device at the time of its installation and any subsequent modification thereof; and (iv) any information that has been collected by the device. To the extent that the pen register or trap and trace device can be set automatically to record this information electronically, the record shall be maintained electronically throughout the installation and use of such device. The record maintained hereunder shall be provided ex parte and under seal of the court that entered the ex parte order authorizing the installation and use of the device within 30 days after termination of the order, including any extensions thereof.
+		</section>
+		<section prefix="G">A provider of a wire or electronic communication service, a landlord, custodian or other person who furnishes facilities or technical assistance pursuant to this section shall be reasonably compensated for reasonable and actual expenses incurred in providing such facilities and assistance. The expenses shall be paid out of the criminal fund.
+		</section>
+		<section prefix="H">When disclosure of real-time location data is not prohibited by federal law, an investigative or law-enforcement officer may obtain a pen register or trap and trace device installation without a court order, in addition to any real-time location data obtained pursuant to subsection E of § 19.2-70.3, in the following circumstances:
+			<section prefix="1">To respond to a user's call for emergency services;
+			</section>
+			<section prefix="2">With the informed, affirmative consent of the owner or user of the electronic device concerned if (i) the device is in his possession, (ii) the owner or user knows or believes that the device is in the possession of an employee or agent of the owner or user with the owner's or user's consent, or (iii) the owner or user knows or believes that the device has been taken by a third party without the consent of the owner or user;
+			</section>
+			<section prefix="3">With the informed, affirmative consent of the legal guardian or next of kin of the owner or user, if reasonably available, if the owner or user is reasonably believed to be deceased, is reported missing, or is unable to be contacted;
+			</section>
+			<section prefix="4">To locate a child who is reasonably believed to have been abducted or to be missing and endangered; or
+			</section>
+			<section prefix="5">If the investigative or law-enforcement officer reasonably believes that an emergency involving the immediate danger to a person requires the disclosure, without delay, of pen register and trap and trace data, or real-time location data pursuant to subsection E of § 19.2-70.3, concerning a specific person and that a court order cannot be obtained in time to prevent the identified danger.
+				No later than three business days after seeking the installation of a pen register or trap and trace device pursuant to this subsection, the investigative or law-enforcement officer seeking the installation shall file with the appropriate court a written statement setting forth the facts giving rise to the emergency and the reasons why the installation of the pen register or trap and trace device was believed to be important in addressing the emergency.
+			</section>
+		</section>
+		<section prefix="I">No cause of action shall lie in any court against a provider of a wire or electronic communication service, its officers, employees, agents or other specified persons for providing information, facilities, or assistance in accordance with the terms of a court order issued pursuant to this section. Good faith reliance on a court order, a legislative authorization or a statutory authorization is a complete defense against any civil or criminal action based upon a violation of this chapter.
+		</section>
+	</text>
+	<history>1988, c. 889; 2002, cc. 588, 623; 2005, c. 934; 2016, c. 231; 2018, c. 667.</history>
+</law>

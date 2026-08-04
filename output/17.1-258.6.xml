@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="2" level="2">Clerks, Clerks' Offices and Records</unit>
+		<unit label="article" identifier="4.1" level="3">Electronic Filing</unit>
+	</structure>
+	<section_number>17.1-258.6</section_number>
+	<catch_line>Acceptability of electronic medium; submission of trial court record to appellate court</catch_line>
+	<text>
+		<section prefix="A">In connection with civil or criminal proceedings in circuit court, any statutory requirement for an original, original paper, paper, record, document, facsimile, memorandum, exhibit, certification, or transcript shall be satisfied if such is in an electronic form approved for filing under the Rules of Supreme Court of Virginia. However, this section shall not apply to documents the form of which is specified in any statute governing the creation and execution of wills, codicils, testamentary trusts, premarital agreements, and negotiable instruments.
+		</section>
+		<section prefix="B">Notwithstanding any other provision of law, any statutory authorization for the use of copies or reproductions in civil or criminal proceedings in circuit court shall be satisfied by use of such copies or reproductions in hard copy or electronic form approved for filing under the Rules of Supreme Court of Virginia.
+		</section>
+		<section prefix="C">Any clerk of a circuit court with an electronic filing system that complies with the Rules of Supreme Court of Virginia may provide the trial court record in electronic form to the appropriate clerk of any appellate court. The clerk of the Supreme Court and the clerk of the Court of Appeals shall accept the official civil or criminal record in electronic form as otherwise required by law. The clerk in the appellate court may also request that any paper trial court records be forwarded to such clerk.
+		</section>
+		<section prefix="D">The Rules of Supreme Court of Virginia shall not prohibit the use of a private vendor electronic filing system if such system is in compliance with the filing standards established by the Court.
+		</section>
+	</text>
+	<history>2010, cc. 717, 760; 2015, c. 71; 2018, cc. 125, 129, 523.</history>
+</law>

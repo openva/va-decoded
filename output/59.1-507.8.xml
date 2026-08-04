@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="7" level="3">Breach of Contract</unit>
+	</structure>
+	<section_number>59.1-507.8</section_number>
+	<catch_line>Adequate assurance of performance</catch_line>
+	<text>
+		<section prefix="a">A contract imposes an obligation on each party not to impair the other's expectation of receiving due performance. If reasonable grounds for insecurity arise with respect to the performance of either party, the aggrieved party may:
+			<section prefix="1">demand in a record adequate assurance of due performance; and
+			</section>
+			<section prefix="2">until that assurance is received, if commercially reasonable, suspend any performance, other than with respect to contractual use terms, for which the agreed return performance has not been received.
+			</section>
+		</section>
+		<section prefix="b">Between merchants, the reasonableness of grounds for insecurity and the adequacy of any assurance offered is determined according to commercial standards.
+		</section>
+		<section prefix="c">Acceptance of any improper delivery or payment does not impair an aggrieved party's right to demand adequate assurance of future performance.
+		</section>
+		<section prefix="d">After receipt of a justified demand under subsection (a), failure, within a reasonable time not exceeding thirty days, to provide assurance of due performance which is adequate under the circumstances of the particular case is a repudiation of the contract under § 59.1-507.9.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

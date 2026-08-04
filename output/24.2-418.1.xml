@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="4" level="3">Registration of Voters</unit>
+	</structure>
+	<section_number>24.2-418.1</section_number>
+	<catch_line>Receipt for voter registration applicants</catch_line>
+	<text>
+		<section prefix="A">The state form for the application to register to vote shall contain a receipt that shall be given to the applicant upon his completion of the form. The receipt shall be completed by the person receiving the form from the applicant and shall include the following information: the name of the office, group, or person receiving the registration application; the date that the office, group, or person received the registration application from the applicant; and the phone number of the general registrar or the toll-free phone number of the Department of Elections that the applicant may call to confirm his registration.
+		</section>
+		<section prefix="B">The requirement to complete the receipt as provided in subsection A shall not be applicable when a completed form is mailed directly to or completed in the office of a general registrar or the Department.
+		</section>
+	</text>
+	<history>2008, c. 865; 2015, c. 740.</history>
+</law>

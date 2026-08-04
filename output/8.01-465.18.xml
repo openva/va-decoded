@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="17.3" level="2">Uniform Foreign-Money Claims Act</unit>
+	</structure>
+	<section_number>8.01-465.18</section_number>
+	<catch_line>Determining amount of the money of certain contract claims</catch_line>
+	<text>
+		<section prefix="A">If an amount contracted to be paid in a foreign money is measured by a specified amount of a different money, the amount to be paid is determined on the conversion date.
+		</section>
+		<section prefix="B">If an amount contracted to be paid in a foreign money is to be measured by a different money at the rate of exchange prevailing on a date before default, that rate of exchange applies only to payments made within a reasonable time after default, not exceeding thirty days. Thereafter, conversion is made at the bank-offered spot rate on the conversion date.
+		</section>
+		<section prefix="C">A monetary claim is neither usurious nor unconscionable because the agreement on which it is based provides that the amount of the debtor's obligation to be paid in the debtor's money, when received by the creditor, must equal a special amount of the foreign money of the country of the creditor. If, because of unexcused delay in payment of a judgment or award, the amount received by the creditor does not equal the amount of the foreign money specified in the agreement, the court or arbitrator shall amend the judgment or award accordingly.
+		</section>
+	</text>
+	<history>1991, c. 24.</history>
+</law>

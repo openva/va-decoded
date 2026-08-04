@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="20" level="3">Regulation of Passenger Carriers</unit>
+		<unit label="article" identifier="10" level="4">Brokers</unit>
+	</structure>
+	<section_number>46.2-2099.19</section_number>
+	<catch_line>Broker's license not substitute for other certificates or permits required</catch_line>
+	<text>
+		No person who holds a TNC broker's license or broker's license under this article shall engage in transportation subject to this chapter unless he holds a certificate or permit as provided in this chapter. In the execution of any contract, agreement, or arrangement to sell, provide, procure, furnish, or arrange for such transportation, it shall be unlawful for a broker to employ any carrier by motor vehicle who is not the lawful holder of an effective certificate or permit issued as provided in this chapter or when such certificate or permit does not authorize the carrier to perform the service being acquired.
+		A person holding a broker's license shall obtain and maintain a copy of the certificate of public convenience and necessity issued to those carriers through which the broker arranges transportation services. A person holding a TNC broker's license shall obtain and maintain a copy of the credential issued by the transportation network company pursuant to subsection H of § 46.2-2099.48 to those TNC partners through which the broker arranges transportation services.
+		A person holding a TNC broker's license shall, for each TNC partner for whom it arranges transportation, either:
+		<section prefix="1">Verify that a TNC partner meets all requirements set forth in §§ 46.2-2099.49 and 46.2-2099.50 and obtain all documentation that a transportation network company is required to obtain pursuant to those sections; or
+		</section>
+		<section prefix="2">Obtain a certification from the transportation network company that authorized the TNC partner that the TNC partner has satisfied all requirements set forth in §§ 46.2-2099.49 and 46.2-2099.50.
+		</section>
+	</text>
+	<history>2001, c. 596; 2013, cc. 165, 582; 2017, c. 635.</history>
+</law>

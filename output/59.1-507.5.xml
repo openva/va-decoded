@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="7" level="3">Breach of Contract</unit>
+	</structure>
+	<section_number>59.1-507.5</section_number>
+	<catch_line>Copy; contract with previous vested grant of rights</catch_line>
+	<text>
+		If an agreement grants a right in or permission to use informational rights which precedes or is otherwise independent of the delivery of a copy, the following rules apply:
+		<section prefix="1">A party may refuse a tender of a copy which is a material breach as to that copy, but refusal of that tender does not cancel the contract.
+		</section>
+		<section prefix="2">In a case governed by paragraph (1), the tendering party may cure the breach by seasonably providing a conforming copy before the breach becomes material as to the whole contract.
+		</section>
+		<section prefix="3">A breach that is material with respect to a copy allows cancellation of the contract only if the breach cannot be seasonably cured and is a material breach of the whole contract.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

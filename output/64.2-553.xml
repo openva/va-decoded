@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="5" level="3">Personal Representatives and Administration of Estates</unit>
+		<unit label="article" identifier="9" level="4">Settlement of Accounts and Distribution</unit>
+	</structure>
+	<section_number>64.2-553</section_number>
+	<catch_line>When court to order payment of debts</catch_line>
+	<text>
+		<section prefix="A">Upon confirmation of a report of the accounts of any personal representative and of the debts and demands against the decedent's estate pursuant to Chapter 12 (§ 64.2-1200 et seq.), the court shall order that so much of the estate in the possession of the personal representative as is proper be applied to the payment of such debts and demands. The court, in its discretion, may order that a portion of the estate be reserved to pay all or a proportion of a claim of a surety for the decedent or any other contingent claim against the estate, or to pay all or a proportion of any other claim not finally passed upon, provided that creditors of the same class shall be paid in the same proportion.
+		</section>
+		<section prefix="B">For any claim allowed subsequent to any dividend where the court ordered that a portion of the estate be reserved to pay such a claim, the court shall order that the claim be paid from the estate in the possession of the personal representative, regardless of the existence of any debt or demand of superior dignity for which no reservation has been ordered. The claim shall be paid in the same proportion as creditors of the same class, provided, however, that whether there be enough reserved to pay the claim pursuant to this subsection shall not affect any dividend already paid.
+		</section>
+		<section prefix="C">If there are assets remaining in the possession of the personal representative after claims are paid pursuant to subsections A and B, or if further assets come into the possession of the personal representative, such surplus shall be divided among all the decedent's creditors who have proved debts and demands against the decedent's estate in the order and proportion in which they may be entitled.
+		</section>
+	</text>
+	<history>Code 1950, §§ 64-164, 64-165, 64-166; 1968, c. 656, §§ 64.1-174, 64.1-175, 64.1-176; 2012, c. 614.</history>
+</law>

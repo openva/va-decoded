@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="47.1" level="1">Notaries and Out-of-State Commissioners</unit>
+		<unit label="chapter" identifier="3" level="2">Powers and Duties</unit>
+	</structure>
+	<section_number>47.1-16</section_number>
+	<catch_line>Notarizations to show date of act, official signature and seal, etc</catch_line>
+	<text>
+		<section prefix="A">Every notarization shall include the date upon which the notarial act was performed and the county or city and state in which it was performed. Every electronic notarial certificate completed by an electronic notary public commissioned in the Commonwealth shall include the county or city within the Commonwealth where the electronic notary public was physically located at the time of the notarial act. The electronic notarial certificate shall indicate whether the notarization was done in person or by remote online notarization.
+		</section>
+		<section prefix="B">A notarial act shall be evidenced by a notarial certificate or electronic notarial certificate signed by a notary in a manner that attributes such signature to the notary public identified on the commission.
+		</section>
+		<section prefix="C">Upon every writing that is the subject of a notarial act, the notary shall, after his certificate, state the date of the expiration of his commission in substantially the following form:
+			"My commission expires the____ day of_____________, _____"
+			Near the notary's official signature on the notarial certificate of a paper document, the notary shall affix a sharp, legible, permanent, and photographically reproducible image of the official seal, or, to an electronic document, the notary shall attach an official electronic seal.
+		</section>
+		<section prefix="D">The notary shall attach the official electronic signature and electronic seal to the electronic notarial certificate of an electronic document in a manner that is capable of independent verification and renders any subsequent changes or modifications to the electronic document evident.
+		</section>
+		<section prefix="E">An electronic notary's electronic signature and electronic seal shall conform to the standards for electronic notarization developed in accordance with § 47.1-6.1.
+		</section>
+	</text>
+	<history>Code 1950, § 55-116; 1980, c. 580; 2007, cc. 269, 590; 2008, cc. 117, 814; 2009, c. 160; 2021, Sp. Sess. I, c. 78; 2024, c. 832.</history>
+</law>

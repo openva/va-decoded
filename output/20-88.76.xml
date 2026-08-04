@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="9" level="3">Registration and Modification of Child Support Order</unit>
+	</structure>
+	<section_number>20-88.76</section_number>
+	<catch_line>Modification of child support order of another state</catch_line>
+	<text>
+		<section prefix="A">If § 20-88.77:1 does not apply, upon petition a tribunal of the Commonwealth may modify a child support order, issued in another state, that is registered in the Commonwealth if, after notice and hearing, the tribunal finds that:
+			<section prefix="1">The following requirements are met:
+				a. Neither the child, nor the obligee who is an individual, nor the obligor resides in the issuing state;
+				b. A petitioner who is a nonresident of the Commonwealth seeks modification; and
+				c. The respondent is subject to the personal jurisdiction of the tribunal of the Commonwealth; or
+			</section>
+			<section prefix="2">The Commonwealth is the residence of the child or a party who is an individual is subject to the personal jurisdiction of the tribunal of the Commonwealth and all of the individual parties who are individuals have filed consents in a record in the issuing tribunal for a tribunal of the Commonwealth to modify the support order and assume continuing, exclusive jurisdiction.
+			</section>
+		</section>
+		<section prefix="B">Modification of a registered child support order is subject to the same requirements, procedures, and defenses that apply to the modification of an order issued by a tribunal of the Commonwealth and the order may be enforced and satisfied in the same manner.
+		</section>
+		<section prefix="C">A tribunal of the Commonwealth may not modify any aspect of a child support order that may not be modified under the law of the issuing state, including the duration of the obligation of support. If two or more tribunals have issued child support orders for the same obligor and same child, the order that controls and shall be so recognized under § 20-88.41 establishes the aspects of the support order which are nonmodifiable.
+		</section>
+		<section prefix="D">In a proceeding to modify a child support order, the law of the state that is determined to have issued the initial controlling order governs the duration of the obligation of support. The obligor's fulfillment of the duty of support established by that order precludes imposition of a further obligation of support by a tribunal of the Commonwealth.
+		</section>
+		<section prefix="E">On issuance of an order by a tribunal of the Commonwealth modifying a child support order issued in another state, the tribunal of the Commonwealth becomes the tribunal having continuing, exclusive jurisdiction.
+		</section>
+		<section prefix="F">Notwithstanding subsections A through E and § 20-88.35, a tribunal of the Commonwealth retains jurisdiction to modify an order issued by a tribunal of the Commonwealth if one party resides in another state and the other party resides outside the United States.
+		</section>
+	</text>
+	<history>1994, c. 673; 1997, cc. 797, 897; 2005, c. 754; 2015, c. 727.</history>
+</law>

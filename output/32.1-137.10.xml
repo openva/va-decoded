@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="1.2" level="3">Utilization Review Standards and Appeals</unit>
+	</structure>
+	<section_number>32.1-137.10</section_number>
+	<catch_line>Utilization review plan required</catch_line>
+	<text>
+		<section prefix="A">Each utilization review entity subject to this article shall adopt a utilization review plan that contains procedures for complying with the requirements and standards of § 32.1-137.9 and other applicable provisions of this article. Such plan shall contain, at a minimum, the following:
+			<section prefix="1">Specific procedures to be used in review determinations, including an expedited review of no more than twenty-four hours for review determinations relating to prescriptions for the alleviation of cancer pain;
+			</section>
+			<section prefix="2">A provision for advance notice to covered persons of any requirements for certification of the health care setting or pre-approval of the necessity of health care service or any other prerequisites to approval of payment;
+			</section>
+			<section prefix="3">A provision for advance notice to covered persons that compliance with the review process is not a guarantee of benefits or payment under the health benefit plan;
+			</section>
+			<section prefix="4">A provision for a process for reconsideration of adverse decisions in accordance with § 32.1-137.14 and an appeals process in accordance with § 32.1-137.15; and
+			</section>
+			<section prefix="5">Policies and procedures designed to ensure confidentiality of patient-specific medical records and information in accordance with subsection C of § 32.1-137.12.
+			</section>
+		</section>
+		<section prefix="B">Each utilization review entity subject to this chapter shall make available to providers and covered persons, upon written request, a copy of those portions of its utilization review plan relevant to the specific request.
+		</section>
+		<section prefix="C">The Commissioner shall have the right to determine that an entity has complied with the requirement that the entity adopt a utilization review plan in accordance with subsection A.
+		</section>
+	</text>
+	<history>1998, c. 891; 1999, c. 857.</history>
+</law>

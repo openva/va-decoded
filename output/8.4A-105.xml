@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4A" level="1">Commercial Code — Funds Transfers</unit>
+		<unit label="part" identifier="1" level="2">Subject Matter and Definitions</unit>
+	</structure>
+	<section_number>8.4A-105</section_number>
+	<catch_line>Other definitions</catch_line>
+	<text>
+		<section prefix="a">In this title:
+			<section prefix="1">"Authorized account" means a deposit account of a customer in a bank designated by the customer as a source of payment orders issued by the customer to the bank. If a customer does so designate an account, any account of the customer is an authorized account if payment of a payment order from that account is not inconsistent with a restriction on the use of that account.
+			</section>
+			<section prefix="2">"Bank" means a person engaged in the business of banking and includes a savings bank, savings and loan association, credit union, and trust company. A branch or separate office of a bank is a separate bank for purposes of this title.
+			</section>
+			<section prefix="3">"Customer" means a person, including a bank, having an account with a bank or from whom a bank has agreed to receive payment orders.
+			</section>
+			<section prefix="4">"Funds-transfer business day" of a receiving bank means the part of a day during which the receiving bank is open for the receipt, processing, and transmittal of payment orders and cancellations and amendments of payment orders.
+			</section>
+			<section prefix="5">"Funds-transfer system" means a wire transfer network, automated clearinghouse, or other communication system of a clearinghouse or other association of banks through which a payment order by a bank may be transmitted to the bank to which the order is addressed.
+			</section>
+			<section prefix="6">"Good faith" means honesty in fact and the observance of reasonable commercial standards of fair dealing.
+			</section>
+			<section prefix="7">"Prove" with respect to a fact means to meet the burden of establishing the fact as provided in § 8.1A-201(b)(8).
+			</section>
+		</section>
+		<section prefix="b">Other definitions applying to this title and the sections in which they appear are:
+			"Acceptance"§ 8.4A-209.
+			"Beneficiary"§ 8.4A-103.
+			"Beneficiary's bank"§ 8.4A-103.
+			"Executed"§ 8.4A-301.
+			"Execution date"§ 8.4A-301.
+			"Funds transfer"§ 8.4A-104.
+			"Funds-transfer system rule"§ 8.4A-501.
+			"Intermediary bank"§ 8.4A-104.
+			"Originator"§ 8.4A-104.
+			"Originator's bank"§ 8.4A-104.
+			"Payment by beneficiary's bank to beneficiary"§ 8.4A-405.
+			"Payment by originator to beneficiary"§ 8.4A-406.
+			"Payment by sender to receiving bank"§ 8.4A-403.
+			"Payment date"§ 8.4A-401.
+			"Payment order"§ 8.4A-103.
+			"Receiving bank"§ 8.4A-103.
+			"Security procedure"§ 8.4A-201.
+			"Sender"§ 8.4A-103.
+		</section>
+		<section prefix="c">The following definitions in Title 8.4 apply to this title:
+			"Clearinghouse"§ 8.4-104.
+			"Item"§ 8.4-104.
+			"Suspends payments"§ 8.4-104.
+		</section>
+		<section prefix="d">In addition, Title 8.1A contains general definitions and principles of construction and interpretation applicable throughout this title.
+		</section>
+	</text>
+	<history>1990, c. 9; 2003, c. 353.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="C" level="3">Surface Coal Mines</unit>
+		<unit label="chapter" identifier="9" level="4">Requirements Applicable to Surface Coal Mines</unit>
+		<unit label="article" identifier="10" level="5">Explosives and Blasting</unit>
+	</structure>
+	<section_number>45.2-933</section_number>
+	<catch_line> Minimum blasting practices</catch_line>
+	<text>
+		<section prefix="A">If explosives are in use on the surface and an electrical storm approaches, all persons shall be removed from the blast area until the storm has passed.
+		</section>
+		<section prefix="B">In accordance with the standards set forth in § 45.2-902, the Chief shall adopt regulations regarding the safe storage, transportation, handling, and use of blasting agents and other explosives.
+		</section>
+	</text>
+	<history>Code 1950, §§ 45-53.1, 45-53.5; 1954, c. 191; 1966, c. 594, §§ 45.1-48, 45.1-53.1; 1978, c. 729; 1981, c. 179; 1984, c. 229; 1993, c. 442; 1994, c. 28, § 45.1-161.286; 1996, c. 774; 2021, Sp. Sess. I, c. 387.</history>
+</law>

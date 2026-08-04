@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="1.1" level="3">Ratification of Defective Corporate Actions</unit>
+	</structure>
+	<section_number>13.1-614.3</section_number>
+	<catch_line>Ratification of defective corporate actions</catch_line>
+	<text>
+		<section prefix="A">To ratify a defective corporate action under this section, other than the ratification of an election of the initial board of directors under subsection B, the board of directors shall adopt resolutions ratifying the action in accordance with § 13.1-614.4, stating:
+			<section prefix="1">The defective corporate action to be ratified and, if the defective corporate action involved the issuance of putative shares, the number and type of putative shares purportedly issued;
+			</section>
+			<section prefix="2">The date of the defective corporate action;
+			</section>
+			<section prefix="3">The nature of the failure of authorization with respect to the defective corporate action to be ratified; and
+			</section>
+			<section prefix="4">That the board of directors approves the ratification of the defective corporate action.
+			</section>
+		</section>
+		<section prefix="B">In the event that a defective corporate action to be ratified relates to the election of the initial board of directors of the corporation under subdivision A 2 of § 13.1-623, a majority of the persons who, at the time of the ratification, are exercising the powers of directors may take an action stating:
+			<section prefix="1">The name of the person or persons who first took action in the name of the corporation as the initial board of directors of the corporation;
+			</section>
+			<section prefix="2">The earlier of the date on which such persons first took such action or were purported to have been elected as the initial board of directors; and
+			</section>
+			<section prefix="3">That the ratification of the election of such person or persons as the initial board of directors is approved.
+			</section>
+		</section>
+		<section prefix="C">If any provision of this chapter, the articles of incorporation or bylaws, any corporate resolution or any plan or agreement to which the corporation is a party in effect at the time action under subsection A is taken requires shareholder approval or would have required shareholder approval at the date of the occurrence of the defective corporate action, the ratification of defective corporate action approved in the action taken by the directors under subsection A shall be submitted to the shareholders for approval in accordance with § 13.1-614.4.
+		</section>
+		<section prefix="D">Unless otherwise provided in the action taken by the board of directors under subsection A, after the action by the board of directors has been taken and, if required, approved by the shareholders, the board of directors may abandon the ratification at any time before the validation effective time without further action of the shareholders.
+		</section>
+	</text>
+	<history>2019, c. 734.</history>
+</law>

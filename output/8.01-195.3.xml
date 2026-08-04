@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="18.1" level="3">Tort Claims Against the Commonwealth of Virginia</unit>
+	</structure>
+	<section_number>8.01-195.3</section_number>
+	<catch_line>Commonwealth, transportation district or locality liable for damages in certain cases</catch_line>
+	<text>
+		Subject to the provisions of this article, the Commonwealth shall be liable for claims for money only accruing on or after July 1, 1982, and any transportation district shall be liable for claims for money only accruing on or after July 1, 1986, on account of damage to or loss of property or personal injury or death caused by the negligent or wrongful act or omission of any employee while acting within the scope of his employment under circumstances where the Commonwealth or transportation district, if a private person, would be liable to the claimant for such damage, loss, injury or death. However, except to the extent that a transportation district contracts to do so pursuant to § 33.2-1919, neither the Commonwealth nor any transportation district shall be liable for interest prior to judgment or for punitive damages. The amount recoverable by any claimant shall not exceed (i) $25,000 for causes of action accruing prior to July 1, 1988, $75,000 for causes of action accruing on or after July 1, 1988, or $100,000 for causes of action accruing on or after July 1, 1993, or (ii) the maximum limits of any liability policy maintained to insure against such negligence or other tort, if such policy is in force at the time of the act or omission complained of, whichever is greater, exclusive of interest and costs.
+		Notwithstanding any provision hereof, the individual immunity of judges, the Attorney General, attorneys for the Commonwealth, and other public officers, their agents and employees from tort claims for damages is hereby preserved to the extent and degree that such persons presently are immunized. Any recovery based on the following claims are hereby excluded from the provisions of this article:
+		<section prefix="1">Any claim against the Commonwealth based upon an act or omission which occurred prior to July 1, 1982.
+			1a. Any claim against a transportation district based upon an act or omission which occurred prior to July 1, 1986.
+		</section>
+		<section prefix="2">Any claim based upon an act or omission of the General Assembly or district commission of any transportation district, or any member or staff thereof acting in his official capacity, or to the legislative function of any agency subject to the provisions of this article.
+		</section>
+		<section prefix="3">Any claim based upon an act or omission of any court of the Commonwealth, or any member thereof acting in his official capacity, or to the judicial functions of any agency subject to the provisions of this article.
+		</section>
+		<section prefix="4">Any claim based upon an act or omission of an officer, agent or employee of any agency of government in the execution of a lawful order of any court.
+		</section>
+		<section prefix="5">Any claim arising in connection with the assessment or collection of taxes.
+		</section>
+		<section prefix="6">Any claim arising out of the institution or prosecution of any judicial or administrative proceeding, even if without probable cause.
+		</section>
+		<section prefix="7">Any claim by an inmate of a state correctional facility, as defined in § 53.1-1, unless the claimant verifies under oath, by affidavit, that he has exhausted his remedies under the adult institutional inmate grievance procedures promulgated by the Department of Corrections. The time for filing the notice of tort claim shall be tolled during the pendency of the grievance procedure.
+			Nothing contained herein shall operate to reduce or limit the extent to which the Commonwealth or any transportation district, agency or employee was deemed liable for negligence as of July 1, 1982, nor shall any provision of this article be applicable to any county, city or town in the Commonwealth or be so construed as to remove or in any way diminish the sovereign immunity of any county, city or town in the Commonwealth.
+		</section>
+	</text>
+	<history>1981, c. 449; 1982, c. 397; 1986, c. 584; 1988, c. 884; 1989, c. 446; 1993, c. 481; 1998, cc. 203, 820; 2007, c. 250.</history>
+</law>

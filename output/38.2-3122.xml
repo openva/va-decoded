@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="2" level="3">Proceeds of Certain Policies</unit>
+	</structure>
+	<section_number>38.2-3122</section_number>
+	<catch_line>Proceeds and avails of life insurance policies and annuity contracts free of certain claims</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "protected insurance item" means, with respect to a policy of life insurance or annuity issued or issued for delivery in the Commonwealth:
+			<section prefix="1">The cash surrender value of any such policy;
+			</section>
+			<section prefix="2">The proceeds of any such policy;
+			</section>
+			<section prefix="3">The withdrawal value of any optional settlement or deposit with any company made pursuant to the terms of such policy; or
+			</section>
+			<section prefix="4">All other benefits, indemnities, payments, and privileges of every kind from any such policy.
+			</section>
+		</section>
+		<section prefix="B">In no case whatsoever shall any protected insurance item be liable to execution, attachment, garnishment, or other legal process in favor of any creditor of:
+			<section prefix="1">The person whose life is insured by the related policy or contract;
+			</section>
+			<section prefix="2">The person who can, may, or will receive the benefit of that protected insurance item, provided that such person is the insured or owner of the contract, deposit, indemnity, policy, or settlement or the spouse or intended spouse of, a dependent child of, or any other person dependent on, the insured or owner of the contract, deposit, indemnity, policy, or settlement;
+			</section>
+			<section prefix="3">The person who owns the related contract, deposit, or policy; or
+			</section>
+			<section prefix="4">The person who effected the related contract, deposit, or policy.
+			</section>
+		</section>
+		<section prefix="C">The provisions of subsection B shall not apply to any claim by a creditor with respect to a life insurance policy, annuity contract, or deposit with an insurance company that was taken out, made, or assigned in writing for the benefit of the creditor.
+		</section>
+		<section prefix="D">Notwithstanding the provisions of subsection B and subject to the applicable statute of limitations, the amount of any premiums or other amounts paid for the related life insurance policy, annuity contract, or deposit with an insurance company that were paid with the intent to defraud creditors, with the interest thereon, shall inure to the benefit of the creditors from the proceeds of the policy, contract, or deposit.
+		</section>
+		<section prefix="E">The exemption provided by this section shall not apply to any protected insurance item issued or effected during the six months preceding the date that the person claiming the exemption (i) files a voluntary petition in bankruptcy; (ii) becomes the subject of an order for relief or is declared insolvent in any federal or state bankruptcy or insolvency proceeding; or (iii) files a petition or answer seeking for himself any reorganization, arrangement, composition, readjustment, liquidation, dissolution, or similar relief under any statute, law, or regulation.
+		</section>
+		<section prefix="F">The exemption established by this section shall apply to a protected insurance item regardless of whether (i) the right to change the beneficiary thereof is reserved or permitted or (ii) any of the following persons or any of their estates is a contingent beneficiary thereof:
+			<section prefix="1">The person insured by the related life insurance policy;
+			</section>
+			<section prefix="2">The person effecting the related life insurance policy or annuity contract;
+			</section>
+			<section prefix="3">The annuitant of the related annuity contract; or
+			</section>
+			<section prefix="4">The owner of the related life insurance policy or annuity contract.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 38-119; 1952, c. 317, § 38.1-448; 1986, c. 562; 2016, c. 274.</history>
+</law>

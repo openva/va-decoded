@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2A" level="1">Commercial Code—Leases</unit>
+		<unit label="part" identifier="1" level="2">General Provisions</unit>
+	</structure>
+	<section_number>8.2A-102</section_number>
+	<catch_line>Scope</catch_line>
+	<text>
+		<section prefix="1">This title applies to any transaction, regardless of form, that creates a lease and, in the case of a hybrid lease, it applies to the extent provided in subsection (2).
+		</section>
+		<section prefix="2">In a hybrid lease:
+			<section prefix="a">if the lease-of-goods aspects do not predominate:
+			</section>
+			<section prefix="i">only the provisions of this title that relate primarily to the lease-of-goods aspect of the transaction apply, and the provisions that relate primarily to the transaction as a whole do not apply;
+				<section prefix="ii">§ 8.2A-209 applies if the lease is a financial lease; and
+				</section>
+				<section prefix="iii">§ 8.2A-407 applies to the promises of the lessee in a finance lease to the extent the promises are consideration for the right to possession and use of the leased goods; and
+				</section>
+			</section>
+			<section prefix="b">if the lease-of-goods aspects predominate, this title applies to the transaction, but does not preclude application in appropriate circumstances of other law to aspects of the lease that do not relate to the lease of goods.
+			</section>
+		</section>
+	</text>
+	<history>1991, c. 536; 2024, c. 652.</history>
+</law>

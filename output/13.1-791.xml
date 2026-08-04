@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="22" level="3">Benefit Corporations</unit>
+	</structure>
+	<section_number>13.1-791</section_number>
+	<catch_line>Annual benefit report</catch_line>
+	<text>
+		<section prefix="A">A benefit corporation shall prepare an annual benefit report that includes all of the following:
+			<section prefix="1">A narrative description of:
+				a. The ways in which the benefit corporation pursued the general public benefit during the year and the extent to which the general public benefit was created; and
+				b. Both:
+				<section prefix="1">The ways in which the benefit corporation pursued any specific public benefit that the articles of incorporation or bylaws, or other action taken by the board of directors, state it is the purpose of the benefit corporation to create; and
+				</section>
+				<section prefix="2">The extent to which that specific public benefit was created; and
+					c. Any circumstances that have hindered the creation by the benefit corporation of the general or any specific public benefit;
+				</section>
+			</section>
+			<section prefix="2">An assessment of the social and environmental performance of the benefit corporation. The assessment shall be:
+				a. Prepared in accordance with a third-party standard specified in the articles of incorporation, the bylaws, or otherwise adopted by the board of directors and applied consistently with any application of that standard in prior benefit reports; or
+				b. Accompanied by an explanation of the reasons for any inconsistent application; and
+			</section>
+			<section prefix="3">Any other information or disclosures that may be required under any third-party standard adopted by the directors of the benefit corporation.
+			</section>
+		</section>
+		<section prefix="B">The benefit report shall be made available annually to each shareholder of the benefit corporation:
+			<section prefix="1">Within 120 days following the end of the fiscal year of the benefit corporation; or
+			</section>
+			<section prefix="2">At the same time that the benefit corporation delivers any other annual report to its shareholders.
+			</section>
+		</section>
+		<section prefix="C">A benefit corporation shall post its most recent benefit report on a publicly accessible portion of its Internet website, if any. If a benefit corporation does not have an Internet website, it shall make a written or electronic copy of its most recent benefit report available upon written request from any person. A benefit corporation shall not be required to publicly disclose to persons other than its shareholders any proprietary, confidential, or individual compensation information contained in its benefit report to the extent that any third-party standard adopted by the directors of the benefit corporation permits the omission of such information from public disclosure.
+		</section>
+	</text>
+	<history>2011, c. 698.</history>
+</law>

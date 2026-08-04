@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="21" level="2">Arbitration and Award</unit>
+		<unit label="article" identifier="2" level="3">Uniform Arbitration Act</unit>
+	</structure>
+	<section_number>8.01-581.016</section_number>
+	<catch_line>Appeals</catch_line>
+	<text>
+		An appeal may be taken from:
+		<section prefix="1">An order denying an application to compel arbitration made under § 8.01-581.02;
+		</section>
+		<section prefix="2">An order by a general district court granting an application to compel arbitration;
+		</section>
+		<section prefix="3">An order granting an application to stay arbitration made under subsection B of § 8.01-581.02;
+		</section>
+		<section prefix="4">An order confirming or denying an award;
+		</section>
+		<section prefix="5">An order modifying or correcting an award;
+		</section>
+		<section prefix="6">An order vacating an award without directing a rehearing; or
+		</section>
+		<section prefix="7">A judgment or decree entered pursuant to the provisions of this article.
+			The appeal shall be taken in the manner and to the same extent as from orders or judgments in a civil action.
+		</section>
+	</text>
+	<history>1986, c. 614; 2016, c. 181.</history>
+</law>

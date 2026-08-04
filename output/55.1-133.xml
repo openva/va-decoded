@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="1" level="3">Creation and Limitation of Estates</unit>
+		<unit label="article" identifier="2" level="4">Rule Against Perpetuities</unit>
+	</structure>
+	<section_number>55.1-133</section_number>
+	<catch_line>Application of the rule against perpetuities to nondonative transfers</catch_line>
+	<text>
+		<section prefix="A">Except for the transactions set forth in § 55.1-127, which are governed by the provisions of §§ 55.1-124 through 55.1-129, a nondonative transfer of an interest in property fails, if the interest does not vest, if it ever vests, within the period of the common-law rule against perpetuities.
+		</section>
+		<section prefix="B">The provisions of this section (i) in force on June 30, 2000, shall apply to all donative interests created on or after July 1, 1982, and before July 1, 2000, and (ii) in force on July 1, 2000, shall apply to all nondonative interests created on or after July 1, 1982.
+		</section>
+	</text>
+	<history>1982, c. 249, § 55-13.3; 2000, cc. 658, 714; 2013, c. 323; 2019, c. 712.</history>
+</law>

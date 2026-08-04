@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="V" level="2">Domestic Animals</unit>
+		<unit label="chapter" identifier="64.1" level="3">Domesticated Animal Pathogen Liability</unit>
+	</structure>
+	<section_number>3.2-6403</section_number>
+	<catch_line>Domesticated animal premises; liability for domesticated animal pathogen</catch_line>
+	<text>
+		<section prefix="A">For purposes of this chapter, unless the context requires a different meaning:
+			"Domesticated animal pathogen" or "pathogen" means a microorganism, biological agent, or toxin that (i) causes disease, illness, or death to a human and (ii) is primarily transmitted by human contact with a domesticated animal or manure or other excretions or body fluids from a domesticated animal.
+			"Domesticated animal premises" or "premises" means a place at a petting zoo, fair, or agricultural exhibition at which a domesticated animal is regularly kept for three or more consecutive hours.
+		</section>
+		<section prefix="B">No owner or operator of a domesticated animal premises shall be liable for damages arising from a claim by a person who visits such premises, including a participant or spectator, alleging injury or death caused by a domesticated animal pathogen transmitted at such premises, regardless of whether a domesticated animal is present at the premises when such pathogen is transmitted, if such owner or operator took reasonable precautions to prevent the transmission of such pathogen.
+		</section>
+		<section prefix="C">Subsection B shall not apply to the extent that the person proves that no warning sign was posted at a conspicuous place at the premises as required in subsection D or that no hand-washing station was available as required in subsection E. Subsection B shall not apply if the transmission of the domesticated animal pathogen occurred due to the gross negligence, willful and wanton conduct, or intentional act of the owner or operator of a domesticated animal premises.
+		</section>
+		<section prefix="D">A warning sign shall be posted at a conspicuous place at any premises so that it is clearly visible to a person visiting the premises for the first time. Such sign shall have a white background and display a notice printed in black letters a minimum of one inch high in the following form:
+			"WARNING
+			DOMESTICATED ANIMAL PREMISES
+			Under Virginia Code § 3.2-6403, the owner or operator of these premises is not liable for a domesticated animal pathogen transmitted from these premises. Take necessary sanitary precautions, including not touching your face or consuming any food or drink until you have thoroughly washed and dried your hands after your visit. As soon as possible after your visit, thoroughly wash your hands using an appropriate soap and water, and thoroughly dry your hands after washing."
+		</section>
+		<section prefix="E">Each domesticated animal premises shall provide a working hand-washing station with soap, water, and a means of drying the hands located at a conspicuous place at such premises.
+		</section>
+	</text>
+	<history>2020, c. 453.</history>
+</law>

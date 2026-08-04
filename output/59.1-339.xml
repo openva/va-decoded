@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="26" level="2">Uniform Trade Secrets Act</unit>
+	</structure>
+	<section_number>59.1-339</section_number>
+	<catch_line>Preservation of secrecy</catch_line>
+	<text>
+		In an action under this chapter, a court shall preserve the secrecy of an alleged trade secret by reasonable means, which may include:
+		<section prefix="1">Granting protective orders in connection with discovery proceedings;
+		</section>
+		<section prefix="2">Holding in-camera hearings;
+		</section>
+		<section prefix="3">Sealing the records of the action; and
+		</section>
+		<section prefix="4">Ordering any person involved in the litigation not to disclose an alleged trade secret without prior court approval.
+		</section>
+	</text>
+	<history>1986, c. 210.</history>
+</law>

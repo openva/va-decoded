@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="2" level="4">Governor's Secretaries</unit>
+		<unit label="article" identifier="8" level="5">Secretary of Public Safety and Homeland Security</unit>
+	</structure>
+	<section_number>2.2-224.1</section_number>
+	<catch_line>Secretary of Public Safety and Homeland Security to establish information exchange program</catch_line>
+	<text>
+		<section prefix="A">The Secretary shall establish a public safety information exchange program with those states that share a border with Canada or Mexico and are willing to participate in the exchange. The purpose of the information exchange shall be to share criminal information and, when authorized by the proper authority, intelligence information to address threats posed within the Commonwealth by (i) the organization or operation of criminal enterprises by transnational gangs; (ii) the production, transportation, distribution, or use of illegal drugs, firearms, or explosives; (iii) the activities of international or domestic terror organizations, agents, or sponsors thereof; and (iv) the criminal repercussions that result from the presence in the Commonwealth of persons or organizations illegally present in the United States.
+		</section>
+		<section prefix="B">The public safety information exchange program shall be administered by the Secretary and other state and local agencies designated by the Secretary.
+		</section>
+		<section prefix="C">The Secretary shall seek the cooperation of the U.S. Department of Homeland Security, the U.S. Department of Justice, the Federal Bureau of Investigation, the U.S. Immigration and Customs Enforcement, or any such successor agencies, and any other federal intelligence organizations as necessary, in order to facilitate the sharing of state and federal information and intelligence among the states participating in the exchange program.
+		</section>
+	</text>
+	<history>2011, c. 503.</history>
+</law>

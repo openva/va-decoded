@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="6" level="2">The Election</unit>
+		<unit label="article" identifier="3" level="3">Voting Equipment and Systems</unit>
+	</structure>
+	<section_number>24.2-627</section_number>
+	<catch_line>Electronic voting systems; number required</catch_line>
+	<text>
+		<section prefix="A">The governing body of any county or city that adopts for use at elections ballot scanner machines shall provide for each precinct at least one voting booth with a marking device for each 425 registered voters or portion thereof and shall provide for each precinct at least one scanner. However, each precinct having more than 4,000 registered voters shall be provided with not less than two scanners at a presidential election, unless the governing body, in consultation with the general registrar and the electoral board, determines that a second scanner is not necessary at any such precinct on the basis of voter turnout and the average wait time for voters in previous presidential elections.
+		</section>
+		<section prefix="B">The local electoral board of any county or city shall be authorized to conduct any May general election, primary election, or special election held on a date other than a November general election with the number of voting systems determined by the board and the general registrar to be appropriate for each precinct, notwithstanding the provisions of subsection A.
+		</section>
+		<section prefix="C">For purposes of applying this section, a general registrar may exclude persons voting absentee in his calculations, and if he does so shall send to the Department a statement of the number of voting systems to be used in each precinct. If the State Board finds that the number of voting systems is not sufficient, it may direct the general registrar to use more voting systems.
+		</section>
+	</text>
+	<history>1985, c. 458, §§ 24.1-203.1, 24.1-203.2; 1993, c. 641; 1996, c. 271; 1997, cc. 304, 336; 2010, c. 214; 2014, cc. 540, 576; 2015, cc. 667, 740; 2016, cc. 18, 464, 492.</history>
+</law>

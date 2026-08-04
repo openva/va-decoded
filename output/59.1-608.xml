@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="58" level="2">Mandatory Fees or Surcharges</unit>
+	</structure>
+	<section_number>59.1-608</section_number>
+	<catch_line>Mandatory fees or surcharges; disclosure required</catch_line>
+	<text>
+		<section prefix="A">No supplier shall, in connection with a consumer transaction, advertise or display a price for goods or services without clearly and conspicuously displaying the total price, which shall include all mandatory fees or surcharges. A supplier that provides both a good and a service to consumers may comply with this section by displaying or advertising the total price of the good separately from the total price or rate charged for providing the service.
+		</section>
+		<section prefix="B">A supplier offering goods or services in an auction is compliant with this section if such supplier clearly and conspicuously discloses any mandatory fees associated with the transaction and that the total cost of such goods or services may vary.
+		</section>
+		<section prefix="C">A restaurant or hotel is compliant with this section if, in every offer or advertisement for the purchase of a good or service that includes pricing information, such restaurant or hotel includes a clear and conspicuous disclosure of the percentage of any automatic and mandatory gratuities charged.
+		</section>
+		<section prefix="D">A price-variable supplier is compliant with this section if such supplier clearly and conspicuously discloses (i) the factors determining the final price, (ii) any mandatory fees or surcharges associated with the transaction, and (iii) that the total cost of services may vary.
+		</section>
+		<section prefix="E">A provider of broadband Internet access service on its own or as part of a bundle that complies with federal broadband consumer requirements codified in 47 C.F.R. § 8.2(a) shall be deemed compliant with this section.
+		</section>
+		<section prefix="F">A cable operator that complies with the pricing requirements of 47 U.S.C. § 552 shall be deemed compliant with this section.
+		</section>
+		<section prefix="G">A direct broadcast satellite provider that complies with the pricing requirements of 47 C.F.R. 76.310 shall be deemed compliant with this section.
+		</section>
+		<section prefix="H">A provider of live-event tickets that complies with the provisions of 16 C.F.R. Part 464 relating to live-event tickets shall be deemed compliant with this section.
+		</section>
+		<section prefix="I">A food delivery platform that complies with the provisions of Chapter 54 (§ 59.1-586 et seq.) shall be deemed compliant with this section.
+		</section>
+	</text>
+	<history>2025, cc. 685, 686.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="46" level="3">Controlled Atmosphere Storage of Apples and Peaches</unit>
+	</structure>
+	<section_number>3.2-4608</section_number>
+	<catch_line>Inspection and certification of fruit by Commissioner</catch_line>
+	<text>
+		It is unlawful for any person to place or stamp the letters "CA" or a similar designation in conjunction with a number upon any container or subcontainer of any fruits, unless:
+		<section prefix="1">The Commissioner has inspected such fruits and validated a certificate stating their condition, that they were stored in a warehouse registered under the provisions of this chapter and that they meet all other requirements of this chapter or regulations adopted hereunder; and
+		</section>
+		<section prefix="2">A certificate number and certificate date is affixed to all shipping documents.
+		</section>
+	</text>
+	<history>Code 1950, § 3-712; 1964, c. 214; 1966, c. 702, § 3.1-993; 2008, c. 860.</history>
+</law>

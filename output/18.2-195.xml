@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="6" level="2">Crimes Involving Fraud</unit>
+		<unit label="article" identifier="6" level="3">Offenses Relating to Credit Cards</unit>
+	</structure>
+	<section_number>18.2-195</section_number>
+	<catch_line>Credit card fraud; conspiracy; penalties</catch_line>
+	<text>
+		<section prefix="1">A person is guilty of credit card fraud when, with intent to defraud any person, he:
+			<section prefix="a">Uses for the purpose of obtaining money, goods, services or anything else of value a credit card or credit card number obtained or retained in violation of § 18.2-192 or a credit card or credit card number which he knows is expired or revoked;
+			</section>
+			<section prefix="b">Obtains money, goods, services or anything else of value by representing (i) without the consent of the cardholder that he is the holder of a specified card or credit card number or (ii) that he is the holder of a card or credit card number and such card or credit card number has not in fact been issued;
+			</section>
+			<section prefix="c">Obtains control over a credit card or credit card number as security for debt; or
+			</section>
+			<section prefix="d">Obtains money from an issuer by use of an unmanned device of the issuer or through a person other than the issuer when he knows that such advance will exceed his available credit with the issuer and any available balances held by the issuer.
+			</section>
+		</section>
+		<section prefix="2">A person who is authorized by an issuer to furnish money, goods, services or anything else of value upon presentation of a credit card or credit card number by the cardholder, or any agent or employee of such person, is guilty of a credit card fraud when, with intent to defraud the issuer or the cardholder, he:
+			<section prefix="a">Furnishes money, goods, services or anything else of value upon presentation of a credit card or credit card number obtained or retained in violation of § 18.2-192, or a credit card or credit card number which he knows is expired or revoked;
+			</section>
+			<section prefix="b">Fails to furnish money, goods, services or anything else of value which he represents or causes to be represented in writing or by any other means to the issuer that he has furnished; or
+			</section>
+			<section prefix="c">Remits to an issuer or acquirer a record of a credit card or credit card number transaction which is in excess of the monetary amount authorized by the cardholder.
+			</section>
+		</section>
+		<section prefix="3">Conviction of credit card fraud is punishable as a Class 1 misdemeanor if the value of all money, goods, services and other things of value furnished in violation of this section, or if the difference between the value of all money, goods, services and anything else of value actually furnished and the value represented to the issuer to have been furnished in violation of this section, is less than $1,000 in any six-month period; conviction of credit card fraud is punishable as a Class 6 felony if such value is $1,000 or more in any six-month period.
+		</section>
+		<section prefix="4">Any person who conspires, confederates or combines with another, (i) either within or without the Commonwealth to commit credit card fraud within the Commonwealth or (ii) within the Commonwealth to commit credit card fraud within or without the Commonwealth, is guilty of a Class 6 felony.
+		</section>
+	</text>
+	<history>Code 1950, § 18.1-125.6; 1968, c. 480; 1975, cc. 14, 15; 1978, c. 364; 1980, c. 99; 1981, c. 197; 1985, c. 266; 1991, c. 546; 2018, cc. 764, 765; 2020, cc. 89, 401.</history>
+</law>

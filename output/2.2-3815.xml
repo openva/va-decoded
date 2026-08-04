@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="38.1" level="4">Protection of Social Security Numbers Act</unit>
+	</structure>
+	<section_number>2.2-3815</section_number>
+	<catch_line>Access to social security numbers prohibited; exceptions</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in this chapter, the first five digits of a social security number contained in a public record shall be confidential and exempt from disclosure under the Freedom of Information Act (§ 2.2-3700 et seq.).
+			For the purposes of this chapter:
+			"Agency" means the same as that term is defined in § 2.2-3801, unless the context requires otherwise.
+			"Data subject" means the same as that term is defined in § 2.2-3801.
+			"Public record" means the same as that term is defined in § 2.2-3701, but shall not include any records required by law to be maintained by the clerks of the courts of record, as defined in § 1-212, or courts not of record, as defined in § 16.1-69.5.
+			"Regional agency" means a unit of government organized as provided by law whose members are appointed by the participating local governing bodies, and such unit includes two or more counties, cities, or towns.
+		</section>
+		<section prefix="B">The provisions of this section shall not be construed to prevent the release of a social security number:
+			<section prefix="1">In accordance with a proper judicial order;
+			</section>
+			<section prefix="2">To any federal, state or local law-enforcement or correctional personnel, including a law-enforcement officer, probation officer, parole officer or administrator, or a member of a parole board, seeking information in the course of his official duties;
+			</section>
+			<section prefix="3">By one agency to another agency in Virginia or to an agency in another state, district, or territory of the United States where such information is requested by such agencies in connection with (i) the application of the data subject therein for a service, privilege, or right under the laws thereof, (ii) the transmittal of information to family advocacy representatives of the United States Armed Forces in accordance with subsection N of § 63.2-1503, or (iii) the performance of such agency's official duties;
+			</section>
+			<section prefix="4">To any data subject exercising his rights under § 2.2-3806, or if the data subject is less than 18 years of age, to his legal guardian or parent, including a noncustodial parent, unless such parent's parental rights have been terminated or a court of competent jurisdiction has restricted or denied such access;
+			</section>
+			<section prefix="5">To any other agency in Virginia or to a federal agency in order to comply with any applicable law or regulation; or
+			</section>
+			<section prefix="6">To a person or entity when necessary to administer any program of the agency, to perform a service or function of the agency, or to conduct or complete the transaction for which the social security number was submitted to the agency.
+			</section>
+		</section>
+	</text>
+	<history>2009, c. 213.</history>
+</law>

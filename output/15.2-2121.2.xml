@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="21" level="3">Franchises; Sale and Lease of Certain Municipal Public Property; Public Utilities</unit>
+		<unit label="article" identifier="2.1" level="4">Disconnection Provisions for Public Utilities</unit>
+	</structure>
+	<section_number>15.2-2121.2</section_number>
+	<catch_line>Disconnection suspension for utilities</catch_line>
+	<text>
+		<section prefix="A">1. No electric utility shall disconnect from service any residential customer for the nonpayment of bills or fees (i) when the forecasted temperature low is at or below 32 degrees Fahrenheit within the 24 hours following the scheduled disconnection or (ii) when the forecasted temperature is at or above 92 degrees Fahrenheit within the 24 hours following the scheduled disconnection.
+			<section prefix="2">No gas utility shall disconnect from service any residential customer for nonpayment of bills or fees when the forecasted temperature low is at or below 32 degrees Fahrenheit within the 24 hours following the scheduled disconnection.
+			</section>
+			<section prefix="3">No water or wastewater utility shall disconnect from service any residential customer when the forecasted temperature is at or above 92 degrees Fahrenheit within the 24 hours following the scheduled disconnection.
+			</section>
+			<section prefix="4">To ascertain the projected temperature as provided in this subsection, each utility shall refer to the forecasted local temperature provided by the National Weather Service where the customer to be disconnected is located.
+			</section>
+		</section>
+		<section prefix="B">No utilities shall disconnect from service any residential customer for nonpayment of bills or fees on Fridays, weekends, state holidays, or the day immediately preceding a state holiday.
+		</section>
+		<section prefix="C">Nothing in this section shall be construed to limit utilities from voluntarily suspending scheduled disconnections during other extreme weather events, emergency conditions, or circumstances in which a utility determines such suspension is necessary to protect the health and safety of its customers and the reliability of utility service in the Commonwealth. Further, nothing in this section shall be construed to prohibit (i) a disconnection required by the conditions of subdivision A 8 of § 56-247.1, (ii) emergency disconnections for health and safety purposes, or (iii) the occurrence of an automatic service suspension associated with prepaid utility service. Any fees or expenses incurred by a utility in complying with the requirements of this section shall be recovered by the utility.
+		</section>
+	</text>
+	<history>2024, cc. 790, 824.</history>
+</law>

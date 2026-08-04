@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="V" level="2">Miscellaneous</unit>
+		<unit label="chapter" identifier="25" level="3">Virginia Disposition Of Unclaimed Property Act</unit>
+		<unit label="article" identifier="3" level="4">Procedural and Administrative Matters</unit>
+	</structure>
+	<section_number>55.1-2528</section_number>
+	<catch_line>Periods of limitation</catch_line>
+	<text>
+		<section prefix="A">The expiration of any period of time specified by statute or court order during which an action or proceeding may be commenced or enforced to obtain payment of a claim for money or recovery of property shall not prevent the money or property from being presumed abandoned property or affect any duty to file a report required by this chapter or to pay or deliver abandoned property to the administrator.
+		</section>
+		<section prefix="B">Except as provided in subsection C, an action or proceeding shall not be maintained by the administrator to enforce this chapter more than five years after the earlier of (i) the date on which the holder identified the property on a report filed with the administrator, (ii) the date on which the holder first filed a report with the administrator wherein the holder should have but failed to report the property, or (iii) the date on which the holder filed a report with the administrator giving reasonable notice to the administrator of a dispute regarding the property.
+		</section>
+		<section prefix="C">An action or proceeding shall not be maintained by the administrator to enforce this chapter with respect to any property more than 10 years following the date on which such property first became reportable if the holder (i) filed a materially false or fraudulent report with the intent to evade delivery of property otherwise subject to this chapter or (ii) failed to file a report with the administrator.
+		</section>
+	</text>
+	<history>1960, c. 330, § 55-210.17; 2000, cc. 733, 745; 2019, c. 712.</history>
+</law>

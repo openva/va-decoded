@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions</unit>
+		<unit label="article" identifier="2" level="3">Insurance Classified and Defined</unit>
+	</structure>
+	<section_number>38.2-106.1</section_number>
+	<catch_line>Charitable gift annuities</catch_line>
+	<text>
+		For purposes of this title:
+		"Charitable gift annuity" means an agreement by a charitable organization to make periodic payments in fixed dollar amounts payable over one or two lives, under which the actuarial value of the annuity, as determined for federal tax purposes, is less than the value of the cash or other property transferred by the donor in return therefor and the difference in value constitutes a charitable contribution for federal tax purposes.
+		"Charitable organization" means an entity described in:
+		<section prefix="1">§ 501(c) (3) of the Internal Revenue Code of 1986 (26 U.S.C. § 501(c) (3)); or
+		</section>
+		<section prefix="2">§ 170 (c) of the Internal Revenue Code of 1986 (26 U.S.C. § 170 (c)).
+			"Qualified charitable gift annuity" means a charitable gift annuity that conforms to the requirements of § 501 (m) (5) of the Internal Revenue Code of 1986 (26 U.S.C. § 501 (m) (5)) and § 514 (c) (5) of the Internal Revenue Code of 1986 (26 U.S.C. § 514 (c) (5)) and that is issued by a charitable organization that on the date of the annuity agreement:
+		</section>
+		<section prefix="1">Has a minimum of $100,000 in unrestricted cash, cash equivalents, or publicly traded securities, exclusive of the assets contributed by the donor in return for the annuity agreement; and
+		</section>
+		<section prefix="2">Has been in continuous operation as a charitable organization for at least three years or is a successor or affiliate of a charitable organization that has been in continuous operation as such for at least three years.
+		</section>
+	</text>
+	<history>1996, c. 425.</history>
+</law>

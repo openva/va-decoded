@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="20.1" level="4">Virginia Information Technologies Agency</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-2012.1</section_number>
+	<catch_line>Major information technology project procurement; terms and conditions</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section, "supplier" means an offeror with whom the Commonwealth has entered into a contract for a major information technology project.
+		</section>
+		<section prefix="B">Except as provided in subsection C, in any contract for a major information technology project, terms and conditions relating to the indemnification obligations and liability of a supplier shall be reasonable and shall not exceed in aggregate twice the value of the contract. There shall be no limitation on the liability of a supplier for (i) the intentional or willful misconduct, fraud, or recklessness of a supplier or any employee of a supplier or (ii) claims for bodily injury, including death, and damage to real property or tangible personal property resulting from the negligence of a supplier or any employee of a supplier.
+		</section>
+		<section prefix="C">If the CIO believes that a major information technology project presents an exceptional risk to the Commonwealth, he shall conduct a risk assessment prior to the issuance of a Request for Proposal. Such risk assessment shall include consideration of the nature, processing, and use of sensitive or personally identifiable information. If the risk assessment concludes that the project presents an exceptional risk to the Commonwealth and the limitation of liability amount provided in subsection B is not reasonably adequate to protect the interest of the Commonwealth, the CIO may recommend and request approval by the Secretary of Administration to increase the limitation of liability amount.
+			The CIO shall make such recommendation in writing setting forth the reasons that the limitations in subsection B are not adequate to protect the Commonwealth's interests. The recommendation shall describe the risks presented to the Commonwealth and how those risks are not sufficiently mitigated by the expected terms and conditions associated with the Request for Proposal. The CIO shall recommend a reasonable maximum alternative limitation of liability amount that is a multiple of the contract value, with the same exceptions to the limitation as provided in subsection B.
+			The Secretary of Administration shall review and may approve any recommended maximum alternative limitation of liability amount to be included in any Request for Proposal issued for the project. The CIO shall annually publish a list of all approvals granted under this subsection pertaining to any Request for Proposal issued in the previous 12-month period.
+		</section>
+		<section prefix="D">Notwithstanding the provisions of this section, the Commonwealth may agree to a lower limitation for any contract subject to subsection B or C.
+		</section>
+	</text>
+	<history>2019, cc. 605, 606.</history>
+</law>

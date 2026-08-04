@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="chapter" identifier="0" level="2">General Provisions of Title 58.1</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>58.1-15</section_number>
+	<catch_line>Rate of interest</catch_line>
+	<text>
+		<section prefix="A">Unless otherwise specifically provided, interest on omitted taxes, assessments and refunds under this title shall be computed at the rates equal to the rates of interest established pursuant to § 6621 of the Internal Revenue Code. The rate of interest on omitted taxes and assessments under this title shall be the "Underpayment Rate" established pursuant to § 6621(a)(2) of the Internal Revenue Code plus two percent. The rate of interest on refunds under this title shall be the "Overpayment Rate" for noncorporate taxpayers established pursuant to § 6621(a)(1) of the Internal Revenue Code plus two percent. Separate computations shall be made by multiplying the deficiency or overpayment for each period by the rate of interest applicable to that period.
+		</section>
+		<section prefix="B">In determining the addition to tax under § 58.1-492 for failure by individuals to pay estimated tax, the "Underpayment Rate" plus two percent which applies during the third month following such taxable year shall also apply during the first fifteen days of the fourth month following such taxable year in the case of individuals filing on a basis other than a calendar year. In the case of all other individuals, the "Underpayment Rate" plus two percent which applies during the third month following such taxable year shall also be applicable through May 1.
+		</section>
+		<section prefix="C">In determining the addition to tax under § 58.1-504 for failure by corporations to pay estimated tax, the "Underpayment Rate" plus two percent which applies during the third month following such taxable year shall also apply during the first fifteen days of the fourth month following such taxable year.
+		</section>
+	</text>
+	<history>Code 1950, § 58-1160.1; 1980, c. 663; 1984, c. 675; 1987, c. 484; 1991, cc. 316, 331; 1999, cc. 146, 180.</history>
+</law>

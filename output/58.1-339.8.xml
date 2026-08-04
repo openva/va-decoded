@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="3" level="4">Tax Credits for Individuals</unit>
+	</structure>
+	<section_number>58.1-339.8</section_number>
+	<catch_line>Income tax credit for low-income taxpayers</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section,:
+			"Family Virginia adjusted gross income" means the combined Virginia adjusted gross income of an individual, the individual's spouse, and any person claimed as a dependent on the individual's or his spouse's income tax return for the taxable year.
+			"Household" means an individual, or in the case of married individuals, an individual and his spouse, regardless of whether or not the individual and his spouse file combined or separate Virginia individual income tax returns.
+			"Poverty guidelines" means the poverty guidelines for the 48 contiguous states and the District of Columbia updated annually in the Federal Register by the U.S. Department of Health and Human Services under the authority of § 673(2) of the Omnibus Budget Reconciliation Act of 1981.
+			"Virginia adjusted gross income" has the same meaning as the term is defined in § 58.1-321.
+		</section>
+		<section prefix="B">1. For taxable years beginning on and after January 1, 2000, any individual or married individuals filing jointly whose family Virginia adjusted gross income does not exceed 100 percent of the poverty guideline amount corresponding to a household of an equal number of persons as listed in the poverty guidelines published during such taxable year, shall be allowed a nonrefundable credit against the tax levied pursuant to § 58.1-320 in an amount equal to $300 each for the individual, the individual's spouse, and any person claimed as a dependent on the individual's or married individuals' income tax return for the taxable year. For any taxable year in which married individuals file separate Virginia income tax returns, the credit provided under this section shall be allowed against the tax for only one of such two tax returns. Additionally, the credit provided under this section shall not be allowed against such tax of a dependent of the individual or of married individuals.
+			<section prefix="2">For taxable years beginning on and after January 1, 2006, any individual or married individuals filing jointly, eligible for a tax credit pursuant to § 32 of the Internal Revenue Code, may for the taxable year, in lieu of the credit authorized under subdivision 1, claim a nonrefundable credit against the tax imposed pursuant to § 58.1-320 in an amount equal to 20 percent of the credit claimed by the individual or married individuals for federal individual income taxes pursuant to § 32 of the Internal Revenue Code for the taxable year. In no case shall a household be allowed a credit pursuant to this subdivision and subdivision 1 or 3 for the same taxable year.
+			</section>
+			<section prefix="3">a. For taxable years beginning on and after January 1, 2022, but before January 1, 2025 any individual or married individuals filing jointly, eligible for a tax credit pursuant to § 32 of the Internal Revenue Code, may for the taxable year, in lieu of the credit authorized under subdivision 1 or 2, claim a refundable credit against the tax imposed pursuant to § 58.1-320 in an amount equal to 15 percent of the credit claimed by the individual or married individuals for federal individual income taxes pursuant to § 32 of the Internal Revenue Code for the taxable year.
+				b. For taxable years beginning on and after January 1, 2025 but before January 1, 2027, any individual or married individuals filing jointly may, for the taxable year, in lieu of the credit authorized under subdivision 1 or 2, claim a refundable credit against the tax imposed pursuant to § 58.1-320 in an amount equal to 20 percent of the credit claimed by the individual or married individuals for federal individual income taxes pursuant to § 32 of the Internal Revenue Code for the taxable year.
+				c. The refundable credit claimed pursuant to this subdivision 3 shall be claimed on the Virginia income tax return and redeemed by the Tax Commissioner. In no case shall a household be allowed a credit pursuant to this subdivision 3 and subdivision 1 or 2 for the same taxable year.
+			</section>
+		</section>
+		<section prefix="C">The amount of the credit claimed pursuant to subdivision B 1 and B 2, or in the case of a nonresident or a person to which § 58.1-303 applies, subdivision B 3, for any taxable year shall not exceed the individual's or married individuals' Virginia income tax liability.
+		</section>
+		<section prefix="D">Notwithstanding any other provision of this section, no credit shall be allowed pursuant to subsection B in any taxable year in which the individual, the individual's spouse, or both, or any person claimed as a dependent on such individual's or married individuals' income tax return, claims one or any combination of the following on his or their income tax return for such taxable year:
+			<section prefix="1">The subtraction under subdivision 8 of § 58.1-322.02;
+			</section>
+			<section prefix="2">The subtraction under subdivision 15 of § 58.1-322.02;
+			</section>
+			<section prefix="3">The subtraction under subdivision 16 of § 58.1-322.02;
+			</section>
+			<section prefix="4">The deduction for the additional personal exemption for blind or aged taxpayers under subdivision 2 b of § 58.1-322.03; or
+			</section>
+			<section prefix="5">The deduction under subdivision 5 of § 58.1-322.03.
+			</section>
+		</section>
+	</text>
+	<history>2000, c. 397; 2004, Sp. Sess. I, c. 3; 2017, c. 444; 2020, c. 900; 2022, Sp. Sess. I, cc. 1, 2; 2023, Sp. Sess. I, c. 1; 2025, c. 725.</history>
+</law>

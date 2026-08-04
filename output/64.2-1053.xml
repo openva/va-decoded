@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="5" level="4">Allocation of Receipts: Receipts Not Normally Apportioned</unit>
+	</structure>
+	<section_number>64.2-1053</section_number>
+	<catch_line>Receipt on obligation to be paid in money</catch_line>
+	<text>
+		<section prefix="A">This section does not apply to an obligation to which § 64.2-1056, 64.2-1057, 64.2-1058, 64.2-1059, 64.2-1061, 64.2-1062, or 64.2-1063 applies.
+		</section>
+		<section prefix="B">A fiduciary shall allocate to income, without provision for amortization of premium, an amount received as interest on an obligation to pay money to the fiduciary, including an amount received as consideration for prepaying principal.
+		</section>
+		<section prefix="C">A fiduciary shall allocate to principal an amount received from the sale, redemption, or other disposition of an obligation to pay money to the fiduciary. A fiduciary shall allocate to income the increment in value of a bond or other obligation for the payment of money bearing no stated interest but payable or redeemable, at maturity or another future time, in an amount that exceeds the amount in consideration of which it was issued.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

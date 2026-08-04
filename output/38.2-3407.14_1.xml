@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3407.14:1</section_number>
+	<catch_line>Standard of clinical evidence for decisions on coverage for proton radiation therapy</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Carrier" means an insurer proposing to issue individual or group accident and sickness insurance policies providing hospital, medical and surgical, or major medical coverage on an expense-incurred basis; a corporation providing individual or group accident and sickness subscription contracts; or a health maintenance organization providing a health care plan for health care services.
+			"Proton radiation therapy" means the advanced form of radiation therapy treatment that utilizes protons as an alternative radiation delivery method for the treatment of tumors.
+			"Radiation therapy treatment" means a cancer treatment through which a dose of radiation to induce tumor cell death is delivered by means of proton radiation therapy, intensity modulated radiation therapy, brachytherapy, stereotactic body radiation therapy, three-dimensional conformal radiation therapy, or other forms of therapy using radiation.
+		</section>
+		<section prefix="B">Notwithstanding the provisions of § 38.2-3419, each policy, contract, or plan issued or provided by a carrier that provides coverage for cancer therapy shall not hold proton radiation therapy to a higher standard of clinical evidence for decisions regarding coverage under the policy, contract, or plan than is applied for decisions regarding coverage of other types of radiation therapy treatment, and each carrier may consider at least one of the following a sufficient standard of clinical evidence to justify coverage of proton radiation therapy:
+			<section prefix="1">That a proton radiation therapy treatment is covered by Medicare, Medicaid, or any other governmental health care coverage for any type of cancer.
+			</section>
+			<section prefix="2">That a patient's treating physician or radiation oncologist recommends proton radiation therapy for such patient's cancer treatment.
+			</section>
+		</section>
+		<section prefix="C">Nothing in this section shall be construed to mandate the coverage of proton radiation therapy under any policy, contract, or plan issued or provided by a carrier.
+		</section>
+		<section prefix="D">The requirements of this section shall apply to all insurance policies, subscription contracts, and health care plans delivered, issued for delivery, reissued, or extended in the Commonwealth on and after January 1, 2018, or at any time thereafter when any term of the policy, contract, or plan is changed or any premium adjustment is made.
+		</section>
+		<section prefix="E">This section shall not apply to policies or contracts designed for issuance to persons eligible for coverage under Title XVIII of the Social Security Act, known as Medicare, or any other similar coverage under state or federal governmental plans.
+		</section>
+	</text>
+	<history>2017, c. 287; 2024, c. 538.</history>
+</law>

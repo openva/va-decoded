@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="4" level="3">Tuberculosis</unit>
+	</structure>
+	<section_number>32.1-50.1</section_number>
+	<catch_line>Treatment plan; submission of plan and mediation of disagreements; determination of cure</catch_line>
+	<text>
+		<section prefix="A">Each physician practicing in the Commonwealth who assumes responsibility for the treatment of a person for active tuberculosis as defined in this article and each person in charge of a medical care facility providing inpatient or outpatient treatment to a person with active tuberculosis shall, with the assistance and acknowledgement of that person, develop, maintain, and update as indicated, an individualized written plan of treatment tailored to the person's medical and personal needs and identifying the method for effective treatment and prevention of transmission. At a minimum, the plan shall specifically include verified patient address, name of the medical provider who has assumed responsibility for treatment, planned course of anti-tuberculosis drug therapy, estimated date of treatment completion, and means of ensuring successful completion of that treatment.
+		</section>
+		<section prefix="B">The written treatment plan shall upon request be submitted by the medical provider to the local health director in a manner determined by the Board and shall be subject to approval of the local health director. The Commissioner shall have the authority to settle, based on statewide standards, disagreements between the written plan so submitted and standards of care established by the local health director.
+		</section>
+		<section prefix="C">Each treating physician of or person in charge of a medical facility providing outpatient or inpatient care to a person with active tuberculosis disease shall maintain and submit to the local health director, upon his request, written documentation of that person's adherence to the treatment plan.
+		</section>
+		<section prefix="D">Each person in charge of a medical care facility providing inpatient treatment to a person with active tuberculosis disease and each person in charge of a state correctional or local correctional or detention facility that has in its custody a person with active tuberculosis shall submit to the local health director, in the manner determined by the Board, the plan of treatment for such person as required in this article. The person in charge shall encourage the person to comply with such treatment plan; however, if such person with active tuberculosis indicates an unwillingness to comply with the treatment plan upon release, or exhibits behavior that indicates noncompliance, the person in charge, in conjunction with the local health director, may request the Commissioner to issue an emergency order requiring such person to be taken into custody pursuant to § 32.1-48.02 or other detention or custody options available pursuant to § 32.1-48.03 or § 32.1-48.04.
+		</section>
+		<section prefix="E">Once established in a person, active tuberculosis disease shall be considered present until (i) the person has received a complete and adequate course of antituberculosis drug therapy as established by the Commissioner in accordance with guidelines developed by the American Thoracic Society and Centers for Disease Control and Prevention and (ii) three successive cultures of specimens of sputum or other bodily fluid or tissue collected at intervals of no less than one week, or other definitive diagnostic test as established by the Commissioner demonstrate no viable tubercle bacilli, or the Commissioner or his designee determines that the clinical, laboratory, or radiographic evidence leads to a diagnosis other than active tuberculosis disease.
+		</section>
+	</text>
+	<history>2001, c. 459.</history>
+</law>

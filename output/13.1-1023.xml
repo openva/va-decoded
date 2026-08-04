@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="5" level="3">Relationship of Members to Each Other</unit>
+	</structure>
+	<section_number>13.1-1023</section_number>
+	<catch_line>Operating agreement</catch_line>
+	<text>
+		<section prefix="A">Authority.
+			<section prefix="1">The members of a limited liability company may enter into any operating agreement to regulate or establish the affairs of the limited liability company, the conduct of its business and the relations of its members. A limited liability company is bound by its operating agreement whether or not the limited liability company executes the operating agreement. An operating agreement may contain any provisions regarding the affairs of a limited liability company and the conduct of its business to the extent that such provisions are not inconsistent with the laws of the Commonwealth or the articles of organization. An operating agreement may provide rights to any person, including a person who is not a party to the operating agreement, to the extent set forth in the operating agreement.
+			</section>
+			<section prefix="2">If a limited liability company has only one member, an operating agreement shall be deemed to include:
+				a. Any writing signed by the member, without regard to whether the writing constitutes an agreement, that relates to the affairs of the limited liability company and the conduct of its business.
+				b. Any agreement, regardless of whether the agreement is in writing, between the member and the limited liability company, that relates to the affairs of the limited liability company and the conduct of its business, provided that the limited liability company has a manager that is a person other than the member.
+			</section>
+		</section>
+		<section prefix="B">Adoption and amendment.
+			<section prefix="1">An operating agreement must initially be agreed to by all of the members. Unless the articles of organization or a written operating agreement specifically requires otherwise, an operating agreement need not be in writing.
+			</section>
+			<section prefix="2">If the articles of organization or an operating agreement does not provide for the manner by which an operating agreement may be amended, then all of the members must agree to any amendment of an operating agreement.
+			</section>
+			<section prefix="3">If the articles of organization or the operating agreement provide for the manner by which an operating agreement may be amended, including by requiring the approval of a person who is not a party to the operating agreement or requiring the satisfaction of conditions, an operating agreement may be amended only in that manner or as otherwise permitted by law; provided that (i) the approval of any person may be waived by that person and (ii) any conditions may be waived by all persons for whose benefit the conditions were intended.
+			</section>
+		</section>
+		<section prefix="C">Enforcement of operating agreement.
+			<section prefix="1">A court of equity may enforce an operating agreement by injunction or by such other relief that the court in its discretion determines to be fair and appropriate in the circumstances.
+			</section>
+			<section prefix="2">As an alternative to injunctive or other equitable relief, when the provisions of § 13.1-1047 are applicable, the court may order dissolution of the limited liability company.
+			</section>
+		</section>
+	</text>
+	<history>1991, c. 168; 1993, c. 113; 1997, c. 190; 2005, c. 255; 2009, c. 763; 2012, c. 706.</history>
+</law>

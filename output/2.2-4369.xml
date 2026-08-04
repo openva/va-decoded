@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="6" level="5">Ethics in Public Contracting</unit>
+	</structure>
+	<section_number>2.2-4369</section_number>
+	<catch_line>Proscribed participation by public employees in procurement transactions</catch_line>
+	<text>
+		Except as may be specifically allowed by subdivisions B 1, 2, and 3 of § 2.2-3112, no public employee having official responsibility for a procurement transaction shall participate in that transaction on behalf of the public body when the employee knows that:
+		<section prefix="1">The employee is contemporaneously employed by a bidder, offeror or contractor involved in the procurement transaction;
+		</section>
+		<section prefix="2">The employee, the employee's partner, or any member of the employee's immediate family holds a position with a bidder, offeror or contractor such as an officer, director, trustee, partner or the like, or is employed in a capacity involving personal and substantial participation in the procurement transaction, or owns or controls an interest of more than five percent;
+		</section>
+		<section prefix="3">The employee, the employee's partner, or any member of the employee's immediate family has a pecuniary interest arising from the procurement transaction; or
+		</section>
+		<section prefix="4">The employee, the employee's partner, or any member of the employee's immediate family is negotiating, or has an arrangement concerning, prospective employment with a bidder, offeror or contractor.
+		</section>
+	</text>
+	<history>1982, c. 647, § 11-74; 1985, c. 565; 1987, Sp. Sess., c. 1; 1997, c. 83; 2001, c. 844; 2003, c. 694; 2017, cc. 829, 832.</history>
+</law>

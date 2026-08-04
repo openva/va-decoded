@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="17" level="3">Foreign Corporations</unit>
+	</structure>
+	<section_number>13.1-769</section_number>
+	<catch_line>Involuntary revocation of certificate of authority</catch_line>
+	<text>
+		<section prefix="A">The certificate of authority to transact business in the Commonwealth of any foreign corporation may be revoked by order of the Commission when it finds that such foreign corporation:
+			<section prefix="1">Has continued to exceed the authority conferred upon it by law;
+			</section>
+			<section prefix="2">Has failed to maintain a registered office or a registered agent in the Commonwealth as required by law;
+			</section>
+			<section prefix="3">Has failed to file any document required by this chapter to be filed with the Commission;
+			</section>
+			<section prefix="4">No longer exists under the laws of the jurisdiction of its formation; or
+			</section>
+			<section prefix="5">Has been convicted for a violation of 8 U.S.C. § 1324a(f), as amended, for actions of its officers and directors constituting a pattern or practice of employing unauthorized aliens in the Commonwealth.
+				A certificate of authority revoked pursuant to subdivision A 5 shall not be eligible for reinstatement for a period of not less than one year.
+			</section>
+		</section>
+		<section prefix="B">A foreign corporation convicted of the offense listed in subdivision A 5 shall immediately report such conviction to the Commission and file with the Commission an authenticated copy of the judgment or record of conviction.
+		</section>
+		<section prefix="C">Before entering an order revoking the certificate of authority of a foreign corporation under subsection A, the Commission shall issue a rule against the foreign corporation giving it an opportunity to be heard and show cause why such an order should not be entered. The Commission may issue the rule on its own motion or on motion of the Attorney General.
+		</section>
+		<section prefix="D">The authority of a foreign corporation to transact business in the Commonwealth ceases on the date shown on the order revoking its certificate of authority.
+		</section>
+		<section prefix="E">The Commission's revocation of a foreign corporation's certificate of authority appoints the clerk of the Commission as an agent of the foreign corporation for service of process in any proceeding based on a cause of action arising during the time the foreign corporation was authorized to transact business in the Commonwealth. Service of process on the clerk of the Commission under this subsection is service on the foreign corporation and shall be made on the clerk in accordance with § 12.1-19.1.
+		</section>
+		<section prefix="F">Revocation of a foreign corporation's certificate of authority does not terminate the authority of the registered agent of the corporation.
+		</section>
+	</text>
+	<history>1985, c. 522; 1991, c. 672; 1995, c. 76; 2005, c. 765; 2008, cc. 588, 770; 2015, c. 623; 2019, c. 734.</history>
+</law>

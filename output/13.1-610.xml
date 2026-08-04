@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>13.1-610</section_number>
+	<catch_line>Notices and other communications</catch_line>
+	<text>
+		<section prefix="A">For purposes of this chapter, except for notice to or from the Commission:
+			<section prefix="1">A notice shall be in writing except that oral notice of any meeting of the board of directors may be given if expressly authorized by the articles of incorporation or bylaws.
+			</section>
+			<section prefix="2">Unless otherwise agreed between the sender and the recipient, words in a notice or other communication under this chapter shall be in the English language. A notice or other communication may be given by any method of delivery, except that electronic transmissions shall be in accordance with this section. If the methods of delivery are impracticable, a notice or other communication may be given by a broad non-exclusionary dissemination to the public, which may include a newspaper of general circulation in the area where the notice is intended to be given, or by radio, television, or other form of public communication in the area where the notice is intended to be given or other methods of distribution that the corporation has previously identified to its shareholders.
+			</section>
+			<section prefix="3">A notice or other communication to a domestic or foreign corporation authorized to transact business in the Commonwealth may be delivered to the corporation's registered agent at its registered office or to the secretary at the corporation's principal office shown in its most recent annual report or, in the case of a foreign corporation that has not yet delivered an annual report, in its application for a certificate of authority.
+			</section>
+			<section prefix="4">A notice or other communication may be delivered by electronic transmission if consented to by the recipient or if otherwise authorized by subsection B.
+			</section>
+			<section prefix="5">Any consent under subdivision 4 may be revoked by the person who consented by written or electronic notice to the person to whom the consent was delivered. Any such consent is deemed revoked if (i) the corporation is unable to deliver two consecutive electronic transmissions given by the corporation in accordance with such consent and (ii) such inability becomes known to the secretary or an assistant secretary of the corporation or to the transfer agent or other person responsible for the giving of notice or other communications; however, the inadvertent failure to treat such inability as a revocation shall not invalidate any meeting or other action.
+			</section>
+			<section prefix="6">Unless otherwise agreed between the sender and the recipient, an electronic transmission is received when:
+				a. It enters an information processing system that the recipient has designated or uses for the purpose of receiving electronic transmissions or information of the type sent, and from which the recipient is able to retrieve the electronic transmission; and
+				b. It is in a form capable of being processed by that system.
+			</section>
+			<section prefix="7">Receipt of an electronic acknowledgment from an information processing system described in subdivision 6 a establishes that an electronic transmission was received. However, such receipt of an electronic acknowledgment, by itself, does not establish that the content sent corresponds to the content received.
+			</section>
+			<section prefix="8">An electronic transmission is received under this section even if no individual is aware of its receipt.
+			</section>
+			<section prefix="9">A notice or other communication, if in a comprehensible form or manner, is effective at the earliest of the following:
+				a. If in physical form, the earliest of when it is actually received or when it is left at:
+				<section prefix="1">A shareholder's address shown on the corporation's record of shareholders maintained by the corporation pursuant to subsection C of § 13.1-770;
+				</section>
+				<section prefix="2">A director's residence or usual place of business;
+				</section>
+				<section prefix="3">The corporation's principal office; or
+				</section>
+				<section prefix="4">The corporation's registered office when left with the corporation's registered agent;
+					b. If mailed postage prepaid and correctly addressed to a shareholder, upon deposit in the United States mail;
+					c. If mailed by United States mail postage prepaid and correctly addressed to a recipient other than a shareholder, the earliest of when it is actually received or: (i) if sent by registered or certified mail return receipt requested, the date shown on the return receipt, signed by or on behalf of the addressee; or (ii) five days after it is deposited in the United States mail;
+					d. If an electronic transmission, when it is received as provided in subdivision 7; and
+					e. If oral, when communicated.
+				</section>
+			</section>
+			<section prefix="10">A notice or other communication may be in the form of an electronic transmission that cannot be directly reproduced in paper form by the recipient through an automated process used in conventional commercial practice only if (i) the electronic transmission is otherwise retrievable in perceivable form, and (ii) the sender and the recipient have consented in writing to the use of such form of electronic transmission.
+			</section>
+		</section>
+		<section prefix="B">If this chapter prescribes requirements for notices or other communications in particular circumstances, those requirements govern. If articles of incorporation or bylaws prescribe requirements for notices or other communications not inconsistent with this section or other provisions of this chapter, those requirements govern. The articles of incorporation or bylaws may authorize or require delivery of notices of meetings of directors by electronic transmission.
+		</section>
+		<section prefix="C">Without limiting the manner by which notice otherwise may be given effectively to shareholders, any notice to shareholders given by a public corporation, under any provision of this chapter, the articles of incorporation, or the bylaws, shall be effective if given in a manner permitted by the rules and regulations under the federal Securities Exchange Act of 1934, provided that the corporation has first received any affirmative written consent or implied consent required under those rules and regulations.
+		</section>
+		<section prefix="D">If any provisions of this chapter are deemed to modify, limit, or supersede the federal General Electronic Signatures in Global and National Commerce Act, 15 U.S.C. § 7001 et seq., the provisions of this chapter shall control to the maximum extent permitted by § 102(a)(2) of that federal act or any successor provision of that federal act.
+		</section>
+		<section prefix="E">Whenever notice would otherwise be required to be given under any provision of this chapter to a shareholder, the notice need not be given if:
+			<section prefix="1">Notices to shareholders of two consecutive annual meetings, and all notices of meetings during the period between two consecutive annual meetings, have been sent, other than by electronic transmission, to such shareholder at such shareholder's address as shown on the records of the corporation and have been returned undeliverable or could not be delivered; or
+			</section>
+			<section prefix="2">All, but not less than two, distributions to shareholders during a 12-month period, or two consecutive distributions to shareholders during a period of more than 12 months, have been sent to such shareholder at such shareholder's address as shown on the records of the corporation and have been returned undeliverable or could not be delivered.
+				If any shareholder, for which notice is not required, delivers to the corporation a written notice setting forth such shareholder's then-current address, the requirement that notice be given shall be reinstated.
+			</section>
+		</section>
+	</text>
+	<history>1985, c. 522; 2002, c. 285; 2003, c. 728; 2005, c. 765; 2007, c. 165; 2010, c. 782; 2019, c. 734; 2020, c. 1226; 2021, Sp. Sess. I, c. 487.</history>
+</law>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="7" level="3">Shoreline Erosion and Public Beach Preservation</unit>
+		<unit label="article" identifier="2" level="4">Public Beach Conservation and Development Act</unit>
+	</structure>
+	<section_number>10.1-710</section_number>
+	<catch_line>Guidelines for allocation of grant funds</catch_line>
+	<text>
+		The Board shall consider the following when selecting localities for program participation and in determining grant allocations:
+		<section prefix="1">Present and future beach ownership;
+		</section>
+		<section prefix="2">Erosion caused by public navigational works;
+		</section>
+		<section prefix="3">Intensity of use;
+		</section>
+		<section prefix="4">Availability of public beaches in the vicinity;
+		</section>
+		<section prefix="5">Evidence of a locality's ability and willingness to develop a long-term capacity to combat erosion;
+		</section>
+		<section prefix="6">Rate of erosion;
+		</section>
+		<section prefix="7">Actions of a locality which lead to, or may result in, the erosion of beaches; and
+		</section>
+		<section prefix="8">Such other matters as the Board shall deem sufficient for consideration.
+		</section>
+	</text>
+	<history>1980, c. 428, § 10-221; 1984, c. 235; 1988, c. 891.</history>
+</law>

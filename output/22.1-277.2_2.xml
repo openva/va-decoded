@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="14" level="2">Pupils</unit>
+		<unit label="article" identifier="3" level="3">Discipline</unit>
+	</structure>
+	<section_number>22.1-277.2:2</section_number>
+	<catch_line>Alternative education program data</catch_line>
+	<text>
+		The Department of Education shall annually collect from each school board and publish on its website data on alternative education programs for students who have been suspended, expelled, or otherwise precluded from attendance at school. Such data shall (i) be published in a manner that protects the identities of individual students; (ii) be disaggregated by local school division and by student race, ethnicity, gender, and disability; and (iii) include:
+		<section prefix="1">The number of students enrolled in alternative education programs pursuant to each of the five clauses set forth in subsection A of § 22.1-277.2:1;
+		</section>
+		<section prefix="2">The number of students enrolled in alternative education programs who have received (i) a short-term suspension, (ii) a long-term suspension, or (iii) an expulsion;
+		</section>
+		<section prefix="3">The current availability of various categories of alternative education programs available to all students and not solely special education students, including full-day programs with on-site, in-school teacher instruction; full-day programs with off-site, out-of-school teacher instruction; primarily virtual instruction; home-based or home-bound instruction; partial-day instruction; and any other category that the Department of Education may identify;
+		</section>
+		<section prefix="4">The average length of enrollment in an alternative education program per program during each school year;
+		</section>
+		<section prefix="5">The number of students who transition within the same school year from an alternative education program back into the school at which they were enrolled immediately preceding enrollment in the alternative education program; and
+		</section>
+		<section prefix="6">Relevant student achievement data, as determined by the Department of Education.
+		</section>
+	</text>
+	<history>2019, cc. 123, 232.</history>
+</law>

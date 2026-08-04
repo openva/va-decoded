@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="C" level="3">Surface Coal Mines</unit>
+		<unit label="chapter" identifier="10" level="4">Virginia Coal Surface Mining Control and Reclamation Act of 1979</unit>
+		<unit label="article" identifier="2" level="5">Regulation of Mining Activity</unit>
+	</structure>
+	<section_number>45.2-1008</section_number>
+	<catch_line> Coal exploration operations</catch_line>
+	<text>
+		<section prefix="A">Any coal exploration operation that substantially disturbs the natural land surface shall be conducted in accordance with exploration regulations adopted by the Director. Such regulations shall, at a minimum, (i) require that any person, prior to conducting any exploration under this section, file with the Director notice of intention to explore that includes a description of the exploration area and the proposed period of exploration and (ii) include provisions for the reclamation, in accordance with the performance standards established pursuant to § 45.2-1017, of all lands disturbed in exploration, including all excavations, roads, and drill holes, and for the removal of necessary facilities and equipment.
+		</section>
+		<section prefix="B">Information submitted to the Director pursuant to this section as confidential concerning trade secrets or privileged commercial or financial information that relates to the competitive rights of the person or entity intended to explore the described area shall be exempt from disclosure under the Virginia Freedom of Information Act (§ 2.2-3700 et seq.) and shall not be disclosed.
+		</section>
+		<section prefix="C">Any person who conducts any coal exploration activity that substantially disturbs the natural land surface in violation of this section or any regulation issued pursuant thereto is subject to the provisions of § 45.2-1021.
+		</section>
+		<section prefix="D">No person shall remove more than 250 tons of coal while engaged in a coal exploration operation without a specific written coal exploration permit issued by the Director.
+		</section>
+	</text>
+	<history>1979, c. 290, § 45.1-233; 2021, Sp. Sess. I, c. 387.</history>
+</law>

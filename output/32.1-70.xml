@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="9" level="3">Statewide Cancer Registry</unit>
+	</structure>
+	<section_number>32.1-70</section_number>
+	<catch_line>Information from hospitals, clinics, certain laboratories and physicians supplied to Commissioner; statewide cancer registry</catch_line>
+	<text>
+		<section prefix="A">Each hospital, clinic and independent pathology laboratory shall make available to the Commissioner or his agents information on patients having malignant tumors or cancers. A physician shall report information on patients having cancers unless he has determined that a hospital, clinic or in-state pathology laboratory has reported the information. This reporting requirement shall not apply to basal and squamous cell carcinoma of the skin. Such information shall include the name, address, sex, race, diagnosis and any other pertinent identifying information regarding each such patient and shall include information regarding possible exposure to Agent Orange or other defoliants through their development, testing or use or through service in the Vietnam War. Each hospital, clinic, independent pathology laboratory, or physician shall provide other available clinical information as defined by the Board of Health.
+		</section>
+		<section prefix="B">From such information the Commissioner shall establish and maintain a statewide cancer registry. The purpose of the statewide cancer registry shall include but not be limited to:
+			<section prefix="1">Determining means of improving the diagnosis and treatment of cancer patients.
+			</section>
+			<section prefix="2">Determining the need for and means of providing better long-term, follow-up care of cancer patients.
+			</section>
+			<section prefix="3">Conducting epidemiological analyses of the incidence, prevalence, survival, and risk factors associated with the occurrence of cancer in Virginia.
+			</section>
+			<section prefix="4">Collecting data to evaluate the possible carcinogenic effects of environmental hazards including exposure to dioxin and the defoliant, Agent Orange.
+			</section>
+			<section prefix="5">Collecting data to evaluate potential links between exposure to fire incidents and cancer incidence.
+			</section>
+			<section prefix="6">Improving rehabilitative programs for cancer patients.
+			</section>
+			<section prefix="7">Assisting in the training of hospital personnel.
+			</section>
+			<section prefix="8">Determining other needs of cancer patients and health personnel.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 32-388; 1950, p. 187; 1978, c. 792; 1979, c. 711; 1988, cc. 447, 459, 843; 1998, c. 315; 2018, c. 459.</history>
+</law>

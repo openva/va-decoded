@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="2" level="2">Collection of Items: Depositary and Collecting Banks</unit>
+	</structure>
+	<section_number>8.4-211.1</section_number>
+	<catch_line>Medium and time of settlement by bank</catch_line>
+	<text>
+		<section prefix="a">With respect to settlement by a bank, the medium and time of settlement may be prescribed by Federal Reserve regulations or circulars, clearing-house rules, and the like, or agreement. In the absence of such prescription:
+			<section prefix="1">the medium of settlement is cash or credit to an account in a Federal Reserve bank of or specified by the person to receive settlement; and
+			</section>
+			<section prefix="2">the time of settlement, is:
+			</section>
+		</section>
+		<section prefix="i">with respect to tender of settlement by cash, a cashier's check, or teller's check, when the cash or check is sent or delivered;
+			<section prefix="ii">with respect to tender of settlement by credit in an account in a Federal Reserve Bank, when the credit is made;
+			</section>
+			<section prefix="iii">with respect to tender of settlement by a credit or debit to an account in a bank, when the credit or debit is made or, in the case of tender of settlement by authority to charge an account, when the authority is sent or delivered; or
+			</section>
+			<section prefix="iv">with respect to tender of settlement by a funds transfer, when payment is made pursuant to § 8.4A-406 (a) to the person receiving settlement.
+			</section>
+		</section>
+		<section prefix="b">If the tender of settlement is not by a medium authorized by subsection (a) or the time of settlement is not fixed by subsection (a), no settlement occurs until the tender of settlement is accepted by the person receiving settlement.
+		</section>
+		<section prefix="c">If settlement for an item is made by cashier's check or teller's check and the person receiving settlement, before its midnight deadline:
+			<section prefix="1">presents or forwards the check for collection, settlement is final when the check is finally paid; or
+			</section>
+			<section prefix="2">fails to present or forward the check for collection, settlement is final at the midnight deadline of the person receiving settlement.
+			</section>
+		</section>
+		<section prefix="d">If settlement for an item is made by giving authority to charge the account of the bank giving settlement in the bank receiving settlement, settlement is final when the charge is made by the bank receiving settlement if there are funds available in the account for the amount of the item.
+		</section>
+	</text>
+	<history>1992, c. 693.</history>
+</law>

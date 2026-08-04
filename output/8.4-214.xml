@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="2" level="2">Collection of Items: Depositary and Collecting Banks</unit>
+	</structure>
+	<section_number>8.4-214</section_number>
+	<catch_line>Insolvency and preference</catch_line>
+	<text>
+		<section prefix="a">If an item is in or comes into the possession of a payor or collecting bank that suspends payment and the item has not been finally paid, the item must be returned by the receiver, trustee, or agent in charge of the closed bank to the presenting bank or the closed bank's customer.
+		</section>
+		<section prefix="b">If a payor bank finally pays an item and suspends payments without making a settlement for the item with its customer or the presenting bank which settlement is or becomes final, the owner of the item has a preferred claim against the payor bank.
+		</section>
+		<section prefix="c">If a payor bank gives or a collecting bank gives or receives a provisional settlement for an item and thereafter suspends payments, the suspension does not prevent or interfere with the settlement's becoming final if the finality occurs automatically upon the lapse of certain time or the happening of certain events.
+		</section>
+		<section prefix="d">If a collecting bank receives from subsequent parties settlement for an item which settlement is or becomes final and the bank suspends payments without making a settlement for the item with its customer which settlement is or becomes final, the owner of the item has a preferred claim against the collecting bank.
+		</section>
+	</text>
+	<history>Code 1950, § 6-63; 1964, c. 219; 1992, c. 693.</history>
+</law>

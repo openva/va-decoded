@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="10" level="2">Department of Medical Assistance Services</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>32.1-325.03</section_number>
+	<catch_line>Legal presence required for certain state and local public benefits; exceptions; definitions; proof of legal presence</catch_line>
+	<text>
+		<section prefix="A">In addition to meeting the existing eligibility requirements of the benefits applied for, no person who is not a United States Citizen or legally present in the United States shall receive medical services under this chapter, except for the following:
+			<section prefix="1">Medicaid benefits for those residing in long-term institutional facilities or participating in home and community based waivers on June 30, 1997, who were eligible for full Medicaid benefits shall continue to be eligible for Medicaid benefits at state expense if federal financial participation is not available;
+			</section>
+			<section prefix="2">Medicaid benefits for those who because of alien requirements pursuant to the federal Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104-193) (i) are under the age of 19 years and (ii) would be eligible for full Medicaid benefits if the alien requirements prior to the passage of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 were still in effect. However, such person upon reaching the age of 19 years shall comply with the provisions of this section; and
+			</section>
+			<section prefix="3">State or local public benefits that are mandated by Federal Law pursuant to 8 U.S.C. § 1621.
+			</section>
+		</section>
+		<section prefix="B">The determination of eligibility for public benefits as provided in this chapter shall be subject to the provisions of § 63.2-503.1, as applicable.
+		</section>
+	</text>
+	<history>2005, cc. 867, 876.</history>
+</law>

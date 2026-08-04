@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="20" level="3">Regulation of Passenger Carriers</unit>
+		<unit label="article" identifier="2" level="4">Insurance Requirements</unit>
+	</structure>
+	<section_number>46.2-2053</section_number>
+	<catch_line>Surety bonds, insurance, letter of credit, or securities required prior to issuance of registration; amounts</catch_line>
+	<text>
+		<section prefix="A">No certificate, permit, identification marker, registration card, or license plate shall be issued by the Department to any vehicle operated by a motor carrier until the motor carrier certifies to the Department that the vehicle is covered by:
+			<section prefix="1">An insurance policy or bond;
+			</section>
+			<section prefix="2">A certificate of insurance in lieu of the insurance policy or bond, certifying that such policy or bond covers the liability of such motor carrier in accordance with the provisions of this article, is issued by an authorized insurer, or in the case of bonds, is in an amount approved by the Department. The bonds may be issued by the Commonwealth of Virginia, the United States of America, or any municipality in the Commonwealth. Such bonds shall be deposited with the State Treasurer and the surety shall not be reduced except in accordance with an order of the Department;
+			</section>
+			<section prefix="3">An unconditional letter of credit, issued by a bank doing business in Virginia, for an amount approved by the Department. The letter of credit shall be in effect so long as the motor carrier operates motor vehicles in the Commonwealth; or
+			</section>
+			<section prefix="4">In the case of a lessor who acts as a registrant for purposes of consolidating lessees' vehicle registration applications, a statement that the registrant has, before leasing a vehicle, obtained from the lessee an insurance policy, bond, or certificate of insurance in lieu of the insurance policy or bond and can make available said proof of insurance coverage upon demand.
+				Vehicles operated by carriers who have filed proof of financial responsibility in accordance with the single state registration system authorized by 49 U.S.C. § 14504 or the Unified Carrier Registration System authorized by 49 U.S.C. § 14504a are deemed to have fulfilled the requirements of this article for insurance purposes, provided there is on board the vehicle a copy of an insurance receipt issued pursuant to the federal regulations promulgated pursuant to 49 U.S.C. § 14504 or 14504a. The Department is further authorized to issue single state registration system or unified carrier registration system receipts to any qualified carrier as well as to collect and disperse the fees for and to qualified jurisdictions.
+			</section>
+		</section>
+		<section prefix="B">All motor carriers shall keep in force at all times insurance, a bond or bonds, in an amount required by this section. Except for taxicabs, the minimum financial responsibility requirements for motor carriers operating intrastate shall be based on the number of passengers a vehicle is designed or manufactured to transport, including the driver, and shall be as follows: one to six passengers -- $350,000; seven to 15 passengers -- $1,500,000; 16 or more passengers -- $5,000,000. All motor carriers operating exclusively taxicabs or other motor vehicles performing a taxicab service shall maintain liability insurance of at least $125,000.
+		</section>
+		<section prefix="C">The minimum insurance for motor carriers operating in interstate commerce shall equal the minimum required by federal law, rule, or regulation. Any motor carrier that meets the minimum federal financial responsibility requirements and also operates in intrastate commerce may submit, in lieu of a separate filing for its intrastate operation, proof of the minimum federal limits, provided that both interstate and intrastate operations are insured.
+		</section>
+	</text>
+	<history>2001, c. 596; 2006, c. 208.</history>
+</law>

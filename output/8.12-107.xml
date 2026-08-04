@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.12" level="1">Controllable Electronic Records</unit>
+	</structure>
+	<section_number>8.12-107</section_number>
+	<catch_line>Governing law</catch_line>
+	<text>
+		<section prefix="a">Governing law: general rule. Except as provided in subsection (b), the local law of a controllable electronic record's jurisdiction governs a matter covered by this article.
+		</section>
+		<section prefix="b">Governing law: Section 8.12-106. For a controllable electronic record that evidences a controllable account or controllable payment intangible, the local law of the controllable electronic record's jurisdiction governs a matter covered by Section 8.12-106 unless an effective agreement determines that the local law of another jurisdiction governs.
+		</section>
+		<section prefix="c">Controllable electronic record's jurisdiction. The following rules determine a controllable electronic record's jurisdiction under this section:
+			<section prefix="1">If the controllable electronic record, or a record attached to or logically associated with the controllable electronic record and readily available for review, expressly provides that a particular jurisdiction is the controllable electronic record's jurisdiction for purposes of this article or the Uniform Commercial Code, that jurisdiction is the controllable electronic record's jurisdiction.
+			</section>
+			<section prefix="2">If paragraph (1) does not apply and the rules of the system in which the controllable electronic record is recorded are readily available for review and expressly provide that a particular jurisdiction is the controllable electronic record's jurisdiction for purposes of this title or the Uniform Commercial Code, that jurisdiction is the controllable electronic record's jurisdiction.
+			</section>
+			<section prefix="3">If paragraphs (1) and (2) do not apply and the controllable electronic record, or a record attached to or logically associated with the controllable electronic record and readily available for review, expressly provides that the controllable electronic record is governed by the law of a particular jurisdiction, that jurisdiction is the controllable electronic record's jurisdiction.
+			</section>
+			<section prefix="4">If paragraphs (1), (2), and (3) do not apply and the rules of the system in which the controllable electronic record is recorded are readily available for review and expressly provide that the controllable electronic record or the system is governed by the law of a particular jurisdiction, that jurisdiction is the controllable electronic record's jurisdiction.
+			</section>
+			<section prefix="5">If paragraphs (1) through (4) do not apply, the controllable electronic record's jurisdiction is the District of Columbia.
+			</section>
+		</section>
+		<section prefix="d">Applicability of Title 8.12. If subsection (c)(5) applies and Title 8.12 is not in effect in the District of Columbia without material modification, the governing law for a matter covered by this article is the law of the District of Columbia as though Title 8.12 were in effect in the District of Columbia without material modification. In this subsection, "Title 8.12" means Article 12 of Uniform Commercial Code Amendments (2022).
+		</section>
+		<section prefix="e">Relation of matter or transaction to controllable electronic record's jurisdiction not necessary. To the extent subsections (a) and (b) provide that the local law of the controllable electronic record's jurisdiction governs a matter covered by this article, that law governs even if the matter or a transaction to which the matter relates does not bear any relation to the controllable electronic record's jurisdiction.
+		</section>
+		<section prefix="f">Rights of purchasers determined at time of purchase. The rights acquired under Section 8.12-104 by a purchaser or qualifying purchaser are governed by the law applicable under this section at the time of purchase.
+		</section>
+	</text>
+	<history>2024, c. 652.</history>
+</law>

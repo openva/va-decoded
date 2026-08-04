@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="9" level="2">Regulation of Medical Assistance</unit>
+		<unit label="article" identifier="2" level="3">Regulation of Recipient Eligibility</unit>
+	</structure>
+	<section_number>32.1-321.1</section_number>
+	<catch_line>Powers and duties of Department</catch_line>
+	<text>
+		The Department of Medical Assistance Services shall have the following powers and duties:
+		<section prefix="1">To investigate and refer for prosecution violations of applicable state and federal laws and regulations pertaining to the application for and receipt of services or benefits;
+		</section>
+		<section prefix="2">To investigate and refer for civil recovery any debts owed to the medical assistance program or funds paid for services or benefits as a result of violations of applicable state and federal laws and regulations pertaining to the application for and receipt of services or benefits; and
+		</section>
+		<section prefix="3">To cooperate with the federal government, other state agencies and the State Attorney General's Office in the detection and deterrence of fraud by recipients of medical assistance or their agents.
+		</section>
+	</text>
+	<history>1986, c. 551.</history>
+</law>

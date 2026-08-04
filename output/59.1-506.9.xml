@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.9</section_number>
+	<catch_line>Copy; when acceptance occurs</catch_line>
+	<text>
+		<section prefix="a">Acceptance of a copy occurs when the party to which the copy is tendered:
+			<section prefix="1">signifies, or acts with respect to the copy in a manner that signifies, that the tender was conforming or that the party will take or retain the copy despite the nonconformity;
+			</section>
+			<section prefix="2">does not make an effective refusal;
+			</section>
+			<section prefix="3">commingles the copy or the information in a manner that makes compliance with the party's duties after refusal impossible;
+			</section>
+			<section prefix="4">obtains a substantial benefit from the copy and cannot return that benefit; or
+			</section>
+			<section prefix="5">acts in a manner inconsistent with the licensor's ownership, but the act is an acceptance only if the licensor elects to treat it as an acceptance and ratifies the act to the extent it was within contractual use terms.
+			</section>
+		</section>
+		<section prefix="b">Except in cases governed by subsection (a) (3) or (4), if there is a right to inspect under § 59.1-506.8 or the agreement, acceptance of a copy occurs only after the party has had a reasonable opportunity to inspect the copy.
+		</section>
+		<section prefix="c">If an agreement requires delivery in stages involving separate portions that taken together comprise the whole of the information, acceptance of any stage is conditional until acceptance of the whole.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

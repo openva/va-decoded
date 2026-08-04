@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="11" level="3">Merger</unit>
+	</structure>
+	<section_number>13.1-897.1</section_number>
+	<catch_line>Abandonment of a merger</catch_line>
+	<text>
+		<section prefix="A">Unless otherwise provided in the plan of merger or in the laws under which a foreign corporation or a domestic or foreign eligible entity that is a party to a merger is organized or by which it is governed, after a plan of merger has been adopted and approved as required by this article, and at any time before the certificate of merger has become effective, the plan may be abandoned by a domestic corporation that is a party to the plan without action by its members in accordance with any procedures set forth in the plan of merger or, if no such procedures are set forth in the plan, in the manner determined by the board of directors, subject to any contractual rights of other parties to the plan of merger.
+		</section>
+		<section prefix="B">If a merger is abandoned after the articles of merger have been filed with the Commission but before the certificate of merger has become effective, in order for the certificate of merger to be abandoned, all parties to the plan of merger shall sign a statement of abandonment and deliver it to the Commission for filing prior to the effective time and date of the certificate of merger. If the Commission finds that the statement of abandonment complies with the requirements of law, it shall issue a certificate of abandonment, effective as of the time and date the statement of abandonment was received by the Commission, and the merger shall be deemed abandoned and shall not become effective.
+		</section>
+		<section prefix="C">The statement of abandonment shall contain:
+			<section prefix="1">The name of each domestic and foreign corporation and eligible entity that is a party to the merger and its jurisdiction of formation and entity type;
+			</section>
+			<section prefix="2">When the survivor will be a domestic corporation or domestic stock corporation created by the merger, the name of the survivor set forth in the articles of merger;
+			</section>
+			<section prefix="3">The date on which the articles of merger were filed with the Commission;
+			</section>
+			<section prefix="4">The date and time on which the Commission's certificate of merger becomes effective; and
+			</section>
+			<section prefix="5">A statement that the merger is being abandoned in accordance with this section.
+			</section>
+		</section>
+	</text>
+	<history>2007, c. 925; 2021, Sp. Sess. I, c. 487.</history>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="1" level="2">General Assembly and Officers Thereof</unit>
+	</structure>
+	<section_number>30-19.8:1</section_number>
+	<catch_line>Due dates for legislative reports</catch_line>
+	<text>
+		<section prefix="A">Legislative commissions, councils, and other legislative bodies required to report annually to the General Assembly and Governor shall submit their annual reports on or before June 30 of each year, unless otherwise specified. Annual reports submitted pursuant to this section shall cover the preceding legislative interim period and may include actions taken by the General Assembly during the regular session of the current calendar year.
+		</section>
+		<section prefix="B">Joint subcommittees, joint committees, and other legislative entities required or requested by law or resolution to conduct a study shall submit their reports no later than June 30 of the reporting year, unless otherwise specified. The reports may include actions taken by the General Assembly during the regular session of the current calendar year.
+		</section>
+	</text>
+	<history>2005, c. 633.</history>
+</law>

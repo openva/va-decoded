@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="4" level="3">General Partners</unit>
+	</structure>
+	<section_number>50-73.29</section_number>
+	<catch_line>General powers and liabilities</catch_line>
+	<text>
+		<section prefix="A">Except as provided in this chapter or in the partnership agreement, a general partner of a limited partnership has the rights and powers of a partner in a partnership without limited partners.
+		</section>
+		<section prefix="B">Except as provided in this chapter, a general partner of a limited partnership has the liabilities of a partner in a partnership without limited partners to persons other than the partnership and the other partners. Except as provided in this chapter or in the partnership agreement, a general partner of a limited partnership has the liabilities of a partner in a partnership without limited partners to the partnership and to the other partners.
+		</section>
+	</text>
+	<history>1985, c. 607.</history>
+</law>

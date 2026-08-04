@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="7.1" level="3">Home Care Organization Licensing</unit>
+	</structure>
+	<section_number>32.1-162.7</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article:
+		"Health care professional" means any professional who is licensed, certified or registered to practice by a board within the Department of Health Professions under Title 54.1 or is licensed, certified or registered by a nationally recognized professional organization specified in Board regulations.
+		"Home care organization" means a public or private organization, whether operated for profit or not for profit, that provides, at the residence of a patient or individual in the Commonwealth of Virginia, one or more of the following services:
+		<section prefix="1">Home health services, including services provided by or under the direct supervision of any health care professional under a medical plan of care in a patient's residence on a visit or hourly basis to patients who have or are at risk of injury, illness, or a disabling condition and require short-term or long-term interventions;
+		</section>
+		<section prefix="2">Personal care services, including assistance in personal care to include activities of daily living provided in an individual's residence on a visit or hourly basis to individuals who have or are at risk of an illness, injury or disabling condition; or
+		</section>
+		<section prefix="3">Pharmaceutical services, including services provided in a patient's residence, which include the dispensing and administration of a drug or drugs, and parenteral nutritional support, associated patient instruction, and such other services as identified by the Board of Health by regulation.
+			"Person" includes any partnership, corporation, association or other legal entity, public or private.
+			"Residence" means the place where the individual or patient makes his home such as his own apartment or house, a relative's home or an assisted living facility, but shall not include a hospital, nursing facility or nursing home or other extended care facility.
+		</section>
+	</text>
+	<history>1986, c. 633; 1991, c. 695; 1993, cc. 957, 993.</history>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="38" level="2">Virginia Housing Commission</unit>
+	</structure>
+	<section_number>30-261</section_number>
+	<catch_line>Powers and duties</catch_line>
+	<text>
+		<section prefix="A">The Commission shall have the following powers and duties:
+			<section prefix="1">Undertake studies, gather information and data, and pursue such other activities as may be desirable to accomplish its purposes as set forth in § 30-257;
+			</section>
+			<section prefix="2">Report annually on its activities during the preceding year and include a discussion of studies made and recommendations for administrative or legislative action; and
+			</section>
+			<section prefix="3">Review newly enacted federal legislation pertaining to mortgage lending and brokering and determine if such federal legislation necessitates amendments to the laws of the Commonwealth.
+			</section>
+		</section>
+		<section prefix="B">The chairman shall submit to the General Assembly and the Governor an annual executive summary of the interim activity and work of the Commission no later than the first day of each regular session of the General Assembly. The executive summary shall be submitted as provided in the procedures of the Division of Legislative Automated Systems for the processing of legislative documents and reports and shall be posted on the General Assembly's website.
+		</section>
+	</text>
+	<history>2004, c. 1000; 2008, c. 863.</history>
+</law>

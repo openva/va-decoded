@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="25" level="2">Extraordinary Writs</unit>
+		<unit label="article" identifier="1" level="3">Writ of Quo Warranto</unit>
+	</structure>
+	<section_number>8.01-636</section_number>
+	<catch_line>In what cases writ issued</catch_line>
+	<text>
+		A writ of quo warranto may be issued and prosecuted in the name of the Commonwealth in any of the following cases:
+		<section prefix="1">Against a domestic corporation, other than a municipal corporation, for the misuse or nonuse of its corporate privileges and franchises, or for the exercise of a privilege or franchise not conferred upon it by law, or when a charter of incorporation has been obtained by it for a fraudulent purpose, or for a purpose not authorized by law;
+		</section>
+		<section prefix="2">Against a person for the misuse or nonuse of any privilege conferred upon him by law;
+			2a. Against a person engaged in the practice of any profession without being duly authorized or licensed to do so;
+		</section>
+		<section prefix="3">Against any person or persons acting as a corporation, other than a municipal corporation, without authority of law; and
+		</section>
+		<section prefix="4">Against any person who intrudes into or usurps any public office. But no writ shall be issued or prosecuted against any person now in office for any cause which would have been available in support of a proceeding to contest his election.
+			Provided that nothing herein shall be construed to give jurisdiction to any court to judge the election, qualifications, or returns of the members of either house of the General Assembly.
+		</section>
+	</text>
+	<history>Code 1950, § 8-857; 1977, c. 617; 1980, c. 705.</history>
+</law>

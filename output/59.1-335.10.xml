@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="25.1" level="2">Virginia Credit Services Businesses Act</unit>
+	</structure>
+	<section_number>59.1-335.10</section_number>
+	<catch_line>Liability to consumer</catch_line>
+	<text>
+		<section prefix="A">Any credit services business which willfully fails to comply with any requirement imposed under this chapter with respect to any consumer is liable to that consumer in an amount equal to the sum of:
+			<section prefix="1">Any actual damages sustained by the consumer as a result of the failure; and
+			</section>
+			<section prefix="2">Such amount of punitive damages as the court may allow.
+			</section>
+		</section>
+		<section prefix="B">Any credit services business which is negligent in failing to comply with any requirement imposed under this chapter with respect to any consumer is liable to that consumer in an amount equal to the sum of any actual damages sustained by the consumer as a result of the failure.
+		</section>
+	</text>
+	<history>1989, cc. 651, 655.</history>
+</law>

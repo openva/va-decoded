@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.10</section_number>
+	<catch_line>Enforcement of claim against non-associated asset</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Enforcement date" means 12:01 a.m. on the date on which a claimant first serves process on a series limited liability company or protected series of the series limited liability company in an action seeking to enforce under this section a claim against an asset of the series limited liability company or protected series by attachment, levy, or other action.
+			"Incurrence date" means, subject to subsection B of § 13.1-1099.20, the date on which a series limited liability company or protected series of the series limited liability company incurred the liability giving rise to a claim that a claimant seeks to enforce under this section.
+		</section>
+		<section prefix="B">If a claim against a series limited liability company or a protected series of the series limited liability company has been reduced to judgment, in addition to any other remedy provided by law or equity, the judgment may be enforced in accordance with the following rules:
+			<section prefix="1">A judgment against the series limited liability company may be enforced against an asset of a protected series of the series limited liability company if the asset:
+				a. Was a non-associated asset of the protected series on the incurrence date; or
+				b. Is a non-associated asset of the protected series on the enforcement date.
+			</section>
+			<section prefix="2">A judgment against a protected series may be enforced against an asset of the series limited liability company if the asset:
+				a. Was a non-associated asset of the series limited liability company on the incurrence date; or
+				b. Is a non-associated asset of the series limited liability company on the enforcement date.
+			</section>
+			<section prefix="3">A judgment against a protected series may be enforced against an asset of another protected series of the series limited liability company if the asset:
+				a. Was a non-associated asset of the other protected series on the incurrence date; or
+				b. Is a non-associated asset of the other protected series on the enforcement date.
+			</section>
+		</section>
+		<section prefix="C">In addition to any other remedy provided by law or equity, if a claim against a series limited liability company or a protected series of the series limited liability company has not been reduced to a judgment and law other than this article permits a prejudgment remedy by attachment, levy, or other action, the court may apply subsection B as a prejudgment remedy.
+		</section>
+		<section prefix="D">In a proceeding under this section, the party asserting that an asset is or was an associated asset of a series limited liability company or a protected series of the series limited liability company has the burden of proof on the issue.
+		</section>
+		<section prefix="E">This section applies to an asset of a foreign series limited liability company or foreign protected series of the foreign series limited liability company if:
+			<section prefix="1">The asset is real or tangible property located in the Commonwealth;
+			</section>
+			<section prefix="2">The claimant is a resident of the Commonwealth or transacting business or registered to transact business in the Commonwealth, or the claim under this section is to enforce a judgment, or to seek a pre-judgment remedy, pertaining to a liability arising from law of the Commonwealth other than this article or an act or omission in the Commonwealth; and
+			</section>
+			<section prefix="3">The asset is not identified in the records of the foreign series limited liability company or foreign protected series of the foreign series limited liability company in a manner comparable to the manner required by § 13.1-1099.2.
+			</section>
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

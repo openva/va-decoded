@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="21" level="4">Setoff Debt Collection Act</unit>
+	</structure>
+	<section_number>58.1-530</section_number>
+	<catch_line>(Contingent effective date -- see Editor's note) Priorities in claims to be setoff</catch_line>
+	<text>
+		Priority in multiple claims to refunds allowed to be setoff under the provisions of this article shall be determined by the following classifications and in priority order as follows:
+		<section prefix="1">Claims of the Department;
+		</section>
+		<section prefix="2">Claims filed by the Department of Social Services, Division of Child Support Enforcement;
+		</section>
+		<section prefix="3">Claims filed by any court or other administrative unit of state government;
+		</section>
+		<section prefix="4">Claims filed by any county, city, or town; and
+		</section>
+		<section prefix="5">Claims filed by the Internal Revenue Service.
+			Priority for claims within the same classification shall be determined by the order in time in which the claimant agency filed a written notice with the Department of its intention to effect collection through setoff under this article. Claims filed by counties, cities and towns for an offset of the federal income tax refund shall be limited to claims for delinquent local taxes.
+		</section>
+	</text>
+	<history>Code 1950, § 58-19.17; 1981, c. 408; 1983, c. 545; 1984, c. 675; 1996, cc. 363, 413; 2009, cc. 571, 787.</history>
+</law>

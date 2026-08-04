@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="IV" level="2">Dealers and Driver Training Schools</unit>
+		<unit label="chapter" identifier="16" level="3">Salvage, Nonrepairable, and Rebuilt Vehicles</unit>
+	</structure>
+	<section_number>46.2-1602.3</section_number>
+	<catch_line>Exception; vehicles sold for recycling parts, dismantling, demolishing, or utilizing for scrap</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any provision of this chapter to the contrary, an insurance company, or authorized agent of an insurance company, may obtain a nonrepairable certificate for a vehicle titled in the Commonwealth and acquired by the insurance company through the claims process without first obtaining a certificate of title or a salvage certificate, provided that the insurance company or authorized agent of the insurance company electronically files the following with the Department in a manner prescribed by the Commissioner;
+			<section prefix="1">The insurance company's information, including name, address, federal identification number, and insurance company code number;
+			</section>
+			<section prefix="2">The claim number and claim payment date;
+			</section>
+			<section prefix="3">The vehicle information, including year, make, model, and vehicle identification number; and
+			</section>
+			<section prefix="4">A certification that:
+				a. The insurance company (i) has acquired the vehicle through the claims process; (ii) is unable to obtain the assigned title or salvage certificate for the vehicle from the insured; and (iii) has determined the vehicle to be a nonrepairable vehicle;
+				b. Any lien recorded on this title at the time the insurance company acquired the vehicle has been satisfied as a result of the claims process and released by the lien holder; and
+				c. The insurance company, or authorized agent of the insurance company, is selling the vehicle, either directly or through a salvage pool, to a demolisher, salvage dealer, or scrap metal processor solely for the purpose of recycling parts, dismantling, demolishing, or utilizing for scrap.
+			</section>
+		</section>
+		<section prefix="B">Upon receipt of the information required in subsection A, the Department shall update its records in accordance with subsection D of § 46.2-1603.2 and electronically deliver to the insurance company, or the authorized agent of the insurance company who filed the information in subsection A, if any, a nonrepairable certificate for the vehicle.
+		</section>
+		<section prefix="C">The insurance company, or authorized agent of the insurance company, shall provide the purchaser of the vehicle with the nonrepairable certificate and a bill of sale for each vehicle processed through subsection A. Delivery of such nonrepairable certificate and bill of sale to the purchaser may be through electronic means.
+		</section>
+		<section prefix="D">Each purchaser of a vehicle for which a nonrepairable certificate has been issued pursuant to subsection A shall comply with the notification requirements of subsection B of § 46.2-1608.2 and all applicable recordkeeping requirements of this chapter.
+		</section>
+	</text>
+	<history>2023, cc. 364, 365.</history>
+</law>

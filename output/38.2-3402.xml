@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3402</section_number>
+	<catch_line>Certification to accompany application</catch_line>
+	<text>
+		<section prefix="A">Each application for an individual accident and sickness insurance policy shall contain a certification, signed by both the applicant and the agent soliciting the insurance, to the effect that: "The undersigned applicant and agent certify that the applicant has read, or had read to him, the completed application and that the applicant realizes that any false statement or misrepresentation in the application may result in loss of coverage under the policy." If the application is to be used in a solicitation where no agent is involved, the certification may delete the reference to and signature of the agent soliciting the insurance.
+		</section>
+		<section prefix="B">Subsection A of this section shall also apply to an application by an individual for coverage under a group policy where individual underwriting is done.
+		</section>
+		<section prefix="C">If the certification is wholly or partially inapplicable to a particular form of policy, the insurer may modify or omit the certification with the approval of the Commission.
+		</section>
+	</text>
+	<history>1966, c. 342, § 38.1-348.2; 1986, c. 562.</history>
+</law>

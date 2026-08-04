@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>20-146.8</section_number>
+	<catch_line>Appearance and limited immunity</catch_line>
+	<text>
+		<section prefix="A">A party to a child custody proceeding, including a modification proceeding, or a petitioner or respondent in a proceeding to enforce or register a child custody determination is not subject to personal jurisdiction in this Commonwealth for another proceeding or purpose solely by reason of having participated, or having been physically present for the purpose of participating, in the proceeding.
+		</section>
+		<section prefix="B">A person who is subject to personal jurisdiction in this Commonwealth on a basis other than physical presence is not immune from service of process in this Commonwealth. A party present in this Commonwealth who is subject to the jurisdiction of another state is not immune from service of process allowable under the laws of that state.
+		</section>
+		<section prefix="C">The immunity granted by subsection A does not extend to civil litigation based on acts unrelated to the participation in a proceeding under this act committed by an individual while present in this Commonwealth.
+		</section>
+	</text>
+	<history>2001, c. 305.</history>
+</law>

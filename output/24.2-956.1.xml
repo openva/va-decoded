@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="9.5" level="2">Political Campaign Advertisements</unit>
+		<unit label="article" identifier="2" level="3">Print Media Advertisement Requirements</unit>
+	</structure>
+	<section_number>24.2-956.1</section_number>
+	<catch_line>Requirements for print media advertisements sponsored by a person or political committee, other than a candidate campaign committee</catch_line>
+	<text>
+		It shall be unlawful for any person or political committee to sponsor a print media advertisement that constitutes an expenditure or contribution required to be disclosed under Chapter 9.3 (§ 24.2-945 et seq.) unless the following requirements are met:
+		<section prefix="1">It bears the legend or includes the statement: "Paid for by  [Name of person or political committee]."
+		</section>
+		<section prefix="2">In an advertisement supporting or opposing the nomination or election of one or more clearly identified candidates, the sponsor states whether it is authorized by a candidate. The visual legend in the advertisement shall state either "Authorized by [Name of candidate], candidate for [Name of office]" or "Not authorized by a candidate."
+		</section>
+		<section prefix="3">In an advertisement that identifies a candidate the sponsor is opposing, the sponsor must disclose in the advertisement the name of the candidate who is intended to benefit from the advertisement, if the sponsor coordinates with, or has the authorization of, the benefited candidate.
+		</section>
+		<section prefix="4">If an advertisement is jointly sponsored, the disclosure statement shall name all the sponsors.
+		</section>
+		<section prefix="5">Any disclosure statement required by this section shall be displayed in a conspicuous manner in a font size proportionate to the size of the advertisement. The State Board of Elections shall promulgate standards for meeting the requirements of this subdivision.
+		</section>
+		<section prefix="6">Any print media advertisement appearing in electronic format shall display the disclosure statement in a minimum font size of seven point; however, if the advertisement lacks sufficient space for a disclosure statement in a minimum font size of seven point, the advertisement may meet disclosure requirements if, by clicking on the print media advertisement appearing in electronic format, the viewer is taken to a landing page or a home page that displays the disclosure statement in a conspicuous manner.
+		</section>
+	</text>
+	<history>2002, c. 487, § 24.2-943; 2003, c. 237; 2004, cc. 55, 457; 2005, c. 369; 2006, cc. 787, 892; 2012, c. 519; 2020, c. 557.</history>
+</law>

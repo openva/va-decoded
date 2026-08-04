@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="3" level="2">General Obligation and Construction of Contract</unit>
+	</structure>
+	<section_number>8.2-305</section_number>
+	<catch_line>Open price term</catch_line>
+	<text>
+		<section prefix="1">The parties if they so intend can conclude a contract for sale even though the price is not settled. In such a case the price is a reasonable price at the time for delivery if
+			<section prefix="a">nothing is said as to price; or
+			</section>
+			<section prefix="b">the price is left to be agreed by the parties and they fail to agree; or
+			</section>
+			<section prefix="c">the price is to be fixed in terms of some agreed market or other standard as set or recorded by a third person or agency and it is not so set or recorded.
+			</section>
+		</section>
+		<section prefix="2">A price to be fixed by the seller or by the buyer means a price for him to fix in good faith.
+		</section>
+		<section prefix="3">When a price left to be fixed otherwise than by agreement of the parties fails to be fixed through fault of one party the other may at his option treat the contract as cancelled or himself fix a reasonable price.
+		</section>
+		<section prefix="4">Where, however, the parties intend not to be bound unless the price be fixed or agreed and it is not fixed or agreed there is no contract. In such a case the buyer must return any goods already received or if unable so to do must pay their reasonable value at the time of delivery and the seller must return any portion of the price paid on account.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

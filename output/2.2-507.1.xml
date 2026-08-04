@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="B" level="3">Department of Law</unit>
+		<unit label="chapter" identifier="5" level="4">Department of Law</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-507.1</section_number>
+	<catch_line>Authority of Attorney General regarding charitable assets</catch_line>
+	<text>
+		<section prefix="A">The assets of a charitable corporation incorporated in or doing any business in Virginia shall be deemed to be held in trust for the public for such purposes as are established by the governing documents of such charitable corporation, the gift or bequest made to such charitable corporation, or other applicable law. The Attorney General shall have the same authority to act on behalf of the public with respect to such assets as he has with respect to assets held by unincorporated charitable trusts and other charitable entities, including the authority to seek such judicial relief as may be necessary to protect the public interest in such assets.
+		</section>
+		<section prefix="B">Nothing contained in this section is intended to modify the standard of conduct applicable under existing law to the directors of charitable corporations incorporated in or doing any business in Virginia.
+		</section>
+	</text>
+	<history>2002, c. 792; 2004, c. 289.</history>
+</law>

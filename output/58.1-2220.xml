@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="3" level="4">Motor Fuel Tax; Liability</unit>
+	</structure>
+	<section_number>58.1-2220</section_number>
+	<catch_line>Liability for tax on imports</catch_line>
+	<text>
+		<section prefix="A">The tax imposed pursuant to § 58.1-2217 at the point that motor fuel is imported by a system transfer (i) to a refinery shall be payable by the refiner or (ii) to a terminal shall be jointly and severally payable by the person importing the fuel and by the terminal operator.
+		</section>
+		<section prefix="B">The tax imposed pursuant to § 58.1-2217 at the point that motor fuel is removed from a terminal rack located in another state and has Virginia as its destination state shall be payable:
+			<section prefix="1">If the importer of the fuel is a licensed supplier in Virginia and the fuel is removed for the supplier's own account for use in Virginia, by the supplier;
+			</section>
+			<section prefix="2">If the supplier of the fuel is licensed in Virginia as an elective supplier or a permissive supplier, by the importer of the fuel to the supplier as trustee; or
+			</section>
+			<section prefix="3">If subdivisions 1 and 2 do not apply, by the importer of the fuel when filing a return with the Commissioner.
+			</section>
+		</section>
+		<section prefix="C">The tax imposed pursuant to § 58.1-2217 at the point that motor fuel is removed from a bulk plant located in another state shall be payable by the person that imports the fuel.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758.</history>
+</law>

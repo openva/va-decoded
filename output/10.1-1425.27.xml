@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.6" level="4">Computer Recovery and Recycling Act</unit>
+	</structure>
+	<section_number>10.1-1425.27</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article, unless the context requires a different meaning:
+		"Brand" means the name, symbol, logo, trademark, or other information that identifies a product rather than the components of the product.
+		"Computer equipment" means a desktop or notebook computer and may include a computer monitor or other display device. Computer does not include:
+		<section prefix="1">A television or any telecommunication system device that can receive moving pictures and sound broadcast over a distance, including a television tuner or a display device peripheral to a computer in which the display device contains a television tuner;
+		</section>
+		<section prefix="2">A desktop or notebook computer or computer monitor or other display device that is functionally or physically a part of, connected to, or integrated within a larger piece of equipment and designed or intended for use in an industrial, governmental, commercial, research and development, or medical setting, including diagnostic, monitoring, security, sensing, or control equipment; or
+		</section>
+		<section prefix="3">Any monitor or computer equipment contained within a clothes washer, clothes dryer, refrigerator, refrigerator and freezer, microwave oven, conventional oven or range, dishwasher, room air conditioner, dehumidifier, or air purifier.
+			"Consumer" means an individual who uses computer equipment that is purchased primarily for personal or home business use.
+			"Manufacturer" means a person who in any calendar year:
+		</section>
+		<section prefix="1">Manufactures or manufactured computer equipment in excess of 500 units under a brand that:
+			a. The person owns or owned; or
+			b. The person is or was licensed to use, other than under a license to manufacture computer equipment for delivery exclusively to or at the order of the licensor;
+		</section>
+		<section prefix="2">Sells or sold computer equipment in excess of 500 units manufactured by others under a brand that:
+			a. The person owns or owned; or
+			b. The person is or was licensed to use, other than under a license to manufacture computer equipment for delivery exclusively to or at the order of the licensor;
+		</section>
+		<section prefix="3">Manufactures or manufactured computer equipment in excess of 500 units without affixing a brand;
+		</section>
+		<section prefix="4">Manufactures or manufactured computer equipment in excess of 500 units to which the person affixes or affixed a brand that:
+			a. The person does not or has not owned; or
+			b. The person is not or was not licensed to use; or
+		</section>
+		<section prefix="5">Imports or imported computer equipment in excess of 500 units manufactured outside the United States into the United States unless at the time of importation the company or licensee that sells or sold the computer equipment to the importer has or had assets or a presence in the United States sufficient to be considered the manufacturer.
+		</section>
+	</text>
+	<history>2008, c. 541.</history>
+</law>

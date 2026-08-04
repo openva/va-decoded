@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="3.02" level="3">Quarantine and Isolation of Persons With Communicable Diseases of Public Health Threat</unit>
+	</structure>
+	<section_number>32.1-48.014</section_number>
+	<catch_line>Enforcement of orders of quarantine or isolation; penalties</catch_line>
+	<text>
+		<section prefix="A">Any person who does not comply with a validly issued order of quarantine or order of isolation issued or prepared pursuant to this article shall be subject to the penalties provided in § 32.1-27, including, upon conviction, a Class 1 misdemeanor and payment of civil penalties.
+		</section>
+		<section prefix="B">Any order of quarantine or isolation shall be enforced by law-enforcement agencies, as directed by the State Health Commissioner. Any enforcement authority directed to law-enforcement agencies by the Commissioner shall expressly include, but need not be limited to, the power to detain or arrest any person or persons identified as in violation of any order of quarantine or isolation, or for whom probable cause exists that he may fail or refuse to comply with any such order.
+			Any person or persons so detained shall be held in the least restrictive environment that can provide any required health care or other services for such person.
+		</section>
+		<section prefix="C">Every attorney for the Commonwealth shall have the duty to prosecute, without delay, any violation of this chapter in accordance with the penalties set forth in § 32.1-27.
+		</section>
+		<section prefix="D">Pursuant to 42 U.S.C. § 264 et seq. and 42 C.F.R. Parts 70 and 71, any order of quarantine or isolation issued by the Director of the Centers for Disease Control and Prevention affecting the Commonwealth or the Metropolitan Washington Airports Authority may be enforced by local law-enforcement officers or officers of the Metropolitan Washington Airports Authority with jurisdiction over the facility involved in the quarantine or isolation order.
+		</section>
+	</text>
+	<history>2004, cc. 773, 1021; 2007, cc. 699, 783.</history>
+</law>

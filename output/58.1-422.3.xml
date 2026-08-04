@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-422.3</section_number>
+	<catch_line>Debt buyers; apportionment</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "debt buyer" means an entity and its affiliated entities that purchase nonperforming loans from unaffiliated commercial entities that (i) are in default for at least 120 days or (ii) are in bankruptcy proceedings. "Debt buyer" does not include an entity that provides debt collection services for unaffiliated entities.
+		</section>
+		<section prefix="B">For taxable years beginning on and after January 1, 2019, the Virginia taxable income of a debt buyer, excluding income allocable under § 58.1-407, shall be apportioned within and without the Commonwealth by multiplying such income by the sales factor. For debt buyers, only money recovered on debt that a debt buyer collected from a person who is a resident of the Commonwealth or an entity that has its commercial domicile in the Commonwealth shall be apportioned to the Commonwealth for income tax purposes.
+		</section>
+	</text>
+	<history>2018, c. 807.</history>
+</law>

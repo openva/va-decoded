@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-408</section_number>
+	<catch_line>Collection of information relevant to boundary changes from governmental subdivisions of Commonwealth</catch_line>
+	<text>
+		The Secretary of the Commonwealth shall be responsible for the collection from the governmental subdivisions of the Commonwealth of information relevant to their boundary changes and the dissemination of such information to the appropriate departments of state government.
+	</text>
+	<history>1978, c. 641, § 2.1-71.1; 2001, c. 844.</history>
+</law>

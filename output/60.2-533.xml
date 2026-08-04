@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Taxation</unit>
+		<unit label="article" identifier="4" level="3">Computation of Tax Rate</unit>
+	</structure>
+	<section_number>60.2-533</section_number>
+	<catch_line>Fund balance factor</catch_line>
+	<text>
+		<section prefix="A">As of July 1 of each calendar year, a fund balance factor, rounded to the nearest one-tenth of a percent, shall be determined as follows:
+			The net assets which shall be compared with the "adequate balance" as determined in subsection B of this section, shall be comprised of the balance which shall stand to the credit of the account of the Commonwealth of Virginia in the Unemployment Trust Fund in the Treasury of the United States; amounts withdrawn therefrom but not expended; employer payments not yet transferred to such account; net employer taxes receivable; and amounts due from claimants and other states, minus payables due to claimants, employers, other funds of the Virginia Employment Commission, and other states. The resulting percent shall be termed the "fund balance factor," except that if the percent determined is less than fifty percent, the fund balance factor shall be fifty percent.
+		</section>
+		<section prefix="B">As of July 1 of each calendar year, the Commission shall determine the "adequate balance" for the trust fund as follows:
+			For the twenty-year period ending July 1 of the year of determination, the highest ratios of benefits divided by total wages of three separate consecutive four-quarter periods shall be averaged and multiplied by 1.38 to determine the fund adequacy multiplier. The fund adequacy multiplier shall be multiplied by the total wages for the year in question to determine the "adequate fund balance" for that year.
+		</section>
+		<section prefix="C">A fund building rate of two-tenths percent shall be added to all experience rating rates established pursuant to § 60.2-531, and to all assigned tax rates established pursuant to §§ 60.2-515, 60.2-526, 60.2-527 and 60.2-538, except that such rate shall not be applied if the fund balance factor determined pursuant to subsection A of this section exceeds fifty percent.
+		</section>
+	</text>
+	<history>1981, c. 606, § 60.1-85.1; 1986, c. 480; 1993, c. 249; 1996, c. 305; 1997, cc. 530, 674.</history>
+</law>

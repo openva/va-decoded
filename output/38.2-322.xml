@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="3" level="2">Provisions Relating to Insurance Policies and Contracts</unit>
+	</structure>
+	<section_number>38.2-322</section_number>
+	<catch_line>Standardized claims forms</catch_line>
+	<text>
+		<section prefix="A">No accident and sickness insurer, health maintenance organization, health services plan, or optometric services plan licensed in the Commonwealth shall refuse to accept, as a standard claims form for physician services or for services provided by chiropractors, optometrists, opticians, professional counselors, psychologists, clinical social workers, podiatrists, physical therapists, clinical nurse specialists who render mental health services, audiologists, and speech pathologists, the standardized HCFA-1500 health insurance claims form, or its successor as it may be amended from time to time. However, nothing in this section shall prohibit an insurer, health maintenance organization, health services plan, or optometric services plan from accepting any other claims form.
+		</section>
+		<section prefix="B">No accident and sickness insurer, health maintenance organization, or health services plan licensed in the Commonwealth shall refuse to accept as a standard claims form for hospital services the standardized UB-82 claims form, or its successor as it may be amended from time to time. However, nothing in this section shall prohibit an accident and sickness insurer, health maintenance organization, or health services plan from accepting any other claims form.
+		</section>
+		<section prefix="C">No accident and sickness insurer, health maintenance organization, health services plan, or dental services plan licensed in the Commonwealth shall refuse to accept as a standard claims form for dental services the standardized ADA form prepared by the American Dental Association, or its successor as it may be amended from time to time. However, nothing in this section shall prohibit an accident and sickness insurer, health maintenance organization, health services plan, or dental services plan from accepting any other claims form.
+		</section>
+		<section prefix="D">The forms specified in this section may be modified as necessary to accommodate the transmission and administration of claims by electronic means.
+		</section>
+		<section prefix="E">After July 1, 1998, no health maintenance organization authorized to transact business in this Commonwealth and no health insurer, health services plan or preferred provider organization authorized to offer health benefits in this Commonwealth that requires the use of the Physicians' Current Procedural Terminology (CPT) identifying codes published by the American Medical Association for reporting claims for medical services and procedures, including any standardized form, shall refuse to accept and utilize these identifying codes and any appropriate modifiers listed therein when the same are appropriately used for processing such claims for provider services and procedures.
+		</section>
+	</text>
+	<history>1993, c. 307; 1997, c. 531.</history>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="3" level="4">Tax Credits for Individuals</unit>
+	</structure>
+	<section_number>58.1-332.2</section_number>
+	<catch_line>(Applicable for taxable years beginning on or after January 1, 2007) Definition of income tax</catch_line>
+	<text>
+		<section prefix="A">For purposes of the credits in §§ 58.1-332 and 58.1-332.1, the term "income tax" is a term of art that refers to a specific type of tax levied on earned and unearned income and shall not include any other type of tax merely because it may be measured by or referenced to gross or net income. An income tax includes, but is not limited to, a tax imposed on all income of an individual if a resident, or all income of an individual from the jurisdiction's sources if a nonresident; however, an income tax so imposed may incorporate other provisions that grant exemptions, exclusions, deductions, subtractions, credits, or other preferences for specific types of income, expenses, individuals, or other criteria.
+		</section>
+		<section prefix="B">An income tax shall not include:
+			<section prefix="1">A tax conditioned upon the exercise of any franchise, privilege, or business within the jurisdiction even though the tax is measured or based upon gross or net income derived therefrom, but such measure does not include income that the person exercising such franchise, privilege, or business may receive from other sources within the jurisdiction.
+			</section>
+			<section prefix="2">License and occupation taxes, which are payable in respect to the privilege of engaging in or carrying on a particular business or vocation, even though the amount of tax payable by an individual may be measured by the amount of business which he transacts or his earnings therefrom, but such measure does not include income that the person engaging in or carrying on a particular business or vocation may receive from other sources within the jurisdiction.
+			</section>
+		</section>
+		<section prefix="C">The credits in §§ 58.1-332 and 58.1-332.1 shall apply only when the tax imposed in the other state or foreign country is substantially similar to the tax imposed by Article 2 (§ 58.1-320 et seq.), as defined by this section. The nomenclature used to describe the tax of the other jurisdiction shall not be binding on Virginia for this purpose whether such nomenclature is that of the other jurisdiction's legislature or courts or the United States Congress or courts.
+		</section>
+	</text>
+	<history>2012, c. 292.</history>
+</law>

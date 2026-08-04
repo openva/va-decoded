@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="III" level="2">Local Taxes</unit>
+		<unit label="chapter" identifier="36" level="3">Tax Exempt Property</unit>
+		<unit label="article" identifier="2" level="4">Property Exempted by Classification or Designation</unit>
+	</structure>
+	<section_number>58.1-3606.2</section_number>
+	<catch_line>Property exempt from taxation; nonprofit institutions of learning.</catch_line>
+	<text>
+		For purposes of the exemption authorized by Article X, Section 6 (a)(4) of the Constitution of Virginia:
+		"Educational purposes" shall include any special education and related services as those terms are defined in the IDEA.
+		"Institutions of learning" shall include any institutions licensed by the Department of Education that provide services pursuant to the federal Individuals with Disabilities Act (IDEA), 20 U.S.C. § 1400 et seq., or any school for students with disabilities in the Commonwealth that is licensed by the Board of Education pursuant to § 22.1-323.
+	</text>
+	<history>2025, c. 645.</history>
+</law>

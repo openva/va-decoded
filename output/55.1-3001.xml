@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="V" level="2">Miscellaneous</unit>
+		<unit label="chapter" identifier="30" level="3">Residential Executory Real Estate Contracts Act</unit>
+	</structure>
+	<section_number>55.1-3001</section_number>
+	<catch_line>Exemptions</catch_line>
+	<text>
+		The provisions of this chapter shall not apply to residential executory real estate contracts where the vendor is:
+		<section prefix="1">A natural person, an estate, or a legal entity that owns no more than two single-family residential dwelling units in the Commonwealth unless the person or entity is an agent, affiliate, subsidiary, or parent company to another legal entity that owns at least one additional residential dwelling unit in the Commonwealth;
+		</section>
+		<section prefix="2">A real estate licensee pursuant to Chapter 21 (§ 54.1-2100 et seq.) of Title 54.1; or
+		</section>
+		<section prefix="3">A bank, savings institution, credit union, or mortgage lender licensed under Title 6.2.
+		</section>
+	</text>
+	<history>2019, c. 511, § 55-252.2.</history>
+</law>

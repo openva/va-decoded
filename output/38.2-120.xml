@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions</unit>
+		<unit label="article" identifier="2" level="3">Insurance Classified and Defined</unit>
+	</structure>
+	<section_number>38.2-120</section_number>
+	<catch_line>Fidelity</catch_line>
+	<text>
+		"Fidelity insurance" means:
+		<section prefix="1">Indemnifying any person against loss through counterfeit, forgery or alteration of, on, or in any security obligation or other written instrument; or
+		</section>
+		<section prefix="2">Indemnifying banks, bankers, brokers, financial or moneyed corporations or associations against loss resulting from any cause, of personal property, including fixtures, equipment, safes and vaults on the insured's premises.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-18; 1986, c. 562.</history>
+</law>

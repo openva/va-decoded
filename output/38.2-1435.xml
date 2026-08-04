@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1435</section_number>
+	<catch_line>Second mortgages; wrap-around mortgages</catch_line>
+	<text>
+		A domestic insurer may invest in obligations secured by second mortgages or second deeds of trust on real property encumbered only by a first mortgage or first deed of trust complying with §§ 38.2-1434 and 38.2-1437, subject to either of the following conditions:
+		<section prefix="1">The insurer also owns the obligation secured by the first mortgage or first deed of trust, and the aggregate value of both loans does not exceed the applicable loan-to-value ratio specified in § 38.2-1437; or
+		</section>
+		<section prefix="2">The obligation is secured by a wrap-around mortgage where:
+			a. Only one preexisting mortgage or deed of trust encumbers the real property;
+			b. The mortgage or deed of trust securing the loan is (i) recorded and (ii) insured for at least the total amount of the obligation of the borrower to the insurer by title insurance; and
+			c. The insurer agrees to make the payments due under the first mortgage or first deed of trust upon receipt of payments due from the borrower under the wrap-around mortgage.
+		</section>
+	</text>
+	<history>1983, c. 457, § 38.1-217.38; 1986, c. 562.</history>
+</law>

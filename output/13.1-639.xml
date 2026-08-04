@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Shares and Distributions</unit>
+	</structure>
+	<section_number>13.1-639</section_number>
+	<catch_line>Terms of class or series determined by board of directors</catch_line>
+	<text>
+		<section prefix="A">If the articles of incorporation so provide, the board of directors, without shareholder action, may, by adoption of an amendment of the articles of incorporation:
+			<section prefix="1">Classify any unissued shares into one or more classes or into one or more series within one or more classes;
+			</section>
+			<section prefix="2">Reclassify any unissued shares of any class into one or more classes or into one or more series within one or more classes; or
+			</section>
+			<section prefix="3">Reclassify any unissued shares of any series of any class into one or more classes or into one or more series within one or more classes.
+			</section>
+		</section>
+		<section prefix="B">If the board of directors acts pursuant to subsection A, it shall determine the terms, including the preferences, rights and limitations, to the same extent permitted under § 13.1-638, of:
+			<section prefix="1">Any class of shares before the issuance of any shares of that class, or
+			</section>
+			<section prefix="2">Any series within a class before the issuance of any shares of that series.
+			</section>
+		</section>
+		<section prefix="C">Unless the articles of incorporation otherwise provide, the board of directors, without shareholder action, may, by adoption of an amendment of the articles of incorporation, delete from the articles of incorporation any provisions originally adopted by the board of directors without shareholder action fixing the terms, including the preferences, limitations, and rights of any class of shares or series within a class, provided there are no shares of such class or series then outstanding.
+		</section>
+		<section prefix="D">Unless the articles of incorporation otherwise provide, the board of directors of a corporation that is registered as an open-end management investment company under the federal Investment Company Act of 1940, without shareholder action, may, by adoption of an amendment of the articles of incorporation:
+			<section prefix="1">Classify any unissued shares into one or more classes or into one or more series within one or more classes; or
+			</section>
+			<section prefix="2">Reclassify any unissued shares of any class into one or more classes or into one or more series within one or more classes; or
+			</section>
+			<section prefix="3">Reclassify any unissued shares of any series of any class into one or more classes or into one or more series within one or more classes.
+			</section>
+		</section>
+		<section prefix="E">When the board of directors has adopted an amendment of the articles of incorporation pursuant to subsection A, C, or D, the corporation shall file with the Commission articles of amendment pursuant to § 13.1-710 with the addition, when the board of directors has acted pursuant to subsection A, of any determination made pursuant to subsection B.
+			If the Commission finds that the articles of amendment comply with the requirements of law and that all required fees have been paid, it shall issue a certificate of amendment. Shares of any class or series that are classified or reclassified under this section by the articles of amendment shall not be issued until the certificate of amendment is effective.
+		</section>
+		<section prefix="F">Whenever the articles of incorporation provide that the board of directors may classify or reclassify unissued shares in the manner prescribed in subsection A, the articles of incorporation shall be deemed to authorize the board of directors to adopt pursuant to this section an amendment to the articles of incorporation without shareholder action unless the articles of incorporation specifically state that shareholder action is required.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-14; 1956, c. 428; 1975, c. 500; 1985, c. 522; 1988, c. 193; 2005, c. 765; 2006, c. 330; 2019, c. 734; 2021, Sp. Sess. I, c. 487.</history>
+</law>

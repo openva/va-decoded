@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="13" level="3">Air Pollution Control Board</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>10.1-1307.3</section_number>
+	<catch_line>Executive Director to enforce laws</catch_line>
+	<text>
+		<section prefix="A">The Executive Director or his duly authorized representative shall have the authority to:
+			<section prefix="1">Supervise, administer, and enforce the provisions of this chapter and regulations and orders of the Board as are conferred upon him by the Board;
+			</section>
+			<section prefix="2">Investigate any violations of this chapter and regulations and orders of the Board;
+			</section>
+			<section prefix="3">Require that air pollution records and reports be made available upon request, and require owners to develop, maintain, and make available such other records and information as are deemed necessary for the proper enforcement of this chapter and regulations and orders of the Board;
+			</section>
+			<section prefix="4">Upon presenting appropriate credentials to the owner, operator, or agent in charge:
+				a. Enter without delay and at reasonable times any business establishment, construction site, or other area, workplace, or environment in this Commonwealth; and
+				b. Inspect and investigate during regular working hours and at other reasonable times, and within reasonable limits and in a reasonable manner, without prior notice, unless such notice is authorized by the Director or his representative, any such business establishment or place of employment and all pertinent conditions, structures, machines, apparatus, devices, equipment, and materials therein, and question privately any such employer, officer, owner, operator, agent, or employee. If such entry or inspection is refused, prohibited, or otherwise interfered with, the Director shall have the power to seek from a court having equity jurisdiction an order compelling such entry or inspection; and
+			</section>
+			<section prefix="5">Temporarily suspend the enforcement of any regulation or permit requirement applicable to any part of an electrical generation and transmission system, whether owned or contracted for, when a public electric utility providing power within the Commonwealth so requests and has suffered a force majeure event as defined in subdivision 7 of § 59.1-21.18:2.
+			</section>
+		</section>
+		<section prefix="B">The Executive Director or his duly authorized representative may pursue enforcement action for a violation of opacity requirements or limits based on (i) visual observations conducted pursuant to methods approved by the U.S. Environmental Protection Agency, (ii) data from certified continuous opacity monitors, or (iii) other methods approved by the U.S. Environmental Protection Agency.
+		</section>
+	</text>
+	<history>1990, c. 238; 1995, c. 184; 2007, c. 148.</history>
+</law>

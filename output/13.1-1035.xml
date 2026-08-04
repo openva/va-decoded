@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="6" level="3">Finance</unit>
+	</structure>
+	<section_number>13.1-1035</section_number>
+	<catch_line>Restrictions on making distribution</catch_line>
+	<text>
+		<section prefix="A">No distribution may be made by a limited liability company if, after giving effect to the distribution:
+			<section prefix="1">The limited liability company would not be able to pay its debts as they became due in the usual course of business; or
+			</section>
+			<section prefix="2">The limited liability company's total assets would be less than the sum of its total liabilities plus, unless the articles of organization or an operating agreement permits otherwise, the amount that would be needed, if the limited liability company were to be dissolved at the time of the distribution, to satisfy the preferential rights upon dissolution of members whose preferential rights are superior to the rights of members receiving the distribution.
+			</section>
+		</section>
+		<section prefix="B">The limited liability company may base a determination that a distribution is not prohibited under subsection A of this section either on:
+			<section prefix="1">Financial statements prepared on the basis of accounting practices and principles that are reasonable in the circumstances; or
+			</section>
+			<section prefix="2">A fair valuation or other method that is reasonable in the circumstances.
+			</section>
+		</section>
+		<section prefix="C">The effect of a distribution under subsection A of this section is measured as of (i) the date the distribution is authorized if the payment occurs within 120 days after the date of authorization or (ii) the date the payment is made if it occurs more than 120 days after the date of authorization.
+		</section>
+		<section prefix="D">[Repealed.]
+		</section>
+		<section prefix="E">For the purposes of this section, the term "distribution" shall not include amounts constituting reasonable compensation for present or past services or reasonable payments made in the ordinary course of business pursuant to a bona fide retirement plan or other benefits program.
+		</section>
+		<section prefix="F">This section shall not apply to distributions in liquidation under Article 9 (§ 13.1-1046 et seq.) of this chapter.
+		</section>
+	</text>
+	<history>1991, c. 168; 1992, c. 574; 2001, c. 548; 2009, c. 763.</history>
+</law>

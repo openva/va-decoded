@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="3" level="4">Unitrust</unit>
+	</structure>
+	<section_number>64.2-1041</section_number>
+	<catch_line>Authority of fiduciary</catch_line>
+	<text>
+		<section prefix="A">A fiduciary, without court approval, by complying with subsections B and F, may:
+			<section prefix="1">Convert an income trust to a unitrust if the fiduciary adopts in a record a unitrust policy for the trust providing:
+				a. That in administering the trust the net income of the trust will be a unitrust amount rather than net income determined without regard to this article; and
+				b. The percentage and method used to calculate the unitrust amount;
+			</section>
+			<section prefix="2">Change the percentage or method used to calculate a unitrust amount for a unitrust if the fiduciary adopts in a record a unitrust policy or an amendment or replacement of a unitrust policy providing changes in the percentage or method used to calculate the unitrust amount; or
+			</section>
+			<section prefix="3">Convert a unitrust to an income trust if the fiduciary adopts in a record a determination that, in administering the trust, the net income of the trust will be net income determined without regard to this article rather than a unitrust amount.
+			</section>
+		</section>
+		<section prefix="B">A fiduciary may take an action under subsection A if:
+			<section prefix="1">The fiduciary determines that the action will assist the fiduciary to administer a trust impartially;
+			</section>
+			<section prefix="2">The fiduciary sends a notice in a record, in the manner required by § 64.2-1042, describing and proposing to take the action;
+			</section>
+			<section prefix="3">The fiduciary sends a copy of the notice under subdivision 2 to each settlor of the trust that is:
+				a. If an individual, living; or
+				b. If not an individual, in existence;
+			</section>
+			<section prefix="4">At least one member of each class of the qualified beneficiaries determined under § 64.2-701, other than the Attorney General, receiving the notice under subdivision 2 is:
+				a. If an individual, legally competent;
+				b. If not an individual, in existence; or
+				c. Represented in the manner provided in Article 3 (§ 64.2-714 et seq.) of Chapter 7; and
+			</section>
+			<section prefix="5">The fiduciary does not receive, by the date specified in the notice under subdivision D 5 of § 64.2-1042, an objection in a record to the action proposed under subdivision 2 from a person to which the notice under subdivision 2 is sent.
+			</section>
+		</section>
+		<section prefix="C">If a fiduciary receives, not later than the date stated in the notice under subdivision D 5 of § 64.2-1042, an objection in a record described in subdivision D 4 of § 64.2-1042 to a proposed action, the fiduciary or a beneficiary may request the court to have the proposed action taken as proposed, taken with modifications, or prevented. A person described in subsection A of § 64.2-1042 may oppose the proposed action in the proceeding under this subsection, whether or not the person:
+			<section prefix="1">Consented under subsection C of § 64.2-1042; or
+			</section>
+			<section prefix="2">Objected under subdivision D 4 of § 64.2-1042.
+			</section>
+		</section>
+		<section prefix="D">If, after sending a notice under subdivision B 2, a fiduciary decides not to take the action proposed in the notice, the fiduciary shall notify in a record each person described in subsection A of § 64.2-1042 of the decision not to take the action and the reasons for the decision.
+		</section>
+		<section prefix="E">If a beneficiary requests in a record that a fiduciary take an action described in subsection A and the fiduciary declines to act or does not act within 90 days after receiving the request, the beneficiary may request the court to direct the fiduciary to take the action requested.
+		</section>
+		<section prefix="F">In deciding whether and how to take an action authorized by subsection A, or whether and how to respond to a request by a beneficiary under subsection E, a fiduciary shall consider all factors relevant to the trust and the beneficiaries, including relevant factors in subsection E of § 64.2-1036.
+		</section>
+		<section prefix="G">A fiduciary may release or delegate the power to convert an income trust to a unitrust under subdivision A 1, change the percentage or method used to calculate a unitrust amount under subdivision A 2, or convert a unitrust to an income trust under subdivision A 3, for a reason described in subsection G of § 64.2-1038 and in the manner described in subsection H of § 64.2-1038.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

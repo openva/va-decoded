@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="E" level="3">State Officers and Employees</unit>
+		<unit label="chapter" identifier="29" level="4">Virginia Personnel Act</unit>
+	</structure>
+	<section_number>2.2-2903.1</section_number>
+	<catch_line>State employees ordered to active military service</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Active military duty" means federally funded military duty as (i) a member of the armed forces of the United States on active duty pursuant to Title 10 U.S.C. or (ii) a member of the Virginia National Guard on active duty pursuant to either Title 10 or Title 32 U.S.C.
+			"State employee" means any person who is regularly employed full time on either a salaried or wage basis, whose tenure is not restricted as to temporary or provisional appointment, in the service of, and whose compensation is payable, no more often than biweekly, in whole or in part, by the Commonwealth or any department, institution or agency thereof.
+		</section>
+		<section prefix="B">For any state employee who has been ordered to active military service in the armed forces of the United States or in the organized reserve forces of any of the armed services of the United States or of the Virginia National Guard, the Commonwealth shall allow the use of accrued annual leave for active military duty according to personnel policies developed by the Department of Human Resource Management.
+		</section>
+	</text>
+	<history>2003, c. 789.</history>
+</law>

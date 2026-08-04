@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="3" level="3">Interest and Usury</unit>
+		<unit label="article" identifier="4" level="4">Loans Exempt From Limit on Contract Rate of Interest</unit>
+	</structure>
+	<section_number>6.2-317</section_number>
+	<catch_line>Loans of $5,000 or more for business or investment purposes</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section:
+			<section prefix="1">A loan shall be deemed to be for business or investment purposes if it is not for personal, family, or household purposes; and
+			</section>
+			<section prefix="2">Personal, family, or household purposes do not include a passive or active investment.
+			</section>
+		</section>
+		<section prefix="B">No person shall, by way of defense or otherwise, avail himself of the provisions of this chapter, or any other statutory or case law relating to usury or compounding of interest, to avoid or defeat the payment of interest, or any other sum, in connection with a loan made to a person for business or investment purposes, if the initial amount of the loan is $5,000 or more.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.75; 2010, c. 794.</history>
+</law>

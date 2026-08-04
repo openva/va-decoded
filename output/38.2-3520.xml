@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="35" level="2">Accident and Sickness Insurance Policies</unit>
+		<unit label="article" identifier="2" level="3">Individual Accident and Sickness Insurance Minimum Standards</unit>
+	</structure>
+	<section_number>38.2-3520</section_number>
+	<catch_line>Coverage of preexisting conditions</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding the provisions of § 38.2-3503, if an insurer elects to use a simplified application form, with or without a specific question as to the applicant's health, but without any detailed questions concerning the insured's health history or medical treatment history, the policy shall cover any loss occurring after twelve months from the effective date of coverage from any preexisting condition not specifically excluded from coverage by terms of the policy. Except as so provided, the policy shall not include wording that would permit a defense based upon preexisting conditions.
+		</section>
+		<section prefix="B">The provisions of this section shall not apply in any instance in which the provisions of this section are inconsistent or in conflict with a provision of Article 6 (§ 38.2-3438 et seq.) of Chapter 34.
+		</section>
+	</text>
+	<history>1980, c. 204, § 38.1-362.15; 1981, c. 575; 1986, c. 562; 2013, c. 751.</history>
+</law>

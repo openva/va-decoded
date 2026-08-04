@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="25" level="2">Extraordinary Writs</unit>
+		<unit label="article" identifier="1" level="3">Writ of Quo Warranto</unit>
+	</structure>
+	<section_number>8.01-637</section_number>
+	<catch_line>By whom filed; when leave granted and writ issued</catch_line>
+	<text>
+		<section prefix="A">The Attorney General or attorney for the Commonwealth of any county or city of which the circuit court has jurisdiction of the proceeding, at his own instance or at the relation of any interested person, or any interested person, may apply to such court by petition verified by oath for a writ of quo warranto. In case of an application under § 8.01-636 2a the term "any interested person" shall include any attorney licensed to practice law in this Commonwealth and qualified to practice before the Supreme Court of Virginia, or the circuit court in which the petition is filed.
+		</section>
+		<section prefix="B">If, in the opinion of the court, the matters stated in the petition are sufficient in law to authorize the issuance of such writ, a writ shall issue thereon, commanding the sheriff to summon the defendant to appear at a date set forth in the writ.
+		</section>
+		<section prefix="C">If the petition is filed on the relation of any person or by any person at his own instance, before the clerk shall issue the writ the court shall require the relator or person to give bond with sufficient surety, to be approved by the clerk, to indemnify the Commonwealth against all costs and expenses of the proceedings, in case the same shall not be recovered from and paid by the defendant.
+		</section>
+	</text>
+	<history>Code 1950, §§ 8-858, 8-859, 8-860; 1977, c. 617; 1980, c. 705.</history>
+</law>

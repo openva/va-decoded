@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="4" level="4">Creation, Validity, Modification, and Termination of Trust</unit>
+	</structure>
+	<section_number>64.2-730</section_number>
+	<catch_line>Modification or termination because of unanticipated circumstances or inability to administer trust effectively</catch_line>
+	<text>
+		<section prefix="A">The court may modify the administrative or dispositive terms of a trust or terminate the trust if, because of circumstances not anticipated by the settlor, modification or termination will further the purposes of the trust. To the extent practicable, the modification shall be made in accordance with the settlor's probable intention.
+		</section>
+		<section prefix="B">The court may modify the administrative terms of a trust if continuation of the trust on its existing terms would be impracticable or wasteful or impair the trust's administration.
+		</section>
+		<section prefix="C">Upon termination of a trust under this section, the trustee shall distribute the trust property in a manner consistent with the purposes of the trust.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-544.12; 2012, c. 614.</history>
+</law>

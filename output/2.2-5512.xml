@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="55.2" level="4">Competitive Government Act</unit>
+	</structure>
+	<section_number>2.2-5512</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter:
+		"Commercial activity" means an activity performed by or for state government that is not an inherently governmental activity and that may feasibly be obtained from a commercial source at lower cost than the activity being performed by state employees.
+		"Commercial source" means any business or other private concern that is eligible for contract awarded in accordance with the Public-Private Education and Infrastructure Act of 2002 (§ 56-575.1 et seq.) or the Virginia Public Procurement Act (§ 2.2-4300 et seq.).
+		"State employee" means all persons employed by the Commonwealth to provide services, including both salaried and wage employees, and all persons engaged to perform work for or to provide services to the Commonwealth.
+	</text>
+	<history>2004, c. 994.</history>
+</law>

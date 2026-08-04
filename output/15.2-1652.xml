@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="16" level="3">Local Constitutional Officers, Courthouses and Supplies</unit>
+		<unit label="article" identifier="8" level="4">Courthouses</unit>
+	</structure>
+	<section_number>15.2-1652</section_number>
+	<catch_line>Form of ballots for county election on removal and appropriation; certificate of electoral board</catch_line>
+	<text>
+		The ballots used in the election required by § 15.2-1644 shall be as follows:
+		"Shall the courthouse be removed to........., and shall the Board of Supervisors be permitted to spend $..... therefor?
+		[ ] Yes
+		[ ] No"
+		The manner of ascertaining the vote and making returns thereof shall conform in all respects to the requirements of the general election law, except that the certificate of the electoral board shall be as follows:
+		"We hereby certify, that at the election held on the.......... day of........., 20....., upon the question of removing the courthouse to.......... and permitting the expenditure of $..... therefor,..... votes were cast Yes; and..... votes were cast No."
+	</text>
+	<history>Code 1950, § 15-51; 1962, c. 623, § 15.1-567; 1971, Ex. Sess., cc. 42, 245; 1977, c. 306; 1997, c. 587.</history>
+</law>

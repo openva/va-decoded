@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="3" level="3">Disease Control Measures</unit>
+	</structure>
+	<section_number>32.1-46.01</section_number>
+	<catch_line>Virginia Immunization Information System</catch_line>
+	<text>
+		<section prefix="A">The Board of Health shall establish the Virginia Immunization Information System (VIIS), a statewide immunization registry that consolidates patient immunization histories from birth to death into a complete, accurate, and definitive record that may be made available to participating health care providers throughout Virginia, to the extent funds are appropriated by the General Assembly or otherwise made available. The purposes of VIIS shall be to (i) protect the public health of all citizens of the Commonwealth, (ii) prevent under-immunization and over-immunization of children, (iii) ensure up-to-date recommendations for immunization scheduling to health care providers and the Board, (iv) generate parental reminder and recall notices and manufacturer recalls, (v) develop immunization coverage reports, (vi) identify areas of under-immunized population, and (vii) provide, in the event of a public health emergency, a mechanism for tracking the distribution and administration of immunizations, immune globulins, or other preventive medications or emergency treatments. Any health care provider, as defined in § 32.1-127.1:03, in the Commonwealth that administers immunizations shall report such patient immunization information to VIIS pursuant to this section.
+		</section>
+		<section prefix="B">The Board of Health shall promulgate regulations to implement the VIIS that shall address:
+			<section prefix="1">Registration of participants, including, but not limited to, a list of those health care entities that are authorized and required to participate and any forms and agreements necessary for compliance with the regulations concerning patient privacy promulgated by the federal Department of Health and Human Services;
+			</section>
+			<section prefix="2">Procedures for confirming, continuing, and terminating participation and disciplining any participant for unauthorized use or disclosure of any VIIS data;
+			</section>
+			<section prefix="3">Procedures, timelines, and formats for reporting of immunizations by participants;
+			</section>
+			<section prefix="4">Procedures to provide for a secure system of data entry that may include encrypted online data entry or secure delivery of data files;
+			</section>
+			<section prefix="5">Procedures for incorporating the data reported on children's immunizations pursuant to subsection E of § 32.1-46;
+			</section>
+			<section prefix="6">The patient identifying data to be reported, including, but not limited to, the patient's name, date of birth, gender, telephone number, home address, birth place, and mother's maiden name;
+			</section>
+			<section prefix="7">The patient immunization information to be reported, including, but not necessarily limited to, the type of immunization administered (specified by current procedural terminology (CPT) code or Health Level 7 (HL7) code); date of administration; identity of administering person; lot number; and if present, any contraindications, or religious or medical exemptions;
+			</section>
+			<section prefix="8">Mechanisms for entering into data-sharing agreements with other state and regional immunization registries for the exchange, on a periodic nonemergency basis and in the event of a public health emergency, of patient immunization information, after receiving, in writing, satisfactory assurances for the preservation of confidentiality, a clear description of the data requested, specific details on the intended use of the data, and the identities of the persons with whom the data will be shared;
+			</section>
+			<section prefix="9">Procedures for the use of vital statistics data, including, but not necessarily limited to, the linking of birth certificates and death certificates;
+			</section>
+			<section prefix="10">Procedures for requesting immunization records that are in compliance with the requirements for disclosing health records set forth in § 32.1-127.1:03; such procedures shall address the approved uses for the requested data, to whom the data may be disclosed, and information on the provisions for disclosure of health records pursuant to § 32.1-127.1:03;
+			</section>
+			<section prefix="11">Procedures for releasing aggregate data, from which personal identifying data has been removed or redacted, to qualified persons for purposes of research, statistical analysis, and reporting; and
+			</section>
+			<section prefix="12">Procedures for the Commissioner of Health to access and release, as necessary, the data contained in VIIS in the event of an epidemic or an outbreak of any vaccine-preventable disease or the potential epidemic or epidemic of any disease of public health importance, public health significance, or public health threat for which a treatment or vaccine exists.
+				The Board's regulations shall also include any necessary definitions for the operation of VIIS; however, "health care entity," "health care plan," and "health care provider" shall be as defined in subsection B of § 32.1-127.1:03.
+			</section>
+		</section>
+		<section prefix="C">The establishment and implementation of VIIS is hereby declared to be a necessary public health activity to ensure the integrity of the health care system in Virginia and to prevent serious harm and serious threats to the health and safety of individuals and the public. Pursuant to the regulations concerning patient privacy promulgated by the federal Department of Health and Human Services, covered entities may disclose protected health information to the secure system established for VIIS without obtaining consent or authorization for such disclosure. Such protected health information shall be used exclusively for the purposes established in this section.
+		</section>
+		<section prefix="D">The Board and Commissioner of Health, any employees of the health department, any participant, and any person authorized to report or disclose immunization data hereunder shall be immune from civil liability in connection therewith unless such person acted with gross negligence or malicious intent.
+		</section>
+		<section prefix="E">This section shall not diminish the responsibility of any physician or other person to maintain accurate patient immunization data or the responsibility of any parent, guardian, or person standing in loco parentis to cause a child to be immunized in accordance with the provisions of § 32.1-46. Further, this section shall not be construed to require the immunization of any person who objects thereto on the grounds that the administration of immunizing agents conflicts with his religious tenets or practices, or any person for whom administration of immunizing agents would be detrimental to his health.
+		</section>
+		<section prefix="F">The Commissioner may authorize linkages between VIIS and other secure electronic databases that contain health records reported to the Department of Health, subject to all state and federal privacy laws and regulations. These health records may include newborn screening results reported pursuant to § 32.1-65, newborn hearing screening results reported pursuant to § 32.1-64.1, and blood-lead level screening results reported pursuant to § 32.1-46.1. Health care providers authorized to use VIIS may view the health records of individuals to whom the providers are providing health care services.
+		</section>
+	</text>
+	<history>2005, cc. 643, 684; 2012, c. 147; 2021, Sp. Sess. I, c. 211.</history>
+</law>

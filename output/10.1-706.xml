@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="7" level="3">Shoreline Erosion and Public Beach Preservation</unit>
+		<unit label="article" identifier="2" level="4">Public Beach Conservation and Development Act</unit>
+	</structure>
+	<section_number>10.1-706</section_number>
+	<catch_line>Duties of the Department</catch_line>
+	<text>
+		The Department shall:
+		<section prefix="1">Promote understanding of the value of public beaches and the causes and effects of erosion;
+		</section>
+		<section prefix="2">Make available information concerning erosion of public beaches;
+		</section>
+		<section prefix="3">Encourage research and development of new erosion control techniques and new sources of sand for public beach enhancement.
+		</section>
+	</text>
+	<history>1980, c. 428, § 10-216; 1984, c. 235; 1988, c. 891.</history>
+</law>

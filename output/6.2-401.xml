@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="4" level="3">Certain Lending Practices</unit>
+		<unit label="article" identifier="1" level="4">Late Charges and Rebates of Unearned Interest</unit>
+	</structure>
+	<section_number>6.2-401</section_number>
+	<catch_line>Acceleration clause in note evidencing installment loan; effect of acceleration</catch_line>
+	<text>
+		<section prefix="A">Any note or other contract evidencing an installment loan or other installment sales obligation with add-on interest may provide that the entire unpaid loan balance, at the option of the holder, shall become due and payable upon default in payment of any installment without impairing the negotiability of the note, if otherwise negotiable.
+		</section>
+		<section prefix="B">Upon such acceleration, the holder of the contract of indebtedness shall not be entitled to judgment for unearned interest, but the balance owing shall be computed as follows:
+			<section prefix="1">On loans payable in equal periodic installments with an initial maturity and corresponding amortization period not exceeding 61 months, the accelerated balance shall be calculated as if the borrower had made a voluntary prepayment and obtained as of the date of acceleration an interest credit based upon the Rule of 78 rebate method as defined in § 6.2-403; and
+			</section>
+			<section prefix="2">On other loans, the accelerated balance shall be calculated under a method at least as favorable to the borrower as the actuarial method.
+			</section>
+		</section>
+		<section prefix="C">The accelerated balance shall bear interest at the rate shown, or that should have been shown as the annual percentage rate under a truth in lending disclosure pursuant to federal law if the transaction was a consumer credit transaction.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.89; 1990, c. 338; 1991, cc. 171, 365; 2010, c. 794.</history>
+</law>

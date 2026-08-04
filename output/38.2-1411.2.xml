@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-1411.2</section_number>
+	<catch_line>Investment limits in medium grade and lower grade obligations</catch_line>
+	<text>
+		<section prefix="A">No domestic insurer shall acquire, directly or indirectly, any medium grade or lower grade obligations of any business entity if, after giving effect to any such acquisition, the aggregate amount of all medium grade and lower grade obligations then held by the domestic insurer would exceed twenty percent of its admitted assets, provided that:
+			<section prefix="1">No more than ten percent of its admitted assets consists of lower grade obligations;
+			</section>
+			<section prefix="2">No more than three percent of its admitted assets consists of lower grade obligations rated five or six by the Securities Valuation Office of the National Association of Insurance Commissioners; and
+			</section>
+			<section prefix="3">No more than one percent of its admitted assets consists of lower grade obligations rated six by the Securities Valuation Office of the National Association of Insurance Commissioners.
+				Attaining or exceeding the limit of any one category shall not preclude an insurer from acquiring obligations in other categories subject to the specific and multi-category limits.
+			</section>
+		</section>
+		<section prefix="B">No domestic insurer may invest more than an aggregate of one percent of its admitted assets in medium grade obligations issued, guaranteed or insured by any one business entity nor may it invest more than one-half of one percent of its admitted assets in lower grade obligations issued, guaranteed or insured by any one business entity. In no event may a domestic insurer invest more than one percent of its admitted assets in any medium or lower grade obligations issued, guaranteed or insured by any one business entity.
+		</section>
+		<section prefix="C">Nothing contained in this section shall prohibit a domestic insurer from acquiring any obligation which it has committed to acquire if the insurer would have been permitted to acquire that obligation pursuant to the provisions of this chapter on the date on which such insurer committed to purchase that obligation.
+		</section>
+		<section prefix="D">Notwithstanding the foregoing, a domestic insurer may acquire any obligation of a business entity in which the insurer already has one or more obligations, if the obligation is acquired in order to protect an investment previously made in the obligations of the business entity; however, all such acquired obligations shall not exceed one-half of one percent of the insured's admitted assets.
+		</section>
+		<section prefix="E">Nothing contained in this section shall prohibit a domestic insurer from acquiring any obligation as a result of a restructuring of any obligation already held.
+		</section>
+		<section prefix="F">Nothing contained in this section shall require a domestic insurer to sell or otherwise dispose of any obligations legally acquired prior to July 1, 1992.
+		</section>
+		<section prefix="G">The Board of Directors of any domestic insurer which acquires or invests, directly or indirectly, more than two percent of its admitted assets in medium grade or lower grade obligations of any individual business entity, shall adopt a written plan for the making of such investments. The plan shall contain, in addition to guidelines with respect to the quality of the issues invested in, diversification standards including, but not limited to, standards for issuer, industry, duration, liquidity and geographic location.
+		</section>
+		<section prefix="H">If the Commission finds that economic or other conditions render any rating of any obligation by the Securities Valuation Office of the National Association of Insurance Commissioners obsolete or unreflective of a diminished creditworthiness of the business entity issuing such obligations, the Commission may assign the obligations to a lower grade based on the findings of a national rating agency recognized by the Commission.
+		</section>
+	</text>
+	<history>1992, c. 588; 2000, c. 187.</history>
+</law>

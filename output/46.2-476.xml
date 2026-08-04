@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="17" level="4">Motor Vehicle Liability Insurance Policies</unit>
+	</structure>
+	<section_number>46.2-476</section_number>
+	<catch_line>Liability covered by workers' compensation law</catch_line>
+	<text>
+		Policies issued under this chapter shall not insure any liability of the employer on account of bodily injury to, or death of, an employee of the insured for which benefits are payable under any workers' compensation law.
+	</text>
+	<history>Code 1950, § 46-496; 1958, c. 541, § 46.1-508; 1989, c. 727.</history>
+</law>

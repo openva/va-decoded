@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="2" level="3">Formation and Terms</unit>
+	</structure>
+	<section_number>59.1-502.5</section_number>
+	<catch_line>Conditional offer or acceptance</catch_line>
+	<text>
+		<section prefix="a">In this section, an offer or acceptance is conditional if it is conditioned on agreement by the other party to all the terms of the offer or acceptance.
+		</section>
+		<section prefix="b">Except as otherwise provided in subsection (c), a conditional offer or acceptance precludes formation of a contract unless the other party agrees to its terms, such as by manifesting assent.
+		</section>
+		<section prefix="c">If an offer and acceptance are in standard forms and at least one form is conditional, the following rules apply:
+			<section prefix="1">Conditional language in a standard term precludes formation of a contract only if the actions of the party proposing the form are consistent with the conditional language, such as by refusing to perform, refusing to permit performance, or refusing to accept the benefits of the agreement, until its proposed terms are accepted.
+			</section>
+			<section prefix="2">A party that agrees, such as by manifesting assent, to a conditional offer that is effective under paragraph (1) adopts the terms of the offer under § 59.1-502.8 or § 59.1-502.9, except a term that conflicts with an expressly agreed term regarding price or quantity.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="4" level="3">Wills</unit>
+		<unit label="article" identifier="3" level="4">Construction and Effect</unit>
+	</structure>
+	<section_number>64.2-418</section_number>
+	<catch_line>When children or descendants of beneficiary to take estate or trust</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section, the terms "revocable," "settlor," "trust instrument," and "trustee" have the same meanings as provided in § 64.2-701.
+		</section>
+		<section prefix="B">Unless a contrary intention appears in the will or trust instrument, if a beneficiary, including a beneficiary under a class gift, is (i) a grandparent or a descendant of a grandparent of the testator or settlor and (ii) dead at the time of execution of the will or trust instrument or dead at the time of the testator's or settlor's death, the descendants of the deceased beneficiary who survive the testator or settlor take in the place of the deceased beneficiary. The portion of the testator's estate or the trust that the deceased beneficiary was to take shall be divided into as many equal shares as there are (a) surviving descendants in the closest degree of kinship to the deceased beneficiary and (b) deceased descendants, if any, in the same degree of kinship to the deceased beneficiary who left descendants surviving at the time of the testator's or settlor's death. One share shall pass to each such surviving descendant and one share shall pass per stirpes to such descendants of deceased descendants.
+		</section>
+		<section prefix="C">This section applies to trusts and trust provisions only to the extent the trust instrument or provision is revocable immediately before the settlor's death on or after July 1, 2018, and the beneficiary would have taken by reason of the settlor's death if the beneficiary survived the settlor.
+		</section>
+	</text>
+	<history>1985, c. 592, § 64.1-64.1; 2012, c. 614; 2018, c. 44.</history>
+</law>

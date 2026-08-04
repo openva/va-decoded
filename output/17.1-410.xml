@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="4" level="2">The Court of Appeals</unit>
+	</structure>
+	<section_number>17.1-410</section_number>
+	<catch_line>Disposition of appeals; finality of decisions</catch_line>
+	<text>
+		<section prefix="A">Each appeal of right taken to the Court of Appeals and each appeal for which a petition for appeal has been granted shall be considered by a panel of the court.
+			When the Court of Appeals has (i) dismissed an appeal in any case in accordance with the Rules of Court or (ii) decided an appeal, its decision shall be final, without appeal to the Supreme Court, in:
+			<section prefix="1">Appeals in criminal cases pursuant to subsections A or E of § 19.2-398 and § 19.2-401. Such finality of the Court of Appeals' decision shall not preclude a defendant, if he is convicted, from requesting the Court of Appeals or Supreme Court on direct appeal to reconsider an issue which was the subject of the pretrial appeal; and
+			</section>
+			<section prefix="2">Appeals involving involuntary treatment of prisoners pursuant to § 53.1-40.1 or 53.1-133.04.
+			</section>
+			<section prefix="3">Appeals involving denial of a concealed handgun permit pursuant to § 18.2-308.08.
+			</section>
+		</section>
+		<section prefix="B">All other decisions of the Court of Appeals shall be appealable to the Supreme Court in accordance with the provisions of § 17.1-411.
+		</section>
+	</text>
+	<history>1983, c. 413, § 17-116.07; 1984, c. 701; 1987, c. 710; 1988, c. 873; 1998, c. 872; 2000, c. 830; 2019, c. 809; 2021, Sp. Sess. I, c. 489.</history>
+</law>

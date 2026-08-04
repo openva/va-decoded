@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="25" level="3">License Tax on Certain Insurance Companies</unit>
+		<unit label="article" identifier="1" level="4">Levy</unit>
+	</structure>
+	<section_number>58.1-2501.1</section_number>
+	<catch_line>Premium tax; travel insurance</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Blanket travel insurance" has the same meaning ascribed thereto in § 38.2-1887.
+			"Primary certificate holder" has the same meaning ascribed thereto in § 38.2-1887.
+			"Primary policyholder" has the same meaning ascribed thereto in § 38.2-1887.
+			"Travel assistance services" has the same meaning ascribed thereto in § 38.2-1887.
+			"Travel insurance" has the same meaning ascribed thereto in § 38.2-1887.
+		</section>
+		<section prefix="B">A travel insurer shall pay premium tax as provided in § 58.1-2501 on travel insurance premiums paid by any of the following:
+			<section prefix="1">A primary policyholder who is a resident of the Commonwealth;
+			</section>
+			<section prefix="2">A primary certificate holder that is a resident of the Commonwealth; or
+			</section>
+			<section prefix="3">A blanket travel insurance policyholder that is a resident of the Commonwealth or that has its principal place of business or the principal place of business of an affiliate or subsidiary that has purchased blanket travel insurance in the Commonwealth for eligible blanket group members, subject to apportionment rules that apply to the insurer across multiple taxing jurisdictions or that permits the insurer to allocate premiums on an apportioned basis in a reasonable and equitable manner in those jurisdictions.
+			</section>
+		</section>
+		<section prefix="C">A travel insurer shall (i) document the state of residence or principal place of business of the primary policyholder or primary certificate holder and (ii) report as premium only the amount allocable to travel insurance and not any amounts received for travel assistance services or cancellation fee waivers.
+		</section>
+	</text>
+	<history>2019, cc. 266, 346.</history>
+</law>

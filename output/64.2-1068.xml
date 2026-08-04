@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="7" level="4">Allocation of Disbursements</unit>
+	</structure>
+	<section_number>64.2-1068</section_number>
+	<catch_line>Reimbursement of principal from income</catch_line>
+	<text>
+		<section prefix="A">If a fiduciary makes or expects to make a principal disbursement described in subsection B, the fiduciary may transfer an appropriate amount from income to principal in one or more accounting periods to reimburse principal or provide a reserve for future principal disbursements.
+		</section>
+		<section prefix="B">To the extent a fiduciary has not been and does not expect to be reimbursed by a third party, principal disbursements to which subsection A applies include:
+			<section prefix="1">An amount chargeable to income but paid from principal because income is not sufficient;
+			</section>
+			<section prefix="2">The cost of an improvement to principal, whether a change to an existing asset or the construction of a new asset, including a special assessment;
+			</section>
+			<section prefix="3">A disbursement made to prepare property for rental, including tenant allowances, leasehold improvements, and commissions;
+			</section>
+			<section prefix="4">A periodic payment on an obligation secured by a principal asset, to the extent the amount transferred from income to principal for depreciation is less than the periodic payment; and
+			</section>
+			<section prefix="5">A disbursement described in subsection A of § 64.2-1065.
+			</section>
+		</section>
+		<section prefix="C">If an asset whose ownership gives rise to a principal disbursement becomes subject to a successive interest after an income interest ends, the fiduciary may continue to make transfers under subsection A.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

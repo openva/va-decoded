@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="14" level="2">Presentments, Indictments and Informations</unit>
+		<unit label="article" identifier="1" level="3">Necessity for Indictment, Etc</unit>
+	</structure>
+	<section_number>19.2-218.2</section_number>
+	<catch_line>Hearing before juvenile and domestic relations district court required for persons accused of certain violations against their spouses</catch_line>
+	<text>
+		<section prefix="A">In any case involving a violation of § 18.2-61, 18.2-67.1, or 18.2-67.2 where the complaining witness is the spouse of the accused, where a preliminary hearing pursuant to § 19.2-218.1 has not been held prior to indictment or trial, the court shall refer the case to the appropriate juvenile and domestic relations district court for a hearing to determine whether counseling or therapy is appropriate prior to further disposition unless the hearing is waived in writing by the accused. The court conducting this hearing may order counseling or therapy for the accused in compliance with the guidelines set forth in § 19.2-218.1.
+		</section>
+		<section prefix="B">After such hearing pursuant to which the accused has completed counseling or therapy and upon the recommendation of the juvenile and domestic relations district court judge conducting the hearing, the judge of the circuit court may dismiss the charge with the consent of the attorney for the Commonwealth and if the court finds such action will promote maintenance of the family unit and be in the best interest of the complaining witness.
+		</section>
+	</text>
+	<history>1986, c. 516; 2005, c. 631.</history>
+</law>

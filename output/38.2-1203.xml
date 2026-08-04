@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="12" level="2">Reciprocal Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-1203</section_number>
+	<catch_line>What laws applicable to reciprocals; compliance with § 38.2-208</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided, all the provisions of this title relating to insurers generally, and those relating to insurers writing the same classes of insurance that reciprocals are permitted to write, are applicable to reciprocals.
+		</section>
+		<section prefix="B">A reciprocal shall be deemed to have complied with § 38.2-208 if:
+			<section prefix="1">It issues policies containing a contingent assessment liability as provided for in § 38.2-1212; and
+			</section>
+			<section prefix="2">It has and maintains reinsurance in an amount that the Commission considers adequate to reasonably limit the reciprocal's aggregate losses to the lesser of:
+				a. Ten percent of the surplus to policyholders of the reciprocal multiplied by the number of subscribers;
+				b. The surplus to policyholders of the reciprocal multiplied by three; or
+				c. Five million dollars.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 38-543; 1952, c. 317, § 38.1-691; 1977, c. 58; 1986, c. 562.</history>
+</law>

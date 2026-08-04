@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="6" level="2">The Election</unit>
+		<unit label="article" identifier="4" level="3">Conduct of Election; Election Results</unit>
+	</structure>
+	<section_number>24.2-673.1</section_number>
+	<catch_line>(Expires July 1, 2031) Ranked choice voting</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section:
+			"Ranked choice voting" means a method of casting and tabulating votes in which (i) voters rank candidates in order of preference, (ii) tabulation proceeds in rounds such that in each round either a candidate or candidates are elected or the last-place candidate is defeated, (iii) votes for voters' next-ranked candidates are transferred from elected or defeated candidates, and (iv) tabulation ends when the number of candidates elected equals the number of offices to be filled. "Ranked choice voting" is known as "instant runoff voting" when electing a single office and "single transferable vote" when electing multiple offices.
+			"Ranking" means the ordinal number assigned on a ballot by a voter to a candidate to express the voter's preference for that candidate. Ranking number one is the highest ranking, ranking number two is the next-highest ranking, and so on, consecutively, up to the number of candidates indicated on the ballot.
+		</section>
+		<section prefix="B">Elections of members of a county board of supervisors or a city council may be conducted by ranked choice voting pursuant to this section. The decision to conduct an election by ranked choice voting shall be made, in consultation with the local electoral board and general registrar, by a majority vote of the board of supervisors or city council that the office being elected serves.
+		</section>
+		<section prefix="C">The State Board may promulgate regulations for the proper and efficient administration of elections determined by ranked choice voting, including (i) procedures for tabulating votes in rounds, (ii) procedures for determining winners in elections for offices to which only one candidate is being elected and to which more than one candidate is being elected, and (iii) standards for ballots pursuant to § 24.2-613, notwithstanding the provisions of subsection E of that section.
+		</section>
+		<section prefix="D">The State Board may administer or prescribe standards for a voter outreach and public information program for use by any locality conducting ranked choice voting pursuant to this section.
+		</section>
+	</text>
+	<history>2020, c. 1054.</history>
+</law>

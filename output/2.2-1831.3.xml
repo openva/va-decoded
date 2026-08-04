@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="18" level="4">Department of the Treasury</unit>
+		<unit label="article" identifier="4.1" level="5">Revenue Reserve Fund</unit>
+	</structure>
+	<section_number>2.2-1831.3</section_number>
+	<catch_line>Commitment of funds for Revenue Reserve Fund</catch_line>
+	<text>
+		<section prefix="A">On or before November 1 of each year, the Auditor of Public Accounts shall report to the General Assembly the total general fund revenues collected in the most recently ended fiscal year. The Auditor of Public Accounts shall, at the same time, provide his report on the amount that could be paid into the Fund and the amount by which the amount in the Fund is less than the maximum amount permitted.
+		</section>
+		<section prefix="B">Whenever there is a fiscal year in which general fund revenues do not result in a mandatory deposit to the Revenue Stabilization Fund required by Article X, § 8 of the Constitution of Virginia, the Comptroller shall, at the end of the fiscal year, commit within his annual report pursuant to § 2.2-813 the amount of the general fund revenue in excess of the official forecast for that prior fiscal year, less any deposit to the Virginia Water Quality Improvement Fund pursuant to subsection A of § 10.1-2128, for deposit into the Fund. Such amount committed for deposit into the Fund shall not exceed one percent of the total general fund revenues for the prior fiscal year.
+		</section>
+		<section prefix="C">The Governor shall include in "The Budget Bill" pursuant to § 2.2-1509 recommended appropriations from the general fund or recommended amendments to general fund appropriations in the general appropriation act in effect at that time an amount for deposit into the Fund at least equal to the amounts committed by the Comptroller and confirmed by the Auditor of Public Accounts for such purposes pursuant to the provisions of subsection B. A schedule of deposits may be provided in the appropriation act.
+		</section>
+		<section prefix="D">The State Comptroller shall draw such warrants as appropriated, and the State Treasurer shall deposit such warrants into the Fund. No withdrawal shall be made from the Fund except in accordance with § 2.2-1831.4.
+		</section>
+		<section prefix="E">For the purposes of the Comptroller's preliminary and final annual reports as required by § 2.2-813, all balances remaining in the Fund on June 30 of each fiscal year shall be considered to be a portion of the fund balance of the general fund of the state treasury. However, if any amounts accrue, such as through interest or dividends, to the credit of the Fund in excess of the limitation calculated by the Auditor of Public Accounts as provided in subsection F, any excess shall be paid into the general fund either from the Fund or from the Revenue Stabilization Fund created pursuant to § 2.2-1828.
+		</section>
+		<section prefix="F">The combined amount in the Fund and the Revenue Stabilization Fund created pursuant to § 2.2-1828 shall not exceed 15 percent of the Commonwealth's average annual tax revenues derived from taxes on income and retail sales as certified by the Auditor of Public Accounts for the three fiscal years immediately preceding. However, the 15 percent maximum may be exceeded if the balance of the Fund does not exceed 10 percent of such revenues.
+		</section>
+	</text>
+	<history>2018, c. 827; 2019, c. 347; 2025, c. 635.</history>
+</law>

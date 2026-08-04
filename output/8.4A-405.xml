@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4A" level="1">Commercial Code — Funds Transfers</unit>
+		<unit label="part" identifier="4" level="2">Payment</unit>
+	</structure>
+	<section_number>8.4A-405</section_number>
+	<catch_line>Payment by beneficiary's bank to beneficiary</catch_line>
+	<text>
+		<section prefix="a">If the beneficiary's bank credits an account of the beneficiary of a payment order, payment of the bank's obligation under subsection (a) of § 8.4A-404 occurs when and to the extent (i) the beneficiary is notified of the right to withdraw the credit, (ii) the bank lawfully applies the credit to a debt of the beneficiary, or (iii) funds with respect to the order are otherwise made available to the beneficiary by the bank.
+		</section>
+		<section prefix="b">If the beneficiary's bank does not credit an account of the beneficiary of a payment order, the time when payment of the bank's obligation under subsection (a) of § 8.4A-404 occurs is governed by principles of law that determine when an obligation is satisfied.
+		</section>
+		<section prefix="c">Except as stated in subsections (d) and (e) of this section, if the beneficiary's bank pays the beneficiary of a payment order under a condition to payment or agreement of the beneficiary giving the bank the right to recover payment from the beneficiary if the bank does not receive payment of the order, the condition to payment or agreement is not enforceable.
+		</section>
+		<section prefix="d">A funds-transfer system rule may provide that payments made to beneficiaries of funds transfers made through the system are provisional until receipt of payment by the beneficiary's bank of the payment order is accepted. A beneficiary's bank that makes a payment that is provisional under the rule is entitled to refund from the beneficiary if (i) the rule requires that both the beneficiary and the originator be given notice of the provisional nature of the payment before the funds transfer is initiated, (ii) the beneficiary, the beneficiary's bank, and the originator's bank agreed to be bound by the rule, and (iii) the beneficiary's bank did not receive payment of the payment order that it accepted. If the beneficiary is obliged to refund payment to the beneficiary's bank, acceptance of the payment order by the beneficiary's bank is nullified and no payment by the originator of the funds transfer to the beneficiary occurs under § 8.4A-406.
+		</section>
+		<section prefix="e">This subsection applies to a funds transfer that includes a payment order transmitted over a funds-transfer system that (i) nets obligations multilaterally among participants, and (ii) has in effect a loss-sharing agreement among participants for the purpose of providing funds necessary to complete settlement of the obligations of one or more participants that do not meet their settlement obligations. If the beneficiary's bank in the funds transfer accepts a payment order and the system fails to complete settlement pursuant to its rules with respect to any payment order in the funds transfer, (i) the acceptance by the beneficiary's bank is nullified and no person has any right or obligation based on the acceptance, (ii) the beneficiary's bank is entitled to recover payment from the beneficiary, (iii) no payment by the originator to the beneficiary occurs under § 8.4A-406 and (iv) subject to subsection (e) of § 8.4A-402, each sender in the funds transfer is excused from its obligation to pay its payment order under subsection (c) of § 8.4A-402 because the funds transfer has not been completed.
+		</section>
+	</text>
+	<history>1990, c. 9.</history>
+</law>

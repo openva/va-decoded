@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="11" level="3">Amendment of Articles of Incorporation and Bylaws</unit>
+	</structure>
+	<section_number>13.1-708</section_number>
+	<catch_line>Voting on amendments by voting groups</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in the articles of incorporation, if a corporation has more than one class of shares outstanding, the holders of the outstanding shares of a class are entitled to vote as a separate voting group on a proposed amendment of the articles of incorporation if shareholder voting is otherwise required by this chapter and if the amendment would:
+			<section prefix="1">Effect an exchange or reclassification of all or part of the shares of the class into shares of another class;
+			</section>
+			<section prefix="2">Effect an exchange or reclassification, or create the right of exchange, of all or part of the shares of another class into shares of the class;
+			</section>
+			<section prefix="3">Change the rights, preferences, or limitations of all or part of the shares of the class, but such class shall not be entitled to vote as a separate voting group on an amendment increasing the number of authorized shares of a subordinate class solely because both such classes vote on some or all matters as a single voting group;
+			</section>
+			<section prefix="4">Change the shares of all or part of the class into a different number of shares of the same class;
+			</section>
+			<section prefix="5">Create a new class of shares or change a class of shares with subordinate and inferior rights into a class of shares, having rights or preferences with respect to distributions that are prior or superior to the shares of the class;
+			</section>
+			<section prefix="6">Increase the rights, preferences, or number of authorized shares of any class that after giving effect to the amendment, have rights or preferences with respect to distributions that are prior or superior to the shares of the class;
+			</section>
+			<section prefix="7">Limit or deny an existing preemptive right of all or part of the shares of the class; or
+			</section>
+			<section prefix="8">Cancel or otherwise affect rights to distributions that have accumulated but not yet been authorized on all or part of the shares of the class.
+			</section>
+		</section>
+		<section prefix="B">If a proposed amendment would affect a series of a class of shares in one or more of the ways described in subsection A, the holders of shares of that series are entitled to vote as a separate voting group on the proposed amendment.
+		</section>
+		<section prefix="C">If a proposed amendment that entitles the holders of two or more classes or series of shares to vote as separate voting groups under this section would affect those two or more classes or series in the same or a substantially similar way, the holders of shares of all the classes or series so affected shall vote together as a single voting group on the proposed amendment, unless otherwise provided in the articles of incorporation or added as a condition by the board of directors pursuant to subsection B of § 13.1-707.
+		</section>
+		<section prefix="D">Except as otherwise provided in the articles of incorporation, shares that are convertible into shares of another class or series shall not have any right, prior to conversion, to vote on any matter because it affects the class or series into which such shares are convertible.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-57; 1956, c. 428; 1975, c. 500; 1985, c. 522; 1996, c. 238; 1997, c. 400; 2005, c. 765; 2008, c. 91; 2019, c. 734.</history>
+</law>

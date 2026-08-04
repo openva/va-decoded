@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="7" level="4">Allocation of Disbursements</unit>
+	</structure>
+	<section_number>64.2-1064</section_number>
+	<catch_line>Disbursement from income</catch_line>
+	<text>
+		Subject to § 64.2-1067, and except as otherwise provided in subdivision C 2 or 3 of § 64.2-1071, a fiduciary shall disburse from income:
+		<section prefix="1">One-half of:
+			a. The regular compensation of the fiduciary and any person providing investment advisory, custodial, or other services to the fiduciary, to the extent income is sufficient; and
+			b. An expense for an accounting, judicial or nonjudicial proceeding, or other matter that involves both income and successive interests, to the extent income is sufficient;
+		</section>
+		<section prefix="2">The balance of the disbursements described in subdivision 1, to the extent a fiduciary that is an independent person determines that making those disbursements from income would be in the interests of the beneficiaries;
+		</section>
+		<section prefix="3">Another ordinary expense incurred in connection with administration, management, or preservation of property and distribution of income, including interest, an ordinary repair, regularly recurring tax assessed against principal, and an expense of an accounting, judicial or nonjudicial proceeding, or other matter that involves primarily an income interest, to the extent income is sufficient; and
+		</section>
+		<section prefix="4">A premium on insurance covering loss of a principal asset or income from or use of the asset.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="17" level="3">Miscellaneous Taxes</unit>
+		<unit label="article" identifier="12" level="4">Disposable Plastic Bag Tax</unit>
+	</structure>
+	<section_number>58.1-1746</section_number>
+	<catch_line>Exemptions</catch_line>
+	<text>
+		Any tax imposed pursuant to the provisions of this article shall not apply to the following:
+		<section prefix="1">Durable plastic bags with handles that are specifically designed and manufactured for multiple reuse and that are at least four mils thick;
+		</section>
+		<section prefix="2">Plastic bags that are solely used to wrap, contain, or package ice cream, meat, fish, poultry, produce, unwrapped bulk food items, or perishable food items in order to avoid damage or contamination;
+		</section>
+		<section prefix="3">Plastic bags used to carry dry cleaning or prescription drugs; and
+		</section>
+		<section prefix="4">Multiple plastic bags sold in packages and intended for use as garbage, pet waste, or leaf removal bags.
+		</section>
+	</text>
+	<history>2020, cc. 1022, 1023.</history>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="65" level="2">Virginia Health Benefit Exchange</unit>
+	</structure>
+	<section_number>38.2-6512</section_number>
+	<catch_line>Confidentiality</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any other provision of law, the records of the Exchange shall be open to public inspection, except that the following information shall not be subject to disclosure: (i) the names and applications of individuals and employers seeking coverage through the Exchange, (ii) individuals' health information, (iii) information exchanged between the Exchange and any other state agency that is subject to confidentiality agreements under contracts entered into with the Exchange, and (iv) communications covered by an applicable legal or other privilege or such internal communications related to the Exchange that are designated confidential in regulations promulgated by the Commission to implement the provisions of this chapter.
+		</section>
+		<section prefix="B">The Exchange may enter into information-sharing agreements with federal and state agencies and other states' health benefit exchanges to carry out its responsibilities under this chapter, provided that such agreements include adequate protections with respect to the confidentiality of the information to be shared and comply with all state and federal laws and regulations.
+		</section>
+	</text>
+	<history>2020, cc. 916, 917.</history>
+</law>

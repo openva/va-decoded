@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8" level="4">Duties and Powers of Trustee</unit>
+	</structure>
+	<section_number>64.2-764</section_number>
+	<catch_line>Duty of loyalty</catch_line>
+	<text>
+		<section prefix="A">A trustee shall administer the trust solely in the interests of the beneficiaries.
+		</section>
+		<section prefix="B">Subject to the rights of persons dealing with or assisting the trustee as provided in § 64.2-803, a sale, encumbrance, or other transaction involving the investment or management of trust property entered into by the trustee for the trustee's own personal account or that is otherwise affected by a conflict between the trustee's fiduciary and personal interests is voidable by a beneficiary affected by the transaction unless:
+			<section prefix="1">The transaction was authorized by the terms of the trust;
+			</section>
+			<section prefix="2">The transaction was approved by the court;
+			</section>
+			<section prefix="3">The beneficiary did not commence a judicial proceeding within the time allowed by § 64.2-796;
+			</section>
+			<section prefix="4">The beneficiary consented to the trustee's conduct, ratified the transaction, or released the trustee in compliance with § 64.2-800; or
+			</section>
+			<section prefix="5">The transaction involves a contract entered into or claim acquired by the trustee before the person became or contemplated becoming trustee.
+			</section>
+		</section>
+		<section prefix="C">A sale, encumbrance, or other transaction involving the investment or management of trust property is presumed to be affected by a conflict between personal and fiduciary interests if it is entered into by the trustee with:
+			<section prefix="1">The trustee's spouse;
+			</section>
+			<section prefix="2">The trustee's descendants, siblings, parents, or their spouses;
+			</section>
+			<section prefix="3">An agent or attorney of the trustee; or
+			</section>
+			<section prefix="4">A corporation or other person or enterprise in which the trustee, or a person that owns a significant interest in the trustee, has an interest that might affect the trustee's best judgment.
+			</section>
+		</section>
+		<section prefix="D">A transaction between a trustee and a beneficiary that does not concern trust property but that occurs during the existence of the trust or while the trustee retains significant influence over the beneficiary and from which the trustee obtains an advantage beyond the normal commercial advantage from such transaction is voidable by the beneficiary unless the trustee establishes that the transaction was fair to the beneficiary.
+		</section>
+		<section prefix="E">A transaction not concerning trust property in which the trustee engages in the trustee's individual capacity involves a conflict between personal and fiduciary interests if the transaction concerns an opportunity properly belonging to the trust.
+		</section>
+		<section prefix="F">An investment by a trustee in securities of an investment company, investment trust, mutual fund, or other investment or financial product to which the trustee, or an affiliate of the trustee, sponsors, sells, or provides services in a capacity other than as trustee is not presumed to be affected by a conflict between personal and fiduciary interests if the investment otherwise complies with the Uniform Prudent Investor Act (§ 64.2-780 et seq.) and § 64.2-1506. The trustee may be compensated by the investment company, investment trust, mutual fund, or other investment or financial product, or by the affiliated entity sponsoring, selling, or providing such service, and such compensation may be in addition to the compensation the trustee is receiving as a trustee if the trustee notifies the persons entitled to receive a copy of the trustee's annual report under § 64.2-775 of the rate and method by which that compensation was determined and of any subsequent changes to such rate or method of compensation.
+		</section>
+		<section prefix="G">In voting shares of stock or in exercising powers of control over similar interests in other forms of enterprise, the trustee shall act in the best interests of the beneficiaries. If the trust is the sole owner of a corporation or other form of enterprise, the trustee shall elect or appoint directors or other managers who will manage the corporation or enterprise in the best interests of the beneficiaries.
+		</section>
+		<section prefix="H">This section does not preclude the following transactions, if fair to the beneficiaries:
+			<section prefix="1">An agreement between a trustee and a beneficiary relating to the appointment or compensation of the trustee;
+			</section>
+			<section prefix="2">Payment of reasonable compensation to the trustee;
+			</section>
+			<section prefix="3">A transaction between a trust and another trust, decedent's estate, or conservatorship of which the trustee is a fiduciary or in which a beneficiary has an interest;
+			</section>
+			<section prefix="4">A deposit of trust money in a regulated financial service institution operated by the trustee; or
+			</section>
+			<section prefix="5">An advance by the trustee of money for the protection of the trust.
+			</section>
+		</section>
+		<section prefix="I">The court may appoint a special fiduciary to make a decision with respect to any proposed transaction that might violate this section if entered into by the trustee.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-548.02; 2012, c. 614.</history>
+</law>

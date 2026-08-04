@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="2.1" level="4">Virginia Landfill Clean-up and Closure Fund</unit>
+	</structure>
+	<section_number>10.1-1413.3</section_number>
+	<catch_line>Testing private wells and public water supply wells near coal ash ponds; resident notification</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section:
+			"Coal ash pond" means any natural topographic depression, man-made excavation, or diked area that (i) is designed to hold an accumulation of coal combustion residuals and liquids; (ii) treats, stores, or disposes of coal combustion residuals; and (iii) is located in the Chesapeake Bay watershed at the Bremo Power Station in Fluvanna County, Chesapeake Energy Center in the City of Chesapeake, Chesterfield Power Station in Chesterfield County, or Possum Point Power Station in Prince William County.
+			"Utility" means the owner or operator of a coal ash pond.
+		</section>
+		<section prefix="B">No later than October 1, 2020, each utility shall submit to the Department a complete survey identifying all private wells and public water supply wells within 1.5 miles of any coal ash pond boundary. The utility shall use reasonable efforts to determine the locations of all such wells within 1.5 miles of the coal ash pond boundary and shall not rely solely on records maintained by the Virginia Department of Health or other public records. Such reasonable efforts shall include the distribution of notices that explain the purpose of the survey to each landowner. The utility shall distribute such notices through the United States mail to the owner of each parcel of land any part of which is located within 1.5 miles of a coal ash pond boundary and shall post a notice in at least one newspaper of general circulation in the locality.
+		</section>
+	</text>
+	<history>2020, c. 625.</history>
+</law>

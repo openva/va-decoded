@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="6" level="3">Transfers Without Qualification</unit>
+		<unit label="article" identifier="3" level="4">Uniform Transfers on Death (Tod) Security Registration Act</unit>
+	</structure>
+	<section_number>64.2-613</section_number>
+	<catch_line>Registration in beneficiary form; sole or joint tenancy ownership; applicable law</catch_line>
+	<text>
+		<section prefix="A">Only individuals whose registration of a security shows sole ownership by one individual or multiple ownership by two or more with right of survivorship, rather than as tenants in common, may obtain registration in beneficiary form. Multiple owners of a security registered in beneficiary form hold as joint tenants with right of survivorship, as tenants by the entireties, or as owners of community property held in survivorship form, and not as tenants in common.
+		</section>
+		<section prefix="B">A security may be registered in beneficiary form if the form is authorized by this article or a similar law of the state of organization of the issuer or registering entity, the location of the registering entity's principal office, the office of its transfer agent, or its office making the registration, or by a similar law of the state listed as the owner's address at the time of registration.
+			A registration governed by the law of a jurisdiction in which this article or a similar law is not in force or was not in force when a registration in beneficiary form was made is nevertheless presumed to be valid and authorized as a matter of contract law.
+		</section>
+	</text>
+	<history>1994, c. 422, § 64.1-206.2; 2012, c. 614.</history>
+</law>

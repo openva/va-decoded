@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="14" level="3">Foreign Corporations</unit>
+	</structure>
+	<section_number>13.1-928.2</section_number>
+	<catch_line>Entity conversion of foreign corporation authorized to transact business in Commonwealth</catch_line>
+	<text>
+		<section prefix="A">Whenever a foreign corporation that is authorized to transact business in the Commonwealth converts to another type of entity, the surviving or resulting entity shall, within 30 days after such entity conversion becomes effective, file with the Commission a copy of the instrument of entity conversion duly authenticated by the Secretary of State or other official having custody of corporate records in the state or other jurisdiction under whose laws such entity conversion was effected; and
+			<section prefix="1">If the surviving or resulting entity is not continuing to transact business in the Commonwealth or is not a foreign limited liability company, business trust, limited partnership, or registered limited liability partnership, then, within 30 days after such entity conversion, it shall comply on behalf of the predecessor corporation with the provisions of § 13.1-929; or
+			</section>
+			<section prefix="2">If the surviving or resulting entity is a foreign limited liability company, business trust, limited partnership, or registered limited liability partnership and is to continue to transact business in the Commonwealth, then, within such 30 days, it shall deliver to the Commission an application for a certificate of registration to transact business in the Commonwealth or, in the case of a foreign registered limited liability partnership, a statement of registration.
+			</section>
+		</section>
+		<section prefix="B">Upon the entity conversion of a foreign corporation that is authorized to transact business in the Commonwealth, all property in the Commonwealth owned by the foreign corporation shall pass to the surviving or resulting entity except as otherwise provided by the laws of the state or other jurisdiction by which it is governed, but only from and after the time when a duly authenticated copy of the instrument of entity conversion is filed with the Commission.
+		</section>
+	</text>
+	<history>2004, c. 274.</history>
+</law>

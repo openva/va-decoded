@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="1.1" level="3">Ratification of Defective Corporate Actions</unit>
+	</structure>
+	<section_number>13.1-614.6</section_number>
+	<catch_line>Effect of ratification</catch_line>
+	<text>
+		From and after the validation effective time, and without regard to the 120-day period during which a claim may be brought under § 13.1-614.8:
+		<section prefix="1">Each defective corporate action ratified in accordance with § 13.1-614.3 shall not be void or voidable as a result of the failure of authorization identified in the action taken under subsection A or B of § 13.1-614.3 and shall be deemed a valid corporate action effective as of the date of the defective corporate action;
+		</section>
+		<section prefix="2">The issuance of each putative share or fraction of a putative share purportedly issued pursuant to a defective corporate action identified in the action taken under § 13.1-614.3 shall not be void or voidable, and each such putative share or fraction of a putative share shall be deemed to be an identical share or fraction of a valid share as of the time it was purportedly issued; and
+		</section>
+		<section prefix="3">Any corporate action taken subsequent to the defective corporate action ratified in accordance with this article in reliance on such defective corporate action having been validly effected and any subsequent defective corporate action resulting directly or indirectly from such original defective corporate action shall be valid as of the time taken.
+		</section>
+	</text>
+	<history>2019, c. 734.</history>
+</law>

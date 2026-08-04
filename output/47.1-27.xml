@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="47.1" level="1">Notaries and Out-Of-State Commissioners</unit>
+		<unit label="chapter" identifier="6" level="2">Civil and Criminal Liability</unit>
+	</structure>
+	<section_number>47.1-27</section_number>
+	<catch_line>Civil liability of employer of notary</catch_line>
+	<text>
+		The employer of a notary public shall also be liable for all damages proximately caused by the official misconduct by such notary if:
+		<section prefix="1">The notary public was acting within the scope of his employment at the time such damages were caused; and
+		</section>
+		<section prefix="2">The employer had actual knowledge of, or reasonably should have known of, such notary's misconduct.
+		</section>
+	</text>
+	<history>1980, c. 580.</history>
+</law>

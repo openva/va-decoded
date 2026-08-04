@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="7" level="3">Partner's Dissociation When Business Not Wound up</unit>
+	</structure>
+	<section_number>50-73.115</section_number>
+	<catch_line>Statement of dissociation</catch_line>
+	<text>
+		<section prefix="A">A dissociated partner named as a partner in a filed statement of partnership authority or in a list maintained by an agent pursuant to subsection B of § 50-73.93 or a partnership that has filed a statement of partnership authority that has not been canceled may file a statement of dissociation stating the name of the partnership, the identification number issued by the Commission to the partnership, and that the partner is dissociated from the partnership.
+		</section>
+		<section prefix="B">A statement of dissociation is a limitation on the authority of a dissociated partner for the purposes of subsections D and E of § 50-73.93.
+		</section>
+		<section prefix="C">For the purposes of subdivision A 3 of § 50-73.113 and subdivision B 3 of § 50-73.114, a person not a partner is deemed to have notice of the dissociation 90 days after the statement of dissociation is filed.
+		</section>
+	</text>
+	<history>1996, c. 292; 2003, c. 567.</history>
+</law>

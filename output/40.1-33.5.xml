@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3" level="2">Protection of Employees</unit>
+		<unit label="article" identifier="2.1" level="3">Paid Sick Leave</unit>
+	</structure>
+	<section_number>40.1-33.5</section_number>
+	<catch_line>Use of paid sick leave</catch_line>
+	<text>
+		<section prefix="A">Paid sick leave shall be provided to an employee by an employer for:
+			<section prefix="1">An employee's mental or physical illness, injury, or health condition; an employee's need for medical diagnosis, care, or treatment of a mental or physical illness, injury, or health condition; or an employee's need for preventive medical care; or
+			</section>
+			<section prefix="2">Care of a family member with a mental or physical illness, injury, or health condition; care of a family member who needs medical diagnosis, care, or treatment of a mental or physical illness, injury, or health condition; or care of a family member who needs preventive medical care.
+			</section>
+		</section>
+		<section prefix="B">Paid sick leave shall be provided upon the request of an employee. Such request may be made orally, in writing, by electronic means, or by any other means acceptable to the employer. When possible, the request shall include the expected duration of the absence.
+		</section>
+		<section prefix="C">When the use of paid sick leave is foreseeable, the employee shall make a good faith effort to provide notice of the need for such leave to the employer in advance of the use of the paid sick leave and shall make a reasonable effort to schedule the use of paid sick leave in a manner that does not unduly disrupt the operations of the employer.
+		</section>
+		<section prefix="D">An employer that requires notice of the need to use paid sick leave shall provide a written policy that contains procedures for its employees to provide notice. An employer that has not provided to an employee a copy of its written policy for providing such notice shall not deny paid sick leave to the employee based on noncompliance with such a policy.
+		</section>
+		<section prefix="E">An employer shall not require, as a condition of an employee's taking paid sick leave, that an employee search for or find a replacement worker to cover the hours during which the employee is using paid sick leave. An employer shall not require an employee to work an alternate shift to make up for the use of sick leave.
+		</section>
+		<section prefix="F">For paid sick leave of three or more consecutive work days, an employer may require reasonable documentation that the paid sick leave has been used for a purpose for which such leave is required to be provided as set forth in subsection A.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 449.</history>
+</law>

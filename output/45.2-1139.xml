@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="III" level="2">Mineral Mines</unit>
+		<unit label="part" identifier="A" level="3">Mineral Mines Generally</unit>
+		<unit label="chapter" identifier="11" level="4">Mineral Mine Safety Act</unit>
+		<unit label="article" identifier="5" level="5">Mine Rescue Teams</unit>
+	</structure>
+	<section_number>45.2-1139</section_number>
+	<catch_line> Requirements of recovery work</catch_line>
+	<text>
+		<section prefix="A">During recovery work and prior to entering any mine, each mine rescue team conducting recovery work shall be properly informed of existing conditions by the operator or his agent in charge.
+		</section>
+		<section prefix="B">Each mine rescue team performing rescue or recovery work with breathing apparatus shall be provided with a backup team of equal strength, stationed at each fresh air base.
+		</section>
+		<section prefix="C">For every two teams performing work underground, one six-member team shall be stationed at the mine portal.
+		</section>
+		<section prefix="D">Two-way communication, life lines, or their equivalent shall be provided by the fresh air base to each team, and no team member shall be permitted to advance beyond such communication system.
+		</section>
+		<section prefix="E">A mine rescue team shall immediately return to the fresh air base if any team member's breathing apparatus malfunctions or the low-oxygen alarm activates.
+		</section>
+		<section prefix="F">The Director may also assign rescue and recovery work to inspectors, instructors, or other qualified employees of the Department as the Director determines to be desirable.
+		</section>
+	</text>
+	<history>1997, c. 390, § 45.1-161.292:45; 2021, Sp. Sess. I, c. 387.</history>
+</law>

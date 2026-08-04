@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="2" level="2">Parties</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>8.01-6.2</section_number>
+	<catch_line>Amendment of pleading; relation back to original pleading; confusion in trade name</catch_line>
+	<text>
+		<section prefix="A">A pleading which states a claim against a party whose trade name or corporate name is substantially similar to the trade name or corporate name of another entity may be amended at any time by inserting the correct party's name, if such party or its agent had actual notice of the claim prior to the expiration of the statute of limitations for filing the claim.
+		</section>
+		<section prefix="B">In the event that suit is filed against the estate of a decedent, and filed within the applicable statute of limitations, naming the proper name of estate of the deceased and service is effected or attempted on an individual or individuals as executor, administrator or other officers of the estate, such filing tolls the statute of limitations for said claim in the event the executor, administrator or other officers of the estate are unable to legally receive service at the time service was attempted, or defend suit because their authority as executor, administrator or other officer of the estate excludes defending said actions, or their duties as executor, administrator or other officer of the estate had expired at the time of service or during the time of defending said action.
+		</section>
+	</text>
+	<history>1999, c. 686.</history>
+</law>

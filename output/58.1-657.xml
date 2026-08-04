@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="6.2" level="3">Virginia Communications Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-657</section_number>
+	<catch_line>Sales presumed subject to tax; exemption certificates; Internet access service providers</catch_line>
+	<text>
+		<section prefix="A">All sales are subject to the tax until the contrary is established. The burden of proving that a sale of communications services is not taxable is upon the communications services provider unless he takes from the taxpayer a certificate to the effect that the service is exempt under this chapter.
+		</section>
+		<section prefix="B">The exemption certificate mentioned in this section shall relieve the person who obtains such a certificate from any liability for the payment or collection of the tax, except upon notice from the Tax Commissioner that the certificate is no longer acceptable. The exemption certificate shall be signed, manually or electronically, by and bear the name and address of the taxpayer; shall indicate the number of the certificate of registration, if any, issued to the taxpayer; shall indicate the general character of the communications services sold or to be sold under a blanket exemption certificate; and shall be substantially in the form as the Tax Commissioner may prescribe.
+		</section>
+		<section prefix="C">In the case of a provider of Internet access service that purchases a telecommunications service to provide Internet access, the Internet access provider shall give the communications service provider a certificate of use containing its name, address and signature, manually or electronically, of an officer of the Internet access service provider. The certificate of use shall state that the purchase of telecommunications service is being made in its capacity as a provider of Internet access in order to provide such access. Upon receipt of the certificate of use, the communications service provider shall be relieved of any liability for the communications sales and use tax related to the sale of telecommunications service to the Internet access service provider named in the certificate. In the event the provider of Internet access uses the telecommunications service for any taxable purpose, that provider shall be liable for and pay the communications sales and use tax directly to the Commonwealth in accordance with § 58.1-658.
+		</section>
+		<section prefix="D">If a taxpayer who holds a certificate under this section and makes any use of the service other than an exempt use or retention, demonstration, or display while holding the communications service for resale in the regular course of business, such use shall be deemed a taxable sale by the taxpayer as of the time the service is first used by him, and the cost of the property to him shall be deemed the sales price of such retail sale.
+		</section>
+	</text>
+	<history>2006, c. 780.</history>
+</law>

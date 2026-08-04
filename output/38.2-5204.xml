@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="52" level="2">Long-Term Care Insurance</unit>
+	</structure>
+	<section_number>38.2-5204</section_number>
+	<catch_line>Preexisting conditions</catch_line>
+	<text>
+		<section prefix="A">No long-term care insurance policy or certificate shall use a definition of "preexisting condition" which is more restrictive than the following: "preexisting condition" means the existence of symptoms which would cause an ordinary prudent person to seek diagnosis, care or treatment, or a condition for which medical advice or treatment was recommended by, or received from a provider of health care services, within six months preceding the effective date of coverage of an insured person.
+		</section>
+		<section prefix="B">No long-term care insurance policy may exclude coverage for a loss or confinement which is the result of a preexisting condition for a period of confinement longer than six months following the effective date of coverage of an insured person.
+		</section>
+		<section prefix="C">The Commission may extend the limitation periods set forth in subsections A and B of this section as to specific age group categories or specific policy forms upon findings that the extension is in the best interest of the public.
+		</section>
+		<section prefix="D">The definition of "preexisting condition" does not prohibit an insurer from using an application form designed to elicit the complete health history of an applicant, and, on the basis of the answers on that application, underwriting in accordance with that insurer's established underwriting standards for long-term care insurance policies. Unless otherwise provided in the policy or certificate, a preexisting condition, regardless of whether it is disclosed on the application, need not be covered until the waiting period described in subsection A or B expires. No long-term care insurance policy or certificate may exclude or use waivers or riders of any kind to exclude, limit, or reduce coverage or benefits for specifically named or described preexisting diseases or physical conditions beyond the waiting period described in subsection A or B.
+		</section>
+	</text>
+	<history>1987, c. 586; 1990, c. 285.</history>
+</law>

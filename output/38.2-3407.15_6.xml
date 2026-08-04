@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3407.15:6</section_number>
+	<catch_line>Prescription drug price transparency</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Carrier" has the same meaning as set forth in § 38.2-3407.10.
+			"Health benefit plan" has the same meaning as set forth in § 38.2-3438.
+			"Manufacturer" has the same meaning as set forth in § 54.1-3401.
+			"Nonprofit data services organization" has the same meaning as set forth in § 32.1-23.4.
+			"Pharmacy benefits management" has the same meaning as set forth in § 38.2-3407.15:4.
+			"Pharmacy benefits manager" has the same meaning as set forth in § 38.2-3407.15:4.
+			"Pharmacy services administrative organization" has the same meaning as set forth in § 32.1-23.4.
+		</section>
+		<section prefix="B">Every carrier offering a health benefit plan shall report annually by April 1 to the nonprofit data services organization with which the Department of Health has entered into a contract or agreement pursuant to § 32.1-23.4 the following information on spending on prescription drugs in total, before enrollee cost sharing, for each health benefit plan offered by the carrier in the Commonwealth:
+			<section prefix="1">For covered outpatient prescription drugs that were prescribed to enrollees during the calendar year, the names of (i) the 25 most frequently prescribed outpatient prescription drugs, (ii) the names of the 25 outpatient prescription drugs covered at the greatest cost, calculated using the total annual spending by such health benefit plan for each outpatient prescription drug covered by the health benefit plan; and (iii) the 25 outpatient prescription drugs that experienced the greatest year-over-year increase in cost, calculated using the total annual spending by such health benefit plan for each outpatient prescription drug covered by the health benefit plan;
+			</section>
+			<section prefix="2">The percent increase in annual net spending for prescription drugs after accounting for aggregated rebates, discounts, or other reductions in price;
+			</section>
+			<section prefix="3">The percent increase in premiums that were attributable to each health care service, including prescription drugs;
+			</section>
+			<section prefix="4">The percentage of specialty drugs with utilization management requirements; and
+			</section>
+			<section prefix="5">The premium reductions that were attributable to specialty drug utilization management.
+			</section>
+		</section>
+		<section prefix="C">A report submitted by a carrier pursuant to this section shall not disclose the identity of a specific health benefit plan or the price charged for a specific prescription drug or class of prescription drugs.
+		</section>
+		<section prefix="D">Every carrier offering a health benefit plan shall require each pharmacy benefits manager with which it enters into a contract for pharmacy benefits management to report annually by April 1 to the nonprofit data services organization with which the Department has entered into a contract or agreement pursuant to § 32.1-23.2 the following information for each drug specified by the Department of Health:
+			<section prefix="1">The aggregate amount of rebates received by the pharmacy benefits manager;
+			</section>
+			<section prefix="2">The aggregate amount of rebates distributed to the relevant health benefit plan; and
+			</section>
+			<section prefix="3">The aggregate amount of rebates passed on to enrollees of each health benefit plan at the point of sale that reduced the enrollees' applicable deductible, copayment, coinsurance, or other cost-sharing amount.
+			</section>
+		</section>
+		<section prefix="E">A pharmacy services administrative organization shall, to the extent allowed by law, submit a report annually by April 1 to the nonprofit data services organization with which the Department has entered into a contract or agreement pursuant to § 32.1-23.4. Such report shall include the following information for each prescription drug specified by the Department of Health:
+			<section prefix="1">The negotiated reimbursement rate that the pharmacy services administrative organization pays pharmacies for brand, generic, and specialty drugs for each pharmacy benefits manager's pharmacy network;
+			</section>
+			<section prefix="2">The negotiated reimbursement rate that the pharmacy benefits manager pays the pharmacy services administrative organization for brand, generic, and specialty drugs for each pharmacy benefits manager's pharmacy network; and
+			</section>
+			<section prefix="3">The schedule of fees charged by the organization to pharmacies.
+				A pharmacy services administrative organization that solely generates revenue from charging flat service fees to pharmacies and does not charge pharmacies for services based on prescription drug prices or volume shall be exempt from the reporting requirements of this section.
+			</section>
+		</section>
+		<section prefix="F">A report submitted by a pharmacy benefits manager or pharmacy services administrative organization pursuant to subsection D or E shall not disclose the identity of a specific health benefit plan or covered person, the price charged for a specific prescription drug or class of prescription drugs, or the amount of any rebate or fee provided for a specific prescription drug or class of prescription drugs.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 304; 2025, c. 269.</history>
+</law>

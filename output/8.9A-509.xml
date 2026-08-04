@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="5" level="2">Filing</unit>
+		<unit label="subpart" identifier="1" level="3">Filing Office, Contents and Effectiveness of Financing Statement</unit>
+	</structure>
+	<section_number>8.9A-509</section_number>
+	<catch_line>Persons entitled to file a record</catch_line>
+	<text>
+		<section prefix="a">Person entitled to file record. A person may file an initial financing statement, amendment that adds collateral covered by a financing statement, or amendment that adds a debtor to a financing statement only if:
+			<section prefix="1">the debtor authorizes the filing in a signed record or pursuant to subsection (b) or (c); or
+			</section>
+			<section prefix="2">the person holds an agricultural lien that has become effective at the time of filing and the financing statement covers only collateral in which the person holds an agricultural lien.
+			</section>
+		</section>
+		<section prefix="b">Security agreement as authorization. By signing or becoming bound as debtor by a security agreement, a debtor or new debtor authorizes the filing of an initial financing statement, and an amendment, covering:
+			<section prefix="1">the collateral described in the security agreement; and
+			</section>
+			<section prefix="2">property that becomes collateral under § 8.9A-315 (a) (2), whether or not the security agreement expressly covers proceeds.
+			</section>
+		</section>
+		<section prefix="c">Acquisition of collateral as authorization. By acquiring collateral in which a security interest or agricultural lien continues under § 8.9A-315 (a) (1), a debtor authorizes the filing of an initial financing statement, and an amendment, covering the collateral and property that becomes collateral under § 8.9A-315 (a) (2).
+		</section>
+		<section prefix="d">Person entitled to file certain amendments. A person may file an amendment other than an amendment that adds collateral covered by a financing statement or an amendment that adds a debtor to a financing statement only if:
+			<section prefix="1">the secured party of record authorizes the filing; or
+			</section>
+			<section prefix="2">the amendment is a termination statement for a financing statement as to which the secured party of record has failed to file or send a termination statement as required by § 8.9A-513 (a) or (c), the debtor authorizes the filing, and the termination statement indicates that the debtor authorized it to be filed.
+			</section>
+		</section>
+		<section prefix="e">Multiple secured parties of record. If there is more than one secured party of record for a financing statement, each secured party of record may authorize the filing of an amendment under subsection (d).
+		</section>
+	</text>
+	<history>2000, c. 1007; 2024, c. 652.</history>
+</law>

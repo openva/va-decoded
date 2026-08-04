@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="6" level="3">Flood Protection and Dam Safety</unit>
+		<unit label="article" identifier="2" level="4">Dam Safety Act</unit>
+	</structure>
+	<section_number>10.1-612.1</section_number>
+	<catch_line>Temporary stop work order; hearing; injunctive relief</catch_line>
+	<text>
+		<section prefix="A">The Director may issue a temporary stop work order on a construction or alteration project if he finds that an owner is constructing or altering a dam without having first obtained the necessary certificate of approval, or if the activities are not in accordance with approved plans and specifications. The order shall include written notice to the owner of the date, time, and location where the owner may appear at a hearing before the Board or a designated member thereof pursuant to § 2.2-4019 to show cause why the temporary order should be vacated. The hearing shall be held within 30 calendar days of the date of the order, unless the owner consents to a longer period.
+		</section>
+		<section prefix="B">Following the hearing, the Board may affirm or cancel the temporary order and may issue a final order directing that immediate steps be taken to abate or ameliorate any harm or damage arising from the violation. The owner may seek judicial review of the final decision of the Board pursuant to the provisions of the Administrative Process Act (§ 2.2-4000 et seq.).
+		</section>
+		<section prefix="C">If the violation continues after the Board has issued a final decision and order pursuant to subsection B or a temporary order issued by the Director pursuant to subsection A, the Board may apply for an injunction from the appropriate court. A decision to seek injunctive relief does not preclude other forms of relief, enforcement, or penalties against the owner.
+		</section>
+	</text>
+	<history>2006, c. 30; 2025, cc. 228, 241.</history>
+</law>

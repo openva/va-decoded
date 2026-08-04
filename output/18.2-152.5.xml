@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="7.1" level="3">Computer Crimes</unit>
+	</structure>
+	<section_number>18.2-152.5</section_number>
+	<catch_line>Computer invasion of privacy; penalties</catch_line>
+	<text>
+		<section prefix="A">A person is guilty of the crime of computer invasion of privacy when he uses a computer or computer network and intentionally examines without authority any employment, salary, credit or any other financial or identifying information, as defined in clauses (iii) through (xiii) of subsection C of § 18.2-186.3, relating to any other person. "Examination" under this section requires the offender to review the information relating to any other person after the time at which the offender knows or should know that he is without authority to view the information displayed.
+		</section>
+		<section prefix="B">The crime of computer invasion of privacy shall be punishable as a Class 1 misdemeanor.
+		</section>
+		<section prefix="C">Any person who violates this section after having been previously convicted of a violation of this section or any substantially similar laws of any other state or of the United States is guilty of a Class 6 felony.
+		</section>
+		<section prefix="D">Any person who violates this section and sells or distributes such information to another is guilty of a Class 6 felony.
+		</section>
+		<section prefix="E">Any person who violates this section and uses such information in the commission of another crime is guilty of a Class 6 felony.
+		</section>
+		<section prefix="F">This section shall not apply to any person collecting information that is reasonably needed to (i) protect the security of a computer, computer service, or computer business, or to facilitate diagnostics or repair in connection with such computer, computer service, or computer business or (ii) determine whether the computer user is licensed or authorized to use specific computer software or a specific computer service.
+		</section>
+	</text>
+	<history>1984, c. 751; 1985, c. 398; 2001, c. 358; 2005, cc. 747, 761, 827, 837.</history>
+</law>

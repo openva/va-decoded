@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="B" level="3">Powers of Attorney</unit>
+		<unit label="chapter" identifier="16" level="4">Uniform Power of Attorney Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>64.2-1606</section_number>
+	<catch_line>Nomination of conservator or guardian; relation of agent to court-appointed fiduciary</catch_line>
+	<text>
+		<section prefix="A">In a power of attorney, a principal may nominate a conservator or guardian of the principal's estate or guardian of the principal's person for consideration by the court if protective proceedings for the principal's estate or person are begun after the principal executes the power of attorney.
+		</section>
+		<section prefix="B">If, after a principal executes a power of attorney, a court appoints a conservator or guardian of the principal's estate or other fiduciary charged with the management of some or all of the principal's property, the agent is accountable to the fiduciary as well as to the principal. The power of attorney is not terminated and the agent's authority continues unless limited, suspended, or terminated by the court.
+		</section>
+	</text>
+	<history>2010, cc. 455, 632, § 26-79; 2012, c. 614.</history>
+</law>

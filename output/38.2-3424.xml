@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="3" level="3">Jurisdiction Over Providers of Health Care Services</unit>
+	</structure>
+	<section_number>38.2-3424</section_number>
+	<catch_line>Disclosure of extent and elements of coverage</catch_line>
+	<text>
+		<section prefix="A">Any agent, agency, administrator, or other person that advertises, sells, transacts, or administers coverage for health care services in this Commonwealth where that coverage is provided by any person subject to the provisions of this article shall inform any purchaser, prospective purchaser, or covered person of (i) the lack of insurance or other coverage, unless that coverage is fully insured or otherwise fully covered by an admitted life insurer, accident and sickness insurer, health services plan, dental or optometric services plan, or health maintenance organization and (ii) if the coverage is fully insured or otherwise fully covered, the terms, coverages, limits, and deductibles including the amount of "stop-loss" insurance in effect.
+		</section>
+		<section prefix="B">No person, including an administrator, insurer, agent, or affiliate of an insurer shall make, publish, disseminate, circulate, or place before the public, or cause, directly or indirectly, to be made, published, disseminated, circulated, or placed before the public, in any newspaper, magazine or other publication, or in the form of a notice, circular, pamphlet, letter or poster, or over any radio station or television station, or in any other way, any advertisement, announcement, or statement soliciting membership, offering coverage, or evidencing coverage in any health care plan or arrangement which is subject to regulation by the Commission under this article and not otherwise regulated by this title, unless such advertisement, announcement, or statement contains the following disclosure:
+			Your plan of coverage is not protected under the Virginia Life, Accident and Sickness Insurance Guaranty Association Act. Therefore:
+			<section prefix="1">In the event of an insolvency of your plan, you may be unable to collect any amount you are owed for covered claims, regardless of the coverage provided under the plan;
+			</section>
+			<section prefix="2">The payment of premiums into your plan does not guarantee payment of claims under your plan, regardless of the coverage provided under the plan.
+				When such disclosure is contained in print, it shall be no smaller than boldfaced ten-point type.
+			</section>
+		</section>
+	</text>
+	<history>1983, c. 417, § 38.1-43.11; 1986, c. 562; 1990, c. 477.</history>
+</law>

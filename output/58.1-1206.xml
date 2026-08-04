@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="12" level="3">Bank Franchise Tax</unit>
+	</structure>
+	<section_number>58.1-1206</section_number>
+	<catch_line>(Effective July 1, 2025) Deductions from gross capital</catch_line>
+	<text>
+		<section prefix="A">There shall be deducted from the gross capital otherwise ascertainable under § 58.1-1205:
+			<section prefix="1">The assessed value of real estate if otherwise taxed in the Commonwealth which is owned by such bank, or is used or occupied by such bank, if held in the name of a majority-owned subsidiary of the bank or of a bank holding company which owns a majority of the capital stock of such bank or of any wholly-owned subsidiary of the bank holding company which owns the majority of the capital stock of such bank and the assessed value, up to the amount of the unencumbered equity, of real estate in the nature of improvements which are owned by the bank, or used or occupied by the bank and held by a majority-owned subsidiary or a bank holding company or a wholly-owned subsidiary of a bank holding company, even if assessed in the name of some other person because of the ownership of the underlying land by such person. Real estate used or occupied by a subsidiary or originally conveyed as collateral for loans made by a subsidiary of the bank and reacquired upon foreclosure of mortgage loans will be deemed to be used or occupied by the bank. The deduction for assessed value of real estate shall be the most recent assessment made prior to January 1 of the current bank franchise tax year for real estate owned by the bank or affiliate on January 1 of the current year. Any locality shall provide electronic access to banks for real estate assessment records for such real estate referenced by this section at their request.
+			</section>
+			<section prefix="2">The book value of tangible personal property which shall be held for lease and is otherwise taxed which is owned by such bank or in the name of a majority-owned subsidiary of the bank. If the bank does not own all the stock of such subsidiary, it shall be entitled to deduct only such portion of the assessed value of the real estate and the value of such tangible personal property as the common stock it owns in such subsidiary bears to the whole issue of common stock of such corporation.
+			</section>
+			<section prefix="3">An amount which shall equal the same percentage of the gross capital account, defined as its capital, surplus and undivided profits as set forth in § 58.1-1205 at December 31 next preceding as the obligations of the United States bear to the total assets of the bank. Such percentage of U.S. obligations shall be determined as of the four most recent (or less in case of a new bank) Reports of Condition and the percentage obtained shall be averaged. For purposes of computing such percentage, total assets shall not include the goodwill described in subdivision 5. The obligations of the United States as used herein shall include all obligations of the United States exempt from taxation under 31 U.S.C. § 3124, of the United States Constitution or any other statute, or any instrumentality or agency of the United States which obligations shall be exempt from state or local taxation under the United States Constitution or any statute of the United States.
+			</section>
+			<section prefix="4">The amount of retained earnings and surplus of subsidiaries to the extent included in the gross capital of the bank. In addition, any portion of the amount added to federal taxable income pursuant to subdivision B 9 of § 58.1-402 by a corporation that is for interest expenses and costs paid to the bank for a loan or other obligation made by the bank to such corporation shall be deducted from the gross capital of the bank provided that (i) at the time of payment of such portion to the bank, the bank was a related member of the corporation, and (ii) such portion has not otherwise been deducted from gross capital. For purposes of this subdivision, the terms "interest expenses and costs" and "related member" mean the same as those terms are defined in § 58.1-302.
+			</section>
+			<section prefix="5">Any amount equal to 90 percent of goodwill created in connection with any acquisition or merger occurring on or after July 1, 2001.
+			</section>
+		</section>
+		<section prefix="B">For purposes of this section, "goodwill" shall be determined using generally accepted accounting principles.
+		</section>
+	</text>
+	<history>Code 1950, § 58-485.08; 1980, c. 578; 1981, c. 432; 1984, c. 675; 2002, c. 667; 2004, Sp. Sess. I, c. 3; 2023, cc. 50, 51.</history>
+</law>

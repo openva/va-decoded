@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="7" level="2">Professional Corporations</unit>
+	</structure>
+	<section_number>13.1-550</section_number>
+	<catch_line>Transfer of shares</catch_line>
+	<text>
+		<section prefix="A">No shareholder of a corporation organized under this chapter may sell or transfer his shares in such corporation except to (i) the corporation, (ii) another individual or professional business entity who is eligible to be a shareholder of such corporation, (iii) a qualified charitable remainder trust as defined in subsection B, or (iv) the trustees of an eligible employee stock ownership plan. In the case of a corporation rendering the services of architects, professional engineers, land surveyors and certified landscape architects, or any combination thereof, no person who is not duly licensed or otherwise legally authorized to render one such service shall be eligible unless at least two-thirds of the remaining shares after the sale or transfer shall be held by individuals or professional business entities duly licensed or otherwise legally authorized to perform one such service.
+		</section>
+		<section prefix="B">As used in this section, "qualified charitable remainder trust" means a trust meeting the requirements of § 664 of the United States Internal Revenue Code of 1986, as amended, and which meets all of the following conditions:
+			<section prefix="1">Has one or more current income beneficiaries, all of which are eligible to be a shareholder in the corporation under § 13.1-544.
+			</section>
+			<section prefix="2">Has a trustee or independent special trustee who:
+				a. Is eligible to be a shareholder in the corporation under § 13.1-544; and
+				b. Has exclusive authority over the shares of the corporation while the shares are held in the trust.
+			</section>
+			<section prefix="3">Has one or more irrevocably designated charitable remaindermen, all of which must at all times be domiciled or maintain a local chapter in the Commonwealth of Virginia.
+			</section>
+			<section prefix="4">When transferring any assets during the term of the trust to charitable organizations, the distributions are made only to charitable organizations described in § 170(c) of the Internal Revenue Code that are domiciled or maintain a local chapter in this Commonwealth.
+			</section>
+		</section>
+	</text>
+	<history>1970, c. 77; 1980, c. 757; 1999, c. 100; 2006, cc. 672, 715; 2008, c. 265.</history>
+</law>

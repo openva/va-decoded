@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-870.1</section_number>
+	<catch_line>Limitation on liability of officers and directors; exception</catch_line>
+	<text>
+		<section prefix="A">In any proceeding brought by or in the right of a corporation or brought by or on behalf of members of the corporation, the damages assessed against an officer or director arising out of a single transaction, occurrence, or course of conduct shall not exceed the lesser of:
+			<section prefix="1">The monetary amount, including the elimination of liability, specified in the articles of incorporation or, if approved by the members, in the bylaws as a limitation on or elimination of the liability of the officer or director; or
+			</section>
+			<section prefix="2">The greater of (i) $100,000, or (ii) the amount of the cash compensation received by the officer or director from the corporation during the 12 months immediately preceding the act or omission for which liability was imposed.
+			</section>
+		</section>
+		<section prefix="B">In any proceeding against an officer or director who receives compensation from a corporation exempt from income taxation under § 501(c) of the Internal Revenue Code for his services as such, the damages assessed arising out of a single transaction, occurrence or course of conduct shall not exceed the amount of compensation received by the officer or director from the corporation during the 12 months immediately preceding the act or omission for which liability was imposed. An officer or director who serves such an exempt corporation without compensation for his services shall not be liable for damages in any such proceeding. The immunity provided by this subsection shall survive any termination, cancellation, or other discontinuance of the corporation.
+		</section>
+		<section prefix="C">The liability of an officer or director shall not be limited as provided in this section if the officer or director engaged in willful misconduct or a knowing violation of the criminal law.
+		</section>
+		<section prefix="D">No limitation on or elimination of liability adopted pursuant to this section may be affected by any amendment of the articles of incorporation or bylaws with respect to any act or omission occurring before such amendment.
+		</section>
+		<section prefix="E">1. Notwithstanding the provisions of this section, in any proceeding against an officer or director who receives compensation from a community association for his services, the damages assessed arising out of a single transaction, occurrence or course of conduct shall not exceed the amount of compensation received by the officer or director from the association during the 12 months immediately preceding the act or omission for which liability was imposed. An officer or director who serves such an association without compensation for his services shall not be liable for damages in any such proceeding.
+			<section prefix="2">The liability of an officer or director shall not be limited as provided in this subsection if the officer or director engaged in willful misconduct or a knowing violation of the criminal law.
+			</section>
+			<section prefix="3">As used in this subsection, "community association" shall mean a corporation incorporated under this Act that owns or has under its care, custody or control real estate subject to a recorded declaration of covenants which obligates a person, by virtue of ownership of specific real estate, to be a member of the incorporated association.
+			</section>
+			<section prefix="4">The immunity provided by this subsection shall survive any termination, cancellation, or other discontinuance of the community association.
+			</section>
+		</section>
+	</text>
+	<history>1987, cc. 59, 257; 1988, c. 561; 1989, c. 422; 2007, c. 925; 2011, cc. 693, 704.</history>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="60" level="2">Viatical Settlements Act</unit>
+	</structure>
+	<section_number>38.2-6005</section_number>
+	<catch_line>Privacy</catch_line>
+	<text>
+		Except as otherwise allowed or required by law, a viatical settlement provider, viatical settlement broker, insurance company, insurance producer, information bureau, rating agency or company, or any other person with actual knowledge of an insured's identity, shall not disclose that identity as an insured, or the insured's financial or medical information to any other person unless the disclosure:
+		<section prefix="1">Is necessary to effect a viatical settlement between the viator and a viatical settlement provider and the viator and insured have provided prior written consent to the disclosure;
+		</section>
+		<section prefix="2">Is provided in response to an investigation or examination by the Commission or another governmental agency or officer or pursuant to the requirements of subsection C of § 38.2-6011;
+		</section>
+		<section prefix="3">Is a term of or condition to the transfer of a policy by one viatical settlement provider to another viatical settlement provider;
+		</section>
+		<section prefix="4">Is necessary to permit a financing entity, related provider trust, or special purpose entity to finance the purchase of policies by a viatical settlement provider and the viator and insured have provided prior written consent to the disclosure;
+		</section>
+		<section prefix="5">Is necessary to allow the viatical settlement provider or viatical settlement broker or their authorized representatives to make contacts for the purpose of determining health status; or
+		</section>
+		<section prefix="6">Is required to purchase stop loss coverage.
+		</section>
+	</text>
+	<history>2003, c. 717.</history>
+</law>

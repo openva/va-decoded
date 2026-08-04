@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>13.1-607</section_number>
+	<catch_line>Correcting filed articles</catch_line>
+	<text>
+		<section prefix="A">Articles filed with the Commission may be corrected if (i) the articles contain an inaccuracy; (ii) the articles were not properly authorized or defectively signed, attested, sealed, verified, or acknowledged; or (iii) the electronic transmission of the articles to the Commission was defective.
+		</section>
+		<section prefix="B">Articles are corrected by filing with the Commission articles of correction that:
+			<section prefix="1">Set forth the name of the corporation prior to filing;
+			</section>
+			<section prefix="2">Describe the articles to be corrected, including their effective date;
+			</section>
+			<section prefix="3">Specify the inaccuracy or defect to be corrected;
+			</section>
+			<section prefix="4">Correct the inaccuracy or defect; and
+			</section>
+			<section prefix="5">State that the corporation authorized the correction and the date of such authorization.
+			</section>
+		</section>
+		<section prefix="C">If the Commission finds that the articles of correction comply with the requirements of law and that all required fees have been paid, it shall issue a certificate of correction. Upon the issuance of a certificate of correction by the Commission, the articles of correction shall become effective as of the effective date and time of the articles they correct except as to persons relying on the uncorrected articles and adversely affected by the correction. As to those persons, articles of correction are effective upon the issuance of the certificate of correction.
+		</section>
+		<section prefix="D">No articles of correction shall be accepted by the Commission when received more than 30 days after the effective date of the certificate relating to the articles to be corrected.
+		</section>
+	</text>
+	<history>1985, c. 522; 2005, c. 765; 2007, c. 165; 2008, cc. 91, 509; 2019, c. 734.</history>
+</law>

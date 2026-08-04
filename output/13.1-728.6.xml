@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="14.1" level="3">Control Share Acquisitions</unit>
+	</structure>
+	<section_number>13.1-728.6</section_number>
+	<catch_line>Notice to shareholders</catch_line>
+	<text>
+		<section prefix="A">If a special meeting of shareholders is required to be called pursuant to § 13.1-728.5, notice of the special meeting shall be given by the public corporation to all shareholders of record as of the record date set for the meeting, whether or not entitled to vote at the meeting.
+		</section>
+		<section prefix="B">Notice of the special or annual shareholders' meeting at which the voting rights are to be considered shall include or be accompanied by the following:
+			<section prefix="1">A copy of the control share acquisition statement delivered pursuant to this article; and
+			</section>
+			<section prefix="2">A statement by the board of directors of its position or recommendation, or that it is taking no position or making no recommendation, with respect to the granting of voting rights to shares acquired in the control share acquisition or the proposed control share acquisition.
+			</section>
+		</section>
+	</text>
+	<history>1989, c. 14; 2005, c. 765; 2019, c. 734.</history>
+</law>

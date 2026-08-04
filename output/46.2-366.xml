@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="10" level="4">Driver Responsibilities, Generally</unit>
+	</structure>
+	<section_number>46.2-366</section_number>
+	<catch_line>Partial application to certain motor vehicles</catch_line>
+	<text>
+		This chapter, except its provisions as to the requirements of making reports of motor vehicle accidents and as to the filing of proof of financial responsibility by a common carrier for its drivers, shall not apply to any motor vehicle:
+		<section prefix="1">Operated under a certificate of convenience and necessity issued by the State Corporation Commission, if public liability and property damage insurance for the protection of the public is required to be carried on it, or
+		</section>
+		<section prefix="2">Owned by the Commonwealth.
+		</section>
+	</text>
+	<history>Code 1950, § 46-390; 1958, c. 541, § 46.1-392; 1989, cc. 705, 727.</history>
+</law>

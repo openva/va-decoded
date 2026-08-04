@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="3" level="2">Transfer of Certificated and Uncertificated Securities</unit>
+	</structure>
+	<section_number>8.8A-303</section_number>
+	<catch_line>Protected purchaser</catch_line>
+	<text>
+		<section prefix="a">"Protected purchaser" means a purchaser of a certificated or uncertificated security, or of an interest therein, who:
+			<section prefix="1">gives value;
+			</section>
+			<section prefix="2">does not have notice of any adverse claim to the security; and
+			</section>
+			<section prefix="3">obtains control of the certificated or uncertificated security.
+			</section>
+		</section>
+		<section prefix="b">A protected purchaser also acquires its interest in the security free of any adverse claim.
+		</section>
+	</text>
+	<history>1996, c. 216; 2024, c. 652.</history>
+</law>

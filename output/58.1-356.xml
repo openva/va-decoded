@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="4" level="4">Accounting, Returns, Procedures for Individuals</unit>
+	</structure>
+	<section_number>58.1-356</section_number>
+	<catch_line>Reporting of payments by third-party settlement organizations</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Participating payee" has the same meaning as that term is defined in § 6050W of the Internal Revenue Code.
+			"Reportable payment transactions" has the same meaning as that term is defined in § 6050W of the Internal Revenue Code.
+			"Third-party settlement organization" has the same meaning as that term is defined in § 6050W of the Internal Revenue Code.
+		</section>
+		<section prefix="B">Any third-party settlement organization shall report to the Department, and to any participating payee, all information required by § 6050W of the Internal Revenue Code with respect to reportable payment transactions made on or after January 1, 2020, to such participating payee. For the purposes of this requirement, the de minimis limitations of § 6041(a) of the Internal Revenue Code shall apply in lieu of the de minimis limitations of § 6050W(e) of the Internal Revenue Code. This section shall apply only with respect to participating payees with a Virginia mailing address.
+		</section>
+		<section prefix="C">Any information required by this section shall be reported to the Department on forms and using an electronic medium prescribed by the Tax Commissioner. The Tax Commissioner shall have the authority to waive the requirement to submit this information electronically upon a determination that the requirement creates an unreasonable burden on the third-party settlement organization that is required to report information pursuant to this section. All requests for waiver shall be transmitted to the Tax Commissioner in writing.
+		</section>
+		<section prefix="D">Any information required by this section shall be reported to the Department and participating payees within 30 days of the relevant federal deadlines for reporting such information. This requirement shall be applied as if the de minimis limitations of § 6041(a) of the Internal Revenue Code had been imposed for federal purposes rather than the de minimis limitations of § 6050W(e) of the Internal Revenue Code.
+		</section>
+	</text>
+	<history>2020, cc. 63, 248.</history>
+</law>

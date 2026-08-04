@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="5" level="3">Cancellation of Registration</unit>
+	</structure>
+	<section_number>24.2-428.1</section_number>
+	<catch_line>Other procedures for assigning registered voters to inactive status</catch_line>
+	<text>
+		In addition to the voter list maintenance program provided for in § 24.2-428, the general registrar and the registered voter shall follow the confirmation notification procedures set forth in subsections C through E of § 24.2-428 if a voter provides an address on a candidate or referendum petition that differs from the address for the voter on the voter registration system or if any of the following documents sent to the registered voter are returned by the Postal Service as undeliverable:
+		<section prefix="1">An acknowledgment of registration;
+		</section>
+		<section prefix="2">An acknowledgment of transfer to a new address;
+		</section>
+		<section prefix="3">An absentee ballot or application for an absentee ballot sent or provided in accordance with Chapter 7 (§ 24.2-700 et seq.);
+		</section>
+		<section prefix="4">Notification to a voter after a precinct reassignment;
+		</section>
+		<section prefix="5">Notification of a change of address sent to a voter in accordance with subsection B of § 24.2-428; or
+		</section>
+		<section prefix="6">Any official voter registration or election mail.
+		</section>
+	</text>
+	<history>1996, cc. 72, 73; 2001, c. 625.</history>
+</law>

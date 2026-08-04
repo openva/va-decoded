@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="11" level="3">Intangible Personal Property Tax</unit>
+	</structure>
+	<section_number>58.1-1106</section_number>
+	<catch_line>Situs; nonresidents, branches outside of Commonwealth</catch_line>
+	<text>
+		<section prefix="A">Every nonresident person, every foreign corporation and every partnership consisting in whole or in part of nonresident persons doing business in this Commonwealth is hereby declared to have a business domicile within this Commonwealth and so much of the intangible personal property of any such person, firm or corporation as may have acquired or may hereafter acquire a business situs within this Commonwealth shall be reported by and taxed to such person, firm or corporation in the same manner and to the same extent as if such person, firm or corporation were a resident or composed entirely of resident individuals or a domestic corporation.
+		</section>
+		<section prefix="B">When any person, firm or corporation domiciled and doing business in this Commonwealth maintains a branch of such business outside of this Commonwealth, no part of the intangible personal property of such person, firm or corporation having acquired a business situs at any such branch outside of this Commonwealth shall be considered as situated in this Commonwealth for the purpose of taxation or be assessed with taxes in this Commonwealth.
+		</section>
+	</text>
+	<history>Code 1950, §§ 58-414, 58-415; 1982, c. 633; 1984, c. 675.</history>
+</law>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="6" level="2">Breach, Repudiation and Excuse</unit>
+	</structure>
+	<section_number>8.2-607</section_number>
+	<catch_line>Effect of acceptance; notice of breach; burden of establishing breach after acceptance; notice of claim or litigation to person answerable over</catch_line>
+	<text>
+		<section prefix="1">The buyer must pay at the contract rate for any goods accepted.
+		</section>
+		<section prefix="2">Acceptance of goods by the buyer precludes rejection of the goods accepted and if made with knowledge of a nonconformity cannot be revoked because of it unless the acceptance was on the reasonable assumption that the nonconformity would be seasonably cured but acceptance does not of itself impair any other remedy provided by this title for nonconformity.
+		</section>
+		<section prefix="3">Where a tender has been accepted
+			<section prefix="a">the buyer must within a reasonable time after he discovers or should have discovered any breach notify the seller of breach or be barred from any remedy; and
+			</section>
+			<section prefix="b">if the claim is one for infringement or the like (subsection (3) of § 8.2-312) and the buyer is sued as a result of such a breach he must so notify the seller within a reasonable time after he receives notice of the litigation or be barred from any remedy over for liability established by the litigation.
+			</section>
+		</section>
+		<section prefix="4">The burden is on the buyer to establish any breach with respect to the goods accepted.
+		</section>
+		<section prefix="5">Where the buyer is sued for breach of a warranty or other obligation for which his seller is answerable over
+			<section prefix="a">he may give his seller written notice of the litigation. If the notice states that the seller may come in and defend and that if the seller does not do so he will be bound in any action against him by his buyer by any determination of fact common to the two litigations, then unless the seller after seasonable receipt of the notice does come in and defend he is so bound.
+			</section>
+			<section prefix="b">if the claim is one for infringement or the like (subsection (3) of § 8.2-312) the original seller may demand in writing that his buyer turn over to him control of the litigation including settlement or else be barred from any remedy over and if he also agrees to bear all expense and to satisfy any adverse judgment, then unless the buyer after seasonable receipt of the demand does turn over control the buyer is so barred.
+			</section>
+		</section>
+		<section prefix="6">The provisions of subsections (3), (4) and (5) apply to any obligation of a buyer to hold the seller harmless against infringement or the like (subsection (3) of § 8.2-312).
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

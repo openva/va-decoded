@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1096</section_number>
+	<catch_line>Name</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection B, the name of a protected series shall comply with the provisions of § 13.1-1012.
+		</section>
+		<section prefix="B">The name of a protected series of a series limited liability company shall:
+			<section prefix="1">Begin with the name of the series limited liability company, including any words or abbreviation required by subsection A of § 13.1-1012 to designate that the series limited liability company is a limited liability company; and
+			</section>
+			<section prefix="2">Contain the phrase "protected series" or the abbreviation "P.S." or "PS."
+			</section>
+		</section>
+		<section prefix="C">If a series limited liability company changes its name, the series limited liability company shall deliver to the Commission for filing a statement of designation change for each protected series of the series limited liability company pursuant to subsection D of § 13.1-1095.
+		</section>
+	</text>
+	<history>2019, c. 636; 2021, Sp. Sess. I, c. 487.</history>
+</law>

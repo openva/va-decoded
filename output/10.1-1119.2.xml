@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="11" level="3">Forest Resources and the Department of Forestry</unit>
+		<unit label="article" identifier="2.1" level="4">Office of Working Lands Preservation</unit>
+	</structure>
+	<section_number>10.1-1119.2</section_number>
+	<catch_line>Office of Working Lands Preservation established</catch_line>
+	<text>
+		<section prefix="A">The Office of Working Lands Preservation is established in the Department of Forestry under the supervision of the State Forester.
+		</section>
+		<section prefix="B">As used in this article, unless the context requires a different meaning:
+			"Fund" means the Virginia Farmland and Forestland Preservation Fund.
+			"Office" means the Office of Working Lands Preservation.
+		</section>
+	</text>
+	<history>2024, cc. 10, 146.</history>
+</law>

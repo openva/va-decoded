@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="6" level="3">Flood Protection and Dam Safety</unit>
+		<unit label="article" identifier="5" level="4">Stream Restoration Assistance Program</unit>
+	</structure>
+	<section_number>10.1-655</section_number>
+	<catch_line>Types of assistance</catch_line>
+	<text>
+		Upon approval of an application for assistance, the Board may provide technical and financial assistance to the applicant according to the following guidelines:
+		<section prefix="1">The Board shall maintain a technical staff to recommend stream restoration measures, to estimate costs, and to prepare engineering plans and specifications which may be used to implement such measures. The actual preparation of plans and specifications shall not be undertaken until the applicant certifies that adequate funding is available, and that the plans will be implemented within one year after all necessary permits are obtained.
+		</section>
+		<section prefix="2">Financial assistance may be provided to applicants to the extent that funds for that purpose are available to the Board. In no case shall such assistance exceed fifty percent of the total cost of construction. Funds shall not be disbursed until the Board has made a final inspection and has determined that all work is adequately completed in accordance with the plans and specifications.
+		</section>
+		<section prefix="3">To receive financial assistance, applicants must certify that they have explored and exhausted all other possible funding sources. In cases where a national disaster area has been declared, no funding shall be provided under the Program until it is determined to what extent the federal government will participate in stream restoration along the segments under consideration.
+			When requests for financial assistance exceed available resources, the Board shall set priorities and allocate funds as it deems appropriate to accomplish the maximum benefit.
+		</section>
+	</text>
+	<history>1981, c. 450, § 21-11.28; 1988, c. 891.</history>
+</law>

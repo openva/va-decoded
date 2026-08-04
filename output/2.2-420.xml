@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="3" level="5">Registration of Lobbyists</unit>
+	</structure>
+	<section_number>2.2-420</section_number>
+	<catch_line>Exemptions</catch_line>
+	<text>
+		The registration and reporting provisions of this article shall not apply to:
+		<section prefix="1">The Governor, Lieutenant Governor, Attorney General, and their immediate staffs or the Governor's Secretaries and their immediate staffs, acting in an official capacity;
+		</section>
+		<section prefix="2">Members of the General Assembly and other legislative officials and legislative employees acting in an official capacity;
+		</section>
+		<section prefix="3">Local elected officials acting in an official capacity;
+		</section>
+		<section prefix="4">Any employee of a state executive agency acting in an official capacity;
+		</section>
+		<section prefix="5">A duly elected or appointed official or employee of the United States acting in an official capacity;
+		</section>
+		<section prefix="6">An individual who limits lobbying solely to (i) formal testimony before a public meeting of an executive agency or legislative body and registers the appearance in the records of the agency or body and (ii) testimony and information compelled by action of an executive agency or legislative body;
+		</section>
+		<section prefix="7">A person who receives $500 or less in compensation and reimbursements, excluding personal living and travel expenses that are not reimbursed from any other source, in a calendar year for his lobbying activities;
+		</section>
+		<section prefix="8">A person who receives no compensation or anything of value for lobbying, and does not expend more than $500, excluding personal living and travel expenses that are not reimbursed from any other source, in lobbying in the calendar year; or
+		</section>
+		<section prefix="9">An employee of a business, other entity, or local government whose job duties do not regularly include lobbying.
+		</section>
+	</text>
+	<history>1994, cc. 857, 937, § 2.1-781; 2001, c. 844; 2006, c. 843; 2015, cc. 763, 777.</history>
+</law>

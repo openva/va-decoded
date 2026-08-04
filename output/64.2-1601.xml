@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="B" level="3">Powers of Attorney</unit>
+		<unit label="chapter" identifier="16" level="4">Uniform Power of Attorney Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>64.2-1601</section_number>
+	<catch_line>Applicability</catch_line>
+	<text>
+		This chapter applies to all powers of attorney except:
+		<section prefix="1">A power to the extent it is coupled with an interest in the subject of the power, including a power given to or for the benefit of a creditor in connection with a credit transaction;
+		</section>
+		<section prefix="2">A power to make health care decisions;
+		</section>
+		<section prefix="3">A proxy or other delegation to exercise voting rights or management rights with respect to an entity;
+		</section>
+		<section prefix="4">A power created on a form prescribed by a government or governmental subdivision, agency, or instrumentality for a governmental purpose; and
+		</section>
+		<section prefix="5">A power to make arrangements for burial or disposition of remains pursuant to § 54.1-2825.
+		</section>
+	</text>
+	<history>2010, cc. 455, 632, § 26-74; 2012, c. 614.</history>
+</law>

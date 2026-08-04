@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="7" level="2">Transition</unit>
+	</structure>
+	<section_number>8.9A-704</section_number>
+	<catch_line>Security interest unperfected before effective date</catch_line>
+	<text>
+		A security interest that is enforceable immediately before this title takes effect but which would be subordinate to the rights of a person that becomes a lien creditor at that time:
+		<section prefix="1">remains an enforceable security interest for one year after this takes effect;
+		</section>
+		<section prefix="2">remains enforceable thereafter if the security interest becomes enforceable under § 8.9A-203 when this title takes effect or within one year thereafter; and
+		</section>
+		<section prefix="3">becomes perfected:
+			<section prefix="A">without further action, when this title takes effect if the applicable requirements for perfection under this title are satisfied before or at that time; or
+			</section>
+			<section prefix="B">when the applicable requirements for perfection are satisfied if the requirements are satisfied after that time.
+			</section>
+		</section>
+	</text>
+	<history>2000, c. 1007.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="42" level="2">Health Services Plans</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>38.2-4211</section_number>
+	<catch_line>Change of participants</catch_line>
+	<text>
+		<section prefix="A">Any participating hospital, person, nonstock corporation or physician may resign from a plan at any time but will continue to be liable on each subscription contract then in effect. However, this liability shall not extend beyond the end of each such subscription contract's current contract year.
+		</section>
+		<section prefix="B">Hospitals, persons, nonstock corporations and physicians may be admitted to a plan at any time and will then automatically become liable on all its outstanding contracts.
+		</section>
+	</text>
+	<history>Code 1950, § 32-195.5; 1956, c. 268, § 38.1-815; 1972, c. 429; 1979, c. 721; 1986, c. 562.</history>
+</law>

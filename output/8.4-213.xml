@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="2" level="2">Collection of Items: Depositary and Collecting Banks</unit>
+	</structure>
+	<section_number>8.4-213</section_number>
+	<catch_line>Final payment of item by payor bank; when provisional debits and credits become final; when certain credits become available for withdrawal</catch_line>
+	<text>
+		<section prefix="a">An item is finally paid by a payor bank when the bank has first done any of the following:
+			<section prefix="1">paid the item in cash;
+			</section>
+			<section prefix="2">settled for the item without having a right to revoke the settlement under statute, clearing-house rule, or agreement; or
+			</section>
+			<section prefix="3">made a provisional settlement for the item and failed to revoke the settlement in the time and manner permitted by statute, clearing-house rule or agreement.
+			</section>
+		</section>
+		<section prefix="b">If provisional settlement for an item does not become final, the item is not finally paid.
+		</section>
+		<section prefix="c">If provisional settlement for an item between the presenting and payor banks is made through a clearing house or by debits or credits in an account between them, then to the extent that provisional debits or credits for the item are entered in accounts between the presenting and payor banks or between the presenting and successive prior collecting banks seriatim, they become final upon final payment of the item by the payor bank.
+		</section>
+		<section prefix="d">If a collecting bank receives a settlement for an item which is or becomes final the bank is accountable to its customer for the amount of the item and any provisional credit given for the item in an account with its customer becomes final.
+		</section>
+		<section prefix="e">Subject to (i) applicable law stating a time for availability of funds and (ii) any right of the bank to apply the credit to an obligation of the customer, credit given by a bank for an item in a customer's account becomes available for withdrawal as of right:
+			<section prefix="1">if the bank has received a provisional settlement for the item, when the settlement becomes final and the bank has had a reasonable time to receive return of the item and the item has not been received within that time;
+			</section>
+			<section prefix="2">if the bank is both the depositary bank and the payor bank, and the item is finally paid, at the opening of the bank's second banking day following receipt of the item.
+			</section>
+		</section>
+		<section prefix="f">Subject to applicable law stating a time for availability of funds and any right of a bank to apply a deposit to an obligation of the depositor, a deposit of money becomes available for withdrawal as of right at the opening of the bank's next banking day after receipt of the deposit.
+		</section>
+	</text>
+	<history>1964, c. 219; 1992, c. 693.</history>
+</law>

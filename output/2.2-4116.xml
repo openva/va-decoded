@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="41.1" level="4">Virginia Administrative Dispute Resolution Act</unit>
+	</structure>
+	<section_number>2.2-4116</section_number>
+	<catch_line>Authority to use dispute resolution proceedings</catch_line>
+	<text>
+		<section prefix="A">Except as specifically prohibited by law, if the parties to the dispute agree, any public body may use dispute resolution proceedings to narrow or resolve any issue in controversy. Nothing in this chapter shall be construed to prohibit or limit other public body dispute resolution authority. Nothing in this chapter shall create or alter any right, action, cause of action, or be interpreted or applied in a manner inconsistent with the Administrative Process Act (§ 2.2-4000 et seq.), applicable federal or state law or any provision that requires the Commonwealth to obtain or maintain federal delegation or approval of any regulatory program. Nothing in this chapter shall prevent the use of the Virginia Freedom of Information Act to obtain the disclosure of information concerning expenses incurred in connection with a dispute resolution proceeding or the amount of money paid by a public body or agency to settle a dispute.
+		</section>
+		<section prefix="B">A decision by a public body to participate in or not to participate in a specific dispute resolution proceeding shall be within the discretion of the public body and is not subject to judicial review. This subsection does not affect or supersede any law mandating the use of a dispute resolution proceeding.
+		</section>
+		<section prefix="C">An agreement arising out of any dispute resolution proceeding shall not be binding upon a public body unless the agreement is affirmed by the public body.
+		</section>
+	</text>
+	<history>2002, c. 633.</history>
+</law>

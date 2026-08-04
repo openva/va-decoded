@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="15" level="4">Department of Planning and Budget</unit>
+	</structure>
+	<section_number>2.2-1501.1</section_number>
+	<catch_line>Additional duties of Department; commercial activities list</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Commercial activity" means performing services or providing goods that can normally be obtained from private enterprise.
+			"Commercial activities list" means the list of all commercial activities performed by employees of the Commonwealth.
+			"Privatization" means a variety of techniques and activities that promote more involvement of the private sector in providing services that have traditionally been provided by government. It also includes methods of providing a portion or all of select government-provided or government-produced programs and services through the private sector.
+		</section>
+		<section prefix="B">From such funds as are appropriated for this purpose, the Department shall:
+			<section prefix="1">Examine and promote methods of providing a portion or all of select government-provided or government-produced programs and services through the private sector by a competitive contracting program, and advise the Governor, the General Assembly, and executive branch agencies of the Department's findings and recommendations.
+			</section>
+			<section prefix="2">Determine the privatization potential of a program or activity, perform cost/benefit analyses, and conduct public and private performance analyses. The Secretary of Finance shall independently certify the results of the comparison.
+			</section>
+			<section prefix="3">Devise, in consultation with the Secretary of Finance, evaluation criteria to be used in conducting performance reviews of any program or activity that is subject to a privatization recommendation.
+			</section>
+		</section>
+		<section prefix="C">The commercial activities list developed by the Department in accordance with this section shall be updated every two years and posted on the Internet. In addition, the Department shall solicit at least annually in the Virginia Register public comments on the commercial activities list and invite recommendations from the public regarding activities being performed by state agencies that might better be performed by the private sector. All comments received shall be considered, and reasonable accommodation shall be made to permit representatives of any private entity, upon their request, to meet with the Department and the appropriate state agency to discuss their comments.
+		</section>
+	</text>
+	<history>2012, cc. 803, 835.</history>
+</law>

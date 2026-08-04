@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8" level="4">Duties and Powers of Trustee</unit>
+	</structure>
+	<section_number>64.2-777</section_number>
+	<catch_line>General powers of trustee</catch_line>
+	<text>
+		<section prefix="A">A trustee, without authorization by the court, may exercise:
+			<section prefix="1">Powers conferred by the terms of the trust; and
+			</section>
+			<section prefix="2">Except as limited by the terms of the trust:
+				a. All powers over the trust property that an unmarried competent owner has over individually owned property;
+				b. Any other powers appropriate to achieve the proper investment, management, and distribution of the trust property; and
+				c. Any other powers conferred by this chapter.
+			</section>
+		</section>
+		<section prefix="B">The exercise of a power is subject to the fiduciary duties prescribed by this article.
+		</section>
+		<section prefix="C">Any reference in a trust instrument incorporating the powers authorized under § 64.2-105 shall not be construed to limit powers a trustee may exercise pursuant to this section, unless the settlor expressly states in the trust instrument that such reference should be so construed.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-548.15; 2012, c. 614.</history>
+</law>

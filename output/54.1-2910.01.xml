@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="III" level="2">Professions and Occupations Regulated by Boards Within the Department of Health Professions</unit>
+		<unit label="chapter" identifier="29" level="3">Medicine and Other Healing Arts</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>54.1-2910.01</section_number>
+	<catch_line>Practitioner information provided to patients</catch_line>
+	<text>
+		Upon request by a patient, doctors of medicine, osteopathy, and podiatry shall inform the patient about the following:
+		<section prefix="1">Procedures to access information on the doctor compiled by the Board of Medicine pursuant to § 54.1-2910.1;
+		</section>
+		<section prefix="2">If the patient is not covered by a health insurance plan that the doctor accepts or a managed care health insurance plan in which the doctor participates, the patient may be subject to the doctor's full charge which may be greater than the health plan's allowable charge; and
+		</section>
+		<section prefix="3">For purposes of § 38.2-3463, licensees of the Board of Medicine or their designee shall provide a description of the elective procedure or test, or the applicable standard procedural terminology or medical codes used by the American Medical Association, sufficient to allow a patient to compare care options if the patient is being referred for an elective procedure or test.
+		</section>
+	</text>
+	<history>2005, c. 468; 2019, cc. 666, 684.</history>
+</law>

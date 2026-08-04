@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="19" level="2">Exceptions and Writs of Error</unit>
+	</structure>
+	<section_number>19.2-321.2</section_number>
+	<catch_line>Motion in the Supreme Court for delayed appeal in criminal cases</catch_line>
+	<text>
+		<section prefix="A">Filing and content of motion. When, due to the error, neglect, or fault of counsel representing the appellant, or of the court reporter, or of the Court of Appeals or the circuit court or an officer or employee of either, an appeal from the Court of Appeals to the Supreme Court in a criminal case has (i) never been initiated, (ii) been dismissed for failure to adhere to proper form, procedures, or time limits in the perfection of the appeal, (iii) been dismissed in part because at least one assignment of error contained in the petition for appeal did not adhere to proper form or procedures, or (iv) been denied or the conviction has been affirmed for failure to file or timely file the indispensable transcript or written statement of facts as required by law or by the Rules of Supreme Court, then a motion for leave to pursue a delayed appeal may be filed in the Supreme Court within six months after the appeal has been dismissed or denied, the conviction has been affirmed, or the Court of Appeals judgment sought to be appealed has become final, whichever is later. Such motion shall identify by the style, date, and Court of Appeals record number of the judgment sought to be appealed, and, if one was assigned in a prior attempt to appeal the judgment to the Supreme Court, shall give the record number assigned in the Supreme Court in that proceeding, and shall set forth the specific facts establishing the said error, neglect, or fault. If the error, neglect, or fault is alleged to be that of an attorney representing the appellant, the motion shall be accompanied by the affidavit of the attorney whose error, neglect, or fault is alleged, verifying the specific facts alleged in the motion, and certifying that the appellant is not personally responsible, in whole or in part, for the error, neglect, or fault causing loss of the original opportunity for appeal.
+		</section>
+		<section prefix="B">Service, response, and disposition. Such motion shall be served on the attorney for the Commonwealth and the Attorney General, in accordance with Rule 5:4 of the Supreme Court. If the Commonwealth disputes the facts alleged in the motion, or contends that those facts do not entitle the appellant to a delayed appeal under this section, the motion shall be denied without prejudice to the appellant's right to seek a delayed appeal by means of petition for a writ of habeas corpus. Otherwise, the Supreme Court shall, if the motion meets the requirements of this section, grant appellant leave to initiate or re-initiate pursuit of the appeal from the Court of Appeals to the Supreme Court.
+		</section>
+		<section prefix="C">Time limits when motion granted. If the motion is granted, all computations of time under the Rules of Supreme Court shall run from the date of the order of the Supreme Court granting the motion, or if the appellant has been determined to be indigent, from the date of the order by the circuit court appointing counsel to represent the appellant in the delayed appeal, whichever is later.
+		</section>
+		<section prefix="D">Applicability. The provisions of this section shall not apply to cases in which the appellant is responsible, in whole or in part, for the error, neglect, or fault causing loss of the original opportunity for appeal, nor shall it apply in cases where the claim of error, neglect, or fault has already been alleged and rejected in a prior judicial proceeding.
+		</section>
+	</text>
+	<history>2005, c. 836; 2011, c. 278; 2017, cc. 77, 79; 2021, Sp. Sess. I, cc. 344, 345, 489; 2022, c. 714.</history>
+</law>

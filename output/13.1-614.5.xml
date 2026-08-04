@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="1.1" level="3">Ratification of Defective Corporate Actions</unit>
+	</structure>
+	<section_number>13.1-614.5</section_number>
+	<catch_line>Notice</catch_line>
+	<text>
+		<section prefix="A">Unless shareholder approval is required under subsection C of § 13.1-614.3, prompt notice of an action taken under § 13.1-614.3 shall be given to each holder of valid and putative shares, regardless of whether entitled to vote, as of (i) the date of such action by the board of directors and (ii) the date of the defective corporate action ratified, provided that notice shall not be required to be given to holders of valid and putative shares whose identities or addresses for notice cannot be determined from the records of the corporation.
+		</section>
+		<section prefix="B">The notice shall contain (i) either a copy of the action taken by the board of directors in accordance with subsection A or B of § 13.1-614.3 or the information required by subdivisions A 1 through 4 or B 1, 2, and 3 of § 13.1-614.3, as applicable, and (ii) a statement that any claim that the ratification of the defective corporate action and any putative shares issued as a result of such defective corporate action should not be effective, or should be effective only on certain conditions, shall be brought within 120 days from the applicable validation effective time.
+		</section>
+		<section prefix="C">No notice under this section is required with respect to any action required to be submitted to shareholders for approval under subsection C of § 13.1-614.3 if notice is given in accordance with § 13.1-614.4.
+		</section>
+		<section prefix="D">A notice required by this section may be given in any manner permitted by § 13.1-610 and for any public corporation may be given by means of a filing or furnishing of such notice with the U.S. Securities and Exchange Commission.
+		</section>
+	</text>
+	<history>2019, c. 734.</history>
+</law>

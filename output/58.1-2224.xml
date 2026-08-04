@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="3" level="4">Motor Fuel Tax; Liability</unit>
+	</structure>
+	<section_number>58.1-2224</section_number>
+	<catch_line>Tax on unaccounted for motor fuel losses; liability</catch_line>
+	<text>
+		<section prefix="A">There is hereby levied a tax at the rate specified by § 58.1-2217 annually on taxable unaccounted for motor fuel losses at a terminal. "Taxable unaccounted for motor fuel losses" means the number of gallons of unaccounted for motor fuel losses that exceed one-half of one percent of the number of net gallons removed from the terminal during the year by a system transfer or at the terminal rack. "Unaccounted for motor fuel losses" means the difference between (i) the amount of motor fuel in inventory at the terminal at the beginning of the year plus the amount of motor fuel received by the terminal during the year and (ii) the amount of motor fuel in inventory at the terminal at the end of the year plus the amount of motor fuel removed from the terminal during the year. Accounted for motor fuel losses which have been approved by the Commissioner or motor fuel losses constituting part of a transmix shall not constitute unaccounted for motor fuel losses.
+		</section>
+		<section prefix="B">The terminal operator whose motor fuel is unaccounted for shall be liable for the tax imposed by this section, together with a penalty equal to the amount of tax payable. Motor fuel received by a terminal operator and not shown on an informational return filed by the terminal operator with the Commissioner as having been removed from the terminal shall be presumed to be unaccounted for motor fuel losses. A terminal operator may rebut this presumption by establishing that motor fuel received at a terminal, but not shown on an informational return as having been removed from the terminal, was an accounted for loss or constitutes part of a transmix.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758.</history>
+</law>

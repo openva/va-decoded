@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="5.1" level="3">Risk Management Framework; Own Risk and Solvency Assessments</unit>
+	</structure>
+	<section_number>38.2-1334.7</section_number>
+	<catch_line>Scope of article; exemption</catch_line>
+	<text>
+		<section prefix="A">The requirements of this article shall apply to all insurers domiciled in the Commonwealth unless exempt pursuant to this section.
+		</section>
+		<section prefix="B">An insurer shall be exempt from the requirements of this article if:
+			<section prefix="1">The insurer has annual direct written and unaffiliated assumed premium, including international direct and assumed premium but excluding premiums reinsured with the Federal Crop Insurance Corporation and National Flood Insurance Program, less than $500 million; and
+			</section>
+			<section prefix="2">The insurance group of which the insurer is a member has annual direct written and unaffiliated assumed premium, including international direct and assumed premium but excluding premiums reinsured with the Federal Crop Insurance Corporation and National Flood Insurance Program, less than $1 billion.
+			</section>
+		</section>
+		<section prefix="C">If an insurer qualifies for exemption pursuant to subdivision B 1, but the insurance group of which the insurer is a member does not qualify for exemption pursuant to subdivision B 2, then the ORSA summary report that may be required pursuant to § 38.2-1334.6 shall include every insurer within the insurance group. This requirement may be satisfied by the submission of more than one ORSA summary report for any combination of insurers, provided any combination of reports includes every insurer within the insurance group.
+		</section>
+		<section prefix="D">If an insurer does not qualify for exemption pursuant to subdivision B 1, but the insurance group of which it is a member qualifies for exemption pursuant to subdivision B 2, then the only ORSA summary report that may be required pursuant to § 38.2-1334.6 shall be the report applicable to that insurer.
+		</section>
+		<section prefix="E">An insurer that does not qualify for exemption pursuant to subsection B may apply to the Commission for a waiver from the requirements of this article based upon unique circumstances. In deciding whether to grant the insurer's request for waiver, the Commission may consider the type and volume of business written, ownership and organizational structure, and any other factor the Commission considers relevant to the insurer or insurance group of which the insurer is a member. If the insurer is part of an insurance group with insurers domiciled in more than one state, the Commission shall coordinate with the lead state commissioner and with the other domiciliary commissioners in considering whether to grant the insurer's request for a waiver.
+		</section>
+		<section prefix="F">Notwithstanding the exemptions stated in this section:
+			<section prefix="1">The Commission may require that an insurer maintain a risk management framework, conduct an ORSA, and file an ORSA summary report based on unique circumstances, including the type and volume of business written, ownership and organizational structure, federal agency requests, and international supervisor requests.
+			</section>
+			<section prefix="2">The Commission may require that an insurer maintain a risk management framework, conduct an ORSA, and file an ORSA summary report if the insurer has risk-based capital for company action level event as set forth in § 38.2-5503, meets one or more of the standards of an insurer deemed to be in hazardous financial condition as defined in 14VAC5-290-30 of the Virginia Administrative Code, or otherwise exhibits qualities of a troubled insurer as determined by the Commission.
+			</section>
+		</section>
+		<section prefix="G">If an insurer that qualifies for an exemption pursuant to subsection B subsequently no longer qualifies for that exemption due to changes in premium as reflected in the insurer's most recent annual statement or in the most recent annual statements of the insurers within the insurance group of which the insurer is a member, the insurer shall have one year following the year the threshold is exceeded to comply with the requirements of this article.
+		</section>
+	</text>
+	<history>2014, c. 248.</history>
+</law>

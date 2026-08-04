@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.1" level="4">Uniform Trust Decanting Act</unit>
+	</structure>
+	<section_number>64.2-779.2</section_number>
+	<catch_line>Fiduciary duty</catch_line>
+	<text>
+		<section prefix="A">In exercising the decanting power, an authorized fiduciary shall act in accordance with its fiduciary duties, including the duty to act in accordance with the purposes of the first trust.
+		</section>
+		<section prefix="B">This article does not create or imply a duty to exercise the decanting power or to inform beneficiaries about the applicability of this article.
+		</section>
+		<section prefix="C">Except as otherwise provided in a first-trust instrument, for purposes of this article and § 64.2-763 and subsection A of § 64.2-764, the terms of the first trust are deemed to include the decanting power.
+		</section>
+	</text>
+	<history>2017, c. 592.</history>
+</law>

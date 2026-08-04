@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="3" level="2">Enforcement of Instruments</unit>
+	</structure>
+	<section_number>8.3A-307</section_number>
+	<catch_line>Notice of breach of fiduciary duty</catch_line>
+	<text>
+		<section prefix="a">In this section:
+			<section prefix="1">"Fiduciary" means an agent, trustee, partner, corporate officer or director, or other representative owing a fiduciary duty with respect to an instrument.
+			</section>
+			<section prefix="2">"Represented person" means the principal, beneficiary, partnership, corporation, or other person to whom the duty stated in paragraph (1) is owed.
+			</section>
+		</section>
+		<section prefix="b">If (i) an instrument is taken from a fiduciary for payment or collection or for value, (ii) the taker has knowledge of the fiduciary status of the fiduciary, and (iii) the represented person makes a claim to the instrument or its proceeds on the basis that the transaction of the fiduciary is a breach of fiduciary duty, the following rules apply:
+			<section prefix="1">Notice of breach of fiduciary duty by the fiduciary is notice of the claim of the represented person.
+			</section>
+			<section prefix="2">In the case of an instrument payable to the represented person or the fiduciary as such, the taker has notice of the breach of fiduciary duty if the instrument is (i) taken in payment of or as security for a debt known by the taker to be the personal debt of the fiduciary, (ii) taken in a transaction known by the taker to be for the personal benefit of the fiduciary, or (iii) deposited to an account other than an account of the fiduciary, as such, or an account of the represented person.
+			</section>
+			<section prefix="3">If an instrument is issued by the represented person or the fiduciary as such, and made payable to the fiduciary personally, the taker does not have notice of the breach of fiduciary duty unless the taker knows of the breach of fiduciary duty.
+			</section>
+			<section prefix="4">If an instrument is issued by the represented person or the fiduciary as such, to the taker as payee, the taker has notice of the breach of fiduciary duty if the instrument is (i) taken in payment of or as security for a debt known by the taker to be the personal debt of the fiduciary, (ii) taken in a transaction known by the taker to be for the personal benefit of the fiduciary, or (iii) deposited to an account other than an account of the fiduciary, as such, or an account of the represented person.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 6-408; 1964, c. 219, § 8.3-304; 1992, c. 693.</history>
+</law>

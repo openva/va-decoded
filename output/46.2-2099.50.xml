@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="20" level="3">Regulation of Passenger Carriers</unit>
+		<unit label="article" identifier="15" level="4">Transportation Network Companies</unit>
+	</structure>
+	<section_number>46.2-2099.50</section_number>
+	<catch_line>Requirements for TNC partner vehicles; trade dress issued by transportation network company</catch_line>
+	<text>
+		<section prefix="A">A TNC partner vehicle shall:
+			<section prefix="1">Be a personal vehicle;
+			</section>
+			<section prefix="2">Have a seating capacity of no more than eight persons, including the driver;
+			</section>
+			<section prefix="3">Be validly titled and registered in the Commonwealth or in another state;
+			</section>
+			<section prefix="4">Not have been issued a certificate of title, either in Virginia or in any other state, branding the vehicle as salvage, nonrepairable, rebuilt, or any equivalent classification;
+			</section>
+			<section prefix="5">Have a valid Virginia safety inspection or an annual inspection conducted in another state for which the Department of State Police has determined that such motor vehicle safety inspection standards adequately ensure public safety and carry proof of that inspection on or in the vehicle; and
+			</section>
+			<section prefix="6">Be covered under a TNC insurance policy meeting the requirements of § 46.2-2099.52.
+				No TNC partner shall operate a TNC partner vehicle unless that vehicle meets the requirements of this subsection.
+			</section>
+		</section>
+		<section prefix="B">Before authorizing a vehicle to be used as a TNC partner vehicle, a transportation network company shall confirm that the vehicle meets the requirements of subsection A and shall provide each TNC partner with proof of any TNC insurance policy maintained by the transportation network company.
+			For each TNC partner vehicle it authorizes, a transportation network company shall issue trade dress to the TNC partner associated with that vehicle. The trade dress shall be sufficient to identify the transportation network company or digital platform with which the vehicle is affiliated and shall be displayed in a manner that complies with Virginia law. The trade dress shall be of such size, shape, and color as to be readily identifiable during daylight hours from a distance of 50 feet while the vehicle is not in motion and shall be reflective, illuminated, or otherwise patently visible in darkness. The trade dress may take the form of a removable device that meets the identification and visibility requirements of this subsection.
+			Notwithstanding any other provision of this title, a TNC partner vehicle may be equipped with no more than two removable, illuminated, interior, TNC-issued, trade dress devices that assist passengers in identifying and communicating with TNC partners. Such devices may use a single steady-burning color while the TNC partner is logged in to a transportation network company's associated digital platform and may change to a different steady-burning color once the TNC partner accepts a request to transport a passenger and is within 0.4 miles of such passenger. The illuminated display on each such device shall not (i) exceed five candlepower or 62.85 lumens; (ii) exceed 20 square inches; (iii) utilize red, blue, or amber lights; (iv) project a glaring or dazzling light; or (v) attach to the windshield.
+			The transportation network company shall submit to the Department proof that the transportation network company has established the trade dress required under this subsection by filing with the Department an illustration or photograph of the trade dress. Any TNC that issues an illuminated removable interior trade dress device for use in the Commonwealth shall file with the Department the specifications of such device, including the default color.
+			A TNC partner shall keep the trade dress issued under this subsection visible at all times while the vehicle is being operated as a TNC partner vehicle.
+			No person shall operate a vehicle bearing trade dress issued under this subsection without the authorization of the transportation network company issuing the trade dress.
+		</section>
+	</text>
+	<history>2015, cc. 2, 3; 2017, cc. 694, 708; 2018, cc. 356, 443; 2020, c. 393; 2023, cc. 321, 322.</history>
+</law>

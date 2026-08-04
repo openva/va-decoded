@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="6" level="3">Damage to Realty and Personalty Thereon</unit>
+	</structure>
+	<section_number>18.2-139</section_number>
+	<catch_line>Injuries to trees, fences or herbage on grounds of Capitol, or in any public square</catch_line>
+	<text>
+		If any person:
+		<section prefix="1">Cut down, pull up, girdle or otherwise injure or destroy any tree growing in the grounds of the Capitol, or in any public square or grounds, without the consent of the Governor, or of the circuit court of the county or city in which such grounds or square is situated; or
+		</section>
+		<section prefix="2">Willfully and maliciously injure the fences or herbage of the Capitol grounds, or of any such square or grounds,
+			he shall be guilty of a Class 3 misdemeanor.
+		</section>
+	</text>
+	<history>Code 1950, § 18.1-180; 1960, c. 358; 1975, cc. 14, 15.</history>
+</law>

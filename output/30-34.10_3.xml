@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="3.1" level="2">Legislative Support Commission</unit>
+	</structure>
+	<section_number>30-34.10:3</section_number>
+	<catch_line>Fees</catch_line>
+	<text>
+		For the services rendered in providing access to the legislative electronic information system, the Commission may charge and collect a fee for each inquiry as determined by the Director of the Division of Legislative Automated Systems to be a reasonable and sufficient proportion of the costs for maintaining the system and furnishing access. No fee, however, shall be charged to any agency of the legislative branch of the Commonwealth, including individual legislators using the information exclusively for legislative purposes.
+		Users located outside the geographical limits of the Commonwealth shall be charged an access fee double that referred to in the preceding paragraph.
+		No person, firm, corporation or other entity shall receive access from the legislative electronic information system for resale without first applying to the Director of the Division of Legislative Automated Systems. Such application shall be approved only on the condition that a fee equal to twenty-five percent of the resale charge is paid which shall be in addition to the other fees provided for in this section.
+	</text>
+	<history>1987, c. 214.</history>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4A" level="1">Commercial Code—Funds Transfers</unit>
+		<unit label="part" identifier="1" level="2">Subject Matter and Definitions</unit>
+	</structure>
+	<section_number>8.4A-103</section_number>
+	<catch_line>Definitions: "Payment order"; "Beneficiary"; "Beneficiary's bank"; "Receiving bank"; "Sender."</catch_line>
+	<text>
+		<section prefix="a">In this title:
+			<section prefix="1">"Payment order" means an instruction of a sender to a receiving bank, transmitted orally or in a record, to pay, or to cause another bank to pay, a fixed or determinable amount of money to a beneficiary if: (i) the instruction does not state a condition to payment to the beneficiary other than time of payment, (ii) the receiving bank is to be reimbursed by debiting an account of, or otherwise receiving payment from, the sender, and (iii) the instruction is transmitted by the sender directly to the receiving bank or to an agent, funds-transfer system, or communication system for transmittal to the receiving bank.
+			</section>
+			<section prefix="2">"Beneficiary" means the person to be paid by the beneficiary's bank.
+			</section>
+			<section prefix="3">"Beneficiary's bank" means the bank identified in a payment order in which an account of the beneficiary is to be credited pursuant to the order or which otherwise is to make payment to the beneficiary if the order does not provide for payment to an account.
+			</section>
+			<section prefix="4">"Receiving bank" means the bank to which the sender's instruction is addressed.
+			</section>
+			<section prefix="5">"Sender" means the person giving the instruction to the receiving bank.
+			</section>
+		</section>
+		<section prefix="b">If an instruction complying with subdivision (a) (1) of this section is to make more than one payment to a beneficiary, the instruction is a separate payment order with respect to each payment.
+		</section>
+		<section prefix="c">A payment order is issued when it is sent to the receiving bank.
+		</section>
+	</text>
+	<history>1990, c. 9; 2024, c. 652.</history>
+</law>

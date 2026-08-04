@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="4" level="4">Creation, Validity, Modification, and Termination of Trust</unit>
+	</structure>
+	<section_number>64.2-724</section_number>
+	<catch_line>Creation of trust induced by fraud, duress, or undue influence</catch_line>
+	<text>
+		A trust is void to the extent its creation was induced by fraud, duress, or undue influence.
+	</text>
+	<history>2005, c. 935, § 55-544.06; 2012, c. 614.</history>
+</law>

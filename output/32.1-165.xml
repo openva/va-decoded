@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="1" level="3">Sewage Disposal</unit>
+	</structure>
+	<section_number>32.1-165</section_number>
+	<catch_line>Prior approval required before issuance of building permit; approved sewage system or nonconforming system</catch_line>
+	<text>
+		<section prefix="A">No county, city, town, or employee thereof shall issue a permit for a building designed for human occupancy without the prior written authorization of the Commissioner or his agent. The Commissioner or his agent shall authorize the issuance of such permit upon finding that safe, adequate, and proper sewage treatment is or will be made available to such building, or upon finding that the issuance of such permit has been approved by the Review Board. "Safe, adequate, and proper" means a treatment works that complies with applicable regulations of the Board of Health that are in effect at the time of application.
+		</section>
+		<section prefix="B">The Commissioner shall develop an application and procedure for evaluating an installed treatment works and to determine whether to authorize issuance of a permit for a building designed for human occupancy.
+		</section>
+		<section prefix="C">Nothing in this section shall be construed to prevent the Commissioner or his agent from approving the use of a nonconforming treatment works, provided the treatment works was installed in accordance with the Board of Health's applicable regulations in effect at the time of its installation, is not failing, and is designed and constructed for the sewage flow and strength expected from the building.
+		</section>
+		<section prefix="D">Nothing in this section shall be construed to prevent an owner of real property from receiving a voluntary upgrade pursuant to § 32.1-164.1:3, or other permit, as a condition of approval as a nonconforming treatment works.
+		</section>
+		<section prefix="E">The Board, Commissioner, and Department may accept a certified evaluation from (i) a professional engineer licensed pursuant to Chapter 4 of Title 54.1; (ii) an onsite soil evaluator, onsite sewage system operator, or onsite sewage system installer licensed pursuant to Chapter 23 of Title 54.1; (iii) or other individual with an appropriate certification from the National Sanitation Foundation, or equivalent. The Department may perform an inspection of the certified evaluation but shall not be required to perform a field check prior to the issuance of the written authorization in subsection A.
+		</section>
+	</text>
+	<history>Code 1950, § 32-9; 1954, c. 646; 1964, c. 436; 1970, c. 645; 1972, c. 775; 1979, c. 711; 1984, c. 457; 2016, c. 96.</history>
+</law>

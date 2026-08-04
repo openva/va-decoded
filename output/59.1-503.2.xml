@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="3" level="3">Construction</unit>
+	</structure>
+	<section_number>59.1-503.2</section_number>
+	<catch_line>Practical construction</catch_line>
+	<text>
+		<section prefix="a">The express terms of an agreement and any course of performance, course of dealing, or usage of trade must be construed whenever reasonable as consistent with each other. However, if that construction is unreasonable:
+			<section prefix="1">express terms prevail over course of performance, course of dealing, and usage of trade;
+			</section>
+			<section prefix="2">course of performance prevails over course of dealing and usage of trade; and
+			</section>
+			<section prefix="3">course of dealing prevails over usage of trade.
+			</section>
+		</section>
+		<section prefix="b">An applicable usage of trade in the place where any part of performance is to occur must be used in interpreting the agreement as to that part of the performance.
+		</section>
+		<section prefix="c">Evidence of a relevant course of performance, course of dealing, or usage of trade offered by one party in a proceeding is not admissible unless and until the party offering the evidence has given the other party notice that the court finds sufficient to prevent unfair surprise.
+		</section>
+		<section prefix="d">The existence and scope of a usage of trade must be proved as facts.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

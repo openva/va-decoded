@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="2" level="3">Proceeds of Certain Policies</unit>
+	</structure>
+	<section_number>38.2-3119</section_number>
+	<catch_line>Limitation on § 38.2-3118</catch_line>
+	<text>
+		<section prefix="A">The provisions of § 38.2-3118 shall not apply to any proportionate part of the proceeds of any such policy or supplemental contract mentioned in § 38.2-3118 arising or resulting from premiums paid by the beneficiary. The proportionate part of the proceeds shall be determined by comparing the total premiums paid for the policy, without interest, with the premiums for the policy, without interest, paid by the beneficiary.
+		</section>
+		<section prefix="B">Notwithstanding the other provisions of this section, an insurer who (i) has no written notice of any claim that premiums have been paid by the beneficiary and (ii) has no written notice of an adverse claim of any other character under this section, shall be protected in making or withholding payments pursuant to the terms of a policy or supplemental agreement.
+		</section>
+		<section prefix="C">Notwithstanding the other provisions of this section, upon an insurer's acceptance of proof that premiums have been paid by the beneficiary and the insurer's payment of the corresponding proportionate part of the proceeds of the policy or supplemental agreement, the insurer's payment shall constitute full release of the insurer from all liability with respect to the proportionate part of the proceeds of the policy or supplemental agreement.
+		</section>
+	</text>
+	<history>Code 1950, § 38-116; 1952, c. 317, § 38.1-445; 1986, c. 562.</history>
+</law>

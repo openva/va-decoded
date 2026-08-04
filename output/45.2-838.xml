@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="4" level="5">Ventilation, Mine Gases, and Other Hazardous Conditions</unit>
+	</structure>
+	<section_number>45.2-838</section_number>
+	<catch_line> Coursing of air</catch_line>
+	<text>
+		<section prefix="A">The main intake and return air currents of a drift or slope mine shall not be in a single partitioned opening.
+		</section>
+		<section prefix="B">Every entry driven in coal shall be in a set of two or more entries.
+		</section>
+		<section prefix="C">Every transformer station, battery-charging station, substation, rectifier, and water pump shall be housed in an incombustible structure or area or be equipped with an approved fire suppression system. Each such installation shall be ventilated with intake air that is coursed into a return air course or to the surface and that is not used to ventilate any working place. This requirement does not apply to any (i) rectifier, battery-charging station, or power center with transformers that are of the dry type or contain nonflammable liquid, if such rectifier, battery-charging station, or power center is located at or near the working section and is moved as the working section advances or retreats; (ii) submersible pump; (iii) permissible pump and associated permissible switch gear; (iv) pump located at or near the working section that is moved as the working section advances or retreats; or (v) small portable pump. Such equipment shall be installed and operated only in a well-ventilated location.
+		</section>
+		<section prefix="D">Any change in ventilation that materially affects the main air current or any split thereof shall be made when the mine is not in operation and there are no miners in the mine other than those engaged in changing the ventilation.
+		</section>
+		<section prefix="E">Each section in a mine shall be ventilated by a separate split of air.
+		</section>
+		<section prefix="F">Air used to ventilate a belt haulage entry shall not be used to ventilate any working place unless approved by the Chief.
+		</section>
+	</text>
+	<history>Code 1950, §§ 45-60.4, 45-71; 1954, c. 191; 1966, c. 594, § 45.1-57; 1978, c. 120; 1994, c. 28, § 45.1-161.221; 1996, c. 774; 1999, c. 256; 2021, Sp. Sess. I, c. 387.</history>
+</law>

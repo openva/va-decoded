@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="2" level="3">Public Water Supplies</unit>
+	</structure>
+	<section_number>32.1-174</section_number>
+	<catch_line>Revocation of permits</catch_line>
+	<text>
+		The Commissioner may revoke any permit issued pursuant to this article whenever he determines that:
+		<section prefix="1">The waterworks can no longer be depended upon to furnish pure water;
+		</section>
+		<section prefix="2">The capacity of the waterworks is inadequate for the purpose of furnishing pure water;
+		</section>
+		<section prefix="3">The owner has failed to abide by an order issued by the Commissioner;
+		</section>
+		<section prefix="4">The owner has abandoned the waterworks and discontinued supplying pure water; or
+		</section>
+		<section prefix="5">The owner has failed to pay the waterworks operation fee required by § 32.1-171.1.
+		</section>
+	</text>
+	<history>Code 1950, §§ 62.1-53, 62.1-55; 1964, c. 475; 1968, c. 659; 1977, c. 7; 1979, c. 711; 1992, c. 804.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="3" level="3">Limited Partners</unit>
+	</structure>
+	<section_number>50-73.25</section_number>
+	<catch_line>Person erroneously believing himself limited partner</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsection B of this section, a person who makes a contribution to a partnership and erroneously but in good faith believes that he has become a limited partner in the partnership is not a general partner in the partnership and is not bound by its obligations by reason of making the contribution, receiving distributions from the partnership, or exercising any rights of a limited partner, if, on ascertaining the mistake, he:
+			<section prefix="1">Causes an appropriate certificate of limited partnership or a certificate of amendment to be executed and filed; or
+			</section>
+			<section prefix="2">Withdraws from future equity participation in the partnership by executing and filing with the Commission a certificate declaring his withdrawal under the provisions of this section.
+			</section>
+		</section>
+		<section prefix="B">A person who makes a contribution of the kind described in subsection A of this section is liable as a general partner to any third party who transacts business with the partnership prior to the occurrence of either of the events referred to in subsection A of this section if: (i) such person knew or should have known either that no certificate has been filed or that the certificate inaccurately refers to him as a general partner and (ii) the other person actually believed in good faith that the person was a general partner at the time of the transaction and acted in reliance on such belief.
+		</section>
+	</text>
+	<history>1985, c. 607; 1987, c. 702.</history>
+</law>

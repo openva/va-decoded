@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="15" level="3">Virginia Community Policing and Corrections Reports</unit>
+	</structure>
+	<section_number>9.1-192.1</section_number>
+	<catch_line>Civilian deaths in custody; annual report</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section:
+			"Correctional facility" includes any local, regional, state, or juvenile correctional facility.
+			"Law-enforcement agency" means any sheriff's office, police department, or other agency or department that employs persons who have law-enforcement authority that is under the direction and control of the Commonwealth or any local governing body.
+		</section>
+		<section prefix="B">Every law-enforcement agency and state or juvenile correctional facility shall report to the Department and every local or regional adult correctional facility shall report to the State Board of Local and Regional Jails the following information regarding the death of any person who is detained, under arrest or in the process of being arrested, en route to be incarcerated, incarcerated, or otherwise in the custody of such law-enforcement agency or correctional facility:
+			<section prefix="1">The name, gender, race, ethnicity, and age of the deceased;
+			</section>
+			<section prefix="2">The date, time, and location of death;
+			</section>
+			<section prefix="3">The law-enforcement agency or correctional facility that detained, arrested or was in the process of arresting, transported, incarcerated, or otherwise had custody of the deceased; and
+			</section>
+			<section prefix="4">A brief description of the circumstances surrounding the death and the cause of death.
+			</section>
+		</section>
+		<section prefix="C">Any law-enforcement agency or state or juvenile correctional facility that fails to comply with subsection B may, at the discretion of the Department, be declared ineligible for state grants or funds.
+		</section>
+		<section prefix="D">The Department and the State Board of Local and Regional Jails shall analyze the data submitted pursuant to subsection B to determine the means by which such information can be used to reduce the number of such deaths. The Director and the State Board of Local and Regional Jails shall each report annually the findings and recommendations resulting from the analysis and interpretation of the data to the Governor, the General Assembly, and the Attorney General beginning on or before July 1, 2025, and each July 1 thereafter.
+		</section>
+		<section prefix="E">Upon request, the State Board of Local and Regional Jails shall provide the data specified in subsection B to the Department to meet federal reporting requirements.
+		</section>
+	</text>
+	<history>2024, c. 813.</history>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="3" level="3">Disease Control Measures</unit>
+	</structure>
+	<section_number>32.1-46.1</section_number>
+	<catch_line>Board to establish protocol for identification of children with elevated blood-lead levels</catch_line>
+	<text>
+		The Board shall promulgate regulations establishing a protocol for the identification of children at risk for elevated blood-lead levels which shall (i) require blood-lead level testing at appropriate ages and frequencies, when indicated, (ii) provide for criteria for determining low risk for elevated blood-lead levels and when such blood-lead level testing is not indicated, and (iii) require physicians to make available to parents information on the dangers of lead poisoning, along with a list of available resources, as part of regular well check visits for all children.
+		As deemed necessary by the Board, the protocol may also address follow-up testing for children with elevated blood-lead levels, dissemination of the protocol or other information to relevant health care professionals, appropriate information for parents, and other means of preventing lead poisoning among children. In promulgating such regulations, the Board shall consider the guidelines of the Centers for Disease Control and Prevention and may consider such other materials relating to lead poisoning prevention, testing, and treatment as it deems appropriate. The Board may also establish procedures governing how health care providers and laboratories report results to the Department of Health.
+		The Commissioner may authorize linkages between secure electronic data systems maintained by the Department of Health containing blood-lead level records and the Virginia Immunization Information System (VIIS) operated pursuant to § 32.1-46.01. The Commissioner may authorize health care providers authorized to view VIIS to view blood-lead level records of individuals to whom the providers are providing health care services. The records may be made available until the child reaches seven years of age, after which the records shall not be made available through a linkage to VIIS. Such linkages shall be subject to all applicable state and federal privacy laws and regulations.
+	</text>
+	<history>2000, c. 907; 2003, c. 463; 2007, c. 691; 2012, c. 147.</history>
+</law>

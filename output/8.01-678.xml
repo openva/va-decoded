@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="26.2" level="2">Appeals Generally</unit>
+		<unit label="article" identifier="2" level="3">Errors Insufficient in the Appellate Court</unit>
+	</structure>
+	<section_number>8.01-678</section_number>
+	<catch_line>For what a judgment not to be reversed</catch_line>
+	<text>
+		When it plainly appears from the record and the evidence given at the trial that the parties have had a fair trial on the merits and substantial justice has been reached, no judgment shall be arrested or reversed:
+		<section prefix="1">For the appearance of either party, being under the age of eighteen years, by attorney, if the verdict, where there is one, or the judgment be for him and not to his prejudice; or
+		</section>
+		<section prefix="2">For any other defect, imperfection, or omission in the record, or for any error committed on the trial.
+		</section>
+	</text>
+	<history>Code 1950, § 8-487; 1954, c. 333; 1977, c. 617.</history>
+</law>

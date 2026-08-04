@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="10" level="3">Cigarette Tax</unit>
+		<unit label="article" identifier="2.1" level="4">Tobacco Products Tax</unit>
+	</structure>
+	<section_number>58.1-1021.07</section_number>
+	<catch_line>Retail sales of liquid nicotine and nicotine vapor products; identification and use by minors</catch_line>
+	<text>
+		Before a retail dealer may sell liquid nicotine or nicotine vapor products to any consumer, the person selling, offering for sale, giving, or furnishing the liquid nicotine or nicotine vapor product shall verify that the consumer is of legal age by:
+		<section prefix="1">For any retail sale by a retail dealer, examining from any person who appears to be under 30 years of age a government-issued photographic identification that establishes the person is of legal age or, if required pursuant to subdivision C 4 b of § 58.1-1021.04:1 or subdivision B 2 b of § 59.1-293.12, verifying the identification presented using identification fraud detection software, technology, or scanner that confirms the authenticity of such identification; or
+		</section>
+		<section prefix="2">For any delivery sale by a retail dealer to a consumer in the Commonwealth, performing an age verification through an independent, age verification software, service, or technology that compares information available from public records to the personal information entered by the purchaser during the ordering process that establishes that the purchaser is of legal age or older.
+		</section>
+	</text>
+	<history>2024, cc. 796, 821.</history>
+</law>

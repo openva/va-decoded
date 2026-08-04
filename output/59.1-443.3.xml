@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="35" level="2">Personal Information Privacy Act</unit>
+	</structure>
+	<section_number>59.1-443.3</section_number>
+	<catch_line>Scanning information from driver's license or other document; retention, sale, or dissemination of information</catch_line>
+	<text>
+		<section prefix="A">No merchant may scan the machine-readable zone of a driver's license or other document issued by the Department of Motor Vehicles under Chapter 3 (§ 46.2-300 et seq.) of Title 46.2 or the comparable law of another jurisdiction, except for the following purposes:
+			<section prefix="1">To verify authenticity of the driver's license or other document or to verify the identity of the individual if the individual requests a service pursuant to a membership or a service agreement, pays for goods or services with a method other than cash, returns an item, or requests a refund or an exchange;
+			</section>
+			<section prefix="2">To verify the individual's age when providing age-restricted goods or services to the individual if there is a reasonable doubt of the individual having reached 18 years of age or older;
+			</section>
+			<section prefix="3">To prevent fraud or other criminal activity if the individual returns an item or requests a refund or an exchange and the merchant uses a fraud prevention service company or system. Information collected by scanning an individual's driver's license or other document pursuant to this subdivision shall be limited to the individual's name, address, and date of birth and the number of the driver's license or other document;
+			</section>
+			<section prefix="4">To comply with a requirement imposed on the merchant by the laws of the Commonwealth or federal law;
+			</section>
+			<section prefix="5">To provide to a check services company regulated by the federal Fair Credit Reporting Act, (15 U.S.C. § 1681 et seq.), that receives information obtained from an individual's driver's license or other document to administer or enforce a transaction or to prevent fraud or other criminal activity; or
+			</section>
+			<section prefix="6">To complete a transaction permitted under the federal Gramm-Leach-Bliley Act, (15 U.S.C. § 6801 et seq.), or the federal Fair Credit Reporting Act, (15 U.S.C. § 1681 et seq.).
+			</section>
+		</section>
+		<section prefix="B">No merchant shall retain any information obtained from a scan of the machine-readable zone of an individual's driver's license or other document except as permitted in subdivision A 1, 3, 4, 5, or 6. The merchant shall destroy the retained information when the purpose for which it was provided and retained under this section has been satisfied.
+		</section>
+		<section prefix="C">No merchant shall sell or disseminate to a third party any information obtained from a scan of the machine-readable zone of an individual's driver's license or other document for any marketing, advertising, or promotional purpose. This subsection shall not prohibit a merchant from disseminating to a third party any such information for a purpose described in subdivision A 3, 4, 5, or 6.
+		</section>
+		<section prefix="D">Any waiver of a provision of this section is contrary to public policy and is void and unenforceable.
+		</section>
+	</text>
+	<history>2014, cc. 789, 795; 2020, cc. 542, 1227, 1246.</history>
+</law>

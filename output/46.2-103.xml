@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions; Department of Motor Vehicles</unit>
+		<unit label="chapter" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>46.2-103</section_number>
+	<catch_line>Stopping vehicles for inspection or to secure information</catch_line>
+	<text>
+		Except as prohibited by § 19.2-59, on his request or signal, any law-enforcement officer who is in uniform or displays his badge or other sign of authority may:
+		<section prefix="1">Stop any motor vehicle, trailer, or semitrailer to inspect its equipment, operation, manufacturer's serial or engine number; or
+		</section>
+		<section prefix="2">Stop any property-carrying motor vehicle, trailer, or semitrailer to inspect its contents or load or to obtain other necessary information.
+			Nothing in this section, however, shall be construed to authorize the establishment on any highway of police check-points where the only vehicles subject to inspection are motorcycles.
+		</section>
+	</text>
+	<history>Code 1950, § 46-16; 1958, c. 541, § 46.1-8; 1989, c. 727; 2012, c. 11.</history>
+</law>

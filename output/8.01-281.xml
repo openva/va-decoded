@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="7" level="2">Civil Actions; Commencement, Pleadings, and Motions</unit>
+		<unit label="article" identifier="2" level="3">Pleadings Generally</unit>
+	</structure>
+	<section_number>8.01-281</section_number>
+	<catch_line>Pleading in alternative; separate trial on motion of party</catch_line>
+	<text>
+		<section prefix="A">A party asserting either a claim, counterclaim, cross-claim, or third-party claim or a defense may plead alternative facts and theories of recovery against alternative parties, provided that such claims, defenses, or demands for relief so joined arise out of the same transaction or occurrence. Such claim, counterclaim, cross-claim, or third-party claim may be for contribution, indemnity, subrogation, or contract, express or implied; it may be based on future potential liability, and it shall be no defense thereto that the party asserting such claim, counterclaim, cross-claim, or third-party claim has made no payment or otherwise discharged any claim as to him arising out of the transaction or occurrence.
+		</section>
+		<section prefix="B">The court may, upon motion of any party, order a separate trial of any claim, counterclaim, cross-claim, or third-party claim, and of any separate issue or of any number of such claims; however, in any action wherein a defendant files a third-party motion for judgment alleging that damages to the person or property of the plaintiff were caused by the negligence of the third-party defendant in the operation of a motor vehicle, the court shall, upon motion of the plaintiff made at least five days in advance of trial, order a separate trial of such third-party claim.
+		</section>
+	</text>
+	<history>Code 1950, § 8-96.1; 1974, c. 355; 1977, c. 617; 1981, c. 426; 1983, c. 183.</history>
+</law>

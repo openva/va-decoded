@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="1" level="3">Hospital and Nursing Home Licensure and Inspection</unit>
+	</structure>
+	<section_number>32.1-137.09</section_number>
+	<catch_line>Hospital emergency department CPT code data reporting</catch_line>
+	<text>
+		<section prefix="A">Every hospital in the Commonwealth that includes an emergency department shall report quarterly to the Department, for the preceding quarter, (i) the total number of visits to the hospital's emergency department, by location, and (ii) the total number of visits to the hospital's emergency department by emergency department evaluation and management (E/M) Physicians' Current Procedural Terminology (CPT) code.
+		</section>
+		<section prefix="B">The Department shall annually publish a report setting forth the average number of hospital emergency department visits by location and by emergency department E/M CPT code statewide and by region for each month.
+		</section>
+		<section prefix="C">The Department may enter into a contract or agreement with the nonprofit organization with which the Department has entered into a contract or agreement pursuant to § 32.1-276.4 for the compilation, storage, analysis, and evaluation of data required to be submitted pursuant to this section.
+		</section>
+	</text>
+	<history>2022, c. 342.</history>
+</law>

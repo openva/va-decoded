@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="8" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-1234</section_number>
+	<catch_line>Dissolution generally</catch_line>
+	<text>
+		A business trust organized under this chapter is dissolved and its affairs shall be wound up upon the happening of the first to occur of the following events:
+		<section prefix="1">At the time or on the happening of any events specified in writing in the articles of trust or a governing instrument;
+		</section>
+		<section prefix="2">Upon the unanimous written consent of the beneficial owners;
+		</section>
+		<section prefix="3">The entry of a decree of judicial dissolution under § 13.1-1235;
+		</section>
+		<section prefix="4">Automatic cancellation of its existence pursuant to § 13.1-1238.1; or
+		</section>
+		<section prefix="5">Involuntary cancellation of its existence pursuant to § 13.1-1238.2.
+		</section>
+	</text>
+	<history>2002, c. 621; 2008, cc. 101, 588, 770; 2009, c. 167.</history>
+</law>

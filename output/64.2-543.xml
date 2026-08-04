@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="5" level="3">Personal Representatives and Administration of Estates</unit>
+		<unit label="article" identifier="7" level="4">Apportionment of Estate Taxes</unit>
+	</structure>
+	<section_number>64.2-543</section_number>
+	<catch_line>Contrary provisions of will or other instrument to govern</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section:
+			"Includable beneficial interest" means any property, interest, or benefit included in a person's estate for estate tax purposes that passes pursuant to an instrument other than such person's will.
+		</section>
+		<section prefix="B">The provisions of this article shall not impair the right or power of any person by will or by written instrument executed inter vivos to make direction for the payment of estate taxes and to designate the fund or property out of which such payment shall be made. Such designated funds or property may, in addition to any property passing by testate or intestate succession, include any includable beneficial interest. Unless a larger amount is charged to a specific includable beneficial interest by the instrument creating the interest, the maximum amount of tax that each such includable beneficial interest may be charged shall be limited to its share, as determined pursuant to § 64.2-540 for the apportionment of taxes.
+		</section>
+	</text>
+	<history>Code 1950, § 64-155; 1968, c. 656, § 64.1-165; 1994, c. 917; 2012, c. 614.</history>
+</law>

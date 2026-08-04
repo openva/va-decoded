@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="2" level="3">Formation and Terms</unit>
+	</structure>
+	<section_number>59.1-502.7</section_number>
+	<catch_line>Formation; releases of informational rights</catch_line>
+	<text>
+		<section prefix="a">A release is effective without consideration if it is:
+			<section prefix="1">in a record to which the releasing party agrees, such as by manifesting assent, and which identifies the informational rights released; or
+			</section>
+			<section prefix="2">enforceable under estoppel, implied license, or other law.
+			</section>
+		</section>
+		<section prefix="b">A release continues for the duration of the informational rights released if the release does not specify its duration and does not require affirmative performance after the grant of the release by:
+			<section prefix="1">the party granting the release; or
+			</section>
+			<section prefix="2">the party receiving the release, except for relatively insignificant acts.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2004, c. 794.</history>
+</law>

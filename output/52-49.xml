@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="52" level="1">Police (State)</unit>
+		<unit label="chapter" identifier="11" level="2">Virginia Fusion Intelligence Center</unit>
+	</structure>
+	<section_number>52-49</section_number>
+	<catch_line>Receipt of information; immunity from liability</catch_line>
+	<text>
+		<section prefix="A">No cause of action for defamation, invasion of privacy, or negligence shall arise against any person for reason of that person's furnishing of information concerning any suspected, anticipated, or completed criminal violation when the information is provided to or received from the Department or any federal or state governmental entity established for the purposes of detecting and preventing acts of terrorism.
+		</section>
+		<section prefix="B">No person shall be subject to such cause of action for cooperating with, or furnishing evidence or information regarding any suspected criminal violation to, the Department.
+		</section>
+		<section prefix="C">This section shall not provide immunity for those disclosing or furnishing false information with malice or willful intent to injure any person.
+		</section>
+		<section prefix="D">This section does not abrogate or modify in any way common law or statutory privilege or immunity heretofore enjoyed by any person or entity.
+		</section>
+	</text>
+	<history>2008, c. 792.</history>
+</law>

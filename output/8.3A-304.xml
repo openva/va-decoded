@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="3" level="2">Enforcement of Instruments</unit>
+	</structure>
+	<section_number>8.3A-304</section_number>
+	<catch_line>Overdue instrument</catch_line>
+	<text>
+		<section prefix="a">An instrument payable on demand becomes overdue at the earliest of the following times:
+			<section prefix="1">on the day after the day demand for payment is duly made;
+			</section>
+			<section prefix="2">if the instrument is a check, ninety days after its date; or
+			</section>
+			<section prefix="3">if the instrument is not a check, when the instrument has been outstanding for a period of time after its date which is unreasonably long under the circumstances of the particular case in light of the nature of the instrument and usage of the trade.
+			</section>
+		</section>
+		<section prefix="b">With respect to an instrument payable at a definite time the following rules apply:
+			<section prefix="1">If the principal is payable in installments and a due date has not been accelerated, the instrument becomes overdue upon default under the instrument for nonpayment of an installment, and the instrument remains overdue until the default is cured.
+			</section>
+			<section prefix="2">If the principal is not payable in installments and the due date has not been accelerated, the instrument becomes overdue on the day after the due date.
+			</section>
+			<section prefix="3">If a due date with respect to principal has been accelerated, the instrument becomes overdue on the day after the accelerated due date.
+			</section>
+		</section>
+		<section prefix="c">Unless the due date of principal has been accelerated, an instrument does not become overdue if there is default in payment of interest but no default in payment of principal.
+		</section>
+	</text>
+	<history>Code 1950, § 6-408; 1964, c. 219, § 8.3-304; 1992, c. 693.</history>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="4" level="3">Certain Lending Practices</unit>
+		<unit label="article" identifier="3" level="4">Credit Cards</unit>
+	</structure>
+	<section_number>6.2-425</section_number>
+	<catch_line>Cardholder not liable in absence of request for, consent to issuance of, or use of card</catch_line>
+	<text>
+		<section prefix="A">A cardholder who receives a credit card from an issuer, which card the cardholder has not requested nor consented to the issuance of in writing, nor used, shall not be liable for any amount owing because of a use of the credit card.
+		</section>
+		<section prefix="B">The failure to destroy or return an unsolicited credit card shall neither:
+			<section prefix="1">Be evidence of a cardholder's request for or consent to the issuance of the credit card, nor
+			</section>
+			<section prefix="2">Constitute negligence on the part of the cardholder.
+			</section>
+		</section>
+		<section prefix="C">Use by an authorized agent of the cardholder shall be the equivalent of use by the cardholder. The burden of proving the authority of an agent shall be upon the issuer.
+		</section>
+	</text>
+	<history>1970, c. 324, § 11-31; 2010, c. 794.</history>
+</law>

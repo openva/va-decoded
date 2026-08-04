@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="2" level="4">Motor Fuel Licensing</unit>
+	</structure>
+	<section_number>58.1-2204</section_number>
+	<catch_line>Persons required to be licensed</catch_line>
+	<text>
+		<section prefix="A">A person shall obtain a license issued by the Commissioner before conducting the activities of:
+			<section prefix="1">A refiner, who shall be licensed as a supplier;
+			</section>
+			<section prefix="2">A supplier;
+			</section>
+			<section prefix="3">A terminal operator;
+			</section>
+			<section prefix="4">An importer;
+			</section>
+			<section prefix="5">An exporter;
+			</section>
+			<section prefix="6">A blender;
+			</section>
+			<section prefix="7">A motor fuel transporter;
+			</section>
+			<section prefix="8">An aviation consumer;
+			</section>
+			<section prefix="9">A bonded importer;
+			</section>
+			<section prefix="10">An elective supplier; or
+			</section>
+			<section prefix="11">A fuel alcohol provider.
+			</section>
+		</section>
+		<section prefix="B">A person who is engaged in more than one activity for which a license is required shall have a separate license for each activity, except as provided in subsection C.
+		</section>
+		<section prefix="C">1. A person who is licensed as a supplier shall not be required to obtain a separate license for any other activity for which a license is required and shall be considered to have a license as a distributor.
+			<section prefix="2">A person who is licensed as an occasional importer shall not be required to obtain a license as a distributor.
+			</section>
+			<section prefix="3">A person who is licensed as a distributor shall not be required to obtain a separate license as an importer if the distributor acquires fuel for import only from an elective supplier or permissive supplier. Such licensed distributor shall not be required to obtain a separate license as an exporter.
+			</section>
+			<section prefix="4">A person who is licensed as a distributor or a blender shall not be required to obtain a separate license as a motor fuel transporter if he does not transport motor fuel for others for hire.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 729, 758; 2003, c. 781; 2004, c. 340; 2012, c. 363.</history>
+</law>

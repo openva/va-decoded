@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="2" level="2">Board of Education</unit>
+	</structure>
+	<section_number>22.1-20.2</section_number>
+	<catch_line>Student data security</catch_line>
+	<text>
+		<section prefix="A">The Department of Education shall develop, in collaboration with the Virginia Information Technologies Agency, and update regularly but in no case less than annually, a model data security plan for the protection of student data held by school divisions. Such model plan shall include (i) guidelines for access to student data and student data systems, including guidelines for authentication of authorized access; (ii) privacy compliance standards; (iii) privacy and security audits; (iv) procedures to follow in the event of a breach of student data; and (v) data retention and disposition policies. The model plan and any updates shall be made available to every school division.
+		</section>
+		<section prefix="B">The Department of Education shall designate a chief data security officer, with such state funds as made available, to assist school divisions, upon request, with the development and implementation of their own data security plans and to develop best practice recommendations regarding the use, retention, and protection of student data.
+		</section>
+	</text>
+	<history>2015, c. 561.</history>
+</law>

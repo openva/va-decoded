@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="3.2" level="2">Emergency Services and Disaster Law</unit>
+	</structure>
+	<section_number>44-146.18:6</section_number>
+	<catch_line>Geographic Information Network Division established; powers and duties; Division Coordinator</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Base map data" means the digitized common geographic data that is used by most geographic information systems applications to reference or link attribute or other geographic data.
+			"Division" means the Geographic Information Network Division.
+			"Geographic data" means data that contains either coordinates that reference a geographic location or area or attribute data that can be related to a geographic area or location.
+			"Geographic information system (GIS)" means a computerized system that stores and links geographic data to allow a wide range of information processing and display operations, as well as map production, analysis, and modeling.
+		</section>
+		<section prefix="B">There is established within the Department of Emergency Management a Geographic Information Network Division (the Division), which shall foster the creative utilization of geographic information and oversee the development of a catalog of GIS data available in the Commonwealth. The Division shall be headed by a Division Coordinator who shall be under the supervision of and report to the State Coordinator of Emergency Management.
+		</section>
+		<section prefix="C">The powers and duties of the Division shall include:
+			<section prefix="1">Requesting the services, expertise, supplies, and facilities of the Department of Emergency Management from the State Coordinator of Emergency Management on issues concerning the Division;
+			</section>
+			<section prefix="2">Accepting grants from the United States government and agencies and instrumentalities thereof and any other source. To those ends, the Division shall have the power to comply with such conditions and execute such agreements as may be necessary or desirable;
+			</section>
+			<section prefix="3">Fixing, altering, charging, and collecting rates, rentals, and other charges for the use or sale of products of, or services rendered by, the Division, at rates that reflect the fair market value;
+			</section>
+			<section prefix="4">Soliciting, receiving, and considering proposals for funding projects or initiatives from any state or federal agency, local or regional government, public institution of higher education, nonprofit organization, or private person or corporation;
+			</section>
+			<section prefix="5">Soliciting and accepting funds, goods, and in-kind services that are part of any accepted project proposal;
+			</section>
+			<section prefix="6">Establishing ad hoc committees or project teams to investigate related technology or technical issues and providing results and recommendations for Division action; and
+			</section>
+			<section prefix="7">Establishing such bureaus, sections, or units as the Division deems appropriate to carry out its powers and duties.
+			</section>
+		</section>
+		<section prefix="D">The Division Coordinator shall:
+			<section prefix="1">Oversee the development of and recommend to the Department of Emergency Management the development of those policies, standards, and guidelines required to support state and local government exchange, acquisition, storage, use, sharing, and distribution of geographic or base map data and related technologies;
+			</section>
+			<section prefix="2">Foster the development of a coordinated comprehensive system for providing ready access to electronic state government geographic data products for individuals, businesses, and other entities;
+			</section>
+			<section prefix="3">Initiate and manage projects or conduct procurement activities relating to the development or acquisition of geographic data or statewide base map data or both;
+			</section>
+			<section prefix="4">Plan for and coordinate the development or procurement of priority geographic base map data;
+			</section>
+			<section prefix="5">Develop, maintain, and provide, in the most cost-effective manner, access to the catalog of Virginia geographic data and governmental geographic data users;
+			</section>
+			<section prefix="6">Provide, upon request, advice and guidance on all agreements and contracts from all branches of state government for geographic data acquisition and design and the installation and maintenance of geographic information systems;
+			</section>
+			<section prefix="7">Compile a data catalog consisting of descriptions of GIS coverages maintained by individual executive branch and local government agencies. Nothing in this article shall be construed to require that GIS data be physically delivered to the Division. All executive branch agencies that maintain GIS databases shall report to the Division the details of the data that they develop, acquire, and maintain. Each agency shall submit quarterly reports to the Division specifying all updates to existing data as well as all data development and acquisition currently in progress. Data exempt from the Virginia Freedom of Information Act (§ 2.2-3700 et seq.) need not be reported to the Division;
+			</section>
+			<section prefix="8">Identify and collect information and technical requirements to assist the Division in setting priorities for the development of state digital geographic data and base maps that meet the needs of state agencies, institutions of higher education, and local governments;
+			</section>
+			<section prefix="9">Provide services, geographic data products, and access to the repository at rates established by the Division; and
+			</section>
+			<section prefix="10">Ensure the compliance of those policies, standards, and guidelines developed by VITA required to support and govern the security of state and local government exchange, acquisition, storage, use, sharing, and distribution of geographic or base map data and related technologies.
+			</section>
+		</section>
+	</text>
+	<history>2020, c. 423.</history>
+</law>

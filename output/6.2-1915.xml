@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="19" level="3">Money Order Sellers and Money Transmitters</unit>
+	</structure>
+	<section_number>6.2-1915</section_number>
+	<catch_line>(Repealed effective July 1, 2026) Sale or issuance of bearer money orders; prohibition.</catch_line>
+	<text>
+		<section prefix="A">No authorized delegate of a licensee shall sell a money order with a face amount of $750 or more that does not designate a specific payee.
+		</section>
+		<section prefix="B">This section applies only to paper money orders.
+		</section>
+		<section prefix="C">This section does not apply to (i) travelers checks, (ii) electronic instruments, (iii) stored value products or other similar instruments for the transmission or payment of money, or (iv) money orders sold or issued by insured financial institutions.
+		</section>
+		<section prefix="D">Licensees shall inform their authorized delegates of the obligations imposed by this section.
+		</section>
+	</text>
+	<history>1999, c. 355, § 6.1-378.3; 2009, c. 346; 2010, c. 794; 2025, c. 214.</history>
+</law>

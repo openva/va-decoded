@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="II" level="2">Professions and Occupations Regulated by the Department of Professional and Occupational Regulation and Boards Within the Department</unit>
+		<unit label="chapter" identifier="5" level="3">Asbestos, Lead, and Home Inspection Contractors and Workers</unit>
+		<unit label="article" identifier="2" level="4">Home Inspectors</unit>
+	</structure>
+	<section_number>54.1-517.2:1</section_number>
+	<catch_line>Home inspection; required statement related to the presence of yellow shaded corrugated stainless steel tubing</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Bonding" means connecting metallic systems to establish electrical continuity and conductivity.
+			"Corrugated stainless steel tubing" or "CSST" means a flexible stainless steel pipe used to supply natural gas or propane in residential, commercial, and industrial structures.
+			"Grounding" means connecting to the ground or to a conductive body that extends to ground connection.
+		</section>
+		<section prefix="B">If a home inspector observes the presence of any shade of yellow corrugated stainless steel tubing during a home inspection in a home that was built prior to the adoption of the 2006 Virginia Construction Code, effective May 1, 2008, he shall include that observation in the report along with the following statement: "Manufacturers believe that this product is safer if properly bonded and grounded as required by the manufacturer's installation instructions. Proper bonding and grounding of the product should be determined by a contractor licensed to perform the work in the Commonwealth of Virginia."
+		</section>
+	</text>
+	<history>2017, c. 805.</history>
+</law>

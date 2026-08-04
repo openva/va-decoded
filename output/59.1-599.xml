@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="56" level="2">Genetic Data Privacy</unit>
+	</structure>
+	<section_number>59.1-599</section_number>
+	<catch_line>Certain disclosures of genetic data prohibited</catch_line>
+	<text>
+		No direct-to-consumer genetic testing company shall disclose a consumer's genetic data to any entity that is responsible for administering or making decisions regarding health insurance, life insurance, long-term care insurance, disability insurance, or employment or any entity that provides advice to such an entity without the consumer's express consent.
+	</text>
+	<history>2023, c. 526.</history>
+</law>

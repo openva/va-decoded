@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="V" level="2">Miscellaneous</unit>
+		<unit label="chapter" identifier="31" level="3">Release of Specific Property from Judgment Liens</unit>
+	</structure>
+	<section_number>55.1-3101</section_number>
+	<catch_line>Release of judgment lien by settlement agent; notice to lien creditor</catch_line>
+	<text>
+		<section prefix="A">A settlement agent may release property from a judgment lien in accordance with the provisions of this section if (i) the settlement agent has made a written request for a payoff amount from the lien creditor and his counsel of record, if any, as reflected in the judgment, judgment abstract, or any certificate of extension filed in the land records; (ii) the lien creditor (a) has not responded to such request within 15 days or (b) is unable to be located by the settlement agent after attempts at notice are made as provided in subsection B; (iii) the settlement agent has delivered or attempted to deliver a notice of intent to release pursuant to subsection C and the lien creditor has not responded as required by this section; and (iv) the owner of the property attests in an affidavit that (a) the owner has paid all or a portion of the judgment but in good faith does not have knowledge of the judgment balance or (b) the owner is not the judgment debtor and has no knowledge of the judgment balance. In such affidavit, such owner shall attest that he has exercised due diligence to locate the creditor and obtain a payoff amount, if the judgment is outstanding, and that all attempts to reach such creditor have been unsuccessful.
+		</section>
+		<section prefix="B">A settlement agent intending to release a specific piece of property from a judgment lien pursuant to this section shall deliver or attempt to deliver to the lien creditor and his counsel of record, if any, by certified mail, commercial overnight delivery service, or the United States Postal Service, a notice of intent to release and a copy of the release to be recorded.
+		</section>
+		<section prefix="C">The notice of intent to release shall contain (i) the name and current contact information of the settlement agent; (ii) a copy of the recorded judgment or judgment abstract and a copy of any related recorded assignment or notice of assignment of the judgment; and (iii) the street address, tax parcel number, or other identifying information for the property that is the subject of the release. The notice of intent to release shall conform substantially to the following form:
+			NOTICE OF INTENT TO RELEASE
+			(Date of notice)
+			Notice is hereby given to you concerning the judgment lien described on the certificate of release, a copy of which is attached to this notice, as follows:
+			<section prefix="1">The settlement agent identified below made a written request more than 15 days ago for payoff amounts related to the judgment lien cited in the attached recorded abstract of judgment incident to the conveyance or encumbrance of certain property identified below. Said payoff has not been provided as of the date of this notice.
+			</section>
+			<section prefix="2">The undersigned will release only the property from the judgment lien described in this notice unless, within 30 days from the date of notice, the lien creditor sends to the undersigned by (i) certified mail, return receipt requested; (ii) commercial delivery service for same day or next business day delivery; (iii) the United States Postal Service for next business day delivery; or (iv) electronic mail or facsimile transmittal to the electronic mail address or fax number provided by the settlement agent a notice stating that the lien creditor objects to the release of the property from the judgment lien without payment to the lien creditor and provides a complete payoff amount. Notice shall be sent to the address stated on this form.
+				(Name of settlement agent)
+				(Virginia RESA registration number of settlement agent)
+				(Address of settlement agent)
+				(Telephone number, fax number, and email address of settlement agent)
+			</section>
+		</section>
+		<section prefix="D">For the purposes of this chapter, a settlement agent shall maintain, for the lifetime of the judgement lien, all documents related to exercising due diligence to locate the creditor.
+		</section>
+	</text>
+	<history>2023, c. 550.</history>
+</law>

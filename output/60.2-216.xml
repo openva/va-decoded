@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="2" level="2">Definitions</unit>
+	</structure>
+	<section_number>60.2-216</section_number>
+	<catch_line>Employment outside of United States</catch_line>
+	<text>
+		<section prefix="A">"Employment" includes any service of an individual who is a citizen of the United States, performed outside the United States, except in Canada, in the employ of an American employer other than service which is deemed "employment" under the provisions of subsections A and B of § 60.2-217 or the parallel provisions of another state's law, if:
+			<section prefix="1">The employer's principal place of business in the United States is located in this Commonwealth;
+			</section>
+			<section prefix="2">The employer has no place of business in the United States, but
+				a. The employer is an individual who is a resident of this Commonwealth,
+				b. The employer is a corporation which is organized under the laws of this Commonwealth, or
+				c. The employer is a partnership or a trust and the number of the partners or trustees who are residents of this Commonwealth is greater than the number who are residents of any one other state; or
+			</section>
+			<section prefix="3">None of the criteria of subdivisions 1 and 2 of this subsection is met but the employer has elected coverage in this Commonwealth or, the employer having failed to elect coverage in any state, the individual has filed a claim for benefits, based on such service, under the law of this Commonwealth.
+			</section>
+		</section>
+		<section prefix="B">An "American employer," for purposes of this section, means a person who is:
+			<section prefix="1">An individual who is a resident of the United States;
+			</section>
+			<section prefix="2">A partnership, if two-thirds or more of the partners are residents of the United States;
+			</section>
+			<section prefix="3">A trust, if all of the trustees are residents of the United States; or
+			</section>
+			<section prefix="4">A corporation organized under the laws of the United States or of any state.
+			</section>
+		</section>
+		<section prefix="C">As used in this section, the term "United States" shall be defined as "state" is defined in § 60.2-225.
+		</section>
+	</text>
+	<history>Code 1950, § 60-14; 1952, cc. 30, 184; 1956, c. 440; 1962, c. 71; 1968, c. 738, § 60.1-14; 1971, Ex. Sess., c. 235; 1972, c. 824; 1974, cc. 466, 660; 1976, c. 304; 1977, c. 330; 1979, c. 637; 1980, cc. 520, 522; 1981, cc. 28, 369, 374, 375; 1982, c. 25; 1983, c. 14; 1984, cc. 120, 139, 204; 1985, cc. 152, 254; 1986, c. 480.</history>
+</law>

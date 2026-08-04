@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code — Sales</unit>
+		<unit label="part" identifier="1" level="2">Short Title, General Construction and Subject Matter</unit>
+	</structure>
+	<section_number>8.2-102</section_number>
+	<catch_line>Scope; certain security and other transactions excluded from this title</catch_line>
+	<text>
+		<section prefix="1">Unless the context otherwise requires, and except as provided in subsection (3), this title applies to transactions in goods and, in the case of a hybrid transaction, it applies to the extent provided in subsection (2).
+		</section>
+		<section prefix="2">In a hybrid transaction:
+			<section prefix="a">If the sale-of-goods aspects do not predominate, only the provisions of this title that relate primarily to the sale-of-goods aspects of the transaction apply, and the provisions that relate primarily to the transaction as a whole do not apply.
+			</section>
+			<section prefix="b">If the sale-of-goods aspects predominate, this title applies to the transaction but does not preclude application in appropriate circumstances of other law to aspects of the transaction that do not relate to the sale of goods.
+			</section>
+		</section>
+		<section prefix="3">This title does not:
+			<section prefix="a">apply to a transaction that, even though in the form of an unconditional contract to sell or present sale, operates only to create a security interest; or
+			</section>
+			<section prefix="b">impair or reveal a statute regulating sales to consumers, farmers, or other specified classes of buyers.
+			</section>
+		</section>
+	</text>
+	<history>1964, c. 219; 2024, c. 652.</history>
+</law>

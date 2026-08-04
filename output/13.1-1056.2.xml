@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="10" level="3">Foreign Limited Liability Companies</unit>
+	</structure>
+	<section_number>13.1-1056.2</section_number>
+	<catch_line>Involuntary cancellation of certificate of registration</catch_line>
+	<text>
+		<section prefix="A">The certificate of registration to transact business in the Commonwealth of any foreign limited liability company may be canceled involuntarily by order of the Commission when it finds that the foreign limited liability company:
+			<section prefix="1">Has continued to exceed or abuse the authority conferred upon it by law;
+			</section>
+			<section prefix="2">Has failed to maintain a registered office or a registered agent in the Commonwealth as required by law;
+			</section>
+			<section prefix="3">Has failed to file any document required by this chapter to be filed with the Commission;
+			</section>
+			<section prefix="4">No longer exists under the laws of the state or other jurisdiction of its organization; or
+			</section>
+			<section prefix="5">Has been convicted for a violation of 8 U.S.C. § 1324a (f), as amended, for actions of its members or managers constituting a pattern or practice of employing unauthorized aliens in the Commonwealth.
+			</section>
+		</section>
+		<section prefix="B">Before entering any such order the Commission shall issue a rule against the foreign limited liability company giving it an opportunity to be heard and show cause why such an order should not be entered. The Commission may issue the rule on its own motion or on motion of the Attorney General.
+		</section>
+		<section prefix="C">The authority of a foreign limited liability company to transact business in the Commonwealth ceases on the date shown on the order canceling its certificate of registration.
+		</section>
+		<section prefix="D">The Commission's cancellation of a foreign limited liability company's certificate of registration appoints the clerk of the Commission the foreign limited liability company's agent for service of process in any proceeding based on a cause of action arising during the time the foreign limited liability company was registered to transact business in the Commonwealth. Service of process on the clerk of the Commission under this subsection is service on the foreign limited liability company and shall be made on the clerk in accordance with § 12.1-19.1.
+		</section>
+		<section prefix="E">Cancellation of a foreign limited liability company's certificate of registration does not terminate the authority of the registered agent of the foreign limited liability company.
+		</section>
+		<section prefix="F">Any foreign limited liability company convicted of the offense listed in subdivision A 5 shall immediately report such conviction to the Commission and file with the Commission an authenticated copy of the judgment or record of conviction. A certificate of registration canceled pursuant to subdivision A 5 shall not be eligible for reinstatement for a period of not less than one year.
+		</section>
+	</text>
+	<history>2008, c. 108; 2009, c. 167.</history>
+</law>

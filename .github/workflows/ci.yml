@@ -1,0 +1,128 @@
+name: CI
+
+on:
+  push:
+    branches: [master, dev]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    services:
+      mysql:
+        image: mysql:8.0
+        env:
+          MYSQL_ROOT_PASSWORD: rootpassword
+          MYSQL_DATABASE: statedecoded_test
+          MYSQL_USER: statedecoded
+          MYSQL_PASSWORD: statedecoded
+        ports:
+          - 3306:3306
+        options: >-
+          --health-cmd="mysqladmin ping -h 127.0.0.1 -u root -prootpassword --silent"
+          --health-interval=5s
+          --health-timeout=5s
+          --health-retries=15
+
+    steps:
+      - name: Check out va-decoded (configuration)
+        uses: actions/checkout@v5
+        with:
+          path: va-decoded
+
+      - name: Check out statedecoded
+        uses: actions/checkout@v5
+        with:
+          repository: statedecoded/statedecoded
+          ref: v1.2
+          path: statedecoded
+
+      - name: Set up PHP 8.3
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: pdo_mysql, intl, xsl, zip, gd, tidy, mbstring
+          tools: composer
+          coverage: none
+
+      - name: Lint and test va-decoded
+        working-directory: va-decoded
+        run: |
+          php -l scraper.php
+          php -l test.php
+          php -l includes/config.inc.php
+          php -l includes/class.Virginia.inc.php
+          bash -n updater.sh
+          php test.php
+
+      - name: Apply Virginia configuration
+        run: |
+          cp va-decoded/includes/class.Virginia.inc.php \
+             statedecoded/includes/class.Virginia.inc.php
+
+          # The test suite imports statedecoded's own deploy/import-data/ fixtures
+          # (see ImportDataTest), so va-decoded's output/ is not copied here.
+          mkdir -p statedecoded/htdocs/admin/import-data
+
+          sed \
+            -e "s|__PDO_DSN__|mysql:dbname=statedecoded_test;host=127.0.0.1;charset=utf8|g" \
+            -e "s|__PDO_USERNAME__|statedecoded|g" \
+            -e "s|__PDO_PASSWORD__|statedecoded|g" \
+            -e "s|__ADMIN_USERNAME__|admin|g" \
+            -e "s|__ADMIN_PASSWORD__|admin|g" \
+            va-decoded/includes/config.inc.php \
+            > statedecoded/includes/config.inc.php
+
+      - name: Cache Composer packages
+        uses: actions/cache@v4
+        with:
+          path: statedecoded/vendor
+          key: composer-${{ hashFiles('statedecoded/composer.lock') }}
+          restore-keys: composer-
+
+      - name: Install Composer dependencies
+        working-directory: statedecoded
+        run: composer install --no-interaction --prefer-dist
+
+      - name: Cache npm packages
+        uses: actions/cache@v4
+        with:
+          path: statedecoded/node_modules
+          key: npm-${{ hashFiles('statedecoded/package.json') }}
+          restore-keys: npm-
+
+      - name: Install and build front-end assets
+        working-directory: statedecoded
+        run: npm ci && npm run build
+
+      - name: Load test schema
+        env:
+          MYSQL_PWD: rootpassword
+        run: |
+          mysql -h 127.0.0.1 -u root statedecoded_test \
+            < statedecoded/htdocs/admin/statedecoded.sql
+
+      - name: Import sample data
+        working-directory: statedecoded
+        env:
+          PDO_DSN_TEST: "mysql:dbname=statedecoded_test;host=127.0.0.1;charset=utf8"
+          MYSQL_USER: statedecoded
+          MYSQL_PASSWORD: statedecoded
+        run: |
+          php statedecoded \
+            -c deploy/docker/config/config-test.inc.docker.php \
+            import \
+            -d=deploy/import-data/
+
+      - name: PHPStan
+        working-directory: statedecoded
+        run: vendor/bin/phpstan analyse
+
+      - name: PHPUnit
+        working-directory: statedecoded
+        env:
+          STATEDECODED_CONFIG: deploy/docker/config/config-test.inc.docker.php
+          PDO_DSN_TEST: "mysql:dbname=statedecoded_test;host=127.0.0.1;charset=utf8"
+        run: vendor/bin/phpunit -c includes/test/phpunit.xml

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="12.1" level="1">State Corporation Commission</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions</unit>
+	</structure>
+	<section_number>12.1-1</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this title, the term "corporation" or "company" shall mean all corporations created by acts of the General Assembly of Virginia, or under the general incorporation laws of this Commonwealth, or doing business therein, and shall exclude all municipal corporations, other political subdivisions, and public institutions owned or controlled by the Commonwealth; and the term "the Commission" shall mean the State Corporation Commission.
+	</text>
+	<history>Code 1950, § 12-1; 1971, Ex. Sess., c. 157.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="2" level="3">Jurisdiction</unit>
+	</structure>
+	<section_number>20-146.13</section_number>
+	<catch_line>Exclusive, continuing jurisdiction</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in § 20-146.15, a court of the Commonwealth that has made a child custody determination consistent with § 20-146.12 or 20-146.14 has exclusive, continuing jurisdiction as long as the child, a parent of the child, or any person acting as a parent of the child continues to live in the Commonwealth.
+		</section>
+		<section prefix="B">A court of the Commonwealth that has made a child custody determination and does not have exclusive, continuing jurisdiction under this section may modify that determination only if it has jurisdiction to make an initial determination under § 20-146.12.
+		</section>
+	</text>
+	<history>2001, c. 305; 2016, c. 179.</history>
+</law>

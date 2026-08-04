@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="21" level="3">Miscellaneous Provisions</unit>
+	</structure>
+	<section_number>8.01-220.1:4</section_number>
+	<catch_line>Civil immunity for officers and directors of certain nonprofit organizations</catch_line>
+	<text>
+		<section prefix="A">Directors and officers of any entity created to ensure the implementation in the Commonwealth of a national tobacco trust established to provide payments to tobacco growers and tobacco quota owners to ameliorate adverse economic consequences resulting from a national settlement of states' claims against tobacco manufacturers shall be immune from civil liability for acts taken in their capacities as officers or directors of such entities.
+		</section>
+		<section prefix="B">The liability of an officer or director shall not be limited as provided in this section if the officer or director was grossly negligent or engaged in willful misconduct or a knowing violation of the criminal law.
+		</section>
+	</text>
+	<history>2000, c. 1048.</history>
+</law>

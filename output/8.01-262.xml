@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="5" level="2">Venue</unit>
+	</structure>
+	<section_number>8.01-262</section_number>
+	<catch_line>Category B or permissible venue</catch_line>
+	<text>
+		In any actions to which this chapter applies except those actions enumerated in Category A where preferred venue is specified, one or more of the following counties or cities shall be permissible forums, such forums being sometimes referred to as "Category B" in this title:
+		<section prefix="1">Wherein the defendant resides or has his principal place of employment or, if the defendant is not an individual, wherein its principal office or principal place of business is located;
+		</section>
+		<section prefix="2">Wherein the defendant has a registered office, has appointed an agent to receive process, or such agent has been appointed by operation of the law; or, in case of withdrawal from the Commonwealth by such defendant, wherein venue herein was proper at the time of such withdrawal;
+		</section>
+		<section prefix="3">Provided there exists any practical nexus to the forum including, but not limited to, the location of fact witnesses, plaintiffs, or other evidence to the action, wherein the defendant regularly conducts substantial business activity, or in the case of withdrawal from the Commonwealth by such defendant, wherein venue herein was proper at the time of such withdrawal;
+		</section>
+		<section prefix="4">Wherein the cause of action, or any part thereof, arose;
+		</section>
+		<section prefix="5">In actions to recover or partition personal property, whether tangible or intangible, the county or city:
+			a. Wherein such property is physically located; or
+			b. Wherein the evidence of such property is located;
+			c. And if subdivisions a and b do not apply, wherein the plaintiff resides.
+		</section>
+		<section prefix="6">In actions against a fiduciary as defined in § 8.01-2 appointed under court authority, the county or city wherein such fiduciary qualified;
+		</section>
+		<section prefix="7">In actions for improper message transmission or misdelivery wherein the message was transmitted or delivered or wherein the message was accepted for delivery or was misdelivered;
+		</section>
+		<section prefix="8">In actions arising based on delivery of goods, wherein the goods were received;
+		</section>
+		<section prefix="9">If there is no other forum available in subdivisions 1 through 8 of this category, then the county or city where the defendant has property or debts owing to him subject to seizure by any civil process; or
+		</section>
+		<section prefix="10">Wherein any of the plaintiffs reside if (i) all of the defendants are unknown or are nonresidents of the Commonwealth or if (ii) there is no other forum available under any other provisions of § 8.01-261 or this section.
+			Notwithstanding the provisions of this section, in actions in which an administrator has been appointed pursuant to § 64.2-454, permissible venue shall only lie in a county or city in which venue would have been properly laid if the person for whom such appointment is made had survived.
+		</section>
+	</text>
+	<history>1977, c. 617; 1978, c. 414; 1979, c. 331; 1985, c. 213; 1999, c. 73; 2004, c. 979; 2013, cc. 71, 103; 2024, cc. 50, 340.</history>
+</law>

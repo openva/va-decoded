@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+		<unit label="article" identifier="2" level="4">General Provisions</unit>
+	</structure>
+	<section_number>64.2-108.2</section_number>
+	<catch_line>Provision in certain trust void</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section, "medical assistance" and "medical assistance benefits" mean benefits payable under the state plan for medical assistance services.
+		</section>
+		<section prefix="B">Except as provided in subsection C, a provision in any inter vivos trust created for the benefit of the grantor that provides directly or indirectly for the suspension, termination, or diversion of the principal, income, or other beneficial interest of the grantor in the event that he should apply for medical assistance or require medical, hospital, or nursing care or long-term custodial, nursing, or medical care shall be against public policy and ineffective as against the Commonwealth. The assets of the trust, both principal and interest, shall be distributed as though no such application had been made. The provisions of this subsection shall apply without regard to the irrevocability of the trust or the purpose for which the trust was created.
+		</section>
+		<section prefix="C">Subsection B shall not apply to any trust with a corpus of $25,000 or less. If the corpus of any such trust exceeds $25,000, $25,000 of the trust shall be exempt from the provisions of subsection B. However, if the grantor has created more than one trust as described in subsection B, the $25,000 exemption shall be prorated among the trusts. Further, if the grantor made uncompensated transfers, as defined in § 20-88.02, within 30 months of applying for Medicaid benefits and no payments were ordered pursuant to subsection D of § 20-88.02, the $25,000 exemption under this subsection shall not apply.
+		</section>
+		<section prefix="D">The exemption provided by subsection C shall not apply to any trust created on or after August 11, 1993.
+		</section>
+		<section prefix="E">To the extent any trust created between August 11, 1993, and July 1, 1994 would but for subsection D be entitled to the exemption provided by subsection C, the grantor may revoke such trust notwithstanding any irrevocability in the terms of such trust. Nothing contained in this subsection shall be construed to authorize the grantor to effect the vested rights of any beneficiary of such trust without the express written consent of such beneficiary.
+		</section>
+		<section prefix="F">The provisions of subsection B shall not apply to an irrevocable inter vivos trust to the extent it is created for the purpose of paying the grantor's funeral and burial expenses and is funded in an amount and manner allowable as a resource in determining eligibility for medical assistance benefits. In the event any amount remains in the trust upon payment of the funeral or burial arrangements provided to or on behalf of such individual, the Commonwealth shall receive all amounts remaining in such trust up to an amount equal to the total medical assistance paid on behalf of the individual.
+		</section>
+	</text>
+	<history>1993, c. 701, § 55-19.5; 1994, c. 692; 1998, c. 735; 2019, c. 712.</history>
+</law>

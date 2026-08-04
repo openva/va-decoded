@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="7.2" level="2">Health Care Data Reporting</unit>
+	</structure>
+	<section_number>32.1-276.9</section_number>
+	<catch_line>Confidentiality, subsequent release of data and relief from liability for reporting; penalty for wrongful disclosure; individual action for damages</catch_line>
+	<text>
+		<section prefix="A">Patient level data collected pursuant to this chapter shall be exempt from the provisions of the Virginia Freedom of Information Act (§ 2.2-3700 et seq.), shall be considered confidential, and shall not be disclosed other than as specifically authorized by this chapter; however, upon processing and verification by the nonprofit organization, all patient level data shall be publicly available, except patient, physician, and employer identifier elements, which may be released solely for research purposes if otherwise permitted by law and only if such identifier is encrypted and cannot be reasonably expected to reveal patient identities. No report published by the nonprofit organization, the Commissioner, or other person may present information that reasonably could be expected to reveal the identity of any patient. Publicly available information shall be designed to prevent persons from being able to gain access to combinations of patient characteristic data elements that reasonably could be expected to reveal the identity of any patient. The nonprofit organization, in its discretion, may release physician and employer identifier information. Outpatient surgical charge data shall be made publicly available only pursuant to a review by the Joint Commission on Health Care.
+		</section>
+		<section prefix="B">No person or entity, including the nonprofit organization contracting with the Commissioner, shall be held liable in any civil action with respect to any report or disclosure of information made under this article unless such person or entity has knowledge of any falsity of the information reported or disclosed.
+		</section>
+		<section prefix="C">Any disclosure of information made in violation of this chapter shall be subject to a civil penalty of not more than $5,000 per violation. This provision shall be enforceable upon petition to the appropriate circuit court by the Attorney General, any attorney for the Commonwealth, or any attorney for the county, city or town in which the violation occurred. Any penalty imposed shall be payable to the Literary Fund. In addition, any person or entity who is the subject of any disclosure in violation of this article shall be entitled to initiate an action to recover actual damages, if any, or $500, whichever is greater, together with reasonable attorney's fees and court costs.
+		</section>
+	</text>
+	<history>1996, c. 902; 2001, c. 341.</history>
+</law>

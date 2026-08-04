@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="C" level="3">Guardianship of Minor</unit>
+		<unit label="chapter" identifier="19" level="4">Virginia Uniform Transfers to Minors Act</unit>
+	</structure>
+	<section_number>64.2-1906</section_number>
+	<catch_line>Transfer by obligor</catch_line>
+	<text>
+		<section prefix="A">Subject to subsections B and C, a person not subject to § 64.2-1904 or who holds property of or owes a liquidated debt to a minor not having a conservator may make an irrevocable transfer to a custodian for the benefit of the minor pursuant to § 64.2-1908.
+		</section>
+		<section prefix="B">If a person having the right to do so under § 64.2-1902 has nominated a custodian under that section to receive the custodial property, the transfer shall be made to that person.
+		</section>
+		<section prefix="C">If no custodian has been nominated under § 64.2-1902, or all persons so nominated as custodian die before the transfer or are unable, decline, or are ineligible to serve, a transfer under this section may be made to an adult member of the minor's family or to a trust company unless the property exceeds $35,000 in value, in which event the transfer may be made if authorized by the court.
+		</section>
+	</text>
+	<history>1988, c. 516, § 31-43; 2012, c. 614; 2014, c. 532; 2025, c. 148.</history>
+</law>

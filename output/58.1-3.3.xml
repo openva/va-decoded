@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="chapter" identifier="0" level="2">General Provisions of Title 58.1</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>58.1-3.3</section_number>
+	<catch_line>Deemed consent to disclosure</catch_line>
+	<text>
+		When a credit or other tax attribute has been transferred from a transferor to a transferee pursuant to a statutory provision permitting such transfer, then:
+		<section prefix="1">The transferor shall be deemed to consent to the disclosure to the transferee of any confidential tax information relevant to the eligibility and value of the credit or other tax attribute transferred; and
+		</section>
+		<section prefix="2">The transferee shall be deemed to consent to the disclosure by the Department to the transferor of the amount of the transferred credit or other tax attribute used or absorbed on the transferee's tax return when such disclosure is necessary in the administration of the chapter.
+		</section>
+	</text>
+	<history>2008, c. 549.</history>
+</law>

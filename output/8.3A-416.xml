@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="4" level="2">Liability of Parties</unit>
+	</structure>
+	<section_number>8.3A-416</section_number>
+	<catch_line>Transfer warranties</catch_line>
+	<text>
+		<section prefix="a">A person who transfers an instrument for consideration warrants to the transferee and, if the transfer is by endorsement, to any subsequent transferee that:
+			<section prefix="1">the warrantor is a person entitled to enforce the instrument;
+			</section>
+			<section prefix="2">all signatures on the instrument are authentic and authorized;
+			</section>
+			<section prefix="3">the instrument has not been altered;
+			</section>
+			<section prefix="4">the instrument is not subject to a defense or claim in recoupment of any party which can be asserted against the warrantor; and
+			</section>
+			<section prefix="5">the warrantor has no knowledge of any insolvency proceeding commenced with respect to the maker or acceptor or, in the case of an unaccepted draft, the drawer.
+			</section>
+		</section>
+		<section prefix="b">A person to whom the warranties under subsection (a) are made and who took the instrument in good faith may recover from the warrantor as damages for breach of warranty an amount equal to the loss suffered as a result of the breach, but not more than the amount of the instrument plus expenses and loss of interest incurred as a result of the breach.
+		</section>
+		<section prefix="c">The warranties stated in subsection (a) cannot be disclaimed with respect to checks. Unless notice of a claim for breach of warranty is given to the warrantor within thirty days after the claimant has reason to know of the breach and the identity of the warrantor, the liability of the warrantor under subsection (b) is discharged to the extent of any loss caused by the delay in giving notice of the claim.
+		</section>
+		<section prefix="d">A cause of action for breach of warranty under this section accrues when the claimant has reason to know of the breach.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-417, 6-421; 1964, c. 219, § 8.3-417; 1992, c. 693.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="16" level="4">Income Tax Withholding</unit>
+	</structure>
+	<section_number>58.1-479</section_number>
+	<catch_line>Refund to employer; time limitation; procedure</catch_line>
+	<text>
+		<section prefix="A">Where there has been an overpayment to the Tax Commissioner by the employer under this article, the Tax Commissioner shall order a refund or give credit to the employer only to the extent that the amount of such overpayment was not deducted and withheld from the employee's wages under this article. Every such refund shall be made out of the state treasury on the order of the Tax Commissioner upon the Comptroller.
+		</section>
+		<section prefix="B">Unless written application for refund or credit is received by the Tax Commissioner from the employer within two years from the date the overpayment was made, no refund or credit shall be allowed.
+		</section>
+		<section prefix="C">Any employer aggrieved by any action of the Tax Commissioner under this section may proceed in court under §§ 58.1-1825 through 58.1-1830 as though the case involved an assessment of income taxes, except that (i) the limitation shall be two years from the date the alleged overpayment was made, and (ii) the time which shall elapse from the filing of the written application with the Tax Commissioner under subsection B to the time when the Tax Commissioner takes final action with respect to such application shall be excluded from the computation of the period of two years.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.16; 1962, c. 612; 1984, c. 675.</history>
+</law>

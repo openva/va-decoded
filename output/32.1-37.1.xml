@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="1" level="3">Reporting of Diseases</unit>
+	</structure>
+	<section_number>32.1-37.1</section_number>
+	<catch_line>Report of diseases infecting dead human bodies</catch_line>
+	<text>
+		Upon transferring custody of any dead body to any person practicing funeral services or his agent, any hospital, nursing facility or nursing home, assisted living facility, or correctional facility shall, at the time of transfer, notify the person practicing funeral services or his agent if the individual was known to have had immediately prior to death an infectious disease which may be transmitted through exposure to any bodily fluids.
+		Any facility or members of its staff specified in this section shall not be liable for injury resulting from ordinary negligence in failing to identify, as herein prescribed, a dead body of a person known to have had an infectious disease immediately prior to death.
+		The Board of Health shall determine the infectious diseases for which notification is required pursuant to this section.
+	</text>
+	<history>1988, c. 836; 1993, cc. 957, 993.</history>
+</law>

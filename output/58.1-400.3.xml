@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-400.3</section_number>
+	<catch_line>Minimum tax on certain electric suppliers</catch_line>
+	<text>
+		<section prefix="A">1. An electric supplier, except for those organized as cooperatives and exempt from federal taxation under § 501 of the Internal Revenue Code of 1986, as amended, shall be subject to a minimum tax imposed by this section, instead of the corporate income tax imposed by § 58.1-400 if applicable, net of any income tax credits that may be used to offset such tax, if the tax imposed by § 58.1-400 is less than the minimum tax imposed by this subsection. An electric supplier that is organized as a limited liability, partnership, corporation that has made an election under subchapter S of the Internal Revenue Code, or other entity treated as a pass-through entity shall be subject to the minimum tax in the manner prescribed by regulation.
+			<section prefix="2">The minimum tax imposed by this subsection shall be equal to 1.45 percent of such electric supplier's gross receipts for the calendar year that ends during the taxable year minus the state's portion of the electric utility consumption tax billed to consumers.
+			</section>
+		</section>
+		<section prefix="B">1. An electric supplier that is organized as a cooperative and exempt from federal taxation under § 501 of the Internal Revenue Code of 1986, as amended, shall be subject to a minimum tax, instead of the tax on modified net income imposed by § 58.1-400.2, if the tax imposed by § 58.1-400.2, net of any credits that may be used to offset such tax, is less than the minimum tax imposed by this subsection.
+			<section prefix="2">The minimum tax imposed by this subsection shall be equal to 1.45 percent of such electric supplier's gross receipts from sales to nonmembers for the calendar year that ends during the taxable year minus the consumption tax collected from nonmembers.
+			</section>
+		</section>
+		<section prefix="C">In the case of an income tax return for a period of less than 12 months, the minimum tax shall be based on the gross receipts for the calendar year that ends during the taxable period or, if none, the most recent calendar year that ended before the taxable period. The minimum tax shall be prorated by the number of months in the taxable period.
+		</section>
+		<section prefix="D">The State Corporation Commission shall calculate and certify to the Department for each tax year as defined in § 58.1-2600 the name, address, and minimum tax for each electric supplier. The Commission shall mail or otherwise deliver a copy of the certification to each affected electric supplier.
+		</section>
+		<section prefix="E">When an electric supplier subject to the tax imposed by this section is one of several affiliated corporations that file a consolidated or combined income tax return, the portion of the affiliated corporations' tax liability that is attributable to the electric supplier shall be computed as follows:
+			<section prefix="1">Each corporation included in the consolidated or combined return shall recompute its corporate income tax liability, net of any income tax credits, as if it were filing a separate return. The separate income tax liability of the electric supplier shall then be compared to the affiliated corporations' tax liability, net of any income tax credits, indicated on the consolidated or combined return. For purposes of this section, the lesser amount shall be deemed to be the corporate income tax imposed by § 58.1-400 and attributable to the electric supplier.
+			</section>
+			<section prefix="2">a. If such corporate income tax amount is less than the minimum tax of the electric supplier as calculated pursuant to subsection A, the electric supplier shall be subject to the minimum tax in lieu of the corporate income tax imposed by § 58.1-400.
+				b. If such corporate income tax amount exceeds the minimum tax of the electric supplier as calculated pursuant to subsection A, the electric supplier shall not owe the minimum tax.
+			</section>
+		</section>
+		<section prefix="F">The requirements imposed under Article 20 (§ 58.1-500 et seq.) of Chapter 3 of this title regarding the filing of a declaration of estimated income taxes and the payment of such estimated taxes, shall be applicable to electric suppliers regardless of whether such taxpayer expects to be subject to the minimum tax imposed herein or to the corporate income tax imposed by § 58.1-400.
+			For purposes of determining the applicability of the exceptions under which the addition to the tax for the underpayment of any installment of estimated taxes shall not be imposed, it shall be irrelevant whether the tax shown on the return for the preceding taxable year is the corporate income tax or the minimum tax.
+		</section>
+		<section prefix="G">To the extent that a taxpayer is subject to the minimum tax imposed under this section, there shall be allowed a credit against the separate, combined, or consolidated corporate income tax for the total amount of minimum tax paid by the electric supplier in all previous years that is in excess of the tax imposed by § 58.1-400 on the electric supplier for such years.
+		</section>
+		<section prefix="H">1. To the extent an electric supplier or its parent company has remitted estimated income tax payments in excess of its corporate income tax liability for the taxable years beginning on or after January 1, 2001, but before January 1, 2004, such overpayments shall only be utilized to offset any corporate income tax liabilities incurred pursuant to § 58.1-400 for taxable years beginning on and after January 1, 2004, and shall not be claimed as a refund of overpaid taxes, except as provided in subdivision 2 of this subsection. For the purposes of this subsection, estimated income tax payments shall include any overpayments from a prior taxable year carried forward as an estimated payment to be credited towards a future tax liability.
+			<section prefix="2">If an electric supplier has had a corporate income tax liability of greater than $0 for each taxable year beginning on or after January 1, 2001, but before January 1, 2003, then such electric supplier may claim a refund of any estimated income tax payments in excess of their taxable year 2003 corporate income tax liability.
+			</section>
+		</section>
+		<section prefix="I">Every electric supplier which owes the minimum tax imposed by this section shall remit such tax payment to the Department of Taxation.
+		</section>
+		<section prefix="J">Notwithstanding any of the foregoing provisions, an electric supplier may not adjust capped rates pursuant to § 56-582 of the Code of Virginia on any portion of the minimum tax due to the Commonwealth.
+		</section>
+		<section prefix="K">The following words and terms, for purposes of this section, shall have the following meanings:
+			"Consumption tax" means the state's portion of the electric utility consumption tax billed pursuant to Chapter 29 (§ 58.1-2900 et seq.) of this title, for which the electric supplier is defined as the "service provider" pursuant to § 58.1-2901 less any amounts billed on behalf of utilities owned and operated by municipalities.
+			"Electric supplier" means an incumbent electric utility in the Commonwealth that, prior to July 1, 1999, supplied electric energy to retail customers located in an exclusive service territory established by the State Corporation Commission. However, "electric supplier" also includes an offshore wind affiliate as defined in § 56-585.1:11.
+			"Gross receipts" has the same meaning as defined in § 58.1-2600 less receipts from sales to federal, state and local governments for their own use.
+			"Nonmember" has the same meaning as defined in § 58.1-400.2.
+		</section>
+	</text>
+	<history>2004, c. 716; 2009, cc. 37, 152; 2023, c. 510.</history>
+</law>

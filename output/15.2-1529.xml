@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="15" level="3">Local Government Personnel, Qualification for Office, Bonds, Dual Office Holding and Certain Local Government Officers</unit>
+		<unit label="article" identifier="5" level="4">Bonds</unit>
+	</structure>
+	<section_number>15.2-1529</section_number>
+	<catch_line>Amount of bond of treasurer or director of finance of counties</catch_line>
+	<text>
+		Notwithstanding the provisions of §§ 15.2-416, 15.2-541, 15.2-642, 15.2-707 and 15.2-852 requiring the surety bond given by a county treasurer or director of finance to be in an amount of not less than fifteen percent of the amounts to be received annually by such officers, the court or the governing body responsible for fixing the penalty of the bond may in its discretion exclude the amounts to be received for the county from temporary and long-term loans and federal revenue sharing funds when fixing the required minimum bond, and the amount of the bonds to be given shall not exceed the following maximums based on the population of the respective counties unless, for good cause shown, a greater bond is deemed advisable:
+		<section prefix="1">In counties having a population of not more than 10,000, the bond shall be limited to $450,000.
+		</section>
+		<section prefix="2">In counties having a population of more than 10,000 but not more than 30,000, the bond shall be limited to $600,000.
+		</section>
+		<section prefix="3">In counties having a population of more than 30,000 but not more than 50,000, the bond shall be limited to $750,000.
+		</section>
+		<section prefix="4">In counties having a population of more than 50,000 but not more than 100,000, the bond shall be limited to $1,125,000.
+		</section>
+		<section prefix="5">In counties having a population of more than 100,000, the bond shall be limited to $1,500,000.
+		</section>
+	</text>
+	<history>1973, c. 320, § 15.1-43.1; 1997, c.; 2025, c. 98.</history>
+</law>

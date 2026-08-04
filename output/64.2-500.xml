@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="5" level="3">Personal Representatives and Administration of Estates</unit>
+		<unit label="article" identifier="1" level="4">Appointment and Qualification</unit>
+	</structure>
+	<section_number>64.2-500</section_number>
+	<catch_line>Grant of administration with the will annexed</catch_line>
+	<text>
+		<section prefix="A">If the will does not name an executor, or the executor named refuses to accept, fails to give bond, or dies, resigns, or is removed from office, the court or clerk may grant administration with the will annexed to a person who is a residual or substantial legatee under the will, or his designee, or if such person fails to apply for administration within 30 days, to a person who would have been entitled to administration if there had been no will.
+		</section>
+		<section prefix="B">Administration shall not be granted to any person unless he takes the required oath and gives bond, and the court or clerk is satisfied that he is suitable and competent to perform the duties of his office. Administration shall not be granted to any person under a disability as defined in § 8.01-2.
+		</section>
+		<section prefix="C">If any beneficiary of the estate objects, a spouse or parent who has been barred from all interest in the estate because of desertion or abandonment as provided under § 64.2-308 or 64.2-308.17, as applicable, may not serve as an administrator of the estate.
+		</section>
+	</text>
+	<history>Code 1950, § 64-112; 1968, c. 656, § 64.1-116; 1979, c. 323; 2000, c. 321; 2012, c. 614; 2016, cc. 187, 269.</history>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="8" level="2">Insurance and Self-Insurance</unit>
+	</structure>
+	<section_number>65.2-801</section_number>
+	<catch_line>Insurance or proof of financial ability to pay required</catch_line>
+	<text>
+		<section prefix="A">Every employer subject to this title shall secure his liability thereunder by one of the following methods:
+			<section prefix="1">Insuring and keeping insured his liability in an insurer authorized to transact the business of workers' compensation insurance in this Commonwealth;
+			</section>
+			<section prefix="2">Receiving a certificate pursuant to § 65.2-808 from the Workers' Compensation Commission authorizing such employer to be an individual self-insurer;
+			</section>
+			<section prefix="3">Being a member in good standing of a group self-insurance association licensed by the State Corporation Commission;
+			</section>
+			<section prefix="4">Being a member in good standing of a local government group self-insurance pool licensed by the State Corporation Commission pursuant to § 15.2-2706 to offer workers' compensation coverage; or
+			</section>
+			<section prefix="5">Entering into an agreement with a professional employer organization for professional employer services which includes voluntary market workers' compensation insurance for coemployees of the professional employer organization and the client company procured from an insurer authorized to transact the business of workers' compensation insurance in this Commonwealth. A professional employer organization may obtain voluntary market workers' compensation insurance in its own name for all coemployees which it shares or which are assigned or allocated to it pursuant to the agreement between the professional employer organization and the client company. The client company shall maintain separate voluntary market workers' compensation insurance insuring any and all employees of the client company not insured through the policy obtained by the professional employer organization.
+			</section>
+		</section>
+		<section prefix="B">An employer who satisfies the requirements of this section shall be certified by the Workers' Compensation Commission as an individual self-insurer and permitted to pay direct the compensation in the amount and manner and when due as provided for in this title. The Commission shall not certify an employer as a self-insurer unless it receives in such form as it requires satisfactory proof of the solvency of such employer, the financial ability of the employer to meet his obligations and the ability of the employer to pay or cause to be paid the compensation in the amount and manner and when due as provided for in this title. The Commission shall establish reasonable requirements and standards for approval of an employer as a self-insurer including, without limitation, the quality and amount of security deposits, bonds or indemnity, the amount of advance payments and reserves required, the investment of such funds, and the form and content of financial information to be submitted by the employer and the frequency of such submissions. For the purposes of any debt/equity ratio (total liabilities to net worth) minimum standard, a ratio of less than 2.2:1 shall be deemed satisfactory. The Commission shall, after notice and hearing, embody such requirements and standards and such other requirements as may be reasonably necessary for the purposes of this section in regulations. The Bureau of Insurance of the State Corporation Commission shall, at the request of the Commission, assist the Commission in establishing the reasonable requirements and standards for approval and certification of an employer as a self-insurer. The Workers' Compensation Commission may in its discretion require the deposit of a financial instrument of a specified amount from an entity approved by the Workers' Compensation Commission to secure the payment of compensation liabilities as they are incurred. The form of the instrument to be deposited shall be selected by the employer from the following list of acceptable financial instruments and may include any combination thereof so long as the amount specified by the Workers' Compensation Commission is deposited and the actual value thereof maintained: corporate surety bonds, certificates of deposit, United States government obligations, letters of credit, and cash.
+		</section>
+		<section prefix="C">The State Treasurer shall be the custodian of securities deposited by the employer under the requirements of this section, or under § 65.2-802, and for such services he shall receive a compensation of one-tenth of one percent per year of the amount of securities deposited with him, payable by or on behalf of such employers.
+		</section>
+	</text>
+	<history>Code 1950, § 65-100; 1968, c. 660, § 65.1-104.1; 1973, c. 173; 1979, c. 463; 1991, c. 355; 1992, c. 816; 1996, c. 181; 2000, cc. 624, 718; 2004, cc. 44, 173; 2006, c. 265; 2009, cc. 285, 336.</history>
+</law>

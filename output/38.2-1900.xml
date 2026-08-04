@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="19" level="2">Regulation of Rates Generally</unit>
+	</structure>
+	<section_number>38.2-1900</section_number>
+	<catch_line>Purposes of chapter</catch_line>
+	<text>
+		<section prefix="A">This chapter shall be liberally construed to achieve the purposes stated in subsection B of this section.
+		</section>
+		<section prefix="B">The purposes of this chapter are to:
+			<section prefix="1">Protect policyholders and the public against the adverse effects of excessive, inadequate or unfairly discriminatory rates;
+			</section>
+			<section prefix="2">Encourage independent action by insurers and reasonable price competition among insurers as the most effective way to produce rates that conform to the standards of subdivision 1;
+			</section>
+			<section prefix="3">Provide formal regulatory controls for use if independent action and price competition fail;
+			</section>
+			<section prefix="4">Authorize cooperative action among insurers in the rate making process, and regulate such cooperation in order to prevent practices that tend to create monopoly or to lessen or destroy competition;
+			</section>
+			<section prefix="5">Provide rates that are responsive to competitive market conditions and improve the availability of insurance in this Commonwealth; and
+			</section>
+			<section prefix="6">Regulate the business of insurance in a manner that will preclude application of federal antitrust laws.
+			</section>
+		</section>
+	</text>
+	<history>1973, c. 504, § 38.1-279.29; 1986, c. 562.</history>
+</law>

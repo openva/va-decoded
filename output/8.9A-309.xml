@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="2" level="3">Perfection</unit>
+	</structure>
+	<section_number>8.9A-309</section_number>
+	<catch_line>Security interest perfected upon attachment</catch_line>
+	<text>
+		The following security interests are perfected when they attach:
+		<section prefix="1">a purchase-money security interest in consumer goods, except as otherwise provided in § 8.9A-311 (b) with respect to consumer goods that are subject to a statute or treaty described in § 8.9A-311 (a);
+		</section>
+		<section prefix="2">an assignment of accounts or payment intangibles which does not by itself or in conjunction with other assignments to the same assignee transfer a significant part of the assignor's outstanding accounts or payment intangibles;
+		</section>
+		<section prefix="3">a sale of a payment intangible;
+		</section>
+		<section prefix="4">a sale of a promissory note;
+		</section>
+		<section prefix="5">a security interest created by the assignment of a health-care-insurance receivable to the provider of the health-care goods or services;
+		</section>
+		<section prefix="6">a security interest arising under §§ 8.2-401, 8.2-505, 8.2-711 (3), or § 8.2A-508 (5), until the debtor obtains possession of the collateral;
+		</section>
+		<section prefix="7">a security interest of a collecting bank arising under § 8.4-210;
+		</section>
+		<section prefix="8">a security interest of an issuer or nominated person arising under § 8.5A-118;
+		</section>
+		<section prefix="9">a security interest arising in the delivery of a financial asset under § 8.9A-206 (c);
+		</section>
+		<section prefix="10">a security interest in investment property created by a broker or securities intermediary;
+		</section>
+		<section prefix="11">a security interest in a commodity contract or a commodity account created by a commodity intermediary;
+		</section>
+		<section prefix="12">an assignment for the benefit of all creditors of the transferor and subsequent transfers by the assignee thereunder; and
+		</section>
+		<section prefix="13">a security interest created by an assignment of a beneficial interest in a decedent's estate.
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-302; 1966, c. 569; 1973, c. 509; 1983, cc. 204, 367; 1984, c. 613; 1996, c. 216, §§ 8.9-115, 8.9-116; 2000, c. 1007.</history>
+</law>

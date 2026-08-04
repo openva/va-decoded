@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1423</section_number>
+	<catch_line>Preferred stocks</catch_line>
+	<text>
+		A domestic insurer may invest in preferred stocks of any company incorporated under the laws of the United States or any state if:
+		<section prefix="1">a. The preferred stock under consideration is not in arrears as to dividends if cumulative, or
+			b. Full dividends on the preferred stock under consideration have been paid in the last three years, or since issue if issued less than three years before the date of investment, if noncumulative;
+		</section>
+		<section prefix="2">Required sinking fund payments are on a current basis; and
+		</section>
+		<section prefix="3">The preferred stock is rated highest quality, high quality, or medium quality by the Securities Valuation Office of the National Association of Insurance Commissioners, or if not rated by the Securities Valuation Office, is rated in an equivalent grade by a national rating agency recognized by the Commission.
+		</section>
+	</text>
+	<history>1983, c. 457, § 38.1-217.26; 1986, c. 562; 1998, c. 414; 2008, c. 93.</history>
+</law>

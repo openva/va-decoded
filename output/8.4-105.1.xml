@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="1" level="2">General Provisions and Definitions</unit>
+	</structure>
+	<section_number>8.4-105.1</section_number>
+	<catch_line>Payable through or payable at bank; collecting bank</catch_line>
+	<text>
+		<section prefix="a">If an item states that it is "payable through" a bank identified in the item, (i) the item designates the bank as a collecting bank and does not by itself authorize the bank to pay the item, and (ii) the item may be presented for payment only by or through the bank.
+		</section>
+		<section prefix="b">If an item states that it is "payable at" a bank identified in the item, (i) the item designates that bank as a collecting bank and does not by itself authorize the bank to pay the item, and (ii) the item may be presented for payment only by or through the bank.
+		</section>
+		<section prefix="c">If a draft names a nonbank drawee and it is unclear whether a bank named in the draft is a co-drawee or a collecting bank, the bank is a collecting bank.
+		</section>
+	</text>
+	<history>Code 1950, § 6-440; 1964, c. 219; §§ 8.3-120, 8.3-121; 1992, c. 693.</history>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions; Charters; Other Forms and Organization of Counties</unit>
+		<unit label="chapter" identifier="7" level="3">County Manager Plan of Government</unit>
+		<unit label="article" identifier="2" level="4">General Powers; County Manager Plan</unit>
+	</structure>
+	<section_number>15.2-705.1</section_number>
+	<catch_line>Instant runoff voting</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section:
+			"Instant runoff voting" means a method of casting and tabulating votes in which (i) voters rank candidates in order of preference, (ii) tabulation proceeds in rounds such that in each round either a candidate or candidates are elected or the last-place candidate is defeated, (iii) votes for voters' next-ranked candidates are transferred from elected or defeated candidates, and (iv) tabulation ends when the number of candidates elected equals the number of offices to be filled. "Instant runoff voting" is also known as "ranked choice voting."
+			"Ranking" means the ordinal number assigned on a ballot by a voter to a candidate to express the voter's preference for that candidate. Ranking number one is the highest ranking, ranking number two is the next-highest ranking, and so on, consecutively, up to the number of candidates indicated on the ballot.
+		</section>
+		<section prefix="B">Elections to nominate candidates for and to elect members to the board of supervisors in a county operating under the county manager plan may be conducted by instant runoff voting pursuant to this section.
+		</section>
+		<section prefix="C">The State Board may promulgate regulations for the proper and efficient administration of elections determined by instant runoff voting, including (i) procedures for tabulating votes in rounds, (ii) procedures for determining winners in elections for offices to which only one candidate is being elected and for offices to which more than one candidate is being elected, and (iii) standards for ballots pursuant to § 24.2-613, notwithstanding the provisions of subsection E of that section.
+		</section>
+		<section prefix="D">The State Board may administer or prescribe standards for a voter outreach and public information program for use by any locality conducting instant runoff voting pursuant to this section.
+		</section>
+	</text>
+	<history>2020, c. 713.</history>
+</law>

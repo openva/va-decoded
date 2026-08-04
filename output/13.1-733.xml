@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="15" level="3">Appraisal Rights and Other Remedies</unit>
+	</structure>
+	<section_number>13.1-733</section_number>
+	<catch_line>Notice of intent to demand payment</catch_line>
+	<text>
+		<section prefix="A">If a corporate action specified in subsection A of § 13.1-730 is submitted to a vote at a shareholders' meeting, a shareholder who wishes to assert appraisal rights with respect to any class or series of shares:
+			<section prefix="1">Must deliver to the corporation's secretary before the vote is taken written notice of the shareholder's intent to demand payment if the proposed action is effectuated; and
+			</section>
+			<section prefix="2">Must not vote, or cause or permit to be voted, any shares of such class or series in favor of the proposed action.
+			</section>
+		</section>
+		<section prefix="B">If a corporate action specified in subsection A of § 13.1-730 is to be approved by shareholders by written consent, a shareholder who wishes to assert appraisal rights with respect to any class or series of shares:
+			<section prefix="1">Shall deliver to the corporation's secretary before the proposed action becomes effective written notice of the shareholder's intent to demand payment if the proposed action is effectuated, except that such written notice is not required if the notice required by subsection C of § 13.1-732 is given less than 25 days prior to the date such proposed action is effectuated; and
+			</section>
+			<section prefix="2">Shall not sign a consent in favor of the proposed action with respect to that class or series of shares.
+			</section>
+		</section>
+		<section prefix="C">If a corporate action specified in subsection A of § 13.1-730 does not require shareholder approval pursuant to subsection G of § 13.1-718, a shareholder who wishes to assert appraisal rights with respect to any class or series of shares (i) shall deliver to the secretary of the corporation before the shares are purchased pursuant to the offer written notice of the shareholder's intent to demand payment if the proposed action is effectuated; and (ii) shall not tender, or cause or permit to be tendered, any shares of such class or series in response to such offer.
+		</section>
+		<section prefix="D">A shareholder who fails to satisfy the requirements of subsection A, B, or C is not entitled to payment under this article.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-85, 13.1-75, 13.1-78; 1956, c. 428; 1968, c. 733; 1972, c. 425; 1975, c. 500; 1984, c. 613; 1985, c. 522; 2005, c. 765; 2007, c. 165; 2010, c. 782; 2015, c. 611; 2019, c. 734.</history>
+</law>

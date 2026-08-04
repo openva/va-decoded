@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="7" level="2">Crimes Involving Health and Safety</unit>
+		<unit label="article" identifier="5" level="3">Uniform Machine Gun Act</unit>
+	</structure>
+	<section_number>18.2-291</section_number>
+	<catch_line>What constitutes aggressive purpose</catch_line>
+	<text>
+		Possession or use of a machine gun shall be presumed to be for an offensive or aggressive purpose:
+		<section prefix="1">When the machine gun is on premises not owned or rented for bona fide permanent residence or business occupancy by the person in whose possession the machine gun may be found;
+		</section>
+		<section prefix="2">When the machine gun is in the possession of, or used by, a person who has been convicted of a crime of violence in any court of record, state or federal, of the United States of America, its territories or insular possessions;
+		</section>
+		<section prefix="3">When the machine gun has not been registered as required in § 18.2-295; or
+		</section>
+		<section prefix="4">When empty or loaded shells which have been or are susceptible of use in the machine gun are found in the immediate vicinity thereof.
+		</section>
+	</text>
+	<history>Code 1950, § 18.1-261; 1960, c. 358; 1975, cc. 14, 15.</history>
+</law>

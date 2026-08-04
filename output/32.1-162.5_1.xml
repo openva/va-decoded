@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="7" level="3">Hospice Program Licensing</unit>
+	</structure>
+	<section_number>32.1-162.5:1</section_number>
+	<catch_line>Notice to dispenser of patient's death; disposition of dispensed drugs</catch_line>
+	<text>
+		<section prefix="A">Any hospice licensed by the Department or exempt from licensure pursuant to § 32.1-162.2 with a hospice patient residing at home at the time of death shall notify every pharmacy that has dispensed partial quantities of a Schedule II controlled substance for a patient with a medical diagnosis documenting a terminal illness, as authorized by federal law, within 48 hours of the patient's death.
+		</section>
+		<section prefix="B">Any hospice licensed by the Department or exempt from licensure pursuant to § 32.1-162.2 shall develop policies and procedures for the disposal of drugs, including opioids, dispensed as part of the hospice plan of care in accordance with the provisions of § 54.1-3411.2.
+		</section>
+	</text>
+	<history>2015, c. 668; 2018, c. 95; 2020, c. 739.</history>
+</law>

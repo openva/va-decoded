@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="3" level="2">Unlawful Marriages Generally</unit>
+	</structure>
+	<section_number>20-38.1</section_number>
+	<catch_line>Certain marriages prohibited</catch_line>
+	<text>
+		The following marriages are prohibited:
+		<section prefix="1">A marriage entered into prior to the dissolution of an earlier marriage of one of the parties;
+		</section>
+		<section prefix="2">A marriage between an ancestor and descendant, or between siblings, whether the relationship is by the half or the whole blood or by adoption;
+		</section>
+		<section prefix="3">A marriage between an uncle or aunt and a nephew or niece, whether the relationship is by the half or the whole blood.
+		</section>
+	</text>
+	<history>1975, c. 644; 1978, c. 647; 2020, c. 900.</history>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="2" level="3">Nature of Partnership</unit>
+	</structure>
+	<section_number>50-73.89</section_number>
+	<catch_line>Partnership property</catch_line>
+	<text>
+		Property acquired by a partnership is property of the partnership and not of the partners individually.
+	</text>
+	<history>1996, c. 292.</history>
+</law>

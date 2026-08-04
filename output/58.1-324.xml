@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="2" level="4">Individual Income Tax</unit>
+	</structure>
+	<section_number>58.1-324</section_number>
+	<catch_line>Married individuals</catch_line>
+	<text>
+		<section prefix="A">If the federal taxable income of married individuals is determined on separate federal returns, their Virginia taxable incomes shall be separately determined.
+		</section>
+		<section prefix="B">If the federal taxable income of married individuals is determined on a joint federal return, or if neither files a federal return:
+			<section prefix="1">Their tax shall be determined on their joint Virginia taxable income; or
+			</section>
+			<section prefix="2">Separate taxes may be determined on their separate Virginia taxable incomes if they so elect.
+			</section>
+		</section>
+		<section prefix="C">Where married individuals have not separately reported and claimed items of income, exemptions and deductions for federal income tax purposes, and have not elected to file a joint Virginia income tax return, such items allowable for Virginia income tax purposes shall be allocated and adjusted as follows:
+			<section prefix="1">Income shall be allocated to the spouse who earned the income or with respect to whose property the income is attributable.
+			</section>
+			<section prefix="2">Allowable deductions with respect to trade, business, production of income, or employment shall be allocated to the spouse to whom attributable.
+			</section>
+			<section prefix="3">Nonbusiness deductions, where properly taken for federal income tax purposes, shall be allowable for Virginia income tax purposes, but shall be allocable between married individuals as they may mutually agree. For this purpose, "nonbusiness deductions" consist of allowable deductions not described in subdivision 2.
+			</section>
+			<section prefix="4">Where the standard deduction or low income allowance is properly taken pursuant to subdivision 1 a of § 58.1-322.03, such deduction or allowance shall be allocable between married individuals as they may mutually agree.
+			</section>
+			<section prefix="5">Personal exemptions properly allowable for federal income tax purposes shall be allocated for Virginia income tax purposes as married individuals may mutually agree; however, exemptions for taxpayer and spouse together with exemptions for old age and blindness must be allocated respectively to the spouse to whom they relate.
+			</section>
+		</section>
+		<section prefix="D">Where allocations are permitted to be made under subsection C pursuant to agreement between married individuals, and they have failed to agree as to those allocations, such allocations shall be made between them in a manner corresponding to the treatment for federal income tax purposes of the items involved, under regulations prescribed by the Department.
+		</section>
+	</text>
+	<history>Code 1950, §§ 58-151.012, 58-151.013; 1971, Ex. Sess., c. 171; 1972, c. 827; 1973, cc. 198, 345, 458; 1974, c. 682; 1975, c. 46; 1976, cc. 528, 694, 781; 1977, cc. 297, 612; 1978, cc. 67, 158; 1979, cc. 226, 596; 1981, cc. 402, 414; 1982, c. 633; 1983, cc. 452, 472; 1984, cc. 153, 162, 636, 674, 675, 729; 2017, c. 444; 2020, c. 900.</history>
+</law>

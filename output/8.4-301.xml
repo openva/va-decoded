@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="3" level="2">Collection of Items: Payor Banks</unit>
+	</structure>
+	<section_number>8.4-301</section_number>
+	<catch_line>Deferred posting; recovery of payment by return of items; time of dishonor; return of items by payor bank</catch_line>
+	<text>
+		<section prefix="a">If a payor bank settles for a demand item other than a documentary draft presented otherwise than for immediate payment over the counter before midnight of the banking day of receipt the payor bank may revoke the settlement and recover the settlement if, before it has made final payment and before its midnight deadline, it
+			<section prefix="1">returns the item; or
+			</section>
+			<section prefix="2">sends written notice of dishonor or nonpayment if the item is unavailable for return.
+			</section>
+		</section>
+		<section prefix="b">If a demand item is received by a payor bank for credit on its books, it may return the item or send notice of dishonor and may revoke any credit given or recover the amount thereof withdrawn by its customer, if it acts within the time limit and in the manner specified in subsection (a).
+		</section>
+		<section prefix="c">Unless previous notice of dishonor has been sent, an item is dishonored at the time when for purposes of dishonor it is returned or notice sent in accordance with this section.
+		</section>
+		<section prefix="d">An item is returned:
+			<section prefix="1">as to an item presented through a clearing house, when it is delivered to the presenting or last collecting bank or to the clearing house or is sent or delivered in accordance with clearing-house rules; or
+			</section>
+			<section prefix="2">in all other cases, when it is sent or delivered to the bank's customer or transferor or pursuant to his instructions.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-543.1 to 6-543.3, pp. 60, 61; 1964, c. 219; 1992, c. 693.</history>
+</law>

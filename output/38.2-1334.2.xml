@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="5" level="3">Insurance Holding Companies</unit>
+	</structure>
+	<section_number>38.2-1334.2</section_number>
+	<catch_line>Recovery</catch_line>
+	<text>
+		<section prefix="A">If an order for liquidation or rehabilitation of a domestic insurer has been entered, the receiver appointed under such order shall have a right to recover on behalf of the insurer (i) from any parent corporation or holding company or person or affiliate who otherwise controlled the insurer, the amount of distributions (other than distributions of shares of the same class of stock) paid by the insurer on its capital stock or (ii) any payment in the form of a bonus, termination settlement or extraordinary lump sum salary adjustment made by the insurer or its subsidiary or subsidiaries to a director, officer or employee, where the distribution or payment pursuant to (i) or (ii) is made at any time during the one year preceding the petition for liquidation, conservation or rehabilitation, as the case may be, subject to the limitations of subsections B, C and D of this section.
+		</section>
+		<section prefix="B">No such distribution shall be recoverable if the parent or affiliate shows that, when paid, such distribution was lawful and reasonable and that the insurer did not know and could not reasonably have known that such distribution might adversely affect the ability of the insurer to fulfill its contractual obligations.
+		</section>
+		<section prefix="C">Any person who was a parent corporation or holding company or a person who otherwise controlled the insurer or affiliate at the time such distributions were paid shall be liable up to the amount of distributions or payments under subsection A of this section. Any person who otherwise controlled the insurer at the time such distributions were declared shall be liable up to the amount of distributions he would have received if they had been paid immediately. If two or more persons are liable with respect to the same distributions, they shall be jointly and severally liable.
+		</section>
+		<section prefix="D">The maximum amount recoverable under this section shall be the amount needed in excess of all other available assets of the impaired or insolvent insurer to pay its obligations and to reimburse any guaranty funds.
+		</section>
+		<section prefix="E">To the extent that any person liable under subsection C of this section is insolvent or otherwise fails to pay claims due from it pursuant to such subsection, its parent corporation, holding company, or person who otherwise controlled it at the time the distribution was paid shall be jointly and severally liable for any resulting deficiency in the amount recovered from such parent corporation, holding company, or person who otherwise controlled it.
+		</section>
+	</text>
+	<history>1993, c. 158.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="3" level="2">Election Districts, Precincts, and Polling Places</unit>
+		<unit label="article" identifier="2" level="3">Congressional, Senatorial, and House of Delegates Districts</unit>
+	</structure>
+	<section_number>24.2-304.05</section_number>
+	<catch_line>Legal boundaries of congressional and state legislative districts</catch_line>
+	<text>
+		<section prefix="A">There shall be 11 Virginia members of the United States House of Representatives elected from 11 congressional districts, and each district is entitled to one representative. The district numbers and boundaries of the 11 congressional districts shall be those designated in the block equivalency file and resulting shapefile that is the electronic version of the districts established pursuant to Article II, § 6-A of the Constitution of Virginia and Chapter 62 (§ 30-391 et seq.) of Title 30.
+		</section>
+		<section prefix="B">There shall be 40 members of the Senate of Virginia elected from 40 senate districts, and each district is entitled to representation by one senator. The district numbers and boundaries of the 40 senate districts shall be those designated in the block equivalency file and resulting shapefile that is the electronic version of the districts established pursuant to Article II, § 6-A of the Constitution of Virginia and Chapter 62 (§ 30-391 et seq.) of Title 30.
+		</section>
+		<section prefix="C">There shall be 100 members of the House of Delegates elected from 100 House of Delegates districts and each district is entitled to representation by one delegate. The district numbers and boundaries of the 100 House of Delegates districts shall be those designated in the block equivalency file and resulting shapefile that is the electronic version of the districts established pursuant to Article II, § 6-A of the Constitution of Virginia and Chapter 62 (§ 30-391 et seq.) of Title 30.
+		</section>
+		<section prefix="D">The block equivalency files and shapefiles for a congressional, senate, or House of Delegates district shall be controlling in any legal determination of the boundary of such district.
+		</section>
+	</text>
+	<history>2023, c. 455.</history>
+</law>

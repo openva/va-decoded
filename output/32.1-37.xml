@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="1" level="3">Reporting of Diseases</unit>
+	</structure>
+	<section_number>32.1-37</section_number>
+	<catch_line>Reports by persons other than physicians</catch_line>
+	<text>
+		<section prefix="A">The person in charge of any medical care facility shall immediately make or cause to be made a report of a disease required by the Board to be reported when such information is available to that person and that person has reason to believe that no physician has reported such disease as provided in § 32.1-36. Such report shall be made to the local health director according to the provisions of the Board.
+		</section>
+		<section prefix="B">The person in charge of any residential or day program, service or facility licensed or operated by any agency of the Commonwealth, school or summer camp as defined in § 35.1-1 shall immediately make or cause to be made a report of an outbreak of disease as defined by the Board. Such report shall be made by rapid means to the local health director or to the Commissioner.
+		</section>
+		<section prefix="C">The person in charge of any medical care facility, residential or day program, service or facility licensed or operated by any agency of the Commonwealth, school, or summer camp as defined in § 35.1-1 may also voluntarily report additional information, including individual cases of communicable diseases, at the request of the Department of Health for special surveillance or other epidemiological studies.
+		</section>
+	</text>
+	<history>Code 1950, § 32-49; 1979, c. 711; 1997, c. 271; 2008, cc. 367, 412.</history>
+</law>

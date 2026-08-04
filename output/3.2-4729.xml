@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="47" level="3">Sale of Farm Produce</unit>
+		<unit label="article" identifier="2" level="4">Commission Merchants</unit>
+	</structure>
+	<section_number>3.2-4729</section_number>
+	<catch_line>Records to be kept by commission merchant</catch_line>
+	<text>
+		Every commission merchant, having received any farm products for sale on commission, shall promptly maintain a complete and true record, showing in detail the following with reference to the handling, sale, or storage of such farm products:
+		<section prefix="1">The name and address of the consignor;
+		</section>
+		<section prefix="2">The date received;
+		</section>
+		<section prefix="3">The condition, grade, and quantity on arrival;
+		</section>
+		<section prefix="4">The date of such sale for the account of the consignor;
+		</section>
+		<section prefix="5">The sale price;
+		</section>
+		<section prefix="6">An itemized statement of the charges to be paid by the consignor in connection with the sale;
+		</section>
+		<section prefix="7">A lot number or other identifying mark that shall appear on all sales tags or tickets or on any other essential records needed to show the sale price of the products; and
+		</section>
+		<section prefix="8">Records of auction sales of farm produce or farm products, including sales tags, tickets, or bills, which shall be sequentially numbered and each such sequentially numbered record shall be properly accounted for in the operations of the commission merchant. Any record that is altered shall bear the full signature of the person authorized to make, and who is responsible for, the alteration.
+		</section>
+	</text>
+	<history>Code 1950, § 3-555; 1966, c. 702, § 3.1-713; 1979, c. 389; 2008, c. 860.</history>
+</law>

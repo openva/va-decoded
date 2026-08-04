@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="C" level="3">Surface Coal Mines</unit>
+		<unit label="chapter" identifier="9" level="4">Requirements Applicable to Surface Coal Mines</unit>
+		<unit label="article" identifier="6" level="5">Surface Equipment</unit>
+	</structure>
+	<section_number>45.2-920</section_number>
+	<catch_line> Shop and other equipment</catch_line>
+	<text>
+		<section prefix="A">The following shall be guarded and maintained adequately:
+			<section prefix="1">Gears, sprockets, pulleys, fan blades or propellers, friction devices, and couplings with protruding bolts or nuts.
+			</section>
+			<section prefix="2">Shafting and projecting shaft ends that are within seven feet of the floor or the platform level.
+			</section>
+			<section prefix="3">Belt, chain, or rope drives that are within seven feet of the floor or the platform.
+			</section>
+			<section prefix="4">Fly wheels. Any fly wheel that extends more than seven feet above the floor shall be guarded to a height of at least seven feet.
+			</section>
+			<section prefix="5">Circular and band saws and planers.
+			</section>
+			<section prefix="6">Repair pits. Guards shall be kept in place when a pit is not in use.
+			</section>
+			<section prefix="7">Counterweights.
+			</section>
+			<section prefix="8">Mine fans. The approach to any mine fan shall be guarded.
+			</section>
+			<section prefix="9">Lighting and other electrical equipment that could create a shock hazard or cause personal injury.
+			</section>
+		</section>
+		<section prefix="B">No machinery shall be repaired or oiled while in motion unless a safe remote oiling device is used.
+		</section>
+		<section prefix="C">A guard or safety device that is removed from any machine shall be replaced before the machine is put in operation.
+		</section>
+		<section prefix="D">Every mechanically operated grinding wheel shall be equipped with:
+			<section prefix="1">Safety washers and tool rests;
+			</section>
+			<section prefix="2">A substantial retaining hood, the hood opening of which shall not expose more than a 90-degree sector of the wheel. Each such hood shall include a device to control and collect excess rock, metal, or dust particles. If no such device is provided, equivalent protection shall be provided to each employee operating such machinery; and
+			</section>
+			<section prefix="3">Eyeshields, unless goggles are worn by the operator.
+			</section>
+		</section>
+		<section prefix="E">The operator or his agent shall develop proper procedures for examining for potential hazards, completing maintenance, and operating each type of centrifugal pump. The procedures shall, at a minimum, address the manufacturers' recommendations for start-up and shutdown of each type of pump, the proper actions to be taken when a pump is suspected of overheating, the safe location of start and stop switches, and the actions to be taken when signs of structural metal fatigue, such as cracks in the frame, damaged cover mounting brackets, or missing bolts or other components, are detected. Every miner who repairs, maintains, or operates any such pump shall be trained in these procedures.
+		</section>
+	</text>
+	<history>Code 1950, § 45-85.3; 1954, c. 191; 1966, c. 594, § 45.1-88; 1978, c. 118; 1994, c. 28, § 45.1-161.273; 2005, c. 3; 2021, Sp. Sess. I, c. 387.</history>
+</law>

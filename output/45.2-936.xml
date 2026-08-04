@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="C" level="3">Surface Coal Mines</unit>
+		<unit label="chapter" identifier="9" level="4">Requirements Applicable to Surface Coal Mines</unit>
+		<unit label="article" identifier="12" level="5">Auger and Highwall Mining</unit>
+	</structure>
+	<section_number>45.2-936</section_number>
+	<catch_line> Highwall inspections</catch_line>
+	<text>
+		<section prefix="A">A mine foreman shall inspect the face of each highwall for a distance of 25 feet in both directions from an auger or highwall miner operation (i) before any such operation begins and at least once during each coal producing shift and (ii) frequently during any period of heavy rainfall or intermittent freezing and thawing.
+		</section>
+		<section prefix="B">Hazardous conditions shall be corrected and loose material removed from above the mining area before any work is begun.
+		</section>
+		<section prefix="C">Records shall be kept of the inspection and examination performed pursuant to subsection A. Such records shall be maintained for at least one year.
+		</section>
+	</text>
+	<history>1994, c. 28, § 45.1-161.289; 2011, cc. 826, 862; 2021, Sp. Sess. I, c. 387.</history>
+</law>

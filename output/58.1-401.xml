@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-401</section_number>
+	<catch_line>Exemptions and exclusions</catch_line>
+	<text>
+		No tax levied pursuant to § 58.1-400, 58.1-400.1 or 58.1-400.2 is imposed on:
+		<section prefix="1">A public service corporation to the extent such corporation is subject to the license tax on gross receipts contained in Chapter 26 (§ 58.1-2600 et seq.) of this title;
+		</section>
+		<section prefix="2">Insurance companies to the extent such company is subject to the license tax on gross premiums under Chapter 25 (§ 58.1-2500 et seq.) of this title and reciprocal or interinsurance exchanges which pay a premium tax to the Commonwealth as provided by law;
+		</section>
+		<section prefix="3">State and national banks, banking associations and trust companies to the extent such companies are subject to the bank franchise tax on net capital;
+			3a. Credit unions organized and conducted as such under the laws of the Commonwealth or under the laws of the United States;
+		</section>
+		<section prefix="4">Electing small business corporations (S corporations);
+		</section>
+		<section prefix="5">Religious, educational, benevolent and other corporations not organized or conducted for pecuniary profit which by reason of their purposes or activities are exempt from income tax under the laws of the United States, except those organizations which have unrelated business income or other taxable income under such laws, except as provided in § 58.1-400.2;
+		</section>
+		<section prefix="6">Telephone companies chartered in the Commonwealth which are exclusively a local mutual association and are not designated to accumulate profits for the benefit of, or to pay dividends to, the stockholders or members thereof;
+		</section>
+		<section prefix="7">A corporation that has contracted with a commercial printer for printing and that is not otherwise taxable shall not become taxable by reason of: (i) the ownership or leasing by that corporation of tangible personal property located at the Virginia premises of the commercial printer and used solely in connection with the printing contract with such person; (ii) the sale by that corporation at another location of property of any kind printed at and shipped or distributed from the Virginia premises of the commercial printer; (iii) the activities in connection with the printing contract with such person of any kind performed by or on behalf of that corporation at the Virginia premises of the commercial printer; and (iv) the activities in connection with the printing contract with such person performed by the commercial printer for or on behalf of that corporation;
+		</section>
+		<section prefix="8">Foreign sales corporations (FSC) and any income attributable to an FSC under the rules relating to the taxation of an FSC in Part III, Subpart C of the Internal Revenue Code (§ 921 et seq.) and the regulations thereunder; and
+		</section>
+		<section prefix="9">For taxable years beginning on or after January 1, 2014, domestic international sales corporations (DISC) under the rules relating to the taxation of a DISC in Part IV, Subpart A of the Internal Revenue Code (§ 991 et seq.) and the regulations thereunder.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.03; 1971, Ex. Sess., c. 171; 1972, c. 310; 1978, cc. 159, 796; 1981, c. 402; 1984, c. 675; 1985, c. 221; 1987, c. 484; 1988, cc. 581, 899; 1995, cc. 422, 472; 1999, c. 971; 2014, cc. 26, 186.</history>
+</law>

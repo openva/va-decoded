@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="25.1" level="1">Eminent Domain</unit>
+		<unit label="chapter" identifier="3" level="2">Transferring Defeasible Title by Certificate</unit>
+	</structure>
+	<section_number>25.1-308</section_number>
+	<catch_line>Effect of recordation of certificate; transfer of title or interest in property</catch_line>
+	<text>
+		<section prefix="A">Upon recordation of a certificate:
+			<section prefix="1">The interest or estate of the owner of the property described therein shall terminate;
+			</section>
+			<section prefix="2">The title to such property shall be vested in the authorized condemnor;
+			</section>
+			<section prefix="3">The owner shall have such interest or estate in the funds deposited with the court or represented by the certificate of deposit as the owner had in the property taken or damaged; and
+			</section>
+			<section prefix="4">All liens by deed of trust, judgment or otherwise upon such property shall be transferred to such funds.
+			</section>
+		</section>
+		<section prefix="B">The title in the authorized condemnor shall be defeasible until (i) the authorized condemnor and such owner reach an agreement as provided in § 25.1-317, or (ii) the compensation for the taking or damage to the property is determined by condemnation proceedings as provided in § 25.1-313.
+		</section>
+		<section prefix="C">If funds have been deposited with the court under a certificate of take, the clerk shall deposit the funds so paid to the credit of the court in an account of a type that bears interest.
+		</section>
+	</text>
+	<history>2003, c. 940; 2022, c. 735.</history>
+</law>

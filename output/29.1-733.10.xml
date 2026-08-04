@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="29.1" level="1">Wildlife, Inland Fisheries and Boating</unit>
+		<unit label="chapter" identifier="7" level="2">Boating Laws</unit>
+		<unit label="article" identifier="2.1" level="3">Virginia Uniform Certificate of Title for Watercraft Act</unit>
+	</structure>
+	<section_number>29.1-733.10</section_number>
+	<catch_line>Title brand</catch_line>
+	<text>
+		<section prefix="A">Unless subsection C applies, at or before the time the owner of record transfers an ownership interest in a hull-damaged watercraft that is covered by a certificate of title created by the Department, if the damage occurred while that person was an owner of the watercraft and the person has notice of the damage at the time of the transfer, the owner shall:
+			<section prefix="1">Deliver to the Department an application for a new certificate that complies with § 29.1-733.7 and includes the title brand designation "Hull Damaged"; or
+			</section>
+			<section prefix="2">Indicate on the certificate in the place designated for that purpose that the watercraft is hull damaged and deliver the certificate to the transferee.
+			</section>
+		</section>
+		<section prefix="B">Not later than 20 days after delivery to the Department of the application under subdivision A 1 or the certificate of title under subdivision A 2, the Department shall create a new certificate that indicates that the watercraft is branded "Hull Damaged."
+		</section>
+		<section prefix="C">Before an insurer transfers an ownership interest in a hull-damaged watercraft that is covered by a certificate of title created by the Department, the insurer shall deliver to the Department an application for a new certificate that complies with § 29.1-733.7 and includes the title brand designation "Hull Damaged." Not later than 20 days after delivery of the application to the Department, the Department shall create a new certificate that indicates that the watercraft is branded "Hull Damaged."
+		</section>
+		<section prefix="D">An owner of record that fails to comply with subsection A, a person that solicits or colludes in a failure by an owner of record to comply with subsection A, or an insurer that fails to comply with subsection C is subject to a civil penalty of $1,000.
+		</section>
+	</text>
+	<history>2013, c. 787.</history>
+</law>

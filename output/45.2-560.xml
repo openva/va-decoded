@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="A" level="3">Coal Mines Generally</unit>
+		<unit label="chapter" identifier="5" level="4">Coal Mine Safety Act</unit>
+		<unit label="article" identifier="7" level="5">Mine Inspections</unit>
+	</structure>
+	<section_number>45.2-560</section_number>
+	<catch_line> Evaluation of risks at mines</catch_line>
+	<text>
+		<section prefix="A">For the purpose of allocating the resources of the Department to be used for conducting additional inspections, the Department shall develop a procedural policy of scheduling such inspections based on an assessment, to be made at least annually, of the comparative risks at each underground coal mine and surface coal mine. The Department shall prepare its procedural policy with the assistance of working groups consisting of persons knowledgeable in mine safety issues. The issuance of the procedural policy shall be exempt from Article 2 (§ 2.2-4006 et seq.) of the Administrative Process Act. Variables that shall be included in the risk assessment measures include: (i) fatality and serious accident rates at the mine; (ii) the rates of issuance of closure orders and notices of violations of the mine safety laws of the Commonwealth, including regulations adopted by the Department or the Board of Coal Mining Examiners, at the mine; and (iii) the frequency rates for nonserious accidents or nonfatal days lost.
+		</section>
+		<section prefix="B">The Chief shall schedule additional inspections at underground coal mines and surface coal mines based on the rating assigned to a mine reflecting the assessment of its risks compared to other such mines pursuant to the assessment described in subsection A.
+		</section>
+	</text>
+	<history>1994, c. 28, § 45.1-161.82; 1997, c. 390; 2021, Sp. Sess. I, c. 387.</history>
+</law>

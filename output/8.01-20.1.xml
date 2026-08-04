@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="2" level="2">Parties</unit>
+		<unit label="article" identifier="3" level="3">Death or Change of Parties</unit>
+	</structure>
+	<section_number>8.01-20.1</section_number>
+	<catch_line>Certification of expert witness opinion at time of service of process</catch_line>
+	<text>
+		<section prefix="A">Every complaint, counter claim, or third party claim in a medical malpractice action, at the time the plaintiff first requests service of process upon a defendant, or requests a defendant to accept service of process, shall be deemed a certification that the plaintiff has obtained from an expert witness whom the plaintiff reasonably believes would qualify as an expert witness pursuant to subsection A of § 8.01-581.20 a written opinion signed by the expert witness that states:
+			BASED UPON A REASONABLE UNDERSTANDING OF THE FACTS, THE DEFENDANT FOR WHOM SERVICE OF PROCESS HAS BEEN REQUESTED DEVIATED FROM THE APPLICABLE STANDARD OF CARE AND THE DEVIATION WAS A PROXIMATE CAUSE OF THE INJURIES CLAIMED.
+			No further statement or opinion from the expert witness shall be required for the purposes of this section. The plaintiff may have separate certifications for standard of care and causation. Each defendant who is the subject of an expert witness's certification shall be identified in the certification.
+		</section>
+		<section prefix="B">This certification is not necessary if the plaintiff, in good faith, alleges a medical malpractice action that asserts a theory of liability where expert testimony is unnecessary because the alleged act of negligence clearly lies within the range of the jury's common knowledge and experience.
+		</section>
+		<section prefix="C">The certifying expert shall not be required to be an expert witness expected to testify at trial nor shall any defendant be entitled to discover the identity or qualifications of the certifying expert or the nature of the certifying expert's opinions. Should the certifying expert be identified as an expert expected to testify at trial, the opinions and bases therefor shall be discoverable pursuant to Rule 4:1 of the Rules of Supreme Court of Virginia with the exception of the expert's status as a certifying expert.
+		</section>
+		<section prefix="D">Within 21 days of an answer being filed by a defendant upon whom service of process has been requested, the plaintiff shall certify to such defendant that the plaintiff had obtained the necessary certifying expert opinion at the time service was requested or affirms that the plaintiff did not need to obtain a certifying expert witness opinion by including a statement that reads: THIS IS TO CERTIFY THAT THE PLAINTIFF HAS COMPLIED WITH § 8.01-20.1 OF THE CODE OF VIRGINIA. The court, upon good cause shown, may conduct an in camera review of the certifying expert opinion obtained by the plaintiff as the court may deem appropriate. If the plaintiff did not obtain a necessary certifying expert opinion at the time the plaintiff requested service of process on a defendant as required under this section, the court shall impose sanctions according to the provisions of § 8.01-271.1 and may dismiss the case with prejudice.
+		</section>
+	</text>
+	<history>2005, cc. 649, 692; 2007, c. 489; 2013, cc. 65, 610; 2025, c. 359.</history>
+</law>

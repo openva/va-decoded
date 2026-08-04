@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="7" level="4">Requirements Applicable to Underground Coal Mines; Mine Construction</unit>
+		<unit label="article" identifier="8" level="5">Transportation</unit>
+	</structure>
+	<section_number>45.2-748</section_number>
+	<catch_line> Shelter holes</catch_line>
+	<text>
+		<section prefix="A">Every haulage road shall have shelter holes at intervals not to exceed the interval permitted by the roof control plan for crosscuts. Except at a point where more than six feet of side clearance, measured from the rail, is maintained, or at a room switch, a shelter hole shall be provided at each manually operated door and at each switch throw.
+		</section>
+		<section prefix="B">Except for shelter holes at an underground slope landing where miners pass and cars are handled, each shelter hole shall have (i) a depth of at least five feet; (ii) a width of at most four feet, unless a room neck or crosscut width exceeding four feet is used as a shelter hole; and (iii) a height of at least six feet or, if the height of the traveling space is less than six feet, a height equivalent to that of the traveling space.
+		</section>
+		<section prefix="C">Every shelter hole at an underground slope landing where miners pass and cars are handled shall be at least (i) 10 feet in depth, (ii) four feet in width, and (iii) six feet in height.
+		</section>
+		<section prefix="D">Every shelter hole shall be kept free of refuse, loose roof, and other obstructions.
+		</section>
+	</text>
+	<history>Code 1950, § 45-69.5; 1954, c. 191; 1966, c. 594, § 45.1-71; 1994, c. 28, § 45.1-161.137; 2021, Sp. Sess. I, c. 387.</history>
+</law>

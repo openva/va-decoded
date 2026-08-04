@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="8" level="3">Radiation Control</unit>
+	</structure>
+	<section_number>32.1-235</section_number>
+	<catch_line>Authority of Governor to enter into agreements with federal government; effect on federal licenses</catch_line>
+	<text>
+		<section prefix="A">The Governor is authorized, subject to the appropriation of funds, to enter into agreements with the federal government providing for discontinuance of the federal government's responsibilities with respect to sources of ionizing radiation and the assumption thereof by this Commonwealth.
+		</section>
+		<section prefix="B">Any person who, on the effective date of an agreement under subsection A, except those exempted under § 32.1-228, possesses a license issued by the federal government shall be deemed to possess the same pursuant to this article. Such license shall expire either ninety days after receipt of a notice from the Department of expiration of such license or on the date of expiration specified in the federal license, whichever is earlier.
+		</section>
+	</text>
+	<history>Code 1950, § 32-414.11; 1964, c. 158; 1974, c. 300; 1979, c. 711; 1999, c. 755; 2008, cc. 41, 466.</history>
+</law>

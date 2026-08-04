@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="11" level="3">Merger</unit>
+	</structure>
+	<section_number>13.1-1262</section_number>
+	<catch_line>Governing instrument</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding anything to the contrary contained in the governing instrument of a business trust, a governing instrument of a business trust containing a specific reference to this section may provide that an agreement of merger approved in accordance with this article may:
+			<section prefix="1">Effect any amendment to the governing instrument of the business trust; or
+			</section>
+			<section prefix="2">Effect the adoption of a new governing instrument of the business trust if it is the successor trust in the merger.
+			</section>
+		</section>
+		<section prefix="B">1. Any amendment to the governing instrument of a business trust or adoption of a new governing instrument of the business trust made under this section shall be effective at the effective time or date of the merger.
+			<section prefix="2">The provisions of this subsection shall not be construed to limit the accomplishment of a merger or of any of the matters referred to herein by any other means provided for in the governing instrument of a business trust or other agreement or as otherwise permitted by law, including that the governing instrument of any constituent business trust to the merger shall be the governing instrument of the successor trust.
+			</section>
+		</section>
+	</text>
+	<history>2002, c. 621.</history>
+</law>

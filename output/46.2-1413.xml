@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="14.1" level="3">Peer-to-Peer Vehicle Sharing</unit>
+	</structure>
+	<section_number>46.2-1413</section_number>
+	<catch_line>Recordkeeping: use of vehicle in vehicle sharing</catch_line>
+	<text>
+		A peer-to-peer vehicle sharing platform shall collect and verify records pertaining to the use of a shared vehicle, including a record of the identity of the shared vehicle driver, times used, locations established pursuant to the vehicle sharing platform agreement, fees paid by the shared vehicle driver, and revenues received by the shared vehicle owner, and provide such records upon request to the shared vehicle owner, the shared vehicle owner's insurer, or the shared vehicle driver's insurer to facilitate a claim coverage investigation, settlement, negotiation, or litigation. The peer-to-peer vehicle sharing platform shall retain the records for at least five years.
+	</text>
+	<history>2020, c. 1266.</history>
+</law>

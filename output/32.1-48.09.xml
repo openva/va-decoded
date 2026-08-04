@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="3.02" level="3">Quarantine and Isolation of Persons With Communicable Diseases of Public Health Threat</unit>
+	</structure>
+	<section_number>32.1-48.09</section_number>
+	<catch_line>Order of quarantine</catch_line>
+	<text>
+		<section prefix="A">The State Health Commissioner shall, prior to placing any person or persons under quarantine, issue an order of quarantine that shall: (i) identify the communicable disease of public health threat that is reasonably believed to be involved and the reasons why exceptional circumstances apply and the quarantine is the necessary means to contain the risks of transmission of the disease; (ii) contain sufficient information to provide reasonable notice to persons who are affected by the order of quarantine that they are subject to the order; (iii) specify the means by which the quarantine is to be implemented; (iv) establish clearly the geographic parameters of the quarantine, if involving an affected area; (v) specify the duration of the quarantine; (vi) provide sufficient directions for compliance with the quarantine to enable persons subject to the order to comply; (vii) provide timely opportunities, if not readily available under the circumstances, for the person or persons who are subject to the order to notify employers, next of kin or legally authorized representatives and the attorneys of their choice of the situation; (viii) specify the penalty or penalties that may be imposed for noncompliance with the order of quarantine pursuant to § 32.1-27; and (ix) include a copy of § 32.1-48.010 to inform any person or persons subject to an order of quarantine of the right to seek judicial review of the order.
+		</section>
+		<section prefix="B">No affected area shall be the subject to an order of quarantine issued by the State Health Commissioner unless the Governor, pursuant to the authority vested in him pursuant to Chapter 3.2 (§ 44-146.13 et seq.) of Title 44, has declared a state of emergency for such affected area of the Commonwealth.
+		</section>
+		<section prefix="C">The order of quarantine shall be delivered to any person or persons affected by the quarantine, in so far as practicable. However, if, in the opinion of the State Health Commissioner, the number of quarantined persons is too great to make delivery of copies of the order of quarantine to each person possible in a timely manner, or if the order of quarantine designates an affected area instead of a specific person or persons, the State Health Commissioner shall cause the order of quarantine to be communicated to the persons residing or located in the affected area.
+		</section>
+		<section prefix="D">The State Health Commissioner or his legal representative shall, as soon as practicable following the issuance of an order of quarantine, file a petition seeking an ex parte court review and confirmation of the quarantine.
+		</section>
+		<section prefix="E">The petition shall be filed in the circuit court for the city or county in which the person or persons resides or is located or, in the case of an affected area, in the circuit court of the affected jurisdiction or jurisdictions.
+			The petition shall include (i) a copy of the order of quarantine or all information contained in the State Health Commissioner's order of quarantine in some other format and (ii) a summary of the findings on which the Commissioner relied in deciding to issue the order of quarantine.
+			Upon receiving multiple orders of quarantine, the court may, on the motion of any party or on the court's own motion, consolidate the cases into a single proceeding for all orders when (i) there are common questions of law or fact relating to the individual claims or rights to be determined, (ii) the claims of the consolidated cases are substantially similar, and (iii) all parties to the orders will be adequately represented in the consolidation.
+		</section>
+		<section prefix="F">Prior to the expiration of the original order of quarantine, the Commissioner may extend the duration of the original order upon finding that such an extension is necessary. The Commissioner, or his legal representative, shall, as soon as practicable following the extension of an order of quarantine, file a petition seeking court review and confirmation of the order to extend the duration of the quarantine.
+		</section>
+		<section prefix="G">In reviewing the petition for review and confirmation of the order of quarantine or an extension of the order of quarantine, the court shall give due deference to the specialized expertise of the State Health Commissioner. The court shall grant the petition to confirm or extend the quarantine upon finding probable cause that quarantine was the necessary means to contain the disease of public health threat and is being implemented in the least restrictive environment to address the public health threat effectively, given the reasonably available information on effective control measures and the nature of the communicable disease of public health threat.
+		</section>
+		<section prefix="H">The State Health Commissioner may, if he reasonably believes that public disclosure of the information contained in the order of quarantine or the petition for court review and confirmation or extension of the order of quarantine will exacerbate the public health threat or compromise any current or future criminal investigation or compromise national security, file some or all of any petition relating to an order of quarantine under seal. After reviewing any information filed under seal by the State Health Commissioner, the court shall reseal the relevant materials to the extent necessary to protect public health and safety.
+		</section>
+		<section prefix="I">The State Health Commissioner shall ensure that the protected health information of any person or persons subject to the order of quarantine shall only be disclosed in compliance with § 32.1-127.1:03 of this title and the regulations relating to privacy of health records promulgated by the federal Department of Health and Human Services pursuant to the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. § 1320d et seq.).
+		</section>
+		<section prefix="J">Any law-enforcement officer, state or local health department employee, or any other person designated by a law-enforcement officer or state or local health department employee is empowered and authorized to deliver an order of quarantine.
+		</section>
+	</text>
+	<history>2004, cc. 773, 1021; 2007, cc. 699, 783.</history>
+</law>

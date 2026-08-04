@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="III" level="2">Local Taxes</unit>
+		<unit label="chapter" identifier="36" level="3">Tax Exempt Property</unit>
+		<unit label="article" identifier="5" level="4">Other Exempt Property</unit>
+	</structure>
+	<section_number>58.1-3663</section_number>
+	<catch_line>Partial taxation by one political subdivision of utility property owned by another</catch_line>
+	<text>
+		<section prefix="A">In the event any land or buildings constituting any portion of any water system or other public utility owned directly or indirectly by any political subdivision of the Commonwealth is legally assessable for taxation by any political subdivision other than the owner of such public utility, such property located without the limits of such owner shall be assessed only for the portion of fair market value thereof in the proportion that the gross revenues of the utility derived from consumers outside of the limits of the owner bears to the gross revenues derived from the whole utility. Such proportion for each year shall be based on the gross revenues of the year next preceding. The commissioner of revenue shall each year so extend the assessment on his books.
+		</section>
+		<section prefix="B">The owner of such utility shall annually on or before April 1 report, to the commissioner of the revenue of the county in which any of such property is located, the gross revenues of the utility derived from consumers outside of the limits of the owner as well as the gross revenues derived from the whole utility. The books of the owner shall at all reasonable times be open to the inspection of the commissioner of the revenue of any such county for the ascertainment of such proportion of the revenues.
+		</section>
+		<section prefix="C">The provisions of this section shall not apply to any land or buildings acquired by any such political subdivision by condemnation, purchase or otherwise for any such public utility unless the same is actually used and necessary for such public utility.
+		</section>
+	</text>
+	<history>Code 1950, § 58-19; 1984, c. 675.</history>
+</law>

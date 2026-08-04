@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="15" level="3">Conversion</unit>
+	</structure>
+	<section_number>13.1-1082</section_number>
+	<catch_line>Entity conversion</catch_line>
+	<text>
+		<section prefix="A">A domestic limited liability company may become a domestic stock corporation or a domestic business trust pursuant to a plan of entity conversion that is approved by the limited liability company in accordance with the provisions of this article.
+		</section>
+		<section prefix="B">A domestic stock corporation may become a domestic limited liability company pursuant to a plan of entity conversion that is adopted and approved by the corporation in accordance with the provisions of Article 12.2 (§ 13.1-722.8 et seq.) of Chapter 9.
+		</section>
+		<section prefix="C">A domestic nonstock corporation may become a domestic limited liability company pursuant to a plan of entity conversion that is adopted and approved by the corporation in accordance with the provisions of Article 17.1 (§ 13.1-944.1 et seq.) of Chapter 10.
+		</section>
+		<section prefix="D">A domestic business trust may become a domestic limited liability company pursuant to a plan of entity conversion that is approved by the business trust in accordance with the provisions of Article 12 (§ 13.1-1264 et seq.) of Chapter 14.
+		</section>
+		<section prefix="E">Unless otherwise provided for in Chapter 2.2 (§ 50-73.79 et seq.) of Title 50, a domestic partnership that has filed either a statement of partnership authority or a statement of registration as a registered limited liability partnership with the Commission that is not canceled may become a domestic limited liability company pursuant to a plan of entity conversion that is approved by the domestic partnership in accordance with the provisions of this article.
+		</section>
+		<section prefix="F">Unless otherwise provided for in Chapter 2.1 (§ 50-73.1 et seq.) of Title 50, a domestic limited partnership that has filed a certificate of limited partnership with the Commission that is not canceled may become a domestic limited liability company pursuant to a plan of entity conversion that is approved by the domestic limited partnership in accordance with the provisions of this article.
+		</section>
+	</text>
+	<history>2016, c. 288.</history>
+</law>

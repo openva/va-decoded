@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="IV" level="2">Common Interest Communities</unit>
+		<unit label="chapter" identifier="21" level="3">Virginia Real Estate Cooperative Act</unit>
+		<unit label="article" identifier="4" level="4">Protection of Cooperative Purchasers</unit>
+	</structure>
+	<section_number>55.1-2157</section_number>
+	<catch_line>Public offering statement; time-shares</catch_line>
+	<text>
+		If the declaration provides that ownership of cooperative interests or occupancy of any units is or may be in time-shares, the public offering statement shall disclose, in addition to the information required by § 55.1-2155:
+		<section prefix="1">The number and identity of units in which time-shares may be created;
+		</section>
+		<section prefix="2">The total number of time-shares that may be created;
+		</section>
+		<section prefix="3">The minimum duration of any time-shares that may be created; and
+		</section>
+		<section prefix="4">The extent to which the creation of time-shares will or may affect the enforceability of the association's lien for assessments provided in § 55.1-2149.
+		</section>
+	</text>
+	<history>1982, c. 277, § 55-480; 2019, c. 712.</history>
+</law>

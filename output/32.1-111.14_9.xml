@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="4" level="2">Health Care Planning</unit>
+		<unit label="article" identifier="2.1" level="3">Statewide Emergency Medical Services System and Services</unit>
+	</structure>
+	<section_number>32.1-111.14:9</section_number>
+	<catch_line>Entry of buildings and premises adjoining during a medical emergency</catch_line>
+	<text>
+		<section prefix="A">The incident commander at a medical emergency, and his subordinates, upon his order or direction, shall have the right at any time of the day or night to enter any building or upon any premises where a medical emergency is in progress, or any building or premises adjacent thereto for the purpose of providing emergency medical services.
+		</section>
+		<section prefix="B">The incident commander at a medical emergency, and his subordinates upon his order or direction, shall have the right to remain at the scene of a medical emergency, including remaining in any building or house, for purposes of protecting the property and preventing the public from entry into the premises, until such reasonable time as the owner may resume responsibility for the protection of the property.
+		</section>
+	</text>
+	<history>2015, cc. 502, 503.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Shares and Distributions</unit>
+	</structure>
+	<section_number>13.1-644</section_number>
+	<catch_line>Liability of shareholders and others</catch_line>
+	<text>
+		<section prefix="A">A purchaser from a corporation of the corporation's own shares is not liable to the corporation or the corporation's creditors with respect to the shares except to pay the consideration for which the shares were authorized to be issued as provided in § 13.1-643 or specified in the subscription agreement.
+		</section>
+		<section prefix="B">A person who becomes a transferee of shares in good faith and without knowledge that the consideration determined for the shares pursuant to § 13.1-643 or specified in the subscription agreement has not been paid is not personally liable for any unpaid portion of the consideration, but the initial transferor remains liable therefor.
+		</section>
+		<section prefix="C">An executor, administrator, conservator, guardian, trustee, assignee for the benefit of creditors, or receiver shall not, in any event, be personally liable to the corporation as transferee of a purchaser from the corporation of the corporation's own shares but the estate of the purchaser and the purchaser's assets in the hands of such personal representative shall be so liable.
+		</section>
+		<section prefix="D">A shareholder is not personally liable for any liabilities of the corporation, including liabilities arising from the acts of the corporation, except to the extent provided in a provision of the articles of incorporation permitted by subdivision B 3 (e) of § 13.1-619.
+		</section>
+		<section prefix="E">No pledgee or other holder of shares as collateral security shall be personally liable as a shareholder.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-97, 13.1-22; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2019, c. 734.</history>
+</law>

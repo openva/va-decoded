@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="4" level="3">Relations of Partners to Each Other and to Partnership</unit>
+	</structure>
+	<section_number>50-73.99</section_number>
+	<catch_line>Partner's rights and duties</catch_line>
+	<text>
+		<section prefix="A">Each partner is deemed to have an account that is:
+			<section prefix="1">Credited with an amount equal to the money plus the value of any other property, net of the amount of any liabilities, the partner contributes to the partnership and the partner's share of the partnership profits; and
+			</section>
+			<section prefix="2">Charged with an amount equal to the money plus the value of any other property, net of the amount of any liabilities, distributed by the partnership to the partner and the partner's share of the partnership losses.
+			</section>
+		</section>
+		<section prefix="B">Each partner is entitled to an equal share of the partnership profits and is chargeable with a share of the partnership losses in proportion to the partner's share of the profits.
+		</section>
+		<section prefix="C">A partnership shall reimburse a partner for payments made and indemnify a partner for liabilities incurred by the partner in the ordinary course of the business of the partnership or for the preservation of its business or property; however, no person shall be required as a consequence of the indemnification to make any payment to the extent that the payment would be inconsistent with subsections B and C of § 50-73.96.
+		</section>
+		<section prefix="D">A partnership shall reimburse a partner for an advance to the partnership beyond the amount of capital the partner agreed to contribute.
+		</section>
+		<section prefix="E">A payment or advance made by a partner which gives rise to a partnership obligation under subsections C or D constitutes a loan to the partnership which accrues interest from the date of the payment or advance.
+		</section>
+		<section prefix="F">Each partner has equal rights in the management and conduct of the partnership business.
+		</section>
+		<section prefix="G">A partner may use or possess partnership property only on behalf of the partnership.
+		</section>
+		<section prefix="H">A partner is not entitled to remuneration for services performed for the partnership, except for reasonable compensation for services rendered in winding up the business of the partnership.
+		</section>
+		<section prefix="I">A person may become a partner only with the consent of all of the partners.
+		</section>
+		<section prefix="J">A difference arising as to a matter in the ordinary course of business of a partnership may be decided by a majority of the partners. An act outside the ordinary course of business of a partnership and an amendment to the partnership agreement may be undertaken only with the consent of all of the partners.
+		</section>
+		<section prefix="K">This section does not affect the obligations of a partnership to other persons under § 50-73.91.
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

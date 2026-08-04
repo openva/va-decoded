@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="15" level="2">Rehabilitation and Liquidation of Insurers</unit>
+	</structure>
+	<section_number>38.2-1522</section_number>
+	<catch_line>Qualified financial contracts</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any other provision of this chapter, including any other provision of this chapter permitting the modification of contracts, or other state law, no person shall be stayed or prohibited from exercising:
+			<section prefix="1">A contractual right to cause the termination, liquidation, acceleration, or close-out of obligations under or in connection with any netting agreement or qualified financial contract with an insurer because of:
+				a. The insolvency, financial condition, or default of the insurer at any time, provided that the right is enforceable under applicable law other than this chapter; or
+				b. The commencement of a delinquency proceeding under this chapter;
+			</section>
+			<section prefix="2">Any right under a pledge, security, collateral, reimbursement, or guarantee agreement or arrangement or any other similar arrangement, or other credit enhancement relating to one or more netting agreements or qualified financial contracts;
+			</section>
+			<section prefix="3">Subject to subdivision B 2 of § 38.2-1515, any right to set off or net out any termination value, payment amount, or other transfer obligation arising under or in connection with one or more qualified financial contracts where the counterparty or its guarantor is organized under the laws of the United States or a state or a foreign jurisdiction approved by the Securities Valuation Office of the National Association of Insurance Commissioners as eligible for netting; or
+			</section>
+			<section prefix="4">A right to claim damages if a counterparty to a master netting agreement or a qualified financial contract with an insurer subject to a proceeding under this chapter terminates, liquidates, closes out, or accelerates the agreement or contract, which damages shall be measured as of the date or dates of termination, liquidation, close-out, or acceleration. The amount of a claim for damages shall be actual direct compensatory damages calculated in accordance with subsection F.
+			</section>
+		</section>
+		<section prefix="B">Upon termination of a netting agreement or qualified financial contract, the net or settlement amount, if any, owed by a nondefaulting party to an insurer against which an application has been filed under this chapter shall be transferred to or on the order of the receiver for the insurer, even if the insurer is the defaulting party, notwithstanding any walkaway clause in the netting agreement or qualified financial contract. For purposes of this subsection, "walkaway clause" means a provision in a netting agreement or a qualified financial contract that, after calculation of a value of a party's position or an amount due to or from one of the parties in accordance with its terms upon termination, liquidation, or acceleration of the netting agreement or qualified financial contract, either does not create a payment obligation of a party or extinguishes a payment obligation of a party in whole or in part solely because of the party's status as a nondefaulting party. Any limited two-way payment or first method provision in a netting agreement or qualified financial contract with an insurer that has defaulted shall be deemed to be a full two-way payment or second method provision as against the defaulting insurer. Any such property or amount shall, except to the extent it is subject to one or more secondary liens or encumbrances, or rights of netting or setoff, be a general asset of the insurer.
+		</section>
+		<section prefix="C">In making any transfer of a netting agreement or qualified financial contract of an insurer subject to a proceeding under this chapter, the receiver shall either:
+			<section prefix="1">Transfer to one party, other than an insurer subject to a delinquency proceeding under this chapter, all netting agreements and qualified financial contracts between a counterparty or any affiliate of the counterparty and the insurer that is the subject of the proceeding, including:
+				a. All rights and obligations of each party under each netting agreement and qualified financial contract; and
+				b. All property, including any guarantees or other credit enhancement, securing any claims of each party under each netting agreement and qualified financial contract; or
+			</section>
+			<section prefix="2">Transfer none of the netting agreements, qualified financial contracts, rights, obligations, or property referred to in subdivision 1, with respect to the counterparty and any affiliate of the counterparty.
+			</section>
+		</section>
+		<section prefix="D">If a receiver of an insurer subject to a delinquency proceeding makes a transfer of one or more netting agreements or qualified financial contracts, then the receiver shall use its best efforts to notify any person who is party to the netting agreements or qualified financial contracts of the transfer by 12:00 noon, the receiver's local time, on the business day following the transfer. For purposes of this section, "business day" means a day other than a Saturday, Sunday, or any day on which either the New York Stock Exchange or the Federal Reserve Bank of New York is closed.
+		</section>
+		<section prefix="E">Notwithstanding any other provision of this chapter, including § 38.2-1513, a receiver may not avoid a transfer of money or other property arising under or in connection with a netting agreement or qualified financial contract, or any pledge, security, collateral, or guarantee agreement or any other similar security arrangement or credit support document relating to a netting agreement or qualified financial contract, that is made before the commencement of a delinquency proceeding under this chapter. However, a transfer may be avoided under § 38.2-1513 if the transfer was made with actual intent to hinder, delay, or defraud the insurer, a receiver appointed for the insurer, or existing or future creditors.
+		</section>
+		<section prefix="F">In exercising the receiver's rights of disaffirmance or repudiation with respect to any netting agreement or qualified financial contract to which an insurer is a party, the receiver for the insurer shall either:
+			<section prefix="1">Disaffirm or repudiate all netting agreements and qualified financial contracts between a counterparty or any affiliate of the counterparty and the insurer that is the subject of the proceeding; or
+			</section>
+			<section prefix="2">Disaffirm or repudiate none of the netting agreements and qualified financial contracts referred to in subdivision 1, with respect to the person or any affiliate of the person.
+			</section>
+		</section>
+		<section prefix="G">Notwithstanding any other provision of this chapter, provided the receiver disaffirms or repudiates a netting agreement or qualified financial contract within a reasonable period after the commencement of a delinquency proceeding, any claim of a counterparty against the estate arising from the receiver's disaffirmance or repudiation of a netting agreement or qualified financial contract that has not been previously affirmed in the liquidation or immediately preceding rehabilitation shall be determined and shall be allowed or disallowed as if the claim had arisen before the date of the filing of the petition for liquidation or, if a rehabilitation is converted to a delinquency proceeding, as if the claim had arisen before the date of the filing of the petition for rehabilitation. The amount of the claim shall be the actual direct compensatory damages determined as of the date of the disaffirmance or repudiation of the netting agreement or qualified financial contract.
+		</section>
+		<section prefix="H">The provisions of this section shall not apply to persons who are affiliates of the insurer that is the subject of the proceeding.
+		</section>
+		<section prefix="I">All rights of counterparties under this chapter shall apply to netting agreements and qualified financial contracts entered into on behalf of the general account and any separate account if the assets of such separate account are available only to counterparties to netting agreements and qualified financial contracts and entered into on behalf of such separate account.
+		</section>
+	</text>
+	<history>2011, c. 198.</history>
+</law>

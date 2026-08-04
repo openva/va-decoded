@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="3" level="3">Priority</unit>
+	</structure>
+	<section_number>8.9A-336</section_number>
+	<catch_line>Commingled goods</catch_line>
+	<text>
+		<section prefix="a">"Commingled goods." In this section, "commingled goods" means goods that are physically united with other goods in such a manner that their identity is lost in a product or mass.
+		</section>
+		<section prefix="b">No security interest in commingled goods as such. A security interest does not exist in commingled goods as such. However, a security interest may attach to a product or mass that results when goods become commingled goods.
+		</section>
+		<section prefix="c">Attachment of security interest to product or mass. If collateral becomes commingled goods, a security interest attaches to the product or mass.
+		</section>
+		<section prefix="d">Perfection of security interest. If a security interest in collateral is perfected before the collateral becomes commingled goods, the security interest that attaches to the product or mass under subsection (c) is perfected.
+		</section>
+		<section prefix="e">Priority of security interest. Except as otherwise provided in subsection (f), the other provisions of this part determine the priority of a security interest that attaches to the product or mass under subsection (c).
+		</section>
+		<section prefix="f">Conflicting security interests in product or mass. If more than one security interest attaches to the product or mass under subsection (c), the following rules determine priority:
+			<section prefix="1">a security interest that is perfected under subsection (d) has priority over a security interest that is unperfected at the time the collateral becomes commingled goods.
+			</section>
+			<section prefix="2">if more than one security interest is perfected under subsection (d), the security interests rank equally in proportion to the value of the collateral at the time it became commingled goods.
+			</section>
+		</section>
+	</text>
+	<history>2000, c. 1007.</history>
+</law>

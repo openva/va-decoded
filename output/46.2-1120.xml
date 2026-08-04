@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="10" level="3">Motor Vehicle and Equipment Safety</unit>
+		<unit label="article" identifier="16" level="4">Maximum Vehicle Lengths</unit>
+	</structure>
+	<section_number>46.2-1120</section_number>
+	<catch_line>Extension of loads beyond front of vehicles</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "self-propelled pole carrier" means a motor vehicle that is (i) operated by a public utility company as defined in § 56-265.1, or its agents, (ii) designed to carry a pole at a height of at least five feet when measured from the bottom of the brace used to carry the pole, and (iii) carrying no more than two utility poles.
+		</section>
+		<section prefix="B">Except as provided in subsection C, no vehicle shall carry any load extending more than three feet beyond the front of such vehicle.
+		</section>
+		<section prefix="C">Any utility pole carried by a self-propelled pole carrier may extend beyond the front overhang limit set by this section if the pole is no more than 55 feet in length, the pole cannot be dismembered and does not extend more than 10 feet beyond the front bumper of the vehicle, and either:
+			<section prefix="1">Between sunrise and sunset, the front of the pole is marked by a flag of the type required under § 46.2-1121 on the rear of certain loads; or
+			</section>
+			<section prefix="2">Between sunset and sunrise, operation of the vehicle is required to make emergency repairs to utility service, and the front of the pole is marked by a light of the type required under § 46.2-1121 on the rear of certain loads.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 46-329; 1958, c. 541, § 46.1-333; 1989, c. 727; 2013, cc. 242, 385.</history>
+</law>

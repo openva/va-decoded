@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="2" level="4">Judicial Proceedings</unit>
+	</structure>
+	<section_number>64.2-713</section_number>
+	<catch_line>Pleadings; parties; orders; notice</catch_line>
+	<text>
+		<section prefix="A">In judicial proceedings involving trusts governed under this chapter, including proceedings to modify or terminate a trust:
+			<section prefix="1">Interests to be affected by the proceeding shall be described in pleadings that give reasonable information to owners by name or class, by reference to the instrument creating the interests, or in any other appropriate manner.
+			</section>
+			<section prefix="2">Orders shall bind persons as follows:
+				a. An order binding the sole holder or all co-holders of a power of revocation or a presently exercisable general power of appointment, including one in the form of a power of amendment, binds other persons to the extent their interests as objects, takers in default or otherwise are subject to such power.
+				b. To the extent there is no conflict of interest between or among them:
+				<section prefix="1">An order binding a conservator or a guardian of an estate binds the person whose estate he controls;
+				</section>
+				<section prefix="2">An order binding a guardian of the person binds the ward if no conservator or guardian of his estate has been appointed;
+				</section>
+				<section prefix="3">An order binding a trustee binds beneficiaries of the trust in proceedings to probate a will establishing or adding to a trust, to review the acts or accounts of a prior fiduciary, and in proceedings involving creditors or other third parties;
+				</section>
+				<section prefix="4">An order binding a personal representative binds persons interested in the undistributed assets of a decedent's estate in actions or proceedings by or against the estate; and
+				</section>
+				<section prefix="5">An order binding a sole holder or all co-holders of a general testamentary power of appointment binds other persons to the extent their interests as objects, takers in default, or otherwise are subject to the power.
+					c. Unless otherwise represented, a minor, an incapacitated, unborn, or unascertained person is bound by an order if his interest is adequately represented by another party having a substantially identical interest in the proceedings.
+				</section>
+			</section>
+			<section prefix="3">Notice shall be given:
+				a. Pursuant to Chapter 8 (§ 8.01-285 et seq.) of Title 8.01 and the Rules of Supreme Court of Virginia: (i) to every interested party or to a person who can bind an interested party pursuant to subdivision 2 a or 2 b; and (ii) if the proceeding seeks the modification or termination of a charitable trust or the sale of any of its real estate, to the public at large by order of publication published once a week for three consecutive weeks prior to any hearing or trial in a paper of general circulation in the county or city (a) of the trust's principal place of administration and (b) where any affected real estate of the trust is located. This notice provision does not change the common law rule that members of the public at large are not entitled to be parties to such judicial proceedings or to have any right to appear therein. The purpose of the notice, which shall be stated therein, is solely to make the public aware of the nature of such proceedings, the remedy being sought therein, and the opportunity to share their views in regard thereto with the Attorney General. The court shall not conduct any hearing or trial until it has made a finding that the required notice to the public has been given as specified herein.
+				b. To unborn or unascertained persons who are not represented pursuant to subdivision 2 a or 2 b by giving notice to all known persons whose interests in the proceeding are substantially identical to those of the unborn or unascertained persons.
+			</section>
+			<section prefix="4">Persons under a disability, or unborn or incapacitated persons may be represented during the course of a judicial proceeding as follows:
+				a. At any point in a judicial proceeding, a court may appoint a guardian ad litem to represent the interest of a minor, an incapacitated, unborn or unascertained person, or a person whose identity or address is unknown, if the court determines that representation of the interest otherwise would be inadequate. The guardian ad litem may be appointed to represent several persons or interests to the extent there is no conflict of interest among those persons or interests. The reasons for appointing a guardian ad litem shall be stated in the record of the proceedings.
+				b. A minor or other person under a disability may be represented by an attorney-at-law duly licensed to practice in the Commonwealth who has entered of record an appearance on his behalf to the extent permitted by § 8.01-9.
+			</section>
+		</section>
+		<section prefix="B">The provisions of this section shall apply notwithstanding the Rules of Supreme Court of Virginia or any applicable provisions in Title 8.01.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-542.06; 2007, c. 752; 2012, c. 614.</history>
+</law>

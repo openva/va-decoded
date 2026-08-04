@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="2" level="3">Group Life Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3324</section_number>
+	<catch_line>Standard provisions required; exceptions</catch_line>
+	<text>
+		<section prefix="A">No group life insurance policy shall be delivered or issued for delivery in this Commonwealth unless it contains in substance the standard provisions prescribed in this article. The standard provisions required for individual life insurance policies shall not apply to group life insurance policies.
+		</section>
+		<section prefix="B">If a group life insurance policy is not term insurance, it shall contain a nonforfeiture provision that in the opinion of the Commission is equitable to the insured persons and to the policyholder. This subsection shall not be construed to require that group life insurance policies contain the same nonforfeiture provisions as are required for individual life insurance policies.
+		</section>
+		<section prefix="C">The provisions of § 38.2-3330, subsection A of § 38.2-3331, and §§ 38.2-3332 through 38.2-3334 shall not apply to policies issued pursuant to § 38.2-3318.1 B or group life insurance contracts in which the insurable interest is as described in subdivision 3 of subsection B of § 38.2-301.
+		</section>
+	</text>
+	<history>Code 1950, §§ 38-429, 38-431; 1952, c. 317, § 38.1-424; 1960, c. 273; 1968, c. 282; 1970, c. 145; 1986, c. 562; 1993, c. 105; 1998, c. 154.</history>
+</law>

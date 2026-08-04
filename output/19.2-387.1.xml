@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="23" level="2">Central Criminal Records Exchange</unit>
+	</structure>
+	<section_number>19.2-387.1</section_number>
+	<catch_line>Protective Order Registry; maintenance; access</catch_line>
+	<text>
+		<section prefix="A">The Department of State Police shall keep and maintain a computerized Protective Order Registry. The purpose of the Registry shall be to assist the efforts of law-enforcement agencies to protect their communities and their citizens. The Department of State Police shall make Registry information available, upon request, to criminal justice agencies, including local law-enforcement agencies, through the Virginia Criminal Information Network (VCIN). Registry information provided under this section shall be used only for the purposes of the administration of criminal justice.
+		</section>
+		<section prefix="B">No liability shall be imposed upon any law-enforcement official who disseminates information or fails to disseminate information in good faith compliance with the requirements of this section, but this provision shall not be construed to grant immunity for gross negligence or willful misconduct.
+		</section>
+	</text>
+	<history>2002, cc. 810, 818.</history>
+</law>

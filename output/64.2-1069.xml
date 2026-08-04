@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="7" level="4">Allocation of Disbursements</unit>
+	</structure>
+	<section_number>64.2-1069</section_number>
+	<catch_line>Income taxes</catch_line>
+	<text>
+		<section prefix="A">A tax required to be paid by a fiduciary that is based on receipts allocated to income must be paid from income.
+		</section>
+		<section prefix="B">A tax required to be paid by a fiduciary that is based on receipts allocated to principal must be paid from principal, even if the tax is called an income tax by the taxing authority.
+		</section>
+		<section prefix="C">Subject to subsection D and §§ 64.2-1067, 64.2-1068, and 64.2-1070, a tax required to be paid by a fiduciary on a share of an entity's taxable income in an accounting period must be paid from:
+			<section prefix="1">Income and principal proportionately to the allocation between income and principal of receipts from the entity in the period; and
+			</section>
+			<section prefix="2">Principal, to the extent the tax exceeds the receipts from the entity in the period.
+			</section>
+		</section>
+		<section prefix="D">After applying subsections A, B, and C, a fiduciary shall adjust income or principal receipts, to the extent the taxes the fiduciary pays are reduced because of a deduction for a payment made to a beneficiary.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

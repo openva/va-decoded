@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="V" level="2">Domestic Animals</unit>
+		<unit label="chapter" identifier="65" level="3">Comprehensive Animal Care</unit>
+		<unit label="article" identifier="2" level="4">Animal Welfare</unit>
+	</structure>
+	<section_number>3.2-6505</section_number>
+	<catch_line>Disposal of animals by means of decompression chamber and use of gas chamber for companion animals prohibited</catch_line>
+	<text>
+		<section prefix="A">No animal shall be euthanized pursuant to the provisions of this chapter by means of a high altitude decompression chamber.
+		</section>
+		<section prefix="B">No companion animal shall be euthanized pursuant to the provisions of this chapter by means of a gas chamber.
+		</section>
+	</text>
+	<history>1984, c. 492, § 29-213.47; 1987, c. 488, § 3.1-796.77; 2008, cc. 8, 860.</history>
+</law>

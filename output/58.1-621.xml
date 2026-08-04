@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="6" level="3">Retail Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-621</section_number>
+	<catch_line>Bad debts</catch_line>
+	<text>
+		<section prefix="A">In any return filed under the provisions of this chapter, the dealer may credit, against the tax shown to be due on the return, the amount of sales or use tax previously returned and paid on accounts which are owed to the dealer and which have been found to be worthless within the period covered by the return. The credit, however, shall not exceed the amount of the uncollected sales price determined by treating prior payments on each debt as consisting of the same proportion of sales price, sales tax and other nontaxable charges as in the total debt originally owed to the dealer. The amount of accounts for which a credit has been taken that are thereafter in whole or in part paid to the dealer shall be included in the first return filed after such collection.
+		</section>
+		<section prefix="B">Notwithstanding any other provision of this section, a dealer whose volume and character of uncollectible accounts, including checks returned for insufficient funds, renders it impractical to substantiate the credit on an account-by-account basis, may, subject to the approval of the Department, utilize an alternative method of substantiating the credit.
+		</section>
+	</text>
+	<history>Code 1950, § 58-441.24; 1966, c. 151; 1974, c. 202; 1984, c. 675; 2005, c. 355.</history>
+</law>

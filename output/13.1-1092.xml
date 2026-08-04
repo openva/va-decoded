@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1092</section_number>
+	<catch_line>Relation of operating agreement, this article, and the other articles of this chapter</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in this section and subject to §§ 13.1-1093 and 13.1-1094, the operating agreement of a series limited liability company governs:
+			<section prefix="1">The internal affairs of a protected series, including:
+				a. Relations among any associated members of the protected series;
+				b. Relations among the protected series and (i) any associated member of the protected series, (ii) any protected series manager, and (iii) any protected series assignee;
+				c. Relations between any associated member and (i) any protected series manager or (ii) any protected series assignee;
+				d. The rights and duties of a protected series manager;
+				e. Governance decisions affecting the activities and affairs of the protected series and the conduct of those activities and affairs; and
+				f. Procedures and conditions for becoming an associated member or protected series assignee;
+			</section>
+			<section prefix="2">The relations among the protected series of a series limited liability company, the series limited liability company, and any other protected series of the series limited liability company; and
+			</section>
+			<section prefix="3">Relations between:
+				a. The protected series, its protected series manager, any associated member of the protected series, or any protected series assignee of the protected series; and
+				b. A person in the person's capacity as:
+				<section prefix="1">A member of the series limited liability company who is not an associated member of the protected series;
+				</section>
+				<section prefix="2">A protected series assignee or protected series manager of another protected series; or
+				</section>
+				<section prefix="3">An assignee of the series limited liability company.
+				</section>
+			</section>
+		</section>
+		<section prefix="B">If the provisions of this chapter other than in this article restrict the power of an operating agreement to affect a matter, the restriction applies to a matter under this article according to the rules stated in § 13.1-1094.
+		</section>
+		<section prefix="C">If the law of the Commonwealth other than this article contains a prohibition, limitation, requirement, condition, or other constraint pertaining to a limited liability company, a member, a manager, or other agent of the limited liability company, or an assignee of the limited liability company, except as otherwise provided in the law of the Commonwealth other than this article, the restriction applies according to the rules stated in § 13.1-1094.
+		</section>
+		<section prefix="D">Except as otherwise provided in § 13.1-1093, if the operating agreement of a series limited liability company does not provide for a matter described in subsection A in a manner permitted by this article, the matter is determined in accordance with the following rules:
+			<section prefix="1">To the extent that this article addresses the matter, this article governs; and
+			</section>
+			<section prefix="2">To the extent that this article does not address the matter, the provisions of this chapter other than in this article govern the matter according to the rules stated in § 13.1-1094.
+			</section>
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

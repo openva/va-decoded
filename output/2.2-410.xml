@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-410</section_number>
+	<catch_line>Appointment of assistants; deputy to act in absence of Secretary; notice to Governor</catch_line>
+	<text>
+		<section prefix="A">The Secretary of the Commonwealth shall appoint in his office the assistants allowed by law.
+		</section>
+		<section prefix="B">During the absence of the Secretary of the Commonwealth from his office his duties shall be performed by the Deputy Secretary, but when such absence is for more than five days at a time, notice thereof shall be given to the Governor.
+		</section>
+	</text>
+	<history>Code 1950, §§ 2-63, 2-64; 1966, c. 677, §§ 2.1-72, 2.1-73; 2001, c. 844.</history>
+</law>

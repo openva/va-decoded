@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="1" level="3">Reporting of Diseases</unit>
+	</structure>
+	<section_number>32.1-37.01</section_number>
+	<catch_line>Posting of information about cases of communicable disease of public health threat</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Reporting entity" means a medical care facility, residential or day program, service or facility licensed or operated by any agency of the Commonwealth, school, or summer camp required to report an outbreak of a communicable disease pursuant to § 32.1-37.
+		</section>
+		<section prefix="B">Upon declaration of an emergency by the Governor pursuant to § 44-146.17 in response to a communicable disease of public health threat, the Department shall make information regarding outbreaks of such communicable disease of public health threat reported pursuant to § 32.1-37 available to the public on a website maintained by the Department, provided the release of such information does not violate the provisions of § 32.1-41. Such information shall include (i) the name of the reporting entity at which an outbreak of such communicable disease of public health threat has been reported; (ii) the number of confirmed cases of such communicable disease of public health threat reported by such reporting entity; and (iii) the number of deaths resulting from such communicable disease of public health threat reported by such reporting entity.
+		</section>
+	</text>
+	<history>2020, Sp. Sess. I, cc. 12, 24.</history>
+</law>

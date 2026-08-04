@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="1.2" level="2">Physical Evidence Recovery Kits</unit>
+	</structure>
+	<section_number>19.2-11.13</section_number>
+	<catch_line>Physical Evidence Recovery Kit Tracking System</catch_line>
+	<text>
+		<section prefix="A">The Department shall maintain a statewide electronic tracking system for physical evidence recovery kits. The Physical Evidence Recovery Kit Tracking System (the System) will utilize an assigned unique identification number to track each physical evidence recovery kit from its distribution as an uncollected kit to the health care provider through to its destruction. The Department shall ensure that each physical evidence recovery kit is assigned a unique identification number.
+		</section>
+		<section prefix="B">The Department shall provide access to the System to health care providers, law-enforcement agencies, the Division, and the Office of the Chief Medical Examiner. All such entities and agencies shall be required to enter the identification number and other information pertaining to the kits in the System as required by the Department and to update the status and location of each kit in the System whenever such status or location changes.
+		</section>
+		<section prefix="C">The health care provider shall inform the victim of sexual assault of the unique identification number assigned to the physical evidence recovery kit utilized by the health care provider during the forensic medical examination and provide the victim with information regarding the System.
+		</section>
+		<section prefix="D">Records entered into the System are confidential and are not subject to disclosure under the Freedom of Information Act (§ 2.2-3700 et seq.).
+		</section>
+	</text>
+	<history>2019, c. 473.</history>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="25" level="3">Winter Sports Safety Act</unit>
+	</structure>
+	<section_number>8.01-227.20</section_number>
+	<catch_line>Liability of winter sports area operator</catch_line>
+	<text>
+		<section prefix="A">A winter sports area operator shall be liable if the operator does any of the following:
+			<section prefix="1">Commits an act or omission related to a winter sport that constitutes negligence or gross negligence regarding the safety of an individual, or of property, and that act or omission proximately causes injury to or the death of the individual or damage to property; or
+			</section>
+			<section prefix="2">Recklessly, knowingly, or intentionally commits an act or omission related to a winter sport that proximately causes injury to or the death of a winter sports participant or other individual or damage to property.
+			</section>
+		</section>
+		<section prefix="B">No operator shall be liable and no individual or individual's representative may recover from an operator under subdivision A 1 or subsection C if the individual is found to have assumed the risk of his injury or death, or damage to property, pursuant to § 8.01-227.19 or if a proximate cause of the injury, death, or damage was his own negligence, provided that in any action for damages against an operator pursuant to subdivision A 1 or subsection C, the operator shall plead, as appropriate, the affirmative defense of (i) assumption of the risk by the individual, (ii) contributory negligence by the individual, or (iii) both assumption of the risk and contributory negligence.
+		</section>
+		<section prefix="C">A winter sports area operator shall not be considered a common carrier under Virginia law but shall be liable for any injury to or death of an individual or damage to property caused by the operator's failure to operate a passenger tramway in a reasonable manner or to comply with any mandatory provision of the ANSI Ski Lift Code.
+		</section>
+		<section prefix="D">The liability of a winter sports area operator to another individual who is not authorized by the operator to use or be present at the winter sports area shall be only the liability for the duty owed under Virginia law to a trespasser.
+		</section>
+	</text>
+	<history>2012, c. 713.</history>
+</law>

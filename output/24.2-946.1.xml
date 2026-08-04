@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="9.3" level="2">Campaign Finance Disclosure Act of 2006</unit>
+		<unit label="article" identifier="2" level="3">State Board and Local Electoral Board Responsibilities</unit>
+	</structure>
+	<section_number>24.2-946.1</section_number>
+	<catch_line>Standards and requirements for electronic preparation and transmittal of campaign finance disclosure reports; database</catch_line>
+	<text>
+		<section prefix="A">The State Board shall review or cause to be developed and shall approve standards for the preparation, production, and transmittal by computer or electronic means of campaign finance reports required by this chapter. The State Board may prescribe the method of execution and certification of and the procedures for receiving electronically filed campaign finance reports required by this chapter in the office of the State Board or any local electoral board. The State Board may provide campaign finance report-creation software to filers without charge or at a reasonable cost.
+		</section>
+		<section prefix="B">The State Board shall accept any campaign finance report filed by candidates for the General Assembly and statewide office by computer or electronic means in accordance with the standards approved by the Board and using software meeting standards approved by it. This information shall be made available to the public promptly by the Board through the Internet.
+		</section>
+		<section prefix="C">The State Board of Elections shall develop and implement a centralized system to accept reports from candidates for local and constitutional offices. Such reports shall be filed in accordance with, and using software that meets, standards approved by the State Board. The State Board shall promptly notify the general registrar of the locality in which a candidate resides and make the information contained in the report available to the general registrar. In the case of a former candidate who is no longer seeking election but has not yet filed a final report as required by § 24.2-948.4, the State Board shall promptly notify the general registrar of the locality in which he sought office and make the information contained in the report available to such general registrar.
+		</section>
+		<section prefix="D">The State Board shall enter or cause to be entered into a campaign finance database, available to the public through the Internet, the information from required campaign finance reports filed by computer, electronic, or other means by candidates for the General Assembly and statewide office.
+		</section>
+		<section prefix="E">Other campaign finance reports required by this chapter to be filed by a committee with the State Board or a general registrar, or both, may be filed electronically on terms agreed to by the committee and the Board.
+		</section>
+	</text>
+	<history>1996, c. 687, § 24.2-914.1; 1997, cc. 364, 392; 1998, c. 416; 1999, c. 864; 2000, cc. 511, 555; 2003, c. 242; 2006, cc. 787, 892; 2007, cc. 151, 286; 2015, cc. 644, 645; 2018, c. 683; 2020, c. 769.</history>
+</law>

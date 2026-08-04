@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="4" level="3">Defamation</unit>
+	</structure>
+	<section_number>8.01-46.1</section_number>
+	<catch_line>Disclosure of employment-related information; presumptions; causes of action; definitions</catch_line>
+	<text>
+		<section prefix="A">Any employer who, upon request by a person's prospective or current employer, furnishes information about that person's professional conduct, reasons for separation or job performance, including, but not limited to, information contained in any written performance evaluations, shall be immune from civil liability for furnishing such information, provided that the employer is not acting in bad faith. An employer shall be presumed to be acting in good faith. The presumption of good faith shall be rebutted if it is shown by clear and convincing evidence that the employer disclosed such information with knowledge that it was false, or with reckless disregard for whether it is false or not, or with the intent to deliberately mislead.
+		</section>
+		<section prefix="B">In a civil action brought against an employer for disclosing the information described in subsection A, if the trier of fact determines the employer acted in bad faith, punitive damages may be awarded, as provided by § 8.01-38.1.
+		</section>
+		<section prefix="C">As used in this section, the following words and phrases shall have the following meanings:
+			"Employee" means any person, paid or unpaid, in the service of an employer.
+			"Employer" means any person, firm or corporation, including the Commonwealth of Virginia and its political subdivisions, and their agents, who has one or more employees or individuals performing services under any contract of hire or service, express or implied, oral or written.
+			"Information" includes, but is not limited to, facts, data and opinions.
+			"Job performance" includes, but is not limited to, ability, attendance, awards, demotions, duties, effort, evaluations, knowledge, skills, promotions, productivity and disciplinary actions.
+			"Professional conduct" includes, but is not limited to, the ethical standards which govern the employee's profession, or lawful conduct which is expected of the employee by the employer.
+			"Prospective employer" means any employer who is considering a person for employment.
+		</section>
+	</text>
+	<history>2000, c. 1005.</history>
+</law>

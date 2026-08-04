@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="4.1" level="1">Alcoholic Beverage and Cannabis Control</unit>
+		<unit label="subtitle" identifier="I" level="2">Alcoholic Beverage Control Act</unit>
+		<unit label="chapter" identifier="3" level="3">Prohibited Practices; Penalties; Procedural Matters</unit>
+		<unit label="article" identifier="1" level="4">Prohibited Practices Generally</unit>
+	</structure>
+	<section_number>4.1-300</section_number>
+	<catch_line>Illegal manufacture and bottling; penalty</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in §§ 4.1-200 and 4.1-201, no person shall manufacture alcoholic beverages in the Commonwealth without being licensed under this subtitle to manufacture such alcoholic beverages. Nor shall any person, other than a brewery licensee or bottler's licensee, bottle beer for sale.
+		</section>
+		<section prefix="B">The presence of mash at an unlicensed distillery shall constitute manufacturing within the meaning of this section.
+		</section>
+		<section prefix="C">Any person convicted of a violation of this section shall be guilty of a Class 6 felony.
+		</section>
+	</text>
+	<history>Code 1950, § 4-57; 1954, c. 484; 1974, c. 460; 1993, c. 866.</history>
+</law>

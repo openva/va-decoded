@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="16" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-748</section_number>
+	<catch_line>Receivership or custodianship</catch_line>
+	<text>
+		<section prefix="A">Unless an election to purchase has been filed under § 13.1-749.1, a court in a judicial proceeding brought to dissolve a corporation may appoint one or more receivers to wind up and liquidate, or one or more custodians to manage while the proceeding is pending, the business and affairs of the corporation. The court shall hold a hearing, after notifying all parties to the proceeding and any interested persons designated by the court, before appointing a receiver or custodian. The court appointing a receiver or custodian has exclusive jurisdiction over the corporation and all its property wherever located.
+		</section>
+		<section prefix="B">The court may appoint as a receiver or custodian an individual, a domestic corporation or eligible entity, or a foreign corporation or eligible entity authorized to transact business in the Commonwealth. The court may require the receiver or custodian to post bond, with or without sureties, in an amount the court directs.
+		</section>
+		<section prefix="C">The court shall describe the powers and duties of the receiver or custodian in its appointing order, which may be amended from time to time. Among other powers:
+			<section prefix="1">The receiver (i) may dispose of all or any part of the assets of the corporation wherever located, at a public or private sale; and (ii) may sue and defend in the receiver's own name as receiver of the corporation in all courts of the Commonwealth; and
+			</section>
+			<section prefix="2">The custodian may exercise all of the powers of the corporation, through or in place of its board of directors or officers, to the extent necessary to manage the affairs of the corporation in the best interest of its shareholders and creditors.
+			</section>
+		</section>
+		<section prefix="D">The court during a receivership may redesignate the receiver a custodian, and during a custodianship may redesignate the custodian a receiver.
+		</section>
+		<section prefix="E">The court from time to time during the receivership or custodianship may order compensation paid and expenses paid or reimbursed to the receiver or custodian from the assets of the corporation or proceeds from the sale of the assets.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13.1-94 to 13.1-96; 1956, c. 428; 1959, Ex. Sess., c. 57; 1968, c. 112; 1974, c. 291; 1975, c. 500; 1985, c. 522; 2005, c. 765; 2007, c. 165; 2019, c. 734.</history>
+</law>

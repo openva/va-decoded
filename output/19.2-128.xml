@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="9" level="2">Bail and Recognizances</unit>
+		<unit label="article" identifier="1" level="3">Bail</unit>
+	</structure>
+	<section_number>19.2-128</section_number>
+	<catch_line>Penalties for failure to appear</catch_line>
+	<text>
+		<section prefix="A">Whoever, having been released pursuant to this chapter or § 19.2-319 or on a summons pursuant to § 19.2-73 or 19.2-74, willfully fails to appear before any court or judicial officer as required, shall, after notice to all interested parties, incur a forfeiture of any security that may have been given or pledged for his release, unless one of the parties can show good cause for excusing the absence, or unless the court, in its sound discretion, shall determine that neither the interests of justice nor the power of the court to conduct orderly proceedings will be served by such forfeiture.
+		</section>
+		<section prefix="B">Any person (i) charged with a felony offense or (ii) convicted of a felony offense and execution of sentence is suspended pursuant to § 19.2-319 who willfully fails to appear before any court as required is guilty of a Class 6 felony.
+		</section>
+		<section prefix="C">Any person (i) charged with a misdemeanor offense or (ii) convicted of a misdemeanor offense and execution of sentence is suspended pursuant to § 19.2-319 who willfully fails to appear before any court as required is guilty of a Class 1 misdemeanor.
+		</section>
+		<section prefix="D">The provisions of this section shall not apply to any person who is (i) incarcerated in any correctional facility or (ii) (a) detained in any state or federal facility or (b) in the custody of a law-enforcement officer at the time such person is required to appear before any court or judicial officer.
+		</section>
+	</text>
+	<history>Code 1950, § 19.1-109.7; 1973, c. 485; 1975, c. 495; 1981, c. 382; 1982, c. 271; 1999, c. 821; 2024, c. 109.</history>
+</law>

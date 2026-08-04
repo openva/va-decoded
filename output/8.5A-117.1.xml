@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.5A" level="1">Uniform Commercial Code — Letters of Credit</unit>
+	</structure>
+	<section_number>8.5A-117.1</section_number>
+	<catch_line>Security interest of issuer or nominated person</catch_line>
+	<text>
+		<section prefix="a">An issuer or nominated person has a security interest in a document presented under a letter of credit to the extent that the issuer or nominated person honors or gives value for the presentation.
+		</section>
+		<section prefix="b">So long as and to the extent that an issuer or nominated person has not been reimbursed or has not otherwise recovered the value given with respect to a security interest in a document under subsection (a), the security interest continues and is subject to Title 8.9A, but:
+			<section prefix="1">a security agreement is not necessary to make the security interest enforceable under subdivision (b) (3) of § 8.9A-203;
+			</section>
+			<section prefix="2">if the document is presented in a medium other than a written or other tangible medium, the security interest is perfected; and
+			</section>
+			<section prefix="3">if the document is presented in a written or other tangible medium and is not a certificated security, chattel paper, a document of title, an instrument, or a letter of credit, the security interest is perfected and has priority over a conflicting security interest in the document so long as the debtor does not have possession of the document.
+			</section>
+		</section>
+	</text>
+	<history>2000, c. 1007.</history>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="C" level="3">Surface Coal Mines</unit>
+		<unit label="chapter" identifier="9" level="4">Requirements Applicable to Surface Coal Mines</unit>
+		<unit label="article" identifier="2" level="5">Work Area Examinations, Recordkeeping, and Reporting</unit>
+	</structure>
+	<section_number>45.2-904</section_number>
+	<catch_line> Records of examinations</catch_line>
+	<text>
+		<section prefix="A">Documentation of examinations and testing conducted pursuant to § 45.2-903 shall be recorded in a mine record book provided for that purpose. Documentation shall include records of hazardous conditions found in the work area. However, examinations of fire extinguishers shall be conducted by an authorized person and documentation shall be accomplished by recording the date of the examination on a permanent tag attached to each extinguisher.
+		</section>
+		<section prefix="B">The actual methane readings taken during examinations required under the Act shall be recorded in the mine record book.
+		</section>
+		<section prefix="C">The surface foreman shall maintain and sign a daily record book. Where any such report discloses a hazardous condition, the surface foreman shall take prompt action to have such condition corrected, barricaded, or posted with warning signs.
+		</section>
+		<section prefix="D">Each record shall be countersigned by the supervisor of the examiner creating the record. Where such record discloses a hazardous condition, the countersigning of the record shall be performed no later than the end of the next regularly scheduled working shift following the shift for which the examination record was completed, and the person countersigning shall ensure that actions to eliminate or control the hazardous condition have been taken. Where such record does not disclose a hazardous condition, the countersigning shall be completed within 24 hours following the end of the shift for which the examination record was completed. The operator may authorize another person who has authority equivalent to that of the supervisor to act in the supervisor's temporary absence to read and countersign records and ensure that action is taken to eliminate any hazardous condition disclosed in a record.
+		</section>
+		<section prefix="E">All records of inspections shall be open for inspection by any interested person and maintained at the mine site for a minimum of one year.
+		</section>
+	</text>
+	<history>Code 1950, §§ 45-32, 45-33, 45-60.4, 45-61, 45-68.1, 45-69.7; 1954, c. 191; 1966, c. 594, §§ 45.1-20, 45.1-42, 45.1-65; 1976, c. 598; 1978, cc. 118, 120; 1982, c. 385; 1994, c. 28, § 45.1-161.257; 1996, c. 774; 1999, c. 256; 2005, c. 3; 2007, cc. 894, 914; 2021, Sp. Sess. I, c. 387.</history>
+</law>

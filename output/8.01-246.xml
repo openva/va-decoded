@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="4" level="2">Limitations of Actions</unit>
+		<unit label="article" identifier="3" level="3">Personal Actions Generally</unit>
+	</structure>
+	<section_number>8.01-246</section_number>
+	<catch_line>Personal actions based on contracts</catch_line>
+	<text>
+		<section prefix="A">Subject to the provisions of § 8.01-243 regarding injuries to person and property and of § 8.01-245 regarding the application of limitations to fiduciaries, and their bonds, actions founded upon a contract, other than actions on a judgment or decree, shall be brought within the following number of years next after the cause of action shall have accrued:
+			<section prefix="1">In actions or upon a recognizance, except recognizance of bail in a civil suit, within 10 years; and in actions or motions upon a recognizance of bail in a civil suit, within three years, omitting from the computation of such three years such time as the right to sue out such execution shall have been suspended by injunction, supersedeas or other process;
+			</section>
+			<section prefix="2">In actions on any contract that is not otherwise specified and that is in writing and signed by the party to be charged thereby, or by his agent, within five years whether such writing be under seal or not;
+			</section>
+			<section prefix="3">In actions by a partner against another for settlement of the partnership account or in actions upon accounts concerning the trade of merchandise between merchant and merchant, their factors, or servants, within five years from the cessation of the dealings in which they are interested together;
+			</section>
+			<section prefix="4">In actions upon (i) any contract that is not otherwise specified and that is in writing and not signed by the party to be charged, or by his agent, or (ii) any unwritten contract, express or implied, within three years.
+			</section>
+		</section>
+		<section prefix="B">In any action, including those brought by the Commonwealth, upon any contract under subdivision A 2 or 4 to collect medical debt, such an action is barred if not commenced within three years from the due date applicable to the final invoice for a health care service unless the contract with a hospital or health care provider is for a payment plan that allows for a longer period of time for the collection of debt by the hospital or health care provider. In the event of breach of a payment plan, an action is barred if not commenced within three years from the date of breach by the debtor. For the purposes of this subsection, "medical debt" means a debt arising directly from the receipt of a health care service and originally owed directly to a health care service provider. The provisions of this subsection shall not apply to medical debt arising from services paid for under programs administered by the Department of Medical Assistance Services.
+		</section>
+		<section prefix="C">In the case of any action to which § 8.2-725 of the Uniform Commercial Code is applicable, that section shall be controlling except that in products liability actions for injury to person and for injury to property, other than the property subject to contract, the limitation prescribed in § 8.01-243 shall apply.
+		</section>
+	</text>
+	<history>Code 1950, §§ 8-13, 8-17, 8-23; 1964, c. 219; 1966, c. 118; 1977, c. 617; 2019, c. 241; 2024, c. 800.</history>
+</law>

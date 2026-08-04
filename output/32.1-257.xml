@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="7" level="2">Vital Records</unit>
+		<unit label="article" identifier="2" level="3">Birth Certificates</unit>
+	</structure>
+	<section_number>32.1-257</section_number>
+	<catch_line>Filing birth certificates; from whom required; signatures of parents</catch_line>
+	<text>
+		<section prefix="A">A certificate of birth for each live birth that occurs in the Commonwealth shall be filed with the State Registrar within seven days after such birth. The certificate of birth shall be registered by the State Registrar if it has been completed and filed in accordance with this section.
+		</section>
+		<section prefix="B">When a birth occurs in an institution or en route thereto, the person in charge of such institution or an authorized designee shall obtain the personal data, and prepare the certificate either on forms furnished by the State Registrar or by an electronic process as approved by the Board. Such person or designee shall, if submitting a form, secure the signatures required by the certificate. The physician or other person in attendance shall provide the medical information required by the certificate within five days after the birth. The person in charge of the institution or an authorized designee shall certify to the authenticity of the birth registration either by affixing his signature to the certificate or by an electronic process approved by the Board, and shall file the certificate of birth with the State Registrar within seven days after such birth.
+		</section>
+		<section prefix="C">When a birth occurs outside an institution, the certificate shall be prepared on forms furnished by the State Registrar and filed by one of the following in the indicated order of priority, in accordance with the regulations of the Board:
+			<section prefix="1">The physician in attendance at or immediately after the birth, or in the absence of such physician,
+			</section>
+			<section prefix="2">Any other person in attendance at or immediately after the birth, or in the absence of such a person,
+			</section>
+			<section prefix="3">The mother, the other parent, or, in the absence of the other parent and the inability of the mother, the person in charge of the premises where the birth occurred.
+			</section>
+		</section>
+		<section prefix="C1">When a birth occurs on a moving conveyance within the United States of America and the child is first removed from the conveyance in this Commonwealth, the birth shall be registered in this Commonwealth and the place where the child is first removed from the conveyance shall be considered the place of birth. When a birth occurs on a moving conveyance while in international waters or air space or in a foreign country or its air space and the child is first removed from the conveyance in this Commonwealth, the birth shall be registered in this Commonwealth although the certificate shall indicate the actual place of birth insofar as can be determined.
+		</section>
+		<section prefix="D">If the mother of a child is not married to the natural father of the child at the time of birth or was not married to the natural father at any time during the 10 months next preceding such birth, the name of the father shall not be entered on the certificate of birth without a sworn acknowledgment of paternity, executed subsequent to the birth of the child, of both the mother and of the person to be named as the father. In any case in which a final determination of the paternity of a child has been made by a court of competent jurisdiction pursuant to § 20-49.8, from which no appeal has been taken and for which the time allowed to perfect an appeal has expired, the name of the father and the surname of the child shall be entered on the certificate of birth in accordance with the finding and order of the court.
+			Children born of marriages prohibited by law, deemed null or void, or dissolved by a court shall nevertheless be legitimate and the birth certificate for such children shall contain full information concerning the other parent.
+			For the purpose of birth registration in the case of a child resulting from assisted conception, pursuant to Chapter 9 (§ 20-156 et seq.) of Title 20, the birth certificate of such child shall contain full information concerning the mother's spouse as the other parent of the child and the gestational mother as the mother of the child. Donors of sperm or ova shall not have any parental rights or duties for any such child.
+			In the event that any person desires to have the name of the father entered on the certificate of birth based upon the judgment of paternity of a court of another state, such person shall apply to an appropriate court of the Commonwealth for an order reflecting that such court has reviewed such judgment of paternity and has determined that such judgment of paternity was amply supported in evidence and legitimate for the purposes of Article IV, Section 1 of the Constitution of the United States.
+			If the order of paternity should be appealed, the registrar shall not enter the name of the alleged father on the certificate of birth during the pendency of such appeal. If the father is not named on the certificate of birth, no other information concerning the father shall be entered on the certificate.
+		</section>
+		<section prefix="E">Either of the parents of the child shall verify the accuracy of the personal data to be entered on the certificate of birth in time to permit the filing within the seven days prescribed above.
+		</section>
+	</text>
+	<history>Code 1950, § 32-353.15; 1960, c. 451; 1979, c. 711; 1983, c. 240; 1984, c. 189; 1991, c. 611; 1994, cc. 796, 919; 2020, c. 900.</history>
+</law>

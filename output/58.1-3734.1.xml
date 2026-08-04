@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="III" level="2">Local Taxes</unit>
+		<unit label="chapter" identifier="37" level="3">License Taxes</unit>
+	</structure>
+	<section_number>58.1-3734.1</section_number>
+	<catch_line>Sales involving trade-ins</catch_line>
+	<text>
+		<section prefix="A">No locality shall assess omitted taxes against any motor vehicle dealer which calculated its gross receipts for license tax purposes by excluding the value of any vehicle accepted as a trade-in for periods of time prior to January 1, 1991, unless such locality enforced the requirement that motor vehicle dealers include the amount of a trade-in vehicle in gross receipts for periods prior to January 1, 1990.
+		</section>
+		<section prefix="B">Whenever a motor vehicle dealer accepts a trade-in as part of a sale of a motor vehicle, the dealer's gross receipts for license tax purposes shall not include the amount of the trade-in.
+		</section>
+	</text>
+	<history>1990, c. 670.</history>
+</law>

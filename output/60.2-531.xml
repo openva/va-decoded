@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Taxation</unit>
+		<unit label="article" identifier="4" level="3">Computation of Tax Rate</unit>
+	</structure>
+	<section_number>60.2-531</section_number>
+	<catch_line>Experience rating tax; table</catch_line>
+	<text>
+		Subject to the provisions of § 60.2-533, the experience rating tax rate for each employer for the calendar year 1982 and subsequent years shall be the percent in the column corresponding to the employer's benefit ratio, except that if the employer's benefit ratio exceeds 6.2 percent, the column under 6.2 percent shall be the appropriate column, and in the line corresponding to the fund balance factor for the year pursuant to § 60.2-533.
+	</text>
+	<history>1981, c. 606, § 60.1-84.1; 1986, c. 480; 1987, c. 114; 1988, c. 766; 1995, c. 515.</history>
+</law>

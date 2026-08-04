@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="6" level="2">Costs Generally</unit>
+	</structure>
+	<section_number>17.1-626.1</section_number>
+	<catch_line>Recovery of costs in civil actions for bad checks</catch_line>
+	<text>
+		<section prefix="A">In any civil action by a holder to recover the sum payable of a check drawn by the defendant on which payment has been refused by the payor bank because the drawer had no account or insufficient funds, or in any civil action following an arrest under § 18.2-181 or 18.2-182, the court, upon a determination that the plaintiff has prevailed, shall add the following amounts, as costs, to the amount due to the plaintiff for the check: (i) the sum of $30 to defray the cost of processing the returned check; and (ii) the base wage of one employee for time actually spent acting as a witness for the Commonwealth; provided, however, that the total amount of allowable costs granted under the provisions of this section shall not exceed the sum of $250 excluding restitution for the amount of the check.
+		</section>
+		<section prefix="B">Such award of costs shall be contingent upon a finding (i) that the plaintiff complied with the provisions in § 18.2-183 relating to notice and (ii) that the defendant failed to deliver payment or evidence of bank error to the plaintiff within five days after receipt of such notice.
+		</section>
+	</text>
+	<history>1977, c. 329, § 6.1-118.1; 2010, cc. 343, 794.</history>
+</law>

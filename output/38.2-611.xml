@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="6" level="2">Insurance Information and Privacy Protection</unit>
+		<unit label="article" identifier="1" level="3">Collection, Use, and Dissemination of Information</unit>
+	</structure>
+	<section_number>38.2-611</section_number>
+	<catch_line>Information concerning previous adverse underwriting decisions</catch_line>
+	<text>
+		No insurance institution, agent, or insurance-support organization may seek information in connection with an insurance transaction concerning: (i) any previous adverse underwriting decision experienced by an individual, or (ii) any previous insurance coverage obtained by an individual through a residual market mechanism, unless the inquiry also requests the reasons for any previous adverse underwriting decision or the reasons why insurance coverage was previously obtained through a residual market mechanism.
+	</text>
+	<history>1981, c. 389, § 38.1-57.14; 1986, c. 562.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="2" level="2">Effectiveness of Security Agreement; Attachment of Security Interest; Rights of Parties to Security Agreement</unit>
+		<unit label="subpart" identifier="2" level="3">Rights and Duties</unit>
+	</structure>
+	<section_number>8.9A-209</section_number>
+	<catch_line>Duties of secured party if account debtor has been notified of assignment</catch_line>
+	<text>
+		<section prefix="a">Applicability of section. Except as otherwise provided in subsection (c), this section applies if:
+			<section prefix="1">there is no outstanding secured obligation; and
+			</section>
+			<section prefix="2">the secured party is not committed to make advances, incur obligations, or otherwise give value.
+			</section>
+		</section>
+		<section prefix="b">Duties of secured party after receiving demand from debtor. Within ten days after receiving a signed demand by the debtor, a secured party shall send to an account debtor that has received notification under subsection (a) of § 8.9A-406 or subsection (b) of § 8.12-106 of an assignment to the secured party as assignee a signed record that releases the account debtor from any further obligation to the secured party.
+		</section>
+		<section prefix="c">Inapplicability to sales. This section does not apply to an assignment constituting the sale of an account, chattel paper, or payment intangible.
+		</section>
+	</text>
+	<history>2000, c. 1007; 2024, c. 652.</history>
+</law>

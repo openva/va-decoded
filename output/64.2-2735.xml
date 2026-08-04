@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="27" level="3">Uniform Powers of Appointment Act</unit>
+		<unit label="article" identifier="5" level="4">Right of Powerholder's Creditors in Appointive Property</unit>
+	</structure>
+	<section_number>64.2-2735</section_number>
+	<catch_line>Creditor claim; general power created by powerholder</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "power of appointment created by the powerholder" includes a power of appointment created in a transfer by another person to the extent that the powerholder contributed value to the transfer.
+		</section>
+		<section prefix="B">Appointive property subject to a general power of appointment created by the powerholder is subject to a claim of a creditor of the powerholder or of the powerholder's estate to the extent provided in Chapter 4 (§ 55.1-400 et seq.) of Title 55.1.
+		</section>
+		<section prefix="C">Subject to subsection B, appointive property subject to a general power of appointment created by the powerholder is not subject to a claim of a creditor of the powerholder or the powerholder's estate to the extent that the powerholder irrevocably appointed the property in favor of a person other than the powerholder or the powerholder's estate.
+		</section>
+		<section prefix="D">Subject to subsections B and C, and notwithstanding the presence of a spendthrift provision or whether the claim arose before or after the creation of the power of appointment, appointive property subject to a general power of appointment created by the powerholder is subject to a claim of a creditor of:
+			<section prefix="1">The powerholder, to the same extent as if the powerholder owned the appointive property, if the power is presently exercisable; and
+			</section>
+			<section prefix="2">The powerholder's estate, to the extent that the estate is insufficient to satisfy the claim and subject to the right of a decedent to direct the source from which liabilities are paid, if the power is exercisable at the powerholder's death.
+			</section>
+		</section>
+	</text>
+	<history>2016, c. 266.</history>
+</law>

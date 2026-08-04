@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="7" level="4">Requirements Applicable to Underground Coal Mines; Mine Construction</unit>
+		<unit label="article" identifier="8" level="5">Transportation</unit>
+	</structure>
+	<section_number>45.2-752</section_number>
+	<catch_line> Self-propelled equipment</catch_line>
+	<text>
+		<section prefix="A">Every piece of self-propelled mobile transportation or haulage equipment for use underground shall be equipped with safe seating facilities for the person operating the equipment unless it is equipped for remote control operation. Where seating facilities are provided on a piece of self-propelled mobile equipment, the person operating such equipment shall be seated before the equipment is put into motion.
+		</section>
+		<section prefix="B">Every piece of track-mounted equipment shall be equipped with proper lifting devices for the rerailing of such equipment.
+		</section>
+		<section prefix="C">An audible warning device and headlights shall be provided on each locomotive, shuttle car, or other piece of self-propelled mobile transportation or haulage equipment.
+		</section>
+		<section prefix="D">A trip light capable of being seen for at least 300 feet underground shall be used on the rear of any trip that is pulled and on the front of any pushed trip or trip that is lowered on a slope; however, a trip light need not be used if a locomotive is used on each end of a trip.
+		</section>
+		<section prefix="E">Effective measures, including use of a trailing locomotive, slides, skids, or drags, shall be taken during track haulage to ensure that safe control is maintained when a grade creates a potential hazard.
+		</section>
+		<section prefix="F">Where block signals are used, procedures to safely control traffic movement within the system shall be established in writing and posted and reviewed with all miners.
+		</section>
+	</text>
+	<history>Code 1950, §§ 45-69.1, 45-69.3; 1954, c. 191; 1966, c. 594, §§ 45.1-72, 45.1-73; 1979, c. 315; 1983, c. 70; 1985, c. 302; 1994, c. 28, § 45.1-161.141; 1996, c. 774; 1999, c. 256; 2021, Sp. Sess. I, c. 387.</history>
+</law>

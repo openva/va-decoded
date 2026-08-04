@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="20" level="3">Regulation of Passenger Carriers</unit>
+		<unit label="article" identifier="13" level="4">Excursion Trains</unit>
+	</structure>
+	<section_number>46.2-2099.42</section_number>
+	<catch_line>Assignment of liability</catch_line>
+	<text>
+		<section prefix="A">The operator of an excursion train shall be liable for personal injury or wrongful death arising from the operation of such excursion train, including operations, maintenance, and signalization of the tracks and facilities upon which the excursion train operates.
+		</section>
+		<section prefix="B">Any county, city, or town may by resolution determine that the provision of excursion train services within the locality promotes tourism and furthers other public purposes. Any railroad company that authorizes the operator of an excursion train to use its tracks and facilities for the purposes of this article shall not be liable for personal injury or wrongful death arising from the operation of such excursion train, including operations, maintenance, and signalization of the tracks and facilities upon which the excursion train operates.
+		</section>
+		<section prefix="C">The limitation of liability under subsection B does not apply if:
+			<section prefix="1">The injury or damages result from intentional misconduct, malice, or gross negligence of the railroad company; or
+			</section>
+			<section prefix="2">The operator of the excursion train was not operating in accordance with the definition of an excursion train under this chapter and the railroad company had otherwise authorized the operations that were inconsistent with this chapter.
+			</section>
+		</section>
+		<section prefix="D">Each passenger on the excursion train shall be deemed to have accepted and consented to the limitation of liability under this section. This agreement shall be governed by the laws of the Commonwealth as the place of performance notwithstanding any choice of law rules to the contrary.
+		</section>
+		<section prefix="E">The railroad company may charge reasonable amounts to the operator of the excursion train for the use of its tracks and facilities as determined by agreement between the railroad company and the operator.
+		</section>
+	</text>
+	<history>2001, c. 596; 2016, c. 431.</history>
+</law>

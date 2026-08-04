@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="20" level="3">Virginia Museum of Natural History</unit>
+	</structure>
+	<section_number>10.1-2001</section_number>
+	<catch_line>Purposes</catch_line>
+	<text>
+		The purposes of the Virginia Museum of Natural History are:
+		<section prefix="1">To investigate, preserve and exhibit the various elements of natural history found in Virginia and other parts of the United States and the world;
+		</section>
+		<section prefix="2">To foster an understanding and appreciation of how man and the earth have evolved;
+		</section>
+		<section prefix="3">To encourage and promote research in the varied natural heritage of Virginia and other parts of the world;
+		</section>
+		<section prefix="4">To encourage individuals and scholars to study our natural history and to apply this understanding of the past to the challenge of the future;
+		</section>
+		<section prefix="5">To establish a state museum of natural history in Virginia where specimens of natural history, especially those of Virginia origin, can be properly housed, cared for, cataloged and studied and to ensure a permanent repository of our natural heritage; and
+		</section>
+		<section prefix="6">To coordinate an efficient network in Virginia where researchers and the public can readily use the natural history material of the Museum, its branches, Virginia's institutions of higher education and other museums. These purposes are hereby declared to be a matter of legislative determination.
+		</section>
+	</text>
+	<history>1988, cc. 707, 891.</history>
+</law>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="2" level="5">Electricity</unit>
+	</structure>
+	<section_number>45.2-813</section_number>
+	<catch_line> Trailing cables</catch_line>
+	<text>
+		<section prefix="A">Trailing cables that are used underground shall be flame-resistant.
+		</section>
+		<section prefix="B">Trailing cables shall be provided with suitable short-circuit protection and some means of disconnecting power from the cable. Any power connection that is made in other than an intake airway shall be by means of a permissible connector.
+		</section>
+		<section prefix="C">Any temporary splice in a trailing cable shall be made in a workmanlike manner and shall be mechanically strong and well insulated.
+		</section>
+		<section prefix="D">No more than one temporary, unvulcanized splice shall be allowed in any trailing cable.
+		</section>
+		<section prefix="E">Any permanent splice or repair in a trailing cable shall:
+			<section prefix="1">Be mechanically strong, with adequate electrical conductivity and flexibility;
+			</section>
+			<section prefix="2">Be effectively insulated and sealed so as to exclude moisture;
+			</section>
+			<section prefix="3">Be vulcanized or otherwise treated with suitable materials to provide flame-resistant properties and good bonding to the outer jacket; and
+			</section>
+			<section prefix="4">If the cable has metallic shielding around each conductor, possess new shielding that is equivalent to the original shielding.
+			</section>
+		</section>
+		<section prefix="F">Trailing cables shall be protected against mechanical damage. A trailing cable that is damaged in a manner that exposes the insulated inner power conductors shall be repaired promptly or removed from service.
+		</section>
+	</text>
+	<history>Code 1950, § 45-82.5; 1954, c. 191; 1966, c. 594, § 45.1-84; 1978, c. 118; 1993, c. 442; 1994, c. 28, § 45.1-161.194; 1999, c. 256; 2005, c. 3; 2021, Sp. Sess. I, c. 387.</history>
+</law>

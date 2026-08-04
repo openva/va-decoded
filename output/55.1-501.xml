@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="5" level="3">Commutation and Valuation of Certain Estates and Interests</unit>
+	</structure>
+	<section_number>55.1-501</section_number>
+	<catch_line>Rule of calculation under § 55.1-500</catch_line>
+	<text>
+		<section prefix="A">Calculate the interest at eight percent upon the sum to the income of which, or upon the value of the property to the use of which, the person is entitled. Multiply this interest by the present value of an annuity of $1, as set opposite the person's age in the table, and the product is the gross value of the life estate of such person.
+		</section>
+		<section prefix="B">Example: Suppose a person whose age is 42 is a tenant for life in the whole of an estate worth $10,500. The annual interest on that sum at eight percent is $840. The present value of an annuity of $1 at the age of 42, as shown by the table, is $10.77, which, multiplied by $840, gives $9,046.80 as the gross value of such life estate in the premises, or the proceeds of such life estate.
+		</section>
+	</text>
+	<history>Code 1919, §§ 5132, 5133; 1946, p. 555; Code 1950, §§ 55-270, 55-271; 1973, c. 355; 1981, c. 612; 1990, c. 831; 2019, c. 712.</history>
+</law>

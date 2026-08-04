@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="15" level="3">Appraisal Rights and Other Remedies</unit>
+	</structure>
+	<section_number>13.1-741</section_number>
+	<catch_line>Court costs and counsel fees</catch_line>
+	<text>
+		<section prefix="A">The court in an appraisal proceeding commenced under § 13.1-740 shall determine all court costs of the proceeding, including the reasonable compensation and expenses of appraisers appointed by the court. The court shall assess the costs against the corporation, except that the court may assess court costs against all or some of the shareholders demanding appraisal, in amounts that the court finds equitable, to the extent the court finds such shareholders acted arbitrarily, vexatiously, or not in good faith with respect to the rights provided by this article.
+		</section>
+		<section prefix="B">The court in an appraisal proceeding may also assess the expenses of the respective parties, in amounts the court finds equitable:
+			<section prefix="1">Against the corporation and in favor of any or all shareholders demanding appraisal if the court finds the corporation did not substantially comply with the requirements of § 13.1-732, 13.1-734, 13.1-737 or 13.1-738; or
+			</section>
+			<section prefix="2">Against either the corporation or a shareholder demanding appraisal, in favor of any other party, if the court finds that the party against whom the expenses are assessed acted arbitrarily, vexatiously or not in good faith with respect to the rights provided by this article.
+			</section>
+		</section>
+		<section prefix="C">If the court in an appraisal proceeding finds that the expenses incurred by any shareholder were of substantial benefit to other shareholders similarly situated, and that such expenses should not be assessed against the corporation, the court may direct that such expenses be paid out of the amounts awarded the shareholders who were benefited.
+		</section>
+		<section prefix="D">To the extent the corporation fails to make a required payment pursuant to § 13.1-737, 13.1-738 or 13.1-739, the shareholder may sue directly for the amount owed and, to the extent successful, shall be entitled to recover from the corporation all expenses of the suit.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-85, 13.1-75, 13.1-78; 1956, c. 428; 1968, c. 733; 1972, c. 425; 1975, c. 500; 1984, c. 613; 1985, c. 522; 2005, c. 765; 2019, c. 734.</history>
+</law>

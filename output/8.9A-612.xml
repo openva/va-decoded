@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="1" level="3">Default and Enforcement of Security Interest</unit>
+	</structure>
+	<section_number>8.9A-612</section_number>
+	<catch_line>Timeliness of notification before disposition of collateral</catch_line>
+	<text>
+		A notification of disposition sent after default and ten days or more before the earliest time of disposition set forth in the notification is considered sent within a reasonable time before the disposition.
+	</text>
+	<history>2000, c. 1007.</history>
+</law>

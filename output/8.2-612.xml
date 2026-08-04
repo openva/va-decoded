@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="6" level="2">Breach, Repudiation and Excuse</unit>
+	</structure>
+	<section_number>8.2-612</section_number>
+	<catch_line>"Installment contract"; breach</catch_line>
+	<text>
+		<section prefix="1">An "installment contract" is one which requires or authorizes the delivery of goods in separate lots to be separately accepted, even though the contract contains a clause "each delivery is a separate contract" or its equivalent.
+		</section>
+		<section prefix="2">The buyer may reject any installment which is nonconforming if the nonconformity substantially impairs the value of that installment and cannot be cured or if the nonconformity is a defect in the required documents; but if the nonconformity does not fall within subsection (3) and the seller gives adequate assurance of its cure the buyer must accept that installment.
+		</section>
+		<section prefix="3">Whenever nonconformity or default with respect to one or more installments substantially impairs the value of the whole contract there is a breach of the whole. But the aggrieved party reinstates the contract if he accepts a nonconforming installment without seasonably notifying of cancellation or if he brings an action with respect only to past installments or demands performance as to future installments.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

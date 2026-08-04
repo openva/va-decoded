@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="B" level="3">Powers of Attorney</unit>
+		<unit label="chapter" identifier="16" level="4">Uniform Power of Attorney Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>64.2-1615</section_number>
+	<catch_line>Agent's liability</catch_line>
+	<text>
+		An agent that violates this chapter is liable to the principal or the principal's successors in interest for the amount required to:
+		<section prefix="1">Restore the value of the principal's property to what it would have been had the violation not occurred; and
+		</section>
+		<section prefix="2">Reimburse the principal or the principal's successors in interest for the attorney fees and costs paid on the agent's behalf.
+		</section>
+	</text>
+	<history>2010, cc. 455, 632, § 26-88; 2012, c. 614.</history>
+</law>

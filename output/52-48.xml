@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="52" level="1">Police (State)</unit>
+		<unit label="chapter" identifier="11" level="2">Virginia Fusion Intelligence Center</unit>
+	</structure>
+	<section_number>52-48</section_number>
+	<catch_line>Confidentiality and immunity from service of process; penalties</catch_line>
+	<text>
+		<section prefix="A">Papers, records, documents, reports, materials, databases, or other evidence or information relative to criminal intelligence or any terrorism investigation in the possession of the Virginia Fusion Intelligence Center shall be confidential and shall not be subject to the Virginia Freedom of Information Act (§ 2.2-3700 et seq.) or the Government Data Collection and Dissemination Practices Act (§ 2.2-3800 et seq.). Every three years, the Department shall conduct a review of information contained in any database maintained by the Virginia Fusion Intelligence Center. Data that has been determined to not have a nexus to terrorist activity shall be removed from such database. A reasonable suspicion standard shall be applied when determining whether or not information has a nexus to terrorist activity.
+		</section>
+		<section prefix="B">No person, having access to information maintained by the Virginia Fusion Intelligence Center, shall be subject to subpoena in a civil action in any court of the Commonwealth to testify concerning a matter of which he has knowledge pursuant to his access to criminal intelligence information maintained by the Virginia Fusion Intelligence Center.
+		</section>
+		<section prefix="C">No person or agency receiving information from the Virginia Fusion Intelligence Center shall release or disseminate that information without prior authorization from the Virginia Fusion Intelligence Center.
+		</section>
+		<section prefix="D">Any person who knowingly disseminates information in violation of this section is guilty of a Class 1 misdemeanor. If such unauthorized dissemination results in death or serious bodily injury to another person, such person is guilty of a Class 4 felony.
+		</section>
+		<section prefix="E">For purposes of this chapter:
+			"Criminal intelligence information" means data that has been evaluated and determined to be relevant to the identification and criminal activity of individuals or organizations that are reasonably suspected of involvement in criminal activity. "Criminal intelligence information" shall not include criminal investigative files.
+		</section>
+	</text>
+	<history>2008, c. 792; 2011, cc. 467, 556.</history>
+</law>

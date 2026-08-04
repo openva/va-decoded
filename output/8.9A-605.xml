@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="1" level="3">Default and Enforcement of Security Interest</unit>
+	</structure>
+	<section_number>8.9A-605</section_number>
+	<catch_line>Unknown debtor or secondary obligor</catch_line>
+	<text>
+		<section prefix="a">In general: No duty owed by secured party. Except as provided in subsection (b), a secured party does not owe a duty based on its status as secured party:
+			<section prefix="1">to a person that is a debtor or obligor, unless the secured party knows:
+			</section>
+		</section>
+		<section prefix="A">that the person is a debtor or obligor;
+		</section>
+		<section prefix="B">the identity of the person; and
+		</section>
+		<section prefix="C">how to communicate with the person; or
+			<section prefix="2">to a secured party or lienholder that has filed a financing statement against a person, unless the secured party knows:
+			</section>
+		</section>
+		<section prefix="A">that the person is a debtor; and
+		</section>
+		<section prefix="B">the identity of the person.
+		</section>
+		<section prefix="b">Exception: Secured party owes duty to debtor or obligor. A secured party owes a duty based on its status as a secured party to a person if, at the time the secured party obtains control of collateral that is a controllable account, controllable electronic record, or controllable payment intangible or at the time the security interest attaches to the collateral, whichever is later:
+			<section prefix="1">the person is a debtor or obligor; and
+			</section>
+			<section prefix="2">the secured party knows that the information in subsection (a)(1)(A), (B), or
+			</section>
+		</section>
+		<section prefix="c">relating to the person is not provided by the collateral, a record attached to or logically associated with the collateral, or the system in which the collateral is recorded.
+		</section>
+	</text>
+	<history>2000, c. 1007; 2024, c. 652.</history>
+</law>

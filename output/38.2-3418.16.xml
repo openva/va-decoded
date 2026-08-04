@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="2" level="3">Mandated Benefits</unit>
+	</structure>
+	<section_number>38.2-3418.16</section_number>
+	<catch_line>Coverage for telemedicine services</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding the provisions of § 38.2-3419, each insurer proposing to issue individual or group accident and sickness insurance policies providing hospital, medical and surgical, or major medical coverage on an expense-incurred basis; each corporation providing individual or group accident and sickness subscription contracts; and each health maintenance organization providing a health care plan for health care services shall provide coverage for the cost of such health care services provided through telemedicine services, as provided in this section.
+		</section>
+		<section prefix="B">As used in this section:
+			"Originating site" means the location where the patient is located at the time services are provided by a health care provider through telemedicine services.
+			"Remote patient monitoring services" means the delivery of home health services using telecommunications technology to enhance the delivery of home health care, including monitoring of clinical patient data such as weight, blood pressure, pulse, pulse oximetry, blood glucose, and other condition-specific data; medication adherence monitoring; and interactive video conferencing with or without digital image upload.
+			"Telemedicine services" as it pertains to the delivery of health care services, means the use of electronic technology or media, including interactive audio or video, for the purpose of diagnosing or treating a patient, providing remote patient monitoring services, or consulting with other health care providers regarding a patient's diagnosis or treatment, regardless of the originating site and whether the patient is accompanied by a health care provider at the time such services are provided. "Telemedicine services" does not include an audio-only telephone, electronic mail message, facsimile transmission, or online questionnaire. Nothing in this section shall preclude coverage for a service that is not a telemedicine service, including services delivered through real-time audio-only telephone.
+		</section>
+		<section prefix="C">An insurer, corporation, or health maintenance organization shall not exclude a service for coverage solely because the service is provided through telemedicine services and is not provided through face-to-face consultation or contact between a health care provider and a patient for services appropriately provided through telemedicine services.
+		</section>
+		<section prefix="D">An insurer, corporation, or health maintenance organization shall not be required to reimburse the treating provider or the consulting provider for technical fees or costs for the provision of telemedicine services; however, such insurer, corporation, or health maintenance organization shall reimburse the treating provider or the consulting provider for the diagnosis, consultation, or treatment of the insured delivered through telemedicine services on the same basis that the insurer, corporation, or health maintenance organization is responsible for coverage for the provision of the same service through face-to-face consultation or contact. No insurer, corporation, or health maintenance organization shall require a provider to use proprietary technology or applications in order to be reimbursed for providing telemedicine services.
+		</section>
+		<section prefix="E">Nothing shall preclude the insurer, corporation, or health maintenance organization from undertaking utilization review to determine the appropriateness of telemedicine services, provided that such appropriateness is made in the same manner as those determinations are made for the treatment of any other illness, condition, or disorder covered by such policy, contract, or plan. Any such utilization review shall not require pre-authorization of emergent telemedicine services.
+		</section>
+		<section prefix="F">An insurer, corporation, or health maintenance organization may offer a health plan containing a deductible, copayment, or coinsurance requirement for a health care service provided through telemedicine services, provided that the deductible, copayment, or coinsurance does not exceed the deductible, copayment, or coinsurance applicable if the same services were provided through face-to-face diagnosis, consultation, or treatment.
+		</section>
+		<section prefix="G">No insurer, corporation, or health maintenance organization shall impose any annual or lifetime dollar maximum on coverage for telemedicine services other than an annual or lifetime dollar maximum that applies in the aggregate to all items and services covered under the policy, or impose upon any person receiving benefits pursuant to this section any copayment, coinsurance, or deductible amounts, or any policy year, calendar year, lifetime, or other durational benefit limitation or maximum for benefits or services, that is not equally imposed upon all terms and services covered under the policy, contract, or plan.
+		</section>
+		<section prefix="H">The requirements of this section shall apply to all insurance policies, contracts, and plans delivered, issued for delivery, reissued, or extended in the Commonwealth on and after January 1, 2021, or at any time thereafter when any term of the policy, contract, or plan is changed or any premium adjustment is made.
+		</section>
+		<section prefix="I">This section shall not apply to short-term travel, accident-only, or limited or specified disease policies or contracts, nor to policies or contracts designed for issuance to persons eligible for coverage under Title XVIII of the Social Security Act, known as Medicare, or any other similar coverage under federal governmental plans.
+		</section>
+		<section prefix="J">The coverage required by this section shall include the use of telemedicine technologies as it pertains to medically necessary remote patient monitoring services to the full extent that these services are available.
+		</section>
+		<section prefix="K">Prescribing of controlled substances via telemedicine shall comply with the requirements of § 54.1-3303 and all applicable federal law.
+		</section>
+	</text>
+	<history>2010, c. 222; 2014, c. 814; 2015, cc. 32, 115; 2019, cc. 211, 219; 2020, Sp. Sess. I, cc. 44, 53; 2021, Sp. Sess. I, cc. 301, 302.</history>
+</law>

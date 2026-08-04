@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="26" level="3">Taxation of Public Service Corporations</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>58.1-2611</section_number>
+	<catch_line>Penalty for failure to pay tax</catch_line>
+	<text>
+		<section prefix="A">Any person failing to pay the tax levied pursuant to this chapter into the state treasury within the time prescribed by law shall incur a penalty thereon of ten percent, which shall be added to the amount of the tax due.
+		</section>
+		<section prefix="B">Notwithstanding the provisions of subsection A, such penalty shall not accrue in any case unless the State Corporation Commission or the Department, as the case may be, mails the person a certified copy of the assessment on or before May 15 preceding. In the event such copy is not mailed on or before May 15 preceding, the penalty for nonpayment in time shall not accrue until the close of the fifteenth day next following the mailing of such certified copy of the assessment.
+		</section>
+	</text>
+	<history>Code 1950, §§ 58-514.1, 58-537, 58-561, 58-587, 58-601, 58-614, 58-626; 1956, c. 495; 1972, c. 813; 1983, c. 570; 1984, c. 675; 1999, c. 971.</history>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="3" level="3">Priority</unit>
+	</structure>
+	<section_number>8.9A-327</section_number>
+	<catch_line>Priority of security interests in deposit account</catch_line>
+	<text>
+		The following rules govern priority among conflicting security interests in the same deposit account:
+		<section prefix="1">A security interest held by a secured party having control of the deposit account under § 8.9A-104 has priority over a conflicting security interest held by a secured party that does not have control.
+		</section>
+		<section prefix="2">Except as otherwise provided in paragraphs (3) and (4), security interests perfected by control under § 8.9A-314 rank according to priority in time of obtaining control.
+		</section>
+		<section prefix="3">Except as otherwise provided in paragraph (4), a security interest held by the bank with which the deposit account is maintained has priority over a conflicting security interest held by another secured party.
+		</section>
+		<section prefix="4">A security interest perfected by control under § 8.9A-104 (a) (3) has priority over a security interest held by the bank with which the deposit account is maintained.
+		</section>
+	</text>
+	<history>1996, c. 216, § 8.9-115; 2000, c. 1007.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="33.2" level="1">Highways and Other Surface Transportation Systems</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions and Transportation Entities</unit>
+		<unit label="chapter" identifier="2" level="3">Transportation Entities</unit>
+		<unit label="article" identifier="4" level="4">Department of Transportation</unit>
+	</structure>
+	<section_number>33.2-280.2</section_number>
+	<catch_line>Utility work database</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Service connection" means any utility facility installed overhead or underground between a distribution main, pipelines, conduits, lines, wires, or other sources of supply and the premises of the individual customer.
+			"Utility work" means the construction, installation, removal, or substantial maintenance of a privately, publicly, or cooperatively owned line, facility, or system for producing, transmitting, or distributing telecommunications, cable television, electricity, gas, oil, petroleum products, water, steam, storm water not connected with highway drainage, or any other similar commodity, including any fire or police signal system. "Utility work" does not include emergency maintenance or repairs or any work directly related to any individual service connection or service drop.
+		</section>
+		<section prefix="B">The Department shall establish and maintain a publicly accessible database and map of all utility work that has been approved by the Department and will occur within a highway right-of-way in a residential neighborhood, as specified by the utility. Such database shall include the location where such work will occur, the start date of such work, the projected end date of such work, the company administering such work, and any other relevant information; however, under no circumstances shall such database and map provide information on any (i) utility work within a right-of-way not maintained by the Department; (ii) critical utility infrastructure, as designated by the utility, that, upon disclosure, has the potential to jeopardize security or critical services, including Critical Energy Infrastructure Information and Controlled Unclassified Information; or (iii) information the permittee has designated as confidential. Such information shall be available in the database at least seven days prior to the start date of any such utility work and shall be deleted from such database 90 days after the completion of such work.
+		</section>
+	</text>
+	<history>2024, c. 271.</history>
+</law>

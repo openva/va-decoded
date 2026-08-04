@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="28.2" level="3">Virginia Indoor Clean Air Act</unit>
+		<unit label="article" identifier="3" level="4">Local Regulation of Smoking</unit>
+	</structure>
+	<section_number>15.2-2830</section_number>
+	<catch_line>Optional provisions of ordinances</catch_line>
+	<text>
+		If an ordinance is enacted by a locality in accordance with this chapter, it may provide that management shall designate reasonable no-smoking areas, considering the nature of the use and the size of the building, in the following places:
+		<section prefix="1">Retail and service establishments of 15,000 square feet or more serving the general public, including, but not limited to, department stores, grocery stores, drug stores, clothing stores, and shoe stores;
+		</section>
+		<section prefix="2">Educational facilities, except as provided in § 15.2-2824;
+		</section>
+		<section prefix="3">Health care facilities;
+		</section>
+		<section prefix="4">Rooms in which a public meeting or hearing is being held;
+		</section>
+		<section prefix="5">Places of entertainment and cultural facilities, including but not limited to theaters, concert halls, gymnasiums, auditoriums, other enclosed arenas, art galleries, libraries, and museums;
+		</section>
+		<section prefix="6">Indoor facilities used for recreational purposes; or
+		</section>
+		<section prefix="7">Other public places.
+		</section>
+	</text>
+	<history>2009, cc. 153, 154.</history>
+</law>

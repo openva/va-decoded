@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="5" level="3">Transfer of Interests and Rights</unit>
+	</structure>
+	<section_number>59.1-505.4</section_number>
+	<catch_line>Effect of transfer of contractual interest</catch_line>
+	<text>
+		<section prefix="a">A transfer of "the contract" or of "all my rights under the contract," or a transfer in similar general terms, is a transfer of all contractual interests under the contract. Whether the transfer is effective is determined by §§ 59.1-505.3 and 59.1-505.8 (a) (1) (B).
+		</section>
+		<section prefix="b">The following rules apply to a transfer of a party's contractual interests:
+			<section prefix="1">The transferee is subject to all contractual use terms.
+			</section>
+			<section prefix="2">Unless the language or circumstances otherwise indicate, as in a transfer as security, the transfer delegates the duties of the transferor and transfers its rights.
+			</section>
+			<section prefix="3">Acceptance of the transfer is a promise by the transferee to perform the delegated duties. The promise is enforceable by the transferor and any other party to the original contract.
+			</section>
+			<section prefix="4">The transfer does not relieve the transferor of any duty to perform, or of liability for breach of contract, unless the other party to the original contract agrees that the transfer has that effect.
+			</section>
+		</section>
+		<section prefix="c">A party to the original contract, other than the transferor, may treat a transfer that conveys a right or duty of performance without its consent as creating reasonable grounds for insecurity and, without prejudice to the party's rights against the transferor, may demand assurances from the transferee under § 59.1-507.8.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

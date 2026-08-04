@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="3" level="2">Application and Effect of Title</unit>
+	</structure>
+	<section_number>65.2-301.2</section_number>
+	<catch_line>Employee classification; disaster; personal protective equipment not considered</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section, the terms "communicable disease of public health threat," "disaster," and "state of emergency" have the same meaning as provided in § 44-146.16.
+		</section>
+		<section prefix="B">In any proceeding under the provisions of this title, a hiring party providing an individual with personal protective equipment in response to a disaster caused by a communicable disease of public health threat for which a state of emergency has been declared pursuant to § 44-146.17 shall not be considered in any determination regarding whether such individual is an employee or independent contractor.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 448.</history>
+</law>

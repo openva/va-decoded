@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Shares and Distributions</unit>
+	</structure>
+	<section_number>13.1-640</section_number>
+	<catch_line>Issued and outstanding shares</catch_line>
+	<text>
+		<section prefix="A">A corporation may issue the number of shares of each class or series authorized by the articles of incorporation. Shares that are issued are outstanding shares until they are reacquired, redeemed, converted, or canceled.
+		</section>
+		<section prefix="B">The reacquisition, redemption or conversion of outstanding shares is subject to the limitations of subsection C of this section and to § 13.1-653.
+		</section>
+		<section prefix="C">At all times that shares of the corporation are issued and outstanding, one or more shares that together have full voting rights and one or more shares that together are entitled to receive the net assets of the corporation upon dissolution shall be outstanding.
+		</section>
+	</text>
+	<history>1985, c. 522; 2019, c. 734.</history>
+</law>

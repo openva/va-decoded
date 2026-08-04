@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2A" level="1">Commercial Code — Leases</unit>
+		<unit label="part" identifier="2" level="2">Formation and Construction of Lease Contract</unit>
+	</structure>
+	<section_number>8.2A-215</section_number>
+	<catch_line>Cumulation and conflict of warranties express or implied</catch_line>
+	<text>
+		Warranties, whether express or implied, must be construed as consistent with each other and as cumulative, but if that construction is unreasonable, the intention of the parties determines which warranty is dominant. In ascertaining that intention the following rules apply:
+		<section prefix="a">Exact or technical specifications displace an inconsistent sample or model or general language of description.
+		</section>
+		<section prefix="b">A sample from an existing bulk displaces inconsistent general language of description.
+		</section>
+		<section prefix="c">Express warranties displace inconsistent implied warranties other than an implied warranty of fitness for a particular purpose.
+		</section>
+	</text>
+	<history>1991, c. 536.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="2" level="4">Motor Fuel Licensing</unit>
+	</structure>
+	<section_number>58.1-2205</section_number>
+	<catch_line>Types of importers; qualification for license as an importer</catch_line>
+	<text>
+		<section prefix="A">An applicant for a license as an importer shall indicate whether he is applying for a license as a bonded importer or an occasional importer.
+		</section>
+		<section prefix="B">A person shall not be licensed as more than one type of importer. A bulk user who imports motor fuel from a terminal of a supplier who is not an elective or a permissive supplier shall be licensed as a bonded importer. A bulk user who imports motor fuel from a bulk plant and is not required to be licensed as a bonded importer shall be licensed as an occasional importer. A bulk user who imports motor fuel only from a terminal of an elective or a permissive supplier shall not be required to be licensed as an importer.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758.</history>
+</law>

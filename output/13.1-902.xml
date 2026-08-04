@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="13" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-902</section_number>
+	<catch_line>Dissolution by directors and members</catch_line>
+	<text>
+		<section prefix="A">Where there are members having voting rights, a corporation's board of directors may propose dissolution for submission to the members.
+		</section>
+		<section prefix="B">For a proposal to dissolve to be adopted:
+			<section prefix="1">The board of directors shall recommend dissolution to the members unless the board of directors determines that because of conflict of interests or other special circumstances it should make no recommendation and communicates the basis for its determination to the members; and
+			</section>
+			<section prefix="2">The members entitled to vote shall approve the proposal to dissolve as provided in subsection E.
+			</section>
+		</section>
+		<section prefix="C">The board of directors may condition its submission of the proposal for dissolution on any basis.
+		</section>
+		<section prefix="D">The corporation shall notify each member entitled to vote of the proposed members' meeting in accordance with § 13.1-842. The notice shall also state that the purpose, or one of the purposes, of the meeting is to consider dissolving the corporation.
+		</section>
+		<section prefix="E">Unless the board of directors, acting pursuant to subsection C, requires a greater vote, dissolution to be authorized shall have been approved by more than two-thirds of all the votes cast on the proposal to dissolve at a meeting at which a quorum exists. The articles of incorporation may provide for a greater or lesser vote than that provided for in this subsection or a vote by separate voting groups so long as the vote provided for is not less than a majority of all the votes cast by each voting group entitled to vote on the proposed dissolution at a meeting at which a quorum of the voting group exists.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-248; 1956, c. 428; 1985, c. 522; 2007, c. 925.</history>
+</law>

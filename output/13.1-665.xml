@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Shareholders</unit>
+	</structure>
+	<section_number>13.1-665</section_number>
+	<catch_line>Corporation's acceptance of votes</catch_line>
+	<text>
+		<section prefix="A">If the name signed on a vote, ballot, consent, waiver, or proxy appointment corresponds to the name of a shareholder, the corporation, if acting in good faith, is entitled to accept the vote, ballot, consent, waiver, or proxy appointment and give it effect as the act of the shareholder.
+		</section>
+		<section prefix="B">If the name signed on a vote, ballot, consent, waiver, or proxy appointment does not correspond to the name of the shareholder, the corporation, if acting in good faith, is nevertheless entitled to accept the vote, ballot, consent, waiver, or proxy appointment and give it effect as the act of the shareholder if:
+			<section prefix="1">The shareholder is an entity and the name signed purports to be that of an officer or agent of the entity;
+			</section>
+			<section prefix="2">The name signed purports to be that of an administrator, executor, guardian, conservator, committee, or curator representing the shareholder and, if the corporation requests, evidence of fiduciary status acceptable to the corporation has been presented with respect to the vote, ballot, consent, waiver, or proxy appointment;
+			</section>
+			<section prefix="3">The name signed purports to be that of a receiver or trustee in bankruptcy of the shareholder and, if the corporation requests, evidence of this status acceptable to the corporation has been presented with respect to the vote, ballot, consent, waiver, or proxy appointment;
+			</section>
+			<section prefix="4">The name signed purports to be that of a pledgee, beneficial owner, or attorney-in-fact of the shareholder and, if the corporation requests, evidence acceptable to the corporation of the signatory's authority to sign for the shareholder has been presented with respect to the vote, ballot, consent, waiver, or proxy appointment; or
+			</section>
+			<section prefix="5">Three or fewer persons are the shareholder as co-tenants or fiduciaries and the name signed purports to be the name of at least one of the co-owners and the person signing appears to be acting on behalf of all the co-owners.
+			</section>
+		</section>
+		<section prefix="C">Notwithstanding the provisions of subdivisions B 2 and B 5, in any case in which the will, trust agreement, or other instrument under which a fiduciary purports to act contains directions for the voting of shares in any corporation, or for the execution and delivery of proxies for the voting thereof, such directions shall be binding upon the fiduciary and upon the corporation if a copy thereof has been furnished to the corporation.
+		</section>
+		<section prefix="D">The corporation is entitled to reject a vote, ballot, consent, waiver, or proxy appointment if the person authorized to accept or reject such instrument or count votes, acting in good faith, has reasonable basis for doubt about the validity of the signature on it or about the signatory's authority to sign for the shareholder.
+		</section>
+		<section prefix="E">Neither the corporation nor the person authorized to count votes, including an inspector of election under § 13.1-664.1, that accepts or rejects a vote, ballot, consent, waiver, or proxy appointment in good faith and in accordance with the standards of this section or subsection B of § 13.1-663 is liable in damages to the shareholder for the consequences of the acceptance or rejection.
+		</section>
+		<section prefix="F">Corporate action based on the acceptance or rejection of a vote, ballot, consent, waiver, or proxy appointment under this section is valid unless a court of competent jurisdiction determines otherwise.
+		</section>
+		<section prefix="G">If an inspector of election has been appointed under § 13.1-664.1, the inspector of election also has the authority to request information and make determinations under subsections A, B, C, and D.
+		</section>
+		<section prefix="H">If authorized by the board of directors, any shareholder vote to be taken at a shareholders' meeting may be voted upon by a ballot submitted by electronic transmission by the shareholder or the shareholder's proxy, provided that any such electronic transmission shall either set forth or be submitted with information from which it can be determined that the electronic transmission was authorized by the shareholder or the shareholder's proxy. A share that is voted by a ballot submitted by electronic transmission as permitted by this subsection is deemed present at the shareholders' meeting.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-193 to 13-198, 13-203, 13.1-32; 1956, c. 428; 1958, c. 564; 1975, c. 500; 1984, c. 366; 1985, c. 522; 2005, c. 765; 2015, c. 611; 2019, c. 734.</history>
+</law>

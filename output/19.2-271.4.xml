@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="16" level="2">Evidence and Witnesses</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>19.2-271.4</section_number>
+	<catch_line>Privileged communications by certain public safety personnel</catch_line>
+	<text>
+		<section prefix="A">A person who is a member of a critical incident stress management or peer support team, established pursuant to subdivision A 13 of § 32.1-111.3, shall not disclose nor be compelled to testify regarding any information communicated to him by emergency medical services or public safety personnel who are the subjects of peer support services regarding a critical incident. Such information shall also be exempt from the Virginia Freedom of Information Act (§ 2.2-3700 et seq.).
+		</section>
+		<section prefix="B">A person whose communications are privileged under subsection A may waive the privilege.
+		</section>
+		<section prefix="C">The provisions of this section shall not apply when:
+			<section prefix="1">Criminal activity is revealed;
+			</section>
+			<section prefix="2">A member of a critical incident stress management or peer support team is a witness or a party to a critical incident that prompted the peer support services;
+			</section>
+			<section prefix="3">A member of a critical incident stress management or peer support team reveals the content of privileged information to prevent a crime against any other person or a threat to public safety;
+			</section>
+			<section prefix="4">The privileged information reveals intent to defraud or deceive the investigation into the critical incident;
+			</section>
+			<section prefix="5">A member of a critical incident stress management or peer support team reveals the content of privileged information to the employer of the emergency medical services or public safety personnel regarding criminal acts committed or information that would indicate that the emergency medical services or public safety personnel pose a threat to themselves or others; or
+			</section>
+			<section prefix="6">A member of a critical incident stress management or peer support team is not acting in the role of a member at the time of the communication.
+			</section>
+		</section>
+		<section prefix="D">For the purposes of this section, "critical incident" means an incident that induces an abnormally high level of negative emotions in response to a perceived loss of control. Such an incident is most often related to a threat to the well-being of the emergency medical services or public safety employee or to the well-being of another individual for whom such employee has some obligation of personal or professional concern.
+		</section>
+	</text>
+	<history>2012, cc. 148, 320; 2017, c. 609.</history>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="6" level="2">Crimes Involving Fraud</unit>
+		<unit label="article" identifier="6" level="3">Offenses Relating to Credit Cards</unit>
+	</structure>
+	<section_number>18.2-193</section_number>
+	<catch_line>Credit card forgery</catch_line>
+	<text>
+		<section prefix="1">A person is guilty of credit card forgery when:
+			<section prefix="a">With intent to defraud a purported issuer, a person or organization providing money, goods, services or anything else of value, or any other person, he falsely makes or falsely embosses a purported credit card or utters such a credit card; or
+			</section>
+			<section prefix="b">He, not being the cardholder or a person authorized by him, with intent to defraud the issuer, or a person or organization providing money, goods, services or anything else of value, or any other person, signs a credit card; or
+			</section>
+			<section prefix="c">He, not being the cardholder or a person authorized by him, with intent to defraud the issuer, or a person or organization providing money, goods, services or anything else of value, or any other person, forges a sales draft or cash advance/withdrawal draft, or uses a credit card number of a card of which he is not the cardholder, or utters, or attempts to employ as true, such forged draft knowing it to be forged.
+			</section>
+		</section>
+		<section prefix="2">A person falsely makes a credit card when he makes or draws, in whole or in part, a device or instrument which purports to be the credit card of a named issuer but which is not such a credit card because the issuer did not authorize the making or drawing, or alters a credit card which was validly issued.
+		</section>
+		<section prefix="3">A person falsely embosses a credit card when, without the authorization of the named issuer, he completes a credit card by adding any of the matter, other than the signature of the cardholder, which an issuer requires to appear on the credit card before it can be used by a cardholder. Conviction of credit card forgery shall be punishable as a Class 5 felony.
+		</section>
+	</text>
+	<history>Code 1950, § 18.1-125.4; 1968, c. 480; 1975, cc. 14, 15; 1980, c. 99; 1985, c. 266.</history>
+</law>

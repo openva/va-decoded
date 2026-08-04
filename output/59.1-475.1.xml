@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="41" level="2">Structured Settlement Protection Act</unit>
+	</structure>
+	<section_number>59.1-475.1</section_number>
+	<catch_line>Required disclosures to payee</catch_line>
+	<text>
+		Not less than three days prior to the date on which a payee signs a transfer agreement, the transferee shall provide to the payee a separate disclosure statement, in bold type no smaller than fourteen points, setting forth:
+		<section prefix="1">The amounts and due dates of the structured settlement payments to be transferred;
+		</section>
+		<section prefix="2">The aggregate amount of such payments;
+		</section>
+		<section prefix="3">The discounted present value of the payments to be transferred, which shall be identified as the "calculation of current value of the transferred structured settlement payments under federal standards for valuing annuities," and the amount of the Applicable Federal Rate used in calculating such discounted present value;
+		</section>
+		<section prefix="4">The gross advance amount;
+		</section>
+		<section prefix="5">An itemized listing of all applicable transfer expenses, other than attorney fees and related disbursements payable in connection with the transferee's application for approval of the transfer, and the transferee's best estimate of the amount of any such fees and disbursements;
+		</section>
+		<section prefix="6">The effective annual interest rate, which shall be disclosed in a statement in the following form: "On the basis of the net amount that you will receive from us and the amounts and timing of the structured settlement payments that you are transferring to us, you will in effect be paying interest to us at a rate of _____ percent per year";
+		</section>
+		<section prefix="7">The net advance amount;
+		</section>
+		<section prefix="8">The amount of any penalties or liquidated damages payable by the payee in the event of any breach of the transfer agreement by the payee; and
+		</section>
+		<section prefix="9">A statement that the payee has the right to cancel the transfer agreement, without penalty or further obligation, not later than the third business day after the date the agreement is signed by the payee.
+		</section>
+	</text>
+	<history>2001, c. 537; 2016, cc. 273, 739.</history>
+</law>

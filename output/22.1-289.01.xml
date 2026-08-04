@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="14" level="2">Pupils</unit>
+		<unit label="article" identifier="5" level="3">Pupil Records</unit>
+	</structure>
+	<section_number>22.1-289.01</section_number>
+	<catch_line>School service providers; school-affiliated entities; school-issued devices; student personal information</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section:
+			"Elementary and secondary school purposes" means purposes that (i) customarily take place at the direction of an elementary or secondary school, elementary or secondary school teacher, or school division; (ii) aid in the administration of school activities, including instruction in the classroom or at home; administrative activities; and collaboration between students, school personnel, or parents; or (iii) are otherwise for the use and benefit of an elementary or secondary school.
+			"Machine-readable format" means a structured format that can automatically be read and processed by a computer such as comma-separated values (CSV), Javascript Object Notation (JSON), or Extensible Markup Language (XML). "Machine-readable format" does not include portable document format (PDF).
+			"Personal profile" does not include account information that is collected and retained by a school service provider and remains under control of a student, parent, or elementary or secondary school.
+			"School-affiliated entity" means any private entity that provides support to a local school division or a public elementary or secondary school in the Commonwealth. "School-affiliated entity" includes alumni associations, booster clubs, parent-teacher associations, parent-teacher-student associations, parent-teacher organizations, public education foundations, public education funds, and scholarship organizations.
+			"School-issued device" means any technological hardware or devices that a school board, acting independently or pursuant to a contract with a school technology provider, provides to individual students for their personal use on school property, at home, or both. "School-issued device" includes any laptop, tablet, or other technological device.
+			"School service" means a website, mobile application, or online service that (i) is designed and marketed primarily for use in elementary or secondary schools; (ii) is used (a) at the direction of teachers or other employees at elementary or secondary schools or (b) by any school-affiliated entity; and (iii) collects and maintains, uses, or shares student personal information. "School service" does not include a website, mobile application, or online service that is (a) used for the purposes of college and career readiness assessment or (b) designed and marketed for use by individuals or entities generally, even if it is also marketed for use in elementary or secondary schools.
+			"School service provider" means an entity that operates a school service pursuant to a contract with a local school division in the Commonwealth.
+			"School technology provider" means an entity that provides, pursuant to a contract with a school board in the Commonwealth, any technological hardware or devices intended for student use as school-issued devices.
+			"Student personal information" means information collected through a school service that identifies a currently or formerly enrolled individual student or is linked to information that identifies a currently or formerly enrolled individual student.
+			"Targeted advertising" means advertising that is presented to a student and selected on the basis of information obtained or inferred over time from such student's online behavior, use of applications, or sharing of student personal information. "Targeted advertising" does not include advertising (i) that is presented to a student at an online location (a) on the basis of such student's online behavior, use of applications, or sharing of student personal information during his current visit to that online location or (b) in response to that student's request for information or feedback and (ii) for which a student's online activities or requests are not retained over time for the purpose of subsequent advertising.
+		</section>
+		<section prefix="B">In operating a school service or providing school-issued devices pursuant to a contract with a local school division, each school service provider or school technology provider or, in the case of any school or school board providing any school-issued devices independently, any school board or school  shall:
+			<section prefix="1">Provide clear and easy-to-understand information about the types of student personal information it collects through any school service or through providing any school-issued devices and how it maintains, uses, or shares such student personal information;
+			</section>
+			<section prefix="2">Maintain a policy for the privacy of student personal information for each school service or each school-issued device and provide prominent notice before making material changes to its policy for the privacy of student personal information for the relevant school service or school-issued devices;
+			</section>
+			<section prefix="3">Maintain a comprehensive information security program that is reasonably designed to protect the security, privacy, confidentiality, and integrity of student personal information and makes use of appropriate administrative, technological, and physical safeguards;
+			</section>
+			<section prefix="4">Facilitate access to and correction of student personal information by each student whose student personal information has been collected, maintained, used, or shared by the school service provider or school technology provider, or by such student's parent, either directly or through the student's school or teacher;
+			</section>
+			<section prefix="5">Collect, maintain, use, and share student personal information only with the consent of the student or, if the student is less than 18 years of age, his parent or for the purposes authorized in the contract between the school division and the school service provider or school technology provider;
+			</section>
+			<section prefix="6">When it collects student personal information directly from the student, obtain the consent of the student or, if the student is less than 18 years of age, his parent before using student personal information in a manner that is inconsistent with its policy for the privacy of student personal information for the relevant school service or school-issued device, and when it collects student personal information from an individual or entity other than the student, obtain the consent of the school division before using student personal information in a manner that is inconsistent with its policy for the privacy of student personal information for the relevant school service or school-issued device;
+			</section>
+			<section prefix="7">Require any successor entity or third party with whom it contracts to abide by its policy for the privacy of student personal information and comprehensive information security program before accessing student personal information;
+			</section>
+			<section prefix="8">Upon the request of the school or school division, delete student personal information within a reasonable period of time after such request unless the student or, if the student is less than 18 years of age, his parent consents to the maintenance of the student personal information by the school service provider;
+			</section>
+			<section prefix="9">For any school-issued device that a student returns at the end of the school year or upon request of the school or school division and that shall subsequently be provided to another student, disposed of, donated, or otherwise transferred in ownership to any individual or entity other than the specific student to whom it was issued, delete any student personal information stored in the school-issued device within a reasonable time after such school-issued device is returned and prior to the subsequent provision of such school-issued device to any other student or other transfer in ownership of such school-issued device; and
+			</section>
+			<section prefix="10">Provide, upon request, either directly to the student or his parent or through the school, access to an electronic copy of such student's personal information in a manner consistent with the functionality of the school service or school-issued device. Contracts between local school boards and school service providers or school technology providers may require that such electronic copy be in a machine-readable format.
+			</section>
+		</section>
+		<section prefix="C">In operating a school service or providing any school-issued devices pursuant to a contract with a local school division, no school service provider or school technology provider or, in the case of any school or school board providing any school-issued devices independently, any school board or school shall knowingly:
+			<section prefix="1">Use or share any student personal information for the purpose of targeted advertising to students;
+			</section>
+			<section prefix="2">Use or share any student personal information to create a personal profile of a student other than for elementary and secondary school purposes authorized by the school division, with the consent of the student or, if the student is less than 18 years of age, his parent, or as otherwise authorized in the contract between the school division and the school service provider or school technology provider;
+			</section>
+			<section prefix="3">Sell student personal information, except to the extent that such student personal information is sold to or acquired by a successor entity that purchases, merges with, or otherwise acquires the school service provider or school technology provider, subject to the provisions of subdivision B 7; or
+			</section>
+			<section prefix="4">Except as provided in subdivision E 4, use any school-issued device provided pursuant to any such contract, or grant any school board or other entity with the ability to use any school-issued device, to access or monitor (i) location-tracking features; (ii) audio or visual receiving, transmitting, or recording features; or (iii) student interactions, unless such use (a) is limited to a noncommercial, educational, or instructional purpose, to the provision of technical support, or to exam proctoring by a school board employee or a third party pursuant to a contract with the school board and notice of such use is provided in advance or (b) is permitted under a judicial warrant or is necessary to comply with state or federal law.
+			</section>
+		</section>
+		<section prefix="D">Nothing in this section shall be construed to prohibit school service providers or school technology providers or, in the case of any school or school board providing any school-issued devices independently, any school board or school from:
+			<section prefix="1">Using student personal information for purposes of adaptive learning, personalized learning, or customized education;
+			</section>
+			<section prefix="2">Using student personal information for maintaining, developing, supporting, improving, or diagnosing any school service;
+			</section>
+			<section prefix="3">Providing recommendations for employment, school, educational, or other learning purposes within a school service when such recommendation is not determined in whole or in part by payment or other consideration from a third party;
+			</section>
+			<section prefix="4">Disclosing student personal information to (i) ensure legal or regulatory compliance, (ii) protect against liability, or (iii) protect the security or integrity of its school service; or
+			</section>
+			<section prefix="5">Disclosing student personal information pursuant to a contract with a service provider, provided that the school service provider, school technology provider, school board, or school (i) contractually prohibits the service provider from using any student personal information for any purpose other than providing the contracted service to or on behalf of the school service provider, school technology provider, school board, or school, (ii) contractually prohibits the service provider from disclosing any student personal information provided by the school service provider, school technology provider, school board, or school to any third party unless such disclosure is permitted by subdivision B 7, and (iii) requires the service provider to comply with the requirements set forth in subsection B and prohibitions set forth in subsection C.
+			</section>
+		</section>
+		<section prefix="E">Nothing in this section shall be construed to:
+			<section prefix="1">Impose a duty upon a provider of an electronic store, gateway, marketplace, forum, or means for purchasing or downloading software or applications to review or enforce compliance with this section with regard to any school service provider whose school service is available for purchase or download on such electronic store, gateway, marketplace, forum, or means;
+			</section>
+			<section prefix="2">Impose liability on an interactive computer service, as that term is defined in 47 U.S.C. § 230(f), for content provided by another individual;
+			</section>
+			<section prefix="3">Prohibit any student from downloading, exporting, transferring, saving, or maintaining his personal information, data, or documents; or
+			</section>
+			<section prefix="4">Prohibit any school board from requesting or prohibit any provider from granting any school board access to or the ability to monitor school-issued devices to ensure compliance with a school code of conduct or otherwise limit the ability of any school board to use software filters to monitor school-issued devices for certain safety threats, self-harm prevention, or other risk indicators.
+			</section>
+		</section>
+		<section prefix="F">No school service provider in operation on June 30, 2016, shall be subject to the provisions of this section until such time as the contract to operate a school service is renewed.
+		</section>
+	</text>
+	<history>2015, c. 728; 2016, cc. 438, 439, 468; 2017, c. 518; 2025, c. 364.</history>
+</law>

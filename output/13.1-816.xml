@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="2" level="3">Fees</unit>
+	</structure>
+	<section_number>13.1-816</section_number>
+	<catch_line>Fees for filing documents or issuing certificates</catch_line>
+	<text>
+		The Commission shall charge and collect the following fees, except as provided in § 12.1-21.2:
+		<section prefix="1">For the filing of articles of entity conversion to convert a corporation to a limited liability company, the fee shall be $100.
+		</section>
+		<section prefix="2">For filing any one of the following, the fee shall be $25:
+			a. Articles of incorporation, domestication, or incorporation surrender.
+			b. Articles of amendment or restatement.
+			c. Articles of merger.
+			d. Articles of correction.
+			e. An application of a foreign corporation for a certificate of authority to transact business in the Commonwealth.
+			f. An application of a foreign corporation for an amended certificate of authority to transact business in the Commonwealth.
+			g. A copy of an amendment to the articles of incorporation of a foreign corporation holding a certificate of authority to transact business in the Commonwealth.
+			h. A copy of articles of merger of a foreign corporation holding a certificate of authority to transact business in the Commonwealth.
+			i. A copy of an instrument of entity conversion of a foreign corporation holding a certificate of authority to transact business in the Commonwealth.
+			j. An application to register or to renew the registration of a corporate name.
+		</section>
+		<section prefix="3">For filing any one of the following, the fee shall be $10:
+			a. An application to reserve or to renew the reservation of a corporate name.
+			b. A notice of transfer of a reserved corporate name.
+			c. An application for use of an indistinguishable name.
+			d. Articles of dissolution.
+			e. Articles of revocation of dissolution.
+			f. Articles of termination of corporate existence.
+			g. An application for withdrawal of a foreign corporation.
+			h. A notice of release of a registered name.
+		</section>
+		<section prefix="4">For issuing a certificate pursuant to § 13.1-945, the fee shall be $6.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13.1-285, 13.1-286.1; 1956, c. 428; 1958, c. 564; 1964, c. 551; 1972, c. 579; 1975, c. 500; 1981, c. 522; 1982, c. 460; 1984, c. 294; 1985, c. 522; 1987, c. 183; 1988, c. 405; 1995, c. 368; 2003, c. 374; 2004, c. 274; 2007, cc. 771, 925; 2012, c. 130; 2021, Sp. Sess. I, c. 487.</history>
+</law>

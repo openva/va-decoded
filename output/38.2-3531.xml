@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="35" level="2">Accident and Sickness Insurance Policies</unit>
+		<unit label="article" identifier="3" level="3">Group Accident and Sickness Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3531</section_number>
+	<catch_line>Additional exclusions and limitations</catch_line>
+	<text>
+		<section prefix="A">Each group accident and sickness insurance policy shall contain a provision specifying all additional exclusions or limitations applicable under the policy for any disease or physical condition of a person, not otherwise excluded from the person's coverage by name or specific description effective on the date of the person's loss, which existed prior to the effective date of the person's coverage under the policy.
+		</section>
+		<section prefix="B">Any such exclusion or limitation may only apply to a disease or physical condition for which medical advice or treatment was received by the person during the twelve months prior to the effective date of the person's coverage. The exclusion or limitation shall not apply to loss incurred or disability commencing after the earlier of (i) the end of a continuous period of twelve months commencing on or after the effective date of the person's coverage during which the person receives no medical advice or treatment in connection with the disease or physical condition, or (ii) the end of the two-year period commencing on the effective date of the person's coverage.
+		</section>
+		<section prefix="C">This section shall not apply to group accident and sickness policies providing hospital, medical and surgical or major medical coverage on an expense incurred basis to an employer's employees and their dependents.
+		</section>
+	</text>
+	<history>1986, c. 562; 1998, c. 24.</history>
+</law>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="4" level="3">National Guard Courts-Martial</unit>
+	</structure>
+	<section_number>44-44</section_number>
+	<catch_line>Special courts-martial</catch_line>
+	<text>
+		<section prefix="A">In the National Guard for servicemembers on orders for duty under Title 32 of the United States Code or state active duty, the first commanding officer in the rank of colonel or above may convene special courts-martial.
+		</section>
+		<section prefix="B">A special court-martial may not try a commissioned officer.
+		</section>
+		<section prefix="C">A special court-martial shall have the authority to impose any of the following fines and penalties:
+			<section prefix="1">A fine of not more than $1,000;
+			</section>
+			<section prefix="2">Forfeiture of two-thirds pay per month for six months;
+			</section>
+			<section prefix="3">A reprimand;
+			</section>
+			<section prefix="4">Bad Conduct discharge;
+			</section>
+			<section prefix="5">Restriction to limits;
+			</section>
+			<section prefix="6">Imposition of extra duty;
+			</section>
+			<section prefix="7">Confinement for not more than three months;
+			</section>
+			<section prefix="8">Reduction of enlisted persons one or more pay grades; or
+			</section>
+			<section prefix="9">Any combination of these punishments.
+			</section>
+		</section>
+	</text>
+	<history>1930, p. 956; Michie Code 1942, § 2673(34); 1958, c. 393; 1964, c. 227; 1976, c. 399; 1977, c. 74; 2011, cc. 572, 586.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="5" level="4">Provisions Applicable to Alternative Fuels</unit>
+	</structure>
+	<section_number>58.1-2244</section_number>
+	<catch_line>Persons required to be licensed</catch_line>
+	<text>
+		A person shall obtain a license before conducting the activities of:
+		<section prefix="1">A provider of alternative fuel;
+		</section>
+		<section prefix="2">A bulk user of alternative fuel;
+		</section>
+		<section prefix="3">A retailer of alternative fuel; or
+		</section>
+		<section prefix="4">A person who fuels his highway vehicle from his private source, if the alternative fuels tax on alternative fuel used in the vehicle has not been paid.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758.</history>
+</law>

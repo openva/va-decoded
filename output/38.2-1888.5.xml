@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="18" level="2">Insurance Agents</unit>
+		<unit label="article" identifier="9" level="3">Travel Insurance</unit>
+	</structure>
+	<section_number>38.2-1888.5</section_number>
+	<catch_line>Classification of travel insurance</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any other provision of this title, travel insurance shall be classified and filed for purposes of rates and forms under the inland marine line of insurance as set forth in § 38.2-126.
+		</section>
+		<section prefix="B">Travel insurance may be in the form of an individual, group, or blanket policy.
+		</section>
+	</text>
+	<history>2019, cc. 266, 346.</history>
+</law>

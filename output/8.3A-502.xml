@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="5" level="2">Dishonor</unit>
+	</structure>
+	<section_number>8.3A-502</section_number>
+	<catch_line>Dishonor</catch_line>
+	<text>
+		<section prefix="a">Dishonor of a note is governed by the following rules:
+			<section prefix="1">If the note is payable on demand, the note is dishonored if presentment is duly made to the maker and the note is not paid on the day of presentment.
+			</section>
+			<section prefix="2">If the note is not payable on demand and is payable at or through a bank or the terms of the note require presentment, the note is dishonored if presentment is duly made and the note is not paid on the day it becomes payable or the day of presentment, whichever is later.
+			</section>
+			<section prefix="3">If the note is not payable on demand and paragraph (2) does not apply, the note is dishonored if it is not paid on the day it becomes payable.
+			</section>
+		</section>
+		<section prefix="b">Dishonor of an unaccepted draft other than a documentary draft is governed by the following rules:
+			<section prefix="1">If a check is duly presented for payment to the payor bank otherwise than for immediate payment over the counter, the check is dishonored if the payor bank makes timely return of the check or sends timely notice of dishonor or nonpayment under § 8.4-301 or § 8.4-302, or becomes accountable for the amount of the check under § 8.4-302.
+			</section>
+			<section prefix="2">If a draft is payable on demand and paragraph (1) does not apply, the draft is dishonored if presentment for payment is duly made to the drawee and the draft is not paid on the day of presentment.
+			</section>
+			<section prefix="3">If a draft is payable on a date stated in the draft, the draft is dishonored if (i) presentment for payment is duly made to the drawee and payment is not made on the day the draft becomes payable or the day of presentment, whichever is later, or (ii) presentment for acceptance is duly made before the day the draft becomes payable and the draft is not accepted on the day of presentment.
+			</section>
+			<section prefix="4">If a draft is payable on elapse of a period of time after sight or acceptance, the draft is dishonored if presentment for acceptance is duly made and the draft is not accepted on the day of presentment.
+			</section>
+		</section>
+		<section prefix="c">Dishonor of an unaccepted documentary draft occurs according to the rules stated in subsections (b) (2), (3), and (4), except that payment or acceptance may be delayed without dishonor until no later than the close of the third business day of the drawee following the day on which payment or acceptance is required by those paragraphs.
+		</section>
+		<section prefix="d">Dishonor of an accepted draft is governed by the following rules:
+			<section prefix="1">If the draft is payable on demand, the draft is dishonored if presentment for payment is duly made to the acceptor and the draft is not paid on the day of presentment.
+			</section>
+			<section prefix="2">If the draft is not payable on demand, the draft is dishonored if presentment for payment is duly made to the acceptor and payment is not made on the day it becomes payable or the day of presentment, whichever is later.
+			</section>
+		</section>
+		<section prefix="e">In any case in which presentment is otherwise required for dishonor under this section and presentment is excused under § 8.3A-504, dishonor occurs without presentment if the instrument is not duly accepted or paid.
+		</section>
+		<section prefix="f">If a draft is dishonored because timely acceptance of the draft was not made and the person entitled to demand acceptance consents to a late acceptance, from the time of acceptance the draft is treated as never having been dishonored.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-432 through 6-435, 6-436, 6-462, 6-464 through 6-469, 6-471, 6-496, 6-500 through 6-502, 6-505; 1964, c. 219, §§ 8.3-501, 8.3-507, 8.3-511; 1992, c. 693.</history>
+</law>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="1" level="3">Hospital and Nursing Home Licensure and Inspection</unit>
+	</structure>
+	<section_number>32.1-137.010</section_number>
+	<catch_line>Financial assistance; payment plans</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Patient" means any adult who receives medical services from a hospital or, in the case of a minor who receives medical services from a hospital, the financially responsible party for such minor.
+			"Uninsured patient" means a patient who does not have any health insurance, third-party assistance, medical savings account, or claims against third parties covered by insurance, is not covered under workers' compensation, a health benefit plan as defined in § 38.2-3438, or an employee welfare benefit plan as defined in § 3(1) of the Employee Retirement Income Security Act of 1974, or does not receive benefits under Title XVIII or XIX of the Social Security Act or 10 U.S.C. § 1071 et seq. or any other form of coverage from private insurance or federal, state, or local government medical assistance programs.
+		</section>
+		<section prefix="B">Every hospital shall make reasonable efforts to screen every uninsured patient to determine whether the individual is eligible for medical assistance pursuant to the state plan for medical assistance or for financial assistance under the hospital's financial assistance policy.
+		</section>
+		<section prefix="C">Every hospital shall inform every uninsured patient who receives services at the hospital and who is determined to be eligible for assistance under the hospital's financial assistance policy of the option to enter into a payment plan with the hospital. A payment plan entered into pursuant to this subsection shall be provided to the patient in writing or electronically and shall provide for repayment of the cumulative amount owed to the hospital. The amount of monthly payments and the term of the payment plan shall be determined based upon the patient's ability to pay. Any interest on amounts owed pursuant to the payment plan shall not exceed the maximum judgment rate of interest pursuant to § 6.2-302. The hospital shall not charge any fees related to the payment plan. The payment plan shall allow prepayment of amounts owed without penalty.
+		</section>
+		<section prefix="D">Every hospital shall develop a process by which either an uninsured patient who agrees to a payment plan pursuant to subsection C or the hospital may request and shall be granted the opportunity to renegotiate such payment plan. Such renegotiation shall include opportunity for a new screening in accordance with subdivision B. No hospital shall charge any fees for renegotiation of a payment plan pursuant to this subsection.
+		</section>
+		<section prefix="E">Notwithstanding any other provision of law, no hospital shall engage in any action described in § 501(r)(6) of the Internal Revenue Code as it was in effect on January 1, 2020, to recover a debt for medical services against any patient unless the hospital has made all reasonable efforts to determine whether the patient qualifies for medical assistance pursuant to the state plan for medical assistance or is eligible for financial assistance under the hospital's financial assistance policy.
+		</section>
+		<section prefix="F">Every hospital shall include in written information required pursuant to § 32.1-137.01 information about the availability of a payment plan for the payment of debt owed to the hospital pursuant to subsection C and the renegotiation process described in subsection D.
+		</section>
+		<section prefix="G">Nothing in this section shall be construed to:
+			<section prefix="1">Prohibit a hospital, as part of its financial assistance policy, from requiring a patient to (i) provide necessary information needed to determine eligibility for financial assistance under the hospital's financial assistance policy, medical assistance pursuant to Title XVIII or XIX of the Social Security Act or 10 U.S.C. § 1071 et seq., or other programs of insurance or (ii) undertake good faith efforts to apply for and enroll in such programs of insurance for which the patient may be eligible as a condition of awarding financial assistance;
+			</section>
+			<section prefix="2">Require a hospital to grant or continue to grant any financial assistance or payment plan pursuant to this section when (i) a patient has provided false, inaccurate, or incomplete information required for determining eligibility for such hospital's financial assistance policy or (ii) a patient has not undertaken good faith efforts to comply with any payment plan pursuant to this section; or
+			</section>
+			<section prefix="3">Prohibit the coordination of benefits as required by state or federal law.
+			</section>
+		</section>
+	</text>
+	<history>2022, cc. 678, 679.</history>
+</law>

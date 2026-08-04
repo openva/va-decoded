@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="2" level="3">Descent and Distribution</unit>
+	</structure>
+	<section_number>64.2-202</section_number>
+	<catch_line>When persons take per capita and when per stirpes; collaterals of the half blood</catch_line>
+	<text>
+		<section prefix="A">A decedent's estate, or each half portion of such estate when division is required by subdivision A 5 of § 64.2-200, shall, except when otherwise provided in subdivision A 1 of § 64.2-200, be divided into as many equal shares as there are (i) heirs and distributees who are in the closest degree of kinship to the decedent and (ii) deceased persons, if any, in the same degree of kinship to the decedent who, if living, would have been heirs and distributees and who left descendants surviving at the time of the decedent's death. One share of the estate or half portion thereof shall descend and pass to each such heir and distributee and one share shall descend and pass per stirpes to such descendants.
+		</section>
+		<section prefix="B">Notwithstanding the provisions of subsection A, collaterals of the half blood shall inherit only half as much as those of the whole blood.
+		</section>
+	</text>
+	<history>Code 1950, §§ 64-2, 64-3; 1968, c. 656, §§ 64.1-2, 64.1-3; 1986, c. 305; 2012, c. 614.</history>
+</law>

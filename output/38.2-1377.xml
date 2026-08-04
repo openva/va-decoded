@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="10" level="3">Standard Valuation</unit>
+	</structure>
+	<section_number>38.2-1377</section_number>
+	<catch_line>Reserve calculation; indeterminate premium plans</catch_line>
+	<text>
+		In the case of a plan of life insurance that provides for future premium determination, the amounts of which are to be determined by the insurance company based on then estimates of future experience, or in the case of a plan of life insurance or annuity that is of such a nature that the minimum reserves cannot be determined by the methods described in §§ 38.2-1372, 38.2-1373, and 38.2-1376, the reserves that are held under the plan shall:
+		<section prefix="1">Be appropriate in relation to the benefits and the pattern of premiums for that plan; and
+		</section>
+		<section prefix="2">Be computed by a method that is consistent with the principles of this article, as determined by regulations adopted by the Commission.
+		</section>
+	</text>
+	<history>2014, c. 571.</history>
+</law>

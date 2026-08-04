@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.11</section_number>
+	<catch_line>Events causing dissolution of protected series</catch_line>
+	<text>
+		A protected series of a series limited liability company is dissolved, and its activities and affairs shall be wound up, upon the:
+		<section prefix="1">Dissolution of the series limited liability company;
+		</section>
+		<section prefix="2">Occurrence of an event or circumstance the operating agreement states causes dissolution of the protected series;
+		</section>
+		<section prefix="3">Affirmative vote or consent of all the members;
+		</section>
+		<section prefix="4">Entry of a court order dissolving the protected series on application by an associated member or protected series manager of the protected series:
+			a. In accordance with § 13.1-1094; and
+			b. To the same extent, in the same manner, and on the same grounds the court would enter an order dissolving a limited liability company on application by a member of or a person managing the limited liability company;
+		</section>
+		<section prefix="5">Entry by the court of an order dissolving the protected series on application by the series limited liability company or a member of the series limited liability company on the ground that the conduct of all or substantially all the activities and affairs of the protected series is illegal;
+		</section>
+		<section prefix="6">Automatic cancellation of its existence pursuant to §§ 13.1-1050.2 and 13.1-1099.1; or
+		</section>
+		<section prefix="7">Automatic or involuntary cancellation of the existence of the series limited liability company that established the protected series pursuant to § 13.1-1050.2 or 13.1-1050.3.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

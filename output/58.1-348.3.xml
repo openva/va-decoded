@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="4" level="4">Accounting, Returns, Procedures for Individuals</unit>
+	</structure>
+	<section_number>58.1-348.3</section_number>
+	<catch_line>Requirement that income tax return preparers use identification numbers</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "PTIN" means the Preparer Tax Identification Number that the Internal Revenue Service uses to identify tax return preparers pursuant to 26 U.S.C. § 6109.
+		</section>
+		<section prefix="B">For taxable years beginning on and after January 1, 2019, the Department shall require any income tax return preparer to include his PTIN on any tax return that he prepares or assists in preparing.
+		</section>
+		<section prefix="C">The Department shall promulgate regulations for using the PTIN as an oversight mechanism to assess returns and to identify high error rates, patterns of suspected fraud, and unsubstantiated bases for tax positions by income tax return preparers.
+		</section>
+		<section prefix="D">1. The Department shall establish formal and regular communication protocols with the Internal Revenue Service to share and exchange PTIN information on income tax return preparers who are suspected of fraud, who are disciplined, or who are barred from filing tax returns with the Department or the Internal Revenue Service.
+			<section prefix="2">The Department may establish communication protocols with other states to exchange the enforcement and discipline information described in subdivision D 1.
+			</section>
+			<section prefix="3">Notwithstanding the provisions of § 58.1-3 or any other provision of this title, the Department is authorized to provide to the Internal Revenue Service and other state tax or revenue agencies for their confidential use preparer and return data, including PTIN information, taxpayer names, taxpayer identification numbers, and other information as necessary to enforce the provisions of this section and §§ 58.1-348.2 and 58.1-348.4.
+			</section>
+		</section>
+		<section prefix="E">The failure of an income tax return preparer to include his PTIN on a tax return shall not be used by the Department as a basis for rejecting such return as improperly filed.
+		</section>
+	</text>
+	<history>2018, c. 150.</history>
+</law>

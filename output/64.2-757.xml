@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="7" level="4">Office of Trustee</unit>
+	</structure>
+	<section_number>64.2-757</section_number>
+	<catch_line>Vacancy in trusteeship; appointment of successor</catch_line>
+	<text>
+		<section prefix="A">A vacancy in a trusteeship occurs if:
+			<section prefix="1">A person designated as trustee rejects the trusteeship;
+			</section>
+			<section prefix="2">A person designated as trustee cannot be identified or does not exist;
+			</section>
+			<section prefix="3">A trustee resigns;
+			</section>
+			<section prefix="4">A trustee is disqualified or removed;
+			</section>
+			<section prefix="5">A trustee dies; or
+			</section>
+			<section prefix="6">An individual serving as trustee is adjudicated an incapacitated person.
+			</section>
+		</section>
+		<section prefix="B">If one or more cotrustees remain in office, a vacancy in a trusteeship need not be filled. A vacancy in a trusteeship shall be filled if the trust has no remaining trustee.
+		</section>
+		<section prefix="C">A vacancy in a trusteeship of a noncharitable trust that is required to be filled shall be filled in the following order of priority:
+			<section prefix="1">By a person designated pursuant to the terms of the trust to act as successor trustee;
+			</section>
+			<section prefix="2">By a person appointed by unanimous agreement of the qualified beneficiaries; or
+			</section>
+			<section prefix="3">By a person appointed by the court pursuant to §§ 64.2-1405 and 64.2-1406, or pursuant to § 64.2-712.
+			</section>
+		</section>
+		<section prefix="D">A vacancy in a trusteeship of a charitable trust that is required to be filled shall be filled in the following order of priority:
+			<section prefix="1">By a person designated pursuant to the terms of the trust to act as successor trustee;
+			</section>
+			<section prefix="2">By a person selected by the charitable organizations expressly designated to receive distributions under the terms of the trust, subject, however, to the concurrence of the Attorney General in any case in which he has previously requested of an organization so designated that he be consulted regarding the selection of successor; or
+			</section>
+			<section prefix="3">By a person appointed by the court pursuant to §§ 64.2-1405 and 64.2-1406, or pursuant to § 64.2-712.
+			</section>
+		</section>
+		<section prefix="E">Whether or not a vacancy in a trusteeship exists or is required to be filled, the court may appoint an additional trustee or special fiduciary whenever the court considers the appointment necessary for the administration of the trust.
+		</section>
+		<section prefix="F">A successor or surviving trustee shall succeed to all the rights, powers, and privileges, and shall be subject to all the duties, liabilities, and responsibilities imposed upon the original trustee without regard to the nature of discretionary powers conferred by the instrument, unless the trust instrument expressly provides to the contrary, or unless an order appointing the successor trustee provides otherwise.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-547.04; 2012, c. 614.</history>
+</law>

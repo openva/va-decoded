@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="14" level="4">Accounting, Returns, Procedures for Corporations</unit>
+	</structure>
+	<section_number>58.1-444</section_number>
+	<catch_line>Several liability of affiliated corporations</catch_line>
+	<text>
+		Each affiliated corporation which was included in the consolidated return for any part of the consolidated return year shall be jointly and severally liable for the tax for such year computed in accordance with § 58.1-442 and regulations prescribed by the Department for the filing of the consolidated return for such year.
+		No agreement entered into by one or more members of the affiliated group with any other member of such group or with any other person shall in any case have the effect of reducing the liability prescribed under this section.
+	</text>
+	<history>Code 1950, § 58-151.080; 1971, Ex. Sess., c. 171; 1977, c. 243; 1984, c. 675.</history>
+</law>

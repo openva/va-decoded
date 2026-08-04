@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="6" level="2">The Election</unit>
+		<unit label="article" identifier="3" level="3">Voting Equipment and Systems</unit>
+	</structure>
+	<section_number>24.2-625.1</section_number>
+	<catch_line>Voting equipment security</catch_line>
+	<text>
+		<section prefix="A">Records of the State Board of Elections or of a local electoral board, to the extent such records describe protocols for maintaining the security of ballots or voting and counting equipment, or reveal the results of risk assessments of specific local electoral procedures, the release of which would compromise the security of any election, shall be confidential and excluded from inspection and copying under the Virginia Freedom of Information Act (§ 2.2-3700 et seq.).
+		</section>
+		<section prefix="B">The State Board of Elections or a local electoral board may hold a closed meeting pursuant to the provisions of the Virginia Freedom of Information Act for the purpose of discussing protocols for maintaining the security of ballots or voting and counting equipment, or risk assessments of specific local electoral procedures, where discussion of such matters in open meeting would compromise the security of any election. Nothing in this subsection shall be construed to authorize a closed meeting to discuss any breach of security in the conduct of an election.
+		</section>
+		<section prefix="C">Two members of any local electoral board may conduct site visits for the sole purpose of investigating compliance with security policies and procedures. No such visit shall be deemed a meeting under the provisions of the Virginia Freedom of Information Act. However, prior to conducting such site visits, the board shall hold an open meeting, as defined in the Virginia Freedom of Information Act, and shall identify at that meeting its intention to conduct such site visits, the dates on which such visits will occur, and all polling places or other locations at which such visits will occur, withholding only information identifying secure sites at which voting and counting equipment or ballots are stored. No later than 30 days after any site visit has been conducted pursuant to this paragraph, the board shall hold an open meeting, as defined in the Virginia Freedom of Information Act, at which it shall identify each location visited and the date on which each such location was visited, withholding only information identifying secure sites at which voting and counting equipment or ballots are stored.
+		</section>
+		<section prefix="D">The electoral board of each county and city that utilizes electronic voting systems shall develop and annually update written plans and procedures to ensure the security and integrity of its electronic voting systems. The general registrar and the State Board shall provide the electoral board assistance, upon request.
+		</section>
+		<section prefix="E">Nothing in this section shall be construed to prohibit the release of information concerning any breach of security in the conduct of an election.
+		</section>
+	</text>
+	<history>2005, c. 568; 2007, c. 794.</history>
+</law>

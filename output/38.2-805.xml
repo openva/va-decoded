@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="8" level="2">Service of Process</unit>
+		<unit label="article" identifier="1" level="3">Unlicensed Insurers Process</unit>
+	</structure>
+	<section_number>38.2-805</section_number>
+	<catch_line>When judgment may be entered</catch_line>
+	<text>
+		No judgment based on default of appearance shall be entered against any defendant served pursuant to § 38.2-803 until the expiration of thirty days from the date that the affidavit of compliance is filed.
+	</text>
+	<history>1952, c. 317, § 38.1-68; 1986, c. 562.</history>
+</law>

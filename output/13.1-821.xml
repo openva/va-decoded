@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="3" level="3">Formation of Corporations</unit>
+	</structure>
+	<section_number>13.1-821</section_number>
+	<catch_line>Liability for preincorporation transactions</catch_line>
+	<text>
+		All persons purporting to act as or on behalf of a corporation, but knowing there was no incorporation under this chapter, are jointly and severally liable for all liabilities created while so acting except for any liability to any person who also knew that there was no incorporation.
+	</text>
+	<history>1985, c. 522.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="15" level="2">Trial and Its Incidents</unit>
+		<unit label="article" identifier="2" level="3">Venue</unit>
+	</structure>
+	<section_number>19.2-244</section_number>
+	<catch_line>Venue in general</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided by law, the prosecution of a criminal case shall be had in the county or city in which the offense was committed. Except as to motions for a change of venue, all other questions of venue must be raised before verdict in cases tried by a jury and before the finding of guilty in cases tried by the court without a jury.
+		</section>
+		<section prefix="B">If an offense has been committed within the Commonwealth and it cannot readily be determined within which county or city the offense was committed, venue for the prosecution of the offense may be had in the county or city (i) in which the defendant resides; (ii) if the defendant is not a resident of the Commonwealth, in which the defendant is apprehended; or (iii) if the defendant is not a resident of the Commonwealth and is not apprehended in the Commonwealth, in which any related offense was committed.
+		</section>
+		<section prefix="C">The courts of a locality shall have concurrent jurisdiction with the courts of any other locality adjoining such locality over criminal offenses committed in or upon the premises, buildings, rooms, or offices owned or occupied by such locality or any officer, agency, or department thereof that are located in the adjoining locality.
+		</section>
+	</text>
+	<history>1975, c. 495; 2015, cc. 632, 637; 2018, c. 164.</history>
+</law>

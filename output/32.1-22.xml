@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="1" level="2">Administration Generally</unit>
+		<unit label="article" identifier="3" level="3">Department of Health and State Health Commissioner</unit>
+	</structure>
+	<section_number>32.1-22</section_number>
+	<catch_line>Personnel; Deputy Commissioner</catch_line>
+	<text>
+		<section prefix="A">The Commissioner may employ such personnel as are necessary for the proper performance of his duties as executive officer of the Board.
+		</section>
+		<section prefix="B">The Commissioner, subject to the approval of the Board, may appoint a Deputy Commissioner of Health who shall meet the qualifications for appointment as Commissioner and who may exercise the powers and perform the duties of the Commissioner in the case of the absence or inability to act of the Commissioner.
+		</section>
+	</text>
+	<history>Code 1950, § 32-31; 1979, c. 711.</history>
+</law>

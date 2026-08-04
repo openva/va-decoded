@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="7" level="2">Vital Records</unit>
+		<unit label="article" identifier="2" level="3">Birth Certificates</unit>
+	</structure>
+	<section_number>32.1-259</section_number>
+	<catch_line>Filing and registration of delayed birth certificates; refusal of registration; notice of right of appeal</catch_line>
+	<text>
+		<section prefix="A">When the birth of a person born in this Commonwealth has not been registered, a certificate may be prepared and filed in accordance with regulations of the Board. Such certificate shall be registered subject to such documentary evidence requirements as the Board shall by regulation prescribe to substantiate the alleged facts of birth.
+		</section>
+		<section prefix="B">A certificate of birth registered one year or more after the date of birth shall be recorded on forms prescribed and furnished by the Board, marked "Delayed" and shall show on the face the date of the delayed registration.
+		</section>
+		<section prefix="C">A summary statement of the evidence submitted in support of the delayed registration shall be endorsed on the certificate.
+		</section>
+		<section prefix="D">1. When an applicant does not submit the documentation required in the regulations for delayed registration or when the State Registrar finds reason to question the validity or adequacy of the proposed certificate or the documentary evidence, if the deficiencies are not corrected, the State Registrar shall not register the delayed certificate of birth and shall notify the applicant of the reasons for this action and shall also advise the applicant of his right to petition for a court order pursuant to § 32.1-260.
+			<section prefix="2">The Board may by regulation provide for the dismissal of an application which is not actively pursued.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 32-353.17; 1954, c. 201; 1956, c. 260; 1960, c. 451; 1979, c. 711; 1983, c. 240.</history>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="17.1" level="3">Conversion to a Limited Liability Company</unit>
+	</structure>
+	<section_number>13.1-944.6</section_number>
+	<catch_line>Effect of entity conversion</catch_line>
+	<text>
+		<section prefix="A">When an entity conversion under this article becomes effective, with respect to that entity:
+			<section prefix="1">The title to all real estate and other property remains in the resulting entity without reversion or impairment;
+			</section>
+			<section prefix="2">The liabilities remain the liabilities of the resulting entity;
+			</section>
+			<section prefix="3">A pending proceeding may be continued by or against the resulting entity as if the conversion did not occur;
+			</section>
+			<section prefix="4">The articles of organization attached to the articles of entity conversion constitute the articles of organization of the resulting entity;
+			</section>
+			<section prefix="5">The membership interests, if any, of the corporation are reclassified into LLC membership interests in accordance with the plan of entity conversion, and the members of the converting entity are entitled only to the rights provided in the plan of entity conversion;
+			</section>
+			<section prefix="6">The resulting entity is deemed to:
+				a. Be a limited liability company for all purposes;
+				b. Be the same entity without interruption as the converting entity that existed before the conversion; and
+				c. Have been organized on the date that the converting entity was originally incorporated, organized, or formed; and
+			</section>
+			<section prefix="7">The corporation shall cease to be a corporation when the certificate of entity conversion becomes effective.
+			</section>
+		</section>
+		<section prefix="B">Any member of a converting entity who, before the conversion, was liable for the liabilities or obligations of the converting entity is not released from those liabilities or obligations by reason of the conversion.
+		</section>
+	</text>
+	<history>2012, c. 706; 2015, c. 623; 2016, c. 288.</history>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="6" level="2">Notice of Accident; Filing Claims; Medical Attention and Examination</unit>
+	</structure>
+	<section_number>65.2-601.1</section_number>
+	<catch_line>Effect of filing claim; stay of debt collection activities by health care providers</catch_line>
+	<text>
+		<section prefix="A">Whenever an employee makes a claim pursuant to § 65.2-601, all health care providers, as defined in § 8.01-581.1, shall refrain from all debt collection activities relating to medical treatment received by the employee in connection with such claim until an award is made on the employee's claim pursuant to § 65.2-704. The statute of limitations for collection of such debt shall be tolled during the period in which the applicable health care provider is required to refrain from debt collection activities hereunder.
+		</section>
+		<section prefix="B">For the purpose of this section, "debt collection activities" means repeatedly calling or writing to the employee and threatening either to turn the matter over to a debt collection agency or to an attorney for collection, enforcement or filing of other process. The term shall not include routine billing or inquiries about the status of the claim.
+		</section>
+	</text>
+	<history>1994, c. 462.</history>
+</law>

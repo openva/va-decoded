@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="3" level="3">National Guard in General</unit>
+	</structure>
+	<section_number>44-35</section_number>
+	<catch_line>Enlistments in National Guard</catch_line>
+	<text>
+		Enlistments in the National Guard shall be as prescribed in existing or subsequently amended National Guard regulations.
+	</text>
+	<history>1930, p. 954; Michie Code 1942, § 2673(25); 1958, c. 393.</history>
+</law>

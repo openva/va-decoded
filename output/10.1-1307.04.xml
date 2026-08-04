@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="13" level="3">Air Pollution Control Board</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>10.1-1307.04</section_number>
+	<catch_line>Greenhouse gas emissions inventory</catch_line>
+	<text>
+		<section prefix="A">The Department shall conduct a comprehensive statewide baseline and projection inventory of all greenhouse gas (GHG) emissions and shall update such inventory every four years. The Board may adopt regulations necessary to collect from all source sectors data needed by the Department to conduct, update, and maintain such inventory.
+		</section>
+		<section prefix="B">The Department shall include the inventory in the report required pursuant to subsection H of § 10.1-1307, beginning with the report issued prior to October 1, 2022, and every four years thereafter. The Department shall publish such inventory on its website, showing changes in GHG emissions relative to an estimated GHG emissions baseline case for calendar year 2010.
+		</section>
+		<section prefix="C">Any information, except emissions data, that is reported to or otherwise obtained by the Department pursuant to this section and that contains or might reveal proprietary information shall be confidential and shall be exempt from the mandatory disclosure requirements of the Virginia Freedom of Information Act (§ 2.2-3700 et seq.). Each owner shall notify the Director or his representative of the existence of proprietary information if he desires the protection provided pursuant to this subsection.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 98; 2022, c. 356.</history>
+</law>

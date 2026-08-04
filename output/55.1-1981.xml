@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="IV" level="2">Common Interest Communities</unit>
+		<unit label="chapter" identifier="19" level="3">Virginia Condominium Act</unit>
+		<unit label="article" identifier="4" level="4">Administration of Chapter; Sale, Etc., of Condominium Units</unit>
+	</structure>
+	<section_number>55.1-1981</section_number>
+	<catch_line>Termination of registration</catch_line>
+	<text>
+		<section prefix="A">In the event that all of the units in the condominium have been disposed of and that all periods for conversion or expansion have expired, the Common Interest Community Board shall issue an order terminating the registration of the condominium.
+		</section>
+		<section prefix="B">Notwithstanding any other provision of this chapter, the Common Interest Community Board may administratively terminate the registration of a condominium if:
+			<section prefix="1">The declarant has not filed an annual report in accordance with § 55.1-1979 for three or more consecutive years; or
+			</section>
+			<section prefix="2">The declarant's registration with the State Corporation Commission, if applicable, has not been active for five or more consecutive years.
+			</section>
+		</section>
+	</text>
+	<history>2012, cc. 481, 797, § 55-79.93:2; 2019, c. 712.</history>
+</law>

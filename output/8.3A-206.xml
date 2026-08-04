@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="2" level="2">Negotiation, Transfer, and Endorsement</unit>
+	</structure>
+	<section_number>8.3A-206</section_number>
+	<catch_line>Restrictive endorsement</catch_line>
+	<text>
+		<section prefix="a">An endorsement limiting payment to a particular person or otherwise prohibiting further transfer or negotiation of the instrument is not effective to prevent further transfer or negotiation of the instrument.
+		</section>
+		<section prefix="b">An endorsement stating a condition to the right of the endorsee to receive payment does not affect the right of the endorsee to enforce the instrument. A person paying the instrument or taking it for value or collection may disregard the condition, and the rights and liabilities of that person are not affected by whether the condition has been fulfilled.
+		</section>
+		<section prefix="c">If an instrument bears an endorsement (i) described in § 8.4-201 (b), or (ii) in blank or to a particular bank using the words "for deposit," "for collection," or other words indicating a purpose of having the instrument collected by a bank for the endorser or for a particular account, the following rules apply:
+			<section prefix="1">A person, other than a bank, who purchases the instrument when so endorsed converts the instrument unless the amount paid for the instrument is received by the endorser or applied consistently with the endorsement.
+			</section>
+			<section prefix="2">A depositary bank that purchases the instrument or takes it for collection when so endorsed converts the instrument unless the amount paid by the bank with respect to the instrument is received by the endorser or applied consistently with the endorsement.
+			</section>
+			<section prefix="3">A payor bank that is also the depositary bank or that takes the instrument for immediate payment over the counter from a person other than a collecting bank converts the instrument unless the proceeds of the instrument are received by the endorser or applied consistently with the endorsement.
+			</section>
+			<section prefix="4">Except as otherwise provided in paragraph (3), a payor bank or intermediary bank may disregard the endorsement and is not liable if the proceeds of the instrument are not received by the endorser or applied consistently with the endorsement.
+			</section>
+		</section>
+		<section prefix="d">Except for an endorsement covered by subsection (c), if an instrument bears an endorsement using words to the effect that payment is to be made to the endorsee as agent, trustee, or other fiduciary for the benefit of the endorser or another person, the following rules apply:
+			<section prefix="1">Unless there is notice of breach of fiduciary duty as provided in § 8.3A-307, a person who purchases the instrument from the endorsee or takes the instrument from the endorsee for collection or payment may pay the proceeds of payment or the value given for the instrument to the endorsee without regard to whether the endorsee violates a fiduciary duty to the endorser.
+			</section>
+			<section prefix="2">A subsequent transferee of the instrument or person who pays the instrument is neither given notice nor otherwise affected by the restriction in the endorsement unless the transferee or payor knows that the fiduciary dealt with the instrument or its proceeds in breach of fiduciary duty.
+			</section>
+		</section>
+		<section prefix="e">The presence on an instrument of an endorsement to which this section applies does not prevent a purchaser of the instrument from becoming a holder in due course of the instrument unless the purchaser is a converter under subsection (c) or has notice or knowledge of breach of fiduciary duty as stated in subsection (d).
+		</section>
+		<section prefix="f">In an action to enforce the obligation of a party to pay the instrument, the obligor has a defense if payment would violate an endorsement to which this section applies and the payment is not permitted by this section.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-388, 6-389, 6-391, 6-399, 6-490; 1964, c. 219, §§ 8.3-205, 8.3-206, 8.3-419; 1992, c. 693.</history>
+</law>

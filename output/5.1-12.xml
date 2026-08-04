@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="5.1" level="1">Aviation</unit>
+		<unit label="chapter" identifier="1" level="2">Aircraft, Airmen and Airports Generally</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>5.1-12</section_number>
+	<catch_line>Federally certificated airlines and interstate service</catch_line>
+	<text>
+		This article shall not apply to any aircraft operated by any air carrier operating under Federal Aviation Regulation Part 121 or Part 135 if operating with an exemption from Title IV of the Federal Aviation Act to provide scheduled passenger service.
+	</text>
+	<history>Code 1950, § 5-14; 1966, c. 576; 1980, c. 721; 1988, c. 45; 1991, c. 535.</history>
+</law>

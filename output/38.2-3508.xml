@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="35" level="2">Accident and Sickness Insurance Policies</unit>
+		<unit label="article" identifier="1" level="3">Individual Accident and Sickness Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3508</section_number>
+	<catch_line>Requirements of other jurisdictions</catch_line>
+	<text>
+		<section prefix="A">Any individual accident and sickness insurance policy delivered or issued for delivery to any person in this Commonwealth by a foreign or alien insurer may contain any provision that is prescribed or required by the insurer's domiciliary jurisdiction and that is not less favorable than the provisions of this article to the insured or the beneficiary.
+		</section>
+		<section prefix="B">Any individual accident and sickness insurance policy delivered or issued for delivery by a domestic insurer in any other jurisdiction may contain any provision permitted or required by the laws of the other jurisdiction.
+		</section>
+	</text>
+	<history>Code 1950, § 38-224; 1952, c. 317, § 38.1-354; 1986, c. 562.</history>
+</law>

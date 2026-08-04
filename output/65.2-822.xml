@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="8" level="2">Insurance and Self-Insurance</unit>
+	</structure>
+	<section_number>65.2-822</section_number>
+	<catch_line>Action by State Corporation Commission upon application</catch_line>
+	<text>
+		The State Corporation Commission may, if in its judgment it deems such action to be justified after reviewing all information pertaining to the applicant or policyholder available from its records, the records of the Workers' Compensation Commission or from other sources:
+		<section prefix="1">Refuse to assign an application;
+		</section>
+		<section prefix="2">Approve the rejection of an application by an insurance carrier;
+		</section>
+		<section prefix="3">Approve the cancellation of a workers' compensation policy by an insurance carrier; or
+		</section>
+		<section prefix="4">Refuse to approve the renewal or the reassignment of an expiring policy.
+		</section>
+	</text>
+	<history>Code 1950, § 65-114.3; 1956, c. 358; 1968, c. 660, § 65.1-121; 1991, c. 355.</history>
+</law>

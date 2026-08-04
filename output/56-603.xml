@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="26" level="2">Steps to Advance Virginia's Energy Plan (SAVE) Act</unit>
+	</structure>
+	<section_number>56-603</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter:
+		"Commission" means the State Corporation Commission.
+		"Eligible infrastructure replacement" means natural gas utility facility replacement projects that: (i) enhance safety or reliability by reducing system integrity risks associated with customer outages, corrosion, equipment failures, material failures, or natural forces; (ii) do not increase revenues by directly connecting the infrastructure replacement to new customers; (iii) reduce or have the potential to reduce greenhouse gas emissions; (iv) are commenced on or after January 1, 2010; and (v) are not included in the natural gas utility's rate base in its most recent rate case using the cost of service methodology set forth in § 56-235.2, or the natural gas utility's rate base included in the rate base schedules filed with a performance-based regulation plan authorized by § 56-235.6, if the plan did not include the rate base. "Eligible infrastructure replacement" includes natural gas utility facility replacement projects that are identified as a result of an enhanced leak detection and repair program.
+		"Eligible infrastructure replacement costs" includes the following:
+		<section prefix="1">Return on the investment. In calculating the return on the investment, the Commission shall use the natural gas utility's regulatory capital structure as calculated utilizing the weighted average cost of capital, including the cost of debt and the cost of equity used in determining the natural gas utility's base rates in effect during the construction period of the eligible infrastructure replacement project. If the natural gas utility's cost of capital underlying the base rates in effect at the time its proposed SAVE plan is filed has not been changed by order of the Commission within the preceding five years, the Commission may require the natural gas utility to file an updated weighted average cost of capital, and the natural gas utility may propose an updated weighted average cost of capital. The natural gas utility may recover the external costs associated with establishing its updated weighted average cost of capital through the SAVE rider. Such external costs shall include legal costs and consultant costs;
+		</section>
+		<section prefix="2">A revenue conversion factor, including income taxes and an allowance for bad debt expense, shall be applied to the required operating income resulting from the eligible infrastructure replacement costs;
+		</section>
+		<section prefix="3">Depreciation. In calculating depreciation, the Commission shall use the natural gas utility's current depreciation rates;
+		</section>
+		<section prefix="4">Property taxes;
+		</section>
+		<section prefix="5">Carrying costs on the over- or under-recovery of the eligible infrastructure replacement costs. In calculating the carrying costs, the Commission shall use the natural gas utility's regulatory capital structure as determined in subdivision 1 of the definition of eligible infrastructure replacement costs; and
+		</section>
+		<section prefix="6">Enhanced leak detection and repair program costs. Such costs shall include the costs of operating an enhanced leak detection and repair program.
+			"Enhanced leak detection and repair program" means a program that is designed to allow a natural gas utility to deploy advanced leak detection technologies to more accurately identify active leaks as part of the natural gas utility's leak management program and to prioritize the repair of leaks that present a risk to safety or the environment. A natural gas utility may amend its SAVE plan to include an enhanced leak detection and repair program by filing an application to amend its previously approved SAVE plan, as set forth in subsection B of § 56-604.
+			"Investment" means costs incurred on eligible infrastructure replacement projects including planning, development, and construction costs; costs of infrastructure associated therewith; and an allowance for funds used during construction. In calculating the allowance for funds used during construction, the Commission shall use the natural gas utility's actual regulatory capital structure as determined in subdivision 1 of the definition of eligible infrastructure replacement costs.
+			"Natural gas utility" means any investor-owned public service company engaged in the business of furnishing natural gas service to the public.
+			"Natural gas utility facility replacement project" means the replacement of storage, peak shaving, transmission or distribution facilities used in the delivery of natural gas, or supplemental or substitute forms of gas sources by a natural gas utility.
+			"SAVE" means Steps to Advance Virginia's Energy Plan.
+			"SAVE plan" means a plan filed by a natural gas utility that identifies proposed eligible infrastructure replacement projects and a SAVE rider.
+			"SAVE rider" means a recovery mechanism that will allow for recovery of the eligible infrastructure replacement costs, through a separate mechanism from the customer rates established in a rate case using the cost of service methodology set forth in § 56-235.2, or a performance-based regulation plan authorized by § 56-235.6.
+		</section>
+	</text>
+	<history>2010, cc. 142, 514; 2022, cc. 728, 759.</history>
+</law>

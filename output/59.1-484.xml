@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="42.1" level="2">Uniform Electronic Transactions Act</unit>
+	</structure>
+	<section_number>59.1-484</section_number>
+	<catch_line>Construction and application</catch_line>
+	<text>
+		This chapter shall be construed and applied to:
+		<section prefix="1">Facilitate electronic transactions consistent with other applicable law;
+		</section>
+		<section prefix="2">Be consistent with reasonable practices concerning electronic transactions and with the continued expansion of those practices; and
+		</section>
+		<section prefix="3">Effectuate its general purpose to make uniform the law with respect to the subject of this chapter among states enacting it.
+		</section>
+	</text>
+	<history>2000, c. 995.</history>
+</law>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="V" level="2">Domestic Animals</unit>
+		<unit label="chapter" identifier="65" level="3">Comprehensive Animal Care</unit>
+		<unit label="article" identifier="2" level="4">Animal Welfare</unit>
+	</structure>
+	<section_number>3.2-6503.1</section_number>
+	<catch_line>Care of agricultural animals by owner; penalty</catch_line>
+	<text>
+		<section prefix="A">Each owner shall provide for each of his agricultural animals:
+			<section prefix="1">Feed to prevent malnourishment;
+			</section>
+			<section prefix="2">Water to prevent dehydration; and
+			</section>
+			<section prefix="3">Veterinary treatment as needed to address impairment of health or bodily function when such impairment cannot be otherwise addressed through animal husbandry, including humane destruction.
+			</section>
+		</section>
+		<section prefix="B">The provisions of this section shall not require an owner to provide feed or water when such is customarily withheld, restricted, or apportioned pursuant to a farming activity or if otherwise prescribed by a veterinarian.
+		</section>
+		<section prefix="C">There shall be a rebuttable presumption that there has been no violation of this section if an owner is unable to provide feed, water, or veterinary treatment due to an act of God.
+		</section>
+		<section prefix="D">The provisions of this section shall not apply to agricultural animals used for bona fide medical or scientific experimentation.
+		</section>
+		<section prefix="E">A violation of this section is a Class 4 misdemeanor.
+		</section>
+	</text>
+	<history>2011, cc. 754, 886.</history>
+</law>

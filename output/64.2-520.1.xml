@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="5" level="3">Personal Representatives and Administration of Estates</unit>
+		<unit label="article" identifier="3" level="4">Authority and General Duties</unit>
+	</structure>
+	<section_number>64.2-520.1</section_number>
+	<catch_line>Legal duty; action for damages from legal malpractice concerning estate planning; third parties</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding § 55.1-119, an attorney does not owe a legal duty to any person other than the client in any engagement for the purpose of the client's estate planning, including the provision of legal advice or the preparation of legal documents, unless the client and attorney enter into a signed, written agreement that expressly provides that the client and attorney intend to confer a benefit upon a third party by specific reference to this subsection.
+		</section>
+		<section prefix="B">Notwithstanding the provisions of this section, no action shall be based upon damages that may reasonably be avoided or that result from a change of law subsequent to the representation upon which the action is based.
+		</section>
+	</text>
+	<history>2017, cc. 43, 93; 2025, cc. 450, 467.</history>
+</law>

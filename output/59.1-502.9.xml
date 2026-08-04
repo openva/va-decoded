@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="2" level="3">Formation and Terms</unit>
+	</structure>
+	<section_number>59.1-502.9</section_number>
+	<catch_line>Mass-market license</catch_line>
+	<text>
+		<section prefix="a">A party adopts the terms of a mass-market license for purposes of § 59.1-502.8 only if the party agrees to the license, such as by manifesting assent, before or during the party's initial performance or use of or access to the information. A term is not part of the license if:
+			<section prefix="1">the term is unconscionable or is unenforceable under § 59.1-501.5 (a) or (b);
+			</section>
+			<section prefix="2">subject to § 59.1-503.1, the term conflicts with a term to which the parties to the license have expressly agreed;
+			</section>
+			<section prefix="3">under § 59.1-501.13:1, the licensee does not have an opportunity to review the term before agreeing to it; or
+			</section>
+			<section prefix="4">the term is not available for viewing before and after assent:
+			</section>
+		</section>
+		<section prefix="A">in a printed license; or
+		</section>
+		<section prefix="B">in electronic form that (i) can be printed or stored for archival and review purposes by the licensee or (ii) is made available by a licensor to a licensee, at no cost to the licensee, in a printed form on the request of a licensee who is unable to print or store the license for archival and review purposes.
+		</section>
+		<section prefix="b">If a mass-market license or a copy of the license is not available in a manner permitting an opportunity to review by the licensee before the licensee becomes obligated to pay and the licensee does not agree, such as by manifesting assent, to the license after having an opportunity to review, the licensee is entitled to a return under § 59.1-501.12 or § 59.1-501.13:1 and, in addition, to:
+			<section prefix="1">reimbursement of any reasonable expenses incurred in complying with the licensor's instructions for returning or destroying the computer information or, in the absence of instructions, expenses incurred for return postage or similar reasonable expense in returning the computer information; and
+			</section>
+			<section prefix="2">compensation for any reasonable and foreseeable costs of restoring the licensee's information processing system to reverse changes in the system caused by the installation, if:
+			</section>
+		</section>
+		<section prefix="A">the installation occurs because information must be installed to enable review of the license; and
+		</section>
+		<section prefix="B">the installation alters the system or information in it but does not restore the system or information after removal of the installed information because the licensee rejected the license.
+		</section>
+		<section prefix="c">In a mass-market transaction, if the licensor does not have an opportunity to review a record containing proposed terms from the licensee before the licensor delivers or becomes obligated to deliver the information, and if the licensor does not agree, such as by manifesting assent, to those terms after having that opportunity, the licensor is entitled to a return.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2001, c. 763; 2004, c. 794.</history>
+</law>

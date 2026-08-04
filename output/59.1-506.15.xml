@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.15</section_number>
+	<catch_line>Excuse by failure of presupposed conditions</catch_line>
+	<text>
+		<section prefix="a">Unless a party has assumed a different obligation, delay in performance by a party, or nonperformance in whole or part by a party, other than of an obligation to make payments or to conform to contractual use terms, is not a breach of contract if the delay or nonperformance is of a performance that has been made impracticable by:
+			<section prefix="1">the occurrence of a contingency the nonoccurrence of which was a basic assumption on which the contract was made; or
+			</section>
+			<section prefix="2">compliance in good faith with any foreign or domestic statute, governmental rule, regulation, or order, whether or not it later proves to be invalid.
+			</section>
+		</section>
+		<section prefix="b">A party claiming excuse under subsection (a) shall seasonably notify the other party that there will be delay or nonperformance.
+		</section>
+		<section prefix="c">If an excuse affects only a part of a party's capacity to perform an obligation for delivery of copies, the party claiming excuse shall allocate performance among its customers in any manner that is fair and reasonable and notify the other party of the estimated quota to be made available. In making the allocation, the party claiming excuse may include the requirements of regular customers not then under contract and its own requirements.
+		</section>
+		<section prefix="d">A party that receives notice pursuant to subsection (b) of a material or indefinite delay in delivery of copies or of an allocation under subsection (c), by notice in a record, may:
+			<section prefix="1">terminate and thereby discharge any executory portion of the contract; or
+			</section>
+			<section prefix="2">modify the contract by agreeing to take the available allocation in substitution.
+			</section>
+		</section>
+		<section prefix="e">If, after receipt of notice under subsection (b), a party does not modify the contract within a reasonable time not exceeding thirty days, the contract lapses with respect to any performance affected.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

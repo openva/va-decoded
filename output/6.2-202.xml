@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="2" level="3">Money and Currency</unit>
+		<unit label="article" identifier="2" level="4">Currency Issuance and Circulation</unit>
+	</structure>
+	<section_number>6.2-202</section_number>
+	<catch_line>Issuance of currency and related prohibited acts</catch_line>
+	<text>
+		<section prefix="A">No individual or entity, unless authorized by law, shall:
+			<section prefix="1">Issue any note, bill, scrip, or other paper or thing with intent that the same be circulated as currency; or
+			</section>
+			<section prefix="2">Otherwise deal, trade, or carry on business as a bank of circulation.
+			</section>
+		</section>
+		<section prefix="B">All contracts made for forming any entity to engage in any activity prohibited by subsection A shall be void.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.52; 2010, c. 794.</history>
+</law>

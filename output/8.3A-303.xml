@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="3" level="2">Enforcement of Instruments</unit>
+	</structure>
+	<section_number>8.3A-303</section_number>
+	<catch_line>Value and consideration</catch_line>
+	<text>
+		<section prefix="a">An instrument is issued or transferred for value if:
+			<section prefix="1">the instrument is issued or transferred for a promise of performance, to the extent the promise has been performed;
+			</section>
+			<section prefix="2">the transferee acquires a security interest or other lien in the instrument other than a lien obtained by judicial proceeding;
+			</section>
+			<section prefix="3">the instrument is issued or transferred as payment of, or as security for, an antecedent claim against any person, whether or not the claim is due;
+			</section>
+			<section prefix="4">the instrument is issued or transferred in exchange for a negotiable instrument; or
+			</section>
+			<section prefix="5">the instrument is issued or transferred in exchange for the incurring of an irrevocable obligation to a third party by the person taking the instrument.
+			</section>
+		</section>
+		<section prefix="b">"Consideration" means any consideration sufficient to support a simple contract. The drawer or maker of an instrument has a defense if the instrument is issued without consideration. If an instrument is issued for a promise of performance, the issuer has a defense to the extent performance of the promise is due and the promise has not been performed. If an instrument is issued for value as stated in subsection (a), the instrument is also issued for consideration.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-376, 6-377 through 6-380, 6-406, 6-410, 6-411; 1964, c. 219, §§ 8.3-303, 8.3-306, 8.3-408; 1992, c. 693.</history>
+</law>

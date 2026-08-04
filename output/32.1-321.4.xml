@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="9" level="2">Regulation of Medical Assistance</unit>
+		<unit label="article" identifier="2" level="3">Regulation of Recipient Eligibility</unit>
+	</structure>
+	<section_number>32.1-321.4</section_number>
+	<catch_line>False statement or representation in applications for eligibility or for use in determining rights to benefits; concealment of facts; criminal penalty</catch_line>
+	<text>
+		<section prefix="A">Any person who engages in the following activities, on behalf of himself or another, shall be guilty of larceny and, in addition to the penalties provided in §§ 18.2-95 and 18.2-96 as applicable, may be fined an amount not to exceed $10,000:
+			<section prefix="1">Knowingly and willfully making or causing to be made any false statement or misrepresentation of a material fact in an application for eligibility, benefits or payments under medical assistance;
+			</section>
+			<section prefix="2">Knowingly and willfully falsifying, concealing or covering up by any trick, scheme, or device a material fact or causing a material fact to be falsified, concealed, or covered up in such a manner, in connection with an application for eligibility, benefits or payments;
+			</section>
+			<section prefix="3">Knowingly and willfully concealing or failing to disclose any event affecting the initial or continued right of any individual to any benefits or payment or causing such concealment or failure to disclose such an event with an intent to secure fraudulently such benefits or payment in a greater amount or quantity than is authorized or when no such benefit or payment is authorized;
+			</section>
+			<section prefix="4">Knowingly and willfully converting or causing to be converted any benefits or payment received pursuant to an application for another person and receipt of benefits or payment on behalf of such other person to use other than for the health and welfare of the other person; or
+			</section>
+			<section prefix="5">Knowingly and willfully failing to notify or causing another to fail to notify the local department of social services, through whom medical assistance benefits were obtained, of changes in the circumstances of any recipient or applicant which could result in the reduction or termination of medical assistance services.
+			</section>
+		</section>
+		<section prefix="B">It shall be the duty of the Director of Medical Assistance Services or his designee to enforce the provisions of this section. A warrant or summons may be issued for violations of which the Director or his designee has knowledge. Trial for violation of this section shall be held in the county or city in which the application for medical assistance was made or obtained.
+		</section>
+	</text>
+	<history>1986, c. 551; 2002, c. 747; 2010, c. 305.</history>
+</law>

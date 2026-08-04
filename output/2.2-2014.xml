@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="20.1" level="4">Virginia Information Technologies Agency</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-2014</section_number>
+	<catch_line>Submission of information technology plans by state agencies and public institutions of higher education; designation of technology resource</catch_line>
+	<text>
+		<section prefix="A">All executive branch agencies shall prepare and submit information technology strategic plans to the CIO for review and approval. All executive branch agencies shall maintain current information technology plans that have been approved by the CIO.
+		</section>
+		<section prefix="B">The head of each executive branch agency shall designate an existing employee to be the agency's information technology resource who shall be responsible for compliance with the policies, standards, and guidelines established by the CIO.
+		</section>
+	</text>
+	<history>1999, cc. 412, 421, 433, § 2.1-51.47; 2000, c. 995; 2001, c. 844, § 2.2-226; 2002, c. 424; 2003, cc. 981, 1021; 2016, c. 296.</history>
+</law>

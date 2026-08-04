@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="2" level="3">Formation: Certificate of Limited Partnership</unit>
+	</structure>
+	<section_number>50-73.11:3</section_number>
+	<catch_line>Conversion of general partnership to limited partnership</catch_line>
+	<text>
+		<section prefix="A">A domestic or foreign general partnership may convert to a limited partnership pursuant to this section.
+		</section>
+		<section prefix="B">The terms and conditions of a conversion of a general partnership to a limited partnership shall be approved by the partners in the manner provided in the partnership's partnership agreement for amendments to the partnership agreement or, if no such provision is made in the partnership agreement, by all of the partners.
+		</section>
+		<section prefix="C">After the conversion is approved by the partners, the general partnership shall file a certificate of limited partnership that meets the requirements of § 50-73.11 and includes the following:
+			<section prefix="1">The name of the former general partnership and the identification number issued by the Commission to the general partnership, if any;
+			</section>
+			<section prefix="2">The jurisdiction under whose law the general partnership was formed immediately prior to the filing of the certificate of limited partnership;
+			</section>
+			<section prefix="3">If the former general partnership is registered with the Commission as a registered limited liability partnership, a statement to that effect;
+			</section>
+			<section prefix="4">A statement that the conversion of the general partnership to a limited partnership was approved by the partners in accordance with the provisions of subsection B.
+			</section>
+		</section>
+	</text>
+	<history>2007, c. 631.</history>
+</law>

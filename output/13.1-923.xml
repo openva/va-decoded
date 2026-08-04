@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="14" level="3">Foreign Corporations</unit>
+	</structure>
+	<section_number>13.1-923</section_number>
+	<catch_line>Effect of certificate of authority</catch_line>
+	<text>
+		<section prefix="A">A certificate of authority authorizes the foreign corporation to which it is issued to transact business in the Commonwealth, subject, however, to the right of the Commonwealth to revoke the certificate as provided in this Act.
+		</section>
+		<section prefix="B">A foreign corporation holding a valid certificate of authority shall have no greater rights and privileges than a domestic corporation. The certificate of authority shall not be deemed to authorize it to exercise any of its corporate powers or purposes that a foreign corporation is forbidden by law to exercise in the Commonwealth.
+		</section>
+		<section prefix="C">This Act does not authorize the Commonwealth to regulate the organization or internal affairs of a foreign corporation authorized to transact business in the Commonwealth.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13.1-266, 13.1-271; 1956, c. 428; 1985, c. 522; 2007, c. 925.</history>
+</law>

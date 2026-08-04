@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="13" level="3">Support Proceeding Under Hague Convention</unit>
+	</structure>
+	<section_number>20-88.86</section_number>
+	<catch_line>Initiation by Department of Social Services of support proceeding under convention</catch_line>
+	<text>
+		<section prefix="A">In a support proceeding under this chapter, the Department of Social Services of the Commonwealth shall:
+			<section prefix="1">Transmit and receive applications; and
+			</section>
+			<section prefix="2">Initiate or facilitate the institution of a proceeding regarding an application in a tribunal of the Commonwealth.
+			</section>
+		</section>
+		<section prefix="B">The following support proceedings are available to an obligee under the Convention:
+			<section prefix="1">Recognition or recognition and enforcement of a foreign support order;
+			</section>
+			<section prefix="2">Enforcement of a support order issued or recognized in the Commonwealth;
+			</section>
+			<section prefix="3">Establishment of a support order if there is no existing order, including, if necessary, determination of parentage of a child;
+			</section>
+			<section prefix="4">Establishment of a support order if recognition of a foreign support order is refused under subdivision B 2, 4, or 9 of § 20-88.90;
+			</section>
+			<section prefix="5">Modification of a support order of a tribunal of the Commonwealth; and
+			</section>
+			<section prefix="6">Modification of a support order of a tribunal of another state or a foreign country.
+			</section>
+		</section>
+		<section prefix="C">The following support proceedings are available under the Convention to an obligor against which there is an existing support order:
+			<section prefix="1">Recognition of an order suspending or limiting enforcement of an existing support order of a tribunal of the Commonwealth;
+			</section>
+			<section prefix="2">Modification of a support order of a tribunal of the Commonwealth; and
+			</section>
+			<section prefix="3">Modification of a support order of a tribunal of another state or a foreign country.
+			</section>
+		</section>
+		<section prefix="D">A tribunal of the Commonwealth may not require security, bond, or deposit, however described, to guarantee the payment of costs and expenses in proceedings under the Convention.
+		</section>
+	</text>
+	<history>2015, c. 727.</history>
+</law>

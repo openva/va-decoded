@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="1" level="1">General Provisions</unit>
+		<unit label="chapter" identifier="6" level="2">Virginia Coordinate Systems</unit>
+	</structure>
+	<section_number>1-602</section_number>
+	<catch_line>(For contingent effective date, see Acts 2025, cc. 91 and 109, cl. 2) Designation of systems in land description</catch_line>
+	<text>
+		<section prefix="A">As established for use in the North Zone, the Virginia Coordinate System of 1927, the Virginia Coordinate System of 1983, or the Virginia Coordinate System of 2022 shall be named, and in any land description in which it is used, it shall be designated the "Virginia Coordinate System of 1927, North Zone," "Virginia Coordinate System of 1983, North Zone," or "Virginia Coordinate System of 2022, North Zone."
+		</section>
+		<section prefix="B">As established for use in the South Zone, the Virginia Coordinate System of 1927, the Virginia Coordinate System of 1983, or the Virginia Coordinate System of 2022 shall be named, and in any land description in which it is used, it shall be designated the "Virginia Coordinate System of 1927, South Zone," "Virginia Coordinate System of 1983, South Zone," or "Virginia Coordinate System of 2022, South Zone."
+		</section>
+	</text>
+	<history>1946, p. 167; Michie Suppl. 1946, § 2849(2); Code 1950, § 55-289; 1984, c. 726; 2019, c. 712; 2025, cc. 91, 109.</history>
+</law>

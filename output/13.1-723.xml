@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="13" level="3">Disposition of Assets</unit>
+	</structure>
+	<section_number>13.1-723</section_number>
+	<catch_line>Disposition of assets not requiring shareholder approval</catch_line>
+	<text>
+		Unless the articles of incorporation otherwise provide, no approval of the shareholders of a corporation is required:
+		<section prefix="1">To sell, lease, exchange, or otherwise dispose of any or all of the corporation's assets in the usual and regular course of business;
+		</section>
+		<section prefix="2">To mortgage, pledge, dedicate to the repayment of indebtedness, whether with or without recourse, or otherwise encumber any or all of the corporation's assets, whether or not in the usual and regular course of business;
+		</section>
+		<section prefix="3">To transfer any or all of the corporation's assets to one or more domestic or foreign corporations or eligible entities all the shares or interests of which are owned by the corporation; or
+		</section>
+		<section prefix="4">To distribute assets pro rata to the holders of one or more classes or series of the corporation's shares.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-83, 13-84, 13.1-77; 1954, c. 499; 1956, c. 428; 1968, c. 109; 1971, Ex. Sess., c. 117; 1975, c. 500; 1985, c. 522; 1994, c. 710; 2003, c. 728; 2005, c. 765; 2019, c. 734.</history>
+</law>

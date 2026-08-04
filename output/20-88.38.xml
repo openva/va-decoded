@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="3" level="3">Jurisdiction in Proceedings Involving Two or More States</unit>
+	</structure>
+	<section_number>20-88.38</section_number>
+	<catch_line>Simultaneous proceedings in another state</catch_line>
+	<text>
+		<section prefix="A">A tribunal of the Commonwealth may exercise jurisdiction to establish a support order if the petition or comparable pleading is filed after a pleading is filed in another state or foreign country only if:
+			<section prefix="1">The petition or comparable pleading in the Commonwealth is filed before the expiration of the time allowed in the other state or the foreign country for filing a responsive pleading challenging the exercise of jurisdiction by the other state or the foreign country;
+			</section>
+			<section prefix="2">The contesting party timely challenges the exercise of jurisdiction in the other state or the foreign country; and
+			</section>
+			<section prefix="3">If relevant, the Commonwealth is the home state of the child.
+			</section>
+		</section>
+		<section prefix="B">A tribunal of the Commonwealth may not exercise jurisdiction to establish a support order if the petition or comparable pleading is filed before a petition or comparable pleading is filed in another state or foreign country if:
+			<section prefix="1">The petition or comparable pleading in the other state or foreign country is filed before the expiration of the time allowed in the Commonwealth for filing a responsive pleading challenging the exercise of jurisdiction by the Commonwealth;
+			</section>
+			<section prefix="2">The contesting party timely challenges the exercise of jurisdiction in the Commonwealth; and
+			</section>
+			<section prefix="3">If relevant, the other state or foreign country is the home state of the child.
+			</section>
+		</section>
+	</text>
+	<history>1994, c. 673; 2015, c. 727.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="11" level="4">Accident Reports</unit>
+	</structure>
+	<section_number>46.2-382.1</section_number>
+	<catch_line>Courts to make findings relating to commercial motor vehicles</catch_line>
+	<text>
+		For the purpose of enforcing the Virginia Commercial Driver's License Act (§ 46.2-341.1 et seq.), in any case in which a person is charged with a violation of any law of the Commonwealth or of any ordinance of any county, city or town pertaining to the operator or operation of a motor vehicle, except parking violations, and the warrant or summons indicates that the motor vehicle so operated was a commercial motor vehicle as defined in the Virginia Commercial Driver's License Act, or that it was a commercial motor vehicle carrying hazardous materials as defined by the Virginia Commercial Driver's License Act, the court hearing such case shall make a finding, which shall be noted on the record, as to whether such vehicle was in fact a commercial motor vehicle and, if applicable, whether such vehicle was carrying hazardous materials.
+		If the offense charged is one in which operation of a commercial motor vehicle is an element of the offense, the conviction of the offense shall constitute the court's finding that the vehicle was a commercial motor vehicle, but a separate finding shall be made as to whether such vehicle was carrying hazardous materials, if applicable. If the offense charged is one in which operation of a commercial motor vehicle is not an element of the offense, then the court, after convicting the person charged, shall make a separate finding as to whether the vehicle was a commercial motor vehicle and, if applicable, whether it was carrying hazardous materials. The separate findings required by this section shall be noted on the conviction record, and the following procedures shall apply to such separate findings:
+		<section prefix="1">If the person charged prepays fines and costs pursuant to § 19.2-254.1, he shall be deemed to have admitted that such motor vehicle was a commercial motor vehicle and, if applicable, that it carried hazardous materials at the time of the violation, as indicated on the warrant or summons, and such admission or admissions shall be noted on the conviction record as the court's finding.
+		</section>
+		<section prefix="2">In all other cases, the Commonwealth shall have the burden of proving by a preponderance of the evidence that the vehicle was a commercial motor vehicle and, if applicable, that it carried hazardous materials.
+		</section>
+	</text>
+	<history>1989, c. 705, § 46.1-412.1.</history>
+</law>

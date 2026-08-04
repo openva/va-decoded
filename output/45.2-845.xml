@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="4" level="5">Ventilation, Mine Gases, and Other Hazardous Conditions</unit>
+	</structure>
+	<section_number>45.2-845</section_number>
+	<catch_line> Worked-out areas</catch_line>
+	<text>
+		<section prefix="A">Every worked-out area shall be either sealed or ventilated.
+		</section>
+		<section prefix="B">Where the practice is to seal worked-out areas, the sealing shall be done in accordance with sealing provisions of the approved bleeder plan.
+		</section>
+	</text>
+	<history>Code 1950, § 45-60.5; 1954, c. 191; 1966, c. 594, § 45.1-62; 1993, c. 442; 1994, c. 28, § 45.1-161.228; 1996, c. 774; 1999, c. 256; 2005, c. 3; 2021, Sp. Sess. I, c. 387.</history>
+</law>

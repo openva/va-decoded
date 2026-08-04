@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="1" level="2">General Provisions and Definitions</unit>
+	</structure>
+	<section_number>8.4-105</section_number>
+	<catch_line>"Bank"; "depositary bank"; "intermediary bank"; "collecting bank"; "payor bank"; "presenting bank."</catch_line>
+	<text>
+		In this title:
+		<section prefix="1">"Bank" means a person engaged in the business of banking, including a savings institution, credit union or trust company;
+		</section>
+		<section prefix="2">"Depositary bank" means the first bank to take an item even though it is also the payor bank, unless the item is presented for immediate payment over the counter;
+		</section>
+		<section prefix="3">"Payor bank" means a bank that is the drawee of a draft;
+		</section>
+		<section prefix="4">"Intermediary bank" means a bank to which an item is transferred in the course of collection except the depositary or payor bank;
+		</section>
+		<section prefix="5">"Collecting bank" means a bank handling an item for collection except the payor bank;
+		</section>
+		<section prefix="6">"Presenting bank" means a bank presenting an item except a payor bank.
+		</section>
+	</text>
+	<history>1964, c. 219; 1992, c. 693; 2010, c. 794.</history>
+</law>

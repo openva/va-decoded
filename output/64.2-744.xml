@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="5" level="4">Creditor's Claims; Spendthrift and Discretionary Trusts</unit>
+	</structure>
+	<section_number>64.2-744</section_number>
+	<catch_line>Exceptions to spendthrift provision</catch_line>
+	<text>
+		<section prefix="A">In this section, "child" includes any person for whom an order or judgment for child support has been entered in this or another state.
+		</section>
+		<section prefix="B">Even if a trust contains a spendthrift provision, a beneficiary's child who has a judgment or court order against the beneficiary for support or maintenance, or a judgment creditor who has provided services for the protection of a beneficiary's interest in the trust, may obtain from a court an order attaching present or future distributions to or for the benefit of the beneficiary.
+		</section>
+		<section prefix="C">Subject to the limitations of § 64.2-745, no spendthrift provision shall operate to the prejudice of the United States, the Commonwealth, or any county, city, or town.
+		</section>
+		<section prefix="D">A claimant against which a spendthrift provision cannot be enforced may obtain from a court an order attaching present or future distributions to or for the benefit of a beneficiary. The court may limit the award of such relief as is appropriate under the circumstances.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-545.03; 2007, c. 216; 2012, c. 614.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="6" level="4">General Provisions</unit>
+		<unit label="article" identifier="1" level="5">In General</unit>
+	</structure>
+	<section_number>2.2-610</section_number>
+	<catch_line>Furnishing copies of documents at no cost to law-enforcement officials</catch_line>
+	<text>
+		All agencies and instrumentalities of the Commonwealth shall provide, at no cost, copies of documents requested by the Department of State Police or other law-enforcement officers as part of an active criminal investigation.
+		"Law-enforcement officer" means the same as that term is defined in § 9.1-101.
+	</text>
+	<history>1997, c. 44, § 2.1-2.2; 2001, c. 844.</history>
+</law>

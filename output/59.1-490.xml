@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="42.1" level="2">Uniform Electronic Transactions Act</unit>
+	</structure>
+	<section_number>59.1-490</section_number>
+	<catch_line>Retention of electronic record</catch_line>
+	<text>
+		<section prefix="a">If a law requires that a record be retained, the requirement is satisfied by retaining an electronic record of the information in the record which:
+			<section prefix="1">Accurately reflects the information set forth in the record at the time and after it was first generated in its final form as an electronic record or otherwise; and
+			</section>
+			<section prefix="2">Remains accessible for later reference.
+			</section>
+		</section>
+		<section prefix="b">A requirement to retain a record in accordance with subsection (a) does not apply to any information the sole purpose of which is to enable the record to be sent, communicated, or received.
+		</section>
+		<section prefix="c">A person may satisfy subsection (a) by using the services of another person if the requirements of that subsection are satisfied.
+		</section>
+		<section prefix="d">If a law requires a record to be presented or retained in its original form, or provides consequences if the record is not presented or retained in its original form, that law is satisfied by an electronic record retained in accordance with subsection (a).
+		</section>
+		<section prefix="e">If a law requires retention of a check, that requirement is satisfied by retention of an electronic record of the information on the front and back of the check in accordance with subsection (a).
+		</section>
+		<section prefix="f">A record retained as an electronic record in accordance with subsection A satisfies a law requiring a person to retain a record for evidentiary, audit, or like purposes, unless a law enacted after the effective date of this chapter specifically prohibits the use of an electronic record for the specified purpose.
+		</section>
+		<section prefix="g">This section does not preclude a public body of the Commonwealth from specifying additional requirements for the retention of a record subject to such public body's jurisdiction.
+		</section>
+	</text>
+	<history>2000, c. 995.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="8" level="3">Banks</unit>
+		<unit label="article" identifier="6" level="4">Interstate Branching</unit>
+	</structure>
+	<section_number>6.2-842</section_number>
+	<catch_line>Powers</catch_line>
+	<text>
+		<section prefix="A">An out-of-state state bank that establishes and maintains one or more branches in the Commonwealth under this article may conduct the same activities at such branch or branches that are authorized under Virginia law for Virginia state banks, except to the extent such activities may be prohibited by other laws, regulations, or orders applicable to the out-of-state state bank.
+		</section>
+		<section prefix="B">A Virginia state bank may conduct the same activities at a branch outside the Commonwealth that are permissible for a bank chartered by the host state where the branch is located, except to the extent such activities are expressly prohibited by other laws, regulations, or orders applicable to the Virginia state bank.
+		</section>
+		<section prefix="C">A bank shall not establish or maintain a branch in the Commonwealth on the premises or property of an affiliate if the affiliate engages in commercial activities.
+		</section>
+	</text>
+	<history>1995, c. 301, § 6.1-44.8; 2007, c. 1; 2010, c. 794.</history>
+</law>

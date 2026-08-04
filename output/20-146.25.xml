@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="3" level="3">Enforcement</unit>
+	</structure>
+	<section_number>20-146.25</section_number>
+	<catch_line>Temporary visitation</catch_line>
+	<text>
+		<section prefix="A">A court of this Commonwealth that does not have jurisdiction to modify a child custody determination may issue a temporary order enforcing:
+			<section prefix="1">A visitation schedule made by a court of another state; or
+			</section>
+			<section prefix="2">The visitation provisions of a child custody determination of another state that does not provide for a specific visitation schedule.
+			</section>
+		</section>
+		<section prefix="B">If a court of this Commonwealth makes an order under subdivision A 2, it shall specify in the order a period that it considers adequate to allow the petitioner to obtain an order from a court having jurisdiction under the criteria specified in Article 2 (§ 20-146.12 et seq.) of this chapter. The order remains in effect until an order is obtained from the other court or the period expires.
+		</section>
+	</text>
+	<history>2001, c. 305.</history>
+</law>

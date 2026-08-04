@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="3" level="3">Reserves</unit>
+	</structure>
+	<section_number>38.2-1314</section_number>
+	<catch_line>Loss or claim reserves</catch_line>
+	<text>
+		Except as provided in §§ 38.2-1311 and 38.2-4609, each insurer licensed to transact the business of insurance in this Commonwealth shall maintain reserves:
+		<section prefix="1">In an amount estimated in the aggregate as being sufficient to provide for reported and unreported unpaid losses or claims arising on or prior to the date of any annual or other statement for which the insurer may be liable;
+		</section>
+		<section prefix="2">In an amount estimated to provide for loss adjustment expenses; and
+		</section>
+		<section prefix="3">For those classes of insurance specified by the Commission, any additional reserves for unpaid losses, policy obligations, or deficiencies in the unearned premium reserve as required by the Commission. Each insurer authorized to write these classes of insurance shall file with its annual statement, schedules of its experience for such insurance in the form the Commission requires and shall calculate the reserves required by this paragraph in the manner prescribed by the Commission.
+		</section>
+	</text>
+	<history>Code 1950, §§ 38-229 through 38-232; 1952, c. 317, § 38.1-173; 1982, c. 430; 1986, c. 562; 1994, c. 503.</history>
+</law>

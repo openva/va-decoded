@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="27" level="3">Uniform Powers of Appointment Act</unit>
+		<unit label="article" identifier="2" level="4">Creation, Revocation, and Amendment of Power of Appointment</unit>
+	</structure>
+	<section_number>64.2-2707</section_number>
+	<catch_line>Creation of power of appointment</catch_line>
+	<text>
+		<section prefix="A">A power of appointment is created only if:
+			<section prefix="1">The instrument creating the power:
+				a. Is valid under applicable law; and
+				b. Except as otherwise provided in subsection B, transfers the appointive property; and
+			</section>
+			<section prefix="2">The terms of the instrument creating the power manifest the donor's intent to create in a powerholder a power of appointment over the appointive property exercisable in favor of a permissible appointee.
+			</section>
+		</section>
+		<section prefix="B">Subdivision A 1 b does not apply to the creation of a power of appointment by the exercise of a power of appointment.
+		</section>
+		<section prefix="C">A power of appointment may not be created in a deceased individual.
+		</section>
+		<section prefix="D">Subject to an applicable rule against perpetuities, a power of appointment may be created in an unborn or unascertained powerholder.
+		</section>
+	</text>
+	<history>2016, c. 266.</history>
+</law>

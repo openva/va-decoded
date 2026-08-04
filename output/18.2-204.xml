@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="6" level="2">Crimes Involving Fraud</unit>
+		<unit label="article" identifier="7" level="3">Miscellaneous False and Fraudulent Acts</unit>
+	</structure>
+	<section_number>18.2-204</section_number>
+	<catch_line>False statement for the purpose of defrauding industrial sick benefit company</catch_line>
+	<text>
+		Any agent, physician or other person who shall knowingly or willfully make any false or fraudulent statement or representation of any material fact:
+		<section prefix="1">In or with reference to any application for insurance in any industrial sick benefit company licensed, or which may be licensed, to do business in this Commonwealth,
+		</section>
+		<section prefix="2">As to the death or disability of a policy or certificate holder in any such company,
+		</section>
+		<section prefix="3">For the purpose of procuring or attempting to procure the payment of any false or fraudulent claim against any such company, or
+		</section>
+		<section prefix="4">For the purpose of obtaining or attempting to obtain any money from or benefit in any such company,
+			shall be guilty of a Class 3 misdemeanor.
+			Any such person who shall willfully make a false statement of any material fact or thing in a sworn statement as to the death or disability of a policy or certificate holder in any such company for the purpose of procuring payment of a benefit named in the policy or certificate of such holder, shall be guilty of perjury, and shall be proceeded against and punished as provided by the statutes of this Commonwealth in relation to the crime of perjury.
+		</section>
+	</text>
+	<history>Code 1950, § 18.1-122; 1960, c. 358; 1975, cc. 14, 15.</history>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="2" level="3">Virginia Voter Registration System</unit>
+	</structure>
+	<section_number>24.2-408</section_number>
+	<catch_line>State Registrar of Vital Records to transmit weekly lists of decedents to Department of Elections</catch_line>
+	<text>
+		The State Registrar of Vital Records shall transmit to the Department of Elections by electronic means a weekly list of all persons 17 years of age or older who have died in the Commonwealth subsequent to its previous weekly list. The lists shall be in a format specified by the Department and shall contain the deceased's name; address; county, city, or town of residence; social security number, if any; and date and place of his birth and of his death. The Department shall maintain a permanent record of the information in the lists as part of the voter registration system, and the general registrars shall use the information in the lists to carry out their duties pursuant to § 24.2-427. Information in the lists shall be confidential and consistent with the requirements of § 32.1-271.
+	</text>
+	<history>1970, c. 462, § 24.1-25; 1972, c. 620; 1975, c. 515; 1993, c. 641; 1999, c. 117; 2015, c. 740; 2022, cc. 4, 28.</history>
+</law>

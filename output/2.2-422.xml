@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="3" level="5">Registration of Lobbyists</unit>
+	</structure>
+	<section_number>2.2-422</section_number>
+	<catch_line>Registration requirements</catch_line>
+	<text>
+		<section prefix="A">A lobbyist shall register with the Secretary of the Commonwealth prior to engaging in lobbying. A lobbyist who engages in lobbying entirely outside the capital city shall comply with this section by registering with the Secretary within fifteen days after first engaging in lobbying. Registration shall be required annually and expire May 1 of each year.
+		</section>
+		<section prefix="B">The chief administrative officer of each local government shall register with the Secretary of the Commonwealth and file a statement pursuant to § 2.2-423 if any local government employees will act as lobbyists on its behalf. No registration fee shall be required. Each local government shall file a consolidated report in accordance with the reporting requirements of § 2.2-426 and shall maintain locally a copy of the report that is available for inspection and copying during regular business hours.
+		</section>
+		<section prefix="C">All registrations required by this section shall be filed electronically in accordance with the standards approved by the Council.
+		</section>
+	</text>
+	<history>1994, cc. 857, 937, § 2.1-782; 2001, c. 844; 2017, cc. 829, 832.</history>
+</law>

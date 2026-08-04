@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="C" level="3">Surface Coal Mines</unit>
+		<unit label="chapter" identifier="9" level="4">Requirements Applicable to Surface Coal Mines</unit>
+		<unit label="article" identifier="12" level="5">Auger and Highwall Mining</unit>
+	</structure>
+	<section_number>45.2-935</section_number>
+	<catch_line> Inspection of electric equipment and wiring; checking and testing methane monitors</catch_line>
+	<text>
+		Electric equipment and wiring that extends to an underground area shall be inspected by a certified person at least once a week and more often if necessary to ensure safe operating conditions. Any hazardous condition found shall be corrected or the equipment or wiring shall be removed from service. Such surface inspection is also required for any trailing cable or circuit breaker used in conjunction with such equipment and wiring.
+	</text>
+	<history>1966, c. 594, § 45.1-85; 1978, c. 118; 1993, c. 442; 1994, c. 28, § 45.1-161.288; 2005, c. 3; 2011, cc. 826, 862; 2021, Sp. Sess. I, c. 387.</history>
+</law>

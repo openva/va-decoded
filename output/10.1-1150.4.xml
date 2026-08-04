@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="11" level="3">Forest Resources and the Department of Forestry</unit>
+		<unit label="article" identifier="6.1" level="4">Certified Prescribed Burning Manager Program</unit>
+	</structure>
+	<section_number>10.1-1150.4</section_number>
+	<catch_line>Prescribed burn elements</catch_line>
+	<text>
+		Prescribed burning shall be performed in the following manner:
+		<section prefix="1">A prescription for the prescribed burn shall be prepared by a certified prescribed burn manager prior to the burn. The prescription shall include: (i) the landowner's name, address, and telephone number, and the telephone number of the certified prescribed burn manager who prepared the plan; (ii) a description of the area to be burned, a map of the area to be burned, the objectives of the prescribed burn, and the desired weather conditions or parameters; (iii) a summary of the methods to be used to start, control, and extinguish the prescribed burn; and (iv) a smoke management plan. The smoke management plan shall be based on guidelines presented in the Virginia Department of Forestry publication, "Voluntary Smoke Management Guidelines for Virginia," and the U.S. Forest Service's technical publication, "A Guide to Prescribed Fire in Southern Forests." A copy of the prescription shall be retained at the site throughout the period of the burning;
+		</section>
+		<section prefix="2">Prescribed burning shall be conducted under the direct supervision of a certified prescribed burn manager, who shall ensure that the prescribed burning is in accordance with the prescription; and
+		</section>
+		<section prefix="3">The nearest regional office of the Virginia Department of Forestry shall be notified prior to the burn.
+		</section>
+	</text>
+	<history>1998, c. 156.</history>
+</law>

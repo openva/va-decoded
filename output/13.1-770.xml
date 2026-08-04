@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="18" level="3">Records and Reports</unit>
+	</structure>
+	<section_number>13.1-770</section_number>
+	<catch_line>Corporate records</catch_line>
+	<text>
+		<section prefix="A">A corporation shall keep as permanent records minutes of all meetings of its shareholders and board of directors, a record of all actions taken by the shareholders or board of directors without a meeting, and a record of all actions taken by a committee of the board of directors in place of the board of directors on behalf of the corporation.
+		</section>
+		<section prefix="B">A corporation shall maintain accounting records in a form that permits preparation of its financial statements.
+		</section>
+		<section prefix="C">A corporation shall maintain a record of its current shareholders in alphabetical order by class and series, if any, of shares showing the address of, and the number and class and series, if any, of shares held by each shareholder. The foregoing shall not require the corporation to maintain, as part of such record of shareholders, beneficial owners whose shares are held by a nominee on the shareholder's behalf except to the extent that the corporation has established and maintains a procedure for registration of such rights under § 13.1-664. Nothing contained in this subsection shall require the corporation to include in such record the electronic mail address or other electronic contact information of a shareholder.
+		</section>
+		<section prefix="D">A corporation shall maintain its records in the form of a document, including an electronic record, or in another form capable of conversion into paper form within a reasonable time.
+		</section>
+		<section prefix="E">A corporation shall maintain the following records:
+			<section prefix="1">A copy of its articles of incorporation as currently in effect, and any notices to shareholders referred to in subdivision L 5 of § 13.1-604 specifying facts on which a filed document is dependent if those facts are not included in the articles of incorporation or otherwise available as specified in subdivision L 5 of § 13.1-604;
+			</section>
+			<section prefix="2">Its bylaws as currently in effect;
+			</section>
+			<section prefix="3">Resolutions adopted by its board of directors creating one or more classes or series of shares, and fixing their relative rights, preferences, and limitations, if shares issued pursuant to those resolutions are outstanding;
+			</section>
+			<section prefix="4">The minutes of all shareholders' meetings, and records of all action taken by shareholders without a meeting, for the past three years;
+			</section>
+			<section prefix="5">All written communications within the past three years to shareholders generally, including the financial statements furnished for the past three years under § 13.1-774;
+			</section>
+			<section prefix="6">A list of the names and business addresses of its current directors and officers; and
+			</section>
+			<section prefix="7">A copy of its most recent annual report filed with the Commission under § 13.1-775.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-47; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2005, c. 765; 2008, c. 91; 2010, c. 782; 2019, c. 734.</history>
+</law>

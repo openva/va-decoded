@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="27" level="3">Uniform Powers of Appointment Act</unit>
+		<unit label="article" identifier="3" level="4">Exercise of Power of Appointment</unit>
+	</structure>
+	<section_number>64.2-2726</section_number>
+	<catch_line>Powerholder's authority to revoke or amend exercise</catch_line>
+	<text>
+		A powerholder may revoke or amend an exercise of a power of appointment only to the extent that:
+		<section prefix="1">The powerholder reserves a power of revocation or amendment in the instrument exercising the power of appointment, and if the power is nongeneral, the terms of the instrument creating the power of appointment do not prohibit the reservation; or
+		</section>
+		<section prefix="2">The terms of the instrument creating the power of appointment provide that the exercise is revocable or amendable.
+		</section>
+	</text>
+	<history>2016, c. 266.</history>
+</law>

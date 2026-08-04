@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="1" level="1">General Provisions</unit>
+		<unit label="chapter" identifier="2.1" level="2">Common Law and Rules of Construction</unit>
+		<unit label="article" identifier="2" level="3">Rules of Construction and Definitions</unit>
+	</structure>
+	<section_number>1-208</section_number>
+	<catch_line>City</catch_line>
+	<text>
+		"City" means an independent incorporated community which became a city as provided by law before noon on July 1, 1971, or which has within defined boundaries a population of 5,000 or more and which has become a city as provided by law.
+	</text>
+	<history>Code 1919, § 5; Code 1950, § 1-13; 1950, p. 21; 1971, Ex. Sess., c. 49, § 1-13.2; 1995, c. 155; 2005, c. 839.</history>
+</law>

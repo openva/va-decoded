@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="13" level="2">Reports, Reserves and Examinations, Insurance Holding Companies, Reinsurance Intermediaries, and Managing General Agents</unit>
+		<unit label="article" identifier="10" level="3">Standard Valuation</unit>
+	</structure>
+	<section_number>38.2-1374</section_number>
+	<catch_line>Minimum reserves</catch_line>
+	<text>
+		<section prefix="A">In no event shall an insurer's aggregate reserves for all life insurance policies, excluding disability and accidental death benefits, be less than the aggregate reserves calculated in accordance with the methods set forth in §§ 38.2-1372, 38.2-1373, 38.2-1376, and 38.2-1377 and the mortality table or tables and rate or rates of interest used in calculating nonforfeiture benefits for those policies.
+		</section>
+		<section prefix="B">In no event shall the aggregate reserves for all policies, contracts, and benefits be less than the aggregate reserves determined by the appointed actuary to be necessary to render the opinion required by § 38.2-1367.
+		</section>
+	</text>
+	<history>2014, c. 571.</history>
+</law>

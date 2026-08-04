@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="17" level="3">Miscellaneous Taxes</unit>
+		<unit label="article" identifier="9" level="4">Virginia Motor Vehicle Rental Tax</unit>
+	</structure>
+	<section_number>58.1-1737</section_number>
+	<catch_line>Exemptions</catch_line>
+	<text>
+		No tax shall be imposed as provided in § 58.1-1736 if the vehicle is:
+		<section prefix="1">Rented by the United States government or any governmental agency thereof;
+		</section>
+		<section prefix="2">Rented by the Commonwealth of Virginia or any political subdivision thereof;
+		</section>
+		<section prefix="3">A self-contained mobile computerized axial tomography scanner rented by a nonprofit hospital or a cooperative hospital service organization as described in § 501(e) of the Internal Revenue Code;
+		</section>
+		<section prefix="4">A self-contained mobile unit designed exclusively for human diagnostic or therapeutic service, rented to a nonprofit hospital or a cooperative hospital service organization as described in § 501(e) of the Internal Revenue Code, or a nonprofit corporation as defined in § 501(c)(3) of the Internal Revenue Code, established for research in, diagnosis of, or therapy for human ailments; or
+		</section>
+		<section prefix="5">A truck, tractor truck, trailer, or semitrailer, as severally defined in § 46.2-100, except trailers and semitrailers not designed or used to carry property and vehicles registered under § 46.2-700, with a gross vehicle weight rating or gross combination weight rating of 26,001 pounds or more, in which case no tax shall be imposed pursuant to subdivision A 1 of § 58.1-1736.
+		</section>
+	</text>
+	<history>2011, cc. 405, 639.</history>
+</law>

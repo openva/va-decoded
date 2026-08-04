@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3407.20</section_number>
+	<catch_line>Calculation of enrollee's contribution to out-of-pocket maximum or cost-sharing requirement</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Carrier" shall have the meaning set forth in § 38.2-3407.10; however, "carrier" also includes any person required to be licensed under this title that offers or operates a managed care health insurance plan subject to Chapter 58 (§ 38.2-5800 et seq.) or that provides or arranges for the provision of health care services, health plans, networks, or provider panels that are subject to regulation as the business of insurance under this title.
+			"Cost sharing" means any coinsurance, copayment, or deductible.
+			"Enrollee" means any person entitled to health care services from a carrier.
+			"Health care services" means items or services furnished to any individual for the purpose of preventing, alleviating, curing, or healing human illness, injury, or physical disability.
+			"Health plan" means any individual or group health care plan, subscription contract, evidence of coverage, certificate, health services plan, medical or hospital services plan, accident and sickness insurance policy or certificate, managed care health insurance plan, or other similar certificate, policy, contract, or arrangement, and any endorsement or rider thereto, to cover all or a portion of the cost of persons receiving covered health care services, that is subject to state regulation and that is required to be offered, arranged, or issued in the Commonwealth by a carrier licensed under this title. "Health plan" does not mean (i) coverages issued pursuant to Title XVIII of the Social Security Act, 42 U.S.C. § 1395 et seq. (Medicare), Title XIX of the Social Security Act, 42 U.S.C. § 1396 et seq. (Medicaid) or Title XXI of the Social Security Act, 42 U.S.C. § 1397aa et seq. (CHIP), 5 U.S.C. § 8901 et seq. (federal employees), or 10 U.S.C. § 1071 et seq. (TRICARE); or (ii) accident only, credit or disability insurance, long-term care insurance, TRICARE supplement, Medicare supplement, or workers' compensation coverages.
+		</section>
+		<section prefix="B">To the extent permitted by federal law and regulation and except as provided in subsection C, when calculating an enrollee's overall contribution to any out-of-pocket maximum or any cost-sharing requirement under a health plan, a carrier shall include any amounts paid by the enrollee or paid on behalf of the enrollee by another person.
+		</section>
+		<section prefix="C">If the application of the provisions of subsection B would result in a health plan's ineligibility to qualify as a Health Savings Account-qualified High Deductible Health Plan under 26 U.S.C. § 223, then the requirements of subsection B shall not apply with respect to the deductible of such health plan until after the enrollee has satisfied the minimum deductible under 26 U.S.C § 223. However, with respect to items or services that are preventive care pursuant to 26 U.S.C. § 223 (c)(2)(C), the provisions of subsection B shall apply regardless of whether the minimum deductible under 26 U.S.C. § 223 has been satisfied.
+		</section>
+		<section prefix="D">This section shall apply with respect to health plans that are entered into, amended, extended, or renewed on or after January 1, 2020.
+		</section>
+		<section prefix="E">Pursuant to the authority granted by § 38.2-223, the Commission may promulgate such rules and regulations as it may deem necessary to implement this section.
+		</section>
+	</text>
+	<history>2019, cc. 661, 662; 2022, cc. 133, 134.</history>
+</law>

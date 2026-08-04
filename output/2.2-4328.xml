@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4328</section_number>
+	<catch_line>Preference for local products and firms; applicability</catch_line>
+	<text>
+		<section prefix="A">The governing body of a county, city or town may, in the case of a tie bid, give preference to goods, services and construction produced in such locality or provided by persons, firms or corporations having principal places of business in the locality, if such a choice is available; otherwise the tie shall be decided by lot, unless § 2.2-4324 applies.
+		</section>
+		<section prefix="B">The provisions of this section shall apply only to bids submitted pursuant to a written Invitation to Bid.
+		</section>
+	</text>
+	<history>1994, c. 882, § 11-47.4; 2001, c. 844.</history>
+</law>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="3" level="4">Unitrust</unit>
+	</structure>
+	<section_number>64.2-1047</section_number>
+	<catch_line>Special tax benefits; other rules</catch_line>
+	<text>
+		<section prefix="A">A unitrust policy may:
+			<section prefix="1">Provide methods and standards for:
+				a. Determining the timing of distributions;
+				b. Making distributions in cash or in kind or partly in cash and partly in kind; or
+				c. Correcting an underpayment or overpayment to a beneficiary based on the unitrust amount if there is an error in calculating the unitrust amount;
+			</section>
+			<section prefix="2">Specify sources and the order of sources, including categories of income for federal income tax purposes, from which distributions of a unitrust amount are paid; or
+			</section>
+			<section prefix="3">Provide other standards and rules the fiduciary determines serve the interests of the beneficiaries.
+			</section>
+		</section>
+		<section prefix="B">If a trust qualifies for a special tax benefit or a fiduciary is not an independent person:
+			<section prefix="1">The unitrust rate established under § 64.2-1044 may not be less than three percent or more than five percent;
+			</section>
+			<section prefix="2">The only provisions of § 64.2-1045 that apply are subsection A and subdivisions B 1, B 4, B 5 a, and B 9 of § 64.2-1045;
+			</section>
+			<section prefix="3">The only period that may be used under § 64.2-1046 is a calendar year under subdivision A 1 of § 64.2-1046; and
+			</section>
+			<section prefix="4">The only other provisions of § 64.2-1046 that apply are subdivisions B 2 a and B 3 of § 64.2-1046.
+			</section>
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

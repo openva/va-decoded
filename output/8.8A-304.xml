@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="3" level="2">Transfer of Certificated and Uncertificated Securities</unit>
+	</structure>
+	<section_number>8.8A-304</section_number>
+	<catch_line>Endorsement</catch_line>
+	<text>
+		<section prefix="a">An endorsement may be in blank or special. An endorsement in blank includes an endorsement to bearer. A special endorsement specifies to whom a security is to be transferred or who has power to transfer it. A holder may convert a blank endorsement to a special endorsement.
+		</section>
+		<section prefix="b">An endorsement purporting to be only of part of a security certificate representing units intended by the issuer to be separately transferable is effective to the extent of the endorsement.
+		</section>
+		<section prefix="c">An endorsement, whether special or in blank, does not constitute a transfer until delivery of the certificate on which it appears or, if the endorsement is on a separate document, until delivery of both the document and the certificate.
+		</section>
+		<section prefix="d">If a security certificate in registered form has been delivered to a purchaser without a necessary endorsement, the purchaser may become a protected purchaser only when the endorsement is supplied. However, against a transferor, a transfer is complete upon delivery and the purchaser has a specifically enforceable right to have any necessary endorsement supplied.
+		</section>
+		<section prefix="e">An endorsement of a security certificate in bearer form may give notice of an adverse claim to the certificate, but it does not otherwise affect a right to registration that the holder possesses.
+		</section>
+		<section prefix="f">Unless otherwise agreed, a person making an endorsement assumes only the obligations provided in § 8.8A-108 and not an obligation that the security will be honored by the issuer.
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

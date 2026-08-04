@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="B" level="3">Powers of Attorney</unit>
+		<unit label="chapter" identifier="16" level="4">Uniform Power of Attorney Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>64.2-1613</section_number>
+	<catch_line>Exoneration of agent</catch_line>
+	<text>
+		A provision in a power of attorney relieving an agent of liability for breach of duty is binding on the principal and the principal's successors in interest except to the extent the provision:
+		<section prefix="1">Relieves the agent of liability for breach of duty committed dishonestly, with an improper motive, or with reckless indifference to the purposes of the power of attorney or the best interest of the principal; or
+		</section>
+		<section prefix="2">Was inserted as a result of an abuse of a confidential or fiduciary relationship with the principal.
+		</section>
+	</text>
+	<history>2010, cc. 455, 632, § 26-86; 2012, c. 614.</history>
+</law>

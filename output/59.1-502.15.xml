@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="2" level="3">Formation and Terms</unit>
+	</structure>
+	<section_number>59.1-502.15</section_number>
+	<catch_line>Electronic message; when effective; effect of acknowledgment</catch_line>
+	<text>
+		<section prefix="a">Receipt of an electronic message is effective when properly addressed and received.
+		</section>
+		<section prefix="b">Receipt of an electronic acknowledgment of an electronic message establishes that the message was received but by itself does not establish that the content sent corresponds to the content received.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="39" level="2">Mutual Assessment Life, Accident and Sickness Insurers</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3902</section_number>
+	<catch_line>Classes of insurance that may be written by mutual assessment life, accident and sickness insurers</catch_line>
+	<text>
+		The following classes of insurance can be written by mutual assessment life, accident and sickness insurers:
+		Category A
+		<section prefix="1">Life insurance as defined in § 38.2-102;
+		</section>
+		<section prefix="2">Industrial life insurance as defined in § 38.2-104; and
+		</section>
+		<section prefix="3">Accident and sickness insurance as defined in § 38.2-109 except Medicare supplement insurance as defined in § 38.2-3600.
+			Category B
+		</section>
+		<section prefix="1">Credit life insurance as defined in § 38.2-103;
+		</section>
+		<section prefix="2">Variable life insurance as defined in § 38.2-105;
+		</section>
+		<section prefix="3">Credit accident and sickness insurance as defined in § 38.2-108; and
+		</section>
+		<section prefix="4">Medicare supplement insurance as defined in § 38.2-3600.
+			Category C
+		</section>
+		<section prefix="1">Annuities as defined in § 38.2-106; and
+		</section>
+		<section prefix="2">Variable annuities as defined in § 38.2-107.
+		</section>
+	</text>
+	<history>1985, c. 400, § 38.1-549.3; 1986, c. 562.</history>
+</law>

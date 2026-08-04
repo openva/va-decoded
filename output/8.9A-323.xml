@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="3" level="3">Priority</unit>
+	</structure>
+	<section_number>8.9A-323</section_number>
+	<catch_line>Future advances</catch_line>
+	<text>
+		<section prefix="a">When priority based on time of advance. Except as otherwise provided in subsection (c), for purposes of determining the priority of a perfected security interest under § 8.9A-322 (a) (1), perfection of the security interest dates from the time an advance is made to the extent that the security interest secures an advance that:
+			<section prefix="1">is made while the security interest is perfected only:
+			</section>
+		</section>
+		<section prefix="A">under § 8.9A-309 when it attaches; or
+		</section>
+		<section prefix="B">temporarily under § 8.9A-312 (e), (f), or (g); and
+			<section prefix="2">is not made pursuant to a commitment entered into before or while the security interest is perfected by a method other than under § 8.9A-309 or § 8.9A-312 (e), (f), or (g).
+			</section>
+		</section>
+		<section prefix="b">Lien creditor. Except as otherwise provided in subsection (c), a security interest is subordinate to the rights of a person that becomes a lien creditor to the extent that the security interest secures an advance made more than forty-five days after the person becomes a lien creditor unless the advance is made:
+			<section prefix="1">without knowledge of the lien; or
+			</section>
+			<section prefix="2">pursuant to a commitment entered into without knowledge of the lien.
+			</section>
+		</section>
+		<section prefix="c">Buyer of receivables. Subsections (a) and (b) do not apply to a security interest held by a secured party that is a buyer of accounts, chattel paper, payment intangibles, or promissory notes or a consignor.
+		</section>
+		<section prefix="d">Buyer of goods. Except as otherwise provided in subsection (e), a buyer of goods takes free of a security interest to the extent that it secures advances made after the earlier of:
+			<section prefix="1">the time the secured party acquires knowledge of the buyer's purchase; or
+			</section>
+			<section prefix="2">forty-five days after the purchase.
+			</section>
+		</section>
+		<section prefix="e">Advances made pursuant to commitment; priority of buyer of goods. Subsection (d) does not apply if the advance is made pursuant to a commitment entered into without knowledge of the buyer's purchase and before the expiration of the forty-five day period.
+		</section>
+		<section prefix="f">Lessee of goods. Except as otherwise provided in subsection (g), a lessee of goods takes the leasehold interest free of a security interest to the extent that it secures advances made after the earlier of:
+			<section prefix="1">the time the secured party acquires knowledge of the lease; or
+			</section>
+			<section prefix="2">forty-five days after the lease contract becomes enforceable.
+			</section>
+		</section>
+		<section prefix="g">Advances made pursuant to commitment: priority of lessee of goods. Subsection (f) does not apply if the advance is made pursuant to a commitment entered into without knowledge of the lease and before the expiration of the forty-five day period.
+		</section>
+	</text>
+	<history>Code 1950, § 43-27; 1964, c. 219, §§ 8.9-301, 8.9-307, 8.9-312; 1966, c. 557; 1973, c. 509; 1983, c. 204; 1984, c. 613; 1991, c. 536, § 8.2A-307; 1996, c. 216; 2000, c. 1007; 2024, c. 652.</history>
+</law>

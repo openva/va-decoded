@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.6</section_number>
+	<catch_line>Copy; delivery; tender of delivery</catch_line>
+	<text>
+		<section prefix="a">Delivery of a copy must be at the location designated by agreement. In the absence of a designation, the following rules apply:
+			<section prefix="1">The place for delivery of a copy on a tangible medium is the tendering party's place of business or, if it has none, its residence. However, if the parties know at the time of contracting that the copy is located in some other place, that place is the place for delivery.
+			</section>
+			<section prefix="2">The place for electronic delivery of a copy is an information processing system designated or used by the licensor.
+			</section>
+			<section prefix="3">Documents of title may be delivered through customary banking channels.
+			</section>
+		</section>
+		<section prefix="b">Tender of delivery of a copy requires the tendering party to put and hold a conforming copy at the other party's disposition and give the other party any notice reasonably necessary to enable it to obtain access to, control, or possession of the copy. Tender must be at a reasonable hour and, if applicable, requires tender of access material and other documents required by the agreement. The party receiving tender shall furnish facilities reasonably suited to receive tender. In addition, the following rules apply:
+			<section prefix="1">If the contract requires delivery of a copy held by a third person without being moved, the tendering party shall tender access material or documents required by the agreement.
+			</section>
+			<section prefix="2">If the tendering party is required or authorized to send a copy to the other party and the contract does not require the tendering party to deliver the copy at a particular destination, the following rules apply:
+			</section>
+		</section>
+		<section prefix="A">In tendering delivery of a copy on a tangible medium, the tendering party shall put the copy in the possession of a carrier and make a contract for its transportation that is reasonable in light of the nature of the information and other circumstances, with expenses of transportation to be borne by the receiving party.
+		</section>
+		<section prefix="B">In tendering electronic delivery of a copy, the tendering party shall initiate or cause to have initiated a transmission that is reasonable in light of the nature of the information and other circumstances, with expenses of transmission to be borne by the receiving party.
+			<section prefix="3">If the tendering party is required to deliver a copy at a particular destination, the tendering party shall make a copy available at that destination and bear the expenses of transportation or transmission.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

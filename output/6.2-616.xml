@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="6" level="3">Deposits and Accounts</unit>
+		<unit label="article" identifier="2" level="4">Multiple-Party Accounts</unit>
+	</structure>
+	<section_number>6.2-616</section_number>
+	<catch_line>Discharge of financial institution upon payment</catch_line>
+	<text>
+		<section prefix="A">Payment made pursuant to §§ 6.2-612 through 6.2-615 discharges the financial institution from all claims for amounts so paid whether or not the payment is consistent with the beneficial ownership of the account as between parties, P.O.D. payees, beneficiaries, or fiduciaries, or their successors.
+		</section>
+		<section prefix="B">The discharge provided by subsection A does not extend to payments made after a financial institution has received written notice from any party able to request present payment to the effect that withdrawals in accordance with the terms of the account should not be permitted. Unless the notice is withdrawn by the person giving it, or the successor of any deceased party has concurred in any demand for withdrawal, a discharge provided by subsection A shall not apply to withdrawals permitted by the financial institution.
+		</section>
+		<section prefix="C">No other notice or any other information shown to have been available to a financial institution shall affect its right to the discharge provided by subsection A. The discharge provided by subsection A shall have no bearing on the rights of parties in disputes between themselves or their successors concerning the beneficial ownership of funds in, or withdrawn from, multiple-party accounts or multiple-fiduciary accounts.
+		</section>
+		<section prefix="D">If any party, or the personal representative of any party, notifies the financial institution in writing not to permit withdrawals by any party, the financial institution may refuse, without liability, to allow any withdrawal pending the determination of the rights of the parties.
+		</section>
+	</text>
+	<history>1979, c. 407, § 6.1-125.13; 2010, c. 794; 2020, c. 259.</history>
+</law>

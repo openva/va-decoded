@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2A" level="1">Commercial Code — Leases</unit>
+		<unit label="part" identifier="5" level="2">Default</unit>
+		<unit label="article" identifier="C" level="3">Default by Lessee</unit>
+	</structure>
+	<section_number>8.2A-526</section_number>
+	<catch_line>Lessor's stoppage of delivery in transit or otherwise</catch_line>
+	<text>
+		<section prefix="1">A lessor may stop delivery of goods in the possession of a carrier or other bailee if the lessor discovers the lessee to be insolvent and may stop delivery of carload, truckload, planeload, or larger shipments of express or freight if the lessee repudiates or fails to make a payment due before delivery, whether for rent, security or otherwise under the lease contract, or for any other reason the lessor has a right to withhold or take possession of the goods.
+		</section>
+		<section prefix="2">In pursuing its remedies under subsection (1) of this section, the lessor may stop delivery until:
+			<section prefix="a">Receipt of the goods by the lessee;
+			</section>
+			<section prefix="b">Acknowledgment to the lessee by any bailee of the goods, except a carrier, that the bailee holds the goods for the lessee; or
+			</section>
+			<section prefix="c">Such an acknowledgment to the lessee by a carrier via reshipment or as a warehouse.
+			</section>
+		</section>
+		<section prefix="3">(a) To stop delivery, a lessor shall so notify as to enable the bailee by reasonable diligence to prevent delivery of the goods.
+			<section prefix="b">After notification, the bailee shall hold and deliver the goods according to the directions of the lessor, but the lessor is liable to the bailee for any ensuing charges or damages.
+			</section>
+			<section prefix="c">A carrier who has issued a nonnegotiable bill of lading is not obliged to obey a notification to stop received from a person other than the consignor.
+			</section>
+		</section>
+	</text>
+	<history>1991, c. 536; 2004, c. 200.</history>
+</law>

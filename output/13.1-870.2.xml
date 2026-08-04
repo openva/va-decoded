@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-870.2</section_number>
+	<catch_line>Limitation on liability of officers and directors; additional exception</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "community association" shall mean an unincorporated association or corporation which owns or has under its care, custody or control real estate subject to a recorded declaration of covenants which obligates a person, by virtue of ownership of specific real estate, to be a member of the unincorporated association or corporation.
+		</section>
+		<section prefix="B">In any proceeding against an officer or director who receives compensation from a community association for his services as such, the damages assessed arising out of a single transaction, occurrence or course of conduct shall not exceed the amount of compensation received by the officer or director from the association during the 12 months immediately preceding the act or omission for which liability was imposed. An officer or director who serves such an association without compensation for his services shall not be liable for damages in any such proceeding.
+		</section>
+		<section prefix="C">The liability of an officer or director shall not be limited as provided in this section if the officer or director engaged in willful misconduct or a knowing violation of the criminal law.
+		</section>
+		<section prefix="D">The immunity provided by this section shall survive any termination, cancellation, or other discontinuance of the community association.
+		</section>
+	</text>
+	<history>1989, c. 422; 2007, c. 925; 2011, cc. 693, 704.</history>
+</law>

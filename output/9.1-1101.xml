@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="11" level="2">Department of Forensic Science</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>9.1-1101</section_number>
+	<catch_line>Powers and duties of the Department</catch_line>
+	<text>
+		<section prefix="A">It shall be the responsibility of the Department to provide forensic laboratory services upon request of the Superintendent of State Police; the Chief Medical Examiner, the Assistant Chief Medical Examiners, and local medical examiners; any attorney for the Commonwealth; any chief of police, sheriff, or sergeant responsible for law enforcement in the jurisdiction served by him; any local fire department; the head of any private police department that has been designated as a criminal justice agency by the Department of Criminal Justice Services as defined by § 9.1-101; or any state agency in any criminal matter. The Department shall provide such services to any federal investigatory agency within available resources.
+		</section>
+		<section prefix="B">The Department shall:
+			<section prefix="1">Provide forensic laboratory services to all law-enforcement agencies throughout the Commonwealth and provide laboratory services, research, and scientific investigations for agencies of the Commonwealth as needed;
+			</section>
+			<section prefix="2">Establish and maintain a DNA testing program in accordance with Article 1.1 (§ 19.2-310.2 et seq.) of Chapter 18 of Title 19.2 to determine identification characteristics specific to an individual; and
+			</section>
+			<section prefix="3">Test the accuracy of equipment used to test the blood alcohol content of breath at least once every six months. Only equipment found to be accurate shall be used to test the blood alcohol content of breath.
+			</section>
+		</section>
+		<section prefix="C">The Department shall have the power and duty to:
+			<section prefix="1">Receive, administer, and expend all funds and other assistance available for carrying out the purposes of this chapter;
+			</section>
+			<section prefix="2">Make and enter into all contracts and agreements necessary or incidental to the performance of its duties and execution of its powers under this chapter including, but not limited to, contracts with the United States, units of general local government or combinations thereof in Virginia or other states, and with agencies and departments of the Commonwealth; and
+			</section>
+			<section prefix="3">Perform such other acts as may be necessary or convenient for the effective performance of its duties.
+			</section>
+		</section>
+		<section prefix="D">The Director may appoint and employ a deputy director and such other personnel as are needed to carry out the duties and responsibilities conferred by this chapter.
+		</section>
+	</text>
+	<history>2005, cc. 868, 881; 2006, cc. 327, 551; 2009, Sp. Sess. I, cc. 1, 4; 2011, c. 638.</history>
+</law>

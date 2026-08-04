@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="4" level="3">National Guard Courts-Martial</unit>
+	</structure>
+	<section_number>44-46.1</section_number>
+	<catch_line>Military judges</catch_line>
+	<text>
+		A military judge shall be a commissioned officer of the National Guard, shall be so assigned as a legal officer, shall be admitted to the practice of law, and shall be certified for such duty by the Adjutant General.
+		The Adjutant General shall designate a military judge on a case-by-case basis to preside over courts-martial of the Virginia National Guard.
+	</text>
+	<history>1976, c. 399; 2011, cc. 572, 586.</history>
+</law>

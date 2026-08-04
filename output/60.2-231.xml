@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="2" level="2">Definitions</unit>
+	</structure>
+	<section_number>60.2-231</section_number>
+	<catch_line>Certain federal acts and statutes defined</catch_line>
+	<text>
+		The following federal acts and laws as used in this title shall mean the following:
+		<section prefix="1">The Federal Unemployment Tax Act shall mean those provisions found in Chapter 23 (26 U.S.C. § 3301 et seq.) of Title 26 of the United States Code.
+		</section>
+		<section prefix="2">The Federal Internal Revenue Code shall mean those provisions found in Title 26 of the United States Code.
+		</section>
+		<section prefix="3">The Social Security Act shall mean those provisions found in Chapter 7 (42 U.S.C. § 301 et seq.) of Title 42 of the United States Code.
+		</section>
+	</text>
+	<history>Code 1950, § 60-19; 1968, c. 738, § 60.1-22; 1986, c. 480.</history>
+</law>

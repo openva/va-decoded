@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="35" level="2">Personal Information Privacy Act</unit>
+	</structure>
+	<section_number>59.1-443.1</section_number>
+	<catch_line>Recording date of birth as condition of accepting checks prohibited</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Check" shall have the same meaning as defined in § 8.3A-104.
+		</section>
+		<section prefix="B">Except as provided in subsection C, no person who accepts checks for the transaction of business shall, as a condition of accepting the check, record, or request or require a person to record, his or her date of birth upon the check or otherwise.
+		</section>
+		<section prefix="C">This section does not require a person to accept checks for the transaction of business. Nothing in this section shall apply to (i) the collection or use of a date of birth that is unrelated to accepting payment by check or (ii) a requirement that the person paying by check provide the year of his birth.
+		</section>
+	</text>
+	<history>2004, c. 241; 2005, c. 839.</history>
+</law>

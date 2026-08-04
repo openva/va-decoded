@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.7</section_number>
+	<catch_line>Copy; performance related to delivery; payment</catch_line>
+	<text>
+		<section prefix="a">If performance requires delivery of a copy, the following rules apply:
+			<section prefix="1">The party required to deliver need not complete a tendered delivery until the receiving party tenders any performance then due.
+			</section>
+			<section prefix="2">Tender of delivery is a condition of the other party's duty to accept the copy and entitles the tendering party to acceptance of the copy.
+			</section>
+		</section>
+		<section prefix="b">If payment is due on delivery of a copy, the following rules apply:
+			<section prefix="1">Tender of delivery is a condition of the receiving party's duty to pay and entitles the tendering party to payment according to the contract.
+			</section>
+			<section prefix="2">All copies required by the contract must be tendered in a single delivery, and payment is due only on tender.
+			</section>
+		</section>
+		<section prefix="c">If the circumstances give either party the right to make or demand delivery in lots, the contract fee, if it can be apportioned, may be demanded for each lot.
+		</section>
+		<section prefix="d">If payment is due and demanded on delivery of a copy or on delivery of a document of title, the right of the party receiving tender to retain or dispose of the copy or document, as against the tendering party, is conditioned on making the payment due.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

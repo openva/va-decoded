@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="8" level="2">Service of Process</unit>
+		<unit label="article" identifier="1" level="3">Unlicensed Insurers Process</unit>
+	</structure>
+	<section_number>38.2-803</section_number>
+	<catch_line>Alternate method of service</catch_line>
+	<text>
+		<section prefix="A">Service of process or notice in any action, suit or proceeding shall be valid if:
+			<section prefix="1">Served upon any person within this Commonwealth who, in this Commonwealth on behalf of the unlicensed insurer, is (i) soliciting insurance, (ii) making, issuing, or delivering any insurance contract, or (iii) collecting or receiving any premium, membership fee, assessment or other consideration for insurance; and
+			</section>
+			<section prefix="2">A copy of the process or notice is sent within ten days thereafter by registered mail to the unlicensed insurer at its last known principal place of business.
+			</section>
+		</section>
+		<section prefix="B">A post-office receipt showing the sender's name, and the unlicensed insurer's name and address, and the plaintiff's or plaintiff's attorney's affidavit of compliance with the procedures set out in subsection A of this section shall be filed with the clerk of the court in which the proceeding is pending on or before the date the unlicensed insurer is required to appear, or within such further time as the court allows.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-66; 1986, c. 562.</history>
+</law>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="6.1" level="3">Virginia Tire Recycling Fee</unit>
+	</structure>
+	<section_number>58.1-642</section_number>
+	<catch_line>Collection of tire recycling fee; deductions; exemptions</catch_line>
+	<text>
+		<section prefix="A">The tire recycling fee levied under this chapter shall be collected by the Tax Commissioner in the same manner as is the retail sales and use tax, pursuant to Chapter 6 (§ 58.1-600 et seq.) of this title.
+		</section>
+		<section prefix="B">The fee imposed under § 58.1-641 shall not apply to new tires for:
+			<section prefix="1">Any device moved exclusively by human power;
+			</section>
+			<section prefix="2">Any device used exclusively upon stationary rails or tracks; or
+			</section>
+			<section prefix="3">Any device used exclusively for farming purposes, except a farm truck.
+			</section>
+		</section>
+		<section prefix="C">For the purpose of compensating a retailer of tires for accounting for and remitting the fee levied by this chapter, such retailer shall be allowed five percent of the amount of fee due and accounted for in the form of a deduction in submitting his return and paying the amount due by him if the amount due was not delinquent at the time of payment.
+		</section>
+	</text>
+	<history>1989, c. 630; 2003, c. 101.</history>
+</law>

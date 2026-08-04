@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="6" level="2">Interception of Wire, Electronic or Oral Communications</unit>
+	</structure>
+	<section_number>19.2-62</section_number>
+	<catch_line>Interception, disclosure, etc., of wire, electronic or oral communications unlawful; penalties; exceptions</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise specifically provided in this chapter any person who:
+			<section prefix="1">Intentionally intercepts, endeavors to intercept or procures any other person to intercept or endeavor to intercept, any wire, electronic or oral communication;
+			</section>
+			<section prefix="2">Intentionally uses, endeavors to use, or procures any other person to use or endeavor to use any electronic, mechanical or other device to intercept any oral communication;
+			</section>
+			<section prefix="3">Intentionally discloses, or endeavors to disclose, to any other person the contents of any wire, electronic or oral communication knowing or having reason to know that the information was obtained through the interception of a wire, electronic or oral communication; or
+			</section>
+			<section prefix="4">Intentionally uses, or endeavors to use, the contents of any wire, electronic or oral communication, knowing or having reason to know that the information was obtained through the interception of a wire, electronic or oral communication; shall be guilty of a Class 6 felony.
+			</section>
+		</section>
+		<section prefix="B">1. It shall not be unlawful under this chapter for an operator of a switchboard, or an officer, employee or agent of a provider of wire or electronic communications service, whose facilities are used in the transmission of a wire communication, to intercept, disclose or use that communication in the normal course of his employment while engaged in any activity which is a necessary incident to the rendition of his service or to the protection of the rights or property of the provider of that service. However, a provider of wire communication service to the public shall not utilize service observing or random monitoring except for mechanical or service quality control checks. It shall not be a criminal offense under this chapter for providers of wire or electronic communications service, their officers, employees and agents, landlords, custodians, or other persons pursuant to a court order under this chapter, to provide information facilities or technical assistance to an investigative or law-enforcement officer, who, pursuant to this chapter, is authorized to intercept a wire, electronic or oral communication.
+			<section prefix="2">It shall not be a criminal offense under this chapter for a person to intercept a wire, electronic or oral communication, where such person is a party to the communication or one of the parties to the communication has given prior consent to such interception.
+			</section>
+			<section prefix="3">It shall not be a criminal offense under this chapter for any person:
+				<section prefix="a">To intercept or access an electronic communication made through an electronic communication system that is configured so that such electronic communication is readily accessible to the general public;
+				</section>
+				<section prefix="b">To intercept any radio communication which is transmitted (i) by any station for the use of the general public, or that relates to ships, aircraft, vehicles, or persons in distress, (ii) by any governmental, law-enforcement, civil defense, private land mobile, or public safety communications system, including police and fire, readily accessible to the general public, (iii) by a station operating on an authorized frequency within the bands allocated to the amateur, citizens band, or general mobile radio services; or (iv) by any marine or aeronautical communications system;
+				</section>
+				<section prefix="c">To intercept any wire or electronic communication the transmission of which is causing harmful interference to any lawfully operating station or consumer electronic equipment, to the extent necessary to identify the source of such interference;
+				</section>
+				<section prefix="d">Using the same frequency to intercept any radio communication made through a system that utilizes frequencies monitored by individuals engaged in the provision or the use of such system, if such communication is not scrambled or encrypted;
+				</section>
+				<section prefix="e">To use a pen register or a trap and trace device pursuant to §§ 19.2-70.1 and 19.2-70.2; or
+				</section>
+				<section prefix="f">Who is a provider of electronic communication service to record the fact that a wire or electronic communication was initiated or completed in order to protect such provider, another provider furnishing service toward the completion of the wire or electronic communication, or a user of that service, from fraudulent, unlawful or abusive use of such service.
+				</section>
+			</section>
+		</section>
+		<section prefix="C">A person or entity providing an electronic communication service to the public shall not intentionally divulge the contents of any communication, other than one to such person or entity or an agent thereof, while in transmission on that service to any person or entity other than an addressee or intended recipient of such communication or an agent of the addressee or intended recipient. However, a person or entity providing electronic communication service to the public may divulge the contents of any such communication:
+			<section prefix="1">As authorized in subdivision B 1 of this section or § 19.2-67;
+			</section>
+			<section prefix="2">With the lawful consent of the originator or any addressee or intended recipient of such communication;
+			</section>
+			<section prefix="3">To a person employed or authorized, or whose facilities are used, to forward such communication to its destination; or
+			</section>
+			<section prefix="4">Which were inadvertently obtained by the service provider and which appear to pertain to the commission of a crime, to a law-enforcement agency.
+				Conduct otherwise an offense under this subsection that consists of or relates to the interception of a satellite transmission that is not encrypted or scrambled and that is transmitted (i) to a broadcasting station for purposes of retransmission to the general public, or (ii) as an audio subcarrier intended for redistribution to facilities open to the public, but not including data transmissions or telephone calls, is not an offense under this section unless the conduct is for the purposes of direct or indirect commercial advantage or private financial gain. Further, private viewing of a satellite video communication that is not scrambled or encrypted and interception of a radio communication that is transmitted on frequencies allocated under subpart D of Part 74 of the Rules of the Federal Communications Commission that is not scrambled or encrypted when the viewing or interception is not done for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, shall not be offenses under this chapter.
+				Violation of this subsection shall be punishable as a Class 1 misdemeanor.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 19.1-89.2; 1973, c. 442; 1975, c. 495; 1988, c. 889; 2004, c. 149.</history>
+</law>

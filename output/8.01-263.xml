@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="5" level="2">Venue</unit>
+	</structure>
+	<section_number>8.01-263</section_number>
+	<catch_line>Multiple parties</catch_line>
+	<text>
+		In actions involving multiple parties, venue shall not be subject to objection:
+		<section prefix="1">If one or more of the parties is entitled to preferred venue, and such action is commenced in any such forum; provided that in any action where there are one or more residents and one or more nonresidents or parties unknown, venue shall be proper (preferred or permissible, as the case may be) as to at least one resident defendant;
+		</section>
+		<section prefix="2">In all other cases, if the venue is proper as to any party.
+		</section>
+	</text>
+	<history>1977, c. 617.</history>
+</law>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="B" level="3">Powers of Attorney</unit>
+		<unit label="chapter" identifier="16" level="4">Uniform Power of Attorney Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>64.2-1618</section_number>
+	<catch_line>Liability for refusal to accept acknowledged power of attorney</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection B:
+			<section prefix="1">A person shall either accept an acknowledged power of attorney or request a certification, a translation, or an opinion of counsel under subsection C of § 64.2-1617 no later than seven business days after presentation of the power of attorney for acceptance;
+			</section>
+			<section prefix="2">If a person requests a certification, a translation, or an opinion of counsel under subsection C of § 64.2-1617, the person shall accept the power of attorney no later than five business days after receipt of the certification, translation, or opinion of counsel; and
+			</section>
+			<section prefix="3">A person may not require an additional or different form of power of attorney for authority granted in the power of attorney presented.
+			</section>
+		</section>
+		<section prefix="B">A person is not required to accept an acknowledged power of attorney for a transaction if:
+			<section prefix="1">The person is not otherwise required to engage in the transaction with the principal in the same circumstances, or the principal has otherwise relieved the person from an obligation to engage in the transaction with an agent representing the principal under a power of attorney;
+			</section>
+			<section prefix="2">Engaging in the transaction with the agent or the principal in the same circumstances would be inconsistent with federal law;
+			</section>
+			<section prefix="3">The person has actual knowledge of the termination of the agent's authority or of the power of attorney before exercise of the power;
+			</section>
+			<section prefix="4">A request for a certification, a translation, or an opinion of counsel under subsection C of § 64.2-1617 is refused;
+			</section>
+			<section prefix="5">The person in good faith believes that the power is not valid or that the agent does not have the authority to perform the act requested, whether or not a certification, a translation, or an opinion of counsel under subsection C of § 64.2-1617 has been requested or provided; or
+			</section>
+			<section prefix="6">The person makes, or has actual knowledge that another person has made, a report to the local adult protective services department or adult protective services hotline stating a good faith belief that the principal may be subject to physical or financial abuse, neglect, exploitation, or abandonment by the agent or a person acting for or with the agent.
+			</section>
+		</section>
+		<section prefix="C">A person that refuses in violation of this section to accept an acknowledged power of attorney is subject to:
+			<section prefix="1">A court order mandating acceptance of the power of attorney; and
+			</section>
+			<section prefix="2">Liability for reasonable attorney fees and costs incurred in any action or proceeding that confirms the validity of the power of attorney or mandates acceptance of the power of attorney.
+			</section>
+		</section>
+		<section prefix="D">For purposes of this section, "business day" shall refer to any day other than Saturday, Sunday, or any day designated as a holiday by the Commonwealth or the federal government.
+		</section>
+	</text>
+	<history>2010, cc. 455, 632, § 26-91; 2012, c. 614.</history>
+</law>

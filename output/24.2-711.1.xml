@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="7" level="2">Absentee Voting</unit>
+	</structure>
+	<section_number>24.2-711.1</section_number>
+	<catch_line>Absentee ballots; confirmation of receipt; notice of reason for rejection</catch_line>
+	<text>
+		<section prefix="A">The Secretary, in coordination with local election officials, shall implement a free-access system by which a voter may determine:
+			<section prefix="1">Whether the voter's application for an absentee ballot has been received and accepted; and
+			</section>
+			<section prefix="2">Whether the voter's absentee ballot has been received and the current status of the absentee ballot.
+			</section>
+		</section>
+		<section prefix="B">The electoral board of each county and city shall send a written explanation of the reason for rejection of an absentee ballot to the voter whose absentee ballot is rejected within 90 days of the date on which the ballot is rejected. The State Board of Elections shall promulgate instructions to implement the provisions of this section.
+		</section>
+	</text>
+	<history>2002, c. 252; 2013, c. 537.</history>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="8" level="3">Registration Records Generally</unit>
+	</structure>
+	<section_number>24.2-446</section_number>
+	<catch_line>Reconstruction of destroyed registration records</catch_line>
+	<text>
+		Whenever the registration records of a county or city have been destroyed by fire or otherwise, the Department shall provide substitute active registration records obtained from the Virginia voter registration system.
+		For active registration records not retrievable from the system, the general registrar shall give notice that he is reconstructing such records by posting the notice at ten places in the jurisdiction or publishing it once in a newspaper having general circulation in the jurisdiction.
+		In the reconstruction, the registrar shall place on the registration records the names of all voters known by him who have been previously registered, or who can show by evidence satisfactory to the registrar that their names were on the old records and who still reside in the county or city.
+	</text>
+	<history>Code 1950, § 24-91; 1970, c. 462, § 24.1-58; 1993, c. 641; 2015, c. 740.</history>
+</law>

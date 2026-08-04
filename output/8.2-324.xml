@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="3" level="2">General Obligation and Construction of Contract</unit>
+	</structure>
+	<section_number>8.2-324</section_number>
+	<catch_line>"No arrival, no sale" term</catch_line>
+	<text>
+		Under a term "no arrival, no sale" or terms of like meaning, unless otherwise agreed,
+		<section prefix="a">the seller must properly ship conforming goods and if they arrive by any means he must tender them on arrival but he assumes no obligation that the goods will arrive unless he has caused the non-arrival; and
+		</section>
+		<section prefix="b">where without fault of the seller the goods are in part lost or have so deteriorated as no longer to conform to the contract or arrive after the contract time, the buyer may proceed as if there had been casualty to identified goods (§ 8.2-613).
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

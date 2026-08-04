@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4310.1</section_number>
+	<catch_line>Awards as a result of any authorized enhancement or remedial measure; requirements</catch_line>
+	<text>
+		<section prefix="A">Any enhancement or remedial measure authorized by the Governor pursuant to subsection C of § 2.2-4310 for state public bodies shall include a provision that the procurement shall be conducted in accordance with such enhancement or remedial measure for businesses certified by the Department of Small Business and Supplier Diversity. If such enhancement or remedial measure provides for an award priority for such businesses, then the contract shall be awarded in accordance with such priority if such priority business participated in the solicitation and requirements are met. If an award is not made based on the foregoing, then the contract shall be awarded in accordance with the next award priority and so on until a contract is awarded based on the established award priority.
+		</section>
+		<section prefix="B">If an award is not made pursuant to subsection A, the procurement award may be made without regard to such enhancement or remedial measure.
+		</section>
+	</text>
+	<history>2016, c. 681.</history>
+</law>

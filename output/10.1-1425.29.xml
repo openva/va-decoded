@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.6" level="4">Computer Recovery and Recycling Act</unit>
+	</structure>
+	<section_number>10.1-1425.29</section_number>
+	<catch_line>Manufacturer recovery plan</catch_line>
+	<text>
+		<section prefix="A">Before a manufacturer may offer computer equipment for sale in the Commonwealth, the manufacturer shall:
+			<section prefix="1">Adopt and implement a recovery plan; and
+			</section>
+			<section prefix="2">Affix a permanent, readily visible label to the computer equipment with the manufacturer's brand.
+			</section>
+		</section>
+		<section prefix="B">The recovery plan shall enable a consumer to recycle computer equipment without paying a separate fee at the time of recycling and shall include provisions for:
+			<section prefix="1">The collection from a consumer of any computer equipment that has reached the end of its useful life and is labeled with the manufacturer's brand; and
+			</section>
+			<section prefix="2">Recycling or reuse of computer equipment collected under subdivision 1.
+			</section>
+		</section>
+		<section prefix="C">The collection of computer equipment provided under the recovery plan must be reasonably convenient and available to consumers in the Commonwealth and designed to meet the collection needs of consumers in the Commonwealth. Examples of collection methods that alone or combined meet the convenience requirements of this section include:
+			<section prefix="1">A system by which the manufacturer or the manufacturer's designee offers the consumer a system for returning computer equipment by mail at no charge to the consumer;
+			</section>
+			<section prefix="2">A system using a physical collection site that the manufacturer or the manufacturer's designee operates and to which the consumer may return computer equipment; and
+			</section>
+			<section prefix="3">A system using collection events held by the manufacturer or the manufacturer's designee at which the consumer may return computer equipment.
+			</section>
+		</section>
+		<section prefix="D">Collection services under this section may use existing collection and consolidation infrastructure for handling computer equipment and should encourage the inclusion of systems jointly managed by a group of manufacturers, electronic recyclers and repair shops, recyclers of other commodities, reuse organizations, not-for-profit corporations, retailers, recyclers, and other suitable operations. If a manufacturer or its designee offers a mail-back system as described in subdivision C 1, either individually, by working together with a group of manufacturers, or by working with others, it shall be deemed to meet the convenience requirements of this section.
+		</section>
+		<section prefix="E">The recovery plan shall include information for the consumer on how and where to return the manufacturer's computer equipment. The manufacturer:
+			<section prefix="1">Shall include collection, recycling, and reuse information on the manufacturer's publicly accessible website;
+			</section>
+			<section prefix="2">Shall provide collection, recycling, and reuse information to the Department; and
+			</section>
+			<section prefix="3">May include collection, recycling, and reuse information in the packaging or in other materials that accompany the manufacturer's computer equipment when the equipment is sold.
+			</section>
+		</section>
+		<section prefix="F">Information about collection, recycling, and reuse on a manufacturer's publicly accessible website does not constitute a determination by the Department that the manufacturer's recovery plan or actual practices are in compliance with this article.
+		</section>
+		<section prefix="G">If more than one person is a manufacturer of a certain brand of computer equipment as defined by § 10.1-1425.27, any of those persons may assume responsibility for and satisfy the obligations of a manufacturer under this article for that brand. If none of those persons assumes responsibility or satisfies the obligations of a manufacturer for the computer equipment of that brand, any of those persons may be considered to be the responsible manufacturer for purposes of this article.
+		</section>
+		<section prefix="H">The obligations under this article of a manufacturer who manufactures or manufactured computer equipment, or sells or sold computer equipment manufactured by others, under a brand that was previously used by a different person in the manufacture of the computer equipment extends to all computer equipment bearing that brand regardless of its date of manufacture.
+		</section>
+	</text>
+	<history>2008, c. 541.</history>
+</law>

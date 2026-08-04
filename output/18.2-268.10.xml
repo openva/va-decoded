@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="7" level="2">Crimes Involving Health and Safety</unit>
+		<unit label="article" identifier="2" level="3">Driving Motor Vehicle, Etc., While Intoxicated</unit>
+	</structure>
+	<section_number>18.2-268.10</section_number>
+	<catch_line>Evidence of violation of driving under the influence offenses</catch_line>
+	<text>
+		<section prefix="A">In any trial for a violation of § 18.2-266, 18.2-266.1, or subsection B of § 18.2-272 or a similar ordinance, the admission of the blood or breath test results shall not limit the introduction of any other relevant evidence bearing upon any question at issue before the court, and the court shall, regardless of the result of any blood or breath tests, consider other relevant admissible evidence of the condition of the accused. If the test results indicate the presence of any drug other than alcohol, the test results shall be admissible, except in a prosecution under clause (v) of § 18.2-266, only if other competent evidence has been presented to relate the presence of the drug or drugs to the impairment of the accused's ability to drive or operate any motor vehicle, engine or train safely.
+		</section>
+		<section prefix="B">The failure of an accused to permit a blood or breath sample to be taken to determine the alcohol or drug content of his blood is not evidence and shall not be subject to comment by the Commonwealth at the trial of the case, except in rebuttal or pursuant to subsection C; nor shall the fact that a blood or breath test had been offered the accused be evidence or the subject of comment by the Commonwealth, except in rebuttal or pursuant to subsection C.
+		</section>
+		<section prefix="C">Evidence of a finding against the defendant under § 18.2-268.3 for his unreasonable refusal to permit a blood or breath sample to be taken to determine the alcohol or drug content of his blood shall be admissible into evidence, upon the motion of the Commonwealth or the defendant, for the sole purpose of explaining the absence at trial of a chemical test of such sample. When admitted pursuant to this subsection such evidence shall not be considered evidence of the accused's guilt.
+		</section>
+		<section prefix="D">The court or jury trying the case involving a violation of clause (ii), (iii) or (iv) of § 18.2-266 or § 18.2-266.1, or a similar ordinance shall determine the innocence or guilt of the defendant from all the evidence concerning his condition at the time of the alleged offense.
+		</section>
+	</text>
+	<history>1992, c. 830; 1994, cc. 359, 363; 2001, c. 654; 2004, c. 1013; 2005, cc. 616, 757, 840.</history>
+</law>

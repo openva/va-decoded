@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="41" level="2">Fraternal Benefit Societies</unit>
+		<unit label="article" identifier="6" level="3">Regulation</unit>
+	</structure>
+	<section_number>38.2-4125</section_number>
+	<catch_line>Valuations</catch_line>
+	<text>
+		<section prefix="A">The report of valuation shall show, as reserve liabilities, the difference between the present midyear value of the promised benefits provided in the certificates of the society in force and the present midyear value of the future net premiums as they are in practice actually collected, not including any value for the right to make extra assessments and not including any amount by which the present midyear value of future net premiums exceeds the present midyear value of promised benefits on individual certificates. At the option of any society, the valuation may show the net tabular value instead of the above value. The net tabular value as to certificates issued prior to June 28, 1969, shall be determined in accordance with the provisions of law applicable prior to June 28, 1968, and as to certificates issued on or after June 28, 1969, shall not be less than the reserves determined according to the Commissioners' reserve valuation method as defined in subsection C of this section. If the premium charged is less than the tabular net premium according to the basis of valuation used, an additional reserve equal to the present value of the deficiency in the premiums shall be set up and maintained as a liability. The reserve liabilities shall be properly adjusted in the event that the midyear or tabular values are not appropriate.
+		</section>
+		<section prefix="B">A society may value its certificates in accordance with valuation standards authorized by the laws of this Commonwealth for the valuation of policies issued by life insurers.
+		</section>
+		<section prefix="C">Reserves according to the Commissioners' reserve valuation method, for the life insurance and endowment benefits of certificates providing for a uniform amount of insurance and requiring the payment of uniform premiums shall be any excess of the present value, at the date of valuation, of the future guaranteed benefits provided for by those certificates, over the then present value of any future modified net premiums therefor. The modified net premiums for any such certificate shall be a uniform percentage of the respective contract premiums for the benefits that the present value, at the date of issue of the certificate, of all modified net premiums shall equal the sum of the then present value of the benefits provided for by the certificate and the excess of 1 over 2, as follows:
+			<section prefix="1">A net-level premium equal to the present value, at the date of issue, of the benefits provided for after the first certificate year, divided by the present value, at the date of issue, of an annual annuity of one dollar payable on each anniversary of the certificate on which a premium falls due. However, the net-level annual premium shall not exceed the net-level annual premium on the nineteen-year premium whole life plan for insurance of the same amount at any age one year higher than the age at issue of the certificate; and
+			</section>
+			<section prefix="2">A net one-year term premium for the benefits provided for in the first certificate year. Reserves according to the Commissioners' reserve valuation method for (i) life insurance benefits for varying amounts of benefits or requiring the payment of varying premiums, (ii) annuity and pure endowment benefits, (iii) disability and accidental death benefits in all certificates and contracts, and (iv) all other benefits except life insurance and endowment benefits, shall be calculated by a method consistent with the principles of this subsection.
+			</section>
+		</section>
+		<section prefix="D">The present value of deferred payments due under incurred claims or matured certificates shall be deemed a liability of the society and shall be computed upon mortality and interest standards prescribed in subsections E through G of this section.
+		</section>
+		<section prefix="E">The valuation and underlying data shall be certified by a competent actuary or, at the expense of the society, verified by the actuary of the department of insurance of the state of domicile of the society.
+		</section>
+		<section prefix="F">The minimum standards of valuation for certificates issued prior to June 28, 1969, shall be those provided by the law applicable immediately prior to June 28, 1968, but not lower than the standards used in the calculating of rates for those certificates.
+		</section>
+		<section prefix="G">The minimum standard of valuation for certificates issued after June 28, 1969, shall be 3 1/2 percent interest and the following tables:
+			<section prefix="1">For certificates of life insurance, American Men Ultimate Table of Mortality, with Bowerman's or Davis' Extension thereof or with the consent of the Commission, the Commissioners 1941 Standard Ordinary Mortality Table, the Commissioners 1941 Standard Industrial Mortality Table or the Commissioners 1958 Standard Ordinary Mortality Table, using actual age of the insured for male risks and an age not more than three years younger than the actual age of the insured for female risks;
+			</section>
+			<section prefix="2">For annuity and pure endowment certificates, excluding any disability and accidental death benefits in the certificates, the 1937 Standard Annuity Mortality Table or the Annuity Mortality Table for 1949, Ultimate, or any modification of either of these tables approved by the Commission;
+			</section>
+			<section prefix="3">For total and permanent disability benefits in or supplementary to life insurance certificates, Hunter's Disability Table, or the Class III Disability Table (1926) modified to conform to the contractual waiting period, or the tables of Period 2 disablement rates and the 1930 to 1950 termination rates of the 1952 Disability Study of the Society of Actuaries with due regard to the type of benefit. Any of these tables shall, for active lives, be combined with a mortality table permitted for calculating the reserves for life insurance certificates;
+			</section>
+			<section prefix="4">For accidental death benefits in or supplementary to life insurance certificates, The Inter-Company Double Indemnity Mortality Table or the 1959 Accidental Death Benefits Table. Either table shall be combined with a mortality table permitted for calculating the reserves for life insurance certificates; and
+			</section>
+			<section prefix="5">For noncancellable accident and health benefits, the Class III Disability Table (1926) with conference modifications or, with the consent of the Commission, tables based upon the society's own experience.
+			</section>
+		</section>
+		<section prefix="H">The Commission may, in its discretion, accept other standards for valuation if it finds that the reserves produced by those standards will not be less in the aggregate than reserves computed in accordance with the minimum valuation standard prescribed in this section. The Commission may, in its discretion, vary the standards of mortality applicable to all certificates of insurance on substandard lives or other extra hazardous lives by any society licensed to do business in this Commonwealth. Whenever the mortality experience under all certificates valued on the same mortality table exceeds the expected mortality according to that table for a period of three consecutive years, the Commission may require additional reserves that it deems necessary on account of the certificates.
+		</section>
+		<section prefix="I">Any society, with the consent of the commissioner of insurance of the state of domicile of the society and under any conditions he may impose, may establish and maintain reserves on its certificates in excess of the reserves required by the state. However, the contractual rights of any insured member shall not be affected by the excess reserves.
+		</section>
+	</text>
+	<history>Code 1950, §§ 38-316, 38.1-624; 1952, c. 317, § 38.1-638.45; 1968, c. 654; 1975, c. 262; 1986, c. 562.</history>
+</law>

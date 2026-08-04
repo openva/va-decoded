@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="10" level="3">Foreign Limited Liability Companies</unit>
+	</structure>
+	<section_number>13.1-1055</section_number>
+	<catch_line>Amendments; amended applications for registration</catch_line>
+	<text>
+		<section prefix="A">A foreign limited liability company that is registered to transact business in the Commonwealth shall promptly file with the Commission an amended application for registration on a form prescribed and furnished by the Commission:
+			<section prefix="1">If any statement in the application for registration was false when made or any arrangements or other facts described have changed, making the application inaccurate in any respect; or
+			</section>
+			<section prefix="2">To abandon or change the designated name adopted by the limited liability company for use in the Commonwealth pursuant to subsection B of § 13.1-1054.
+			</section>
+		</section>
+		<section prefix="B">Notwithstanding the provisions of subsection A, the manner by which a foreign limited liability company shall change its registered office or principal office is by filing a statement of change pursuant to § 13.1-1016 or 13.1-1018.1, as the case may be.
+		</section>
+		<section prefix="C">Whenever the articles of organization or other constituent document of a foreign limited liability company that is registered to transact business in the Commonwealth is amended or corrected, the foreign limited liability company shall promptly deliver to the Commission for filing a copy of the amendment or correction duly authenticated by the Secretary of State or other official having custody of the limited liability company records in the state or other jurisdiction of its organization.
+		</section>
+	</text>
+	<history>1991, c. 168; 1992, c. 574; 2003, c. 370; 2008, c. 108; 2009, c. 450; 2016, c. 288.</history>
+</law>

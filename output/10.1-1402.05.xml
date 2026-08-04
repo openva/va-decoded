@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>10.1-1402.05</section_number>
+	<catch_line>Coal ash landfill storage; provision of public water supply</catch_line>
+	<text>
+		<section prefix="A">No application for a new coal ash landfill permit for storing coal combustion residuals in Planning District 8 shall be approved by the Department if the facility boundary is located within one mile of an existing residential area that is not served by municipal water supply, unless the owner or operator of the coal ash landfill has offered to provide, at its expense, (i) municipal water supply service for such residential area and (ii) any requested service connections for residential properties in existence at the time such permit application is filed.
+		</section>
+		<section prefix="B">Any offer by the owner or operator of a coal ash landfill to provide municipal water supply service or requested service connections pursuant to subsection A shall be made (i) in writing to any resident located within one mile of the facility boundary and (ii) in coordination with the municipal water supply service authority in which the coal ash landfill will be located, notwithstanding the water supply service authority's final schedule for installation.
+		</section>
+	</text>
+	<history>2023, c. 503.</history>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="2" level="3">Virginia Voter Registration System</unit>
+	</structure>
+	<section_number>24.2-404.3</section_number>
+	<catch_line>Duty of Department of Elections; verification of registered voter lists</catch_line>
+	<text>
+		On or before October 1 of each year, the Department shall conduct a match of the Virginia registered voter lists with the list of deceased persons maintained by the Social Security Administration.
+	</text>
+	<history>2009, c. 492; 2015, c. 740.</history>
+</law>

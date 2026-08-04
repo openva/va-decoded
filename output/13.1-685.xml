@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="9" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-685</section_number>
+	<catch_line>Action without meeting of board of directors</catch_line>
+	<text>
+		<section prefix="A">Except to the extent that the articles of incorporation or bylaws require that action by the board of directors be taken at a meeting, action required or permitted by this chapter to be taken by the board of directors may be taken without a meeting if each director signs a consent describing the action to be taken and delivers it to the corporation's secretary.
+		</section>
+		<section prefix="B">Action taken under this section is effective as the act of the board of directors when the last director signs the consent unless the consent specifies a different effective date, in which event the action taken is effective as of the date specified therein, provided that if such date precedes the date when the last director signs the consent states the date of execution by each director.
+		</section>
+		<section prefix="C">A director's consent may be withdrawn by a revocation signed by the director and delivered to the corporation's secretary before delivery to the corporation's secretary of unrevoked written consents signed by all the directors.
+		</section>
+		<section prefix="D">Any person, whether or not then a director, may provide that a consent to action as a director shall be effective at a future time, including the time when an event occurs, but such future time shall not be more than 60 days after such provision is made. Any such consent shall be deemed to have been made for purposes of this section at the future time so specified for the consent to be effective, provided that (i) the person is a director at such future time and (ii) the person did not revoke the consent prior to such future time. Any such consent may be revoked, in the manner provided in subsection C, prior to its becoming effective.
+		</section>
+		<section prefix="E">For purposes of this section, a written consent or revocation and the signing thereof may be accomplished by one or more electronic transmissions.
+		</section>
+		<section prefix="F">A consent signed under this section has the effect of action taken at a meeting of the board of directors and may be described as such in any document.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-41.1; 1964, c. 419; 1975, c. 500; 1985, c. 522; 2005, c. 765; 2015, c. 611; 2019, c. 734.</history>
+</law>

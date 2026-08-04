@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="18" level="2">Insurance Agents</unit>
+		<unit label="article" identifier="3" level="3">Licensing and Appointment of Agents</unit>
+	</structure>
+	<section_number>38.2-1826</section_number>
+	<catch_line>Requirement to report to Commission</catch_line>
+	<text>
+		<section prefix="A">Each licensed agent shall report within 30 calendar days to the Commission, and to every insurer for which he is appointed any change in his residence address, email address, or name.
+		</section>
+		<section prefix="B">Each licensed agent convicted of a felony shall report within 30 calendar days to the Commission the facts and circumstances regarding the criminal conviction.
+		</section>
+		<section prefix="C">Each licensed agent shall report to the Commission within 30 calendar days of the final disposition of the matter any administrative action taken against him in another jurisdiction or by another governmental agency in the Commonwealth. Such report shall include a copy of the order, consent to order or other relevant legal documents.
+		</section>
+		<section prefix="D">The license authority of any licensed resident agent shall terminate immediately when such agent has moved his residence from the Commonwealth, whether or not the Commission has been notified of such move.
+		</section>
+		<section prefix="E">Each business entity acting as an insurance producer shall report within 30 calendar days to the Commission the removal, for any reason, of the designated licensed producer responsible for the business entity's compliance with the insurance laws, rules, and regulations of the Commonwealth pursuant to subdivision B 2 of § 38.2-1820, along with the name of the new designated licensed producer.
+		</section>
+	</text>
+	<history>1979, c. 513, § 38.1-327.37; 1986, c. 562; 1987, c. 521; 1999, c. 59; 2001, c. 706; 2016, c. 552; 2019, c. 675.</history>
+</law>

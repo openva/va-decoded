@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Members and Meetings</unit>
+	</structure>
+	<section_number>13.1-844.2</section_number>
+	<catch_line>Remote participation in annual and special meetings</catch_line>
+	<text>
+		<section prefix="A">Members may participate in any meeting of members by means of remote communication to the extent the board of directors authorizes such participation for members. Participation by means of remote communication shall be subject to such guidelines and procedures the board of directors adopts, and shall be in conformity with subsection B.
+		</section>
+		<section prefix="B">Members participating in a members' meeting by means of remote communication shall be deemed present and may vote at such a meeting if the corporation has implemented reasonable measures to:
+			<section prefix="1">Verify that each person participating remotely is a member or a member's proxy; and
+			</section>
+			<section prefix="2">Provide such members a reasonable opportunity to participate in the meeting and to vote on matters submitted to the members, including an opportunity to read or hear the proceedings of the meeting, substantially concurrently with such proceedings.
+			</section>
+		</section>
+		<section prefix="C">Unless the articles of incorporation or bylaws require the meeting of members to be held at a place, the board of directors may determine that any meeting of members shall not be held at any place and shall instead be held solely by means of remote communication in conformity with subsection B.
+		</section>
+	</text>
+	<history>2010, c. 171; 2018, c. 265.</history>
+</law>

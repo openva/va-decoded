@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="1" level="1">General Provisions</unit>
+		<unit label="chapter" identifier="2.1" level="2">Common Law and Rules of Construction</unit>
+		<unit label="article" identifier="2" level="3">Rules of Construction and Definitions</unit>
+	</structure>
+	<section_number>1-211</section_number>
+	<catch_line>Constitutional references</catch_line>
+	<text>
+		Whenever any act of the General Assembly in effect at noon on July 1, 1971, refers to any section, article, or provision of the prior Constitution of Virginia, such reference shall apply to any comparable section, article, or provision of the Constitution of Virginia then in effect unless the construction would be contrary to the legislative intent of the act.
+	</text>
+	<history>1971, Ex. Sess., c. 49, § 1-13.41; 2005, c. 839.</history>
+</law>

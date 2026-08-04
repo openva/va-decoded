@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Shareholders</unit>
+	</structure>
+	<section_number>13.1-668</section_number>
+	<catch_line>Modifying quorum or voting requirements</catch_line>
+	<text>
+		<section prefix="A">The articles of incorporation may provide for (i) a lesser or greater quorum requirement for shareholders or voting groups of shareholders, but in each case not less than one third of the shares eligible to vote or (ii) a greater voting requirement for shareholders, or voting groups of shareholders, than is provided by this chapter.
+		</section>
+		<section prefix="B">An amendment of the articles of incorporation that adds, changes, or deletes a quorum or voting requirement shall meet the same quorum requirement and be adopted by the same vote and voting groups required to take action under the quorum and voting requirements then in effect.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-33; 1956, c. 428; 1985, c. 522; 1986, c. 321; 2019, c. 734.</history>
+</law>

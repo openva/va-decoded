@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="1.2" level="3">Utilization Review Standards and Appeals</unit>
+	</structure>
+	<section_number>32.1-137.8</section_number>
+	<catch_line>Application to and compliance by utilization review entities</catch_line>
+	<text>
+		<section prefix="A">No utilization review entity shall perform utilization review with regard to hospital, medical or other health care resources rendered or proposed to be rendered to a covered person except in accordance with the requirements and standards set forth in this article.
+		</section>
+		<section prefix="B">This article shall not apply to utilization review performed under contract with the federal government for utilization review of patients eligible for hospital services under Title XVIII of the Social Security Act or under contract with a plan otherwise exempt from operation of this chapter pursuant to the Employee Retirement Income Security Act of 1974.
+		</section>
+		<section prefix="C">This article shall not apply to private review agents subject to Article 2.1 (§ 32.1-138.6 et seq.) of Chapter 5 of Title 32.1 of the Code of Virginia.
+		</section>
+		<section prefix="D">This article shall not apply to programs administered by the Department of Medical Assistance Services or under contract with the Department of Medical Assistance Services.
+		</section>
+	</text>
+	<history>1998, cc. 129, 891.</history>
+</law>

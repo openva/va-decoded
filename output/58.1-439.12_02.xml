@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="13" level="4">Tax Credits for Corporations</unit>
+	</structure>
+	<section_number>58.1-439.12:02</section_number>
+	<catch_line> Biodiesel and green diesel fuels producers tax credit</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section:
+			"Biodiesel fuel" means a fuel composed of mono-alkyl esters of long-chain fatty acids derived from vegetable oils or animal fats, designated B100, and meeting the requirements of ASTM D6751.
+			"Green diesel fuel" means a fuel produced from nonfossil renewable resources including agricultural or silvicultural plants, animal fats, residue and waste generated from the production, processing, and marketing of agricultural products, silvicultural products, and other renewable resources, and meeting applicable ASTM specifications.
+			"Feedstock" means the agricultural or other renewable resources, whether plant or animal derived, used to produce biodiesel or green diesel fuels.
+			"Producer" means any person, entity, or agricultural cooperative association, as defined in the Agricultural Cooperative Association Act (§ 13.1-312 et seq.) that, in a calendar year, produces in the Commonwealth up to two million gallons of biodiesel or green diesel fuels using feedstock originating domestically within the United States.
+		</section>
+		<section prefix="B">For taxable years beginning on or after January 1, 2008, any taxpayer who is a biodiesel fuel or green diesel fuel producer shall be entitled to a nonrefundable credit against the taxes imposed by § 58.1-320 or 58.1-400 in an amount equal to $0.01 per gallon of biodiesel or green diesel fuels produced by such taxpayer. However, the annual amount of the credit shall not exceed $5,000. The taxpayer shall be eligible for the credit during the first three years of production of biodiesel or green diesel fuels.
+			Any taxpayer entitled to a credit under this section may transfer unused but otherwise allowable credits for use by another taxpayer on Virginia income tax returns. A taxpayer who transfers any amount of the credit in accordance with this section shall file a notification of such transfer to the Department of Taxation in accordance with procedures and forms prescribed by the Tax Commissioner.
+		</section>
+		<section prefix="C">The Department of Energy shall certify that the biodiesel or green diesel fuels producer has satisfied the requirements of this section for the taxable year in which the credit is allowed. In addition, the taxpayer shall submit with his income tax return all documentation as required by the Department of Taxation. Any credit not usable for the taxable year may be carried over the next three taxable years. The amount of the credit allowed pursuant to this section shall not exceed the tax imposed for such taxable year.
+		</section>
+		<section prefix="D">For purposes of this section, the amount of any credit attributable to a partnership, electing small business corporation (S corporation), or limited liability company shall be allocated to the individual partners, shareholders, or members, respectively, in proportion to their ownership or interest in such business entity.
+		</section>
+	</text>
+	<history>2008, c. 482; 2021, Sp. Sess. I, c. 532.</history>
+</law>

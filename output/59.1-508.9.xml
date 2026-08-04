@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="8" level="3">Remedies</unit>
+	</structure>
+	<section_number>59.1-508.9</section_number>
+	<catch_line>Licensee's damages</catch_line>
+	<text>
+		<section prefix="a">Subject to subsection (b) and except as otherwise provided in § 59.1-508.7, a breach of contract by a licensor entitles the licensee to recover the following compensation for losses resulting in the ordinary course from the breach or, if appropriate, as to the whole contract, less expenses avoided as a result of the breach to the extent not otherwise accounted for under this section:
+			<section prefix="1">damages measured in any combination of the following ways, but not to exceed the market value of the performance that was the subject of the breach plus restitution of any amounts paid for performance not received and not accounted for within the indicated recovery:
+			</section>
+		</section>
+		<section prefix="A">with respect to performance that has been accepted and the acceptance not rightfully revoked, the value of the performance required less the value of the performance accepted as of the time and place of acceptance;
+		</section>
+		<section prefix="B">with respect to performance that has not been rendered or that was rightfully refused or acceptance of which was rightfully revoked:
+		</section>
+		<section prefix="i">the amount of any payments made and the value of other consideration given to the licensor with respect to that performance and not previously returned to the licensee;
+			<section prefix="ii">the market value of the performance less the contract fee for that performance; or
+			</section>
+			<section prefix="iii">the cost of a commercially reasonable substitute transaction less the contract fee under the breached contract, if the substitute transaction was entered into by the licensee in good faith and without unreasonable delay for substantially similar information with the same contractual use terms; or
+			</section>
+		</section>
+		<section prefix="C">damages calculated in any reasonable manner; and
+			<section prefix="2">incidental and consequential damages.
+			</section>
+		</section>
+		<section prefix="b">The amount of damages must be reduced by any unpaid contract fees for performance by the licensor which has been accepted by the licensee and as to which the acceptance has not been rightfully revoked.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

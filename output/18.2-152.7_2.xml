@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="7.1" level="3">Computer Crimes</unit>
+	</structure>
+	<section_number>18.2-152.7:2</section_number>
+	<catch_line>Using computer to commit a scheme involving false representations; penalty</catch_line>
+	<text>
+		Any person who, without the intent to receive any direct or indirect benefit, maliciously sends an electronically transmitted communication containing a false representation intended to cause another person to spend money, and such false representation causes such person to spend money, is guilty of a Class 1 misdemeanor.
+	</text>
+	<history>2020, c. 1178.</history>
+</law>

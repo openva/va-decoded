@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="32" level="2">Standard Nonforfeiture Provisions for Life Insurance</unit>
+	</structure>
+	<section_number>38.2-3210</section_number>
+	<catch_line>Same; life insurance providing future premium determination</catch_line>
+	<text>
+		For any plan of life insurance providing for future premium determination, the amounts of which are to be determined by the insurer based on then estimates of future experience, or for any plan of life insurance for which minimum values cannot be determined by the methods described in §§ 38.2-3202 through 38.2-3209, then:
+		<section prefix="1">The Commission shall be satisfied that the benefits provided under the plan are substantially as favorable to policyholders and insureds as the minimum benefits otherwise required by §§ 38.2-3202 through 38.2-3209;
+		</section>
+		<section prefix="2">The Commission shall be satisfied that the benefits and the pattern of premiums of the plan are not misleading to prospective policyholders or insureds; and
+		</section>
+		<section prefix="3">The cash surrender values and paid-up nonforfeiture benefits provided by the plan shall not be less than the minimum values and benefits required for the plan computed by a method consistent with the principles of §§ 38.2-3202 through 38.2-3213, as determined by the Commission.
+		</section>
+	</text>
+	<history>1982, c. 228, § 38.1-465.4; 1986, c. 562.</history>
+</law>

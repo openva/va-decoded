@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="17" level="3">Mortgage Loan Originators</unit>
+	</structure>
+	<section_number>6.2-1716</section_number>
+	<catch_line>Suspension or revocation of license</catch_line>
+	<text>
+		The Commission may suspend or revoke any license issued under this chapter based upon:
+		<section prefix="1">Any ground sufficient for denial of the issuance of a license under this chapter;
+		</section>
+		<section prefix="2">Any violation of the provisions of this chapter or regulations adopted by the Commission pursuant thereto, or a violation of any other law or regulation applicable to the conduct of the licensee's licensed activities;
+		</section>
+		<section prefix="3">Conviction of a felony or misdemeanor involving fraud, misrepresentation, or deceit;
+		</section>
+		<section prefix="4">Entry of a judgment against a licensee involving fraud, misrepresentation, or deceit;
+		</section>
+		<section prefix="5">Entry of a federal or state administrative order against a licensee for violation of any law or any regulation applicable to the conduct of his licensed activities;
+		</section>
+		<section prefix="6">Refusal to permit an investigation or examination by the Commission;
+		</section>
+		<section prefix="7">Failure to pay any fee or assessment imposed by this chapter;
+		</section>
+		<section prefix="8">Failure to comply with any order of the Commission; or
+		</section>
+		<section prefix="9">Failure to maintain registration with, or a unique identifier from, the Registry.
+		</section>
+	</text>
+	<history>2009, cc. 273, 453, § 6.1-431.17; 2010, c. 794.</history>
+</law>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="6" level="3">Federal Market Reforms</unit>
+	</structure>
+	<section_number>38.2-3442</section_number>
+	<catch_line>Preventive services</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any provision of § 38.2-3406.1 or 38.2-3411.1 or any other section of this title to the contrary, a health carrier shall provide coverage for preventive services and shall not impose any cost-sharing requirements such as a copayment, coinsurance, or deductible.
+		</section>
+		<section prefix="B">A health carrier shall provide coverage for any items or services under the most current recommendations and guidelines within the scope of preventive services as required by the PPACA as in effect on January 1, 2019.
+		</section>
+		<section prefix="C">1. A health carrier may impose cost-sharing requirements with respect to an office visit if an item or service is billed separately or is tracked as individual encounter data separately from the office visit.
+			<section prefix="2">A health carrier shall not impose cost-sharing requirements with respect to an office visit if an item or service is not billed separately or is not tracked as individual encounter data separately from the office visit and the primary purpose of the office visit is the delivery of the item or service.
+			</section>
+			<section prefix="3">A health carrier may impose cost-sharing requirements with respect to an office visit if an item or service is not billed separately or is not tracked as individual encounter data separately from the office visit and the primary purpose of the office visit is not the delivery of the item or service.
+			</section>
+		</section>
+		<section prefix="D">Nothing in this section shall preclude a health carrier that has a network of providers from imposing cost-sharing requirements for items or services that are delivered by an out-of-network provider.
+		</section>
+		<section prefix="E">This section shall apply to any health carrier providing individual or group health insurance coverage, except for any grandfathered plan.
+		</section>
+	</text>
+	<history>2011, c. 882; 2013, c. 751; 2020, c. 1160.</history>
+</law>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="25" level="2">Extraordinary Writs</unit>
+		<unit label="article" identifier="3" level="3">Habeas Corpus</unit>
+	</structure>
+	<section_number>8.01-654</section_number>
+	<catch_line>When and where petition filed; what petition to contain</catch_line>
+	<text>
+		<section prefix="A">1. A petition for a writ of habeas corpus ad subjiciendum may be filed in the Supreme Court or any circuit court showing by affidavits or other evidence that the petitioner is detained without lawful authority.
+			<section prefix="2">A petition for writ of habeas corpus ad subjiciendum, other than a petition challenging a criminal conviction or sentence, shall be brought within one year after the cause of action accrues. A habeas corpus petition attacking a criminal conviction or sentence shall be filed within two years from the date of final judgment in the trial court or within one year from either final disposition of the direct appeal in state court or the time for filing such appeal has expired, whichever is later.
+			</section>
+		</section>
+		<section prefix="B">1. With respect to any such petition filed by a petitioner whose detention originated under criminal process, and subject to the provisions of § 17.1-310, only the circuit court that entered the original judgment or order resulting in the detention complained of in the petition shall have authority to issue writs of habeas corpus. If a district court entered the original judgment or order resulting in the detention complained of in the petition, only the circuit court for the city or county wherein the district court sits shall have authority to issue writs of habeas corpus. Hearings on such petition, where granted in the circuit court, may be held at any circuit court within the same circuit as the circuit court in which the petition was filed, as designated by the judge thereof.
+			<section prefix="2">Such petition shall contain all allegations the facts of which are known to petitioner at the time of filing and such petition shall enumerate all previous applications and their disposition. No writ shall be granted on the basis of any allegation the facts of which petitioner had knowledge at the time of filing any previous petition. The provisions of this section shall not apply to a petitioner's first petition for a writ of habeas corpus when the sole allegation of such petition is that the petitioner was deprived of the right to pursue an appeal from a final judgment of conviction or probation revocation, except that such petition shall contain all facts pertinent to the denial of appeal that are known to the petitioner at the time of the filing, and such petition shall certify that the petitioner has filed no prior habeas corpus petitions attacking the conviction or probation revocation.
+			</section>
+			<section prefix="3">Such petition may allege detention without lawful authority through challenge to a conviction, although the sentence imposed for such conviction is suspended or is to be served subsequently to the sentence currently being served by petitioner.
+			</section>
+			<section prefix="4">In the event the allegations of illegality of the petitioner's detention can be fully determined on the basis of recorded matters, the court may make its determination whether such writ should issue on the basis of the record.
+			</section>
+			<section prefix="5">The court shall give findings of fact and conclusions of law following a determination on the record or after hearing, to be made a part of the record and transcribed.
+			</section>
+			<section prefix="6">If petitioner alleges as a ground for illegality of his detention the inadequacy of counsel, he shall be deemed to waive his privilege with respect to communications between such counsel and himself to the extent necessary to permit a full and fair hearing for the alleged ground.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 8-596; 1958, c. 215; 1968, c. 487; 1977, c. 617; 1978, c. 124; 1995, c. 503; 1998, c. 577; 2005, c. 836; 2019, cc. 8, 48; 2021, Sp. Sess. I, cc. 344, 345.</history>
+</law>

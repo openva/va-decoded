@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="16" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-743</section_number>
+	<catch_line>Articles of dissolution</catch_line>
+	<text>
+		<section prefix="A">At any time after dissolution is authorized, the corporation may dissolve by delivering to the Commission for filing articles of dissolution setting forth:
+			<section prefix="1">The name of the corporation;
+			</section>
+			<section prefix="2">The date that dissolution was authorized;
+			</section>
+			<section prefix="3">Either (i) a statement that dissolution was authorized by unanimous consent of the shareholders, or (ii) a statement that the proposed dissolution was submitted to the shareholders by the board of directors and was approved by the shareholders in the manner required by this article and the articles of incorporation.
+			</section>
+		</section>
+		<section prefix="B">If the Commission finds that the articles of dissolution comply with the requirements of law and that the corporation has paid all fees and taxes, and delinquencies thereof, imposed by laws administered by the Commission, it shall issue a certificate of dissolution.
+		</section>
+		<section prefix="C">A corporation is dissolved upon the effective date of the certificate of dissolution.
+		</section>
+		<section prefix="D">For purposes of §§ 13.1-742 through 13.1-746.2, "dissolved corporation" means a corporation whose articles of dissolution have become effective and includes a successor entity to which the remaining assets of the corporation are transferred subject to its liabilities for purposes of liquidation.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13.1-80 to 13.1-82, 13.1-87, 13.1-88, 13.1-90; 1956, c. 428; 1975, c. 500; 1985, cc. 522, 528; 2005, c. 765; 2019, c. 734.</history>
+</law>

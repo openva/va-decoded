@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="1" level="1">General Provisions</unit>
+		<unit label="chapter" identifier="2.1" level="2">Common Law and Rules of Construction</unit>
+		<unit label="article" identifier="2" level="3">Rules of Construction and Definitions</unit>
+	</structure>
+	<section_number>1-214</section_number>
+	<catch_line>Effective dates</catch_line>
+	<text>
+		<section prefix="A">All laws enacted at a regular session of the General Assembly, including laws which are enacted by reason of actions taken during the reconvened session following a regular session, but excluding general appropriation acts, decennial reapportionment acts, and emergency acts, shall take effect on the first day of July following the adjournment of the regular session at which they were enacted, unless a subsequent date is specified.
+		</section>
+		<section prefix="B">All laws enacted at a special session of the General Assembly, including laws which are enacted by reason of actions taken during the reconvened session following a special session, but excluding general appropriations acts, decennial reapportionment acts, and emergency acts, shall take effect on the first day of the fourth month following the month of adjournment of the special session at which they were enacted, unless a subsequent date is specified.
+		</section>
+		<section prefix="C">A general appropriation act shall take effect from its passage, unless another effective date is specified in the act.
+		</section>
+		<section prefix="D">An emergency act shall take effect from its passage, or on a subsequent date if specified in the act, provided that the emergency shall be expressed in the body of the act and that the emergency shall be approved by a four-fifths vote of the members voting in each house of the General Assembly. The name of each member voting and how he voted shall be recorded in the journal.
+		</section>
+		<section prefix="E">A decennial reapportionment act to reapportion the Commonwealth into electoral districts shall take effect immediately.
+		</section>
+	</text>
+	<history>Code 1919, § 4; 1971, Ex. Sess., c. 49, § 1-12; 1981, c. 329; 2005, c. 839.</history>
+</law>

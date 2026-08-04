@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="D" level="3">Guardianship of Incapacitated Persons</unit>
+		<unit label="chapter" identifier="21" level="4">Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act</unit>
+		<unit label="article" identifier="2" level="5">Jurisdiction</unit>
+	</structure>
+	<section_number>64.2-2113</section_number>
+	<catch_line>Proceedings in more than one state</catch_line>
+	<text>
+		Except for a petition for the appointment of a guardian in an emergency or issuance of a conservatorship order limited to property located in the Commonwealth under subdivision A 1 or A 2 of § 64.2-2108, if a petition for the appointment of a guardian or issuance of a conservatorship order is filed in the Commonwealth and in another state and neither petition has been dismissed or withdrawn, the following rules apply:
+		<section prefix="1">If the court in the Commonwealth has jurisdiction under § 64.2-2107, it may proceed with the case unless a court in another state acquires jurisdiction under provisions similar to § 64.2-2107 before the appointment or issuance of the order.
+		</section>
+		<section prefix="2">If the court in the Commonwealth does not have jurisdiction under § 64.2-2107, whether at the time the petition is filed or at any time before the appointment or issuance of the order, the court shall stay the proceeding and communicate with the court in the other state. If the court in the other state has jurisdiction, the court in the Commonwealth shall dismiss the petition unless the court in the other state determines that the court in the Commonwealth is a more appropriate forum.
+		</section>
+	</text>
+	<history>2011, c. 518, § 37.2-1045; 2012, c. 614.</history>
+</law>

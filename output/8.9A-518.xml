@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="5" level="2">Filing</unit>
+		<unit label="subpart" identifier="1" level="3">Filing Office, Contents and Effectiveness of Financing Statement</unit>
+	</structure>
+	<section_number>8.9A-518</section_number>
+	<catch_line>Claim concerning inaccurate or wrongfully filed record</catch_line>
+	<text>
+		<section prefix="a">Statement with respect to record indexed under person's name. A person may file in the filing office an information statement with respect to a record indexed there under the person's name if the person believes that the record is inaccurate or was wrongfully filed.
+		</section>
+		<section prefix="b">Contents of statement under subsection (a). An information statement under subsection (a) must:
+			<section prefix="1">identify the record to which it relates by the file number assigned to the initial financing statement to which the record relates;
+			</section>
+			<section prefix="2">indicate that it is an information statement; and
+			</section>
+			<section prefix="3">provide the basis for the person's belief that the record is inaccurate and indicate the manner in which the person believes the record should be amended to cure any inaccuracy or provide the basis for the person's belief that the record was wrongfully filed.
+			</section>
+		</section>
+		<section prefix="c">Statement by secured party of record. A person may file in the filing office an information statement with respect to a record filed there if the person is a secured party of record with respect to the financing statement to which the record relates and believes that the person that filed the record was not entitled to do so under § 8.9A-509(d).
+		</section>
+		<section prefix="d">Contents of statement under subsection (c). An information statement under subsection (c) must:
+			<section prefix="1">identify the record to which it relates by the file number assigned to the initial financing statement to which the record relates;
+			</section>
+			<section prefix="2">indicate that it is an information statement; and
+			</section>
+			<section prefix="3">provide the basis for the person's belief that the person that filed the record was not entitled to do so under § 8.9A-509(d).
+			</section>
+		</section>
+		<section prefix="e">Record not affected by information statement. The filing of an information statement does not affect the effectiveness of an initial financing statement or other filed record.
+		</section>
+	</text>
+	<history>2000, c. 1007; 2012, c. 155.</history>
+</law>

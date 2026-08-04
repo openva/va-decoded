@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="8" level="3">Remedies</unit>
+	</structure>
+	<section_number>59.1-508.11</section_number>
+	<catch_line>Specific performance</catch_line>
+	<text>
+		<section prefix="a">Specific performance may be ordered:
+			<section prefix="1">if the agreement provides for that remedy, other than an obligation for the payment of money;
+			</section>
+			<section prefix="2">if the contract was not for personal services and the agreed performance is unique; or
+			</section>
+			<section prefix="3">in other proper circumstances.
+			</section>
+		</section>
+		<section prefix="b">An order for specific performance may contain any conditions considered just and must provide adequate safeguards consistent with the contract to protect the confidentiality of information, information, and informational rights of both parties.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="15" level="3">Records and Reports</unit>
+	</structure>
+	<section_number>13.1-933</section_number>
+	<catch_line>Inspection of records by members</catch_line>
+	<text>
+		<section prefix="A">Subject to subsection C of § 13.1-934, a member of a corporation is entitled to inspect and copy, during regular business hours at the corporation's principal office, any of the records of the corporation described in subsection E of § 13.1-932 if he gives the corporation written notice of his demand at least five business days before the date on which he wishes to inspect and copy.
+		</section>
+		<section prefix="B">A member of a corporation is entitled to inspect and copy, during regular business hours at a reasonable location specified by the corporation, any of the following records of the corporation if the member meets the requirements of subsection C and gives the corporation written notice of his demand at least five business days before the date on which he wishes to inspect and copy:
+			<section prefix="1">Excerpts from minutes of any meeting of the board of directors, records of any action of a committee of the board of directors while acting in place of the board of directors on behalf of the corporation, minutes of any meeting of the members, and records of action taken by the members or board of directors without a meeting, to the extent not subject to inspection under subsection A;
+			</section>
+			<section prefix="2">Accounting records of the corporation; and
+			</section>
+			<section prefix="3">The record of members.
+			</section>
+		</section>
+		<section prefix="C">A member may inspect and copy the records identified in subsection B only if:
+			<section prefix="1">He has been a member of record for at least six months immediately preceding his demand;
+			</section>
+			<section prefix="2">His demand is made in good faith and for a proper purpose;
+			</section>
+			<section prefix="3">He describes with reasonable particularity his purpose and the records that he desires to inspect; and
+			</section>
+			<section prefix="4">The records are directly connected with his purpose.
+			</section>
+		</section>
+		<section prefix="D">The right of inspection granted by this section may not be abolished or limited by a corporation's articles of incorporation or bylaws.
+		</section>
+		<section prefix="E">This section does not affect:
+			<section prefix="1">The right of a member to inspect records if the member is in litigation with the corporation, to the same extent as any other litigant; or
+			</section>
+			<section prefix="2">The power of a court, independently of this Act, to compel the production of corporate records for examination.
+			</section>
+		</section>
+	</text>
+	<history>1985, c. 522; 2007, c. 925.</history>
+</law>

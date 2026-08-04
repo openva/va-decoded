@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.3" level="4">Pollution Prevention Program</unit>
+	</structure>
+	<section_number>10.1-1425.12</section_number>
+	<catch_line>Pollution prevention assistance program</catch_line>
+	<text>
+		The Department shall establish a voluntary pollution prevention assistance program designed to assist all persons in promoting pollution prevention measures in the Commonwealth. The program shall emphasize assistance to local governments and businesses that have inadequate technical and financial resources to obtain information and to assess and implement pollution prevention measures. The program may include, but shall not be limited to:
+		<section prefix="1">Establishment of a pollution prevention clearinghouse for all available information concerning waste reduction, waste minimization, source reduction, economic and energy savings, and pollution prevention;
+		</section>
+		<section prefix="2">Assistance in transferring information concerning pollution prevention technologies through workshops, conferences and handbooks;
+		</section>
+		<section prefix="3">Cooperation with programs at baccalaureate institutions of higher education to develop pollution prevention curricula and training;
+		</section>
+		<section prefix="4">Technical assistance to generators of toxic or hazardous substances, including onsite consultation to identify alternative methods that may be applied to prevent pollution; and
+		</section>
+		<section prefix="5">Researching and recommending incentive programs for innovative pollution prevention programs.
+			To be eligible for onsite technical assistance, a generator of toxic or hazardous substances must agree to allow information regarding the results of such assistance to be shared with the public, provided that the identity of the generator shall be made available only with its consent and trade-secret information shall remain protected.
+		</section>
+	</text>
+	<history>1993, c. 459; 1994, c. 169.</history>
+</law>

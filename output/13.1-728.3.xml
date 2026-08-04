@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="14.1" level="3">Control Share Acquisitions</unit>
+	</structure>
+	<section_number>13.1-728.3</section_number>
+	<catch_line>Voting rights</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any contrary provision of this chapter, shares acquired in a control share acquisition have no voting rights unless voting rights are granted by resolution adopted by the shareholders of the public corporation. If such a resolution is adopted, such shares shall thereafter have the voting rights they would have had in the absence of this article.
+		</section>
+		<section prefix="B">To be adopted under this section, the resolution shall be approved by a majority of all the votes which could be cast in a vote on the election of directors by all the outstanding shares other than interested shares. Interested shares shall not be entitled to vote on the matter, and in determining whether a quorum exists, all interested shares shall be disregarded. For the purpose of this subsection, the interested shares shall be determined as of the record date for determining the shareholders entitled to vote at the meeting.
+		</section>
+		<section prefix="C">If no resolution is adopted under this section in respect of shares acquired in a control share acquisition and beneficial ownership of such shares is subsequently transferred in circumstances where the transferor no longer has beneficial ownership of such shares and the transferee is not engaged in a control share acquisition, then such shares shall thereafter have the voting rights they would have had in the absence of this article.
+		</section>
+	</text>
+	<history>1989, c. 14; 2005, c. 765.</history>
+</law>

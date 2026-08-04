@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="3" level="2">General Obligation and Construction of Contract</unit>
+	</structure>
+	<section_number>8.2-310</section_number>
+	<catch_line>Open time for payment or running of credit; authority to ship under reservation</catch_line>
+	<text>
+		Unless otherwise agreed:
+		<section prefix="a">payment is due at the time and place at which the buyer is to receive the goods even though the place of shipment is the place of delivery; and
+		</section>
+		<section prefix="b">if the seller is authorized to send the goods he may ship them under reservation, and may tender the documents of title, but the buyer may inspect the goods after their arrival before payment is due unless such inspection is inconsistent with the terms of the contract (§ 8.2-513); and
+		</section>
+		<section prefix="c">if delivery is authorized and made by way of documents of title otherwise than by subsection (b) then payment is due regardless of where the goods are to be received (i) at the time and place at which the buyer is to receive delivery of the tangible documents or (ii) at the time the buyer is to receive delivery of the electronic documents and at the seller's place of business or if none, the seller's residence; and
+		</section>
+		<section prefix="d">where the seller is required or authorized to ship the goods on credit the credit period runs from the time of shipment but postdating the invoice or delaying its dispatch will correspondingly delay the starting of the credit period.
+		</section>
+	</text>
+	<history>1964, c. 219; 2004, c. 200.</history>
+</law>

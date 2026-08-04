@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="16.3" level="2">Pay Telephone Registration Act</unit>
+	</structure>
+	<section_number>56-508.16</section_number>
+	<catch_line>Commission authorized to promulgate regulations</catch_line>
+	<text>
+		<section prefix="A">The State Corporation Commission may promulgate regulations necessary to implement the provisions of this chapter.
+		</section>
+		<section prefix="B">Without limiting the Commission's authority to promulgate other necessary regulations, the Commission's regulations implementing this chapter may, among other things, authorize the Commission:
+			<section prefix="1">To levy and collect reasonable registration or other fees;
+			</section>
+			<section prefix="2">To establish service and rate criteria for registered or certificated persons; and
+			</section>
+			<section prefix="3">To suspend or revoke registration, or to levy fines or impose other sanctions, for failure to comply with such regulations.
+			</section>
+		</section>
+	</text>
+	<history>1993, c. 140.</history>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="10" level="2">Crimes Against the Administration of Justice</unit>
+		<unit label="article" identifier="6" level="3">Interference with Administration of Justice</unit>
+	</structure>
+	<section_number>18.2-461.1</section_number>
+	<catch_line>False emergency communication to emergency personnel; penalties</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Emergency communication" means a communication of any type to report a fire or to summon a firefighter, as defined in § 65.2-107, law-enforcement officer, as defined in § 9.1-101, or emergency medical services personnel, as defined in § 32.1-111.1, in a situation where human life, health, or property is reported to be in jeopardy and the prompt summoning of aid is essential.
+			"Emergency personnel" means the same as that term is defined in § 18.2-426.
+			"Emergency response" means a response by a firefighter, law-enforcement officer, or emergency medical services personnel to a situation where human life, health, or property is in jeopardy and the prompt provision of aid is essential to protect human life, health, or property.
+		</section>
+		<section prefix="B">Any person who knowingly reports, or causes another to report in reliance on intentionally false information provided by such person, a false emergency communication to any emergency personnel that results in an emergency response is guilty of a Class 1 misdemeanor.
+		</section>
+		<section prefix="C">Any person who knowingly reports, or causes another to report in reliance on intentionally false information provided by such person, a false emergency communication to any emergency personnel that results in an emergency response and any person suffers serious bodily injury, as defined in § 18.2-51.4, as a direct and proximate result of the false emergency communication to emergency personnel is guilty of a Class 6 felony.
+		</section>
+		<section prefix="D">Any person who reports, or causes another to report in reliance on intentionally false information provided by such person, a false emergency communication to any emergency personnel that results in an emergency response and any person is killed as a direct and proximate result of the false emergency communication to personnel is guilty of a Class 5 felony.
+		</section>
+		<section prefix="E">Any person violating this section may be prosecuted in the county or city where the emergency communication was made, in the county or city where the emergency communication was received, or in the county or city where the emergency response occurred.
+		</section>
+		<section prefix="F">A violation of this section shall constitute a separate and distinct offense. The provisions of this section shall not preclude prosecution under any other statute.
+		</section>
+	</text>
+	<history>2023, cc. 22, 23.</history>
+</law>

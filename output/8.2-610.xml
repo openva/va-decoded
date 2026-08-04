@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="6" level="2">Breach, Repudiation and Excuse</unit>
+	</structure>
+	<section_number>8.2-610</section_number>
+	<catch_line>Anticipatory repudiation</catch_line>
+	<text>
+		When either party repudiates the contract with respect to a performance not yet due the loss of which will substantially impair the value of the contract to the other, the aggrieved party may
+		<section prefix="a">for a commercially reasonable time await performance by the repudiating party; or
+		</section>
+		<section prefix="b">resort to any remedy for breach (§ 8.2-703 or § 8.2-711), even though he has notified the repudiating party that he would await the latter's performance and has urged retraction; and
+		</section>
+		<section prefix="c">in either case suspend his own performance or proceed in accordance with the provisions of this title on the seller's right to identify goods to the contract notwithstanding breach or to salvage unfinished goods (§ 8.2-704).
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

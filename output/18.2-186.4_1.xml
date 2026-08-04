@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="6" level="2">Crimes Involving Fraud</unit>
+		<unit label="article" identifier="5" level="3">False Representations to Obtain Property or Credit</unit>
+	</structure>
+	<section_number>18.2-186.4:1</section_number>
+	<catch_line>Internet publication of personal information of certain public officials</catch_line>
+	<text>
+		<section prefix="A">The Commonwealth shall not publish on the Internet the personal information of any public official if a court has, pursuant to subsection B, ordered that the official's personal information is prohibited from publication and the official has made a demand in writing to the Commonwealth, accompanied by the order of the court, that the Commonwealth not publish such information.
+		</section>
+		<section prefix="B">Any public official may petition a circuit court for an order prohibiting the publication on the Internet, by the Commonwealth, of the official's personal information. The petition shall set forth the specific reasons that the official seeks the order. The court shall issue such an order only if it finds that (i) there exists a threat to the official or a person who resides with him that would result from publication of the information or (ii) the official has demonstrated a reasonable fear of a risk to his safety or the safety of someone who resides with him that would result from publication of the information on the Internet.
+		</section>
+		<section prefix="C">If the Commonwealth publishes the public official's personal information on the Internet prior to receipt of a written demand by the official under subsection A or E, it shall remove the information from publication on the Internet within 48 hours of receipt of the written demand.
+		</section>
+		<section prefix="D">A written demand made by any public official pursuant to this section shall be effective for four years as follows:
+			<section prefix="1">For a law-enforcement officer, if the officer remains continuously employed as a law-enforcement officer throughout the four-year period;
+			</section>
+			<section prefix="2">For an attorney for the Commonwealth, if such public official continuously serves throughout the four-year period; and
+			</section>
+			<section prefix="3">For a retired or former law-enforcement officer, if such public official was retired or ended his service as a law-enforcement officer within four years of filing the petition.
+			</section>
+		</section>
+		<section prefix="E">The Commonwealth shall not publish on the Internet the personal information of any active or retired federal or Virginia justice, judge, or magistrate who has made a demand in writing to the Commonwealth that the Commonwealth not publish such information. A written demand made pursuant to this subsection shall be effective until such demand is rescinded in writing by such judge, justice, or magistrate.
+		</section>
+		<section prefix="F">For purposes of this section:
+			"Commonwealth" means any agency or political subdivision of the Commonwealth of Virginia.
+			"Law-enforcement officer" means the same as that term is defined in § 9.1-101, 5 U.S.C. § 8331(20), excluding officers whose duties relate to detention as defined in 5 U.S.C. § 8331(20), and any other federal officer or agent who is credentialed with the authority to enforce federal law.
+			"Personal information" means home address, home telephone numbers, personal cell phone numbers, or personal email address.
+			"Publication" and "publishes" means intentionally communicating personal information to, or otherwise making personal information available to, and accessible by, the general public through the Internet or other online service.
+			"Public official" means any law-enforcement officer, retired or former law-enforcement officer, or attorney for the Commonwealth.
+			"Retired or former law-enforcement officer" means any person who was employed as a law-enforcement officer as that term is defined in § 9.1-101; has retired from law enforcement or has ended his service as a law-enforcement officer; and is in good standing with no pending investigations or disciplinary actions.
+		</section>
+		<section prefix="G">No provision of this section shall apply to lists of registered voters and persons who voted, voter registration records, or lists of absentee voters prepared or provided under Title 24.2.
+		</section>
+	</text>
+	<history>2010, c. 767; 2012, c. 143; 2014, c. 170; 2023, cc. 801, 802; 2025, cc. 207, 215.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="8" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-1235</section_number>
+	<catch_line>Judicial dissolution</catch_line>
+	<text>
+		<section prefix="A">On application by or for a beneficial owner, the circuit court of the city or county in which the registered office of the business trust is located may decree dissolution of a business trust if it is not reasonably practicable to carry on the business in conformity with the articles of trust and any governing instrument.
+		</section>
+		<section prefix="B">When the winding up of the affairs of the business trust has been completed, the court shall so advise the Commission, which shall enter an order of cancellation of the business trust's existence.
+		</section>
+	</text>
+	<history>2002, c. 621; 2008, c. 101.</history>
+</law>

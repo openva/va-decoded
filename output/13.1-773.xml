@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="18" level="3">Records and Reports</unit>
+	</structure>
+	<section_number>13.1-773</section_number>
+	<catch_line>Court-ordered inspection</catch_line>
+	<text>
+		<section prefix="A">If a corporation does not allow a shareholder who complies with subsection A of § 13.1-771 to inspect and copy any records required by that subsection to be available for inspection, the circuit court in the city or county where the corporation's principal office is located, or, if none in the Commonwealth, where its registered office is located, may summarily order inspection and copying of the records demanded at the corporation's expense upon application of the shareholder.
+		</section>
+		<section prefix="B">If a corporation does not within a reasonable time allow a shareholder who complies with subsections C and D of § 13.1-771 to inspect and copy the records required by subsection C, the shareholder may apply to the circuit court in the city or county where the corporation's principal office is located, or, if none in the Commonwealth, where its registered office is located, for an order to permit inspection and copying of the records demanded. The court shall dispose of an application under this subsection on an expedited basis.
+		</section>
+		<section prefix="C">If the court orders inspection and copying of the records demanded, it may impose reasonable restrictions on their confidentiality, use, or distribution by the demanding shareholder. If the court orders inspection and copying of the records demanded, it may also order the corporation to pay the shareholder's expenses incurred to obtain the order if the shareholder proves that the corporation (i) refused inspection without a reasonable basis for doubt about the right of the shareholder to inspect the records demanded or (ii) imposed unreasonable restrictions on the confidentiality, use, or distribution of the records demanded.
+		</section>
+	</text>
+	<history>1985, c. 522; 2010, c. 782; 2019, c. 734.</history>
+</law>

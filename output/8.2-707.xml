@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="7" level="2">Remedies</unit>
+	</structure>
+	<section_number>8.2-707</section_number>
+	<catch_line>"Person in the position of a seller."</catch_line>
+	<text>
+		<section prefix="1">A "person in the position of a seller" includes as against a principal an agent who has paid or become responsible for the price of goods on behalf of his principal or anyone who otherwise holds a security interest or other right in goods similar to that of a seller.
+		</section>
+		<section prefix="2">A person in the position of a seller may as provided in this title withhold or stop delivery (§ 8.2-705) and resell (§ 8.2-706) and recover incidental damages (§ 8.2-710).
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

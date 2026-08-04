@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="8" level="3">Regulation of Traffic</unit>
+		<unit label="article" identifier="1" level="4">General and Miscellaneous</unit>
+	</structure>
+	<section_number>46.2-816.1</section_number>
+	<catch_line>Careless driving and infliction of injury or death on vulnerable road users; penalty</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "vulnerable road user" means a pedestrian; the operator of or passenger on a bicycle, electric personal assistive mobility device, electric power-assisted bicycle, wheel chair or wheel chair conveyance, skateboard, roller skates, motorized skateboard or scooter, or animal-drawn vehicle or any attached device; or any person riding an animal.
+		</section>
+		<section prefix="B">It is a Class 1 misdemeanor to operate a motor vehicle in a careless or distracted manner such that the careless or distracted operation is the proximate cause of serious bodily injury as defined in § 18.2-51.4 to or the death of a vulnerable road user who is lawfully present on the highway at the time of injury or death.
+		</section>
+		<section prefix="C">A prosecution or proceeding under § 46.2-852 is a bar to a prosecution or proceeding under this section for the same act, and a prosecution or proceeding under this section is a bar to a prosecution or proceeding under § 46.2-852 for the same act.
+		</section>
+	</text>
+	<history>2020, c. 1259; 2022, cc. 506, 507.</history>
+</law>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="19" level="2">Regulation of Rates Generally</unit>
+	</structure>
+	<section_number>38.2-1901</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter:
+		"Classification system" or "classification" means the plan, system, or arrangement for grouping risks with similar characteristics or a specified class of risk by recognizing differences in exposure to hazards.
+		"Client company" shall have the same meaning ascribed to it in § 65.2-101.
+		"Coemployee" shall have the same meaning ascribed to it in § 65.2-101.
+		"Experience rating" means a statistical procedure utilizing past risk experience to produce a prospective premium credit, debit, or unity modification.
+		"Market segment" means any line or class of insurance or, if it is described in general terms, any subdivision of insurance or any class of risks or combination of classes.
+		"Professional employer organization" shall have the same meaning ascribed to it in § 65.2-101.
+		"Professional employer services" means services provided to a client company pursuant to a written agreement with a professional employer organization, including, at a minimum, the payment of wages of the coemployees, the reservation of the right of direction and control over the coemployees, and the responsibility for the withholding and payment of payroll taxes of the coemployees.
+		"Prospective loss costs" means historical aggregate losses and loss adjustment expenses projected through development to their ultimate value and through trending to a future point in time. Prospective loss costs do not include provisions for profit or expenses other than loss adjustment expenses.
+		"Rate service organization" means any entity, including its affiliates or subsidiaries, which either has two or more member insurers or is controlled either directly or indirectly by two or more insurers, other than a joint underwriting association under § 38.2-1915, which assists insurers in ratemaking or filing by (i) collecting, compiling, and furnishing loss statistics; (ii) recommending, making, or filing prospective loss costs or supplementary rate information; or (iii) advising about rate questions, except as an attorney giving legal advice. Two or more insurers having a common ownership or operating in this Commonwealth under common management or control constitute a single insurer for purposes of this definition.
+		"Retrospective rating plan" means a rating plan that adjusts the premium for the insurance to which it applies on the basis of losses incurred during the period covered by that insurance.
+		"Statistical plan" means the plan, system, or arrangement used in collecting data for rate making or other purposes.
+		"Supplementary rate information" includes any manual or plan of rates, experience rating plan, statistical plan, classification, rating schedule, minimum premium, or minimum premium rule, policy fee, rating rule, rate-related underwriting rule, and any other information not otherwise inconsistent with the purposes of this chapter required by the Commission.
+		"Supporting data" includes:
+		<section prefix="1">The experience and judgment of the filer and, to the extent the filer wishes or the Commission requires, the experience and judgment of other insurers or rate service organizations;
+		</section>
+		<section prefix="2">The filer's interpretation of any statistical data relied upon;
+		</section>
+		<section prefix="3">Descriptions of the actuarial and statistical methods employed in setting the rates; and
+		</section>
+		<section prefix="4">Any other relevant information required by the Commission.
+		</section>
+	</text>
+	<history>1973, c. 504, §§ 38.1-279.30, 38.1-279.40; 1986, c. 562; 1990, c. 596; 1993, c. 985; 1997, c. 153; 2000, cc. 624, 718.</history>
+</law>

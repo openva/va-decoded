@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="8" level="3">Regulation of Traffic</unit>
+		<unit label="article" identifier="4" level="4">Passing</unit>
+	</structure>
+	<section_number>46.2-841</section_number>
+	<catch_line>When overtaking vehicle may pass on right</catch_line>
+	<text>
+		<section prefix="A">The driver of a vehicle may overtake and pass to the right of another vehicle only:
+			<section prefix="1">When the overtaken vehicle is making or about to make a left turn, and its driver has given the required signal;
+			</section>
+			<section prefix="2">On a highway with unobstructed pavement, not occupied by parked vehicles, of sufficient width for two or more lines of moving vehicles in each direction;
+			</section>
+			<section prefix="3">On a one-way street or on any one-way roadway when the roadway is free from obstructions and of sufficient width for two or more lines of moving vehicles.
+			</section>
+		</section>
+		<section prefix="B">The driver of a vehicle may overtake and pass another vehicle on the right only under conditions permitting such movement in safety. Except where driving on paved shoulders is permitted by lawfully placed signs, no such movement shall be made by driving on the shoulder of the highway or off the pavement or main traveled portion of the roadway.
+		</section>
+		<section prefix="C">Notwithstanding subsections A and B, nothing in this section shall permit a driver of a motor vehicle to cross a solid line designating a bicycle lane to pass or attempt to pass another vehicle, except as provided in § 46.2-920.1, 46.2-1210, or 46.2-1212.1, as directed by a law-enforcement officer, or where the roadway is otherwise impassable due to weather conditions, an accident, or an emergency situation.
+		</section>
+	</text>
+	<history>Code 1950, § 46-226; 1952, c. 666; 1958, c. 541, § 46.1-210; 1985, c. 481; 1989, c. 727; 2020, c. 1259.</history>
+</law>

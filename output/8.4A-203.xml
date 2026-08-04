@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4A" level="1">Commercial Code—Funds Transfers</unit>
+		<unit label="part" identifier="2" level="2">Issue and Acceptance of Payment Order</unit>
+	</structure>
+	<section_number>8.4A-203</section_number>
+	<catch_line>Unenforceability of certain verified payment orders</catch_line>
+	<text>
+		<section prefix="a">If an accepted payment order is not, under subsection (a) of § 8.4A-202, an authorized order of a customer identified as sender, but is effective as an order of the customer pursuant to subsection (b) of § 8.4A-202, the following rules apply:
+			<section prefix="1">By express agreement evidenced by a record, the receiving bank may limit the extent to which it is entitled to enforce or retain payment of the payment order.
+			</section>
+			<section prefix="2">The receiving bank is not entitled to enforce or retain payment of payment order if the customer proves that the order was not caused, directly or indirectly, by a person (i) entrusted at any time with duties to act for the customer with respect to payment orders or the security procedure, or (ii) who obtained access to transmitting facilities of the customer or who obtained, from a source controlled by the customer and without authority of the receiving bank, information facilitating breach of the security procedure, regardless of how the information was obtained or whether the customer was at fault. Information includes any access device, computer software, or the like.
+			</section>
+		</section>
+		<section prefix="b">This section applies to amendments of payment orders to the same extent it applies to payment orders.
+		</section>
+	</text>
+	<history>1990, c. 9; 2024, c. 652.</history>
+</law>

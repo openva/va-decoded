@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5" level="2">Desertion and Nonsupport</unit>
+	</structure>
+	<section_number>20-88.02:1</section_number>
+	<catch_line>Limitations on spousal support orders resulting in eligibility for medical assistance services; definitions</catch_line>
+	<text>
+		<section prefix="A">Whenever any court shall determine that any petition for a spousal support order will have the effect of rendering either spouse eligible for medical assistance services or for accelerating eligibility for medical assistance services, and the community spouse is asking for additional resources which will bring his total resources to an amount in excess of the federally established maximum spousal resource allowance:
+			<section prefix="1">The court shall not enter the requested spousal support order unless the court first orders the institutionalized spouse to make available the maximum income contribution to the community spouse.
+			</section>
+			<section prefix="2">The court must ascertain, when determining additional income in excess of the federally established community spouse minimum monthly maintenance needs allowance, that the increase is necessary due to exceptional circumstances resulting in significant financial duress to the community spouse.
+			</section>
+			<section prefix="3">When determining the amount of any additional resources to be allowed to raise the community spouse's income up to either the federally established community spouse minimum monthly maintenance needs allowance or in excess of such minimum monthly maintenance needs allowance, the amount of such additional resources to be allowed shall be the greater of (i) those additional resources necessary to generate an amount sufficient to increase the community spouse's income to the applicable monthly needs or income allowance, as the case may be when based on the current earnings of such resources or (ii) the amount necessary, at the time of the court's deliberations, to purchase a single premium annuity that would generate monthly income to the community spouse in an amount sufficient to increase the community spouse's income to the applicable monthly needs or income allowance, as the case may be.
+			</section>
+		</section>
+		<section prefix="B">For the purpose of making the determinations required by this section:
+			"Community spouse" means the spouse of an individual residing in a medical institution or nursing facility.
+			"Federally established maximum spousal resource allowance" means that amount established as the maximum spousal resource allowance in 42 U.S.C. 1396r-5 (f) (2) (A) as adjusted annually in accordance with 42 U.S.C. 1396r-5 (g).
+			"Institutionalized spouse" means an individual who has been residing in a medical institution or nursing facility for at least thirty consecutive days and who is married to an individual who is not residing in a medical institution or nursing facility.
+			"Significant financial duress" means, but is not limited to, threatened loss of basic shelter, food or medically necessary health care or the financial burden of caring for a disabled child, sibling or other immediate relative.
+		</section>
+	</text>
+	<history>1994, cc. 836, 952.</history>
+</law>

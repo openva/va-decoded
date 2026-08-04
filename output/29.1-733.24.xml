@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="29.1" level="1">Wildlife, Inland Fisheries and Boating</unit>
+		<unit label="chapter" identifier="7" level="2">Boating Laws</unit>
+		<unit label="article" identifier="2.1" level="3">Virginia Uniform Certificate of Title for Watercraft Act</unit>
+	</structure>
+	<section_number>29.1-733.24</section_number>
+	<catch_line>Rights of secured party</catch_line>
+	<text>
+		<section prefix="A">Subject to subsection B or C, the effect of perfection and nonperfection of a security interest and the priority of a perfected or unperfected security interest with respect to the rights of a purchaser or creditor, including a lien creditor, is governed by Titles 8.1A through 8.10.
+		</section>
+		<section prefix="B">A security interest perfected under this article has priority over any statutory lien on the watercraft, except for a mechanics lien for repairs to the extent of $150 given by § 43-33 if the requirements are met, provided the mechanic furnishes the holder of any such recorded lien who requests it with an itemized sworn statement of the work done and materials supplied for which the lien is claimed.
+		</section>
+		<section prefix="C">If, while a security interest in a watercraft is perfected by any method under this article, the Department creates a certificate of title that does not indicate that the watercraft is subject to the security interest or contain a statement that it may be subject to security interests not indicated on the certificate:
+			<section prefix="1">A buyer of the watercraft, other than a person in the business of selling or leasing watercraft of that kind, takes free of the security interest if the buyer, acting in good faith and without knowledge of the security interest, gives value and receives possession of the watercraft; and
+			</section>
+			<section prefix="2">The security interest is subordinate to a conflicting security interest in the watercraft that is perfected under § 29.1-733.15 after creation of the certificate and without the conflicting secured party's knowledge of the security interest.
+			</section>
+		</section>
+	</text>
+	<history>2013, c. 787.</history>
+</law>

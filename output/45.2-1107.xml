@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="III" level="2">Mineral Mines</unit>
+		<unit label="part" identifier="A" level="3">Mineral Mines Generally</unit>
+		<unit label="chapter" identifier="11" level="4">Mineral Mine Safety Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>45.2-1107</section_number>
+	<catch_line> Notifying miners of violations; compliance with Act</catch_line>
+	<text>
+		<section prefix="A">The operator and his agent shall cooperate with the mine foreman, competent person, and other officials in the discharge of their duties as required by the Act. Such operator and agent shall direct all miners to comply with all provisions of the Act, especially when the attention of such operator or agent is called by the Director or a mine inspector to any violation of the Act.
+		</section>
+		<section prefix="B">The operator of any mine or his agent shall operate at all times in full conformity with the Act and any other mining law of the Commonwealth, including any regulation of the Department. This requirement shall not relieve any other person who is subject to the provisions of the Act from his duty to comply with the requirements of the Act.
+		</section>
+		<section prefix="C">Nothing in the Act shall be construed to relieve an operator or his agent from the duty imposed at common law to secure the reasonable safety of his employees.
+		</section>
+		<section prefix="D">No operator, agent, competent person, or certified person shall knowingly permit any person to work in any part of a mine in violation of written instructions issued by a mine inspector pursuant to the Act.
+		</section>
+	</text>
+	<history>1997, c. 390, § 45.1-161.292:8; 1998, c. 695; 2021, Sp. Sess. I, c. 387.</history>
+</law>

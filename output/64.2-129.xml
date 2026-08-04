@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+		<unit label="article" identifier="3.1" level="4">Uniform Fiduciary Access to Digital Assets Act</unit>
+	</structure>
+	<section_number>64.2-129</section_number>
+	<catch_line>Fiduciary duty and authority</catch_line>
+	<text>
+		<section prefix="A">The legal duties imposed on a fiduciary charged with managing tangible property apply to the management of digital assets, including:
+			<section prefix="1">The duty of care;
+			</section>
+			<section prefix="2">The duty of loyalty; and
+			</section>
+			<section prefix="3">The duty of confidentiality.
+			</section>
+		</section>
+		<section prefix="B">A fiduciary's or designated recipient's authority with respect to a digital asset of a user:
+			<section prefix="1">Except as otherwise provided in § 64.2-118, is subject to the applicable terms-of-service agreement;
+			</section>
+			<section prefix="2">Is subject to other applicable law, including copyright law;
+			</section>
+			<section prefix="3">In the case of a fiduciary, is limited by the scope of the fiduciary's duties; and
+			</section>
+			<section prefix="4">May not be used to impersonate the user.
+			</section>
+		</section>
+		<section prefix="C">A fiduciary with authority over the property of a decedent, protected person, principal, or settlor has the right to access any digital asset in which the decedent, protected person, principal, or settlor had a right or interest and that is not held by a custodian or subject to a terms-of-service agreement.
+		</section>
+		<section prefix="D">A fiduciary acting within the scope of the fiduciary's duties is an authorized user of the property of the decedent, protected person, principal, or settlor for the purpose of applicable computer-fraud and unauthorized computer-access laws, including Article 7.1 (§ 18.2-152.1 et seq.) of Chapter 5 of Title 18.2.
+		</section>
+		<section prefix="E">A fiduciary with authority over the tangible personal property of a decedent, protected person, principal, or settlor:
+			<section prefix="1">Has the right to access the property and any digital asset stored in it; and
+			</section>
+			<section prefix="2">Is an authorized user for the purposes of computer-fraud and unauthorized computer-access laws, including Article 7.1 (§ 18.2-152.1 et seq.) of Chapter 5 of Title 18.2.
+			</section>
+		</section>
+		<section prefix="F">A custodian may disclose information in an account to a fiduciary of the user when the information is required to terminate an account used to access digital assets licensed to the user.
+		</section>
+		<section prefix="G">A fiduciary of a user may request a custodian to terminate the user's account. A request for termination shall be in writing, in either physical or electronic form, and accompanied by:
+			<section prefix="1">If the user is deceased, a certified copy of the death certificate of the user;
+			</section>
+			<section prefix="2">A certified copy of the letter of appointment of the representative or a small-estate affidavit or court order, court order, power of attorney, or trust giving the fiduciary authority over the account; and
+			</section>
+			<section prefix="3">If requested by the custodian:
+				a. A number, username, address, or other unique subscriber or account identifier assigned by the custodian to identify the user's account;
+				b. Evidence linking the account to the user; or
+				c. A finding by the court that the user had a specific account with the custodian, identifiable by the information specified in subdivision a.
+			</section>
+		</section>
+	</text>
+	<history>2017, cc. 33, 80.</history>
+</law>

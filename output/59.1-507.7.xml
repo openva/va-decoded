@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="7" level="3">Breach of Contract</unit>
+	</structure>
+	<section_number>59.1-507.7</section_number>
+	<catch_line>Copy; revocation of acceptance</catch_line>
+	<text>
+		<section prefix="a">A party that accepts a nonconforming tender of a copy may revoke acceptance only if the nonconformity is a material breach of contract and the party accepted it:
+			<section prefix="1">on the reasonable assumption that the nonconformity would be cured, and the nonconformity was not seasonably cured;
+			</section>
+			<section prefix="2">during a continuing effort by the party in breach at adjustment and cure, and the breach was not seasonably cured; or
+			</section>
+			<section prefix="3">without discovery of the nonconformity, if acceptance was reasonably induced either by the other party's assurances or by the difficulty of discovery before acceptance.
+			</section>
+		</section>
+		<section prefix="b">Revocation of acceptance is not effective until the revoking party notifies the other party of the revocation.
+		</section>
+		<section prefix="c">Revocation of acceptance of a copy is precluded if:
+			<section prefix="1">it does not occur within a reasonable time after the party attempting to revoke discovers or should have discovered the grounds for it;
+			</section>
+			<section prefix="2">it occurs after a substantial change in condition not caused by defects in the information, such as after the party commingles the information in a manner that makes its return impossible; or
+			</section>
+			<section prefix="3">the party attempting to revoke received a substantial benefit or value from the information, and the benefit or value cannot be returned.
+			</section>
+		</section>
+		<section prefix="d">A party that rightfully revokes has the same duties and is under the same restrictions as if the party had refused tender of the copy.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

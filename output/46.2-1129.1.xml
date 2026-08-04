@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="10" level="3">Motor Vehicle and Equipment Safety</unit>
+		<unit label="article" identifier="17" level="4">Maximum Vehicle Weights</unit>
+	</structure>
+	<section_number>46.2-1129.1</section_number>
+	<catch_line>Further extension of weight limits for certain vehicles utilizing an auxiliary power unit or other idle reduction technology</catch_line>
+	<text>
+		Any motor vehicle that utilizes an auxiliary power unit or other idle reduction technology in order to promote reduction of fuel use and emissions due to engine idling shall be allowed up to an additional 550 pounds total in gross, single axle, tandem axle, or bridge formula weight limits.
+		To be eligible for this exception, the operator of the vehicle must be able to prove (i) by written certification, the weight of the auxiliary power unit or other idle reduction technology unit and (ii) by demonstration or written certification, that such idle reduction technology is fully functional at all times.
+		Certification of the weight of the auxiliary power unit must be available to law-enforcement officials if the vehicle is found in violation of applicable weight laws. The additional weight allowed cannot exceed 550 pounds or the weight certified, whichever is less.
+		For purposes of this section, "auxiliary power unit" means a mechanical or electrical device affixed to a motor vehicle that is designed to be used to generate an alternative source of power for any of the motor vehicle's systems other than the primary propulsion engine, and "idle reduction technology" refers to a technology that allows engine operators to refrain from long-duration idling of the main propulsion engine by using an alternative technology.
+	</text>
+	<history>2009, c. 92; 2013, c. 118.</history>
+</law>

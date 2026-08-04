@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions</unit>
+		<unit label="article" identifier="2" level="3">Insurance Classified and Defined</unit>
+	</structure>
+	<section_number>38.2-111</section_number>
+	<catch_line>Miscellaneous property and casualty</catch_line>
+	<text>
+		<section prefix="A">"Miscellaneous property insurance" means insurance against loss of or damage to property resulting from:
+			<section prefix="1">Lightning, smoke or smudge, windstorm, tornado, cyclone, earthquake, volcanic eruption, rain, hail, frost and freeze, weather or climatic conditions, excess or deficiency of moisture, flood, the rising of the waters of the ocean or its tributaries; or
+			</section>
+			<section prefix="2">Insects, blights, or disease of such property other than animals; or
+			</section>
+			<section prefix="3">Electrical disturbance causing or concomitant with a fire or an explosion; or
+			</section>
+			<section prefix="4">The ownership, maintenance or use of elevators, except loss or damage by fire. This class of insurance includes the incidental power to make inspections of and to issue certificates of inspection upon any such elevator; or
+			</section>
+			<section prefix="5">Bombardment, invasion, insurrection, riot, civil war or commotion, military or usurped power, any order of a civil authority made to prevent the spread of a conflagration, epidemic or catastrophe, vandalism or malicious mischief, strike or lockout, collapse from any cause, or explosion; but not including any kind of insurance specified in § 38.2-115, except insurance against loss or damage to property resulting from:
+				a. Explosion of pressure vessels, except steam boilers of more than fifteen pounds pressure, in buildings designed and used solely for residential purposes by not more than four families;
+				b. Explosion of any kind originating outside of the insured building or outside of the building containing the insured property;
+				c. Explosion of pressure vessels not containing steam; or
+				d. Electrical disturbance causing or concomitant with an explosion; or
+			</section>
+			<section prefix="6">Any other cause or hazard which may result in a loss or damage to property, if the insurance is not contrary to law or public policy.
+			</section>
+		</section>
+		<section prefix="B">"Miscellaneous casualty insurance" means insurance against liability, and against loss, damage, or expense arising out of injury to the economic interests of any person, but not including any class of insurance otherwise specified in this title, provided that such insurance is not contrary to law or public policy, except that any policy of miscellaneous casualty insurance may include appropriate provisions obligating the insurer to pay medical, hospital, surgical, and funeral expenses arising out of the death, dismemberment, sickness, or injury of any person, and death and dismemberment benefits in the event of death or dismemberment, if the death, dismemberment, sickness, or injury is caused by or is incidental to a cause of loss insured under the policy.
+		</section>
+	</text>
+	<history>1952, c. 317, §§ 38.1-7, 38.1-12; 1986, c. 562; 2004, c. 182; 2007, c. 762.</history>
+</law>

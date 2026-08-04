@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="2" level="2">Clerks, Clerks' Offices and Records</unit>
+		<unit label="article" identifier="8" level="3">Secure Remote Access</unit>
+	</structure>
+	<section_number>17.1-295</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this title:
+		"Confidential court records" means any civil or criminal record maintained by a clerk of the circuit court designated by this Code as confidential or any such record sealed pursuant to court order.
+		"Electronic filing of court records" means the networks or systems maintained by a clerk of the circuit court, or the clerk's designated application service providers, for the submittal of instruments for electronic filing of court records in accordance with this title, the Rules of the Supreme Court of Virginia, and the secure remote access standards developed by the Virginia Information Technologies Agency.
+		"Electronic recording of land records" means the networks or systems maintained by a clerk of the circuit court, or the clerk's designated application service providers, for the submittal of instruments for electronic filing of land records in accordance with the provisions of Article 3 (§ 55.1-346 et seq.) of Chapter 3 of Title 55.1 regarding the satisfaction of mortgages, the Uniform Real Property Electronic Recording Act (§ 55.1-661 et seq.), and the provisions of this title.
+		"Operational expenses" means expenses of the clerk of court used to maintain the clerk's office and includes, but is not limited to, (i) computer support, maintenance, enhancements, upgrades, and replacements and office automation and information technology equipment, including software and conversion services; (ii) preserving, maintaining, and enhancing court records, including, but not limited to, the costs of repairs, maintenance, consulting services, service contracts, redaction of social security numbers from certain records, and system replacements or upgrades; and (iii) improving public access to records maintained by the clerk, including locating technology in an offsite facility for such purposes or for implementation of a disaster recovery plan.
+		"Public access" means that the clerk of the circuit court has made available to subscribers that are other than governmental agencies, secure remote access to records maintained by the clerk in accordance with § 17.1-294.
+		"Secure remote access to court records" means public access by electronic means on a network or system to court records maintained by the clerk of the circuit court or the clerk's designated application service providers, in compliance with this title, the Rules of the Supreme Court of Virginia, and the secure remote access standards developed by the Virginia Information Technologies Agency.
+		"Secure remote access to land records" means public access by electronic means on a network or system to land records maintained by the clerk of the circuit court or the clerk's designated application service providers, in compliance with the Secure Remote Access Standards developed by the Virginia Information Technologies Agency.
+		"Subscriber" means any person who has entered into a subscriber agreement with the clerk of the circuit court authorizing the subscriber to have secure remote access to land records or secure remote access to court records maintained by the clerk or the clerk's designated application service providers. If the subscriber is an entity with more than one person who will use the network or system to access land records maintained by the clerk, or the clerk's designated application service providers, each individual user shall execute a subscriber agreement and obtain a separate "user id" and "password" from the clerk. The subscriber is responsible for the fees due under this title and the proper use of the secure remote access system pursuant to the subscriber agreement, applicable Virginia law, and Secure Remote Access Standards developed by the Virginia Information Technologies Agency.
+	</text>
+	<history>2008, cc. 823, 833; 2013, cc. 77, 263, 422; 2017, cc. 78, 92.</history>
+</law>

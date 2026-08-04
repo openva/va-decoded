@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="7" level="2">Crimes Involving Health and Safety</unit>
+		<unit label="article" identifier="1.2" level="3">Sale of Ephedrine or Related Compounds</unit>
+	</structure>
+	<section_number>18.2-265.11</section_number>
+	<catch_line>Exemption from participation in electronic system and maintenance of a written log</catch_line>
+	<text>
+		<section prefix="A">The following entities shall not be required to participate in the electronic system and shall not be required to maintain a written log:
+			<section prefix="1">Licensed manufacturers that manufacture and lawfully distribute products in the channels of commerce.
+			</section>
+			<section prefix="2">Wholesalers that lawfully distribute products in the channels of commerce.
+			</section>
+			<section prefix="3">Inpatient pharmacies of health care facilities licensed in the Commonwealth.
+			</section>
+			<section prefix="4">Licensed long-term health care facilities.
+			</section>
+			<section prefix="5">Government-operated health care clinics or departments or centers.
+			</section>
+			<section prefix="6">Physicians who dispense drugs pursuant to § 54.1-3304.
+			</section>
+			<section prefix="7">Pharmacies located in correctional facilities.
+			</section>
+			<section prefix="8">Government-operated or industry-operated medical facilities serving the employees of the Commonwealth or local or federal government.
+			</section>
+		</section>
+		<section prefix="B">Purchases of ephedrine or related compounds pursuant to a valid prescription are not required to be reported to the system or entered into a written log.
+		</section>
+		<section prefix="C">The sale of a single package containing no more than 60 milligrams of ephedrine or related compounds to an individual is not required to be reported to the system or entered into a log provided it is an isolated sale.
+		</section>
+	</text>
+	<history>2012, cc. 160, 252.</history>
+</law>

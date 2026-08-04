@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="49" level="3">Animal Remedies</unit>
+	</structure>
+	<section_number>3.2-4907</section_number>
+	<catch_line>Misbranded remedy</catch_line>
+	<text>
+		An animal remedy is misbranded:
+		<section prefix="1">Unless the label bears, in the English language:
+			a. The name and principal addresses of the manufacturer or person responsible for placing such animal remedy on the market.
+			b. The name, brand, or trademark under which the animal remedy is sold.
+			c. An accurate quantity statement of the net contents of the package, lot, or parcel, such contents stated by weight in the case of solids, by volume in the case of liquids, and by both count and weight or volume per dose in the case of dosage forms.
+			d. The common or usual name of each active ingredient; in the case of a drug or drugs intended to be mixed with or in a feed for animals, and in the case of mixtures of a drug or drugs with or in a feed for animals, the English name of each active ingredient shall be stated and also the percentage of each active ingredient, or, in the case of antibiotics, the number of grams of each such active ingredient present in one pound of the product.
+			e. Adequate directions for use.
+			f. Adequate warnings against use in those conditions, whether pathological or normal, where its use may be dangerous to the health of animals, or against unsafe dosage, methods or duration of methods, administration, or application, in such manner and form, as are necessary for the protection of animals.
+		</section>
+		<section prefix="2">If the labeling is false or misleading in any particular.
+		</section>
+		<section prefix="3">If its container is made, formed, or filled so as to be deceptive or misleading as to the amount of contents.
+		</section>
+		<section prefix="4">If it is dangerous to the health of animals when used in the dosage or with the frequency or duration prescribed, recommended, or suggested in the labeling of such remedy.
+		</section>
+		<section prefix="5">If any word, statement, or other information appearing on the label does not also appear on the outside container or wrapper, if present, of the retail package of such article, or is not easily legible through the outside container or wrapper.
+		</section>
+		<section prefix="6">If any word, statement, or other information required to appear on the label is not prominently placed on the label with such conspicuousness, as compared with other words, statements, designs, or devices in the labeling, and in such terms, that it is likely to be read and understood by the ordinary individual under customary conditions of purchase and use.
+			Any animal remedy that is manufactured and distributed under license from and under the supervision of the U.S. Department of Agriculture, and in compliance with the regulations of such department complies with this section.
+		</section>
+	</text>
+	<history>Code 1950, §§ 3-646.1, 3-646.3; 1956, c. 517; 1966, c. 702, §§ 3.1-829, 3.1-832; 1994, c. 910; 2008, c. 860.</history>
+</law>

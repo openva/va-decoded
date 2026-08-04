@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="2" level="2">Collection of Items: Depositary and Collecting Banks</unit>
+	</structure>
+	<section_number>8.4-207.1</section_number>
+	<catch_line>Transfer warranties</catch_line>
+	<text>
+		<section prefix="a">A customer or collecting bank that transfers an item and receives a settlement or other consideration warrants to the transferee and to any subsequent collecting bank that:
+			<section prefix="1">the warrantor is a person entitled to enforce the item;
+			</section>
+			<section prefix="2">all signatures on the item are authentic and authorized;
+			</section>
+			<section prefix="3">the item has not been altered;
+			</section>
+			<section prefix="4">the item is not subject to a defense or claim in recoupment (§ 8.3A-305 (a) ) of any party that can be asserted against the warrantor; and
+			</section>
+			<section prefix="5">the warrantor has no knowledge of any insolvency proceeding commenced with respect to the maker or acceptor or, in the case of an unaccepted draft, the drawer.
+			</section>
+		</section>
+		<section prefix="b">If an item is dishonored, a customer or collecting bank transferring the item and receiving settlement or other consideration is obliged to pay the amount due on the item (i) according to the terms of the item at the time it was transferred, or (ii) if the transfer was of an incomplete item, according to its terms when completed as stated in §§ 8.3A-115 and 8.3A-407. The obligation of a transferor is owed to the transferee and to any subsequent collecting bank that takes the item in good faith. A transferor cannot disclaim its obligation under this subsection by an endorsement stating that it is made "without recourse" or otherwise disclaiming liability.
+		</section>
+		<section prefix="c">A person to whom the warranties under subsection (a) are made and who took the item in good faith may recover from the warrantor as damages for breach of warranty an amount equal to the loss suffered as a result of the breach, but not more than the amount of the item plus expenses and loss of interest incurred as a result of the breach.
+		</section>
+		<section prefix="d">The warranties stated in subsection (a) cannot be disclaimed with respect to checks. Unless notice of a claim for breach of warranty is given to the warrantor within thirty days after the claimant has reason to know of the breach and the identity of the warrantor, the warrantor is discharged to the extent of any loss caused by the delay in giving notice of the claim.
+		</section>
+		<section prefix="e">A cause of action for breach of warranty under this section accrues when the claimant has reason to know of the breach.
+		</section>
+	</text>
+	<history>1992, c. 693.</history>
+</law>

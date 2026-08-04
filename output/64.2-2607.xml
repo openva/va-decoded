@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="26" level="3">Uniform Disclaimer of Property Interests Act</unit>
+	</structure>
+	<section_number>64.2-2607</section_number>
+	<catch_line>Disclaimer of power of appointment or other power not held in a fiduciary capacity</catch_line>
+	<text>
+		If a holder disclaims a power of appointment or other power not held in a fiduciary capacity, the following rules apply:
+		<section prefix="1">If the holder has not exercised the power, the disclaimer takes effect as of the time the instrument creating the power becomes irrevocable.
+		</section>
+		<section prefix="2">If the holder has exercised the power and the disclaimer is of a power other than a presently exercisable general power of appointment, the disclaimer takes effect immediately after the last exercise of the power.
+		</section>
+		<section prefix="3">The instrument creating the power is construed as if the power expired when the disclaimer became effective.
+		</section>
+	</text>
+	<history>2003, c. 253, § 64.1-196.8; 2012, c. 614.</history>
+</law>

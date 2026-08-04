@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="7" level="4">Office of Trustee</unit>
+	</structure>
+	<section_number>64.2-758</section_number>
+	<catch_line>Resignation of trustee</catch_line>
+	<text>
+		<section prefix="A">A trustee may resign:
+			<section prefix="1">Upon at least 30 days' notice to the settlor, if living, to all cotrustees, and to the qualified beneficiaries except those qualified beneficiaries under a revocable trust that the settlor has the capacity to revoke; or
+			</section>
+			<section prefix="2">With the approval of the court.
+			</section>
+		</section>
+		<section prefix="B">In approving a resignation, the court may issue orders and impose conditions reasonably necessary for the protection of the trust property.
+		</section>
+		<section prefix="C">Any liability of a resigning trustee or of any sureties on the trustee's bond for acts or omissions of the trustee is not discharged or affected by the trustee's resignation.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-547.05; 2012, c. 614.</history>
+</law>

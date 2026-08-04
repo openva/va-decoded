@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="7" level="4">Office of Trustee</unit>
+	</structure>
+	<section_number>64.2-759</section_number>
+	<catch_line>Removal of trustee</catch_line>
+	<text>
+		<section prefix="A">The settlor, a cotrustee, or a beneficiary, or, in the case of a charitable trust, the Attorney General may petition the court to remove a trustee, or a trustee may be removed by the court on its own initiative.
+		</section>
+		<section prefix="B">The court may remove a trustee if:
+			<section prefix="1">The trustee has committed a serious breach of trust;
+			</section>
+			<section prefix="2">Lack of cooperation among cotrustees substantially impairs the administration of the trust;
+			</section>
+			<section prefix="3">Because of unfitness, unwillingness, or persistent failure of the trustee to administer the trust effectively, the court determines that removal of the trustee best serves the interests of the beneficiaries; or
+			</section>
+			<section prefix="4">There has been a substantial change of circumstances or removal is requested by all of the qualified beneficiaries, the court finds that removal of the trustee best serves the interests of all of the beneficiaries and is not inconsistent with a material purpose of the trust, and a suitable cotrustee or successor trustee is available.
+			</section>
+		</section>
+		<section prefix="C">Pending a final decision on a request to remove a trustee, or in lieu of or in addition to removing a trustee, the court may order such appropriate relief under subsection B of § 64.2-792 as may be necessary to protect the trust property or the interests of the beneficiaries.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-547.06; 2012, c. 614.</history>
+</law>

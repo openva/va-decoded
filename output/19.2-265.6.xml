@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="15" level="2">Trial and Its Incidents</unit>
+		<unit label="article" identifier="5" level="3">Miscellaneous Provisions</unit>
+	</structure>
+	<section_number>19.2-265.6</section_number>
+	<catch_line>Dismissal of criminal charges on Commonwealth's motion; effect of dismissal of criminal charges</catch_line>
+	<text>
+		<section prefix="A">Upon motion of the Commonwealth to dismiss a charge, whether with or without prejudice, and with the consent of the defendant, a court shall grant the motion unless the court finds by clear and convincing evidence that the motion was made as the result of (i) bribery or (ii) bias or prejudice toward a victim as defined in § 19.2-11.01 because of the race, religious conviction, gender, disability, gender identity, sexual orientation, color, or national origin of the victim.
+		</section>
+		<section prefix="B">No dismissal of any criminal charge by a court shall bar subsequent prosecution of the charge unless jeopardy attached at the earlier proceeding or unless the dismissal order explicitly states that the dismissal is with prejudice.
+		</section>
+	</text>
+	<history>2007, c. 419; 2020, Sp. Sess. I, cc. 20, 21.</history>
+</law>

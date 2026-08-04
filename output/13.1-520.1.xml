@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="5" level="2">Securities Act</unit>
+		<unit label="article" identifier="5" level="3">Miscellaneous</unit>
+	</structure>
+	<section_number>13.1-520.1</section_number>
+	<catch_line>Commission may transmit record or complaint to locality where violation occurred</catch_line>
+	<text>
+		The Commission may transmit the record of any proceeding or any complaint involving any violation of this Act to the attorney for the Commonwealth in the county or city wherein the violation occurred.
+	</text>
+	<history>1974, c. 253.</history>
+</law>

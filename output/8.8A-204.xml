@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="2" level="2">Issue and Issuer</unit>
+	</structure>
+	<section_number>8.8A-204</section_number>
+	<catch_line>Effect of issuer's restriction on transfer</catch_line>
+	<text>
+		A restriction on transfer of a security imposed by the issuer, even if otherwise lawful, is ineffective against a person without knowledge of the restriction unless:
+		<section prefix="1">the security is certificated and the restriction is noted conspicuously on the security certificate; or
+		</section>
+		<section prefix="2">the security is uncertificated and the registered owner has been notified of the restriction.
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

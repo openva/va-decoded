@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="1" level="1">General Provisions</unit>
+		<unit label="chapter" identifier="2.1" level="2">Common Law and Rules of Construction</unit>
+		<unit label="article" identifier="2" level="3">Rules of Construction and Definitions</unit>
+	</structure>
+	<section_number>1-243</section_number>
+	<catch_line>Severability</catch_line>
+	<text>
+		The provisions of acts of the General Assembly or the application thereof to any person or circumstances that are held invalid shall not affect the validity of other acts, provisions, or applications that can be given effect without the invalid provisions or applications. The provisions of all acts, except for the title of the act, are severable unless (i) the act specifically provides that its provisions are not severable; or (ii) it is apparent that two or more acts or provisions must operate in accord with one another.
+	</text>
+	<history>1986, c. 239, § 1-17.1; 1987, c. 56; 2005, c. 839.</history>
+</law>

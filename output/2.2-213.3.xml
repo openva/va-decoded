@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="2" level="4">Governor's Secretaries</unit>
+		<unit label="article" identifier="6" level="5">Secretary of Health and Human Resources</unit>
+	</structure>
+	<section_number>2.2-213.3</section_number>
+	<catch_line>Secretary to coordinate electronic prescribing clearinghouse</catch_line>
+	<text>
+		<section prefix="A">In order to promote the implementation of electronic prescribing by health practitioners, health care facilities, and pharmacies in order to prevent prescription drug abuse, improve patient safety, and reduce unnecessary prescriptions, the Secretary of Health and Human Resources, in consultation with the Secretary of Administration, shall establish a website with information on electronic prescribing for health practitioners. The website shall contain (i) information concerning the process and advantages of electronic prescribing, including using medical history data to prevent drug interactions, prevent allergic reactions, and deter abuse of controlled substances; (ii) information regarding the availability of electronic prescribing products, including no-cost or low-cost products; (iii) links to federal and private-sector websites that provide guidance on selecting electronic prescribing products; and (iv) links to state, federal, and private-sector incentive programs for the implementation of electronic prescribing.
+		</section>
+		<section prefix="B">The Secretary of Health and Human Resources, in consultation with the Secretary of Administration, shall regularly consult with relevant public and private stakeholders to assess and accelerate the implementation of electronic prescribing in Virginia. For purposes of this section, relevant stakeholders include, but are not limited to, organizations that represent health practitioners, organizations that represent health care facilities, organizations that represent pharmacies, organizations that operate electronic prescribing networks, organizations that create electronic prescribing products, and regional health information organizations.
+		</section>
+	</text>
+	<history>2009, c. 479; 2020, c. 738.</history>
+</law>

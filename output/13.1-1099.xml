@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099</section_number>
+	<catch_line>Effectiveness of notice</catch_line>
+	<text>
+		Notice to a person under subsection B, C, D, or E of § 13.1-1098 is effective against the person whether or not the process, notice, or demand identifies the person if the process, notice, or demand identifies the person so long as the process, notice, or demand names as a party and identifies:
+		<section prefix="1">The series limited liability company or a protected series of the series limited liability company; or
+		</section>
+		<section prefix="2">The foreign series limited liability company or a foreign protected series of the foreign series limited liability company.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

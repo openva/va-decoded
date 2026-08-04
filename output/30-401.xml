@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="63" level="2">Behavioral Health Commission</unit>
+	</structure>
+	<section_number>30-401</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, unless the context requires a different meaning:
+		"Behavioral health" means the full range of mental health and substance abuse services.
+		"Behavioral health service system" means those public and private providers, including state and local government agencies and entities, engaged in the development, delivery, coordination, monitoring, oversight, and financing of behavioral health services in the Commonwealth.
+		"Commission" means the Behavioral Health Commission.
+	</text>
+	<history>2021, Sp. Sess. I, c. 313.</history>
+</law>

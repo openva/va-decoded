@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="1" level="3">Default and Enforcement of Security Interest</unit>
+	</structure>
+	<section_number>8.9A-604</section_number>
+	<catch_line>Procedure if security agreement covers real property or fixtures</catch_line>
+	<text>
+		<section prefix="a">Enforcement; personal and real property. If a security agreement covers both personal and real property, a secured party may proceed:
+			<section prefix="1">under this part as to the personal property without prejudicing any rights with respect to the real property; or
+			</section>
+			<section prefix="2">as to both the personal property and the real property in accordance with the rights with respect to the real property, in which case the other provisions of this part do not apply.
+			</section>
+		</section>
+		<section prefix="b">Enforcement; fixtures. Subject to subsection (c), if a security agreement covers goods that are or become fixtures, a secured party may proceed:
+			<section prefix="1">under this part; or
+			</section>
+			<section prefix="2">in accordance with the rights with respect to real property, in which case the other provisions of this part do not apply.
+			</section>
+		</section>
+		<section prefix="c">Removal of fixtures. Subject to the other provisions of this part, if a secured party holding a security interest in fixtures has priority over all owners and encumbrancers of the real property, the secured party, after default, may remove the collateral from the real property.
+		</section>
+		<section prefix="d">Injury caused by removal. A secured party that removes collateral shall promptly reimburse any encumbrancer or owner of the real property, other than the debtor, for the cost of repair of any physical injury caused by the removal. The secured party need not reimburse the encumbrancer or owner for any diminution in value of the real property caused by the absence of the goods removed or by any necessity of replacing them. A person entitled to reimbursement may refuse permission to remove until the secured party gives adequate assurance for the performance of the obligation to reimburse.
+		</section>
+	</text>
+	<history>1964, c. 219, §§ 8.9-313, 8.9-501; 1973, c. 509; 1983, c. 204; 2000, c. 1007.</history>
+</law>

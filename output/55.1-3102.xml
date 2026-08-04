@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="V" level="2">Miscellaneous</unit>
+		<unit label="chapter" identifier="31" level="3">Release of Specific Property from Judgment Liens</unit>
+	</structure>
+	<section_number>55.1-3102</section_number>
+	<catch_line>Certificate of release and affidavit of settlement agent</catch_line>
+	<text>
+		<section prefix="A">If, within 30 days following the date of notice of the notice of intent to release pursuant to § 55.1-3101, the lien creditor has not sent by (i) certified mail, return receipt requested, (ii) commercial delivery service for same day or next business day delivery, (iii) the United States Postal Service for next business day delivery, or (iv) electronic mail or facsimile transmittal to the electronic mail address or fax number provided by the settlement agent a complete payoff amount, the settlement agent may execute, acknowledge, and file with the clerk of court of the jurisdiction in which the property is located a certificate of release. Such certificate of release shall include (a) an affidavit pursuant to subsection B, (b) a copy of the notice of intent to release in accordance with § 55.1-3101, and (c) the owner's affidavit pursuant to § 55.1-3101. The certificate of release shall include the settlement agent's registration number issued by a licensing authority as defined in § 55.1-1000. The certificate of release shall note that the settlement agent has the authority to execute the certificate of release pursuant to this section. After filing or recording the certificate of release, the settlement agent shall mail a copy of such certificate of release to the lien creditor. Failure to mail a copy of the recorded certificate of release to the lien creditor shall not affect the validity of a certificate of release that otherwise satisfies the requirements of this section and shall release the property from the judgment lien as provided by this section.
+		</section>
+		<section prefix="B">The certificate of release shall include an affidavit that certifies that (i) the settlement agent has not received a payoff amount as shown on the recorded abstract of judgment from the lien creditor, his assignee, or his representative, nor has the settlement agent received any objection to the release of the property from the judgment lien; (ii) the person executing the certificate of release is the settlement agent; (iii) the notice of intent to release was delivered to the lien creditor or delivery was attempted at the address shown on the recorded abstract of judgment and the settlement agent has received evidence of such delivery or attempted delivery; and (iv) the property is released from the judgment lien. The certificate of release and accompanying affidavit shall conform substantially to the following form:
+			CERTIFICATE OF RELEASE and AFFIDAVIT OF SETTLEMENT AGENT
+			The undersigned hereby certifies and affirms that, in accordance with the provisions of § 55.1-3101 of the Code of Virginia of 1950, as amended and in force on the date hereof (the Code), (a) the undersigned is a settlement agent as defined in subsection A of § 55.1-3100 of the Code or a duly authorized officer, director, member, partner, or employee of such settlement agent; (b) the settlement agent, after exercising due diligence to locate the creditor, has sent to the lien creditor in the manner specified in subsection B of § 55.1-3101 of the Code the notice of intent to release the property from the lien of the below referenced judgment lien and possesses evidence of receipt of such notice by the lien creditor or evidence of failed attempts; (c) the settlement agent has not received a payoff amount from the lien creditor shown on the recorded abstract of judgment or any assignee or representative thereof or any objection to the release of the property from the lien of the judgment lien; and (d) the lien of the judgment lien is hereby released as to the subject property.
+			(Name of judgment debtor(s))
+			(Name of judgment lien creditor shown on recorded abstract of judgment)
+			(Recordation information for recorded judgment lien)
+			(Property subject to the release)
+			(Name of settlement agent)
+			(Virginia RESA registration number of settlement agent)
+			(Authorized signer and title)
+			(Notary clause)
+		</section>
+	</text>
+	<history>2023, c. 550.</history>
+</law>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8" level="4">Duties and Powers of Trustee</unit>
+	</structure>
+	<section_number>64.2-776</section_number>
+	<catch_line>Discretionary powers; tax savings</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding the breadth of discretion granted to a trustee in the terms of the trust, including the use of such terms as "absolute," "sole," or "uncontrolled," the trustee shall exercise a discretionary power in good faith and in accordance with the terms and purposes of the trust and the interests of the beneficiaries.
+		</section>
+		<section prefix="B">Subject to subsection D, and unless the terms of the trust expressly indicate that a rule in this subsection does not apply:
+			<section prefix="1">A person other than a settlor who is a beneficiary and trustee of a trust that confers on the trustee a power to make discretionary distributions to or for the trustee's personal benefit may exercise the power only in accordance with an ascertainable standard; and
+			</section>
+			<section prefix="2">A trustee may not exercise a power to make discretionary distributions to satisfy a legal obligation of support that the trustee personally owes another person.
+				For purposes of this subsection, "trustee" includes a person who is deemed to have any power of a trustee, whether because such person has the right to remove or replace any trustee or because a reciprocal trust or power doctrine applies.
+			</section>
+		</section>
+		<section prefix="C">A power whose exercise is limited or prohibited by subsection B may be exercised by a majority of the remaining trustees whose exercise of the power is not so limited or prohibited. If the power of all trustees is so limited or prohibited, the court may appoint a special fiduciary with authority to exercise the power.
+		</section>
+		<section prefix="D">Subsection B does not apply to:
+			<section prefix="1">A power held by the settlor's spouse who is the trustee of a trust for which a marital deduction, as defined in § 2056(b)(5) or 2523(e) of the Internal Revenue Code of 1986, as in effect on the effective date of this chapter, or as later amended, was previously allowed;
+			</section>
+			<section prefix="2">Any trust during any period that the trust may be revoked or amended by its settlor; or
+			</section>
+			<section prefix="3">A trust if contributions to the trust qualify for the annual exclusion under § 2503(c) of the Internal Revenue Code of 1986, as in effect on the effective date of this chapter, or as later amended.
+			</section>
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-548.14; 2012, c. 614; 2013, c. 324.</history>
+</law>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="20" level="3">Regulation of Passenger Carriers</unit>
+		<unit label="article" identifier="15" level="4">Transportation Network Companies</unit>
+	</structure>
+	<section_number>46.2-2099.49</section_number>
+	<catch_line>Requirements for TNC partners; mandatory background screening; drug and alcohol policy; mandatory disclosures to TNC partners; duty of TNC partners to provide updated information to transportation network companies</catch_line>
+	<text>
+		<section prefix="A">Before authorizing an individual to act as a TNC partner, a transportation network company shall confirm that the person is at least 21 years old and possesses a valid driver's license.
+		</section>
+		<section prefix="B">1. Before authorizing an individual to act as a TNC partner, and at least once every two years after authorizing an individual to act as a TNC partner, a transportation network company shall obtain a national criminal history records check of that person. The background check shall include (i) a Multi-State/Multi-Jurisdiction Criminal Records Database Search or a search of a similar nationwide database with validation (primary source search) and (ii) a search of the Sex Offender and Crimes Against Minors Registry and the U.S. Department of Justice's National Sex Offender Public Website. The person conducting the background check shall be accredited by the National Association of Professional Background Screeners or a comparable entity approved by the Department.
+			<section prefix="2">Before authorizing an individual to act as a TNC partner, and at least once annually after authorizing an individual to act as a TNC partner, a transportation network company shall obtain and review a driving history research report on that person from the individual's state of licensure.
+			</section>
+			<section prefix="3">Before authorizing an individual to act as a TNC partner, and at least once every two years after authorizing a person to act as a TNC partner, a transportation network company shall verify that the person is not listed on the Sex Offender and Crimes Against Minors Registry or on the U.S. Department of Justice's National Sex Offender Public Website.
+			</section>
+		</section>
+		<section prefix="C">A transportation network company shall not authorize an individual to act as a TNC partner if the criminal history records check required under subsection B reveals that the individual:
+			<section prefix="1">Is a person for whom registration with the Sex Offender and Crimes Against Minors Registry is required pursuant to Chapter 9 (§ 9.1-900 et seq.) of Title 9.1 or is listed on the U.S. Department of Justice's National Sex Offender Public Website;
+			</section>
+			<section prefix="2">Has ever been convicted of or has ever pled guilty or nolo contendere to a violent felony offense as listed in subsection C of § 17.1-805, or a substantially similar law of another state or of the United States;
+			</section>
+			<section prefix="3">Within the preceding seven years has been convicted of or has pled guilty or nolo contendere to any of the following offenses, either under Virginia law or a substantially similar law of another state or of the United States: (i) any felony offense other than those included in subdivision 2; (ii) an offense under § 18.2-266, 18.2-266.1, 18.2-272, or 46.2-341.24; or (iii) any offense resulting in revocation of a driver's license pursuant to § 46.2-389 or 46.2-391; or
+			</section>
+			<section prefix="4">Within the preceding three years has been convicted of or has pled guilty or nolo contendere to any of the following offenses, either under Virginia law or a substantially similar law of another state or of the United States: (i) three or more moving violations; (ii) eluding a law-enforcement officer, as described in § 46.2-817; (iii) reckless driving, as described in Article 7 (§ 46.2-852 et seq.) of Chapter 8; (iv) operating a motor vehicle in violation of § 46.2-301; or (v) refusing to submit to a chemical test to determine the alcohol or drug content of the person's blood or breath, as described in § 18.2-268.3 or 46.2-341.26:3.
+			</section>
+		</section>
+		<section prefix="D">A transportation network company shall employ a zero-tolerance policy with respect to the use of drugs and alcohol by TNC partners and shall include a notice concerning the policy on its website and associated digital platform.
+		</section>
+		<section prefix="E">A transportation network company shall make the following disclosures in writing to a TNC partner or prospective TNC partner:
+			<section prefix="1">The transportation network company shall disclose the liability insurance coverage and limits of liability that the transportation network company provides while the TNC partner uses a vehicle in connection with the transportation network company's digital platform.
+			</section>
+			<section prefix="2">The transportation network company shall disclose any physical damage coverage provided by the transportation network company for damage to the vehicle used by the TNC partner in connection with the transportation network company's digital platform.
+			</section>
+			<section prefix="3">The transportation network company shall disclose the uninsured motorist and underinsured motorist coverage and policy limits provided by the transportation network company while the TNC partner uses a vehicle in connection with the transportation network company's digital platform and advise the TNC partner that the TNC partner's personal automobile insurance policy may not provide uninsured motorist and underinsured motorist coverage when the TNC partner uses a vehicle in connection with a transportation network company's digital platform.
+			</section>
+			<section prefix="4">The transportation network company shall include the following disclosure prominently in writing to a TNC partner or prospective TNC partner: "If the vehicle that you plan to use to transport passengers for our transportation network company has a lien against it, you must notify the lienholder that you will be using the vehicle for transportation services that may violate the terms of your contract with the lienholder."
+			</section>
+		</section>
+		<section prefix="F">A TNC partner shall inform each transportation network company that has authorized him to act as a TNC partner of any event that may disqualify him from continuing to act as a TNC partner, including any of the following: a change in the registration status of the TNC partner vehicle; the revocation, suspension, cancellation, or restriction of the TNC partner's driver's license; a change in the insurance coverage of the TNC partner vehicle; a motor vehicle moving violation; and a criminal arrest, plea, or conviction.
+		</section>
+	</text>
+	<history>2015, cc. 2, 3; 2017, c. 623.</history>
+</law>

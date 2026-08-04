@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="III" level="2">Mineral Mines</unit>
+		<unit label="part" identifier="A" level="3">Mineral Mines Generally</unit>
+		<unit label="chapter" identifier="11" level="4">Mineral Mine Safety Act</unit>
+		<unit label="article" identifier="7" level="5">Mine Inspections</unit>
+	</structure>
+	<section_number>45.2-1156</section_number>
+	<catch_line> Certificates of inspection</catch_line>
+	<text>
+		<section prefix="A">Upon completing a mine inspection, each mine inspector shall complete a certificate of inspection. Such certificate of inspection shall show the date of inspection, the condition in which the mine was found, a statement regarding any violation of this chapter or Chapter 14 (§ 45.2-1400 et seq.) or 15 (§ 45.2-1500 et seq.) discovered during the inspection, the progress made in the improvement of the mine as such progress relates to health and safety, the numbers of accidents and injuries occurring in and about the mine since the previous inspection, and all other facts and information of public interest concerning the condition of the mine as are useful and proper.
+		</section>
+		<section prefix="B">The mine inspector shall deliver one copy of the certificate of inspection to the licensed operator, agent, or mine foreman and one copy to the employees' safety committee, where applicable, and shall post copies at one or more prominent places on the premises where they can be read conveniently by the miners.
+		</section>
+		<section prefix="C">The Department shall provide access to certificates of inspection of underground mineral mines to MSHA.
+		</section>
+	</text>
+	<history>1997, c. 390, § 45.1-161.292:62; 1998, c. 695; 2021, Sp. Sess. I, c. 387.</history>
+</law>

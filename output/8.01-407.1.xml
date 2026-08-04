@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="14" level="2">Evidence</unit>
+		<unit label="article" identifier="5" level="3">Compelling Attendance of Witnesses, Etc</unit>
+	</structure>
+	<section_number>8.01-407.1</section_number>
+	<catch_line>Identity of persons communicating anonymously over the Internet</catch_line>
+	<text>
+		<section prefix="A">In civil proceedings where it is alleged that an anonymous individual has engaged in Internet communications that are tortious, any subpoena seeking information held by a nongovernmental person or entity that would identify the tortfeasor shall be governed by the following procedure unless more expedited scheduling directions have been ordered by the court upon consideration of the interests of each person affected thereby:
+			<section prefix="1">At least thirty days prior to the date on which disclosure is sought, a party seeking information identifying an anonymous communicator shall file with the appropriate circuit court a complete copy of the subpoena and all items annexed or incorporated therein, along with supporting material showing:
+				a. That one or more communications that are or may be tortious or illegal have been made by the anonymous communicator, or that the party requesting the subpoena has a legitimate, good faith basis to contend that such party is the victim of conduct actionable in the jurisdiction where the suit was filed. A copy of the communications that are the subject of the action or subpoena shall be submitted.
+				b. That other reasonable efforts to identify the anonymous communicator have proven fruitless.
+				c. That the identity of the anonymous communicator is important, is centrally needed to advance the claim, relates to a core claim or defense, or is directly and materially relevant to that claim or defense.
+				d. That no motion to dismiss, motion for judgment on the pleadings, or judgment as a matter of law, demurrer or summary judgment-type motion challenging the viability of the lawsuit of the underlying plaintiff is pending. The pendency of such a motion may be considered by the court in determining whether to enforce, suspend or strike the proposed disclosure obligation under the subpoena.
+				e. That the individuals or entities to whom the subpoena is addressed are likely to have responsive information.
+				f. If the subpoena sought relates to an action pending in another jurisdiction, the application shall contain a copy of the pleadings in such action, along with the mandate, writ or commission of the court where the action is pending that authorizes the discovery of the information sought in the Commonwealth.
+			</section>
+			<section prefix="2">Two copies of the subpoena and supporting materials set forth in subdivision A. 1. a. through f. shall be served upon the person to whom it is addressed along with payment sufficient to cover postage for mailing one copy of the application within the United States by registered mail, return receipt requested.
+			</section>
+			<section prefix="3">Except where the anonymous communicator has consented to disclosure in advance, within five business days after receipt of a subpoena and supporting materials calling for disclosure of identifying information concerning an anonymous communicator, the individual or entity to whom the subpoena is addressed shall (i) send an electronic mail notification to the anonymous communicator reporting that the subpoena has been received if an e-mail address is available and (ii) dispatch one copy thereof, by registered mail or commercial delivery service, return receipt requested, to the anonymous communicator at his last known address, if any is on file with the person to whom the subpoena is addressed.
+			</section>
+			<section prefix="4">At least seven business days prior to the date on which disclosure is sought under the subpoena, any interested person may file a detailed written objection, motion to quash, or motion for protective order. Any such papers filed by the anonymous communicator shall be served on or before the date of filing upon the party seeking the subpoena and the party to whom the subpoena is addressed. Any such papers filed by the party to whom the subpoena is addressed shall be served on or before the date of filing upon the party seeking the subpoena and the anonymous communicator whose identifying information is sought. Service is effective when it has been mailed, dispatched by commercial delivery service, transmitted by facsimile, or delivered to counsel of record and to parties having no counsel.
+			</section>
+			<section prefix="5">Any written objection, motion to quash, or motion for protective order shall set forth all grounds relied upon for denying the disclosure sought in the subpoena and shall also address to the extent feasible (i) whether the identity of the anonymous communicator has been disclosed in any way beyond its recordation in the account records of the party to whom the subpoena is addressed, (ii) whether the subpoena fails to allow a reasonable time for compliance, (iii) whether it requires disclosure of privileged or other protected matter and no exception or waiver applies, or (iv) whether it subjects a person to undue burden.
+			</section>
+			<section prefix="6">The party to whom the subpoena is addressed shall not comply with the subpoena earlier than three business days before the date on which disclosure is due, to allow the anonymous communicator the opportunity to object. If any person files a written objection, motion to quash, or motion for protective order, compliance with the subpoena shall be deferred until the appropriate court rules on the obligation to comply. If an objection or motion is made, the party serving the subpoena shall not be entitled to inspect or copy the materials except pursuant to an order of the court on behalf of which the subpoena was issued. If an objection or motion has been filed, any interested person may notice the matter for a hearing. Two copies of any such notice shall be served upon the subpoenaed party, who shall mail one copy thereof, by registered mail or commercial delivery service, return receipt requested, to the anonymous communicator whose identifying information is the subject of the subpoena at that person's last known address.
+			</section>
+		</section>
+		<section prefix="B">The party requesting or issuing a subpoena for information identifying an anonymous Internet communicator shall serve along with each copy of such subpoena notices in boldface capital letters in substantially this form:
+			NOTICE TO INTERNET SERVICE PROVIDER
+			WITHIN FIVE BUSINESS DAYS AFTER RECEIPT OF THIS SUBPOENA CALLING FOR IDENTIFYING INFORMATION CONCERNING YOUR CLIENT, SUBSCRIBER OR CUSTOMER, EXCEPT WHERE CONSENT TO DISCLOSURE HAS BEEN GIVEN IN ADVANCE, YOU ARE REQUIRED BY § 8.01-407.1 OF THE CODE OF VIRGINIA TO MAIL ONE COPY THEREOF, BY REGISTERED MAIL OR COMMERCIAL DELIVERY SERVICE, RETURN RECEIPT REQUESTED, TO THE CLIENT, SUBSCRIBER OR CUSTOMER WHOSE IDENTIFYING INFORMATION IS THE SUBJECT OF THE SUBPOENA. AT LEAST SEVEN BUSINESS DAYS PRIOR TO THE DATE ON WHICH DISCLOSURE IS SOUGHT YOU MAY, BUT ARE NOT REQUIRED TO, FILE A DETAILED WRITTEN OBJECTION, MOTION TO QUASH OR MOTION FOR PROTECTIVE ORDER. ANY SUCH OBJECTION OR MOTION SHALL BE SERVED UPON THE PARTY INITIATING THE SUBPOENA AND UPON THE CLIENT, SUBSCRIBER OR CUSTOMER WHOSE IDENTIFYING INFORMATION IS SOUGHT.
+			IF YOU CHOOSE NOT TO OBJECT TO THE SUBPOENA, YOU MUST ALLOW TIME FOR YOUR CLIENT, SUBSCRIBER OR CUSTOMER TO FILE HIS OWN OBJECTION, THEREFORE YOU MUST NOT RESPOND TO THE SUBPOENA ANY EARLIER THAN THREE BUSINESS DAYS BEFORE THE DISCLOSURE IS DUE.
+			IF YOU RECEIVE NOTICE THAT YOUR CLIENT, SUBSCRIBER OR CUSTOMER HAS FILED A WRITTEN OBJECTION, MOTION TO QUASH OR MOTION FOR PROTECTIVE ORDER REGARDING THIS SUBPOENA, OR IF YOU FILE A MOTION TO QUASH THIS SUBPOENA, NO DISCLOSURE PURSUANT TO THE SUBPOENA SHALL BE MADE EXCEPT PURSUANT TO AN ORDER OF THE COURT ON BEHALF OF WHICH THE SUBPOENA WAS ISSUED.
+			NOTICE TO INTERNET USER
+			THE ATTACHED PAPERS MEAN THAT ____________________ (INSERT NAME OF PARTY REQUESTING OR CAUSING ISSUANCE OF THE SUBPOENA) HAS EITHER ASKED THE COURT TO ISSUE A SUBPOENA, OR A SUBPOENA HAS BEEN ISSUED, TO YOUR INTERNET SERVICE PROVIDER ____________________ (INSERT NAME OF INTERNET SERVICE PROVIDER) REQUIRING PRODUCTION OF INFORMATION REGARDING YOUR IDENTITY. UNLESS A DETAILED WRITTEN OBJECTION IS FILED WITH THE COURT, THE SERVICE PROVIDER WILL BE REQUIRED BY LAW TO RESPOND BY PROVIDING THE REQUIRED INFORMATION. IF YOU BELIEVE YOUR IDENTIFYING INFORMATION SHOULD NOT BE DISCLOSED AND OBJECT TO SUCH DISCLOSURE, YOU HAVE THE RIGHT TO FILE WITH THE CLERK OF COURT A DETAILED WRITTEN OBJECTION, MOTION TO QUASH THE SUBPOENA OR MOTION TO OBTAIN A PROTECTIVE ORDER. YOU MAY ELECT TO CONTACT AN ATTORNEY TO REPRESENT YOUR INTERESTS. IF YOU ELECT TO FILE A WRITTEN OBJECTION, MOTION TO QUASH, OR MOTION FOR PROTECTIVE ORDER, IT SHOULD BE FILED AS SOON AS POSSIBLE, AND MUST IN ALL INSTANCES BE FILED NO LESS THAN SEVEN BUSINESS DAYS BEFORE THE DATE ON WHICH DISCLOSURE IS DUE (LISTED IN THE SUBPOENA). IF YOU ELECT TO FILE A WRITTEN OBJECTION OR MOTION AGAINST THIS SUBPOENA, YOU MUST AT THE SAME TIME SEND A COPY OF THAT OBJECTION OR MOTION TO BOTH YOUR INTERNET SERVICE PROVIDER AND THE PARTY WHO REQUESTED THE SUBPOENA. IF YOU WISH TO OPPOSE THE ATTACHED SUBPOENA, IN WHOLE OR IN PART, YOU OR YOUR ATTORNEY MAY FILE A WRITTEN OBJECTION, A MOTION TO QUASH THE SUBPOENA, OR A MOTION FOR A PROTECTIVE ORDER OR YOU MAY USE THE FORM BELOW, WHICH MUST BE FILED WITH THE COURT AND SERVED UPON THE PARTY REQUESTING THE SUBPOENA AND THE INTERNET SERVICE PROVIDER BY MAILING AT LEAST SEVEN BUSINESS DAYS PRIOR TO THE DATE SET IN THE SUBPOENA FOR DISCLOSURE:
+			__________________________________________________Name of Court Listed on Subpoena
+			__________________________________________________Name of Party Seeking Information
+			Case No. ____________________
+			OBJECTION TO SUBPOENA DUCES TECUM
+			I object to the Subpoena Duces Tecum addressed to ____________________ for the following reasons:
+			[Name of Internet Service Provider to Whom the Subpoena is Addressed]
+			(Please PRINT. Set forth, in detail, all reasons why the subpoena should not be complied with, and in addition, state (i) whether the identity of the anonymous communicator has been disclosed in any fashion, (ii) whether the subpoena fails to allow a reasonable time for compliance, (iii) whether it requires disclosure of privileged or other protected matter and no exception or waiver applies, or (iv) whether it subjects a person to undue burden.)
+			__________________________________________________
+			__________________________________________________
+			__________________________________________________
+			__________________________________________________
+			__________________________________________________
+			__________________________________________________
+			__________________________________________________
+			__________________________________________________
+			(attach additional sheets if needed)
+			Respectfully Submitted,
+			__________________________________________________John Doe
+			__________________________________________________Enter e-mail nickname or other alias used in communicating via the Internet service provider to whom the subpoena is addressed.
+			CERTIFICATE
+			I hereby certify that a true copy of the above Objection to Subpoena Duces Tecum was mailed this _____ day of ____________________, (month, year), to
+			__________________________________________________(Name and address of party seeking information) and
+			__________________________________________________(Name and address of Internet Service Provider)
+			__________________________________________________John Doe
+			__________________________________________________Enter e-mail nickname or other alias used in communicating via the Internet service provider to whom the subpoena is addressed.
+		</section>
+	</text>
+	<history>2002, c. 875.</history>
+</law>

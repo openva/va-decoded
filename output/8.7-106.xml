@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.7" level="1">Commercial Code — Warehouse Receipts, Bills of Lading and Other Documents of Title</unit>
+		<unit label="part" identifier="1" level="2">General</unit>
+	</structure>
+	<section_number>8.7-106</section_number>
+	<catch_line>Control of electronic document</catch_line>
+	<text>
+		<section prefix="1">A person has control of an electronic document if a system employed for evidencing the transfer of interests in the electronic document reliably establishes that person as the person to which the electronic document was issued or transferred.
+		</section>
+		<section prefix="2">A system satisfies subsection (1), and a person has control of an electronic document, if the document is created, stored, and transferred in such a manner that:
+			<section prefix="a">a single authoritative copy of the document exists that is unique, identifiable, and, except as otherwise provided in subdivisions (c), (d), and (e), unalterable;
+			</section>
+			<section prefix="b">the authoritative copy identifies the person asserting control as:
+			</section>
+			<section prefix="i">the person to whom the document was issued; or
+				<section prefix="ii">if the authoritative copy indicates that the document has been transferred, the person to whom the document was most recently transferred;
+				</section>
+			</section>
+			<section prefix="c">the authoritative copy is communicated to and maintained by the person asserting control or his designated custodian;
+			</section>
+			<section prefix="d">copies or amendments that add or change an identified transferee of the authoritative copy can be made only with the consent of the person asserting control;
+			</section>
+			<section prefix="e">each copy of the authoritative copy and any copy of a copy is readily identifiable as a copy that is not the authoritative copy; and
+			</section>
+			<section prefix="f">any amendment of the authoritative copy is readily identifiable as authorized or unauthorized.
+			</section>
+		</section>
+		<section prefix="3">A system satisfies subsection (1), and a person has control of an electronic document of title, if an authoritative electronic copy of the document, a record attached to or logically associated with the electronic copy, or a system in which the electronic copy is recorded:
+			<section prefix="a">enables the person readily to identify each electronic copy as either an authoritative copy or a nonauthoritative copy;
+			</section>
+			<section prefix="b">enables the person readily to identify itself in any way, including by name, identifying number, cryptographic key, office, or account number, as the person to which each authoritative electronic copy was issued or transferred; and
+			</section>
+			<section prefix="c">gives the person exclusive power, subject to subsection (4), to:
+			</section>
+			<section prefix="i">prevent others from adding or changing the person to which each authoritative electronic copy has been issued or transferred; and
+				<section prefix="ii">transfer control of each authoritative electronic copy.
+				</section>
+			</section>
+		</section>
+		<section prefix="4">Subject to subsection (5), a power is exclusive under subsection (3)(c)(i) and (ii) even if:
+			<section prefix="a">the authoritative electronic copy, a record attached to or legally associated with the authoritative electronic copy, or a system in which the authoritative electronic copy is recorded limits the use of the document of title or has a protocol that is programmed to cause a change, including a transfer or loss of control; or
+			</section>
+			<section prefix="b">the power is shared with another person.
+			</section>
+		</section>
+		<section prefix="5">A power of a person is not shared with another person under subsection (4)(b) and the person's power is not exclusive if:
+			<section prefix="a">the person can exercise the power only if the power is also exercised by the other person; and
+			</section>
+			<section prefix="b">the other person:
+			</section>
+			<section prefix="i">can exercise the power without exercise of the power by the person; or
+				<section prefix="ii">is the transferor to the person of an interest in the document of title.
+				</section>
+			</section>
+		</section>
+		<section prefix="6">If a person has the powers specified in subsection (3)(c)(i) and (ii), the powers are presumed to be exclusive.
+		</section>
+		<section prefix="7">A person has control of an electronic document of title if another person, other than the transferor to the person of an interest in the document:
+			<section prefix="a">has control of the document and acknowledges that it has control on behalf of the person; or
+			</section>
+			<section prefix="b">obtains control of the document after having acknowledged that it will obtain control of the document on behalf of the person.
+			</section>
+		</section>
+		<section prefix="8">A person that has control under this section is not required to acknowledge that it has control on behalf of another person.
+		</section>
+		<section prefix="9">If a person acknowledges that it has or will obtain control on behalf of another person, unless the person otherwise agrees or law other than this title or Title 8.9 otherwise provides, the person does not owe any duty to the other person and is not required to confirm the acknowledgement to any other person.
+		</section>
+	</text>
+	<history>2004, c. 200; 2024, c. 652.</history>
+</law>

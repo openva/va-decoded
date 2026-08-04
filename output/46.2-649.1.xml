@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="6" level="3">Titling and Registration of Motor Vehicles</unit>
+		<unit label="article" identifier="3" level="4">Registration of Vehicles</unit>
+	</structure>
+	<section_number>46.2-649.1</section_number>
+	<catch_line>Registration of tow trucks; fees</catch_line>
+	<text>
+		<section prefix="A">No tow truck registered under this section shall be subject to registration under the international registration plan or subject to any other state registration requirements under this chapter. Registration under this section shall not prohibit the use of "rollbacks" to transport storage sheds, similar structures, or other cargoes.
+		</section>
+		<section prefix="B">Vehicles registered under this section shall be subject to the following annual fees, based upon their manufacturer's gross vehicle weight ratings:
+			a
+			less than 15,000 pounds
+			$100
+			b
+			15,000 to 22,999 pounds
+			$200
+			c
+			23,000 to 29,499 pounds
+			$300
+			d
+			more than 29,499 pounds
+			$400
+		</section>
+		<section prefix="C">No vehicle shall be registered under this section unless there is in force as to such vehicle at the time of its registration commercial liability insurance coverage for those classes of insurance defined in §§ 38.2-117 and 38.2-118 in the amount of at least $750,000.
+		</section>
+	</text>
+	<history>1993, c. 120; 2006, cc. 874, 891.</history>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="5" level="3">Cancellation of Registration</unit>
+	</structure>
+	<section_number>24.2-428.2</section_number>
+	<catch_line>Return of registered voter to active status</catch_line>
+	<text>
+		A registered voter shall be returned to active status from inactive status if, during the period beginning on the date the voter was assigned to inactive status and ending on the day of the second general election for federal office thereafter, the voter:
+		<section prefix="1">Notifies the general registrar of a change of address within the county or city;
+		</section>
+		<section prefix="2">Responds to a confirmation notice with information that the voter continues to reside at the registration address;
+		</section>
+		<section prefix="3">Votes or attempts to vote in a primary or a special or general election and, if necessary, corrects the registration record; or
+		</section>
+		<section prefix="4">Transfers his registration to another county or city within the Commonwealth, pursuant to § 24.2-424 or subsection E of § 24.2-428.
+			If the registered voter fails to take such action on or before the day of the second general election for federal office after the voter was placed on inactive status, the general registrar shall cancel the person's voter registration.
+			The general registrar shall post at the courthouse or have published in a newspaper of general circulation in his county or city a list of names of persons whose registration has been cancelled pursuant to this section. He shall deliver or mail, obtaining a certificate of mailing, a certified copy of the list to the chairman of each political party in his county or city.
+		</section>
+	</text>
+	<history>1996, cc. 72, 73.</history>
+</law>

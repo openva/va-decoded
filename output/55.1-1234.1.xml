@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="III" level="2">Rental Conveyances</unit>
+		<unit label="chapter" identifier="12" level="3">Virginia Residential Landlord and Tenant Act</unit>
+		<unit label="article" identifier="4" level="4">Tenant Remedies</unit>
+	</structure>
+	<section_number>55.1-1234.1</section_number>
+	<catch_line>Uninhabitable dwelling unit</catch_line>
+	<text>
+		<section prefix="A">If, at the beginning of the tenancy, a condition exists in a rental dwelling unit that constitutes a fire hazard or serious threat to the life, health, or safety of tenants or occupants of the premises, including an infestation of rodents or a lack of heat, hot or cold running water, electricity, or adequate sewage disposal facilities, the tenant shall be entitled to terminate the rental agreement and receive a full refund of all deposits and rent paid to the landlord, so long as the tenant provides the landlord with written notice of his intent to terminate the rental agreement within seven days of the date on which possession of the dwelling unit was to have transferred to the tenant. Unless the landlord asserts, pursuant to subsection B, that the tenant's termination of the rental agreement is unjustified, the landlord shall refund all deposits and rent paid by the tenant to the tenant on or before the fifteenth business day following the day on which (i) the termination notice is delivered to the landlord or (ii) the tenant vacates the dwelling unit, whichever occurs later.
+		</section>
+		<section prefix="B">If a tenant terminates a rental agreement pursuant to subsection A and the landlord asserts that the tenant is unjustified in his termination of the rental agreement, the landlord shall provide written notice to the tenant of his refusal to accept the tenant's termination notice, along with the reasons for such refusal, within 15 business days following the date on which such termination notice is delivered to the landlord.
+		</section>
+		<section prefix="C">A tenant who has not taken possession or who has vacated the dwelling unit may file an action in a court of competent jurisdiction to contest the landlord's refusal to accept the termination notice, if applicable, and for the return of any deposits and rent paid to the landlord. In any such action, the prevailing party shall be entitled to recover reasonable attorney fees.
+		</section>
+	</text>
+	<history>2023, c. 435.</history>
+</law>

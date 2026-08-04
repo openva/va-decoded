@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="52" level="2">Long-Term Care Insurance</unit>
+	</structure>
+	<section_number>38.2-5205</section_number>
+	<catch_line>Prior institutionalization</catch_line>
+	<text>
+		<section prefix="A">No long-term care insurance policy may be delivered or issued for delivery in this Commonwealth if such policy conditions eligibility (i) for any benefits provided in an institutional care setting on the receipt of a higher level of institutional care or (ii) for any benefits on a prior hospitalization requirement.
+		</section>
+		<section prefix="B">A long-term care insurance policy containing any limitations or conditions for eligibility other than those prohibited in subsection A shall clearly label such limitations or conditions, including any required number of days of confinement, in a separate paragraph of the policy or certificate entitled "Limitations or Conditions on Eligibility for Benefits."
+		</section>
+		<section prefix="C">A long-term care insurance policy containing a benefit advertised, marketed or offered as a home health care or home care benefit may not condition receipt of benefits on a prior institutionalization requirement.
+		</section>
+		<section prefix="D">A long-term care insurance policy which conditions eligibility of noninstitutional benefits on the prior receipt of institutional care shall not require a prior institutional stay of more than thirty days for which benefits are paid.
+		</section>
+	</text>
+	<history>1987, c. 586; 1990, c. 285.</history>
+</law>

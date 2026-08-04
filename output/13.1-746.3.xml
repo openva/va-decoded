@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="16" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-746.3</section_number>
+	<catch_line>Director duties</catch_line>
+	<text>
+		<section prefix="A">Directors shall cause the dissolved corporation to apply its remaining assets to discharge or make reasonable provision for the payment of claims and make distributions in liquidation of assets to shareholders after payment or provision for claims.
+		</section>
+		<section prefix="B">Directors of a dissolved corporation that has disposed of claims under § 13.1-746, 13.1-746.1 or 13.1-746.2 shall not be liable for breach of subsection A with respect to claims against the dissolved corporation that are barred or satisfied under § 13.1-746, 13.1-746.1 or 13.1-746.2.
+		</section>
+	</text>
+	<history>2005, c. 765; 2019, c. 734.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="IV" level="2">Other Sources of State Revenue</unit>
+		<unit label="chapter" identifier="40" level="3">Virginia Lottery Law; Sports Betting</unit>
+		<unit label="article" identifier="2" level="4">Sports Betting</unit>
+	</structure>
+	<section_number>58.1-4037</section_number>
+	<catch_line>Tax on adjusted gross revenue</catch_line>
+	<text>
+		<section prefix="A">There shall be imposed a tax of 15 percent on a permit holder's adjusted gross revenue.
+		</section>
+		<section prefix="B">The tax imposed pursuant to this section is due monthly to the Department, and the permit holder shall remit it on or before the twentieth day of the next succeeding calendar month. If the permit holder's accounting necessitates corrections to a previously remitted tax, the permit holder shall document such corrections when it pays the following month's taxes.
+		</section>
+		<section prefix="C">If the permit holder's adjusted gross revenue for a month is a negative number, the permit holder may carry over the negative amount to a return filed for a subsequent month and deduct such amount from its tax liability for such month, provided that such amount shall not be carried over and deducted against tax liability in any month that is more than 12 months later than the month in which such amount was accrued.
+		</section>
+	</text>
+	<history>2020, cc. 1218, 1256.</history>
+</law>

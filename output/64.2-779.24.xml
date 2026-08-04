@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.1" level="4">Uniform Trust Decanting Act</unit>
+	</structure>
+	<section_number>64.2-779.24</section_number>
+	<catch_line>Obligations</catch_line>
+	<text>
+		A debt, liability, or other obligation enforceable against property of a first trust is enforceable to the same extent against the property when held by the second trust after exercise of the decanting power.
+	</text>
+	<history>2017, c. 592.</history>
+</law>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="V" level="2">Domestic Animals</unit>
+		<unit label="chapter" identifier="60" level="3">Livestock and Poultry</unit>
+		<unit label="article" identifier="1" level="4">Contagious and Infectious Diseases</unit>
+	</structure>
+	<section_number>3.2-6007</section_number>
+	<catch_line>Domestic animals not permitted to enter or leave quarantine</catch_line>
+	<text>
+		Any domestic animal with any contagious or infectious disease, any domestic animal exposed to such a disease, or any domestic animal that is otherwise capable of communicating such a disease to livestock or poultry shall not be permitted to enter or leave any quarantined district, premises, or grounds, except by authority of the State Veterinarian.
+	</text>
+	<history>Code 1950, § 3-570; 1966, c. 702, § 3.1-728; 2008, c. 860.</history>
+</law>

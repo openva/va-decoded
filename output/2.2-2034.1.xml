@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="20.1" level="4">Virginia Information Technologies Agency</unit>
+		<unit label="article" identifier="8" level="5">Office of Data Governance and Analytics</unit>
+	</structure>
+	<section_number>2.2-2034.1</section_number>
+	<catch_line>Office of Data Governance and Analytics created</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"CDO" means the Chief Data Officer of the Commonwealth.
+			"Commonwealth Data Trust" means a secure, multi-stakeholder data exchange and analytics platform with common rules for data security, privacy, and confidentiality. The Commonwealth Data Trust includes data from state, regional, and local governments, from public institutions of higher education, and from any other sources deemed necessary and appropriate.
+			"Office" means the Office of Data Governance and Analytics as created in this section.
+			"Open data" means data that is collected by an agency that is not prohibited from being made available to the public by applicable laws or regulations or other restrictions, requirements, or rights associated with such data.
+		</section>
+		<section prefix="B">There is created in the Virginia Information Technologies Agency the Office of Data Governance and Analytics to foster and oversee the effective sharing of data among state, regional, and local public entities and public institutions of higher education, implement effective data governance strategies to maintain data integrity and security, and promote access to Commonwealth data. The Office shall be overseen by the Chief Information Officer of the Commonwealth as a part of the Virginia Information Technologies Agency but led in strategy and prioritization by the Chief Data Officer, as established pursuant to § 2.2-203.2:4. The purpose of the Office shall be to (i) improve compliance with the Government Data Collection and Dissemination Practices Act (§ 2.2-3800 et seq.); (ii) increase access to and sharing of Commonwealth data, including open data, between state, regional, and local public entities and public institutions of higher education across all levels of government; (iii) increase the use of data and data analytics to improve the efficiency and efficacy of government services and stakeholder outcomes; and (iv) establish the Commonwealth as a national leader in data-driven policy, evidence-based decision making, and outcome-based performance management.
+		</section>
+		<section prefix="C">The Office shall have the following powers and duties:
+			<section prefix="1">To support the collection, dissemination, analysis, and proper use of data by state agencies and public entities as defined in the Government Data Collection and Dissemination Practices Act (§ 2.2-3800 et seq.);
+			</section>
+			<section prefix="2">To facilitate and guide data-sharing efforts between state, regional, and local public entities and public institutions of higher education;
+			</section>
+			<section prefix="3">To develop innovative data analysis and intelligence methodologies and best practices to promote data-driven policy making, decision making, research, and analysis;
+			</section>
+			<section prefix="4">To manage and administer the Commonwealth Data Trust;
+			</section>
+			<section prefix="5">To assist the Chief Data Officer and the Chief Information Officer of the Commonwealth in the development of a comprehensive six-year Commonwealth strategic plan for information technology;
+			</section>
+			<section prefix="6">In cooperation with others in the Virginia Information Technologies Agency, to provide technical assistance to state agencies, local governments, and regional entities to establish and promote data sharing and analytics projects, including data storage, data security, privacy, compliance with federal law, the de-identification of data for research purposes, and the appropriate access to and presentation of open data and datasets to the public;
+			</section>
+			<section prefix="7">To develop measures and targets related to the performance of the Commonwealth's data governance, sharing, analytics, and intelligence program;
+			</section>
+			<section prefix="8">To undertake, identify, coordinate, and oversee studies linking government services to stakeholder outcomes;
+			</section>
+			<section prefix="9">To implement a website dedicated to (i) hosting open data from state, regional, and local public entities and public institutions of higher education and (ii) providing links to any other additional open data websites in the Commonwealth;
+			</section>
+			<section prefix="10">To provide staff and operational support to the Executive Data Board, Data Governance Council, and Data Stewards Group, the multi-level governance structure established pursuant to § 2.2-203.2:4 that governs the Commonwealth Data Trust;
+			</section>
+			<section prefix="11">To apply for and accept grants from the United States government and agencies and instrumentalities thereof and any other source. To those ends, the Office shall have the power to comply with such conditions and execute such agreements as may be necessary or desirable;
+			</section>
+			<section prefix="12">To solicit, receive, and consider proposals for funding projects or initiatives from any state or federal agency, local or regional government, public institution of higher education, nonprofit organization, or private person or corporation;
+			</section>
+			<section prefix="13">To enter into public-private partnerships and agreements with public institutions of higher education in the Commonwealth to conduct data sharing and analytics projects;
+			</section>
+			<section prefix="14">To solicit and accept funds, goods, and in-kind services that are part of any accepted project proposal;
+			</section>
+			<section prefix="15">To establish ad hoc committees or project teams to investigate related technology or technical issues and provide results and recommendations for Office action; and
+			</section>
+			<section prefix="16">To enter into reciprocal data-sharing agreements with state agencies for the purpose of sharing veteran-specific data in order to support data-informed outreach plans for veterans. Such agencies may include the Department of Veterans Services, Department of Corrections, Department of Social Services, Virginia Employment Commission, Department of Small Business and Supplier Diversity, Department of Taxation, and other relevant state agencies that have access to data regarding veterans residing in the Commonwealth.
+			</section>
+		</section>
+	</text>
+	<history>2025, cc. 7, 23.</history>
+</law>

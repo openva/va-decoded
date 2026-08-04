@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="11" level="2">Juries</unit>
+		<unit label="article" identifier="1" level="3">When Jury Trial May Be Had</unit>
+	</structure>
+	<section_number>8.01-336</section_number>
+	<catch_line>Jury trial of right; waiver of jury trial; court-ordered jury trial; trial by jury of plea in equity; equitable claim</catch_line>
+	<text>
+		<section prefix="A">The right of trial by jury as declared in Article I, Section 11 of the Constitution of Virginia and by statutes thereof shall be preserved inviolate to the parties. Unless waived, any demand for a trial by jury in a civil case made in compliance with the Rules of Supreme Court of Virginia shall be sufficient, with no further notice, hearing, or order, to proceed thereon.
+		</section>
+		<section prefix="B">Waiver of jury trial. -- In any action at law in which the recovery sought is greater than $20, exclusive of interest, unless one of the parties demands that the case or any issue thereof be tried by a jury, or in a criminal action in which trial by jury is dispensed with as provided by law, the whole matter of law and fact may be heard and judgment given by the court.
+		</section>
+		<section prefix="C">Court-ordered jury trial. -- Notwithstanding any provision in this Code to the contrary, in any action asserting a claim at law in which there has been no demand for trial by jury by any party, a circuit court may on its own motion direct one or more issues, including an issue of damages, to be tried by a jury.
+		</section>
+		<section prefix="D">Trial by jury of plea in equity. -- In any action in which a plea has been filed to an equitable claim, and the allegations of such plea are denied by the plaintiff, either party may have the issue tried by jury.
+		</section>
+		<section prefix="E">Suit on equitable claim. -- In any suit on an equitable claim, the court may, of its own motion or upon motion of any party, supported by such party's affidavit that the case will be rendered doubtful by conflicting evidence of another party, direct an issue to be tried before an advisory jury.
+		</section>
+	</text>
+	<history>Code 1950, §§ 8-208.21, 8-211, 8-212, 8-213, 8-214; 1954, c. 333; 1973, c. 439; 1974, c. 611; 1975, c. 578; 1977, c. 617; 2005, c. 681; 2014, c. 172.</history>
+</law>

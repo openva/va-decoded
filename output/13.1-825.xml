@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="4" level="3">Purposes and Powers</unit>
+	</structure>
+	<section_number>13.1-825</section_number>
+	<catch_line>Purposes</catch_line>
+	<text>
+		Every corporation incorporated under this Act has the purpose of engaging in any lawful activity, unless:
+		<section prefix="1">A statute requires the corporation to issue shares or one of the purposes of the corporation is to conduct the business of a public service company other than a sewer company; or
+		</section>
+		<section prefix="2">A more limited purpose is (i) set forth in the articles of incorporation or (ii) required to be set forth in the articles of incorporation by any other law of the Commonwealth.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-204; 1956, c. 428; 1958, c. 564; 1960, c. 296; 1971, Ex. Sess., c. 98; 1985, c. 522; 2007, c. 925.</history>
+</law>

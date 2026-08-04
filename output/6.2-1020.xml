@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="10" level="3">Entities Conducting Trust Business</unit>
+		<unit label="article" identifier="2" level="4">Trust Companies</unit>
+	</structure>
+	<section_number>6.2-1020</section_number>
+	<catch_line>Certain transactions by affiliated trust companies prohibited</catch_line>
+	<text>
+		An affiliated trust company shall not:
+		<section prefix="1">During the underwriting period, purchase from an affiliated broker-dealer, for any trust account or for its own account, any security that is being underwritten by that broker-dealer; or
+		</section>
+		<section prefix="2">Purchase for any trust account or for its own account any security that is issued by a company that owns five percent or more of the capital stock of, or is affiliated with, the affiliated trust company.
+		</section>
+	</text>
+	<history>1994, c. 524, § 6.1-32.14:2; 1995, c. 140; 2010, c. 794.</history>
+</law>

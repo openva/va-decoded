@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="52" level="2">Long-Term Care Insurance</unit>
+	</structure>
+	<section_number>38.2-5207.2</section_number>
+	<catch_line>Long-term care benefits; monthly report</catch_line>
+	<text>
+		Whenever long-term care benefits being paid are funded through a life insurance policy by acceleration of the death benefit, a monthly report shall be provided to the policyholder. Such report shall include:
+		<section prefix="1">Any long-term care benefits paid out during the month;
+		</section>
+		<section prefix="2">An explanation of any changes in the policy, e.g., death benefits or cash values, due to long-term care benefits being paid out; and
+		</section>
+		<section prefix="3">The amount of long-term care benefits existing or remaining.
+		</section>
+	</text>
+	<history>1990, c. 285.</history>
+</law>

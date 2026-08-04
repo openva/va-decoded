@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="58" level="2">Managed Care Health Insurance Plans</unit>
+	</structure>
+	<section_number>38.2-5806</section_number>
+	<catch_line>Prohibited practices</catch_line>
+	<text>
+		<section prefix="A">No MCHIP licensee may cancel or refuse to renew the coverage of a covered person for basic health care services on the basis of the status of the covered person's health.
+		</section>
+		<section prefix="B">The following provisions shall apply whenever an MCHIP provides a covered person who is also a resident of a continuing care facility with coverage for Medicare benefits and the covered person's primary care physician determines that it is medically necessary for the covered person to be referred to a skilled nursing unit:
+			<section prefix="1">The health carrier shall not require that the covered person relocate to a skilled nursing unit outside the continuing care facility if (i) the continuing care facility's skilled nursing unit is certified as a Medicare skilled nursing facility and (ii) the continuing care facility agrees, as to such skilled nursing unit, to become a contracting provider in accordance with the health carrier's standard terms and conditions for its participating providers.
+			</section>
+			<section prefix="2">A continuing care facility that satisfies clauses (i) and (ii) of subdivision 1 shall not be obligated to accept as a skilled nursing unit patient any one other than a resident of the continuing care facility; and neither the health carrier nor the continuing care facility shall be allowed to include the skilled nursing unit or facilities on the list required by § 38.2-5802 or to advertise in any other way that the facility's skilled nursing unit is a participating provider with respect to coverage offered by the MCHIP for Medicare benefits or skilled nursing unit facilities for other than the continuing care facility's residents.
+				As used in this subsection, "Medicare benefits" means medical and health products, benefits and services offered in accordance with Title XVIII of the United States Social Security Act (42 U.S.C. § 1395 et seq.) and "continuing care facility" means a continuing care retirement community regulated pursuant to Chapter 49 (§ 38.2-4900 et seq.) of this title.
+			</section>
+		</section>
+		<section prefix="C">The following shall apply in accordance with provisions in Title 32.1 or regulations promulgated thereunder:
+			<section prefix="1">Where complaints of a covered person may be resolved through a specified arbitration agreement, the covered person shall be advised in writing of his rights and duties under the agreement at the time the complaint is registered.
+			</section>
+			<section prefix="2">No contract or evidence of coverage that entitles covered persons to resolve complaints through an arbitration agreement shall limit or prohibit such arbitration for any claims asserted having a monetary value of $250 or more.
+			</section>
+			<section prefix="3">If the covered person agrees to binding arbitration, his written acceptance of the arbitration agreement shall not be executed prior to the time the complaint is registered nor subsequent to the time an initial resolution is made, and the agreement shall be accompanied by a statement setting forth in writing the terms and conditions of binding arbitration.
+			</section>
+		</section>
+	</text>
+	<history>1998, c. 891.</history>
+</law>

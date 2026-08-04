@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.22</section_number>
+	<catch_line>No attribution of activities constituting transacting business or for establishing jurisdiction</catch_line>
+	<text>
+		In determining whether a foreign series limited liability company or foreign protected series of the foreign series limited liability company transacts business in the Commonwealth or is subject to the personal jurisdiction of the courts of the Commonwealth:
+		<section prefix="1">The activities and affairs of the foreign series limited liability company are not attributable to a foreign protected series of the foreign series limited liability company solely by reason of the foreign protected series being a foreign protected series of the foreign series limited liability company; and
+		</section>
+		<section prefix="2">The activities and affairs of a foreign protected series are not attributable to the foreign series limited liability company or another foreign protected series of the foreign series limited liability company solely by reason of the foreign protected series being a foreign protected series of the foreign series limited liability company.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

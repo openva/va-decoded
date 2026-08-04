@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="6" level="2">Insurance Information and Privacy Protection</unit>
+		<unit label="article" identifier="1" level="3">Collection, Use, and Dissemination of Information</unit>
+	</structure>
+	<section_number>38.2-600</section_number>
+	<catch_line>Purposes</catch_line>
+	<text>
+		The purposes of this article are to:
+		<section prefix="1">Establish standards for the collection, use, and disclosure of information gathered in connection with insurance transactions by insurance institutions, agents or insurance-support organizations;
+		</section>
+		<section prefix="2">Maintain a balance between the need for information by those conducting the business of insurance and the public's need for fairness in insurance information practices, including the need to minimize intrusiveness;
+		</section>
+		<section prefix="3">Establish a regulatory mechanism to enable natural persons to ascertain what information is being or has been collected about them in connection with insurance transactions and to have access to such information for the purpose of verifying or disputing its accuracy;
+		</section>
+		<section prefix="4">Limit the disclosure of information collected in connection with insurance transactions; and
+		</section>
+		<section prefix="5">Enable insurance applicants and policyholders to obtain the reasons for any adverse underwriting decision.
+		</section>
+	</text>
+	<history>1981, c. 389, § 38.1-57.3; 1986, c. 562; 2020, c. 264.</history>
+</law>

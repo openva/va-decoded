@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="15" level="3">Virginia Community Policing and Corrections Reports</unit>
+	</structure>
+	<section_number>9.1-192</section_number>
+	<catch_line>Community Policing Reporting Database; annual report</catch_line>
+	<text>
+		<section prefix="A">The Department shall periodically access the Community Policing Reporting Database, which is maintained by the Department of State Police pursuant to § 52-30.3, for the purposes of analyzing the data to determine the existence and prevalence of the practice of bias-based profiling and the prevalence of complaints alleging the use of excessive force. The Department shall maintain all records relating to the analysis, validation, and interpretation of such data. The Department may seek assistance in analyzing the data from any accredited public or private institution of higher education in the Commonwealth or from an independent body having the experience, staff expertise, and technical support capability to provide such assistance.
+		</section>
+		<section prefix="B">The Director shall annually report the findings and recommendations resulting from the analysis and interpretation of the data from the Community Policing Reporting Database to the Governor, the General Assembly, and the Attorney General beginning on or before July 1, 2021, and each July 1 thereafter. The report shall also include information regarding state or local law-enforcement agencies that have failed or refused to report the required data to the Department of State Police as required by §§ 15.2-1609.10, 15.2-1722.1, and 52-30.2. A copy of the Director's report shall also be provided to each attorney for the Commonwealth of the county or city in which a reporting law-enforcement agency is located.
+		</section>
+	</text>
+	<history>2020, c. 1165; 2024, c. 813.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="4" level="2">Labor Unions, Strikes, etc</unit>
+		<unit label="article" identifier="2" level="3">Strikes by Government Employees</unit>
+	</structure>
+	<section_number>40.1-55</section_number>
+	<catch_line>Employee striking terminates, and becomes temporarily ineligible for, public employment</catch_line>
+	<text>
+		<section prefix="A">Any employee of the Commonwealth, or of any county, city, town or other political subdivision thereof, or of any agency of any one of them, who, in concert with two or more other such employees, for the purpose of obstructing, impeding or suspending any activity or operation of his employing agency or any other governmental agency, strikes or willfully refuses to perform the duties of his employment shall, by such action, be deemed to have terminated his employment and shall thereafter be ineligible for employment in any position or capacity during the next 12 months by the Commonwealth, or any county, city, town or other political subdivision of the Commonwealth, or by any department or agency of any of them.
+		</section>
+		<section prefix="B">The provisions of subsection A shall apply to any employee of any county, city, or town or local school board without regard to any local ordinance or resolution adopted pursuant to § 40.1-57.2 by such county, city, or town or school board that authorizes its employees to engage in collective bargaining.
+		</section>
+	</text>
+	<history>Code 1950, § 40-65; 1970, c. 321; 2020, cc. 1209, 1276.</history>
+</law>

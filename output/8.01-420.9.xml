@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="14" level="2">Evidence</unit>
+		<unit label="article" identifier="9" level="3">Miscellaneous Provisions</unit>
+	</structure>
+	<section_number>8.01-420.9</section_number>
+	<catch_line>Subpoena duces tecum; financial records of nonparty</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any other provision of law, when any party in a civil action issues a subpoena duces tecum for the production of (i) records subject to attorney-client privilege or (ii) the financial records of a nonparty account holder, such attorney holding privileged records or nonparty account holder may file a motion to quash or modify such subpoena.
+		</section>
+		<section prefix="B">Upon receiving a valid subpoena duces tecum for financial records, no commercial business providing credit history or credit reports, issuer as defined in § 6.2-424, financial institution as defined in § 6.2-604, or money transmitter as defined in § 6.2-1900 shall condition compliance with such subpoena upon the payment of any fees for the costs of producing such records, but such commercial business, issuer, financial institution, or money transmitter may impose reasonable charges not to exceed the actual costs incurred in accessing, duplicating, supplying, or searching for the requested records. Nothing in this section shall be construed to create a cause of action against such commercial business, issuer, financial institution, or money transmitter that complies with a subpoena duces tecum.
+		</section>
+	</text>
+	<history>2025, cc. 287, 300.</history>
+</law>

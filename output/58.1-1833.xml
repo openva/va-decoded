@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="18" level="3">Enforcement, Collection, Refund, Remedies and Review of State Taxes</unit>
+		<unit label="article" identifier="2" level="4">Corrections of Erroneous Assessments; Refunds</unit>
+	</structure>
+	<section_number>58.1-1833</section_number>
+	<catch_line>Interest on overpayments or improper collection</catch_line>
+	<text>
+		<section prefix="A">Interest shall be allowed and paid upon the overpayment of any tax administered by the Department, the refund of which is permitted or required under the provisions of this article, or on moneys improperly collected from the taxpayer and refunded pursuant to § 58.1-1822, at a rate equal to the rate of interest established pursuant to § 58.1-15. Such interest shall accrue from a date sixty days after payment of the tax, or sixty days after the last day prescribed by law for such payment, whichever is later, and shall end on a date determined by the Department preceding the date of the refund check by not more than thirty days. Notwithstanding the above, any tax refunded pursuant to a court order or otherwise as a result of an erroneous assessment shall bear interest from the date the assessment was paid. No interest will be paid on sales taxes refunded to a dealer unless the dealer agrees to pass such interest on to the purchaser.
+		</section>
+		<section prefix="B">1. Notwithstanding the provisions of subsection A, if an individual overpays his individual income tax, the overpayment was for individual income taxes for the immediately preceding taxable year, and the overpayment has not been refunded, then interest shall accrue on the amount of the overpayment, beginning:
+			<section prefix="i">thirty days after payment of such tax if the individual filed his individual income tax return via electronic means; or
+				<section prefix="ii">sixty days after payment of such tax if the individual filed his individual income tax return using a method other than electronic means.
+					In no case shall interest be paid for the overpayment of the same tax pursuant to this subsection and subsection A.
+					<section prefix="2">For the purposes of this subsection, interest shall accrue at a rate equal to the rate of interest established pursuant to § 58.1-15. Such interest shall end on a date determined by the Department preceding the date of the refund check by not more than seven days.
+					</section>
+				</section>
+			</section>
+		</section>
+		<section prefix="C">For purposes of this section:
+			<section prefix="1">Any individual income tax deducted and withheld at the source and paid to the Department, and any amount paid as estimated tax, shall be deemed to have been paid on the day on which the return for such year's income was filed;
+			</section>
+			<section prefix="2">Any corporate or estate and trust income tax deducted and withheld at the source and paid to the Department, and any amount paid as estimated tax, shall be deemed to have been paid on the day on which the return for such year's income was filed, or the last day prescribed by law for filing such return, whichever is later; and
+			</section>
+			<section prefix="3">Any overpayment of tax resulting from the carry-back of a net operating loss or net capital loss shall be deemed to have been made on the day on which the return for the year in which the loss occurred was filed, or the last day prescribed by law for such filing, whichever is later.
+			</section>
+		</section>
+		<section prefix="D">The Tax Commissioner and the State Comptroller shall implement procedures to allow an individual requesting a refund of the overpayment of individual income tax when filing his individual income tax return to elect on such return to have the refund paid by check mailed to the address provided on his return. The ability of the individual to elect such refund check shall be in addition to other methods utilized by the State Comptroller for the payment of such refund, including but not limited to direct deposits or other electronic means.
+		</section>
+	</text>
+	<history>Code 1950, § 58-1140.1; 1973, c. 446; 1974, c. 425; 1976, c. 456; 1980, c. 663; 1984, c. 675; 2002, cc. 184, 462; 2015, cc. 76, 229.</history>
+</law>

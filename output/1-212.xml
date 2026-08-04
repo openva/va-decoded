@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="1" level="1">General Provisions</unit>
+		<unit label="chapter" identifier="2.1" level="2">Common Law and Rules of Construction</unit>
+		<unit label="article" identifier="2" level="3">Rules of Construction and Definitions</unit>
+	</structure>
+	<section_number>1-212</section_number>
+	<catch_line>Courts of record</catch_line>
+	<text>
+		"Courts of record" means the Supreme Court of Virginia, the Court of Appeals of Virginia, and the circuit courts.
+	</text>
+	<history>1971, Ex. Sess., c. 49, § 1-13.5:1; 2005, c. 839.</history>
+</law>

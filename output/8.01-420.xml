@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="14" level="2">Evidence</unit>
+		<unit label="article" identifier="9" level="3">Miscellaneous Provisions</unit>
+	</structure>
+	<section_number>8.01-420</section_number>
+	<catch_line>Depositions as basis for motion for summary judgment or to strike evidence</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsections B and C, no motion for summary judgment or to strike the evidence shall be sustained when based in whole or in part upon any discovery depositions under Rule 4:5, unless all parties to the suit or action shall agree that such deposition may be so used. Notwithstanding the foregoing, requests for admissions for which the responses are submitted in support of a motion for summary judgment may be based in whole or in part upon any discovery depositions under Rule 4:5 and may include admitted facts learned or referenced in such a deposition, provided that any such request for admission shall not reference the deposition or require the party to admit that the deponent gave specific testimony.
+		</section>
+		<section prefix="B">Notwithstanding the provisions of subsection A, a motion for summary judgment seeking dismissal of any claim or demand for punitive damages may be sustained, as to the punitive damages claim or demand only, when based in whole or in part upon any discovery depositions under Rule 4:5. However, such a motion may not be based upon discovery depositions under Rule 4:5 with respect to any claim or demand for punitive damages based on the operation of a motor vehicle by a person while under the influence of alcohol, any narcotic drug, or any other self-administered intoxicant or drug.
+		</section>
+		<section prefix="C">Notwithstanding the provisions of subsection A, discovery depositions under Rule 4:5 and affidavits may be used in support of or in opposition to a motion for summary judgment in any action when the only parties to the action are business entities and the amount at issue is $50,000 or more.
+		</section>
+	</text>
+	<history>Code 1950, § 8-315.1; 1973, c. 483; 1977, c. 617; 1978, c. 417; 2013, c. 76; 2019, cc. 10, 128.</history>
+</law>

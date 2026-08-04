@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="3" level="3">Priority</unit>
+	</structure>
+	<section_number>8.9A-324</section_number>
+	<catch_line>Priority of purchase-money security interests</catch_line>
+	<text>
+		<section prefix="a">General rule; purchase-money priority. Except as otherwise provided in subsection (g), a perfected purchase-money security interest in goods other than inventory or livestock has priority over a conflicting security interest in the same goods, and, except as otherwise provided in § 8.9A-327, a perfected security interest in its identifiable proceeds also has priority, if the purchase-money security interest is perfected when the debtor receives possession of the collateral or within twenty days thereafter.
+		</section>
+		<section prefix="b">Inventory purchase-money priority. Subject to subsection (c) and except as otherwise provided in subsection (g), a perfected purchase-money security interest in inventory has priority over a conflicting security interest in the same inventory, has priority over a conflicting security interest in chattel paper or an instrument constituting proceeds of the inventory and in proceeds of the chattel paper, if so provided in § 8.9A-330, and, except as otherwise provided in § 8.9A-327, also has priority in identifiable cash proceeds of the inventory to the extent the identifiable cash proceeds are received on or before the delivery of the inventory to a buyer, if:
+			<section prefix="1">the purchase-money security interest is perfected when the debtor receives possession of the inventory;
+			</section>
+			<section prefix="2">the purchase-money secured party sends a signed notification to the holder of the conflicting security interest;
+			</section>
+			<section prefix="3">the holder of the conflicting security interest receives the notification within five years before the debtor receives possession of the inventory; and
+			</section>
+			<section prefix="4">the notification states that the person sending the notification has or expects to acquire a purchase-money security interest in inventory of the debtor and describes the inventory.
+			</section>
+		</section>
+		<section prefix="c">Holders of conflicting inventory security interests to be notified. Subsections (b) (2) through (4) apply only if the holder of the conflicting security interest had filed a financing statement covering the same types of inventory:
+			<section prefix="1">if the purchase-money security interest is perfected by filing, before the date of the filing; or
+			</section>
+			<section prefix="2">if the purchase-money security interest is temporarily perfected without filing or possession under § 8.9A-312 (f), before the beginning of the twenty-day period thereunder.
+			</section>
+		</section>
+		<section prefix="d">Livestock purchase-money priority. Subject to subsection (e) and except as otherwise provided in subsection (g), a perfected purchase-money security interest in livestock that are farm products has priority over a conflicting security interest in the same livestock, and, except as otherwise provided in § 8.9A-327, a perfected security interest in their identifiable proceeds and identifiable products in their unmanufactured states also has priority, if:
+			<section prefix="1">the purchase-money security interest is perfected when the debtor receives possession of the livestock;
+			</section>
+			<section prefix="2">the purchase-money secured party sends a signed notification to the holder of the conflicting security interest;
+			</section>
+			<section prefix="3">the holder of the conflicting security interest receives the notification within six months before the debtor receives possession of the livestock; and
+			</section>
+			<section prefix="4">the notification states that the person sending the notification has or expects to acquire a purchase-money security interest in livestock of the debtor and describes the livestock.
+			</section>
+		</section>
+		<section prefix="e">Holders of conflicting livestock security interests to be notified. Subsections (d) (2) through (4) apply only if the holder of the conflicting security interest had filed a financing statement covering the same types of livestock:
+			<section prefix="1">if the purchase-money security interest is perfected by filing, before the date of the filing; or
+			</section>
+			<section prefix="2">if the purchase-money security interest is temporarily perfected without filing or possession under § 8.9A-312 (f), before the beginning of the twenty-day period thereunder.
+			</section>
+		</section>
+		<section prefix="f">Software purchase-money priority. Except as otherwise provided in subsection (g), a perfected purchase-money security interest in software has priority over a conflicting security interest in the same collateral, and, except as otherwise provided in § 8.9A-327, a perfected security interest in its identifiable proceeds also has priority, to the extent that the purchase-money security interest in the goods in which the software was acquired for use has priority in the goods and proceeds of the goods under this section.
+		</section>
+		<section prefix="g">Conflicting purchase-money security interests. If more than one security interest qualifies for priority in the same collateral under subsection (a), (b), (d), or (f):
+			<section prefix="1">a security interest securing an obligation incurred as all or part of the price of the collateral has priority over a security interest securing an obligation incurred for value given to enable the debtor to acquire rights in or the use of collateral; and
+			</section>
+			<section prefix="2">in all other cases, § 8.9A-322 (a) applies to the qualifying security interests.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 43-27; 1964, c. 219, § 8.9-312; 1966, c. 557; 1973, c. 509; 1983, c. 204; 1984, c. 613; 1996, c. 216; 2000, c. 1007; 2024, c. 652.</history>
+</law>

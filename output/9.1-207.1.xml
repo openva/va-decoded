@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="2" level="2">Department of Fire Programs</unit>
+	</structure>
+	<section_number>9.1-207.1</section_number>
+	<catch_line>Firefighting foam management</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section, unless the context requires a different meaning:
+			"Class B firefighting foam" means a foam designed for flammable liquid fires.
+			"Local government" includes any locality, fire district, regional fire protection authority, or other special purpose district that provides firefighting services.
+			"PFAS chemicals" means, for the purposes of firefighting agents, a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom and designed to be fully functional in class B firefighting foam formulations, including perfluoroalkyl and polyfluoroalkyl substances.
+			"Testing" includes calibration testing, conformance testing, and fixed system testing.
+		</section>
+		<section prefix="B">Beginning July 1, 2021, no person, local government, or agency of the Commonwealth shall discharge or otherwise use class B firefighting foam that contains intentionally added PFAS chemicals (i) for testing purposes, unless otherwise required by law or by the agency having jurisdiction over the testing facility, and with the condition that the testing facility has implemented appropriate containment, treatment, and disposal measures to prevent uncontrolled releases of foam to the environment or (ii) for training purposes, where such foam shall be replaced by nonfluorinated training foams.
+		</section>
+		<section prefix="C">No provision of this section shall restrict (i) the manufacture, sale, or distribution of class B firefighting foam that contains intentionally added PFAS chemicals or (ii) the discharge or other use of such foams in emergency firefighting or fire prevention operations.
+		</section>
+	</text>
+	<history>2019, c. 838.</history>
+</law>

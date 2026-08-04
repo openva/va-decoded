@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="7" level="3">Breach of Contract</unit>
+	</structure>
+	<section_number>59.1-507.4</section_number>
+	<catch_line>Copy; refusal of defective tender</catch_line>
+	<text>
+		<section prefix="a">Subject to subsection (b) and § 59.1-507.5, tender of a copy that is a material breach of contract permits the party to which tender is made to:
+			<section prefix="1">refuse the tender;
+			</section>
+			<section prefix="2">accept the tender; or
+			</section>
+			<section prefix="3">accept any commercially reasonable units and refuse the rest.
+			</section>
+		</section>
+		<section prefix="b">In a mass-market transaction that calls for only a single tender of a copy, a licensee may refuse the tender if the tender does not conform to the contract.
+		</section>
+		<section prefix="c">Refusal of a tender is ineffective unless:
+			<section prefix="1">it is made before acceptance;
+			</section>
+			<section prefix="2">it is made within a reasonable time after tender or completion of any permitted effort to cure; and
+			</section>
+			<section prefix="3">the refusing party seasonably notifies the tendering party of the refusal.
+			</section>
+		</section>
+		<section prefix="d">Except in a case governed by subsection (b), a party that rightfully refuses tender of a copy may cancel the contract only if the tender was a material breach of the whole contract or the agreement so provides.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

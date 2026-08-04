@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="19" level="2">Forthcoming Bonds</unit>
+	</structure>
+	<section_number>8.01-531</section_number>
+	<catch_line>In what cases forthcoming bond not to be taken</catch_line>
+	<text>
+		No bond for the forthcoming of property shall be taken:
+		<section prefix="1">On an execution on a forthcoming bond;
+		</section>
+		<section prefix="2">On an execution on a judgment against (i) a treasurer, sheriff, or a deputy of either of them, or a surety or personal representative of either such officer or deputy, for money received by any such officer or deputy, by virtue of his office, (ii) any such officer or his personal representative, in favor of a surety of such officer for money paid or a judgment rendered for a default in office, or (iii) a deputy of any such officer, or his surety or personal representative, in favor of his principal or the personal representative of such principal, for money paid or a judgment rendered for a default in office; or
+		</section>
+		<section prefix="3">On any other execution on which the clerk is required by law or by order of court to endorse that "no security is to be taken."
+		</section>
+	</text>
+	<history>Code 1950, § 8-455; 1954, c. 333; 1977, c. 617.</history>
+</law>

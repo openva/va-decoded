@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2A" level="1">Commercial Code — Leases</unit>
+		<unit label="part" identifier="3" level="2">Effect of Lease Contract</unit>
+	</structure>
+	<section_number>8.2A-307</section_number>
+	<catch_line>Priority of liens arising by attachment or levy on, security interests in, and other claims to goods</catch_line>
+	<text>
+		<section prefix="1">Except as otherwise provided in § 8.2A-306, a creditor of a lessee takes subject to the lease contract.
+		</section>
+		<section prefix="2">Except as otherwise provided in subsection (3) of this section and in §§ 8.2A-306 and 8.2A-308, a creditor of a lessor takes subject to the lease contract unless the creditor holds a lien that attached to the goods before the lease contract became enforceable.
+		</section>
+		<section prefix="3">Except as otherwise provided in §§ 8.9A-317, 8.9A-321, and 8.9A-323, a lessee takes a leasehold interest subject to a security interest held by a creditor of the lessor.
+		</section>
+	</text>
+	<history>1991, c. 536; 2000, c. 1007.</history>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="12" level="3">Bank Franchise Tax</unit>
+	</structure>
+	<section_number>58.1-1211</section_number>
+	<catch_line>Branch banks</catch_line>
+	<text>
+		If any bank has offices located in two or more political subdivisions, which includes cities, towns and counties, the tax which may be imposed by any subdivision under §§ 58.1-1208, 58.1-1209 or § 58.1-1210 shall be imposed upon only such proportion of the taxable value of the net capital under § 58.1-1204 as the total deposits of such bank, or offices located inside the taxing subdivision, bears to total deposits as of the end of the preceding year. For the purposes of this section, offices located within an incorporated town shall be deemed not within the county where such banks are located.
+	</text>
+	<history>Code 1950, § 58-485.012; 1980, c. 578; 1984, c. 675.</history>
+</law>

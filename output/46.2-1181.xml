@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="10" level="3">Motor Vehicle and Equipment Safety</unit>
+		<unit label="article" identifier="22" level="4">Emissions Inspections</unit>
+	</structure>
+	<section_number>46.2-1181</section_number>
+	<catch_line>Emissions inspection; cost of repairs; waivers</catch_line>
+	<text>
+		<section prefix="A">A motor vehicle shall qualify for an emissions inspection waiver in the event that such vehicle has failed an initial inspection and subsequently failed a reinspection if the owner provides written proof that (i) at least the amount specified in this section has been spent by the owner on the maintenance and repair of the vehicle's engine and emission control system and related equipment and (ii) any emission control system or part thereof which has been removed, damaged, or rendered inoperable by any act enumerated in § 46.2-1048 has been replaced and restored to operating condition.
+		</section>
+		<section prefix="B">The Director shall establish and revise, as necessary, specifications and procedures for motor vehicle maintenance and repair of pollution control devices and systems.
+		</section>
+		<section prefix="C">For the purposes of subsection A:
+			For motor vehicles subject to basic emissions inspections under subsection A of § 46.2-1178, cost limitations on repairs under the emissions inspection program, including parts and labor, but excluding costs of repairs covered by warranties, shall be $175 for pre-1980 model vehicles and $200 for 1980 and newer vehicles, using 2012, or a later date if allowed by federal regulations and approved by the Board, as the base year and annually adjusted by the Consumer Price Index. The Board may phase in waiver amounts.
+			For motor vehicles subject to emissions inspections under subsection C of § 46.2-1178, the cost limitations on repairs shall be a base amount of $450 per vehicle using 1990, or a later date if allowed by federal regulations and approved by the Board, as the base year and annually adjusted by the Consumer Price Index. The Board may phase in waiver amounts.
+			Repairs credited toward this waiver must be done by a repair technician certified in accordance with § 46.2-1180. Repairs shall include parts and labor.
+		</section>
+		<section prefix="D">For the purposes of subsection A of this section, for motor vehicles subject to emissions inspections under subsection B of § 46.2-1178, the cost limitations on repairs under the emissions inspection program, including parts and labor but excluding costs of repairs covered by warranties, shall be:
+			<section prefix="1">$75 for pre-1981 vehicles; and
+			</section>
+			<section prefix="2">$200 for 1981 and newer vehicles.
+			</section>
+		</section>
+	</text>
+	<history>1980, c. 469, § 46.1-326.7; 1988, c. 806; 1989, cc. 722, 727; 1993, cc. 995, 998; 1993, Sp. Sess., c. 2; 1995, cc. 836, 851; 2012, cc. 216, 824.</history>
+</law>

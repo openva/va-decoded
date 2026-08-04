@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="17.1" level="1">Courts of Record</unit>
+		<unit label="chapter" identifier="10" level="2">Court Reporters</unit>
+	</structure>
+	<section_number>17.1-1001</section_number>
+	<catch_line>Applicability; waiver</catch_line>
+	<text>
+		<section prefix="A">This chapter applies to court reporting services performed in the Commonwealth, whether a party appears in person or by remote access, provided by:
+			<section prefix="1">A court reporter or court reporting services provider, whether or not based in the Commonwealth, in connection with a legal proceeding that is commenced or maintained in the Commonwealth; or
+			</section>
+			<section prefix="2">A court reporter or court reporting services provider based in the Commonwealth in connection with a legal proceeding that is commenced or maintained in a foreign jurisdiction.
+			</section>
+		</section>
+		<section prefix="B">The provisions of this chapter shall not be waived or otherwise modified. Any waiver or modification is contrary to public policy and is void and unenforceable.
+		</section>
+	</text>
+	<history>2018, c. 783.</history>
+</law>

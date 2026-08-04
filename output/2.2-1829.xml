@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="18" level="4">Department of the Treasury</unit>
+		<unit label="article" identifier="4" level="5">Revenue Stabilization Fund</unit>
+	</structure>
+	<section_number>2.2-1829</section_number>
+	<catch_line>Reports of Auditor of Public Accounts; Fund deposits and withdrawals</catch_line>
+	<text>
+		<section prefix="A">On or before December 1 of each year, the Auditor of Public Accounts shall report to the General Assembly the certified tax revenues collected in the most recently ended fiscal year. The Auditor shall, at the same time, provide his report on (i) the limitation on the total amount in the Fund; (ii) the amount that could be paid into the Fund; and (iii) the amount necessary for deposit for the next fiscal year into the Fund in order to satisfy the mandatory deposit requirement of Article X, § 8 of the Constitution of Virginia. The Governor shall include any such amount in his budget bill submitted to the General Assembly pursuant to § 2.2-1509. A schedule of deposits may be provided for in the appropriation act.
+		</section>
+		<section prefix="B">The State Comptroller shall draw such warrants as appropriated and the State Treasurer shall deposit such warrants into the Fund. No amounts shall be withdrawn from the Fund except pursuant to appropriations made by the General Assembly in accordance with § 2.2-1830. However, if any amounts accrue, such as through interest or dividends, to the credit of the Fund in excess of the limitation calculated by the Auditor of Public Accounts as provided in subsection D, any excess shall be paid into the general fund either from the Fund or from the Revenue Reserve Fund created pursuant to § 2.2-1831.2.
+		</section>
+		<section prefix="C">For the purposes of the Comptroller's preliminary and final annual reports as required by § 2.2-813, all balances remaining in the Fund on June 30 of each fiscal year shall be considered to be a portion of the fund balance of the general fund of the state treasury.
+		</section>
+		<section prefix="D">The combined amount in the Fund and the Revenue Reserve Fund shall not exceed 20 percent of the Commonwealth's average annual tax revenues derived from taxes on income and retail sales as certified by the Auditor of Public Accounts for the three fiscal years immediately preceding.
+		</section>
+	</text>
+	<history>1992, c. 316, § 2.1-191.2; 1993, c. 26; 2001, c. 844; 2003, cc. 755, 759; 2011, c. 725; 2019, c. 347; 2025, c. 635.</history>
+</law>

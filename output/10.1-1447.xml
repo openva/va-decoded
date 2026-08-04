@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="6" level="4">Siting of Hazardous Waste Facilities</unit>
+	</structure>
+	<section_number>10.1-1447</section_number>
+	<catch_line>Public participation; notice</catch_line>
+	<text>
+		<section prefix="A">Public participation in the development, revision and implementation of regulations and programs under this chapter shall be provided for, encouraged and assisted by the Board.
+		</section>
+		<section prefix="B">Whenever notice is required to be made under the terms of this chapter, unless the context expressly and exclusively provides otherwise, it shall be disseminated as follows:
+			<section prefix="1">By publication once each week for two successive weeks in a newspaper of general circulation within the area to be affected by the subject of the notice;
+			</section>
+			<section prefix="2">By broadcast over one or more radio stations within the area to be affected by the subject of the notice;
+			</section>
+			<section prefix="3">By mailing to each person who has asked to receive notice; and
+			</section>
+			<section prefix="4">By such additional means as the Board deems appropriate.
+			</section>
+		</section>
+		<section prefix="C">Every notice shall provide a description of the subject for which notice is made and shall include the name and telephone number of a person from whom additional information may be obtained.
+		</section>
+	</text>
+	<history>1986, c. 492, § 10-303; 1988, c. 891.</history>
+</law>

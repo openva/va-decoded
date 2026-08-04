@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="16.1" level="1">Courts Not of Record</unit>
+		<unit label="chapter" identifier="6" level="2">Venue, Jurisdiction and Procedure in Civil Matters</unit>
+		<unit label="article" identifier="3" level="3">Procedure in Civil Cases</unit>
+	</structure>
+	<section_number>16.1-117</section_number>
+	<catch_line>When papers in civil cases in certain municipal courts may be destroyed</catch_line>
+	<text>
+		The clerk of any municipal court in which papers are filed and preserved under § 16.1-69.55 may destroy the files, papers and records connected with any civil case in such court, if:
+		<section prefix="1">Such case was dismissed without any adjudication of the merits of the controversy, and the final order entered was one of dismissal and six months have elapsed from the date of such dismissal; or
+		</section>
+		<section prefix="2">Judgment was entered in such case but the right to issue an execution or bring a scire facias or an action on such judgment is barred by § 8.01-251; and
+		</section>
+		<section prefix="3">The destruction of such papers is authorized and directed by an order of the judge of the court in which they are filed and preserved, which order may refer to such papers by any one or more of the above classifications, or to any group or kind of cases embraced therein, without express reference to any particular case.
+		</section>
+	</text>
+	<history>1956, c. 555.</history>
+</law>

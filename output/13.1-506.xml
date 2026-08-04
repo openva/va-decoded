@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="5" level="2">Securities Act</unit>
+		<unit label="article" identifier="3" level="3">Brokers-Dealers, Investment Advisors, Investment Advisor Representatives and Agents</unit>
+	</structure>
+	<section_number>13.1-506</section_number>
+	<catch_line>Revocation of registration</catch_line>
+	<text>
+		The Commission may, by order entered after a hearing on notice duly served on the defendant not less than thirty days before the date of the hearing, revoke the registration of a broker-dealer, investment advisor, investment advisor representative or agent, or refuse to renew a registration if an application for renewal has been or is to be filed, if it finds that such an order is in the public interest and that such broker-dealer, investment advisor or any partner, officer or director of such broker-dealer or investment advisor, or any person occupying a similar status or performing similar functions, or any person directly or indirectly controlling or controlled by such broker-dealer or investment advisor or that such agent or investment advisor representative:
+		<section prefix="1">Has engaged in any fraudulent transaction;
+		</section>
+		<section prefix="2">Is insolvent, or in danger of becoming insolvent, either in the sense that his liabilities exceed his assets or in the sense that he cannot meet his obligations as they mature;
+		</section>
+		<section prefix="3">Is a person for whom a conservator or guardian has been appointed and is acting;
+		</section>
+		<section prefix="4">Has been convicted, within or without this Commonwealth, of any misdemeanor involving a security or any aspect of the securities or investment advisory business or any felony;
+		</section>
+		<section prefix="5">Has failed to furnish information or records requested by the Commission concerning his conduct of the securities or investment advisory business; or
+		</section>
+		<section prefix="6">[Repealed.]
+		</section>
+		<section prefix="7">Has failed to conduct his securities or investment advisory business in accordance with the rules of the Commission.
+		</section>
+	</text>
+	<history>1956, c. 428; 1974, c. 479; 1981, c. 244; 1987, c. 678; 1997, c. 921.</history>
+</law>

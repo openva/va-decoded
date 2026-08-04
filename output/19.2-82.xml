@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="7" level="2">Arrest</unit>
+	</structure>
+	<section_number>19.2-82</section_number>
+	<catch_line>Procedure upon arrest without warrant</catch_line>
+	<text>
+		<section prefix="A">A person arrested without a warrant shall be brought forthwith before a magistrate or other issuing authority having jurisdiction who shall proceed to examine the officer making the arrest under oath. If the magistrate or other issuing authority having jurisdiction has lawful probable cause upon which to believe that a criminal offense has been committed, and that the person arrested has committed such offense, he shall issue either a warrant under the provisions of § 19.2-72 or a summons under the provisions of § 19.2-73.
+			As used in this section the term "brought before a magistrate or other issuing authority having jurisdiction" shall include a personal appearance before such authority or any two-way electronic video and audio communication meeting the requirements of § 19.2-3.1, in order that the accused and the arresting officer may simultaneously see and speak to such magistrate or authority. If electronic means are used, any documents filed may be transmitted in accordance with § 19.2-3.1.
+			If a warrant is issued the case shall thereafter be disposed of under the provisions of §§ 19.2-183 through 19.2-190, if the issuing officer is a judge; under the provisions of §§ 19.2-119 through 19.2-134, if the issuing officer is a magistrate or other issuing officer having jurisdiction.
+			If such warrant or summons is not issued, the person so arrested shall be released.
+		</section>
+		<section prefix="B">A warrant may be issued pursuant to this section, where the person has been arrested in accordance with § 19.2-81.6, and the magistrate or other issuing authority examines the officer making the arrest under oath, and finds lawful probable cause to believe the arrested individual meets the conditions of clauses (i) and (ii) of § 19.2-81.6. If such warrant is issued, it shall recite § 19.2-81.6 and the applicable violation of federal criminal law previously confirmed with Immigration and Customs Enforcement. Upon the person being taken into federal custody, such state warrant shall be dismissed. Any warrant issued under this subsection shall expire within 72 hours, or when the person is taken into federal custody, whichever occurs first. Recurrent applications for a warrant under this subsection shall not be permitted within a six-month period except where confirmation has been received from Immigration and Customs Enforcement that the arrested person will be taken into federal custody.
+		</section>
+	</text>
+	<history>Code 1950, § 19.1-100.1; 1968, c. 639; 1975, c. 495; 1981, c. 382; 1983, c. 564; 1984, c. 766; 1991, c. 41; 2002, c. 310; 2004, cc. 360, 412; 2009, c. 669.</history>
+</law>

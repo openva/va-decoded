@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="9" level="2">Bail and Recognizances</unit>
+		<unit label="article" identifier="1" level="3">Bail</unit>
+	</structure>
+	<section_number>19.2-134.1</section_number>
+	<catch_line>Collection and reporting of data related to adults charged with a criminal offense punishable by confinement in jail or a term of imprisonment</catch_line>
+	<text>
+		<section prefix="A">The Virginia Criminal Sentencing Commission shall, on an annual basis, collect statewide and locality-level data related to all adults charged with any criminal offense punishable by confinement in jail or a term of imprisonment in the Commonwealth. The Virginia Criminal Sentencing Commission may request data and shall be provided such data upon request from (i) every department, division, board, bureau, commission, authority, or other agency created by the Commonwealth, or to which the Commonwealth is a party, or any political subdivision thereof; (ii) any criminal justice agency as defined in § 9.1-101; and (iii) the clerk of each circuit court. If the statewide Circuit Court Case Management System is used by the circuit court clerk, the Executive Secretary of the Supreme Court shall provide for the transfer of such data upon request of the Virginia Criminal Sentencing Commission. The Virginia Criminal Sentencing Commission shall use the data only for research, evaluation, or statistical purposes and shall ensure the confidentiality and security of the data.
+		</section>
+		<section prefix="B">The Virginia Criminal Sentencing Commission shall collect data as necessary to report on the following:
+			<section prefix="1">Information about the individual charged, including sex, race, year of birth, and residential zip code;
+			</section>
+			<section prefix="2">The type of charging document, including summons, warrant, direct indictment, or any other charging document;
+			</section>
+			<section prefix="3">Information related to the offense or offenses with which the individual was charged, including (i) the date on which the individual was charged; (ii) the total number of charges; (iii) the Code section or county, city, or town ordinance under which the charge was issued; (iv) whether the charge was a felony, misdemeanor, or other type of offense; and (v) the classification of each such felony, misdemeanor, or other type of offense;
+			</section>
+			<section prefix="4">Whether, at the time the individual was charged, that individual was a named defendant in any pending criminal proceeding in the Commonwealth;
+			</section>
+			<section prefix="5">Whether, at the time the individual was charged, that individual was under the supervision of the Department of Corrections, any local community-based probation agency, or any pretrial services agency;
+			</section>
+			<section prefix="6">Whether, at the time the individual was charged, that individual's criminal history record included any charges or convictions for failure to appear within the Commonwealth, and if so, the date of such charge or conviction;
+			</section>
+			<section prefix="7">Whether, at the time the individual was charged, that individual's criminal history record included any conviction for any criminal offense committed within the Commonwealth, and if so, the offense for which that individual was convicted and the date of such conviction;
+			</section>
+			<section prefix="8">Whether, at the time the individual was charged, that individual's criminal history record included any convictions for which the individual was ordered to serve an active term of incarceration;
+			</section>
+			<section prefix="9">Information related to the individual's detention status at the time of the charge and any changes to the individual's detention status prior to the final disposition of the charge, including whether that individual was released on a summons, denied bail, or admitted to bail, and if admitted to bail, the date of release from custody;
+			</section>
+			<section prefix="10">For those individuals who were detained at the time of the charge, information related to the conditions of bail and the bond initially ordered on the charge, including (i) whether bail was denied, (ii) whether the bond was secured or unsecured, and (iii) all monetary amounts set on the bond;
+			</section>
+			<section prefix="11">For those individuals admitted to bail prior to the final disposition of the charge, whenever available, information related to the conditions of bail and the bond at the time that individual was admitted to bail, including (i) whether the bond was secured or unsecured, (ii) all monetary amounts set on the bond, (iii) whether that individual was ordered to be supervised by a pretrial services agency, and (iv) whether that individual utilized the services of a bail bondsman;
+			</section>
+			<section prefix="12">Whether the individual was charged with failure to appear in the Commonwealth prior to the final disposition of the charge, and if so, the date on which the failure to appear was alleged to have occurred and whether the individual was convicted of the charge of failure to appear;
+			</section>
+			<section prefix="13">Whether the individual was charged with any other criminal offense punishable by confinement in jail or a term of imprisonment in the Commonwealth prior to the final disposition of the charge, and if so, the offense for which the individual was charged, the date of the offense, the date of arrest, and whether the individual was convicted of the offense;
+			</section>
+			<section prefix="14">Information related to the final disposition of the charge, including (i) the date of final disposition; (ii) whether the charge resulted in a conviction, dismissal, entry of a nolle prosequi, finding of not guilty, or other disposition; (iii) whether the individual was sentenced to a term of incarceration for such charge, and if so, the length of such term of incarceration and the length of time that the individual was incarcerated for such charge; (iv) whether the individual was placed under the supervision of the Department of Corrections; and (v) when available, whether the individual was placed under the supervision of any local community-based probation agency for such charge;
+			</section>
+			<section prefix="15">Whether the individual was represented by a public defender or court-appointed attorney on the charge at the time of the final disposition of the case; and
+			</section>
+			<section prefix="16">Any other data deemed relevant and reliable by the Virginia Criminal Sentencing Commission.
+			</section>
+		</section>
+		<section prefix="C">The Virginia Criminal Sentencing Commission shall submit an annual report on the statewide and locality-level data collected pursuant to this section on or before December 1 to the General Assembly, the Governor, and the Office of the Executive Secretary of the Supreme Court of Virginia. Such report may include recommendations related to the collection of data.
+		</section>
+		<section prefix="D">The Virginia Criminal Sentencing Commission shall annually make the statewide and locality-level data collected pursuant to this section publicly available on a website established and maintained by the Virginia Criminal Sentencing Commission on or before December 1. The data shall be made available as (i) an electronic dataset, excluding any personal and case identifying information, that may be downloaded by members of the public and (ii) an electronic interactive data dashboard tool that displays aggregated data based on characteristics or indicators selected by the user. The Virginia Criminal Sentencing Commission shall not be required to provide electronic data in a format not regularly used by the agency. Data containing any personal or case identifying information shall not be subject to the Virginia Freedom of Information Act (§ 2.2-3700 et seq.) and shall not be made publicly available.
+		</section>
+		<section prefix="E">Nothing in this section shall require any (i) department, division, board, bureau, commission, authority, or other agency created by the Commonwealth, or to which the Commonwealth is a party, or any political subdivision thereof; (ii) criminal justice agency as defined in § 9.1-101; or (iii) clerk of circuit court to provide data to the Virginia Criminal Sentencing Commission if the requested data is not regularly maintained by such entity or if such data is prohibited from such disclosure under any other law or under the Virginia Rules of Professional Conduct.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, cc. 111, 112.</history>
+</law>

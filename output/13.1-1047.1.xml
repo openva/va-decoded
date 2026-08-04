@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="9" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-1047.1</section_number>
+	<catch_line>Waiver of cancellation</catch_line>
+	<text>
+		Except in the case of an event of dissolution described in subdivision 4 or 5 of § 13.1-1046, at any time after the dissolution of a limited liability company and before the winding up of its business is completed, all of the members may waive the right to have the limited liability company's business wound up and its existence canceled. In that event:
+		<section prefix="1">The limited liability company resumes carrying on its business as if dissolution had never occurred, and any liability incurred by the limited liability company or a member after the dissolution and before the waiver is determined as if dissolution had never occurred; and
+		</section>
+		<section prefix="2">The rights of a third party arising out of conduct in reliance on the dissolution before the third party knew or received a notification of the waiver may not be adversely affected.
+		</section>
+	</text>
+	<history>2012, c. 706.</history>
+</law>

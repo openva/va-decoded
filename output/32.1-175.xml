@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="6" level="2">Environmental Health Services</unit>
+		<unit label="article" identifier="2" level="3">Public Water Supplies</unit>
+	</structure>
+	<section_number>32.1-175</section_number>
+	<catch_line>Emergency orders; appeal</catch_line>
+	<text>
+		<section prefix="A">The Commissioner may issue emergency orders in any case where there is an imminent danger to the public health and welfare resulting from the operation of any waterworks or the source of a water supply. The Commissioner may order the immediate cessation of the operation of any waterworks or the use of any water supply or the correction of any condition causing the production or distribution of any water constituting an imminent danger to the public health and welfare. Emergency orders shall be effective for a period determined by the Commissioner.
+		</section>
+		<section prefix="B">An emergency order issued by the Commissioner may be appealed in accordance with the provisions of the Administrative Process Act (§ 2.2-4000 et seq.).
+		</section>
+	</text>
+	<history>Code 1950, § 62.1-62; 1964, c. 475; 1968, c. 659; 1977, c. 7; 1979, c. 711; 1986, c. 615.</history>
+</law>

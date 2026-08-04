@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="10" level="4">Liability of Trustees and Rights of Persons Dealing With Trustee</unit>
+	</structure>
+	<section_number>64.2-799</section_number>
+	<catch_line>Exculpation of trustee</catch_line>
+	<text>
+		<section prefix="A">A term of a trust relieving a trustee of liability for breach of trust is unenforceable to the extent that it:
+			<section prefix="1">Relieves the trustee of liability for breach of trust committed in bad faith or with reckless indifference to the purposes of the trust or the interests of the beneficiaries; or
+			</section>
+			<section prefix="2">Was inserted as the result of an abuse by the trustee of a fiduciary or confidential relationship to the settlor.
+			</section>
+		</section>
+		<section prefix="B">An exculpatory term drafted or caused to be drafted by the trustee is invalid as an abuse of a fiduciary or confidential relationship unless the trustee proves that the existence and contents of the exculpatory term were adequately communicated to the settlor.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-550.08; 2012, c. 614.</history>
+</law>

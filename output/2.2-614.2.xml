@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="6" level="4">General Provisions</unit>
+		<unit label="article" identifier="1" level="5">In General</unit>
+	</structure>
+	<section_number>2.2-614.2</section_number>
+	<catch_line>Participation in the REAL ID Act of 2005</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section, the following words and phrases shall have the meanings respectively ascribed to them in this section except in those instances where the context clearly indicates a different meaning:
+			"Biometric data" means information relating to a biological characteristic of an individual that makes that individual unique from any other individual, including, but not limited to, the following:
+			<section prefix="1">Fingerprints, palm prints, and other means for measuring or recording ridge pattern or fingertip characteristics;
+			</section>
+			<section prefix="2">Facial feature pattern characteristics;
+			</section>
+			<section prefix="3">Behavior characteristics of a handwritten signature, such as shape, speed, pressure, pen angle, or sequence;
+			</section>
+			<section prefix="4">Voice data used for comparing live speech with a previously created speech model of an individual's voice;
+			</section>
+			<section prefix="5">Iris recognition data containing color or texture patterns or codes;
+			</section>
+			<section prefix="6">Keystroke dynamics, measuring pressure applied to key pads;
+			</section>
+			<section prefix="7">Hand geometry, measuring hand characteristics, including the shape and length of fingers, in three dimensions;
+			</section>
+			<section prefix="8">Retinal scans, reading through the pupil to measure blood vessels lining the retina; and
+			</section>
+			<section prefix="9">Deoxyribonucleic acid or ribonucleic acid.
+				"Biometric samples" means anything used as a source to develop, create, or extract biometric data.
+				"Economic privacy" means the privacy of an individual that relates to a right, privilege, or reasonable expectation that certain information is required by law to be held confidential or is otherwise considered to be confidential to that individual, including, but not limited to:
+			</section>
+			<section prefix="1">Information included in a tax return required by law to be filed with the federal, state, or local government;
+			</section>
+			<section prefix="2">Information on financial transactions conducted by or on behalf of the individual; and
+			</section>
+			<section prefix="3">Information on investment transactions conducted by or on behalf of the individual.
+				"REAL ID Act of 2005" means Division B of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (P.L. 109-13, 119 Stat. 302).
+			</section>
+		</section>
+		<section prefix="B">With the exception of identification cards issued to employees of the Department of State Police and any other law-enforcement officer employed by any agency of the Commonwealth, neither the Governor nor the Department of Motor Vehicles nor any other agency of the Commonwealth shall comply with any provision of the REAL ID Act of 2005 that they determine would compromise the economic privacy, biometric data, or biometric samples of any resident of the Commonwealth.
+		</section>
+	</text>
+	<history>2009, cc. 733, 769.</history>
+</law>

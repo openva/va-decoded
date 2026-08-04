@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="28.2" level="1">Fisheries and Habitat of the Tidal Waters</unit>
+		<unit label="subtitle" identifier="II" level="2">Tidal Fisheries</unit>
+		<unit label="chapter" identifier="2" level="3">General Provisions</unit>
+		<unit label="article" identifier="1" level="4">Powers and Duties</unit>
+	</structure>
+	<section_number>28.2-204</section_number>
+	<catch_line>Authority to collect fisheries statistics</catch_line>
+	<text>
+		<section prefix="A">The Commission may collect from any source any fisheries data and information necessary to develop fishery management plans and to evaluate management options. This information shall include, but not be limited to:
+			<section prefix="1">Statistics for catch and fishing efforts by species from commercial and recreational fishermen;
+			</section>
+			<section prefix="2">Statistics from fish processors and dealers;
+			</section>
+			<section prefix="3">Types of gear and equipment used;
+			</section>
+			<section prefix="4">Areas in which fishing has been conducted;
+			</section>
+			<section prefix="5">Landing places; and
+			</section>
+			<section prefix="6">The estimated capacity of fish processing facilities and the actual amount of fish processed at these facilities.
+			</section>
+		</section>
+		<section prefix="B">The Commission may enter into cooperative agreements with any other entity for the collection of statistics.
+		</section>
+		<section prefix="C">The information collected or reported shall not be disclosed in any manner which would permit identification of any person, firm, corporation or vessel, except when required by court order. The Commission may prescribe the form and manner in which this information is reported.
+		</section>
+	</text>
+	<history>1986, c. 273, § 28.1-23.2; 1992, c. 836.</history>
+</law>

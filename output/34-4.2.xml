@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="34" level="1">Homestead and Other Exemptions</unit>
+		<unit label="chapter" identifier="2" level="2">Homestead Exemption of Householder</unit>
+	</structure>
+	<section_number>34-4.2</section_number>
+	<catch_line>Additional exemption for parents of dependent children</catch_line>
+	<text>
+		<section prefix="A">Where a parent supports a dependent minor child or children residing with him, that parent can hold exempt from wage garnishment, in addition to the property or estate that he is entitled to hold exempt from creditor process under §§ 20-108.1, 34-4, 34-4.1, 34-26, 34-27, 34-29, and 64.2-311, an additional amount for the support of the child or children as follows: $34 per week for one child; $52 per week for two children; and $66 per week for three or more children. This additional wage exemption amount shall not be available to a parent whose household gross income, including any support payments for children living in the home, exceeds $1,750 per month. For purposes of this section, "household gross income" means all income from all sources, and shall include, but not be limited to, salaries, wages, commissions, royalties, bonuses, dividends, severance pay, pensions, interest, trust income, annuities, capital gains, social security benefits, workers' compensation benefits, unemployment insurance benefits, disability insurance benefits, veterans' benefits, child support, spousal support, rental income, gifts, prizes or awards paid to any adult living in the household or to the dependent child.
+		</section>
+		<section prefix="B">To claim this wage exemption, the parent shall attach to the claim for exemption form set forth in § 8.01-512.4 an affidavit and two items of proof showing that the debtor is entitled to this additional wage exemption. The affidavit shall contain the following statement:
+			AFFIDAVIT CONCERNING DEPENDENT CHILDREN AND HOUSEHOLD INCOME
+			Having been duly sworn, I, ____________________, depose and state the following to be true, accurate and complete:
+			<section prefix="1">I support __________ (number) dependent children, whose names and ages are as follows. For each child I have included the amount of monthly child support I receive (including voluntary support payments and payments made pursuant to a court or administrative order), and, if the child is employed or has other income, the amount of the child's gross monthly income. (If you receive no support for the child and the child has no income, insert zero.)
+				(attach additional pages if necessary)
+			</section>
+			<section prefix="2">My personal gross monthly income, not including any of the above amounts, is $__________.
+			</section>
+			<section prefix="3">The following are the names and gross monthly incomes of all people who reside with me in the same house, apartment or other dwelling, other than the above-named dependent minor child or children. (If the household resident has no income, insert zero.)
+				(attach additional pages if necessary)
+			</section>
+			<section prefix="4">I swear or affirm that no person other than the above-named individuals resides with me and that I reside with no person other than the above-named individuals.
+				________________________________________ (signature of debtor)
+				____________________ (date)
+				Commonwealth of Virginia:
+				City/County of ____________________, to wit:
+				Subscribed and sworn to before me, the undersigned Notary Public, this __________ day of __________ (month), __________ (year)
+				Notary Public: ________________________________________
+				My commission expires: ____________________
+			</section>
+		</section>
+	</text>
+	<history>2009, c. 332.</history>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="III" level="2">Local Taxes</unit>
+		<unit label="chapter" identifier="37" level="3">License Taxes</unit>
+	</structure>
+	<section_number>58.1-3703.2</section_number>
+	<catch_line>Acceptable identification for business licenses</catch_line>
+	<text>
+		In no event shall a locality require an applicant for a license issued under this chapter to provide a social security number as part of his application if such applicant has been issued a federal employer identification number and provides that number to the locality instead. Additionally, if the applicant supplies a valid federal employer identification number, the locality shall not be required to determine the residency status of the applicant.
+	</text>
+	<history>2020, c. 258.</history>
+</law>

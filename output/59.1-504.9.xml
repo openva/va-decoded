@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="4" level="3">Warranties</unit>
+	</structure>
+	<section_number>59.1-504.9</section_number>
+	<catch_line>Third-party beneficiaries of warranty</catch_line>
+	<text>
+		<section prefix="a">Except for published informational content, a warranty to a licensee extends to persons for whose benefit the licensor intends to supply the information or informational rights and which rightfully use the information in a transaction or application of a kind in which the licensor intends the information to be used.
+		</section>
+		<section prefix="b">A warranty to a consumer extends to each individual consumer in the licensee's immediate family or household if the individual's use would have been reasonably expected by the licensor.
+		</section>
+		<section prefix="c">A contractual term that excludes or limits the persons to which a warranty extends is effective except as to individuals described in subsection (b).
+		</section>
+		<section prefix="d">A disclaimer or modification of a warranty or remedy which is effective against the licensee is also effective against third persons to which a warranty extends under this section.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

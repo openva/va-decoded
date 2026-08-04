@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="IV" level="2">Other Financial Activities</unit>
+		<unit label="chapter" identifier="24" level="3">Securitization Transactions</unit>
+	</structure>
+	<section_number>6.2-2402</section_number>
+	<catch_line>Treatment of securitization transactions</catch_line>
+	<text>
+		Nothing contained in this chapter shall:
+		<section prefix="1">Be deemed to require any securitization transaction to be treated as a sale for federal or state tax purposes or to preclude the treatment of any securitization transaction as debt for federal or state tax purposes or to change any applicable laws relating to the perfection and priority of security or ownership interests of persons other than the transferor, hypothetical lien creditor or, in the event of a bankruptcy, receivership or other insolvency proceeding with respect to the transferor or its property, a bankruptcy trustee, receiver, debtor, debtor in possession, or similar person; or
+		</section>
+		<section prefix="2">Change the tax treatment of securitization transactions that take place pursuant to this chapter.
+		</section>
+	</text>
+	<history>2004, c. 600, § 6.1-473; 2010, c. 794.</history>
+</law>

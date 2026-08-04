@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="3" level="2">Application and Effect of Title</unit>
+	</structure>
+	<section_number>65.2-304</section_number>
+	<catch_line>Indemnity of principal from subcontractor</catch_line>
+	<text>
+		When the principal contractor is liable to pay compensation under § 65.2-302 or § 65.2-303, he shall be entitled to indemnity from any person who would have been liable to pay compensation to the worker independently of such sections or from an intermediate contractor and shall have a cause of action therefor.
+		A principal contractor when sued by a worker of a subcontractor shall have the right to join that subcontractor or any intermediate contractor as a party.
+	</text>
+	<history>Code 1950, § 65-30; 1968, c. 660, § 65.1-33; 1991, c. 355.</history>
+</law>

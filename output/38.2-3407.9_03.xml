@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3407.9:03</section_number>
+	<catch_line>Payment of clean claims to administrators of pharmacy benefits</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "clean claim," "carrier," and "provider contract," shall have the meanings set forth in subsection A of § 38.2-3407.15.
+		</section>
+		<section prefix="B">Any contract between a carrier and its pharmacy benefits administrator or a carrier and a participating pharmacy, or its contracting agent, that requires claims be submitted electronically shall require that payment be made electronically to the participating provider or its designee for clean claims, as defined in subsection A of § 38.2-3407.15, submitted electronically. An electronic claim must be submitted in the form required by the carrier and in compliance with 45 CFR Part 142, as amended, provided that the participating provider or designee agrees to accept claims details for such payments electronically, in compliance with 45 CFR Part 142, as amended, and provides accurate electronic funds transfer information to the carrier.
+		</section>
+		<section prefix="C">This section shall apply with respect to contracts between a carrier and its pharmacy benefits administrator or a carrier and a pharmacy, or its contracting agent, that are entered into, amended, extended, or renewed on or after January 1, 2009.
+		</section>
+	</text>
+	<history>2008, c. 104.</history>
+</law>

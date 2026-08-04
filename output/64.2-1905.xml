@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="C" level="3">Guardianship of Minor</unit>
+		<unit label="chapter" identifier="19" level="4">Virginia Uniform Transfers to Minors Act</unit>
+	</structure>
+	<section_number>64.2-1905</section_number>
+	<catch_line>Other transfer by fiduciary</catch_line>
+	<text>
+		<section prefix="A">Subject to subsection C, a personal representative or trustee may make an irrevocable transfer to an adult or trust company as custodian for the benefit of a minor pursuant to § 64.2-1908 in the absence of a will or under a will or trust that does not contain an authorization to do so.
+		</section>
+		<section prefix="B">Subject to subsection C, a conservator may make an irrevocable transfer to an adult or trust company as custodian for the benefit of the minor pursuant to § 64.2-1908.
+		</section>
+		<section prefix="C">A transfer under either subsection A or B may be made only if (i) the personal representative, trustee, or conservator considers the transfer to be in the best interest of the minor, (ii) the transfer is not prohibited by or inconsistent with provisions of the applicable will, trust agreement, or other governing instrument, and (iii) the transfer is authorized by the court if it exceeds $35,000 in value or is made by a conservator.
+		</section>
+	</text>
+	<history>1988, c. 516, § 31-42; 2012, c. 614; 2014, c. 532; 2025, c. 148.</history>
+</law>

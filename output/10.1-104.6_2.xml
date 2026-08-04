@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="1" level="3">General Provisions</unit>
+		<unit label="article" identifier="1" level="4">Department of Conservation and Recreation</unit>
+	</structure>
+	<section_number>10.1-104.6:2</section_number>
+	<catch_line>Invasive plant species</catch_line>
+	<text>
+		<section prefix="A">The Department shall create a list of invasive plant species no later than January 1, 2024, and shall update such list at least every four years thereafter.
+		</section>
+		<section prefix="B">No agency of the Commonwealth shall plant, sell, or propagate any plant on the list of invasive plants established in subsection A except when doing so is necessary for scientific or educational purposes or bona fide agricultural purposes including the management, tilling, planting, or harvesting of agricultural products.
+		</section>
+	</text>
+	<history>2023, c. 153.</history>
+</law>

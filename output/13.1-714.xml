@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="11" level="3">Amendment of Articles of Incorporation and Bylaws</unit>
+	</structure>
+	<section_number>13.1-714</section_number>
+	<catch_line>Amendment of bylaws by board of directors or shareholders</catch_line>
+	<text>
+		<section prefix="A">A corporation's shareholders may amend or repeal the corporation's bylaws.
+		</section>
+		<section prefix="B">A corporation's board of directors may amend or repeal the corporation's bylaws except to the extent that:
+			<section prefix="1">The articles of incorporation or § 13.1-715 reserves that power exclusively to the shareholders; or
+			</section>
+			<section prefix="2">Except as provided in subsection E of § 13.1-624, the shareholders in amending, repealing, or adopting a bylaw expressly provide that the board of directors may not amend, repeal, or reinstate that bylaw.
+			</section>
+		</section>
+		<section prefix="C">A shareholder of the corporation does not have a vested property right resulting from any provision in the bylaws.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-10, 13.1-24; 1956, c. 428; 1985, c. 522; 2005, c. 765; 2010, c. 782; 2019, c. 734.</history>
+</law>

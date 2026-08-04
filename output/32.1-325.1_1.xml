@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="10" level="2">Department of Medical Assistance Services</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>32.1-325.1:1</section_number>
+	<catch_line>Definitions; recovery of overpayment for medical assistance services</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section, the following definitions shall apply:
+			"Agreement" means any contract executed for the delivery of services to recipients of medical assistance pursuant to subdivision D 2 of § 32.1-325.
+			"Successor in interest" means any person as defined in § 1-230 having stockholders, directors, officers, or partners in common with a health care provider for which an agreement has been terminated.
+			"Termination" means (i) the cessation of operations by a provider, (ii) the sale or transfer of the provider, (iii) the reorganization or restructuring of the health care provider, or (iv) the termination of an agreement by either party.
+		</section>
+		<section prefix="B">The Director of Medical Assistance Services shall collect by any means available to him at law any amount owed to the Commonwealth because of overpayment for medical assistance services. Upon making an initial determination that an overpayment has been made to the provider pursuant to § 32.1-325.1, the Director shall notify the provider of the amount of the overpayment. Such initial determination shall be made within the earlier of (i) four years, or (ii) 15 months after filing of the final cost report by the provider subsequent to sale of the facility or termination of the provider. The provider shall make arrangements satisfactory to the Director to repay the amount due. If the provider fails or refuses to make arrangements satisfactory to the Director for such repayment or fails or refuses to repay the Commonwealth for the amount due for overpayment in a timely manner, the Director may devise a schedule for reducing the Medicaid reimbursement due to any successor in interest.
+		</section>
+		<section prefix="C">In any case in which the Director is unable to recover the amount due for overpayment pursuant to subsection B, he shall not enter into another agreement with the responsible provider or any person who is the transferee, assignee, or successor in interest to such provider unless (i) he receives satisfactory assurances of repayment of all amounts due or (ii) the agreement with the provider is necessary in order to ensure that Medicaid recipients have access to the covered services rendered by the provider.
+			Further, to the extent consistent with federal and state law, the Director shall not enter into any agreement with a provider having any stockholder possessing a material financial interest, partner, director, officer, or owner in common with a provider which has terminated a previous agreement for participation in the medical assistance services program without making satisfactory arrangements to repay all outstanding Medicaid overpayment.
+		</section>
+		<section prefix="D">The provisions of this section shall not apply to successors in interest with respect to transfer of a medical care facility pursuant to contracts entered into before February 1, 1990.
+		</section>
+	</text>
+	<history>1990, c. 389; 1994, c. 669; 1999, c. 1024; 2005, c. 839.</history>
+</law>

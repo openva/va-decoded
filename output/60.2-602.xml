@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="6" level="2">Benefits</unit>
+		<unit label="article" identifier="2" level="3">Benefit Computation</unit>
+	</structure>
+	<section_number>60.2-602</section_number>
+	<catch_line>Weekly benefit amount</catch_line>
+	<text>
+		<section prefix="A">Beginning July 6, 2008, for claims effective on or after July 6, 2008, but before July 6, 2014, an eligible individual's weekly "benefit amount" shall be the amount appearing in Column B in the "Benefit Table" in this section on the line on which in Column A of such table, there appears the total wages for insured work paid to such individual in the two quarters of his base period in which such total wages were highest.
+			Benefit Table Division C Duration of Benefits beginning July 6, 2008, but before July 6, 2014
+		</section>
+		<section prefix="B">Beginning July 6, 2014, for claims effective on or after July 6, 2014, but before January 1, 2026, an eligible individual's weekly "benefit amount" shall be the amount appearing in Column B in the "Benefit Table" in this section on the line on which in Column A of such table, there appears the total wages for insured work paid to such individual in the two quarters of his base period in which such total wages were highest.
+			Benefit Table Division C Duration of Benefits beginning July 6, 2014, but before January 1, 2026
+		</section>
+		<section prefix="C">Beginning January 1, 2026, for claims effective on or after January 1, 2026, an eligible individual's weekly "benefit amount" shall be the amount appearing in Column B in the "Benefit Table" in this section on the line on which in Column A of such table, there appears the total wages for insured work paid to such individual in the two quarters of his base period in which such total wages were highest.
+			Benefit Table Division C Duration of Benefits beginning January 1, 2026
+		</section>
+	</text>
+	<history>Code 1950, § 60-42; 1952, c. 184; 1954, c. 203; 1956, c. 440; 1960, c. 136; 1962, c. 12; 1964, c. 3; 1966, c. 30; 1968, c. 9; 1968, c. 738, § 60.1-47; 1970, c. 104; 1972, c. 764; 1974, c. 466; 1976, c. 708; 1977, c. 330; 1978, c. 493; 1979, c. 691; 1980, c. 463; 1981, c. 606; 1984, c. 468; 1985, c. 516; 1986, cc. 480, 493; 1988, c. 131; 1990, c. 908; 1996, c. 367; 1997, cc. 530, 674; 2000, c. 573; 2002, cc. 122, 892; 2003, c. 926; 2005, cc. 23, 918; 2006, c. 258; 2007, c. 628; 2008, c. 725; 2009, c. 789; 2010, c. 412; 2011, c. 16; 2012, c. 312; 2025, cc. 614, 640.</history>
+</law>

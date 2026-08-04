@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="7" level="2">Crimes Involving Health and Safety</unit>
+		<unit label="article" identifier="5" level="3">Uniform Machine Gun Act</unit>
+	</structure>
+	<section_number>18.2-293</section_number>
+	<catch_line>What article does not apply to</catch_line>
+	<text>
+		The provisions of this article shall not be applicable to:
+		<section prefix="1">The manufacture for, and sale of, machine guns to the armed forces or law-enforcement officers of the United States or of any state or of any political subdivision thereof, or the transportation required for that purpose; and
+		</section>
+		<section prefix="2">Machine guns and automatic arms issued to the national guard of Virginia by the United States or such arms used by the United States army or navy or in the hands of troops of the national guards of other states or territories of the United States passing through Virginia, or such arms as may be provided for the officers of the State Police or officers of penal institutions.
+		</section>
+	</text>
+	<history>Code 1950, § 18.1-263; 1960, c. 358; 1975, cc. 14, 15.</history>
+</law>

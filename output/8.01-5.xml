@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="2" level="2">Parties</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>8.01-5</section_number>
+	<catch_line>Effect of nonjoinder or misjoinder; limitation on joinder of insurance company</catch_line>
+	<text>
+		<section prefix="A">No action or suit shall abate or be defeated by the nonjoinder or misjoinder of parties, plaintiff or defendant, but whenever such nonjoinder or misjoinder shall be made to appear by affidavit or otherwise, new parties may be added and parties misjoined may be dropped by order of the court at any time as the ends of justice may require.
+		</section>
+		<section prefix="B">Nothing in this section shall be construed to permit the joinder of any insurance company on account of the issuance to any party to a cause of any policy or contract of liability insurance, or on account of the issuance by any such company of any policy or contract of liability insurance for the benefit of or that will inure to the benefit of any party to any cause.
+		</section>
+	</text>
+	<history>Code 1950, § 8-96; 1954, c. 333; 1977, c. 617.</history>
+</law>

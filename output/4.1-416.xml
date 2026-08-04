@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="4.1" level="1">Alcoholic Beverage and Cannabis Control</unit>
+		<unit label="subtitle" identifier="I" level="2">Alcoholic Beverage Control Act</unit>
+		<unit label="chapter" identifier="4" level="3">Wine Franchise Act</unit>
+	</structure>
+	<section_number>4.1-416</section_number>
+	<catch_line>Waiver prohibited; conflicts of laws</catch_line>
+	<text>
+		<section prefix="A">No winery shall require any wholesaler to waive compliance with any provision of this chapter. Any contract or agreement purporting to do so is void and unenforceable to the extent of the waiver or variance. Nothing in this chapter shall limit or prohibit good faith settlements of disputes voluntarily entered into between the parties.
+		</section>
+		<section prefix="B">Any contract between a winery and a wine wholesaler pursuant to which the wholesaler is to market the winery's products in the Commonwealth shall be governed by the laws of the Commonwealth as the place of performance, notwithstanding the fact that such contract may have been made in another state or the fact that such contract may provide that it is to be governed by the laws of another state.
+		</section>
+	</text>
+	<history>Code 1950, § 4-118.37; 1985, c. 542, § 4-118.57; 1989, c. 10; 1993, c. 866.</history>
+</law>

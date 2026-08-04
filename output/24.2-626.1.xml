@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="6" level="2">The Election</unit>
+		<unit label="article" identifier="3" level="3">Voting Equipment and Systems</unit>
+	</structure>
+	<section_number>24.2-626.1</section_number>
+	<catch_line>Acquisition and use of accessible voting devices</catch_line>
+	<text>
+		The governing body of any county or city shall provide for the use of a voting or counting system in all elections that shall:
+		<section prefix="1">Provide for at least one voting system equipped for individuals with disabilities at each polling place, including nonvisual accessibility for the blind and visually impaired, in a manner that provides the same opportunity for access and participation (including privacy and independence) as for other voters; and
+		</section>
+		<section prefix="2">Provide alternative language accessibility when required by § 203 of the Voting Rights Act of 1965 (52 U.S.C. § 10503).
+		</section>
+	</text>
+	<history>2007, cc. 939, 943.</history>
+</law>

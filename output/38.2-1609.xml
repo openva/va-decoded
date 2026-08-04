@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="16" level="2">Virginia Property and Casualty Insurance Guaranty Association</unit>
+		<unit label="article" identifier="1" level="3">Establishment and Operation of the Association</unit>
+	</structure>
+	<section_number>38.2-1609</section_number>
+	<catch_line>Insured's rights and liabilities; settlements binding on receiver or liquidator; priority of claims; statements to be filed with receiver or liquidator</catch_line>
+	<text>
+		<section prefix="A">1. Any person recovering under this chapter shall be deemed to have assigned his rights under the policy to the Association to the extent of his recovery from the Association. Each insured or claimant seeking the protection of this chapter shall cooperate with the Association to the same extent as the person would have been required to cooperate with the insolvent insurer. The Association shall have no cause of action against the insured of the insolvent insurer for any sums it has paid out except the causes of action the insolvent insurer would have had if those sums had been paid by the insolvent insurer and except as provided in subdivision 2 of this subsection. In the case of an insolvent insurer operating on an assessment plan, payments of claims by the Association shall not reduce the liability of insureds to the receiver, liquidator, or statutory successor for unpaid assessments previously made. However, the receiver, liquidator, or statutory successor shall under no circumstances levy an additional assessment against the insured, regardless of the terms of the policy.
+			<section prefix="2">The Association shall have the right to recover from the following persons the amount of any "covered claim" paid on behalf of such persons pursuant to this chapter:
+				a. Any insured whose net worth on December 31 of the year next preceding the date the insurer becomes an insolvent insurer exceeds fifty million dollars and whose liability obligations to other persons are satisfied in whole or in part by payments made under this chapter; and
+				b. Any person who is an affiliate of the insolvent insurer and whose liability obligations to other persons are satisfied in whole or in part by payments made under this chapter.
+			</section>
+		</section>
+		<section prefix="B">The receiver, liquidator, or statutory successor of an insolvent insurer shall be bound by settlements of covered claims by the Association or a similar organization in another state. The court having jurisdiction shall grant those claims priority equal to that which the claimant would have been entitled in the absence of this chapter against the assets of the insolvent insurer. The expenses of the Association or a similar organization incurred in handling claims shall be accorded the same priority as the liquidator's expenses.
+		</section>
+		<section prefix="C">The Association shall preserve its rights to the insolvent insurer by periodically filing with the receiver or liquidator statements of the covered claims paid by the Association and estimates of anticipated claims on the Association.
+		</section>
+	</text>
+	<history>1970, c. 766, § 38.1-766; 1986, c. 562; 1987, c. 529.</history>
+</law>

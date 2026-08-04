@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="7.2" level="2">Health Care Data Reporting</unit>
+	</structure>
+	<section_number>32.1-276.6</section_number>
+	<catch_line>Patient level data system continued; reporting requirements</catch_line>
+	<text>
+		<section prefix="A">The Virginia Patient Level Data System is hereby continued, hereinafter referred to as the "System." Its purpose shall be to establish and administer an integrated system for collection and analysis of data which shall be used by consumers, employers, providers, and purchasers of health care and by state government to continuously assess and improve the quality, appropriateness, and accessibility of health care in the Commonwealth and to enhance their ability to make effective health care decisions.
+		</section>
+		<section prefix="B">Every inpatient hospital shall submit to the Board patient level data as set forth in this subsection. Every general hospital, ordinary hospital, outpatient surgical hospital or other facility licensed or certified pursuant to Article 1 (§ 32.1-123 et seq.) of Chapter 5 of this title and every physician and every oral and maxillofacial surgeon certified to perform certain procedures pursuant to § 54.1-2709.1 performing surgical procedures in his office shall also submit to the board outpatient surgical data as set forth in this subsection. Every oral and maxillofacial surgeon certified to perform certain procedures pursuant to § 54.1-2709 shall submit to the Board outpatient surgical data as set forth in this subsection for only those procedures for which certification is required pursuant to § 54.1-2709.1.
+			Any such hospital, facility, physician or oral and maxillofacial surgeon, as defined in § 32.1-276.3, may report the required data directly to the nonprofit organization cited in § 32.1-276.4. Unless otherwise noted, patient level data elements for hospital inpatients and patients having outpatient surgery shall include, where applicable and included on standard claim forms:
+			<section prefix="1">Hospital identifier;
+			</section>
+			<section prefix="2">Attending physician identifier (inpatient only);
+			</section>
+			<section prefix="3">Operating physician or oral and maxillofacial surgeon identifier;
+			</section>
+			<section prefix="4">Payor identifier;
+			</section>
+			<section prefix="5">Employer identifier as required on standard claims forms;
+			</section>
+			<section prefix="6">Patient identifier (all submissions);
+			</section>
+			<section prefix="7">Patient sex, race (inpatient only), date of birth (including century indicator), street address, city or county, zip code, employment status code, status at discharge, and birth weight for infants (inpatient only);
+			</section>
+			<section prefix="8">Admission type, source (inpatient only), date and hour, and diagnosis;
+			</section>
+			<section prefix="9">Discharge date (inpatient only) and status;
+			</section>
+			<section prefix="10">Principal and secondary diagnoses;
+			</section>
+			<section prefix="11">External cause of injury;
+			</section>
+			<section prefix="12">Co-morbid conditions existing but not treated;
+			</section>
+			<section prefix="13">Procedures and procedure dates;
+			</section>
+			<section prefix="14">Revenue center codes, units, and charges as required on standard claims forms; and
+			</section>
+			<section prefix="15">Total charges.
+			</section>
+		</section>
+		<section prefix="C">State agencies providing coverage for outpatient services shall submit to the Board patient level data regarding paid outpatient claims. Information to be submitted shall be extracted from standard claims forms and, where available, shall include:
+			<section prefix="1">Provider identifier;
+			</section>
+			<section prefix="2">Patient identifier;
+			</section>
+			<section prefix="3">Physician or oral and maxillofacial surgeon identifier;
+			</section>
+			<section prefix="4">Dates of service and diagnostic, procedural, demographic, pharmaceutical, and financial information; and
+			</section>
+			<section prefix="5">Other related information.
+			</section>
+		</section>
+		<section prefix="D">When a patient has experienced a nonfatal opioid overdose, the Board shall report admission, transfer, and discharge data elements submitted for such patient pursuant to § 32.1-372 to the Department of Health Professions for use in the Prescription Monitoring Program established in § 54.1-2520. The Department of Health Professions shall consult with the Department as appropriate to ensure the successful transfer of admission, transfer, and discharge data elements for use in the Prescription Monitoring Program. The Department of Health Professions shall only provide such data to practitioners as provided in § 54.1-2522.1 and in accordance with the confidentiality requirements of this chapter and § 54.1-2523.
+			The Board shall promulgate regulations specifying the format for submission of such outpatient data. State agencies may submit this data directly to the nonprofit organization cited in § 32.1-276.4.
+		</section>
+	</text>
+	<history>1996, c. 902; 2001, c. 341; 2003, c. 466; 2009, c. 652; 2025, c. 487.</history>
+</law>

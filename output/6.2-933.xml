@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="8" level="3">Banks</unit>
+		<unit label="article" identifier="14" level="4">Appointment of Fdic as Receiver</unit>
+	</structure>
+	<section_number>6.2-933</section_number>
+	<catch_line>Distribution of assets</catch_line>
+	<text>
+		<section prefix="A">All claims against the bank's estate, proved to the satisfaction of the FDIC as receiver or approved by the receivership court, shall be paid in the following order:
+			<section prefix="1">Administration expenses of the liquidation;
+			</section>
+			<section prefix="2">Claims given priority under other provisions of state or federal law;
+			</section>
+			<section prefix="3">Deposit obligations;
+			</section>
+			<section prefix="4">Other general liabilities;
+			</section>
+			<section prefix="5">Debt subordinated to the claims of depositors and general creditors; and
+			</section>
+			<section prefix="6">Equity capital securities.
+			</section>
+		</section>
+		<section prefix="B">No interest on any claim shall be paid until all claims within the same class have received the full principal amount of claim.
+		</section>
+	</text>
+	<history>1983, c. 507, § 6.1-110.9; 2010, c. 794.</history>
+</law>

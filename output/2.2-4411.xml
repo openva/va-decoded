@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="44" level="4">Virginia Security for Public Deposits Act</unit>
+	</structure>
+	<section_number>2.2-4411</section_number>
+	<catch_line>Reports of qualified public depositories</catch_line>
+	<text>
+		By the tenth day after the end of each calendar reporting month or when requested by the Treasury Board each qualified public depository shall submit to the Treasury Board an electronic report of such data required by the Treasury Board to demonstrate that the current market value of its pledged collateral was equal to or greater than the amount of required collateral for the previous month, certified as to its accuracy by an authorized official of the qualified public depository.
+		Upon request by a public depositor, a qualified public depository shall provide a schedule detailing the public deposit accounts reported to the Treasury Board for that depositor, as well as the amount of total public deposits held by that depository at the close of the applicable month and the total market value of the collateral securing such public deposits.
+	</text>
+	<history>1973, c. 172, § 2.1-369; 1979, c. 154; 2001, c. 844; 2010, cc. 640, 674.</history>
+</law>

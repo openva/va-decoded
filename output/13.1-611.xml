@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>13.1-611</section_number>
+	<catch_line>Number of shareholders</catch_line>
+	<text>
+		<section prefix="A">For purposes of this chapter, the following identified as a shareholder in a corporation's current record of shareholders constitutes one shareholder:
+			<section prefix="1">Three or fewer co-owners;
+			</section>
+			<section prefix="2">A corporation, limited liability company, partnership, limited partnership, business trust, trust, estate, or other entity; or
+			</section>
+			<section prefix="3">The trustees, guardians, custodians, or other fiduciaries of a single trust, estate, or account.
+			</section>
+		</section>
+		<section prefix="B">For purposes of this chapter, shareholdings registered in substantially similar names constitute one shareholder if it is reasonable to believe that the names represent the same person.
+		</section>
+	</text>
+	<history>1985, c. 522; 2005, c. 765; 2019, c. 734.</history>
+</law>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="IV" level="2">Other Financial Activities</unit>
+		<unit label="chapter" identifier="26" level="3">Qualified Education Loan Servicers</unit>
+	</structure>
+	<section_number>6.2-2600</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, unless the context requires a different meaning:
+		"Licensee" means a person to whom a license has been issued under this chapter.
+		"Nationwide Multistate Licensing System and Registry" or "Registry" means the nationwide multistate licensing system and registry created by the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators.
+		"Principal" means any person who, directly or indirectly, owns or controls (i) 10 percent or more of the outstanding stock of a stock corporation or (ii) a 10 percent or greater interest in any other type of entity.
+		"Qualified education loan" means any loan primarily used to finance a postsecondary education and costs of attendance at a postsecondary public or private educational institution, including tuition, fees, books and supplies, room and board, transportation, and miscellaneous personal expenses. "Qualified education loan" includes a loan made to refinance a qualified education loan. "Qualified education loan" does not include an extension of credit under an open-end credit plan, a reverse mortgage transaction, a residential mortgage transaction, or any other loan that is secured by real property or a dwelling.
+		"Qualified education loan borrower" or "borrower" means (i) any current resident of the Commonwealth who has received or agreed to pay a qualified education loan or (ii) any person who is contractually obligated with such resident for repaying the qualified education loan.
+		"Qualified education loan servicer" or "loan servicer" means any person, wherever located, that:
+		<section prefix="1">(i) Receives any scheduled periodic payments from a qualified education loan borrower or notification of such payments or (ii) applies payments to the qualified education loan borrower's account pursuant to the terms of the qualified education loan or the contract governing the servicing;
+		</section>
+		<section prefix="2">During a period when no payment is required on a qualified education loan, (i) maintains account records for the qualified education loan and (ii) communicates with the qualified education loan borrower regarding the qualified education loan, on behalf of the qualified education loan's holder; and
+		</section>
+		<section prefix="3">Interacts with a qualified education loan borrower, which includes conducting activities to help prevent default on obligations arising from qualified education loans or to facilitate any activity described in clause (i) or (ii) of subdivision 1.
+			"Servicing" means:
+		</section>
+		<section prefix="1">(i) Receiving any scheduled periodic payments from a qualified education loan borrower or notification of such payments or (ii) applying the payments of principal and interest and such other payments, with respect to the amounts received from a qualified education loan borrower, as may be required pursuant to the terms of a qualified education loan;
+		</section>
+		<section prefix="2">During a period when no payment is required on a qualified education loan, (i) maintaining account records for the loan and (ii) communicating with the qualified education loan borrower regarding the qualified education loan, on behalf of the qualified education loan's holder; and
+		</section>
+		<section prefix="3">Interacting with a qualified education loan borrower, including conducting activities to help prevent default on obligations arising from qualified education loans or to facilitate any activity described in clause (i) or (ii) of subdivision 1.
+		</section>
+	</text>
+	<history>2020, cc. 1198, 1250; 2022, cc. 370, 371.</history>
+</law>

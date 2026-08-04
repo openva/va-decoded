@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="5" level="4">Allocation of Receipts: Receipts Not Normally Apportioned</unit>
+	</structure>
+	<section_number>64.2-1054</section_number>
+	<catch_line>Insurance policy or contract</catch_line>
+	<text>
+		<section prefix="A">This section does not apply to a contract to which § 64.2-1056 applies.
+		</section>
+		<section prefix="B">Except as otherwise provided in subsection C, a fiduciary shall allocate to principal the proceeds of a life insurance policy or other contract received by the fiduciary as beneficiary, including a contract that insures against damage to, destruction of, or loss of title to an asset. The fiduciary shall allocate dividends on an insurance policy to income to the extent premiums on the policy are paid from income and to principal to the extent premiums on the policy are paid from principal.
+		</section>
+		<section prefix="C">A fiduciary shall allocate to income proceeds of a contract that insures the fiduciary against loss of:
+			<section prefix="1">Occupancy or other use by a current income beneficiary;
+			</section>
+			<section prefix="2">Income; or
+			</section>
+			<section prefix="3">Subject to § 64.2-1050, profits from a business.
+			</section>
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

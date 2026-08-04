@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="8" level="3">Remedies</unit>
+	</structure>
+	<section_number>59.1-508.1</section_number>
+	<catch_line>Remedies in general</catch_line>
+	<text>
+		<section prefix="a">The remedies provided in this chapter are cumulative, but a party may not recover more than once for the same loss.
+		</section>
+		<section prefix="b">Except as otherwise provided in §§ 59.1-508.3 and 59.1-508.4, if a party is in breach of contract, whether or not the breach is material, the aggrieved party has the remedies provided in the agreement or this chapter, but the aggrieved party shall continue to comply with any contractual use terms with respect to information or copies received from the other party, but the contractual use terms do not apply to information or copies properly received or obtained from another source.
+		</section>
+		<section prefix="c">Rescission or a claim for rescission of the contract, or refusal of the information, does not preclude and is not inconsistent with a claim for damages or other remedy.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="4" level="2">Registration</unit>
+	</structure>
+	<section_number>8.8A-403</section_number>
+	<catch_line>Demand that issuer not register transfer</catch_line>
+	<text>
+		<section prefix="a">A person who is an appropriate person to make an endorsement or originate an instruction may demand that the issuer not register transfer of a security by communicating to the issuer a notification that identifies the registered owner and the issue of which the security is a part and provides an address for communications directed to the person making the demand. The demand is effective only if it is received by the issuer at a time and in a manner affording the issuer reasonable opportunity to act on it.
+		</section>
+		<section prefix="b">If a certificated security in registered form is presented to an issuer with a request to register transfer or an instruction is presented to an issuer with a request to register transfer of an uncertificated security after a demand that the issuer not register transfer has become effective, the issuer shall promptly communicate to (i) the person who initiated the demand at the address provided in the demand and (ii) the person who presented the security for registration of transfer or initiated the instruction requesting registration of transfer a notification stating that:
+			<section prefix="1">the certificated security has been presented for registration of transfer or instruction for registration of transfer of the uncertificated security has been received;
+			</section>
+			<section prefix="2">a demand that the issuer not register transfer had previously been received; and
+			</section>
+			<section prefix="3">the issuer will withhold registration of transfer for a period of time stated in the notification in order to provide the person who initiated the demand an opportunity to obtain legal process or an indemnity bond.
+			</section>
+		</section>
+		<section prefix="c">The period described in subsection (b) (3) may not exceed thirty days after the date of communication of the notification. A shorter period may be specified by the issuer if it is not manifestly unreasonable.
+		</section>
+		<section prefix="d">An issuer is not liable to a person who initiated a demand that the issuer not register transfer for any loss the person suffers as a result of registration of a transfer pursuant to an effective endorsement or instruction if the person who initiated the demand does not, within the time stated in the issuer's communication, either:
+			<section prefix="1">obtain an appropriate restraining order, injunction, or other process from a court of competent jurisdiction enjoining the issuer from registering the transfer; or
+			</section>
+			<section prefix="2">file with the issuer an indemnity bond, sufficient in the issuer's judgment to protect the issuer and any transfer agent, registrar, or other agent of the issuer involved from any loss it or they may suffer by refusing to register the transfer.
+			</section>
+		</section>
+		<section prefix="e">This section does not relieve an issuer from liability for registering transfer pursuant to an endorsement or instruction that was not effective.
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

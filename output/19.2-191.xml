@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="13" level="2">Grand Juries</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>19.2-191</section_number>
+	<catch_line>Functions of a grand jury</catch_line>
+	<text>
+		The functions of a grand jury are twofold:
+		<section prefix="1">To consider bills of indictment prepared by the attorney for the Commonwealth and to determine whether as to each such bill there is sufficient probable cause to return such indictment "a true bill."
+		</section>
+		<section prefix="2">To investigate and report on any condition that involves or tends to promote criminal activity, either in the community or by any governmental authority, agency or official thereof. These functions may be exercised by either a special grand jury or a regular grand jury as hereinafter provided.
+		</section>
+	</text>
+	<history>1975, c. 495; 1980, c. 517; 2001, c. 4.</history>
+</law>

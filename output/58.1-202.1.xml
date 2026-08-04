@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="2" level="3">Department of Taxation</unit>
+	</structure>
+	<section_number>58.1-202.1</section_number>
+	<catch_line>Payment of taxes by electronic funds transfer</catch_line>
+	<text>
+		<section prefix="A">In accordance with the limitations contained in subsection B, the Tax Commissioner shall have the authority to require, consistent with the cash management policies of the Department of Treasury and the Department of Accounts, taxpayers subject to the taxes imposed pursuant to Articles 10 (§ 58.1-400 et seq.) and 16 (§ 58.1-460 et seq.) of Chapter 3 of this title and Chapter 6 (§ 58.1-600 et seq.) of this title to remit taxes by electronic funds transfer. Electronic funds transfer shall be made by automated clearinghouse debit transactions; however, the Tax Commissioner may authorize the use of any other means which ensures the availability of such funds to the Commonwealth on or before the due date of the tax.
+		</section>
+		<section prefix="B">A taxpayer required to remit any of the taxes enumerated in subsection A of this section shall be required to remit such taxes by electronic funds transfer if the average monthly liability for such taxes exceeds $20,000. The $20,000 threshold will apply to each of the taxes on a separate basis. The Tax Commissioner shall promulgate guidelines to determine eligibility criteria and periods. In developing such guidelines, the Department shall seek the counsel of interested groups including tax practitioners and representatives of the business community.
+		</section>
+		<section prefix="C">All persons who act on a taxpayer's behalf to remit the tax imposed pursuant to Article 16 (§ 58.1-460 et seq.) of Chapter 3 of this title shall be required to remit such withholding by electronic funds transfer if the payment of individual income tax withholding is made on behalf of 100 or more taxpayers. For the purposes of this subsection, electronic funds transfer shall be made by automated clearinghouse credit payment transactions; however, the Tax Commissioner may authorize the use of any other means that ensures the availability of such funds to the Commonwealth on or before the due date of the tax.
+		</section>
+	</text>
+	<history>1996, cc. 370, 449; 1997, c. 193; 2003, cc. 36, 39.</history>
+</law>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="6.1" level="4">Commercial Driver's Licenses</unit>
+	</structure>
+	<section_number>46.2-341.14:7</section_number>
+	<catch_line>Notification requirements</catch_line>
+	<text>
+		<section prefix="A">Every third party tester shall:
+			<section prefix="1">Notify the Department in a format prescribed by the Department within 10 days of any change in:
+				a. The third party tester's name or address; or
+				b. The third party examiners who are employed by the third party tester.
+			</section>
+			<section prefix="2">Notify the Department in a format prescribed by the Department within 10 days of any of the following occurrences:
+				a. The third party tester ceases business operations in Virginia;
+				b. The third party tester fails to comply with any of the requirements set forth in this article; or
+				c. Any third party examiner fails to comply with any of the requirements set forth in this article.
+			</section>
+			<section prefix="3">Notify the Department of any proposed change in the skills test route at least 30 days before the third party tester plans to change the route.
+			</section>
+		</section>
+		<section prefix="B">Every third party examiner shall notify the Department, within 10 days after leaving the employ of the third party tester, of his change in employment.
+		</section>
+	</text>
+	<history>2013, cc. 165, 582.</history>
+</law>

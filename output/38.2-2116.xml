@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="21" level="2">Fire Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-2116</section_number>
+	<catch_line>Policies issued by two or more insurers</catch_line>
+	<text>
+		<section prefix="A">With the consent of the Commission, two or more licensed insurers may jointly issue a policy, using a distinctive title that is prominently printed on the policy followed by the names and the home office addresses of the insurers obligated under the policy. The policy shall be executed by the proper officers of each insurer. Before issuance, the form and any terms of the policy that are in addition to the standard provisions set out in §§ 38.2-2104 and 38.2-2105 shall be approved by the Commission. The terms of the policy shall not be inconsistent with the standard provisions, and shall be placed under a separate title headed as follows: "Provisions specially applicable to this jointly issued policy." The special provisions shall contain in substance that:
+			<section prefix="1">The insurers executing the policy are severally liable for the full amount of any loss or damage according to the terms of the policy or for specified percentages or amounts of any loss or damage aggregating the full amount of insurance under the policy; and
+			</section>
+			<section prefix="2">Service of process upon, or notice of proof of loss required by the policy and given to any of the insurers executing the policy, shall be deemed to be service upon or notice to all such insurers.
+			</section>
+		</section>
+		<section prefix="B">The unearned premium reserve on each policy shall be allocated to each insurer on the basis of each insurer's pro rata share of the face amount of the policy, except to the extent that the risk is transferred under a valid contract of reinsurance.
+		</section>
+	</text>
+	<history>Code 1950, § 38-183; 1952, c. 317, § 38.1-372; 1986, c. 562.</history>
+</law>

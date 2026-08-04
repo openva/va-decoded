@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="4" level="4">Obtaining Licenses, Generally</unit>
+	</structure>
+	<section_number>46.2-323.01</section_number>
+	<catch_line>Issuance of credentials; relationship with federal law</catch_line>
+	<text>
+		<section prefix="A">The Department shall establish a process for persons who, for reasons beyond their control, are unable to provide all necessary documents required for credentials issued under this chapter and must rely on alternate documents to establish identity or date of birth. Alternative documents to demonstrate legal presence will only be allowed to demonstrate United States citizenship.
+		</section>
+		<section prefix="B">The Department shall not comply with any federal law or regulation that would require the Department to use any type of computer chip or radio-frequency identification tag or other similar device on or in any credential issued under this chapter.
+		</section>
+	</text>
+	<history>2009, c. 872; 2021, Sp. Sess. I, c. 544.</history>
+</law>

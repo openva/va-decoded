@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="5" level="2">Unfair Trade Practices</unit>
+	</structure>
+	<section_number>38.2-508.3</section_number>
+	<catch_line>Consideration of Medicaid eligibility prohibited</catch_line>
+	<text>
+		<section prefix="A">No person shall, in determining the eligibility of an individual for coverage under an individual or group accident and sickness policy, health services plan or health maintenance organization contract, consider the eligibility of such individual for medical assistance ("Medicaid") from this Commonwealth or from any other state.
+		</section>
+		<section prefix="B">No person shall, in determining benefits payable to, or on behalf of an individual covered under an individual or group accident and sickness policy, health services plan or health maintenance organization contract, take into account the eligibility of such individual for medical assistance ("Medicaid") from this Commonwealth or from any other state.
+		</section>
+	</text>
+	<history>1994, c. 213.</history>
+</law>

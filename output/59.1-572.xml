@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="52" level="2">Humane Cosmetics Act</unit>
+	</structure>
+	<section_number>59.1-572</section_number>
+	<catch_line>Prohibited conduct</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsection B, no cosmetics manufacturer shall:
+			<section prefix="1">Conduct or contract for cosmetic animal testing that occurs in the Commonwealth on or after January 1, 2022;
+			</section>
+			<section prefix="2">Manufacture or import for profit into the Commonwealth any cosmetic or ingredient thereof, if the cosmetics manufacturer knew or reasonably should have known that the cosmetic or any component thereof was developed or manufactured using cosmetic animal testing that was conducted on or after January 1, 2022; or
+			</section>
+			<section prefix="3">Beginning July 1, 2022, sell or offer for sale within the Commonwealth any cosmetic, if the cosmetics manufacturer knows or reasonably should know that the cosmetic or any component thereof was developed or manufactured using cosmetic animal testing that was conducted on or after January 1, 2022.
+			</section>
+		</section>
+		<section prefix="B">The prohibitions in subsection A shall not apply to cosmetic animal testing or a cosmetic for which cosmetic animal testing was conducted, if the cosmetic animal testing was conducted:
+			<section prefix="1">To comply with a requirement of a federal or state regulatory agency and (i) the tested ingredient is in wide use and cannot be replaced by another ingredient capable of performing a similar function; (ii) a specific human health problem related to the cosmetic or ingredient is substantiated that justifies the need to conduct the cosmetic animal testing, and such testing is supported by a detailed research protocol proposed as the basis for the evaluation of the cosmetic or ingredient; and (iii) there does not exist a method of testing other than cosmetic animal testing that is accepted for the relevant purpose by the federal or state regulatory agency;
+			</section>
+			<section prefix="2">To comply with a requirement of a regulatory agency of a foreign jurisdiction, so long as no evidence derived from such testing was relied upon to substantiate the safety of a cosmetic sold within Virginia by the cosmetics manufacturer;
+			</section>
+			<section prefix="3">On any cosmetic or cosmetic ingredient subject to the requirements of Subchapter V of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. § 351 et seq.); or
+			</section>
+			<section prefix="4">Pursuant to a requirement of a federal, state, or foreign regulatory agency for a purpose unrelated to cosmetics, provided that either no evidence derived from such testing was relied upon to substantiate the safety of the cosmetic or there is (i) documented evidence of a noncosmetic intent of the test and (ii) a history of use of the ingredient outside of cosmetics for at least 12 months prior to such reliance.
+			</section>
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, cc. 113, 114.</history>
+</law>

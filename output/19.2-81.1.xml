@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="7" level="2">Arrest</unit>
+	</structure>
+	<section_number>19.2-81.1</section_number>
+	<catch_line>Arrest without warrant by correctional officers in certain cases</catch_line>
+	<text>
+		Any correctional officer, as defined in § 53.1-1, may arrest, in the same manner as provided in § 19.2-81, persons for crimes involving:
+		<section prefix="a">The escape of an inmate from a correctional institution, as defined in § 53.1-1;
+		</section>
+		<section prefix="b">Assisting an inmate to escape from a correctional institution, as defined in § 53.1-1;
+		</section>
+		<section prefix="c">The delivery of contraband to an inmate in violation of § 18.2-474 or § 18.2-474.1; and
+		</section>
+		<section prefix="d">Any other criminal offense which may contribute to the disruption of the safety, welfare, or security of the population of a correctional institution.
+		</section>
+	</text>
+	<history>1976, c. 752.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="7" level="4">Tax Credits for Estates and Trusts</unit>
+	</structure>
+	<section_number>58.1-370</section_number>
+	<catch_line>Credit to trust beneficiary receiving accumulation distribution</catch_line>
+	<text>
+		<section prefix="A">A beneficiary of a trust whose Virginia taxable income includes all or part of an accumulation distribution by such trust, as defined in the laws of the United States relating to federal income taxes, shall be allowed a credit against the tax otherwise due under this chapter for all or a proportionate part of any tax paid by the trust under this chapter which would not have been payable if the trust had in fact made distributions to its beneficiaries at the times and in the amounts specified in the laws of the United States relating to federal income taxes.
+		</section>
+		<section prefix="B">The credit under this section shall not reduce the tax otherwise due from the beneficiary under this chapter to an amount less than would have been due if the accumulation distribution or his part thereof were excluded from his Virginia taxable income.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.026; 1971, Ex. Sess., c. 171; 1984, c. 675.</history>
+</law>

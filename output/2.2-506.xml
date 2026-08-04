@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="B" level="3">Department of Law</unit>
+		<unit label="chapter" identifier="5" level="4">Department of Law</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-506</section_number>
+	<catch_line>Legal services to attorneys for the Commonwealth in certain proceedings; costs</catch_line>
+	<text>
+		The Attorney General shall at the request of an attorney for the Commonwealth, provide legal service to such attorney for the Commonwealth in any proceedings brought against him seeking to restrain the enforcement of any state law.
+		Any costs chargeable against the defendant in any such case shall be paid by the Commonwealth from the appropriation for the payment of criminal charges.
+	</text>
+	<history>1962, c. 235, § 2-86.2; 1966, c. 677, § 2.1-120; 2001, c. 844.</history>
+</law>

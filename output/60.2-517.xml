@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Taxation</unit>
+		<unit label="article" identifier="2" level="3">Employer Reporting Requirements</unit>
+	</structure>
+	<section_number>60.2-517</section_number>
+	<catch_line>How fractional part of cent computed</catch_line>
+	<text>
+		In the payment of any such taxes, a fractional part of a cent shall be disregarded, unless it amounts to one-half cent or more, in which case it shall be increased to one cent.
+	</text>
+	<history>Code 1950, § 60-66; 1968, c. 738, § 60.1-78; 1986, c. 480.</history>
+</law>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="6" level="3">Deposits and Accounts</unit>
+		<unit label="article" identifier="2" level="4">Multiple-Party Accounts</unit>
+	</structure>
+	<section_number>6.2-618</section_number>
+	<catch_line>Identification of joint accounts</catch_line>
+	<text>
+		<section prefix="A">Every financial institution in the Commonwealth offering joint accounts to its depositors shall either:
+			<section prefix="1">Use two separate forms for the creation of joint accounts, one of which shall be clearly labeled "JOINT ACCOUNT WITH SURVIVORSHIP" and the other of which shall be clearly labeled "JOINT ACCOUNT -- NO SURVIVORSHIP," provided that a financial institution electing to use separate forms is not required to maintain both forms or make both forms available to persons opening joint accounts and may, in its discretion, elect to make one or both forms available to persons opening joint accounts; or
+			</section>
+			<section prefix="2">Use one form for the creation of such accounts that shall contain the two labels "JOINT ACCOUNT WITH SURVIVORSHIP" and "JOINT ACCOUNT -- NO SURVIVORSHIP," with appropriate blank space or lines beside such labels for the parties to sign in order to indicate the type of account desired, which signature requirement shall be in addition to any signature verification form.
+			</section>
+		</section>
+		<section prefix="B">The forms provided for in subdivision A 1 may be identical in all respects except for the labels therein specified. This section shall not be construed to prevent any financial institution from changing from one method of identification to the other method of identification at any time, nor to require a financial institution making such a change to make any changes to the forms of its existing accounts.
+		</section>
+		<section prefix="C">The forms described in subsection A shall include disclosures to inform persons opening joint accounts of the disposition of such accounts upon a party's death. Disclosures in a form substantially similar to the following shall satisfy the requirements of this section:
+			Joint Account With Survivorship -- On the death of a party to the account, the deceased party's ownership in the account passes to the surviving party or parties to the account.
+			Joint Account -- No Survivorship -- On the death of a party to the account, the deceased party's ownership in the account passes as a part of the party's estate under the party's will, trust, or by intestacy.
+		</section>
+		<section prefix="D">This section is not applicable to joint accounts created before July 1, 1980.
+		</section>
+	</text>
+	<history>1979, c. 407, § 6.1-125.15; 1999, c. 125; 2010, c. 794; 2013, c. 70.</history>
+</law>

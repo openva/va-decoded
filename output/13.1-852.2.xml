@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="7.1" level="3">Member or Director Agreements</unit>
+	</structure>
+	<section_number>13.1-852.2</section_number>
+	<catch_line>Voting agreements</catch_line>
+	<text>
+		<section prefix="A">Two or more members entitled to vote may provide for the manner in which they will vote by signing an agreement for that purpose.
+		</section>
+		<section prefix="B">A voting agreement created under this section is specifically enforceable.
+		</section>
+	</text>
+	<history>2007, c. 925.</history>
+</law>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="1" level="3">Default and Enforcement of Security Interest</unit>
+	</structure>
+	<section_number>8.9A-614</section_number>
+	<catch_line>Contents and form of notification before disposition of collateral; consumer-goods transaction</catch_line>
+	<text>
+		<section prefix="a">Contents and form of notification. In a consumer-goods transaction, the following rules apply:
+			<section prefix="1">A notification of disposition must provide the following information:
+			</section>
+		</section>
+		<section prefix="A">the information specified in § 8.9A-613 (a)(1);
+		</section>
+		<section prefix="B">a description of any liability for a deficiency of the person to which the notification is sent;
+		</section>
+		<section prefix="C">a telephone number from which the amount that must be paid to the secured party to redeem the collateral under § 8.9A-623 is available; and
+		</section>
+		<section prefix="D">a telephone number or mailing address from which additional information concerning the disposition and the obligation secured is available.
+			<section prefix="2">A particular phrasing of the notification is not required.
+			</section>
+			<section prefix="3">The following form of notification, when completed in accordance with the instructions in subsection (b), provides sufficient information:
+				(Name and address of secured party)
+				(Date)
+				NOTICE OF OUR PLAN TO SELL PROPERTY
+				(Name and address of any obligor who is also a debtor)
+				Subject: (Identify transaction)
+				We have your (describe collateral), because you broke promises in our agreement.
+				{1} We will sell (describe collateral) at public sale. A sale could include a lease or license. The sale will be held as follows:
+				(Date)
+				(Time)
+				(Place)
+				You may attend the sale and bring bidders if you want.
+				{2} We will sell (describe collateral) at private sale sometime after (date). A sale could include a lease or license.
+				{3} The money that we get from the sale, after paying our costs, will reduce the amount you owe. If we get less money than you owe, you (will or will not, as applicable) still owe us the difference. If we get more money than you owe, you will get the extra money, unless we must pay it to someone else.
+				{4} You can get the property back at any time before we sell it by paying us the full amount you owe, not just the past due payments, including our expenses. To learn the exact amount you must pay, call us at (telephone number).
+				{5} If you want us to explain to you in (writing) (writing or in (description of electronic record)) (description of electronic record) how we have figured the amount that you owe us, {6} call us at (telephone number) (or) (write us at (secured party's address)) (or contact us by (description of electronic communication method)) {7} and request (a written explanation) (a written explanation or an explanation in (description of electronic record)) (an explanation in (description of electronic record)).
+				{8} We will charge you $ (amount) for the explanation if we sent you another written explanation of the amount you owe us within the last six months.
+				{9} If you need more information about the sale (call us at (telephone number)) (or) (write us at (secured party's address)) (or contact us by (description of electronic communication method)).
+				{10} We are sending this notice to the following other people who have an interest in (describe collateral) or who owe money under your agreement:
+				Names of all other debtors and obligors, if any)
+				[End of Form]
+			</section>
+			<section prefix="4">A notification in the form of paragraph (3) is sufficient, even if additional information appears at the end of the form.
+			</section>
+			<section prefix="5">A notification in the form of paragraph (3) is sufficient, even if it includes errors in information not required by paragraph (1), unless the error is misleading with respect to rights arising under this title.
+			</section>
+			<section prefix="6">If a notification under this section is not in the form of paragraph (3), law other than this title determines the effect of including information not required by paragraph (1).
+			</section>
+		</section>
+		<section prefix="b">Instructions for form of notification. The following instructions apply to the form of notification in subsection (a)(3):
+			<section prefix="1">The instructions in this subsection refer to the numbers in braces before items in the form of notification in subsection (a)(3). Do not include the numbers or braces in the notification. The numbers and braces are used only for the purpose of these instructions.
+			</section>
+			<section prefix="2">Include and complete either item {1}, if the notification relates to a public disposition of the collateral, or item {2}, if the notification relates to a private disposition of the collateral.
+			</section>
+			<section prefix="3">Include and complete items {3}, {4}, {5}, {6}, and {7}.
+			</section>
+			<section prefix="4">In item {5}, include and complete any one of the three alternative methods for the explanation—writing, writing or electronic record, or electronic record.
+			</section>
+			<section prefix="5">In item {6}, include the telephone number. In addition, the sender may include and complete either or both of the two additional alternative methods of communication—writing or electronic communication—for the recipient of the notification to communicate with the sender. Neither of the two additional methods of communication is required to be included.
+			</section>
+			<section prefix="6">In item {7}, include and complete the method or methods for the explanation—writing, writing or electronic record, or electronic record—included in item {5}.
+			</section>
+			<section prefix="7">Include and complete item {8} only if a written explanation is included in item {5} as a method for communicating the explanation and the sender will charge the recipient for another written explanation.
+			</section>
+			<section prefix="8">In item {9}, include either the telephone number or the address or both the telephone number and the address. In addition, the sender may include and complete the additional method of communication—electronic communication—for the recipient of the notification to communicate with the sender. The additional method of electronic communication is not required to be included.
+			</section>
+			<section prefix="9">If item {10} does not apply, insert "None" after "agreement:".
+			</section>
+		</section>
+	</text>
+	<history>2000, c. 1007; 2024, c. 652.</history>
+</law>

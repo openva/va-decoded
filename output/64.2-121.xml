@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+		<unit label="article" identifier="3.1" level="4">Uniform Fiduciary Access to Digital Assets Act</unit>
+	</structure>
+	<section_number>64.2-121</section_number>
+	<catch_line>Disclosure of content of electronic communications of deceased user</catch_line>
+	<text>
+		If a deceased user consented to or a court directs disclosure of the contents of electronic communications of the user, the custodian shall disclose to the personal representative of the estate of the user the content of electronic communications sent or received by the user if the representative gives the custodian:
+		<section prefix="1">A written request for disclosure in physical or electronic form;
+		</section>
+		<section prefix="2">A certified copy of the death certificate of the user;
+		</section>
+		<section prefix="3">A certified copy of the letter of appointment of the representative or a small-estate affidavit or court order;
+		</section>
+		<section prefix="4">Unless the user provided direction using an online tool, a copy of the user's will, trust, power of attorney, or other record evidencing the user's consent to disclosure of the content of electronic communications; and
+		</section>
+		<section prefix="5">If requested by the custodian:
+			a. A number, username, address, or other unique subscriber or account identifier assigned by the custodian to identify the user's account;
+			b. Evidence linking the account to the user; or
+			c. A finding by the court that (i) the user had a specific account with the custodian, identifiable by the information specified in subdivision a; (ii) disclosure of the content of electronic communications of the user would not violate 18 U.S.C. § 2701 et seq., 47 U.S.C. § 222, or other applicable law; (iii) unless the user provided direction using an online tool, the user consented to disclosure of the content of electronic communications; or (iv) disclosure of the content of electronic communications of the user is reasonably necessary for administration of the estate.
+		</section>
+	</text>
+	<history>2017, cc. 33, 80.</history>
+</law>

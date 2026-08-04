@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="4" level="3">Relationship of a Limited Liability Company and Its Members to Third Persons</unit>
+	</structure>
+	<section_number>13.1-1021.1</section_number>
+	<catch_line>Agency of members and managers</catch_line>
+	<text>
+		<section prefix="A">Subject to subsections B and C:
+			<section prefix="1">Each member is an agent of the limited liability company for the purpose of its business;
+			</section>
+			<section prefix="2">An act of a member, including the signing of an instrument in the limited liability company name, for apparently carrying on in the ordinary course the limited liability company business or business of the kind carried on by the limited liability company, binds the limited liability company, unless the member had no authority to act for the limited liability company in the particular matter and the person with whom the member was dealing knew or had notice that the member lacked authority; and
+			</section>
+			<section prefix="3">An act of a member which is not apparently for carrying on in the ordinary course the limited liability company business or business of the kind carried on by the limited liability company binds the limited liability company only if the act was authorized by the other members in accordance with § 13.1-1022.
+			</section>
+		</section>
+		<section prefix="B">Subject to subsection C, in a manager-managed limited liability company:
+			<section prefix="1">If the articles of organization specify that the limited liability company is to be managed by a manager or managers, a member is not an agent of the limited liability company for the purpose of its business solely by reason of being a member;
+			</section>
+			<section prefix="2">Each manager is an agent of the limited liability company for the purpose of its business;
+			</section>
+			<section prefix="3">An act of a manager, including the signing of an instrument in the limited liability company name, for apparently carrying on in the ordinary course the limited liability company business or business of the kind carried on by the limited liability company, binds the limited liability company, unless the manager had no authority to act for the limited liability company in the particular matter and the person with whom the manager was dealing knew or had notice that the manager lacked authority; and
+			</section>
+			<section prefix="4">An act of a manager which is not apparently for carrying on in the ordinary course the limited liability company business or business of the kind carried on by the limited liability company binds the company only if the act was authorized in accordance with § 13.1-1024.
+			</section>
+		</section>
+		<section prefix="C">Unless the articles of organization limit their authority, any member in a member-managed limited liability company, or any manager in a manager-managed limited liability company, may sign and deliver any instrument transferring or affecting the limited liability company's interest in real property, which instrument shall be conclusive in favor of a person who gives value without knowledge of the lack of authority of the person signing and delivering the instrument.
+		</section>
+	</text>
+	<history>1995, c. 168.</history>
+</law>

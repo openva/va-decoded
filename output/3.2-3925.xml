@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="39" level="3">Pesticide Control</unit>
+		<unit label="article" identifier="2" level="4">Licensing and Registration</unit>
+	</structure>
+	<section_number>3.2-3925</section_number>
+	<catch_line>Fees</catch_line>
+	<text>
+		<section prefix="A">A nonrefundable annual licensing fee shall be required with each application for a pesticide business license.
+		</section>
+		<section prefix="B">If a person fails to apply for renewal of a pesticide business license prior to expiration, the applicant shall pay the licensing fee and a late fee of 20 percent of the licensing fee as a condition of renewal.
+		</section>
+	</text>
+	<history>1989, c. 575, § 3.1-249.47; 1993, c. 773; 2008, c. 860.</history>
+</law>

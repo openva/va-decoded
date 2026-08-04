@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="1" level="2">General Provisions and Definitions</unit>
+	</structure>
+	<section_number>8.3A-105</section_number>
+	<catch_line>Issue of instrument</catch_line>
+	<text>
+		<section prefix="a">"Issue" means
+			<section prefix="1">the first delivery of an instrument by the maker or drawer, whether to a holder or nonholder, for the purpose of giving rights on the instrument to any person; or
+			</section>
+			<section prefix="2">if agreed by the payee, the first transmission by the drawer to the payee of an image of an item and information derived from the item that enables the depositary bank to collect the item by transferring or presenting under federal law an electronic check.
+			</section>
+		</section>
+		<section prefix="b">An unissued instrument, or an unissued incomplete instrument that is completed, is binding on the maker or drawer, but nonissuance is a defense. An instrument that is conditionally issued or is issued for a special purpose is binding on the maker or drawer, but failure of the condition or special purpose to be fulfilled is a defense.
+		</section>
+		<section prefix="c">"Issuer" applies to issued and unissued instruments and means a maker or drawer of an instrument.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-368, 6-380, 6-410, 6-411, 6-544; 1964, c. 219, §§ 8.3-102, 8.3-306; 1992, c. 693; 2024, c. 652.</history>
+</law>

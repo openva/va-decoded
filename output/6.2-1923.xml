@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="19.1" level="3">Money Transmitters</unit>
+	</structure>
+	<section_number>6.2-1923</section_number>
+	<catch_line>(Effective July 1, 2026) Exemptions</catch_line>
+	<text>
+		The provisions of this chapter shall not apply to:
+		<section prefix="1">An operator of a payment system, to the extent that it provides processing, clearing, or settlement services between or among persons exempted by this section, or licensees, in connection with wire transfers, credit card transactions, debit card transactions, stored-value transactions, automated clearing house transfers, or similar funds transfers.
+		</section>
+		<section prefix="2">A person appointed as an agent of a payee to collect and process a payment from a payor to the payee for goods or services, other than money transmission itself, provided to the payor by the payee, provided that (i) there exists a written agreement between the payee and the agent directing the agent to collect and process payments from payors on the payee's behalf; (ii) the payee holds the agent out to the public as accepting payments for goods or services on the payee's behalf; and (iii) payment for the goods and services is treated as received by the payee upon receipt by the agent so that the payor's obligation is extinguished and there is no risk of loss to the payor if the agent fails to remit the funds to the payee.
+		</section>
+		<section prefix="3">A person that acts as an intermediary by processing payments between an entity that has directly incurred an outstanding money transmission obligation to a sender and the sender's designated recipient, provided that the entity (i) is properly licensed or exempt from licensing requirements under this chapter; (ii) provides a receipt, electronic record, or other written confirmation to the sender identifying the entity as the provider of money transmission in the transaction; and (iii) bears sole responsibility to satisfy the outstanding money transmission obligation to the sender, including the obligation to make the sender whole in connection with any failure to transmit the funds to the sender's designated recipient.
+		</section>
+		<section prefix="4">The United States or any department, agency, or instrumentality thereof, or its agent.
+		</section>
+		<section prefix="5">Money transmission by the United States Postal Service or by an agent of the United States Postal Service.
+		</section>
+		<section prefix="6">A state, county, city, or any other governmental agency or governmental subdivision or instrumentality of a state, or its agent.
+		</section>
+		<section prefix="7">A federally insured depository financial institution, bank holding company, office of an international banking corporation, foreign bank that establishes a federal branch pursuant to the federal International Bank Act (12 U.S.C. § 3102 et seq.), corporation organized pursuant to the federal Bank Service Company Act (12 U.S.C. § 1861 et seq.), or corporation organized under the federal Edge Act (12 U.S.C. § 611 et seq.).
+		</section>
+		<section prefix="8">An electronic funds transfer of governmental benefits for a federal, state, county, or governmental agency by a contractor on behalf of the United States or a department, agency, or instrumentality thereof, or on behalf of a state, county, or governmental subdivision, agency, or instrumentality thereof.
+		</section>
+		<section prefix="9">A board of trade designated as a contract market under the federal Commodity Exchange Act (7 U.S.C. § 1 et seq.) or a person that, in the ordinary course of business, provides clearance and settlement services for a board of trade to the extent of its operation as or for such a board.
+		</section>
+		<section prefix="10">A registered futures commission merchant under the federal commodities laws to the extent of its operation as such a merchant.
+		</section>
+		<section prefix="11">A person registered as a securities broker-dealer under federal or state securities laws to the extent of its operation as such a broker-dealer.
+		</section>
+		<section prefix="12">An individual employed by a licensee, authorized delegate, or any person exempted from the licensing requirements of this chapter when acting within the scope of employment and under the supervision of the licensee, authorized delegate, or exempted person as an employee and not as an independent contractor.
+		</section>
+		<section prefix="13">A person expressly appointed as a third-party service provider to or agent of an entity exempt under subdivision 7 solely to the extent that (i) such service provider or agent is engaging in money transmission on behalf of and pursuant to a written agreement with the exempt entity that sets forth the specific functions that the service provider or agent is to perform and (ii) the exempt entity assumes all risk of loss and all legal responsibility for satisfying the outstanding money transmission obligations owed to purchasers and holders of the outstanding money transmission obligations upon receipt of the purchaser's or holder's money or monetary value by the service provider or agent.
+		</section>
+		<section prefix="14">Any private security services business, licensed under § 9.1-139, that transports or offers to transport money.
+		</section>
+		<section prefix="15">A person appointed as an agent of a payor for purposes of providing payroll processing services for which the agent would otherwise need to be licensed, provided that (i) there is a written agreement between the payor and the agent that directs the agent to provide payroll processing services on the payor's behalf; (ii) the payor holds the agent out to employees and other payees as providing payroll processing services on the payor's behalf; and (iii) the payor's obligation to a payee, including an employee or any other party entitled to receive funds via the payroll processing services provided by the agent, shall not be extinguished if the agent fails to remit the funds to the payee.
+		</section>
+	</text>
+	<history>2025, c. 214.</history>
+</law>

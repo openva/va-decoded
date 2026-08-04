@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="22" level="2">Receivers, General and Special</unit>
+		<unit label="article" identifier="1" level="3">General Receivers</unit>
+	</structure>
+	<section_number>8.01-582</section_number>
+	<catch_line>Appointment of general receivers; their duties; audit of funds</catch_line>
+	<text>
+		Any circuit court may appoint a general receiver of the court, who may be the clerk of the court, and who shall hold his office at its pleasure. The general receiver's duty shall be, unless it is otherwise specially ordered, to receive, take charge of and hold all moneys paid under any judgment, order or decree of the court, and also to pay out or dispose of same as the court orders or decrees. Moneys held pursuant to this section shall be deemed public deposits as set forth in Chapter 44 (§ 2.2-4400 et seq.) of Title 2.2 and shall be invested in certificates of deposit or time deposits, and in accordance with the provisions of Chapter 45 (§ 2.2-4500 et seq.) of Title 2.2, as ordered by the court. Prior to or at the time of entry of any judgment, order or decree placing moneys under the control of the general receiver for the benefit of any specifically identified beneficiary, the general receiver shall file an affidavit with the court providing the beneficiary's name, date of birth, and social security number, as well as the proposed dates of final and periodic disbursements. Such affidavit shall be maintained under seal by the clerk unless otherwise ordered by the court, and the information therein shall be used solely for the purposes of financial management and reporting. Orders creating funds pursuant to this section shall include information necessary to make prudent investment and disbursement decisions but shall not include the personal identifying information set forth in the general receiver's affidavit.
+		Unless otherwise ordered by the court, the provisions of this section shall not apply to:
+		<section prefix="1">Cash or other money received in lieu of surety on any bond posted in any civil or criminal case, including but not limited to, bail bonds, appeal bonds in appeals from a district court or circuit court, bonds posted in connection with the filing of an attachment, detinue seizure or distress, suspending bonds, and performance bonds;
+		</section>
+		<section prefix="2">Cash or other money paid or deposited in the clerk's office prior to final disposition of the case, including but not limited to interpleaders or eminent domain; or
+		</section>
+		<section prefix="3">Cash or other money deposits in lieu of surety on any bond posted in the clerk's office which is not posted in connection with any civil or criminal case, including bonds posted by executors or administrators.
+			To this end, the general receiver is authorized to verify, receive, and give acquittances for all such moneys, as the court may direct. Any interest which accrues on the funds, minus allowable fees and bond costs, shall be credited and payable to the person or persons entitled to receive such funds.
+			All moneys received under this section are subject to audit by the Auditor of Public Accounts. The Auditor of Public Accounts shall prescribe mandatory record keeping and accounting standards for general receivers.
+		</section>
+	</text>
+	<history>Code 1950, § 8-725; 1973, c. 354; 1977, c. 617; 1979, c. 498; 1988, c. 553; 1990, c. 414; 1991, c. 635; 1999, c. 198; 2003, c. 97.</history>
+</law>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>59.1-501.2</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		<section prefix="a">As used in this chapter:
+			<section prefix="1">"Access contract" means a contract to obtain by electronic means access to, or information from, an information processing system of another person, or the equivalent of such access.
+			</section>
+			<section prefix="2">"Access material" means any information or material, such as a document, address, or access code, that is necessary to obtain authorized access to information or control or possession of a copy.
+			</section>
+			<section prefix="3">"Aggrieved party" means a party entitled to a remedy for breach of contract.
+			</section>
+			<section prefix="4">"Agreement" means the bargain of the parties in fact as found in their language or by implication from other circumstances, including course of performance, course of dealing, and usage of trade as provided in this chapter.
+			</section>
+			<section prefix="5">"Attribution procedure" means a procedure to verify that an electronic authentication, display, message, record, or performance is that of a particular person or to detect changes or errors in information. The term includes a procedure that requires the use of algorithms or other codes, identifying words or numbers, encryption, or callback or other acknowledgment.
+			</section>
+			<section prefix="6">"Authenticate" means (i) to sign or (ii) with the intent to sign a record, to execute or adopt an electronic symbol, sound, message, or process referring to, attached to, included in, or logically associated or linked with, that record.
+			</section>
+			<section prefix="7">"Automated transaction" means a transaction in which a contract is formed in whole or part by electronic actions of one or both parties that are not previously reviewed by an individual in the ordinary course.
+			</section>
+			<section prefix="8">"Cancellation" means the ending of a contract by a party because of breach of contract by another party.
+			</section>
+			<section prefix="9">"Computer" means an electronic device that accepts information in digital or similar form and manipulates it for a result based on a sequence of instructions.
+			</section>
+			<section prefix="10">"Computer information" means information in electronic form that is obtained from or through the use of a computer or that is in a form capable of being processed by a computer. The term includes a copy of the information and any documentation or packaging associated with the copy.
+			</section>
+			<section prefix="11">"Computer information transaction" means an agreement or the performance of it to create, modify, transfer, or license computer information or informational rights in computer information. The term includes a support contract under § 59.1-506.12. The term does not include a transaction merely because the parties' agreement provides that their communications about the transaction will be in the form of computer information.
+			</section>
+			<section prefix="12">"Computer program" means a set of statements or instructions to be used directly or indirectly in a computer to bring about a certain result. The term does not include separately identifiable informational content.
+			</section>
+			<section prefix="13">"Consequential damages" resulting from breach of contract includes (i) any loss resulting from general or particular requirements and needs of which the breaching party at the time of contracting had reason to know and which could not reasonably be prevented, and (ii) any injury to an individual or damage to property other than the subject matter of the transaction proximately resulting from breach of warranty. The term does not include direct damages or incidental damages.
+			</section>
+			<section prefix="14">"Conspicuous," with reference to a term, means so written, displayed, or presented that a reasonable person against which it is to operate ought to have noticed it. A term in an electronic record intended to evoke a response by an electronic agent is conspicuous if it is presented in a form that would enable a reasonably configured electronic agent to take it into account or react to it without review of the record by an individual. With respect to a person, conspicuous terms include (i) a heading in capitals in a size equal to or greater than, or in contrasting type, font, or color to, the surrounding text, (ii) language in the body of a record or display in larger or other contrasting type, font, or color or set off from the surrounding text by symbols or other marks that draw attention to the language, and (iii) a term prominently referenced in an electronic record or display which is readily accessible or reviewable from the record or display. With respect to a person or an electronic agent, conspicuous terms include a term, or reference to a term, that is so placed in a record or display that the person or electronic agent cannot proceed without taking action with respect to the particular term or reference.
+			</section>
+			<section prefix="15">"Consumer" means an individual who is a licensee of information or informational rights that the individual at the time of contracting intended to be used primarily for personal, family, or household purposes. The term does not include an individual who is a licensee primarily for professional or commercial purposes, including agriculture, business management, and investment management other than management of the individual's personal or family investments.
+			</section>
+			<section prefix="16">"Consumer contract" means a contract between a merchant licensor and a consumer.
+			</section>
+			<section prefix="17">"Contract" means the total legal obligation resulting from the parties' agreement as affected by this chapter and other applicable law.
+			</section>
+			<section prefix="18">"Contract fee" means the price, fee, rent, or royalty payable in a contract under this chapter or any part of the amount payable.
+			</section>
+			<section prefix="19">"Contractual use term" means an enforceable term that defines or limits the use, disclosure of, or access to licensed information or informational rights, including a term that defines the scope of a license.
+			</section>
+			<section prefix="20">"Copy" means the medium on which information is fixed on a temporary or permanent basis and from which it can be perceived, reproduced, used, or communicated, either directly or with the aid of a machine or device.
+			</section>
+			<section prefix="21">"Course of dealing" means a sequence of previous conduct between the parties to a particular transaction which establishes a common basis of understanding for interpreting their expressions and other conduct.
+			</section>
+			<section prefix="22">"Course of performance" means repeated performances, under a contract that involves repeated occasions for performance, which are accepted or acquiesced in without objection by a party having knowledge of the nature of the performance and an opportunity to object to it.
+			</section>
+			<section prefix="23">"Court" includes an arbitration or other dispute-resolution forum if the parties have agreed to use of that forum or its use is required by law.
+			</section>
+			<section prefix="24">"Delivery," with respect to a copy, means the voluntary physical or electronic transfer of possession or control.
+			</section>
+			<section prefix="25">"Direct damages" means compensation for losses measured by § 59.1-508.8 (b) (1) or § 59.1-508.9 (a) (1). The term does not include consequential damages or incidental damages.
+			</section>
+			<section prefix="26">"Electronic" means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities.
+			</section>
+			<section prefix="27">"Electronic agent" means a computer program, or electronic or other automated means, used independently to initiate an action, or to respond to electronic messages or performances, on the person's behalf without review or action by an individual at the time of the action or response to the message or performance.
+			</section>
+			<section prefix="28">"Electronic message" means a record or display that is stored, generated, or transmitted by electronic means for the purpose of communication to another person or electronic agent.
+			</section>
+			<section prefix="29">"Financial accommodation contract" means an agreement under which a person extends a financial accommodation to a licensee and which does not create a security interest governed by Title 8.9A. The agreement may be in any form, including a license or lease.
+			</section>
+			<section prefix="30">"Financial services transaction" means an agreement that provides for, or a transaction that is, or entails access to, use, transfer, clearance, settlement, or processing of:
+			</section>
+		</section>
+		<section prefix="A">a deposit, loan, funds, or monetary value represented in electronic form and stored or capable of storage by electronic means and retrievable and transferable by electronic means, or other right to payment to or from a person;
+		</section>
+		<section prefix="B">an instrument or other item;
+		</section>
+		<section prefix="C">a payment order, credit card transaction, debit card transaction, funds transfer, automated clearing house transfer, or similar wholesale or retail transfer of funds;
+		</section>
+		<section prefix="D">a letter of credit, document of title, financial asset, investment property, or similar asset held in a fiduciary or agency capacity; or
+		</section>
+		<section prefix="E">related identifying, verifying, access-enabling, authorizing, or monitoring information.
+			<section prefix="31">"Financier" means a person that provides a financial accommodation to a licensee under a financial accommodation contract and either (i) becomes a licensee for the purpose of transferring or sublicensing the license to the party to which the financial accommodation is provided or (ii) obtains a contractual right under the financial accommodation contract to preclude the licensee's use of the information or informational rights under a license in the event of breach of the financial accommodation contract. The term does not include a person that selects, creates, or supplies the information that is the subject of the license, owns the informational rights in the information, or provides support for, modifications to, or maintenance of the information.
+			</section>
+			<section prefix="32">"Good faith" means honesty in fact and the observance of reasonable commercial standards of fair dealing.
+			</section>
+			<section prefix="33">"Goods" means all things that are movable at the time relevant to the computer information transaction. The term includes the unborn young of animals, growing crops, and other identified things to be severed from realty which are covered by § 8.2-107. The term does not include computer information, money, the subject matter of foreign exchange transactions, documents, letters of credit, letter-of-credit rights, instruments, investment property, accounts, chattel paper, deposit accounts, or general intangibles.
+			</section>
+			<section prefix="34">"Incidental damages" resulting from breach of contract:
+			</section>
+		</section>
+		<section prefix="A">means compensation for any commercially reasonable charges, expenses, or commissions reasonably incurred by an aggrieved party with respect to (i) inspection, receipt, transmission, transportation, care, or custody of identified copies or information that is the subject of the breach; (ii) stopping delivery, shipment, or transmission; (iii) effecting cover or retransfer of copies or information after the breach; (iv) other efforts after the breach to minimize or avoid loss resulting from the breach; and (v) matters otherwise incident to the breach; and
+		</section>
+		<section prefix="B">does not include consequential damages or direct damages.
+			<section prefix="35">"Information" means data, text, images, sounds, mask works, or computer programs, including collections and compilations of them.
+			</section>
+			<section prefix="36">"Information processing system" means an electronic system for creating, generating, sending, receiving, storing, displaying, or processing information.
+			</section>
+			<section prefix="37">"Informational content" means information that is intended to be communicated to or perceived by an individual in the ordinary use of the information, or the equivalent of that information.
+			</section>
+			<section prefix="38">"Informational rights" include all rights in information created under laws governing patents, copyrights, mask works, trade secrets, trademarks, publicity rights, or any other law that gives a person, independently of contract, a right to control or preclude another person's use of or access to the information on the basis of the rights holder's interest in the information.
+			</section>
+			<section prefix="39">"Insurance services transaction" means an agreement between an insurer and an insured that provides for, or a transaction that is or entails access to, use, transfer, clearance, settlement, or processing of:
+			</section>
+		</section>
+		<section prefix="A">an insurance policy, contract, or certificate; or
+		</section>
+		<section prefix="B">a right to payment under an insurance policy, contract or certificate.
+			<section prefix="40">"Knowledge," with respect to a fact, means actual knowledge of the fact.
+			</section>
+			<section prefix="41">"License" means a contract that authorizes access to, or use, distribution, performance, modification, or reproduction of, information or informational rights, but expressly limits the access or uses authorized or expressly grants fewer than all rights in the information, whether or not the transferee has title to a licensed copy. The term includes an access contract, a lease of a computer program, and a consignment of a copy. The term does not include a reservation or creation of a security interest to the extent the interest is governed by Title 8.9A.
+			</section>
+			<section prefix="42">"Licensee" means a person entitled by agreement to acquire or exercise rights in, or to have access to or use of, computer information under an agreement to which this chapter applies. A licensor is not a licensee with respect to rights reserved to it under the agreement.
+			</section>
+			<section prefix="43">"Licensor" means a person obligated by agreement to transfer or create rights in, or to give access to or use of, computer information or informational rights in it under an agreement to which this chapter applies. Between the provider of access and a provider of the informational content to be accessed, the provider of content is the licensor. In an exchange of information or informational rights, each party is a licensor with respect to the information, informational rights, or access it gives.
+			</section>
+			<section prefix="44">"Mass-market license" means a standard form used in a mass-market transaction.
+			</section>
+			<section prefix="45">"Mass-market transaction" means a transaction that is:
+			</section>
+		</section>
+		<section prefix="A">a consumer contract; or
+		</section>
+		<section prefix="B">any other transaction with an end-user licensee if:
+		</section>
+		<section prefix="i">the transaction is for information or informational rights directed to the general public as a whole, including consumers, under substantially the same terms for the same information;
+			<section prefix="ii">the licensee acquires the information or informational rights in a retail transaction under terms consistent with an ordinary transaction in a retail market; and
+			</section>
+			<section prefix="iii">the transaction is not (a) a contract for redistribution or for public performance or public display of a copyrighted work; (b) a transaction in which the information is customized or otherwise specially prepared by the licensor for the licensee, other than minor customization using a capability of the information intended for that purpose; (c) a site license; or (d) an access contract.
+			</section>
+			<section prefix="46">"Merchant" means a person:
+			</section>
+		</section>
+		<section prefix="A">who deals in information or informational rights of the kind involved in the transaction;
+		</section>
+		<section prefix="B">who by the person's occupation holds himself out as having knowledge or skill peculiar to the relevant aspect of the business practices or information involved in the transaction; or
+		</section>
+		<section prefix="C">to whom the knowledge or skill peculiar to the practices or information involved in the transaction may be attributed by the person's employment of an agent or broker or other intermediary who by his occupation holds himself out as having the knowledge or skill.
+			<section prefix="47">"Nonexclusive license" means a license that does not preclude the licensor from transferring to other licensees the same information, informational rights, or contractual rights within the same scope. The term includes a consignment of a copy.
+			</section>
+			<section prefix="48">"Notice" of a fact means knowledge of the fact, receipt of notification of the fact, or reason to know the fact exists.
+			</section>
+			<section prefix="49">"Notify" or "give notice" means to take such steps as may be reasonably required to inform the other person in the ordinary course, whether or not the other person actually comes to know of it.
+			</section>
+			<section prefix="50">"Party" means a person that engages in a transaction or makes an agreement under this chapter.
+			</section>
+			<section prefix="51">"Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, governmental subdivision, instrumentality, or agency, public corporation, or any other legal or commercial entity.
+			</section>
+			<section prefix="52">"Published informational content" means informational content prepared for or made available to recipients generally, or to a class of recipients, in substantially the same form. The term does not include informational content that is (i) customized for a particular recipient by one or more individuals acting as or on behalf of the licensor, using judgment or expertise or (ii) provided in a special relationship of reliance between the provider and the recipient.
+			</section>
+			<section prefix="53">"Receipt" means:
+			</section>
+		</section>
+		<section prefix="A">with respect to a copy, taking delivery; or
+		</section>
+		<section prefix="B">with respect to a notice:
+		</section>
+		<section prefix="i">coming to a person's attention; or
+			<section prefix="ii">being delivered to and available at a location or system designated by agreement for that purpose or, in the absence of an agreed location or system: (a) being delivered at the person's residence, or the person's place of business through which the contract was made, or at any other place held out by the person as a place for receipt of communications of the kind; or (b) in the case of an electronic notice, coming into existence in an information processing system or at an address in that system in a form capable of being processed by or perceived from a system of that type by a recipient, if the recipient uses, or otherwise has designated or holds out, that place or system for receipt of notices of the kind to be given and the sender does not know that the notice cannot be accessed from that place.
+			</section>
+			<section prefix="54">"Receive" means to take receipt.
+			</section>
+			<section prefix="55">"Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+			</section>
+			<section prefix="56">"Release" means an agreement by a party not to object to, or exercise any rights or pursue any remedies to limit, the use of information or informational rights which agreement does not require an affirmative act by the party to enable or support the other party's use of the information or informational rights. The term includes a waiver of informational rights.
+			</section>
+			<section prefix="57">"Return," with respect to a record containing contractual terms that were rejected, refers only to the computer information and means:
+			</section>
+		</section>
+		<section prefix="A">in the case of a licensee that rejects a record regarding a single information product transferred for a single contract fee, a right to reimbursement of the contract fee paid from the person to which it was paid or from another person that offers to reimburse that fee, on (i) submission of proof of purchase and (ii) proper redelivery of the computer information and all copies within a reasonable time after initial delivery of the information to the licensee;
+		</section>
+		<section prefix="B">in the case of a licensee that rejects a record regarding an information product provided as part of multiple information products integrated into and transferred as a bundled whole but retaining their separate identity:
+			<section prefix="1">a right to reimbursement of any portion of the aggregate contract fee identified by the licensor in the initial transaction as charged to the licensee for all bundled information products which was actually paid, on (i) rejection of the record before or during the initial use of the bundled product; (ii) proper redelivery of all computer information products in the bundled whole and all copies of them within a reasonable time after initial delivery of the information to the licensee; and (iii) submission of proof of purchase; or
+			</section>
+			<section prefix="2">a right to reimbursement of any separate contract fee identified by the licensor in the initial transaction as charged to the licensee for the separate information product to which the rejected record applies, on (i) submission of proof of purchase and (ii) proper redelivery of that computer information product and all copies within a reasonable time after initial delivery of the information to the licensee; or
+			</section>
+		</section>
+		<section prefix="C">in the case of a licensor that rejects a record proposed by the licensee, a right to proper redelivery of the computer information and all copies from the licensee, to stop delivery or access to the information by the licensee, and to reimbursement from the licensee of amounts paid by the licensor with respect to the rejected record, on reimbursement to the licensee of contract fees that it paid with respect to the rejected record, subject to recoupment and setoff.
+			<section prefix="58">"Scope," with respect to terms of a license, means:
+			</section>
+		</section>
+		<section prefix="A">the licensed copies, information, or informational rights involved;
+		</section>
+		<section prefix="B">the use or access authorized, prohibited, or controlled;
+		</section>
+		<section prefix="C">the geographic area, market, or location; or
+		</section>
+		<section prefix="D">the duration of the license.
+			<section prefix="59">"Seasonable," with respect to an act, means taken within the time agreed or, if no time is agreed, within a reasonable time.
+			</section>
+			<section prefix="60">"Send" means, with any costs provided for and properly addressed or directed as reasonable under the circumstances or as otherwise agreed, to deposit a record in the mail or with a commercially reasonable carrier, to deliver a record for transmission to or re-creation in another location or information processing system, or to take the steps necessary to initiate transmission to or re-creation of a record in another location or information processing system. In addition, with respect to an electronic message, the message must be in a form capable of being processed by or perceived from a system of the type the recipient uses or otherwise has designated or held out as a place for the receipt of communications of the kind sent. Receipt within the time in which it would have arrived if properly sent, has the effect of a proper sending.
+			</section>
+			<section prefix="61">"Standard form" means a record or a group of related records containing terms prepared for repeated use in transactions and so used in a transaction in which there was no negotiated change of terms by individuals except to set the price, quantity, method of payment, selection among standard options, or time or method of delivery.
+			</section>
+			<section prefix="62">"State" means a State of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.
+			</section>
+			<section prefix="63">"Term," with respect to an agreement, means that portion of the agreement that relates to a particular matter.
+			</section>
+			<section prefix="64">"Termination" means the ending of a contract by a party pursuant to a power created by agreement or law otherwise than because of breach of contract.
+			</section>
+			<section prefix="65">"Transfer":
+			</section>
+		</section>
+		<section prefix="A">with respect to a contractual interest, includes an assignment of the contract, but does not include an agreement merely to perform a contractual obligation or to exercise contractual rights through a delegate or sublicensee; and
+		</section>
+		<section prefix="B">with respect to computer information, includes a sale, license, or lease of a copy of the computer information and a license or assignment of informational rights in computer information.
+			<section prefix="66">"Usage of trade" means any practice or method of dealing that has such regularity of observance in a place, vocation, or trade as to justify an expectation that it will be observed with respect to the transaction in question.
+			</section>
+		</section>
+		<section prefix="b">The following definitions in other titles apply to this chapter:
+			<section prefix="1">"Burden of establishing" § 8.1A-201.
+			</section>
+			<section prefix="2">"Document of title" § 8.1A-201.
+			</section>
+			<section prefix="3">"Financial asset" § 8.8A-102.
+			</section>
+			<section prefix="4">"Funds transfer" § 8.4A-104.
+			</section>
+			<section prefix="5">"Identification" to the contract § 8.2-501.
+			</section>
+			<section prefix="6">"Instrument" § 8.9A-102.
+			</section>
+			<section prefix="7">"Investment property" § 8.9A-102.
+			</section>
+			<section prefix="8">"Item" § 8.4-104.
+			</section>
+			<section prefix="9">"Letter of credit" § 8.5A-102.
+			</section>
+			<section prefix="10">"Payment order" § 8.4A-103.
+			</section>
+			<section prefix="11">"Sale" § 8.2-106.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2001, c. 763; 2003, c. 353; 2004, c. 794.</history>
+</law>

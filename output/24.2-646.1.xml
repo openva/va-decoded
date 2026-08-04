@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="6" level="2">The Election</unit>
+		<unit label="article" identifier="4" level="3">Conduct of Election; Election Results</unit>
+	</structure>
+	<section_number>24.2-646.1</section_number>
+	<catch_line>Permitted use of paper ballots</catch_line>
+	<text>
+		The official paper ballot shall be used by a voter to cast his vote only in one of the following circumstances:
+		<section prefix="1">The official paper ballot is the only ballot in use in the precinct.
+		</section>
+		<section prefix="2">The official paper ballot is used by voters voting outside of the polling place pursuant to § 24.2-649.1.
+		</section>
+		<section prefix="3">The voter is casting a provisional ballot.
+		</section>
+		<section prefix="4">The voter is provided an official paper ballot or copy thereof pursuant to § 24.2-642 when voting equipment is inoperable or otherwise unavailable.
+		</section>
+		<section prefix="5">The official absentee paper ballot voted in accordance with (§ 24.2-700 et seq.).
+		</section>
+		<section prefix="6">The voter is provided an official paper ballot for a presidential election pursuant to § 24.2-402 or for federal elections pursuant to § 24.2-453.
+		</section>
+	</text>
+	<history>2006, c. 492; 2015, c. 313; 2021, Sp. Sess. I, c. 163.</history>
+</law>

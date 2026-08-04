@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="4.1" level="1">Alcoholic Beverage and Cannabis Control</unit>
+		<unit label="subtitle" identifier="I" level="2">Alcoholic Beverage Control Act</unit>
+		<unit label="chapter" identifier="2" level="3">Administration of Licenses</unit>
+		<unit label="article" identifier="3" level="4">Applications for Licenses and Permits; Fees; Taxes</unit>
+	</structure>
+	<section_number>4.1-240</section_number>
+	<catch_line>Collection of taxes and fees; service charge; storage of credit card, debit card, and automated clearinghouse information</catch_line>
+	<text>
+		<section prefix="A">The Board may accept payment by any commercially acceptable means, including checks, credit cards, debit cards, and electronic funds transfers, for the taxes, penalties, or other fees imposed on a licensee in accordance with this subtitle. In addition, the Board may assess a service charge for the use of a credit or debit card. The service charge shall not exceed the amount negotiated and agreed to in a contract with the Department.
+		</section>
+		<section prefix="B">Upon the request of a license applicant or licensee, the Board may collect and maintain a record of the applicant's or licensee's credit card, debit card, or automated clearinghouse transfer information and use such information for future payments of taxes, penalties, other fees, or amounts due for products purchased from the Board. The Board may assess a service charge as provided in subsection A for any payments made under this subsection. The Board may procure the services of a third-party vendor for the secure storage of information collected pursuant to this subsection.
+		</section>
+	</text>
+	<history>2000, c. 801; 2015, c. 412.</history>
+</law>

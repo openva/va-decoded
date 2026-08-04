@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="8" level="3">Voluntary Program for Control of Genetic and Metabolic Diseases</unit>
+	</structure>
+	<section_number>32.1-69</section_number>
+	<catch_line>Records confidential; disclosure of results of screening</catch_line>
+	<text>
+		The results of any particular screening program shall be sent to the physician of the person tested, if known, and either to the parents when the person screened is under the age of eighteen or to the person if he is eighteen years of age or over. The results of a screening program may be used for research and collective statistical purposes. Except as hereinabove provided, all records maintained as part of any screening program shall be strictly confidential and shall be accessible only to the Board, the Commissioner or his agents or to the local health director who is conducting the screening program except by explicit permission of the person who has been screened if such person is eighteen years of age or over or of such person's parent or guardian if he is under age eighteen.
+	</text>
+	<history>Code 1950, § 32-112.23; 1973, c. 212; 1979, c. 711.</history>
+</law>

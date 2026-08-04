@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="7" level="2">Vital Records</unit>
+		<unit label="article" identifier="7" level="3">Miscellaneous Provisions</unit>
+	</structure>
+	<section_number>32.1-273.1</section_number>
+	<catch_line>Virginia Vital Statistics Automation Fund</catch_line>
+	<text>
+		For the purpose of fully automating the system of vital records provided for in this chapter, including the statewide system for decentralizing certification of vital records, there is hereby established the Virginia Vital Statistics Automation Fund.
+		Four dollars of each fee collected by the State Registrar shall be deposited by the Comptroller to this fund to be appropriated for this purpose to the Department of Health by the General Assembly as it deems necessary.
+		Deposits to this fund shall cease at such time as the system of vital records for Virginia has become fully automated and the fund shall expire. Any funds unexpended at expiration shall revert to the general fund.
+	</text>
+	<history>1983, c. 235; 1994, c. 373.</history>
+</law>

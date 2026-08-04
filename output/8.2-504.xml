@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="5" level="2">Performance</unit>
+	</structure>
+	<section_number>8.2-504</section_number>
+	<catch_line>Shipment by seller</catch_line>
+	<text>
+		Where the seller is required or authorized to send the goods to the buyer and the contract does not require him to deliver them at a particular destination, then unless otherwise agreed he must
+		<section prefix="a">put the goods in the possession of such a carrier and make such a contract for their transportation as may be reasonable having regard to the nature of the goods and other circumstances of the case; and
+		</section>
+		<section prefix="b">obtain and promptly deliver or tender in due form any document necessary to enable the buyer to obtain possession of the goods or otherwise required by the agreement or by usage of trade; and
+		</section>
+		<section prefix="c">promptly notify the buyer of the shipment.
+			Failure to notify the buyer under paragraph (c) or to make a proper contract under paragraph (a) is a ground for rejection only if material delay or loss ensues.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

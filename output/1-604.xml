@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="1" level="1">General Provisions</unit>
+		<unit label="chapter" identifier="6" level="2">Virginia Coordinate Systems</unit>
+	</structure>
+	<section_number>1-604</section_number>
+	<catch_line>Tract of land lying in both coordinate zones</catch_line>
+	<text>
+		When any tract of land to be defined by a single description extends from one into the other of the two coordinate zones established in this chapter, the positions of all points on its boundaries may be referred to either of the two zones, with the zone that is used being specifically named in the description.
+	</text>
+	<history>1946, p. 167; Michie Suppl. 1946, § 2849(4); Code 1950, § 55-291; 2019, c. 712.</history>
+</law>

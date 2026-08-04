@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="22.1" level="2">Enforcement of Forfeitures</unit>
+	</structure>
+	<section_number>19.2-386.8</section_number>
+	<catch_line>Exemptions</catch_line>
+	<text>
+		The following exemptions shall apply to property otherwise subject to forfeiture:
+		<section prefix="1">No conveyance used by any person as a lawfully certified common carrier in the transaction of business as a common carrier may be forfeited under the provisions of this section unless the owner of the conveyance was a consenting party or privy to the conduct giving rise to forfeiture or knew or had reason to know of it.
+		</section>
+		<section prefix="2">No conveyance may be forfeited under the provisions of this section for any conduct committed by a person other than the owner while the conveyance was unlawfully in the possession of a person other than the owner in violation of the criminal laws of this Commonwealth, or any other state, the District of Columbia, the United States or any territory thereof.
+		</section>
+		<section prefix="3">No owner's interest may be forfeited under this chapter if the court finds that:
+			a. He did not know and had no reason to know of the conduct giving rise to forfeiture;
+			b. He was a bona fide purchaser for value without notice;
+			c. The conduct giving rise to forfeiture occurred without his connivance or consent, express or implied; or
+			d. The conduct giving rise to forfeiture was committed by a tenant of a residential or commercial property owned by a landlord, and the landlord did not know or have reason to know of the tenant's conduct.
+		</section>
+		<section prefix="4">No lien holder's interest may be forfeited under this chapter if the court finds that:
+			a. The lien holder did not know of the conduct giving rise to forfeiture at the time the lien was granted;
+			b. The lien holder held a bona fide lien on the property subject to forfeiture and had perfected the same in the manner prescribed by law prior to seizure of the property; and
+			c. The conduct giving rise to forfeiture occurred without his connivance or consent, express or implied.
+			In the event the interest has been sold to a bona fide purchaser for value in order to avoid the provisions of this chapter, the Commonwealth shall have a right of action against the seller of the property for the proceeds of the sale.
+		</section>
+	</text>
+	<history>1989, c. 690; 2005, c. 883.</history>
+</law>

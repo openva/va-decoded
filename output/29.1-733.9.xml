@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="29.1" level="1">Wildlife, Inland Fisheries and Boating</unit>
+		<unit label="chapter" identifier="7" level="2">Boating Laws</unit>
+		<unit label="article" identifier="2.1" level="3">Virginia Uniform Certificate of Title for Watercraft Act</unit>
+	</structure>
+	<section_number>29.1-733.9</section_number>
+	<catch_line>Content of certificate of title</catch_line>
+	<text>
+		<section prefix="A">A certificate of title shall contain:
+			<section prefix="1">The date the certificate was created;
+			</section>
+			<section prefix="2">The name of the owner of record and, if not all owners are listed, an indication that there are additional owners indicated in the files of the Department;
+			</section>
+			<section prefix="3">The mailing address of the owner of record;
+			</section>
+			<section prefix="4">The hull identification number;
+			</section>
+			<section prefix="5">The information listed in subdivision B 6 of § 29.1-733.7;
+			</section>
+			<section prefix="6">Except as otherwise provided in subsection B of § 29.1-733.15, the name and mailing address of the secured party of record, if any, and if not all secured parties are listed, an indication that there are other security interests indicated in the files of the Department; and
+			</section>
+			<section prefix="7">All title brands indicated in the files of the Department covering the watercraft, including brands indicated on a certificate created by a governmental agency of another jurisdiction and delivered to the Department.
+			</section>
+		</section>
+		<section prefix="B">The Department may note on a certificate of title the name and mailing address of a secured party that is not a secured party of record.
+		</section>
+		<section prefix="C">For each title brand indicated on a certificate of title, the certificate shall identify the jurisdiction under whose law the title brand was created or the jurisdiction that created the certificate on which the title brand was indicated. If the meaning of a title brand is not easily ascertainable or cannot be accommodated on the certificate, the certificate may state: "Previously branded in (insert the jurisdiction under whose law the title brand was created or whose certificate of title previously indicated the title brand)."
+		</section>
+		<section prefix="D">If the files of the Department indicate that a watercraft previously was registered or titled in a foreign country, the Department shall indicate on the certificate of title that the watercraft was registered or titled in that country.
+		</section>
+		<section prefix="E">A written certificate of title shall contain a form that all owners indicated on the certificate may sign to evidence consent to a transfer of an ownership interest to another person. The form shall include a certification, signed under penalty of perjury, that the statements made are true and correct to the best of each owner's knowledge, information, and belief.
+		</section>
+		<section prefix="F">A written certificate of title shall contain a form for the owner of record to indicate, in connection with a transfer of an ownership interest, that the watercraft is hull damaged.
+		</section>
+	</text>
+	<history>2013, c. 787.</history>
+</law>

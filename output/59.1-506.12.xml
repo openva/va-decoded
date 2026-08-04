@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.12</section_number>
+	<catch_line>Correction and support contracts</catch_line>
+	<text>
+		<section prefix="a">If a person agrees to provide services regarding the correction of performance problems in computer information, other than an agreement to cure its own existing breach of contract, the following rules apply:
+			<section prefix="1">If the services are provided by a licensor of the information as part of a limited remedy, the licensor undertakes that its performance will provide the licensee with information that conforms to the agreement to which the limited remedy applies.
+			</section>
+			<section prefix="2">In all other cases, the person:
+			</section>
+		</section>
+		<section prefix="A">shall perform at a time and place and in a manner consistent with the express terms of the agreement and, to the extent not stated in the express terms, at a time and place and in a manner that is reasonable in light of ordinary standards of the business, trade, or industry; and
+		</section>
+		<section prefix="B">does not undertake that its services will correct performance problems unless the agreement expressly so provides.
+		</section>
+		<section prefix="b">Unless required to do so by an express or implied warranty, a licensor is not required to provide instruction or other support for the licensee's use of information or access. A person that agrees to provide support shall make the support available in a manner and with a quality consistent with express terms of the support agreement and, to the extent not stated in the express terms, at a time and place and in a manner that is reasonable in light of ordinary standards of the business, trade, or industry.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="4" level="5">Ventilation, Mine Gases, and Other Hazardous Conditions</unit>
+	</structure>
+	<section_number>45.2-829</section_number>
+	<catch_line> Examinations of fans</catch_line>
+	<text>
+		<section prefix="A">An authorized person shall conduct a daily inspection of each main fan and of the machinery connected with such fan. The person making the examination shall record such examination in a book prescribed for this purpose or by other adequate means provided to permanently record the performance of the main fan and to give warning of an interruption to a fan. No such daily examination is required on any day in which no person goes underground, except that the examination shall be completed prior to any person entering the mine if no examination was made on the previous day.
+		</section>
+		<section prefix="B">Any place ventilated by means of a blower fan shall be examined for methane by a certified person before the fan is started at the beginning of the shift and after any interruption of fan operation that lasts for five minutes or more during the shift.
+		</section>
+		<section prefix="C">Each blower fan and its tubing shall be inspected at least twice during each working shift by a certified person.
+		</section>
+	</text>
+	<history>Code 1950, §§ 45-60.1, 45-60.2; 1954, c. 191; 1966, c. 594, §§ 45.1-54, 45.1-55; 1978, c. 120; 1988, c. 597; 1993, c. 442; 1994, c. 28, § 45.1-161.211; 1999, c. 256; 2021, Sp. Sess. I, c. 387.</history>
+</law>

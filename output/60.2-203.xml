@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="2" level="2">Definitions</unit>
+	</structure>
+	<section_number>60.2-203</section_number>
+	<catch_line>Average annual payroll</catch_line>
+	<text>
+		"Average annual payroll" means the average of the annual payrolls of any employer for the last three or five preceding calendar years, whichever is higher.
+	</text>
+	<history>Code 1950, § 60-5; 1968, c. 738, § 60.1-5; 1986, c. 480.</history>
+</law>

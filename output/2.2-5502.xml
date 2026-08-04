@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="55" level="4">Virginia Biotechnology Research Act</unit>
+	</structure>
+	<section_number>2.2-5502</section_number>
+	<catch_line>Exemptions from chapter to be determined by Department</catch_line>
+	<text>
+		<section prefix="A">The Department may waive part or all of the requirements under this chapter for a specified regulated introduction if the Department determines that the satisfaction of that requirement is not necessary to protect the public health or the environment.
+		</section>
+		<section prefix="B">The Department may exempt a class of regulated introductions from part or all of any requirement under this chapter if the Department determines that the satisfaction of those requirements or part thereof is not necessary to protect the public health or the environment.
+		</section>
+		<section prefix="C">Planned regulated introductions approved by a federal regulator pursuant to the federal Coordinated Framework prior to enactment of this chapter shall be exempt from the provisions of this chapter.
+		</section>
+	</text>
+	<history>1994, c. 472, § 2.1-771; 2001, c. 844.</history>
+</law>

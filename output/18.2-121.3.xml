@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="5" level="3">Trespass to Realty</unit>
+	</structure>
+	<section_number>18.2-121.3</section_number>
+	<catch_line>Trespass with an unmanned aircraft system; penalty</catch_line>
+	<text>
+		<section prefix="A">Any person who knowingly and intentionally causes an unmanned aircraft system to (i) enter the property of another and come within 50 feet of a dwelling house (a) to coerce, intimidate, or harass another person or (b) after having been given actual notice to desist, for any other reason; (ii) take off or land in violation of current Federal Aviation Administration Special Security Instructions or UAS Security Sensitive Airspace Restrictions; or (iii) (a) drop any item within the boundaries of or (b) obtain any videographic or still image of any identifiable inmate or resident at any state or local correctional facility, as defined in § 53.1-1, or juvenile correctional center is guilty of a Class 1 misdemeanor.
+		</section>
+		<section prefix="B">Any person who knowingly and intentionally, and without authorization, causes an unmanned aircraft system to enter the airspace over any (i) public services or utilities, as described in § 18.2-162; (ii) critical infrastructure, as defined in 42 U.S.C. § 5195c, including any military base authorized by the U.S. Department of Defense; or (iii) facility, as defined in 46 U.S.C. § 70101, covered by the federal Maritime Transportation Security Act of 2002 is guilty of a Class 4 felony.
+		</section>
+		<section prefix="C">Subsections A and B shall not apply to any person who causes an unmanned aircraft system to enter the property as set forth in subsection A or B if (i) consent is given to the entry by any person with legal authority to consent or by any person who is lawfully present on such property; (ii) such person is authorized by federal regulations to operate an unmanned aircraft system and is operating such system in an otherwise lawful manner and consistent with federal regulations; (iii) such person is an employee of the property and is conducting official business; or (iv) such person is an employee of a public service or utility, as described in § 18.2-162, critical infrastructure, as defined in 42 U.S.C. § 5195c, or facility, as defined in 46 U.S.C. § 70101, and is conducting official business.
+		</section>
+		<section prefix="D">Notwithstanding the provisions of subsections A, B, and C, any person who knowingly, intentionally, and without authorization causes an unmanned aircraft system to enter the property of and obtains or attempts to obtain any videographic or still image that contains or reveals any controlled technical information located within a contracted defense facility is guilty of a Class 4 felony. Notwithstanding the provisions of § 18.2-146, the owner or operator of a contracted defense facility and its employees shall be immune from criminal prosecution and civil liability as a result of preventing, stopping, deterring, interrupting, or repelling, or attempting to prevent, stop, deter, interrupt, or repel, an unmanned aircraft system from entering the property of such contracted defense facility, or attempting to stop, deter, interrupt, or repel, an unmanned aircraft system that has entered such property, provided that such action does not result in injury to any person.
+			As used in this subsection:
+			"Contracted defense facility" means any manufacturing or engineering facility or other related facility where work involving the design, construction, repair, maintenance, modernization, or inactivation of an asset of the U.S. Department of Defense occurs pursuant to a contract issued by the federal government.
+			"Controlled technical information" means technical information with military or space application that is subject to controls on the access, use, reproduction, modification, performance, display, release, disclosure, or dissemination, excluding information that is lawfully publicly available without restrictions, as defined in clause 252.204-7012 of the Defense Federal Acquisition Regulation Supplement, as amended.
+		</section>
+	</text>
+	<history>2018, cc. 851, 852; 2019, c. 612; 2023, cc. 24, 25; 2025, cc. 374, 381, 622.</history>
+</law>

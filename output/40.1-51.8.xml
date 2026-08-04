@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3.1" level="2">Boiler and Pressure Vessel Safety Act</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>40.1-51.8</section_number>
+	<catch_line>Exemptions</catch_line>
+	<text>
+		The provisions of this article shall not apply to any of the following:
+		<section prefix="1">Boilers or unfired pressure vessels owned or operated by the federal government or any agency thereof;
+		</section>
+		<section prefix="2">Boilers or fired or unfired pressure vessels used in or on the property of private residences or apartment houses of less than four apartments;
+		</section>
+		<section prefix="3">Boilers of railroad companies maintained on railborne vehicles or those used to propel waterborne vessels;
+		</section>
+		<section prefix="4">Hobby or model boilers as defined in § 40.1-51.19:1;
+		</section>
+		<section prefix="5">Hot water supply boilers, water heaters, and unfired pressure vessels used as hot water supply storage tanks heated by steam or any other indirect means when the following limitations are not exceeded:
+			a. A heat input of 200,000 British thermal units per hour;
+			b. A water temperature of 210° Fahrenheit;
+			c. A water-containing capacity of 120 gallons;
+		</section>
+		<section prefix="6">Unfired pressure vessels containing air only which are located on vehicles or vessels designed and used primarily for transporting passengers or freight;
+		</section>
+		<section prefix="7">Unfired pressure vessels containing air only, installed on the right-of-way of railroads and used directly in the operation of trains;
+		</section>
+		<section prefix="8">Unfired pressure vessels used for containing water under pressure when either of the following are not exceeded:
+			a. A design pressure of 300 psi; or
+			b. A design temperature of 210° Fahrenheit;
+		</section>
+		<section prefix="9">Unfired pressure vessels containing water in combination with air pressure, the compression of which serves only as a cushion, that do not exceed:
+			a. A design pressure of 300 psi;
+			b. A design temperature of 210° Fahrenheit; or
+			c. A water-containing capacity of 120 gallons;
+		</section>
+		<section prefix="10">Unfired pressure vessels containing air only, providing the volume does not exceed eight cubic feet nor the operating pressure is not greater than 175 pounds;
+		</section>
+		<section prefix="11">Unfired pressure vessels having an operating pressure not exceeding fifteen pounds with no limitation on size;
+		</section>
+		<section prefix="12">Pressure vessels that do not exceed:
+			a. Five cubic feet in volume and 250 pounds per square inch gauge pressure;
+			b. One and one-half cubic feet in volume and 600 pounds per square inch gauge pressure; and
+			c. An inside diameter of six inches with no limitations on gauge pressure;
+		</section>
+		<section prefix="13">Pressure vessels used for transportation or storage of compressed gases when constructed in compliance with the specifications of the United States Department of Transportation and when charged with gas marked, maintained, and periodically requalified for use, as required by appropriate regulations of the United States Department of Transportation;
+		</section>
+		<section prefix="14">Stationary American Society of Mechanical Engineers (ASME) LP-Gas containers used exclusively in propane service with a capacity that does not exceed 2,000 gallons if the owner of the container or the owner's servicing agent:
+			a. Conducts an inspection of the container not less frequently than every five years, in which all visible parts of the container, including insulation or coating, structural attachments, and vessel connections, are inspected for corrosion, distortion, cracking, evidence of leakage, fire damage, or other condition indicating impairment;
+			b. Maintains a record of the most recent inspection of the container conducted in accordance with subdivision a; and
+			c. Makes the records required to be maintained in accordance with subdivision b available for inspection by the Commissioner;
+		</section>
+		<section prefix="15">Unfired pressure vessels used in and as a part of electric substations owned or operated by an electric utility, provided such electric substation is enclosed, locked, and inaccessible to the public; or
+		</section>
+		<section prefix="16">Coil type hot water boilers without any steam space where water flashes into steam when released through a manually operated nozzle, unless steam is generated within the coil or unless one of the following limitations is exceeded:
+			a. Three-fourths inch diameter tubing or pipe size with no drums or headers attached;
+			b. Nominal water containing capacity not exceeding six gallons; and
+			c. Water temperature not exceeding 350° Fahrenheit.
+		</section>
+	</text>
+	<history>1972, c. 237; 1977, c. 301; 1978, c. 355; 1986, c. 211; 1988, c. 289; 1990, c. 226; 1993, c. 543; 1999, c. 335; 2000, c. 898; 2012, c. 332; 2013, c. 171.</history>
+</law>

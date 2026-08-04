@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Taxation</unit>
+		<unit label="article" identifier="4" level="3">Computation of Tax Rate</unit>
+	</structure>
+	<section_number>60.2-530</section_number>
+	<catch_line>Benefit ratio</catch_line>
+	<text>
+		<section prefix="A">1. The "benefit ratio" of each employer for a given calendar year shall be the percentage, rounded to the nearest one-tenth of a percent, equal to the employer's benefit charges for the 12 consecutive calendar month period ending on June 30 immediately preceding that calendar year, divided by the total of his payroll for the same period except that:
+			a. For an employer whose account has been chargeable with benefit charges for 48 or more consecutive completed calendar months, the "benefit ratio" shall be the percentage, rounded to the nearest one-tenth of a percent, equal to the employer's benefit charges for the most recent 48 consecutive completed calendar month period ending on June 30 immediately preceding that calendar year, divided by the total of his payrolls for the same period;
+			b. For an employer whose account has been chargeable with benefit charges for 36 but less than 48 consecutive completed calendar months the "benefit ratio" shall be the percentage equal to the employer's benefit charges for the most recent 36 consecutive completed calendar month period ending on June 30 immediately preceding that calendar year divided by his payroll for the same period; and
+			c. For an employer whose account has been chargeable with benefit charges for 24 but less than 36 consecutive completed calendar months the "benefit ratio" shall be the percentage, rounded to the nearest one-tenth of a percent, equal to the employer's benefit charges for the most recent 24 consecutive completed calendar month period ending on June 30 immediately preceding that calendar year divided by his payroll for the same period.
+			<section prefix="2">The term "payroll" as used in this section means the greater of (i) the taxable payroll on which taxes have been paid on or before September 30 immediately following such June 30 or (ii) $1.
+			</section>
+		</section>
+		<section prefix="B">Where benefit charges are not available for any or all of the periods used to determine an employer's benefit ratio, benefit wages divided by three shall be used in lieu of benefit charges for those periods benefit charges are not available, in combination with benefit charges, where available to determine an employer's benefit ratio.
+		</section>
+	</text>
+	<history>Code 1950, § 60-70; 1954, c. 203; 1956, c. 440; 1960, c. 136; 1968, c. 738, § 60.1-82; 1977, c. 330; 1981, c. 606; 1986, c. 480; 2014, c. 191.</history>
+</law>

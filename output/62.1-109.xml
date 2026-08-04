@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="62.1" level="1">Waters of the State, Ports and Harbors</unit>
+		<unit label="chapter" identifier="8" level="2">Impoundment of Surface Waters</unit>
+	</structure>
+	<section_number>62.1-109</section_number>
+	<catch_line>Board to examine petition and report to court</catch_line>
+	<text>
+		Upon receipt of a copy of any such petition the Board shall examine the same and report thereon to the court upon the following matters:
+		<section prefix="1">The average flow of the stream at the point from which water for storage will be taken.
+		</section>
+		<section prefix="2">Whether the proposed project conflicts with any other proposed or likely developments on the watershed.
+		</section>
+		<section prefix="3">The effect of the proposed impoundment on pollution abatement to be evidenced by a certified statement together with such other relevant comments as the Board desires to make.
+		</section>
+		<section prefix="4">Any other relevant matters which the Board desires to place before the court.
+		</section>
+	</text>
+	<history>Code 1950, § 62-94.6; 1956, c. 632; 1968, c. 659; 1977, c. 26.</history>
+</law>

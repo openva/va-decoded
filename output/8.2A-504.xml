@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2A" level="1">Commercial Code — Leases</unit>
+		<unit label="part" identifier="5" level="2">Default</unit>
+		<unit label="article" identifier="A" level="3">In General</unit>
+	</structure>
+	<section_number>8.2A-504</section_number>
+	<catch_line>Liquidation of damages</catch_line>
+	<text>
+		<section prefix="1">Damages payable by either party for default, or any other act or omission, including indemnity for loss or diminution of anticipated tax benefits or loss or damage to lessor's residual interest, may be liquidated in the lease agreement but only at an amount or by a formula that is reasonable in light of the then anticipated harm caused by the default or other act or omission.
+		</section>
+		<section prefix="2">If the lease agreement provides for liquidation of damages, and such provision does not comply with subsection (1) of this section, or such provision is an exclusive or limited remedy that circumstances cause to fail of its essential purpose, remedy may be had as provided in this title.
+		</section>
+		<section prefix="3">If the lessor justifiably withholds or stops delivery of goods because of the lessee's default or insolvency, under § 8.2A-525 or § 8.2A-526, the lessee is entitled to restitution of any amount by which the sum of his or her payments exceeds:
+			<section prefix="a">The amount to which the lessor is entitled by virtue of terms liquidating the lessor's damages in accordance with subsection (1) of this section; or
+			</section>
+			<section prefix="b">In the absence of those terms, twenty percent of the then present value of the total rent the lessee was obligated to pay for the balance of the lease term, or, in the case of a consumer lease, the lesser of such amount or $500.
+			</section>
+		</section>
+		<section prefix="4">A lessee's right to restitution under subsection (3) of this section is subject to offset to the extent the lessor establishes:
+			<section prefix="a">A right to recover damages under the provisions of this Article other than subsection (1) of this section; and
+			</section>
+			<section prefix="b">The amount or value of any benefits received by the lessee directly or indirectly by reason of the lease contract.
+			</section>
+		</section>
+	</text>
+	<history>1991, c. 536.</history>
+</law>

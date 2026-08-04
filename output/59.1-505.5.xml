@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="5" level="3">Transfer of Interests and Rights</unit>
+	</structure>
+	<section_number>59.1-505.5</section_number>
+	<catch_line>Performance by delegate; subcontract</catch_line>
+	<text>
+		<section prefix="a">A party may perform its contractual duties or exercise its contractual rights through a delegate or a subcontract unless:
+			<section prefix="1">the contract prohibits delegation or subcontracting; or
+			</section>
+			<section prefix="2">the other party has a substantial interest in having the original promisor perform or control the performance.
+			</section>
+		</section>
+		<section prefix="b">Delegating or subcontracting performance does not relieve the delegating party of a duty to perform or of liability for breach.
+		</section>
+		<section prefix="c">An attempted delegation that violates a term prohibiting delegation is not effective.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

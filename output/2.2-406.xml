@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-406</section_number>
+	<catch_line>Secretary of Commonwealth to report list of interim appointments requiring confirmation; other appointments</catch_line>
+	<text>
+		<section prefix="A">The Secretary of the Commonwealth shall periodically, during the interim between sessions of the General Assembly, present to the chairmen of the Senate and House Committees on Privileges and Elections a list of the names of all persons appointed by the Governor that require confirmation by the General Assembly. A list shall be presented by June 1, August 1, October 1, and December 1, and shall include the names of all persons so appointed since adjournment or since the last required report, the position to which appointed, and the person whom the appointee will succeed.
+		</section>
+		<section prefix="B">The Secretary of the Commonwealth shall report to the General Assembly by December 1 of each year, the number of persons appointed to any state board, commission, agency or authority, categorized by race, gender and national origin. Information on the race, gender and national origin of appointees shall be obtained through voluntary self-identification following appointment. Such information shall be used solely for the purpose of compiling the statistical information required under this section and any personally identifiable information collected under this section shall be confidential and shall be exempt from disclosure under the Freedom of Information Act (§ 2.2-3700 et seq.).
+		</section>
+	</text>
+	<history>1994, c. 846, § 2.1-42.3; 1995, c. 579; 2001, c. 844.</history>
+</law>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-404</section_number>
+	<catch_line>Certifying records for use in other states</catch_line>
+	<text>
+		Whenever any record of any court in the Commonwealth or of any department of the government is to be used in another state in the United States, the Secretary of the Commonwealth shall authenticate the same in the manner and give the certificates required by the laws of the state when such record is to be used, as far as practicable.
+	</text>
+	<history>Code 1950, § 2-61; 1966, c. 677, § 2.1-69; 2001, c. 844.</history>
+</law>

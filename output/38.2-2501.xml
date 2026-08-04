@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="25" level="2">Mutual Assessment Property and Casualty Insurers</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-2501</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter:
+		"Mutual assessment insurance" means property and casualty insurance written by an insurer which has a right to assess its members for contributions and which is licensed pursuant to this chapter.
+		"Mutual assessment property and casualty insurer" means a company without capital stock that writes only mutual assessment insurance insuring property located in or protecting against losses of members who are residents of this Commonwealth.
+	</text>
+	<history>Code 1950, §§ 38-523, 38-526, 38-529; 1952, c. 317, § 38.1-659; 1954, c. 161; 1960, c. 292; 1962, c. 172; 1974, c. 244; 1986, c. 562.</history>
+</law>

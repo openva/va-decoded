@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="4.1" level="1">Alcoholic Beverage and Cannabis Control</unit>
+		<unit label="subtitle" identifier="I" level="2">Alcoholic Beverage Control Act</unit>
+		<unit label="chapter" identifier="5" level="3">Beer Franchise Act</unit>
+	</structure>
+	<section_number>4.1-502</section_number>
+	<catch_line>No inducement or coercion</catch_line>
+	<text>
+		No brewery shall:
+		<section prefix="1">Induce or coerce, or attempt to induce or coerce, any beer wholesaler to accept delivery of any beer or any other commodity which has not been ordered by the beer wholesaler.
+		</section>
+		<section prefix="2">Induce or coerce, or attempt to induce or coerce, any beer wholesaler to do any illegal act by any means including, but not limited to, threatening to amend, cancel, terminate, or refuse to renew any agreement existing between a brewery and beer wholesaler.
+		</section>
+		<section prefix="3">Require a beer wholesaler to assent to any condition, stipulation or provision limiting the wholesaler in his right to sell the product of any other brewery anywhere in the Commonwealth.
+		</section>
+	</text>
+	<history>1978, c. 579, § 4-118.5; 1993, c. 866.</history>
+</law>

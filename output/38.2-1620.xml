@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="16" level="2">Virginia Property and Casualty Insurance Guaranty Association</unit>
+		<unit label="article" identifier="2" level="3">Additional Funds Paid to Association</unit>
+	</structure>
+	<section_number>38.2-1620</section_number>
+	<catch_line>Financing the safety fund, maximum amount, distribution of excess</catch_line>
+	<text>
+		<section prefix="A">The safety fund, at the discretion of the Commission, shall receive penalty payments levied against member insurers made pursuant to subsection B of § 38.2-225 or any other payments approved by the Commission. Such payments shall include funds borrowed under the provisions of subdivision B 7 of § 38.2-1606 in the event of a natural disaster in order to provide for the prompt payment of covered claims and expenses related thereto.
+		</section>
+		<section prefix="B">The Commission may approve the payment of funds to the Association provided the balance in the safety fund account does not exceed two percent of the total of all member insurers' net direct written premiums for classes of insurance covered by the accounts specified in § 38.2-1604.
+		</section>
+		<section prefix="C">Except as provided in subsection D of this section, investment income earned on assets held in the safety fund shall be credited to the safety fund.
+		</section>
+		<section prefix="D">In the event the safety fund balance exceeds three percent of the net written premium for all classes of insurance covered by the accounts specified in § 38.2-1604, at the discretion of the Commission the difference shall be paid to the state treasury to the credit of the Literary Fund or shall be subject to subsection F of § 38.2-1622.
+		</section>
+		<section prefix="E">In the event the fund is dissolved, remaining assets in the safety fund will be distributed to the state treasury to the credit of the Literary Fund.
+		</section>
+	</text>
+	<history>1986, c. 562; 1998, c. 230.</history>
+</law>

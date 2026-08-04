@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="6" level="5">Ethics in Public Contracting</unit>
+	</structure>
+	<section_number>2.2-4375</section_number>
+	<catch_line>Certification of compliance required; penalty for false statements</catch_line>
+	<text>
+		<section prefix="A">Public bodies may require public employees having official responsibility for procurement transactions in which they participated to annually submit for such transactions a written certification that they complied with the provisions of this article.
+		</section>
+		<section prefix="B">Any public employee required to submit a certification as provided in subsection A who knowingly makes a false statement in the certification shall be punished as provided in § 2.2-4377.
+		</section>
+	</text>
+	<history>1992, c. 761, § 11-79.1; 2001, c. 844.</history>
+</law>

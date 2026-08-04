@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="15" level="3">Appraisal Rights and Other Remedies</unit>
+	</structure>
+	<section_number>13.1-737</section_number>
+	<catch_line>Payment</catch_line>
+	<text>
+		<section prefix="A">Except as provided in § 13.1-738, within 30 days after the form required by subsection B 2 b of § 13.1-734 is due, the corporation shall pay in cash to those shareholders who complied with subsection A of § 13.1-735.1 the amount the corporation estimates to be the fair value of their shares plus interest.
+		</section>
+		<section prefix="B">The payment to each shareholder pursuant to subsection A shall be accompanied by:
+			<section prefix="1">The (i) annual financial statements specified in subsection A of § 13.1-774 of the corporation that issued the shares to be appraised, which shall be as of a date ending not more than 16 months before the date of payment and shall comply with subsection B of § 13.1-774; provided that, if such annual financial statements are not available, the corporation shall provide reasonably equivalent financial information, and (ii) the latest available quarterly financial statements of such corporation, if any;
+			</section>
+			<section prefix="2">A statement of the corporation's estimate of the fair value of the shares, which estimate shall equal or exceed the corporation's estimate given pursuant to subdivision B 2 c of § 13.1-734; and
+			</section>
+			<section prefix="3">A statement that shareholders described in subsection A have the right to demand further payment under § 13.1-739 and that if any such shareholder does not do so within the time period specified in subsection B of § 13.1-739, such shareholder shall be deemed to have accepted such payment under subsection A in full satisfaction of the corporation's obligations under this article.
+			</section>
+		</section>
+		<section prefix="C">A public corporation, or a corporation that ceased to be a public corporation as a result of the corporate action specified in subsection A of § 13.1-730, may fulfill its responsibilities under subdivision B 1 by delivering the specified financial statements, or otherwise making them available, in any manner permitted by the applicable rules and regulations of the U.S. Securities and Exchange Commission if the corporation was a public corporation as of the date of the specified financial statements.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-85, 13.1-75, 13.1-78; 1956, c. 428; 1968, c. 733; 1972, c. 425; 1975, c. 500; 1984, c. 613; 1985, c. 522; 2005, c. 765; 2007, c. 165; 2012, c. 706; 2019, c. 734.</history>
+</law>

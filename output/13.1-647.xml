@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Shares and Distributions</unit>
+	</structure>
+	<section_number>13.1-647</section_number>
+	<catch_line>Form and content of certificates evidencing shares</catch_line>
+	<text>
+		<section prefix="A">Shares may but need not be represented by certificates. Unless this chapter or another statute expressly provides otherwise, the rights and obligations of shareholders are identical regardless of whether their shares are represented by certificates.
+		</section>
+		<section prefix="B">At a minimum each share certificate shall state on its face:
+			<section prefix="1">The name of the corporation and that it is organized under the law of the Commonwealth;
+			</section>
+			<section prefix="2">The name of the person to whom issued; and
+			</section>
+			<section prefix="3">The number and class of shares and the designation of the series, if any, the certificate represents.
+			</section>
+		</section>
+		<section prefix="C">If the corporation is authorized to issue different classes of shares or series of shares within a class, (i) the designations, rights, preferences, and limitations applicable to each class and series; (ii) any variations in rights, preferences, and limitations among the holders of the same class or series; and (iii) the authority of the board of directors to determine variations for future series shall be summarized on the front or back of each certificate for shares of such class or series. Alternatively, each certificate may state conspicuously on its front or back that the corporation will furnish the shareholder this information on request in writing and without charge.
+		</section>
+		<section prefix="D">Each share certificate shall be signed by two officers, who may be the same individual, designated in the bylaws or by the board of directors. Unless otherwise provided in the articles of incorporation or bylaws, any or all of the signatures on the certificate may be facsimile.
+		</section>
+		<section prefix="E">If the person who signed a share certificate no longer holds office when the certificate is issued, the certificate is nevertheless valid.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-20; 1956, c. 428; 1958, c. 564; 1972, c. 580; 1984, c. 613; 1985, c. 522; 1986, c. 623; 1990, c. 227; 2005, c. 765; 2019, c. 734.</history>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="3" level="3">Enforcement</unit>
+	</structure>
+	<section_number>20-146.34</section_number>
+	<catch_line>Recognition and enforcement</catch_line>
+	<text>
+		A court of this Commonwealth shall accord full faith and credit to an order issued by another state and consistent with this act that enforces a child custody determination by a court of another state unless the order has been vacated, stayed, or modified by a court having jurisdiction to do so under Article 2 (§ 20-146.12 et seq.) of this chapter.
+	</text>
+	<history>2001, c. 305.</history>
+</law>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="III" level="2">Professions and Occupations Regulated by Boards Within the Department of Health Professions</unit>
+		<unit label="chapter" identifier="34" level="3">Drug Control Act</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>54.1-3408.02</section_number>
+	<catch_line>Transmission of prescriptions</catch_line>
+	<text>
+		<section prefix="A">Consistent with federal law and in accordance with regulations promulgated by the Board, prescriptions may be transmitted to a pharmacy as an electronic prescription or by facsimile machine and shall be treated as valid original prescriptions.
+		</section>
+		<section prefix="B">Any prescription for a controlled substance that contains an opioid shall be issued as an electronic prescription.
+		</section>
+		<section prefix="C">The requirements of subsection B shall not apply if:
+			<section prefix="1">The prescriber dispenses the controlled substance that contains an opioid directly to the patient or the patient's agent;
+			</section>
+			<section prefix="2">The prescription is for an individual who is residing in a hospital, assisted living facility, nursing home, or residential health care facility or is receiving services from a hospice provider or outpatient dialysis facility;
+			</section>
+			<section prefix="3">The prescriber experiences temporary technological or electrical failure or other temporary extenuating circumstance that prevents the prescription from being transmitted electronically, provided that the prescriber documents the reason for this exception in the patient's medical record;
+			</section>
+			<section prefix="4">The prescriber issues a prescription to be dispensed by a pharmacy located on federal property, provided that the prescriber documents the reason for this exception in the patient's medical record;
+			</section>
+			<section prefix="5">The prescription is issued by a licensed veterinarian for the treatment of an animal;
+			</section>
+			<section prefix="6">The FDA requires the prescription to contain elements that are not able to be included in an electronic prescription;
+			</section>
+			<section prefix="7">The prescription is for an opioid under a research protocol;
+			</section>
+			<section prefix="8">The prescription is issued in accordance with an executive order of the Governor of a declared emergency;
+			</section>
+			<section prefix="9">The prescription cannot be issued electronically in a timely manner and the patient's condition is at risk, provided that the prescriber documents the reason for this exception in the patient's medical record; or
+			</section>
+			<section prefix="10">The prescriber has been issued a waiver pursuant to subsection D.
+			</section>
+		</section>
+		<section prefix="D">The licensing health regulatory board of a prescriber may grant such prescriber, in accordance with regulations adopted by such board, a waiver of the requirements of subsection B, for a period not to exceed one year, due to demonstrated economic hardship, technological limitations that are not reasonably within the control of the prescriber, or other exceptional circumstances demonstrated by the prescriber.
+		</section>
+	</text>
+	<history>2000, c. 878; 2017, cc. 115, 429; 2019, c. 664.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="13" level="2">Programs, Courses of Instruction and Textbooks</unit>
+		<unit label="article" identifier="1" level="3">Programs and Courses of Instruction Generally</unit>
+	</structure>
+	<section_number>22.1-207.2:2</section_number>
+	<catch_line>School Breakfast Program and National School Lunch Program; applications</catch_line>
+	<text>
+		<section prefix="A">Each local school board that collects information to determine eligibility for participation in the School Breakfast Program or the National School Lunch Program administered by the U.S. Department of Agriculture shall establish and post prominently on its website a web-based application for student participation in such program and shall continue to provide a paper-based application.
+		</section>
+		<section prefix="B">Each public elementary or secondary school shall process each web-based or paper-based application for participation in the School Breakfast Program or the National School Lunch Program administered by the U.S. Department of Agriculture within six working days after the date of receipt of the completed application.
+		</section>
+	</text>
+	<history>2019, c. 228; 2022, c. 424.</history>
+</law>

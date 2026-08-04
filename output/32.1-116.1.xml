@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="4" level="2">Health Care Planning</unit>
+		<unit label="article" identifier="3.1" level="3">Emergency Medical Services Patient Care Information System</unit>
+	</structure>
+	<section_number>32.1-116.1</section_number>
+	<catch_line>Prehospital patient care reporting procedure; trauma registry; confidentiality</catch_line>
+	<text>
+		<section prefix="A">In order to collect data on the incidence, severity, and cause of trauma; integrate the information available from other state agencies on trauma; improve the delivery of prehospital and hospital emergency medical services, the quality of patient care, and access to medical services; and make other system improvements, there is hereby established the Emergency Medical Services Patient Care Information System. The Emergency Medical Services Patient Care Information System shall include the Virginia Emergency Medical Services (EMS) Registry and the Virginia Statewide Trauma Registry.
+		</section>
+		<section prefix="B">All licensed emergency medical services agencies shall participate in the Virginia EMS Registry by making available to the Commissioner or his designees the minimum data set in the format prescribed by the Board or any other format which contain equivalent information and meets any technical specifications of the Board. The minimum data set shall include, but not be limited to, the type of medical emergency or nature of the call, the response time, the treatment provided and other items as prescribed by the Board.
+			Each licensed emergency medical services agency shall, upon request, disclose the prehospital care report to law-enforcement officials (i) when the patient is the victim of a crime or (ii) when the patient is in the custody of the law-enforcement officials and has received emergency medical services or has refused emergency medical services.
+			The Commissioner may delegate the responsibility for collection of this data to the Office of Emergency Medical Services personnel or individuals under contract to the Office. The Advisory Board shall assist in the design, implementation, subsequent revisions and analyses of the data from the Virginia EMS Registry.
+		</section>
+		<section prefix="C">All licensed hospitals which render emergency medical services shall participate in the Virginia Statewide Trauma Registry by making available to the Commissioner or his designees abstracts of the records of all patients admitted to the institutions with diagnoses related to trauma. The abstracts shall be submitted in the format prescribed by the Department and shall include the minimum data set prescribed by the Board. Such abstracts shall also be provided to regional emergency medical services councils upon request, for uses limited to monitoring and improving the quality of emergency medical services pursuant to § 32.1-111.3.
+			The Commissioner shall seek the advice and assistance of the Advisory Board and the Trauma System Oversight and Management Committee in the design, implementation, subsequent revisions and analyses of the Virginia Statewide Trauma Registry.
+		</section>
+		<section prefix="D">Patient and other data or information submitted to the trauma registry or transmitted to the Commissioner, the Advisory Board, any committee acting on behalf of the Advisory Board, any hospital or prehospital care provider, any regional emergency medical services council, permitted emergency medical services agency, or other group or committee for the purpose of monitoring and improving the quality of care pursuant to § 32.1-111.3, shall be privileged and shall not be disclosed or obtained by legal discovery proceedings, unless disclosure is made in accordance with § 32.1-116.2 or a circuit court, after a hearing and for good cause shown arising from extraordinary circumstances, orders disclosure of such data.
+		</section>
+		<section prefix="E">The Commissioner shall make available and share all information contained in the Virginia Statewide Trauma Registry with the Department for Aging and Rehabilitative Services so that the Department may develop and implement programs and services for persons suffering from brain injuries and spinal cord injuries.
+		</section>
+	</text>
+	<history>1987, c. 480; 2002, cc. 568, 658; 2003, c. 471; 2006, c. 412; 2007, c. 13; 2008, c. 563; 2012, cc. 402, 803, 835; 2018, c. 195; 2020, c. 883.</history>
+</law>

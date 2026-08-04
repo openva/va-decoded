@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="44" level="4">Virginia Security for Public Deposits Act</unit>
+	</structure>
+	<section_number>2.2-4408</section_number>
+	<catch_line>Authority to make public deposits</catch_line>
+	<text>
+		<section prefix="A">All public depositors are hereby authorized to make public deposits under their control in qualified public depositories, securing such public deposits pursuant to this chapter.
+		</section>
+		<section prefix="B">Local officials handling public deposits in the Commonwealth may not require from a qualified public depository any pledge of collateral for their deposits in excess of the requirements of this chapter.
+		</section>
+	</text>
+	<history>1973, c. 172, § 2.1-367; 1980, c. 538, § 2.1-234.5; 1998, cc. 20, 21; 2001, c. 844; 2010, cc. 640, 674.</history>
+</law>

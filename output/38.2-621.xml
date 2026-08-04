@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="6" level="2">Insurance Information and Privacy Protection</unit>
+		<unit label="article" identifier="2" level="3">Insurance Data Security Act</unit>
+	</structure>
+	<section_number>38.2-621</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article:
+		"Authorized person" means a person known to and authorized by the licensee and determined to be necessary and appropriate to have access to the nonpublic information held by the licensee and its information systems.
+		"Consumer" means an individual, including applicants, policyholders, insureds, beneficiaries, claimants, and certificate holders, who is a resident of the Commonwealth and whose nonpublic information is in the possession, custody, or control of a licensee or an authorized person.
+		"Cybersecurity event" means an event resulting in unauthorized access to, disruption of, or misuse of an information system or nonpublic information in the possession, custody, or control of a licensee or an authorized person. "Cybersecurity event" does not include (i) the unauthorized acquisition of encrypted nonpublic information if the encryption, process, or key is not also acquired, released, or used without authorization or (ii) an event in which the licensee has determined that the nonpublic information accessed by an unauthorized person has not been used or released and has been returned or destroyed.
+		"Encrypted" means the transformation of data into a form that results in a low probability of assigning meaning without the use of a protective process or key.
+		"HIPAA" means the federal Health Insurance Portability and Accountability Act (42 U.S.C. § 1320d et seq.).
+		"Home state" means the jurisdiction in which the producer maintains its principal place of residence or principal place of business and is licensed by that jurisdiction to act as a resident insurance producer.
+		"Information security program" means the administrative, technical, and physical safeguards that a licensee uses to access, collect, distribute, process, protect, store, use, transmit, dispose of, or otherwise handle nonpublic information.
+		"Information system" means a discrete set of electronic information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of electronic information, as well as any specialized system such as industrial or process control systems, telephone switching and private branch exchange systems, and environmental control systems.
+		"Insurance-support organization" has the same meaning as provided in § 38.2-602.
+		"Licensee" means any person licensed, authorized to operate, or registered, or required to be licensed, authorized, or registered pursuant to the insurance laws of the Commonwealth. "Licensee" does not include a purchasing group or a risk retention group chartered and licensed in a state other than the Commonwealth or a person that is acting as an assuming insurer that is domiciled in another state or jurisdiction.
+		"Nonpublic information" means information that is not publicly available information and is:
+		<section prefix="1">Business-related information of a licensee the tampering with which, or the unauthorized disclosure, access, or use of which, would cause a material adverse impact to the business, operations, or security of the licensee;
+		</section>
+		<section prefix="2">Any information concerning a consumer that because of name, number, personal mark, or other identifier can be used to identify such consumer, in any combination with a consumer's (i) social security number; (ii) driver's license number or nondriver identification card number; (iii) financial account, credit card, or debit card number; (iv) security code, access code, or password that would permit access to a consumer's financial account; (v) passport number; (vi) military identification number; or (vii) biometric records; or
+		</section>
+		<section prefix="3">Any information or data, except age or gender, in any form or medium created by or derived from a health care provider or a consumer that can be used to identify a particular consumer, and that relates to (i) the past, present, or future physical, mental, or behavioral health or condition of any consumer or a member of the consumer's family; (i) the provision of health care to any consumer; or (iii) payment for the provision of health care to any consumer.
+			"Nonpublic information" does not include a consumer's personally identifiable information that has been anonymized using a method no less secure than the safe harbor method under HIPAA.
+			"Person" means any individual or any nongovernmental entity, including any nongovernmental partnership, corporation, branch, agency, or association.
+			"Publicly available information" means any information that a licensee has a reasonable basis to believe is lawfully made available to the general public from federal, state, or local government records; widely distributed media; or disclosures to the general public that are required to be made by federal, state, or local law. A licensee has a reasonable basis to believe that information is lawfully made available to the general public if the licensee has taken steps to determine (i) that the information is of the type that is available to the general public and (ii) whether a consumer can direct that the information not be made available to the general public and, if so, that such consumer has not done so.
+			"Third-party service provider" means (i) a person, not otherwise defined as a licensee, that contracts with a licensee to maintain, process, or store nonpublic information, or otherwise is permitted access to nonpublic information through its provision of services to the licensee or (ii) an insurance-support organization.
+		</section>
+	</text>
+	<history>2020, c. 264.</history>
+</law>

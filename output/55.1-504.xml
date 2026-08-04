@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="5" level="3">Commutation and Valuation of Certain Estates and Interests</unit>
+	</structure>
+	<section_number>55.1-504</section_number>
+	<catch_line>Makehamized mortality table</catch_line>
+	<text>
+		When more than two parties as joint tenants for life, or three or more parties as tenants in successive estates, are entitled to the annual interest on a sum of money, or are entitled to the use of any estate, or a part thereof, and are willing to accept a gross sum in lieu thereof, or the party liable for such interest, or affected by such claim, has the right to pay a gross sum in lieu thereof, or if the court in any legal proceeding orders a gross sum to be paid in lieu thereof, the sum shall be estimated according to the then value of an annuity of eight percent on the principal sum during the probable lives of such persons. Probable lives shall be computed from the Makehamized mortality table for total population in the United States, 1969-1971, published by the Bureau of the Census of the Department of Commerce.
+		Example: Three persons, ages 30, 40, and 45, are joint tenants for life in the whole of an estate worth $10,500: the equivalent equal age, w, of these three persons is given by the following formula:
+		C30, C40, and C45 are found in column 6 of the above table.
+		A linear interpolation between x = 40 and x = 41 in the above table would yield the value of x = 40.540, which would be the equivalent equal age of the persons involved.
+		Finally, a linear interpolation between x = 40 and x = 41 would yield the value of A = 9.378 40.540:40.540:40.540.
+		This figure multiplied by $840 (the interest at eight percent on $10,500) gives $7,877.52 as the gross value of the joint life estate of such persons.
+	</text>
+	<history>1946, p. 557; Michie Suppl. 1946, § 5133a3; Code 1950, § 55-274; 1973, c. 355; 1981, c. 612; 2019, c. 712.</history>
+</law>

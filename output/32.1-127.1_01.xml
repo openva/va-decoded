@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="1" level="3">Hospital and Nursing Home Licensure and Inspection</unit>
+	</structure>
+	<section_number>32.1-127.1:01</section_number>
+	<catch_line>Record storage</catch_line>
+	<text>
+		<section prefix="A">Health records, as defined in § 32.1-127.1:03, may be stored by computerized or other electronic process or microfilm, or other photographic, mechanical, or chemical process; however, the stored record shall identify the location of any documents or information that could not be so technologically stored. If the technological storage process creates an unalterable record, the nursing facility, hospital or other licensed health care provider shall not be required to maintain paper copies of health records that have been stored by computerized or other electronic process, microfilm, or other photographic, mechanical, or chemical process. Upon completing such technological storage, paper copies of health records may be destroyed in a manner that preserves the patient's confidentiality. However, any documents or information that could not be so technologically stored shall be preserved.
+		</section>
+		<section prefix="B">Notwithstanding the authority of this section to copy health records in the form of microfilm, prescription dispensing records maintained in or on behalf of any pharmacy registered or permitted in Virginia shall only be stored in compliance with §§ 54.1-3410, 54.1-3411, and 54.1-3412.
+		</section>
+	</text>
+	<history>1994, c. 390; 1998, c. 470; 2012, c. 336.</history>
+</law>

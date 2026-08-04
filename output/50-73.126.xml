@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="9" level="3">Conversions and Mergers</unit>
+	</structure>
+	<section_number>50-73.126</section_number>
+	<catch_line>Conversion of limited partnership to partnership</catch_line>
+	<text>
+		<section prefix="A">A limited partnership may be converted to a partnership pursuant to this section.
+		</section>
+		<section prefix="B">Notwithstanding a provision to the contrary in a limited partnership agreement, the terms and conditions of a conversion of a limited partnership to a partnership shall be approved by all of the partners.
+		</section>
+		<section prefix="C">After the conversion is approved by the partners, the limited partnership shall cancel its certificate of limited partnership.
+		</section>
+		<section prefix="D">The conversion takes effect when the certificate of limited partnership is canceled.
+		</section>
+		<section prefix="E">A limited partner who becomes a general partner as a result of the conversion remains liable only as a limited partner for an obligation incurred by the limited partnership before the conversion takes effect. Subject to § 50-73.96, the partner is liable as a general partner for an obligation of the partnership incurred after the conversion takes effect.
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

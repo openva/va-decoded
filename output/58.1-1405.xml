@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Watercraft Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-1405</section_number>
+	<catch_line>Time for payment of tax</catch_line>
+	<text>
+		<section prefix="A">Except as provided in paragraph B of this section, the tax levied pursuant to this chapter shall be paid by the purchaser or user of such watercraft and collected by the Tax Commissioner at the time the owner is required to apply to the Department of Wildlife Resources for a title. Except as otherwise provided in § 58.1-1404, no title shall be issued unless the applicant for title shows to the satisfaction of the Department of Wildlife Resources that such tax has been paid.
+		</section>
+		<section prefix="B">The tax on the gross receipts from the lease or charter of watercraft shall be paid by the registered dealer collecting such receipts to the Commissioner on or before the twentieth day of each month following the month in which such receipts were collected.
+		</section>
+	</text>
+	<history>Code 1950, §§ 58-685.44, 58-685.46; 1981, c. 405; 1984, c. 675; 1997, c. 877; 2020, c. 958.</history>
+</law>

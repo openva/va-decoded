@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-409</section_number>
+	<catch_line>Secretary of the Commonwealth</catch_line>
+	<text>
+		<section prefix="A">The Secretary of the Commonwealth shall charge the following fees for services rendered in his office to be paid by the person for whom the service is rendered at the time it is done:
+			And for filing in his office any paper required by law to be filed, the same fee as is allowed by law for recording similar papers.
+		</section>
+		<section prefix="B">Notwithstanding any other provision of law, the Secretary shall charge a technology fee of $10 in addition to the fees set out in subsection A for commissioning of a notary public or electronic notary public, which funds shall be deposited into the Secretary of the Commonwealth's Technology Trust Fund established by the comptroller and used only to obtain and update office automation and information technology equipment including software and conversion services; to preserve, maintain, and enhance records, including but not limited to the costs of repairs, maintenance, service contracts, and system upgrades; and to improve public access to records. There shall be no transfers out of the fund, including transfers to the general fund.
+		</section>
+	</text>
+	<history>Code 1950, § 14-114; 1964, c. 386, § 14.1-103; 1966, c. 272; 1976, c. 559; 1979, c. 14; 1984, c. 362; 1987, cc. 449, 459; 1998, cc. 259, 872, § 2.1-71.2; 2001, c. 844; 2007, cc. 269, 362, 590.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>20-88.33</section_number>
+	<catch_line>Tribunals of the Commonwealth and support enforcement agency</catch_line>
+	<text>
+		<section prefix="A">The juvenile and domestic relations district courts, circuit courts, and the Department of Social Services are the tribunals of the Commonwealth.
+		</section>
+		<section prefix="B">The Department of Social Services is the support enforcement agency of the Commonwealth.
+		</section>
+	</text>
+	<history>1994, c. 673; 2005, c. 754; 2015, c. 727.</history>
+</law>

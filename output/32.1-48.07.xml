@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="3.02" level="3">Quarantine and Isolation of Persons With Communicable Diseases of Public Health Threat</unit>
+	</structure>
+	<section_number>32.1-48.07</section_number>
+	<catch_line>Conditions for invoking the provisions of this article</catch_line>
+	<text>
+		<section prefix="A">Prior to issuing any order of quarantine or any order of isolation pursuant to this article, the State Health Commissioner shall ensure that:
+			<section prefix="1">Any quarantine or isolation is implemented in the least restrictive environment necessary to contain the communicable disease of public health threat;
+			</section>
+			<section prefix="2">Any quarantined persons shall be confined separately from any isolated persons, to the maximum extent practicable;
+			</section>
+			<section prefix="3">Upon determining that any quarantined person can be reasonably believed to have become infected with a communicable disease of public health threat, the infected person shall be promptly removed from quarantine and placed in isolation;
+			</section>
+			<section prefix="4">The health and disease status of any quarantined and isolated persons shall be monitored regularly to determine if such persons require continued quarantine or isolation;
+			</section>
+			<section prefix="5">Any quarantined or isolated persons shall be immediately released from quarantine or isolation upon a determination by the State Health Commissioner that such quarantined or isolated persons pose no risk of transmitting the communicable disease of public health threat to other persons; and
+			</section>
+			<section prefix="6">The site of any quarantine or isolation shall be, to the extent practicable, safely and hygienically maintained with adequate food, clothing, health care, and other essential needs made available to the persons who are subject to any order of quarantine or isolation.
+			</section>
+		</section>
+		<section prefix="B">All persons subject to an order of quarantine or an order of isolation shall comply with the order and the conditions governing their quarantine or isolation.
+		</section>
+		<section prefix="C">In the case of any person who has been quarantined or isolated in a location other than a medical care facility, the State Health Commissioner shall authorize health care professionals to enter the premises of quarantine or isolation. No person, other than such authorized health care professionals, shall enter the premises of quarantine or isolation, unless authorized by the State Health Commissioner. Upon determining that any person, who has entered the premises of quarantine or isolation, poses a threat to public health and safety, the State Health Commissioner may quarantine or isolate such person.
+		</section>
+	</text>
+	<history>2004, cc. 773, 1021.</history>
+</law>

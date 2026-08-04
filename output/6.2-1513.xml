@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="15" level="3">Consumer Finance Companies</unit>
+	</structure>
+	<section_number>6.2-1513</section_number>
+	<catch_line>Record and notice of revocation or suspension</catch_line>
+	<text>
+		Whenever the Commission revokes or suspends a license issued pursuant to this chapter, it shall:
+		<section prefix="1">Enter an order to that effect, which order shall set forth its findings;
+		</section>
+		<section prefix="2">Compile a record containing (i) a summary of the evidence, (ii) the findings with respect thereto, (iii) the order, and (iv) the reasons supporting the revocation or suspension; and
+		</section>
+		<section prefix="3">Serve a copy of the order upon the licensee.
+		</section>
+	</text>
+	<history>Code 1950, § 6-292; 1966, c. 584, § 6.1-262; 2010, c. 794.</history>
+</law>

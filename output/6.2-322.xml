@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="3" level="3">Interest and Usury</unit>
+		<unit label="article" identifier="4" level="4">Loans Exempt From Limit on Contract Rate of Interest</unit>
+	</structure>
+	<section_number>6.2-322</section_number>
+	<catch_line>Extensions of credit on pledged securities</catch_line>
+	<text>
+		A broker-dealer licensed by the Commission and registered with the Securities Exchange Commission who extends credit to a customer on pledged securities as permitted under the provisions of the Securities Exchange Act of 1934, may charge the customer, on his debit balances that are payable on demand, interest at a annual rate that does not exceed one and three-quarters percent above the higher of:
+		<section prefix="1">The interest rate charged such broker-dealer by a bank doing business in the Commonwealth on loans collateralized by securities; or
+		</section>
+		<section prefix="2">The interest rate charged such broker-dealer by a bank doing business in the Commonwealth on loans for business purposes.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.65; 2010, c. 794.</history>
+</law>

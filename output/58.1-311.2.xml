@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>58.1-311.2</section_number>
+	<catch_line>Final determination date</catch_line>
+	<text>
+		As used in § 58.1-311, "final determination date" means:
+		<section prefix="1">Except as provided in subdivisions 1 and 2, if the federal adjustment arises from an Internal Revenue Service audit or other action by the Internal Revenue Service, the final determination date is the first day on which no federal adjustments arising from that audit or other action remain to be finally determined, whether by Internal Revenue Service decision with respect to which all rights of appeal have been waived or exhausted, by agreement, or, if appealed or contested, by a final decision with respect to which all rights of appeal have been waived or exhausted. For agreements required to be signed by the Internal Revenue Service and the taxpayer, the final determination date is the date on which the last party signed the agreement.
+		</section>
+		<section prefix="2">For federal adjustments arising from an Internal Revenue Service audit or other action by the Internal Revenue Service, if the taxpayer filed as a member of a combined or consolidated return under § 58.1-442, the final determination date means the first day on which no related federal adjustments arising from that audit remain to be finally determined, as described in subdivision 1, for the entire group.
+		</section>
+		<section prefix="3">If the federal adjustment results from filing an amended federal return, a federal refund claim, or an administrative adjustment request, as that term is used in § 58.1-396, or if it is a federal adjustment reported on an amended federal return or other similar report filed pursuant to § 6225(c) of the Internal Revenue Code, the final determination date means the day on which the amended return, refund claim, administrative adjustment request, or other similar report was filed.
+		</section>
+	</text>
+	<history>2020, c. 1030.</history>
+</law>

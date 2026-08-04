@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="14" level="2">Pupils</unit>
+		<unit label="article" identifier="1" level="3">Compulsory School Attendance</unit>
+	</structure>
+	<section_number>22.1-260</section_number>
+	<catch_line>Reports of children enrolled and not enrolled; nonattendance</catch_line>
+	<text>
+		<section prefix="A">Within 10 days after the opening of the school, each public school principal shall report to the division superintendent:
+			<section prefix="1">The name, age and grade of each student enrolled in the school, and the name and address of the student's parent or guardian; and
+			</section>
+			<section prefix="2">To the best of the principal's information, the name of each child subject to the provisions of this article who is not enrolled in school, with the name and address of the child's parent or guardian.
+			</section>
+		</section>
+		<section prefix="B">At the end of each school year, each public school principal shall report to the division superintendent the number of students by grade level for whom a conference was scheduled as required by § 22.1-258. The division superintendent shall compile such grade level information for the division and provide such information to the Superintendent of Public Instruction annually.
+		</section>
+	</text>
+	<history>Code 1950, §§ 22-275.8, 22-275.9; 1959, Ex. Sess., c. 72; 1980, c. 559; 1987, c. 374; 1988, c. 163; 1999, c. 526; 2003, c. 637; 2015, cc. 372, 666.</history>
+</law>

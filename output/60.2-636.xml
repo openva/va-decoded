@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="6" level="2">Benefits</unit>
+		<unit label="article" identifier="6" level="3">Violations, Penalties, and Liabilities</unit>
+	</structure>
+	<section_number>60.2-636</section_number>
+	<catch_line>Penalty for fraudulent claim</catch_line>
+	<text>
+		<section prefix="A">Any person who has been disqualified for benefits under subdivision 4 of § 60.2-618 and who, because of those same acts or omissions, has received any sum as benefits under this title to which the person is not entitled shall be assessed a penalty in an amount equal to 15 percent of the amount of the payment to which the person was not entitled. All penalties collected by the Commission shall be paid into the state treasury and credited to the clearing account of the Fund established pursuant to § 60.2-300. The penalty applies to an erroneous payment made under any state program providing for the payment of unemployment compensation as well as an erroneous payment made under any federal program providing for the payment of unemployment compensation. The notice of determination or decision advising the person that benefits have been denied or adjusted pursuant to subdivision 4 of § 60.2-618 shall include the reason for the finding of an erroneous payment, the penalty amount assessed under this section, and the reason the penalty has been applied.
+		</section>
+		<section prefix="B">The amount of the penalty assessed pursuant to this section may be collected in any manner allowed for the recovery of the erroneous payment. When a recovery with respect to an erroneous payment is made, any recovery shall be applied first to the principal of the erroneous payment, then to the penalty amount imposed under this section, and finally to any other amounts due.
+		</section>
+	</text>
+	<history>2013, c. 771.</history>
+</law>

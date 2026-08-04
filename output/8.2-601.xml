@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="6" level="2">Breach, Repudiation and Excuse</unit>
+	</structure>
+	<section_number>8.2-601</section_number>
+	<catch_line>Buyer's rights on improper delivery</catch_line>
+	<text>
+		Subject to the provisions of this title on breach in installment contracts (§ 8.2-612) and unless otherwise agreed under the sections on contractual limitations of remedy (§§ 8.2-718 and 8.2-719), if the goods or the tender of delivery fail in any respect to conform to the contract, the buyer may
+		<section prefix="a">reject the whole; or
+		</section>
+		<section prefix="b">accept the whole; or
+		</section>
+		<section prefix="c">accept any commercial unit or units and reject the rest.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

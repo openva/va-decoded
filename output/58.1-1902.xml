@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="19" level="3">Worker Misclassification</unit>
+	</structure>
+	<section_number>58.1-1902</section_number>
+	<catch_line>Debarment; civil penalty</catch_line>
+	<text>
+		<section prefix="A">Whenever the Department determines that an employer failed to properly classify an individual as an employee under the provisions of § 58.1-1900, the Department shall notify such employer of the determination. This notification shall serve as an action by the Department with respect to debarment that allows the employer to apply for relief pursuant to §§ 58.1-1821 and 58.1-1825.
+		</section>
+		<section prefix="B">Upon an employer's subsequent violations of subsection A, and after all rights of administrative and judicial appeals have been exhausted or the time period for bringing such appeals has expired, the Department shall provide notice to all public bodies and covered institutions of the name of such employer. Public bodies and covered institutions shall not award a contract to such employer or to any firm, corporation, or partnership in which the employer has an interest in the following manner:
+			<section prefix="1">For a period of up to one year, as determined by the Department, from the date of the notice provided pursuant to this subsection for a second offense.
+			</section>
+			<section prefix="2">For a period of up to three years, as determined by the Department, from the date of the notice provided pursuant to this subsection for a third or subsequent offense.
+			</section>
+		</section>
+	</text>
+	<history>2020, cc. 681, 682; 2023, cc. 518, 519.</history>
+</law>

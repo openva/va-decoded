@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="5" level="3">Transfer of Interests and Rights</unit>
+	</structure>
+	<section_number>59.1-505.1</section_number>
+	<catch_line>Ownership of informational rights</catch_line>
+	<text>
+		<section prefix="a">If an agreement provides for conveyance of ownership of informational rights in a computer program, ownership passes at the time and place specified by the agreement but does not pass until the program is in existence and identified to the contract. If the agreement does not specify a different time, ownership passes when the program and the informational rights are in existence and identified to the contract.
+		</section>
+		<section prefix="b">Transfer of a copy does not transfer ownership of informational rights.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

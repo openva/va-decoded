@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="3" level="2">Provisions Relating to Insurance Policies and Contracts</unit>
+	</structure>
+	<section_number>38.2-302</section_number>
+	<catch_line>Life, accident, and sickness insurance; application required</catch_line>
+	<text>
+		<section prefix="A">No contract of insurance upon a person shall be made or effectuated unless at the time of the making of the contract the individual insured, being of lawful age and competent to contract for the insurance contract, (i) applies for insurance or (ii) consents in writing to the insurance contract. However:
+			<section prefix="1">Either spouse may effect an insurance contract upon each other;
+			</section>
+			<section prefix="2">Any person having an insurable interest in the life of a minor, or any person upon whom a minor is dependent for support and maintenance, may effect an insurance contract upon the life of or pertaining to the minor; or
+			</section>
+			<section prefix="3">A corporate employer or an employee benefit trust having the insurable interest described in subdivision B 3 of § 38.2-301 may effect an insurance contract upon the lives of such employees, provided that the employer or trust provides the employee with notice in writing that such insurance has been purchased, the amount of such coverage, and to whom benefits are payable in the event of the employee's death.
+			</section>
+		</section>
+		<section prefix="B">Nothing in this section shall prohibit a minor from obtaining insurance on his own life as authorized in § 38.2-3105.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-330; 1986, c. 562; 1988, c. 831; 1993, c. 105; 2020, c. 900.</history>
+</law>

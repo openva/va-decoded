@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="5" level="2">Filing</unit>
+		<unit label="subpart" identifier="1" level="3">Filing Office, Contents and Effectiveness of Financing Statement</unit>
+	</structure>
+	<section_number>8.9A-512</section_number>
+	<catch_line>Amendment of financing statement</catch_line>
+	<text>
+		<section prefix="a">Amendment of information in financing statement. Subject to § 8.9A-509, a person may add or delete collateral covered by, continue or terminate the effectiveness of, or, subject to subsection (e), otherwise amend the information provided in, a financing statement by filing an amendment that:
+			<section prefix="1">identifies, by its file number, the initial financing statement to which the amendment relates; and
+			</section>
+			<section prefix="2">if the amendment relates to an initial financing statement filed or recorded in a filing office described in § 8.9A-501 (a) (1), provides the information specified in § 8.9A-502 (b).
+			</section>
+		</section>
+		<section prefix="b">Period of effectiveness not affected. Except as otherwise provided in § 8.9A-515, the filing of an amendment does not extend the period of effectiveness of the financing statement.
+		</section>
+		<section prefix="c">Effectiveness of amendment adding collateral. A financing statement that is amended by an amendment that adds collateral is effective as to the added collateral only from the date of the filing of the amendment.
+		</section>
+		<section prefix="d">Effectiveness of amendment adding debtor. A financing statement that is amended by an amendment that adds a debtor is effective as to the added debtor only from the date of the filing of the amendment.
+		</section>
+		<section prefix="e">Certain amendments ineffective. An amendment is ineffective to the extent it:
+			<section prefix="1">purports to delete all debtors and fails to provide the name of a debtor to be covered by the financing statement; or
+			</section>
+			<section prefix="2">purports to delete all secured parties of record and fails to provide the name of a new secured party of record.
+			</section>
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-402; 1966, c. 649; 1973, c. 509; 1976, c. 536; 1977, c. 539; 1978, cc. 284, 285; 1982, c. 652; 1999, c. 96; 2000, c. 1007.</history>
+</law>

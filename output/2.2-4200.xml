@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="42" level="4">Fair Employment Contracting Act</unit>
+	</structure>
+	<section_number>2.2-4200</section_number>
+	<catch_line>Declaration of policy; discrimination prohibited in awarding contracts; definitions</catch_line>
+	<text>
+		<section prefix="A">It is declared to be the policy of the Commonwealth to eliminate all discrimination on account of race, color, religion, sex, sexual orientation, gender identity, or national origin from the employment practices of the Commonwealth, its agencies, and government contractors.
+		</section>
+		<section prefix="B">In the awarding of contracts, contracting agencies shall not engage in an unlawful discriminatory practice as defined in § 2.2-3901.
+		</section>
+		<section prefix="C">As used in this chapter, unless the context requires a different meaning:
+			"Agency" means any agency or instrumentality, corporate or otherwise, of the government of the Commonwealth.
+			"Contractor" means any individual, partnership, corporation, or association that performs services for or supplies goods, materials, or equipment to the Commonwealth or any agency thereof.
+		</section>
+	</text>
+	<history>1975, c. 626, §§ 2.1-374, 2.1-375, 2.1-376.1; 2001, cc. 45, 844; 2020, c. 1137.</history>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="10" level="4">Liability of Trustees and Rights of Persons Dealing With Trustee</unit>
+	</structure>
+	<section_number>64.2-802</section_number>
+	<catch_line>Interest as general partner</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection C or unless personal liability is imposed in the contract, a trustee who holds an interest as a general partner in a general or limited partnership is not personally liable on a contract entered into by the partnership after the trust's acquisition of the interest if the fiduciary capacity was disclosed in the contract or in a statement previously filed pursuant to the Uniform Partnership Act (§ 50-73.79 et seq.).
+		</section>
+		<section prefix="B">Except as otherwise provided in subsection C, a trustee who holds an interest as a general partner is not personally liable for torts committed by the partnership or for obligations arising from ownership or control of the interest unless the trustee is personally at fault.
+		</section>
+		<section prefix="C">The immunity provided by this section does not apply if an interest in the partnership is held by the trustee in a capacity other than that of trustee or is held by the trustee's spouse or one or more of the trustee's descendants, siblings, or parents, or the spouse of any of them.
+		</section>
+		<section prefix="D">If the trustee of a revocable trust holds an interest as a general partner, the settlor is personally liable for contracts and other obligations of the partnership as if the settlor were a general partner.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-550.11; 2012, c. 614.</history>
+</law>

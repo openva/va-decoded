@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="8" level="2">Postmortem Examinations and Services</unit>
+		<unit label="article" identifier="2" level="3">Anatomical Gifts</unit>
+	</structure>
+	<section_number>32.1-291.19</section_number>
+	<catch_line>Law governing validity; choice of law as to execution of document of gift; presumption of validity</catch_line>
+	<text>
+		<section prefix="A">A document of gift is valid if executed in accordance with:
+			<section prefix="1">This Act;
+			</section>
+			<section prefix="2">The laws of the state or country where it was executed; or
+			</section>
+			<section prefix="3">The laws of the state or country where the person making the anatomical gift was domiciled, has a place of residence, or was a national at the time the document of gift was executed.
+			</section>
+		</section>
+		<section prefix="B">If a document of gift is valid under this section, the law of this state governs the interpretation of the document of gift.
+		</section>
+		<section prefix="C">A person may presume that a document of gift or amendment of an anatomical gift is valid unless that person knows that it was not validly executed or was revoked.
+		</section>
+	</text>
+	<history>2007, cc. 92, 907.</history>
+</law>

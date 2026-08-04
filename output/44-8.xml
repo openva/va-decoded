@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="2" level="3">General Administrative Officers</unit>
+	</structure>
+	<section_number>44-8</section_number>
+	<catch_line>Governor as Commander in Chief</catch_line>
+	<text>
+		The Governor shall be Commander in Chief of the armed forces of the Commonwealth, and shall have power to employ such forces to repel invasion, suppress insurrection, and enforce the execution of the laws.
+	</text>
+	<history>1930, p. 950; Michie Code 1942, § 2673(8); R. P. 1948, § 44-8; 1958, c. 393; 1964, c. 227.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="9" level="3">Statewide Cancer Registry</unit>
+	</structure>
+	<section_number>32.1-71.02</section_number>
+	<catch_line>Notification of cancer patients of statewide cancer registry reporting</catch_line>
+	<text>
+		<section prefix="A">Any physician diagnosing a malignant tumor or cancer shall, at such time and in such manner as considered appropriate by such physician, notify each patient whose name and record abstract is required to be reported to the statewide cancer registry pursuant to § 32.1-70 that personal identifying information about him has been included in the registry as required by law. Any physician required to so notify a patient that personal identifying information about him has been included in the cancer registry may, when, in the opinion of the physician, such notice would be injurious to the patient's health or well-being, provide the required notice to the patient's authorized representative or next of kin in lieu of notifying the patient.
+		</section>
+		<section prefix="B">Upon request to the statewide cancer registry, the patient whose personal identifying information has been submitted to such registry shall have a right to know the identity of the reporter of his information to such registry.
+		</section>
+	</text>
+	<history>2000, c. 918; 2003, cc. 540, 548.</history>
+</law>

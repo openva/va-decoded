@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.3</section_number>
+	<catch_line>Associated members</catch_line>
+	<text>
+		<section prefix="A">Only a member of a series limited liability company may be an associated member of a protected series of the series limited liability company.
+		</section>
+		<section prefix="B">A member of a series limited liability company becomes an associated member of a protected series of the series limited liability company if the operating agreement or a procedure established by the operating agreement states:
+			<section prefix="1">That the member is an associated member of the protected series;
+			</section>
+			<section prefix="2">The date on which the member became an associated member; and
+			</section>
+			<section prefix="3">Any protected series membership interest the associated member has in connection with becoming or being an associated member.
+			</section>
+		</section>
+		<section prefix="C">If a person that is an associated member of a protected series of a series limited liability company is dissociated from the series limited liability company, the person ceases to be an associated member of the protected series.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

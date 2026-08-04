@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.2" level="4">Uniform Directed Trust Act</unit>
+	</structure>
+	<section_number>64.2-779.32</section_number>
+	<catch_line>Duty and liability of directed trustee</catch_line>
+	<text>
+		<section prefix="A">Subject to subsection B, a directed trustee shall take reasonable action to comply with a trust director's exercise or nonexercise of a power of direction or further power under subdivision B 1 of § 64.2-779.29, and the trustee is not liable for the action.
+		</section>
+		<section prefix="B">A directed trustee must not comply with a trust director's exercise or nonexercise of a power of direction or further power under subdivision B 1 of § 64.2-779.29 to the extent that by complying the trustee would engage in willful misconduct.
+		</section>
+		<section prefix="C">An exercise of a power of direction under which a trust director may release a trustee or another trust director from liability for breach of trust is not effective if:
+			<section prefix="1">The breach involved the trustee's or other trust director's willful misconduct;
+			</section>
+			<section prefix="2">The release was induced by improper conduct of the trustee or other trust director in procuring that release; or
+			</section>
+			<section prefix="3">At the time of the release, the trust director did not know the material facts relating to the breach.
+			</section>
+		</section>
+		<section prefix="D">A directed trustee that has reasonable doubt about its duty under this section may petition the court for instructions.
+		</section>
+		<section prefix="E">The terms of a trust may impose a duty or liability on a directed trustee in addition to the duties and liabilities under this section.
+		</section>
+	</text>
+	<history>2020, c. 768.</history>
+</law>

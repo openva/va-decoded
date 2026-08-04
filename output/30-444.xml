@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="68" level="2">Virginia Minority Business Commission</unit>
+	</structure>
+	<section_number>30-444</section_number>
+	<catch_line>(Expires July 1, 2028) Powers and duties of the Commission</catch_line>
+	<text>
+		The Commission shall have the following powers and duties:
+		<section prefix="1">Evaluate the impact of existing statutes and proposed legislation on Virginia minority-owned businesses;
+		</section>
+		<section prefix="2">Assess current programs in the Commonwealth aimed at assisting minority-owned businesses and examine ways to enhance their effectiveness;
+		</section>
+		<section prefix="3">Provide minority business owners and advocates with a forum to address their concerns;
+		</section>
+		<section prefix="4">Develop strategies and recommendations to promote the growth and competitiveness of Virginia minority-owned businesses;
+		</section>
+		<section prefix="5">Collaborate with the Department of Small Business and Supplier Diversity and other appropriate entities to facilitate the Commission's work and mission; and
+		</section>
+		<section prefix="6">Perform such other duties, functions, and activities as may be necessary to facilitate and implement the objectives of this chapter.
+		</section>
+	</text>
+	<history>2024, c. 527.</history>
+</law>

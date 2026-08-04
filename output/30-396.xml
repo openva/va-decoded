@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="62" level="2">Virginia Redistricting Commission</unit>
+	</structure>
+	<section_number>30-396</section_number>
+	<catch_line>Public participation in redistricting process; publicly available data</catch_line>
+	<text>
+		<section prefix="A">All meetings and hearings held by the Commission shall be adequately advertised and planned to ensure the public is able to attend and participate fully. Meetings and hearings shall be advertised in multiple languages as practicable and appropriate.
+		</section>
+		<section prefix="B">Prior to proposing any plan for districts for the United States House of Representatives, the Senate, or the House of Delegates and prior to voting to submit such plans to the General Assembly, the Commission shall hold at least three public hearings in order to receive and consider comments from the public. Public hearings may be held virtually and any public hearings that are held in person shall be conducted in different parts of the Commonwealth.
+		</section>
+		<section prefix="C">The Commission shall establish and maintain a website or other equivalent electronic platform. The website shall be available to the general public and shall be used to disseminate information about the Commission's activities. The website shall be capable of receiving comments and proposals by citizens of the Commonwealth. Prior to voting on any proposed plan, the Commission shall publish the proposed plans on the website.
+		</section>
+		<section prefix="D">All data used by the Commission in the drawing of districts shall be available to the public on its website. Such data, including census data, precinct maps, election results, and shapefiles, shall be posted within three days of receipt by the Commission.
+		</section>
+		<section prefix="E">The block equivalency files and shapefiles for the congressional, senate, and House of Delegates districts established pursuant to this chapter and Article II, § 6-A of the Constitution of Virginia shall be maintained and available to the public on the Commission's website. Such block equivalency files and shapefiles shall be controlling in any legal determination of the boundary of a congressional, senate, or House of Delegates district.
+		</section>
+	</text>
+	<history>2020, Sp. Sess. I, c. 56; 2022, Sp. Sess. I, c. 1; 2023, c. 455.</history>
+</law>

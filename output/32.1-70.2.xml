@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="2" level="2">Disease Prevention and Control</unit>
+		<unit label="article" identifier="9" level="3">Statewide Cancer Registry</unit>
+	</structure>
+	<section_number>32.1-70.2</section_number>
+	<catch_line>Collection of cancer case information by the Commissioner</catch_line>
+	<text>
+		<section prefix="A">Using such funds as may be appropriated therefor, the Commissioner or his designee may perform on-site data collection of the records of patients having malignant tumors or cancers at those consenting hospitals, clinics, independent pathology laboratories and physician offices required to report information of such patients pursuant to the reporting requirements of § 32.1-70, in order to ensure the completeness and accuracy of the statewide cancer registry.
+		</section>
+		<section prefix="B">The selection criteria for determining which consenting hospitals, clinics, independent pathology laboratories and physician offices may be subject to on-site data collection under the provisions of this section shall include, but shall not be limited to: (i) expected annual number of cancer case reports, (ii) historical completeness and accuracy of reporting rates, and (iii) whether the facility maintains its own cancer registry.
+		</section>
+		<section prefix="C">The Board of Health shall promulgate regulations necessary to implement the provisions of this section.
+		</section>
+	</text>
+	<history>2000, cc. 74, 139.</history>
+</law>

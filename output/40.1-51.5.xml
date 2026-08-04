@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3.1" level="2">Boiler and Pressure Vessel Safety Act</unit>
+		<unit label="article" identifier="1" level="3">In General</unit>
+	</structure>
+	<section_number>40.1-51.5</section_number>
+	<catch_line>Short title; definitions</catch_line>
+	<text>
+		As used in this chapter, which may be cited as the Boiler and Pressure Vessel Safety Act, the following terms shall have the meanings set forth in this section unless the context requires a different meaning:
+		<section prefix="a">"Boiler" means a closed vessel in which water is heated, steam is generated, steam is superheated, or any combination thereof, under pressure or vacuum for use externally to itself by the direct application of heat from the combustion of fuels, or from electricity or nuclear energy. The term "boiler" shall include fired units for heating or vaporizing liquids other than water where these units are separate from processing systems and are complete within themselves.
+			<section prefix="1">"Power boiler" means a boiler in which steam or other vapor is generated at a pressure of more than fifteen pounds per square inch gauge pressure.
+			</section>
+			<section prefix="2">"High pressure, high temperature water boiler" means a water boiler operating at pressures exceeding 160 pounds per square inch gauge pressure or temperatures exceeding 250 degrees Fahrenheit.
+			</section>
+			<section prefix="3">"Heating boiler" means a steam or vapor boiler operating at pressures not exceeding 15 pounds per square inch gauge pressure, or a hot water boiler operating at pressures not exceeding 160 pounds per square inch gauge pressure or temperature not exceeding 250 degrees Fahrenheit.
+				means a vessel in which the pressure is obtained from an external source or by the application of heat from an indirect source or from a direct source, other than those vessels defined in subdivision (a) of this section.
+			</section>
+		</section>
+		<section prefix="c">"Certificate inspection" means an inspection, the report of which is used by the Chief Inspector to decide whether or not a certificate as provided by § 40.1-51.10 may be issued. This certificate inspection shall be an internal inspection when construction permits; otherwise, it shall be as complete an inspection as possible.
+		</section>
+		<section prefix="d">"Board" means the Safety and Health Codes Board.
+		</section>
+		<section prefix="e">"Owner-user inspection agency" means any person, firm, partnership or corporation registered with the Chief Inspector and approved by the Board as being legally responsible for inspecting pressure vessels which they operate in Virginia.
+		</section>
+		<section prefix="f">"Examining Board" means persons appointed by the Chief Inspector to monitor examinations of inspectors.
+		</section>
+		<section prefix="g">"Water heater" means a vessel used to supply (i) potable hot water or (ii) both space heat and potable water in combination which is directly heated by the combustion of fuels, by electricity or any other source and withdrawn for use external to the system at pressures not to exceed 160 pounds per square inch, or temperatures of 210 degrees Fahrenheit.
+		</section>
+		<section prefix="h">"Contract fee inspector" means any certified boiler inspector contracted to inspect boilers or pressure vessels on an independent basis by the owner or operator of the boiler or pressure vessel.
+		</section>
+	</text>
+	<history>1972, c. 237; 1974, c. 195; 1986, c. 211; 1993, c. 543; 1996, c. 294.</history>
+</law>

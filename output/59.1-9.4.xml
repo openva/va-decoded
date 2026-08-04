@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="1.1" level="2">Virginia Antitrust Act</unit>
+	</structure>
+	<section_number>59.1-9.4</section_number>
+	<catch_line>Certain activities not prohibited</catch_line>
+	<text>
+		<section prefix="A">No provision of this chapter shall be construed to make illegal:
+			<section prefix="1">The activities of any labor or professional organization or of individual members thereof that are directed solely to labor or professional objectives legitimate under the laws of the Commonwealth or the United States.
+			</section>
+			<section prefix="2">The activities of any agricultural or horticultural cooperative organization, or of individual members thereof, to the extent necessary to achieve the aims of the enacted laws of either the Commonwealth or the United States.
+			</section>
+			<section prefix="3">The bona fide religious and charitable activities of any nonprofit corporation, trust or organization established exclusively for religious or charitable purposes.
+			</section>
+		</section>
+		<section prefix="B">Nothing contained in this chapter shall make unlawful conduct that is authorized, regulated or approved (i) by a statute of the Commonwealth or (ii) by an administrative or constitutionally established agency of the Commonwealth or of the United States having jurisdiction of the subject matter and having authority to consider the anticompetitive effect, if any, of such conduct. Nothing in this subsection shall be construed to alter or terminate any other applicable limitation, exemption or exclusion.
+		</section>
+	</text>
+	<history>1974, c. 545; 1979, c. 640; 2018, c. 574.</history>
+</law>

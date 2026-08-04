@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="7" level="4">Allocation of Disbursements</unit>
+	</structure>
+	<section_number>64.2-1067</section_number>
+	<catch_line>Reimbursement of income from principal</catch_line>
+	<text>
+		<section prefix="A">If a fiduciary makes or expects to make an income disbursement described in subsection B, the fiduciary may transfer an appropriate amount from principal to income in one or more accounting periods to reimburse income.
+		</section>
+		<section prefix="B">To the extent the fiduciary has not been and does not expect to be reimbursed by a third party, income disbursements to which subsection A applies include:
+			<section prefix="1">An amount chargeable to principal but paid from income because principal is illiquid;
+			</section>
+			<section prefix="2">A disbursement made to prepare property for sale, including improvements and commissions; and
+			</section>
+			<section prefix="3">A disbursement described in subsection A of § 64.2-1065.
+			</section>
+		</section>
+		<section prefix="C">If an asset whose ownership gives rise to an income disbursement becomes subject to a successive interest after an income interest ends, the fiduciary may continue to make transfers under subsection A.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

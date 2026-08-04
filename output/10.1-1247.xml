@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="12.2" level="3">Uniform Environmental Covenants Act</unit>
+	</structure>
+	<section_number>10.1-1247</section_number>
+	<catch_line>Enforcement of environmental covenant</catch_line>
+	<text>
+		<section prefix="A">A civil action for injunctive or other equitable relief for violation of an environmental covenant may be maintained by:
+			<section prefix="1">A party to the covenant;
+			</section>
+			<section prefix="2">The agency or, if it is not the agency, the Department;
+			</section>
+			<section prefix="3">Any person to whom the covenant expressly grants power to enforce;
+			</section>
+			<section prefix="4">A person whose interest in the real property or whose collateral or liability may be affected by the alleged violation of the covenant; or
+			</section>
+			<section prefix="5">A municipality or other unit of local government in which the real property subject to the covenant is located.
+			</section>
+		</section>
+		<section prefix="B">This chapter does not limit the regulatory authority of the agency or the Department under law other than this chapter with respect to an environmental response project.
+		</section>
+		<section prefix="C">A person is not responsible for or subject to liability for environmental remediation solely because he has the right to enforce an environmental covenant.
+		</section>
+	</text>
+	<history>2010, c. 691.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="38.2" level="4">Digital Certification of Government Records</unit>
+	</structure>
+	<section_number>2.2-3817</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this section:
+		"Agency" means any authority, board, commission, council, department, instrumentality, institution, or other unit of state government located in the executive or legislative branch; independent agencies; and any county, city, or town, or other unit of local government, including constitutional officers, except circuit court clerks.
+		"Digital signature" means an electronic sound, symbol, or process attached to or logically associated with an electronic document and executed or adopted by a person with the intent to sign the document. A digital signature shall provide a means to authenticate an electronic record by confirming the agency as the disseminator of the document and shall provide both digital and visible assurance that the digital document has not been altered since it was signed by the custodian of the record at an agency.
+		"Digitally certified copy" means a copy of an electronic record created by an agency to which the agency has attached a digital signature.
+	</text>
+	<history>2017, c. 738.</history>
+</law>

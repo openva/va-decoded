@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="3.2" level="2">Division of Legislative Automated Systems</unit>
+	</structure>
+	<section_number>30-34.13</section_number>
+	<catch_line>General powers of Division</catch_line>
+	<text>
+		The Division shall have the following general powers:
+		<section prefix="1">To employ such personnel as may be required to carry out the purposes of this chapter.
+		</section>
+		<section prefix="2">To make and enter into all contracts and agreements necessary or incidental to the performance of its duties and the execution of its powers under this chapter, including, but not limited to, contracts with the United States, other states, and agencies and governmental subdivisions of Virginia.
+		</section>
+		<section prefix="3">To do all acts necessary or convenient to carry out the purposes of this chapter.
+		</section>
+	</text>
+	<history>1980, c. 725.</history>
+</law>

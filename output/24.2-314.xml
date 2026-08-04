@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="3" level="2">Election Districts, Precincts, and Polling Places</unit>
+		<unit label="article" identifier="5" level="3">Population Data</unit>
+	</structure>
+	<section_number>24.2-314</section_number>
+	<catch_line>Population data; reallocation of prison populations</catch_line>
+	<text>
+		<section prefix="A">Persons incarcerated in federal correctional facilities and in state and local correctional facilities, as those terms are defined in § 53.1-1, shall be counted and reallocated for redistricting and reapportionment purposes in accordance with the provisions of this section and the following:
+			<section prefix="1">A person incarcerated in a federal, state, or local correctional facility whose address at the time of incarceration was located within the Commonwealth shall be deemed to reside at such address.
+			</section>
+			<section prefix="2">A person incarcerated in a federal, state, or local correctional facility whose address at the time of incarceration was located outside of the Commonwealth or whose address at the time of incarceration cannot be determined shall be deemed to reside at the location of the facility in which he is incarcerated.
+			</section>
+		</section>
+		<section prefix="B">By July 1 of any year in which the decennial census is taken, the Department of Corrections and the State Board of Local and Regional Jails shall provide to the Division of Legislative Services, in a format specified by the Division of Legislative Services, the following information for each person who was incarcerated in a state or local correctional facility on April 1 of that year:
+			<section prefix="1">A unique identifier, other than his name or offender identification number, assigned by the Department of Corrections or the State Board of Local and Regional Jails for this purpose;
+			</section>
+			<section prefix="2">His residential street address at the time of incarceration, or other legal residence, if known;
+			</section>
+			<section prefix="3">His race, his ethnicity as identified by him, and whether he is 18 years of age or older; and
+			</section>
+			<section prefix="4">The street address of the correctional facility in which he was incarcerated on April 1 of that year.
+			</section>
+		</section>
+		<section prefix="C">The Division of Legislative Services shall request each agency operating a federal correctional facility in the Commonwealth that incarcerates persons convicted of a criminal offense to provide to the Division of Legislative Services by July 1 of any year in which the decennial census is taken a record containing the information specified in subsection B for each person who was incarcerated in the facility on April 1 of that year. Any person incarcerated in a federal correctional facility for whom a record is not received by the Division of Legislative Services shall be deemed to have an address at the time of incarceration that cannot be determined.
+		</section>
+		<section prefix="D">The Division of Legislative Services shall prepare adjusted population data, including race and ethnicity data, in a manner that reflects the inclusion of incarcerated persons in the population count of the locality in which he is deemed to reside pursuant to subdivision A 1 or 2.
+			This adjusted population data shall be used for purposes of redistricting and reapportionment and shall be the basis for congressional, state Senate, House of Delegates, and local government election districts. This adjusted population data shall not be used in the distribution of any federal or state aid.
+		</section>
+		<section prefix="E">The Division of Legislative Services shall make the adjusted population data available no later than 30 days following receipt of population data from the United States Bureau of the Census pursuant to P.L. 94-171. In making this data available, the Division of Legislative Services shall ensure no information regarding a specific incarcerated person's address at the time of incarceration is made public.
+		</section>
+	</text>
+	<history>2020, cc. 759, 1229, 1265.</history>
+</law>

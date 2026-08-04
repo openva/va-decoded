@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-406.1</section_number>
+	<catch_line>Secretary of Commonwealth to maintain and transfer records on collegial bodies to the Governor-elect</catch_line>
+	<text>
+		<section prefix="A">The Secretary of the Commonwealth shall maintain an electronic database of collegial bodies to which the Governor makes appointments. The database shall be organized by collegial body and include the following information:
+			<section prefix="1">Authority for each appointment;
+			</section>
+			<section prefix="2">Term length and term expiration dates for each appointee;
+			</section>
+			<section prefix="3">Eligibility requirements or other restrictions affecting the next appointment;
+			</section>
+			<section prefix="4">Name, address, and telephone number of each appointee;
+			</section>
+			<section prefix="5">Identity of the chairman and vice-chairman and the method of their election; and
+			</section>
+			<section prefix="6">Name of the affiliated agency or entity that provides staff support and the name and telephone number of the contact person within such agency or entity.
+			</section>
+		</section>
+		<section prefix="B">Agencies and entities of the Commonwealth that provide staff support to a collegial body shall notify the Secretary of the Commonwealth of an appointee's death or resignation and any changes to the contact information for an appointee or staff or a appointee's eligibility status.
+		</section>
+		<section prefix="C">The electronic database or copy thereof shall be transferred to each Governor-elect upon request.
+		</section>
+	</text>
+	<history>2003, cc. 532, 556.</history>
+</law>

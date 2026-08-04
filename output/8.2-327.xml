@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="3" level="2">General Obligation and Construction of Contract</unit>
+	</structure>
+	<section_number>8.2-327</section_number>
+	<catch_line>Special incidents of sale on approval and sale or return</catch_line>
+	<text>
+		<section prefix="1">Under a sale on approval unless otherwise agreed
+			<section prefix="a">although the goods are identified to the contract the risk of loss and the title do not pass to the buyer until acceptance; and
+			</section>
+			<section prefix="b">use of the goods consistent with the purpose of trial is not acceptance but failure seasonably to notify the seller of election to return the goods is acceptance, and if the goods conform to the contract acceptance of any part is acceptance of the whole; and
+			</section>
+			<section prefix="c">after due notification of election to return, the return is at the seller's risk and expense but a merchant buyer must follow any reasonable instructions.
+			</section>
+		</section>
+		<section prefix="2">Under a sale or return unless otherwise agreed
+			<section prefix="a">the option to return extends to the whole or any commercial unit of the goods while in substantially their original condition, but must be exercised seasonably; and
+			</section>
+			<section prefix="b">the return is at the buyer's risk and expense.
+			</section>
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

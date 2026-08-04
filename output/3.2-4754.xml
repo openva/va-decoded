@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="47" level="3">Sale of Farm Produce</unit>
+		<unit label="article" identifier="4" level="4">Dealers in Grain Products</unit>
+	</structure>
+	<section_number>3.2-4754</section_number>
+	<catch_line>License required; application for license or renewal</catch_line>
+	<text>
+		<section prefix="A">No person shall act as a grain dealer without first having obtained a license.
+		</section>
+		<section prefix="B">Every grain dealer proposing to transact business within the Commonwealth shall annually on or before January 1, file a written application for a license or for the renewal of a license with the Commissioner. The application shall be on a form furnished by the Commissioner and shall contain the following information and such other relevant information as the Commissioner shall require:
+			<section prefix="1">The name and address of the applicant and that of its local agent or agents, if any, and the location of its principal place of business within the Commonwealth;
+			</section>
+			<section prefix="2">The kinds of grain the applicant proposes to handle; and
+			</section>
+			<section prefix="3">The type of grain business proposed to be conducted.
+			</section>
+		</section>
+	</text>
+	<history>1972, c. 296, §§ 3.1-722.17, 3.1-722.18; 2008, c. 860.</history>
+</law>

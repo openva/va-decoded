@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Taxation</unit>
+		<unit label="article" identifier="2" level="3">Employer Reporting Requirements</unit>
+	</structure>
+	<section_number>60.2-518</section_number>
+	<catch_line>False statements, etc., by employing units; failure to furnish reports, etc</catch_line>
+	<text>
+		<section prefix="A">Any employing unit or any officer or agent of an employing unit or any other person shall be guilty of a Class 1 misdemeanor if it or he:
+			<section prefix="1">Makes a false statement or representation knowing it to be false, or who knowingly fails to disclose a material fact (i) to prevent or reduce the payment of benefits to any individual entitled thereto, (ii) to avoid becoming or remaining subject to this title or (iii) to avoid or reduce any tax or other payment required from an employing unit under this title; or
+			</section>
+			<section prefix="2">Willfully fails or refuses (i) to furnish any reports required by this title or (ii) to produce or permit the inspection or copying of records as required hereunder.
+			</section>
+		</section>
+		<section prefix="B">Each such false statement, representation or failure to disclose a material fact listed in this section, and each day of such failure or refusal shall constitute a separate offense.
+		</section>
+	</text>
+	<history>Code 1950, § 60-113; 1968, c. 738, § 60.1-130; 1986, c. 480.</history>
+</law>

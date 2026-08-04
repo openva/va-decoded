@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="21" level="3">Regulation of Property Carriers</unit>
+		<unit label="article" identifier="4" level="4">Household Goods Carriers</unit>
+	</structure>
+	<section_number>46.2-2158</section_number>
+	<catch_line>Bill of lading</catch_line>
+	<text>
+		<section prefix="A">A bill of lading shall be issued.
+		</section>
+		<section prefix="B">A bill of lading shall contain the following information:
+			<section prefix="1">Name, address and telephone number of the household goods carrier.
+			</section>
+			<section prefix="2">Agreed pick-up period of time, the actual pick-up date and agreed delivery date or the agreed period of time within which delivery of the shipment is expected at destination.
+			</section>
+			<section prefix="3">True copies of the gross and tare weight tickets shall be attached to the bill of lading as soon as such weight tickets are obtained. If the shipper is present at the weighing, he shall then be given a copy of the gross and tare weight tickets upon request, otherwise, he shall be given a copy thereof at destination upon request.
+			</section>
+			<section prefix="4">The number of the vehicle onto which the shipment is loaded.
+			</section>
+			<section prefix="5">Amount of charges and method of payment of total tariff charges.
+			</section>
+			<section prefix="6">Total amount required to be paid in cash, postal money order, traveler's check, cashier's check, bank treasurer's check, bank wire transfer, or approved credit card to relinquish possession of a C.O.D. shipment.
+			</section>
+		</section>
+	</text>
+	<history>2001, c. 596; 2006, c. 609.</history>
+</law>

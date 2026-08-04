@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1091</section_number>
+	<catch_line>Governing law</catch_line>
+	<text>
+		The law of the Commonwealth governs:
+		<section prefix="1">The internal affairs of a protected series of a series limited liability company, including:
+			a. Relations among any associated members of the protected series;
+			b. Relations among the protected series and (i) any associated member, (ii) the protected series manager, or (iii) any protected series assignee;
+			c. Relations between any associated member and (i) the protected series manager or (ii) any protected series assignee;
+			d. The rights and duties of a protected series manager;
+			e. Governance decisions affecting the activities and affairs of the protected series and the conduct of those activities and affairs; and
+			f. Procedures and conditions for becoming an associated member or protected series assignee;
+		</section>
+		<section prefix="2">The relations between a protected series of a series limited liability company and each of the following:
+			a. The series limited liability company;
+			b. Another protected series of the series limited liability company;
+			c. A member of the series limited liability company that is not an associated member of the protected series;
+			d. A protected series manager that is not a protected series manager of the protected series; and
+			e. A protected series assignee that is not a protected series assignee of the protected series;
+		</section>
+		<section prefix="3">The liability of a person for a debt, obligation, or other liability of a protected series of a series limited liability company if the debt, obligation, or liability is asserted solely by reason of the person being or acting as:
+			a. An associated member, protected series assignee, or protected series manager of the protected series;
+			b. A member of the series limited liability company that is not an associated member of the protected series;
+			c. A protected series manager that is not a protected series manager of the protected series;
+			d. A protected series assignee that is not a protected series assignee of the protected series;
+			e. A manager of the series limited liability company; or
+			f. An assignee of a membership interest of the series limited liability company;
+		</section>
+		<section prefix="4">The liability of a series limited liability company for a debt, obligation, or other liability of a protected series of the series limited liability company if the debt, obligation, or liability is asserted solely by reason of the series limited liability company:
+			a. Having a statement of protected series designation or a statement of designation change filed with the Commission;
+			b. Being or acting as a protected series manager of the protected series;
+			c. Having the protected series be or act as a manager of the series limited liability company; or
+			d. Owning a protected series assignable interest of the protected series; and
+		</section>
+		<section prefix="5">The liability of a protected series of a series limited liability company for a debt, obligation, or other liability of the series limited liability company or of another protected series of the series limited liability company if the debt, obligation, or liability is asserted solely by reason of:
+			a. The protected series:
+			<section prefix="1">Being a protected series of the series limited liability company or having as a protected series manager the series limited liability company or another protected series of the series limited liability company; or
+			</section>
+			<section prefix="2">Being or acting as a protected series manager of another protected series of the series limited liability company or a manager of the series limited liability company; or
+				b. The company owning a protected series membership interest of the protected series.
+			</section>
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

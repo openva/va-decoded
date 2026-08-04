@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="3" level="3">Limited Partners</unit>
+	</structure>
+	<section_number>50-73.22:1</section_number>
+	<catch_line>Admission of limited partners</catch_line>
+	<text>
+		<section prefix="A">A person becomes a limited partner on the later of:
+			<section prefix="1">The date the original certificate of limited partnership is filed; or
+			</section>
+			<section prefix="2">The date stated in the records of the limited partnership as the date that person becomes a limited partner.
+			</section>
+		</section>
+		<section prefix="B">After the filing of a limited partnership's initial certificate of limited partnership, a person may be admitted as an additional limited partner:
+			<section prefix="1">In the case of a person acquiring a partnership interest directly from the limited partnership, upon compliance with the partnership agreement or, if the partnership agreement does not so provide, upon the written consent of all partners; and
+			</section>
+			<section prefix="2">In the case of an assignee of a partnership interest of a partner who has the power, as provided in § 50-73.47, to grant the assignee the right to become a limited partner, upon the exercise of that power and compliance with any conditions limiting the grant or exercise of the power.
+			</section>
+		</section>
+	</text>
+	<history>1987, c. 702.</history>
+</law>

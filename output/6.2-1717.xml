@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="17" level="3">Mortgage Loan Originators</unit>
+	</structure>
+	<section_number>6.2-1717</section_number>
+	<catch_line>Filing of written report with Commissioner; events affecting a licensee</catch_line>
+	<text>
+		Within 15 days of becoming aware of the occurrence of any of the events listed below, a licensee shall file a written report with the Commissioner describing such event:
+		<section prefix="1">The institution of revocation or suspension proceedings against the licensee by any state or other governmental authority;
+		</section>
+		<section prefix="2">The denial of the opportunity to engage in business by any state or other governmental authority;
+		</section>
+		<section prefix="3">Any felony indictment of the licensee;
+		</section>
+		<section prefix="4">Any felony conviction of the licensee; and
+		</section>
+		<section prefix="5">Such other events as the Commission may determine and identify by regulation.
+		</section>
+	</text>
+	<history>2009, cc. 273, 453, § 6.1-431.18; 2010, c. 794.</history>
+</law>

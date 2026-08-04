@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="12.2" level="3">Conversion</unit>
+	</structure>
+	<section_number>13.1-722.11</section_number>
+	<catch_line>Action on plan of conversion</catch_line>
+	<text>
+		<section prefix="A">In the case of a conversion of a domestic corporation to a domestic or foreign eligible entity, the plan of conversion shall be adopted in the following manner:
+			<section prefix="1">The plan of conversion shall first be adopted by the board of directors.
+			</section>
+			<section prefix="2">After adopting the plan of conversion, the board of directors shall submit the plan to the shareholders for their approval. In submitting the plan of conversion to the shareholders for their approval, the board of directors shall recommend that the shareholders approve the plan unless the board of directors makes a determination that because of conflicts of interest or other special circumstances it should not make such a recommendation, in which case the board of directors shall inform the shareholders of the basis for that determination.
+			</section>
+			<section prefix="3">The board of directors may set conditions for approval of the plan of conversion by the shareholders or the effectiveness of the plan of conversion.
+			</section>
+			<section prefix="4">If the approval of the shareholders is to be sought at a shareholders meeting, the corporation shall notify each shareholder, regardless of whether entitled to vote, of the meeting of shareholders at which the plan of conversion is to be submitted for approval. The notice shall state that the purpose, or one of the purposes, of the meeting is to consider the plan of conversion and shall contain or be accompanied by a copy or summary of the plan. The notice must include or be accompanied by a copy of the organic rules of the converted entity, which are to be in writing as they will be in effect immediately after the conversion.
+			</section>
+			<section prefix="5">Unless the articles of incorporation or the board of directors acting pursuant to subdivision 3, requires a greater vote, approval of the plan of conversion requires (i) the approval of the shareholders at a meeting at which a quorum exists consisting of more than two thirds of the votes entitled to be cast on the plan and (ii) the approval of each class or series of shares voting as a separate voting group at a meeting at which a quorum of the voting group exists consisting of more than two thirds of the votes entitled to be cast on the plan by that voting group. The articles of incorporation may provide for a greater or lesser vote than that provided in this subsection or a vote by separate voting groups so long as the vote provided for is not less than a majority of all votes cast on the plan by each voting group entitled to vote on the plan at a meeting at which a quorum of the voting group exists.
+			</section>
+		</section>
+		<section prefix="B">In the case of a conversion of a domestic eligible entity to a domestic corporation, the plan of conversion shall be adopted in accordance with subsection B of § 13.1-722.9.
+		</section>
+		<section prefix="C">If as a result of the conversion one or more shareholders of the converting domestic corporation would become subject to interest holder liability, approval of the plan of conversion shall require the signing in connection with the transaction, by each such shareholder, of a separate written consent to become subject to such interest holder liability.
+		</section>
+	</text>
+	<history>2001, c. 545; 2002, c. 1; 2012, c. 130; 2016, c. 288; 2019, c. 734; 2020, c. 1226.</history>
+</law>

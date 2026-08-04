@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="6" level="2">Insurance Information and Privacy Protection</unit>
+		<unit label="article" identifier="2" level="3">Insurance Data Security Act</unit>
+	</structure>
+	<section_number>38.2-627</section_number>
+	<catch_line>Powers and duties of the Commission; exclusive state standards</catch_line>
+	<text>
+		<section prefix="A">The Commissioner may examine and investigate the affairs of any licensee to determine whether a licensee has been or is engaged in any conduct in violation of this article. This power is in addition to the powers that the Commissioner has under Article 4 of Chapter 13 (38.2-1300 et seq.) and Chapter 18 (38.2-1800 et seq.). Any such investigation or examination shall be conducted pursuant to Chapters 13 and 18.
+		</section>
+		<section prefix="B">Whenever the Commissioner has reason to believe that a licensee has been or is engaged in conduct in the Commonwealth that violates this article, the Commissioner may take action that is necessary or appropriate to enforce the provisions of this article.
+		</section>
+		<section prefix="C">The Commission may examine and investigate the affairs of any insurance-support organization that acts on behalf of an insurance institution or agent as defined in § 38.2-602 and that either (i) transacts business in the Commonwealth or (ii) transacts business outside the Commonwealth and has an effect on a person residing in the Commonwealth, in order to determine whether the insurance-support organization has been or is engaged in any conduct in violation of this article.
+		</section>
+		<section prefix="D">The Commission shall adopt rules and regulations implementing the provisions of this article.
+		</section>
+		<section prefix="E">This article and any rules adopted pursuant to this article establish the exclusive state standards applicable to licensees for data security, the security of nonpublic information, the investigation of cybersecurity events, and notification of cybersecurity events for those individuals and entities subject to this article.
+		</section>
+	</text>
+	<history>2020, c. 264.</history>
+</law>

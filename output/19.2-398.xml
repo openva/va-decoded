@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="25" level="2">Appeals by the Commonwealth</unit>
+	</structure>
+	<section_number>19.2-398</section_number>
+	<catch_line>When appeal by the Commonwealth allowed</catch_line>
+	<text>
+		<section prefix="A">In a felony case a pretrial appeal from a circuit court may be taken by the Commonwealth from:
+			<section prefix="1">An order of a circuit court dismissing a warrant, information or indictment, or any count or charge thereof on the ground that (i) the defendant was deprived of a speedy trial in violation of the provisions of the Sixth Amendment to the Constitution of the United States, Article I, Section 8 of the Constitution of Virginia, or § 19.2-243; or (ii) the defendant would be twice placed in jeopardy in violation of the provisions of the Fifth Amendment to the Constitution of the United States or Article I, Section 8 of the Constitution of Virginia; or
+			</section>
+			<section prefix="2">An order of a circuit court prohibiting the use of certain evidence at trial on the grounds such evidence was obtained in violation of the provisions of the Fourth, Fifth or Sixth Amendments to the Constitution of the United States or Article I, Section 8, 10 or 11 of the Constitution of Virginia prohibiting illegal searches and seizures and protecting rights against self-incrimination, provided the Commonwealth certifies that the appeal is not taken for purpose of delay and that the evidence is substantial proof of a fact material in the proceeding.
+			</section>
+		</section>
+		<section prefix="B">A petition for appeal may be taken by the Commonwealth in a felony case from any order of release on conditions pursuant to Article 1 (§ 19.2-119 et seq.) of Chapter 9 of this title.
+		</section>
+		<section prefix="C">A petition for appeal may be taken by the Commonwealth in a felony case after conviction where the sentence imposed by the circuit court is contrary to mandatory sentencing or restitution terms required by statute.
+		</section>
+		<section prefix="D">Nothing in this chapter shall affect the Commonwealth's right to appeal in civil matters or cases involving a violation of law relating to the state revenue or appeals pursuant to § 17.1-411 or subsection C of § 19.2-317.
+		</section>
+		<section prefix="E">A pretrial appeal may be taken in any criminal case from an order of a circuit court dismissing a warrant, information, summons, delinquency petition, or indictment, or any count or charge thereof, on the ground that a statute or local ordinance on which the order is based is unconstitutional.
+		</section>
+	</text>
+	<history>1985, c. 510; 1987, c. 710; 1998, c. 251; 1999, cc. 829, 846; 2002, cc. 611, 692; 2003, c. 109; 2005, cc. 622, 694; 2006, cc. 571, 876.</history>
+</law>

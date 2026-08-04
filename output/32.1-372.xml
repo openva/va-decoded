@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="19" level="2">Smartchart Network Program</unit>
+	</structure>
+	<section_number>32.1-372</section_number>
+	<catch_line>Smartchart Network Program established; purpose</catch_line>
+	<text>
+		<section prefix="A">The Smartchart Network Program (the Program) is hereby created to provide a single, statewide technology solution that connects all health care providers, insurance carriers, and other organizations with a treatment, payment, or operations relationship with a patient in the Commonwealth to facilitate real-time communication and collaboration and improve the quality of patient care services.
+		</section>
+		<section prefix="B">The Commissioner shall ensure that the Program:
+			<section prefix="1">Receives real-time patient visit information from, and shares such information with, every hospital in the Commonwealth through integrations that enable receiving information from and delivering information into electronic health records systems utilized by such hospitals;
+			</section>
+			<section prefix="2">Requires that all participants in the Program share patient information and have fully executed health care data exchange contracts to ensure the secure and reliable exchange of patient information in compliance with the patient privacy and security requirements of applicable state and federal laws and regulations, including the Health Insurance Portability and Accountability Act (42 U.S.C. § 1320d et seq.);
+			</section>
+			<section prefix="3">Enables health care providers, health care entities, and insurance carriers to access information necessary to evaluate and monitor the care and treatment of a patient in accordance with the patient privacy and security requirements of applicable state and federal laws and regulations, including the Health Insurance Portability and Accountability Act (42 U.S.C. § 1320d et seq.);
+			</section>
+			<section prefix="4">Allows health care providers in the Commonwealth to receive real-time alerts triggered by analytics to identify patient-specific risks, to create and share care coordination plans and other care recommendations, and to access other clinically beneficial information related to patients receiving health care services in the Commonwealth, including strategies and methods to continue to improve care coordination in hospital emergency departments and reduce the frequency of visits by high-volume emergency department utilizers;
+			</section>
+			<section prefix="5">Provides a patient's designated primary care physician and supporting clinical and care management personnel with treatment and care coordination information about a patient receiving health care services in the Commonwealth, including care plans, lab results, images, and hospital admissions, transfers, and discharges;
+			</section>
+			<section prefix="6">Provides a patient's designated managed care organization and supporting clinical and care management personnel with care coordination plans, lab results, images, and discharge and other treatment and care coordination information about a member receiving health care services in the Commonwealth; and
+			</section>
+			<section prefix="7">Is integrated with the Prescription Monitoring Program established pursuant to Chapter 25.2 (§ 54.1-2519 et seq.) of Title 54.1 and the Advance Health Care Planning Registry established pursuant to Article 9 (§ 54.1-2994 et seq.) of Chapter 29 of Title 54.1 to enable automated query and automatic delivery of relevant information from such sources into the existing work flow of health care providers.
+			</section>
+		</section>
+		<section prefix="C">The Commissioner shall enter into a contract with a third party to create, operate, maintain, or administer the Program in accordance with this section, which shall include provisions for the protection of patient privacy and data security pursuant to state and federal law and regulations, including the Health Insurance Portability and Accountability Act (42 U.S.C. § 1320d et seq.). The third-party contractor shall continue and rename the Emergency Department Care Coordination Advisory Council established by Chapter 836 of the Acts of Assembly of 2017 as the Smartchart Network Program Advisory Council (the Advisory Council), which shall consist of representatives of the Department, the Department of Medical Assistance Services, the Department of Health Professions, the Virginia Hospital and Healthcare Association, the Virginia Association of Health Plans, the Medical Society of Virginia, the Virginia College of Emergency Physicians, the Virginia Chapter of the American Academy of Pediatricians, and the Virginia Academy of Family Physicians, to advise the Commissioner and the third-party contractor regarding the establishment and operation of the Program, changes to the Program, and outcome measures for the Program.
+			The Advisory Council established pursuant to this subsection shall continue to ensure that information is shared among emergency departments throughout the Commonwealth and all hospitals operating emergency departments in the Commonwealth, all Medicaid managed care contracted health plans, the state employee health insurance plan, all Medicare plans operating in the Commonwealth, and all commercial plans operating in the Commonwealth, excluding ERISA plans, and shall participate in the emergency department information exchange program to continue to improve care coordination in hospital emergency departments and reduce the frequency of visits by high-volume emergency department utilizers.
+		</section>
+		<section prefix="D">Information submitted to the Program shall be confidential and shall be exempt from disclosure under the Virginia Freedom of Information Act (§ 2.2-3700 et seq.).
+		</section>
+	</text>
+	<history>2017, cc. 475, 600; 2023, cc. 628, 629.</history>
+</law>

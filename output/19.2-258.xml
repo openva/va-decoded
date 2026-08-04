@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="15" level="2">Trial and Its Incidents</unit>
+		<unit label="article" identifier="3" level="3">Arraignment; Pleas; Trial Without Jury</unit>
+	</structure>
+	<section_number>19.2-258</section_number>
+	<catch_line>Trial of misdemeanors by court without jury; failure to appear deemed waiver of jury</catch_line>
+	<text>
+		In all cases of a misdemeanor upon a plea of guilty, tendered in person by the accused or his counsel, the court shall hear and determine the case without the intervention of a jury. If the accused plead not guilty, in person or by his counsel, the court, in its discretion, with the concurrence of the accused and the attorney for the Commonwealth, may hear and determine the case without the intervention of a jury. In each instance the court shall have and exercise all the powers and duties vested in juries by any statute relating to crimes and punishments.
+		When a person charged with a misdemeanor has been admitted to bail or released upon his own recognizance for his appearance before a court of record having jurisdiction of the case, for a hearing thereon and fails to appear in accordance with the condition of his bail or recognizance, he shall be deemed to have waived trial by a jury and the case may be heard in his absence as upon a plea of not guilty.
+	</text>
+	<history>Code 1950, § 19.1-193; 1960, c. 366; 1975, c. 495.</history>
+</law>

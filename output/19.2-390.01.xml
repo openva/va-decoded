@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="23" level="2">Central Criminal Records Exchange</unit>
+	</structure>
+	<section_number>19.2-390.01</section_number>
+	<catch_line>Use of Virginia crime code references required</catch_line>
+	<text>
+		If any criminal warrant, indictment, information, presentment, petition, summons, charging document issued by a magistrate, or dispositional document from a criminal trial, involves a jailable offense, it shall include the Virginia crime code references for the particular offense or offenses covered. When Virginia crime codes are provided on charging and dispositional documents, the Virginia crime codes shall be recorded and stored for adult offenders in the following: criminal history computer systems maintained by the State Police; court case management computer systems maintained by the Supreme Court of Virginia; probation and parole case management computer systems maintained by the Department of Corrections and the Virginia Parole Board; pretrial and community-based probation case management computer systems maintained by the Department of Criminal Justice Services; and jail management computer systems maintained by the State Compensation Board. The Department of Juvenile Justice shall record and store Virginia crime codes for particular offenses related to juveniles in case management computer systems.
+		Virginia crime codes shall only be used to facilitate administration and research and shall not have any legal standing as they relate to a particular offense or offenses.
+		The Virginia Criminal Sentencing Commission shall develop, maintain, and modify the Virginia crime codes as may be deemed necessary.
+	</text>
+	<history>2003, c. 148; 2007, c. 133; 2025, c. 402.</history>
+</law>

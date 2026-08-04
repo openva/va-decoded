@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="3" level="3">Priority</unit>
+	</structure>
+	<section_number>8.9A-332</section_number>
+	<catch_line>Transfer of money, transfer of funds from deposit account</catch_line>
+	<text>
+		<section prefix="a">Transferee of tangible money. A transferee of tangible money takes the money free of a security interest if the transferee receives possession of the money without acting in collusion with the debtor in violating the rights of the secured party.
+		</section>
+		<section prefix="b">Transferee of funds from deposit account. A transferee of funds from a deposit account takes the funds free of a security interest if the transferee receives the funds without acting in collusion with the debtor in violating the rights of the secured party.
+		</section>
+		<section prefix="c">Transferee of electronic money. A transferee of electronic money takes the money free of a security interest if the transferee obtains control of the money without acting in collusion with the debtor in violating the rights of the secured party.
+		</section>
+	</text>
+	<history>2000, c. 1007; 2024, c. 652.</history>
+</law>

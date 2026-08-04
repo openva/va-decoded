@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="45" level="4">Investment of Public Funds Act</unit>
+	</structure>
+	<section_number>2.2-4500</section_number>
+	<catch_line>Legal investments for public sinking funds</catch_line>
+	<text>
+		The Commonwealth, all public officers, municipal corporations, other political subdivisions and all other public bodies of the Commonwealth may invest any sinking funds belonging to them or within their control in the following securities:
+		<section prefix="1">Bonds, notes and other evidences of indebtedness of the Commonwealth, and securities unconditionally guaranteed as to the payment of principal and interest by the Commonwealth.
+		</section>
+		<section prefix="2">Bonds, notes and other obligations of the United States, and securities unconditionally guaranteed as to the payment of principal and interest by the United States, or any agency thereof. The evidences of indebtedness enumerated by this subdivision may be held directly, or in the form of repurchase agreements collateralized by such debt securities, or in the form of securities of any open-end or closed-end management type investment company or investment trust registered under the Investment Company Act of 1940, provided that the portfolio of such investment company or investment trust is limited to such evidences of indebtedness, or repurchase agreements collateralized by such debt securities, or securities of other such investment companies or investment trusts whose portfolios are so restricted.
+		</section>
+		<section prefix="3">Bonds, notes and other evidences of indebtedness of any county, city, town, district, authority or other public body of the Commonwealth upon which there is no default; provided, that such bonds, notes and other evidences of indebtedness of any county, city, town, district, authority or other public body are either direct legal obligations of, or those unconditionally guaranteed as to the payment of principal and interest by the county, city, town, district, authority or other public body in question; and revenue bonds issued by agencies or authorities of the Commonwealth or its political subdivisions upon which there is no default.
+		</section>
+		<section prefix="4">Bonds and other obligations issued, guaranteed or assumed by the International Bank for Reconstruction and Development, bonds and other obligations issued, guaranteed or assumed by the Asian Development Bank and bonds and other obligations issued, guaranteed or assumed by the African Development Bank.
+		</section>
+		<section prefix="5">Savings accounts or time deposits in any bank or savings institution within the Commonwealth provided the bank or savings institution is approved for the deposit of other funds of the Commonwealth or other political subdivision of the Commonwealth.
+		</section>
+	</text>
+	<history>1956, c. 184, § 2-297; 1958, c. 102; 1966, c. 677, § 2.1-327; 1970, c. 75; 1974, c. 288; 1986, c. 270; 1988, cc. 526, 834; 1996, cc. 77, 508; 2001, c. 844.</history>
+</law>

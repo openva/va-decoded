@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2A" level="1">Commercial Code — Leases</unit>
+		<unit label="part" identifier="2" level="2">Formation and Construction of Lease Contract</unit>
+	</structure>
+	<section_number>8.2A-212</section_number>
+	<catch_line>Implied warranty of merchantability</catch_line>
+	<text>
+		<section prefix="1">Except in a finance lease, a warranty that the goods will be merchantable is implied in a lease contract if the lessor is a merchant with respect to goods of that kind.
+		</section>
+		<section prefix="2">Goods to be merchantable must be at least such as;
+			<section prefix="a">Pass without objection in the trade under the description in the lease agreement;
+			</section>
+			<section prefix="b">In the case of fungible goods, are of fair average quality within the description;
+			</section>
+			<section prefix="c">Are fit for the ordinary purposes for which goods of that type are used;
+			</section>
+			<section prefix="d">Run, within the variation permitted by the lease agreement, of even kind, quality, and quantity within each unit and among all units involved;
+			</section>
+			<section prefix="e">Are adequately contained, packaged, and labeled as the lease agreement may require; and
+			</section>
+			<section prefix="f">Conform to any promises or affirmations of fact made on the container or label.
+			</section>
+		</section>
+		<section prefix="3">Other implied warranties may arise from course of dealing or usage of trade.
+		</section>
+	</text>
+	<history>1991, c. 536.</history>
+</law>

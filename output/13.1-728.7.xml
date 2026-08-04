@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="14.1" level="3">Control Share Acquisitions</unit>
+	</structure>
+	<section_number>13.1-728.7</section_number>
+	<catch_line>Redemption</catch_line>
+	<text>
+		<section prefix="A">If authorized in a corporation's articles of incorporation or bylaws before a control share acquisition has occurred, the shares acquired in such control share acquisition with respect to which no control share acquisition statement has been filed with the public corporation may, at any time during the period ending 60 days after the last acquisition of such shares by the acquiring person, be redeemed by the corporation at the redemption price specified in subsection C.
+		</section>
+		<section prefix="B">If authorized in a corporation's articles of incorporation or bylaws before a control share acquisition has occurred, shares acquired in such control share acquisition with respect to which the shareholders have failed to grant voting rights at a special meeting or, if no special meeting for such purpose has been convened, at an annual meeting may, at any time during the period ending 60 days after such meeting, be redeemed by the corporation at the redemption price specified in subsection C.
+		</section>
+		<section prefix="C">The redemption price for shares to be redeemed under this section shall be the number of such shares multiplied by the dollar amount (rounded to the nearest cent) equal to the average per share price, including any brokerage commissions, transfer taxes and soliciting dealer's fees, paid by the acquiring person for such shares. The corporation may rely conclusively on public announcements by, or filings with the U.S. Securities and Exchange Commission by, the acquiring person as to the prices so paid.
+		</section>
+	</text>
+	<history>1989, c. 14; 2005, c. 765; 2019, c. 734.</history>
+</law>

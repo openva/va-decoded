@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="8" level="3">Banks</unit>
+		<unit label="article" identifier="14" level="4">Appointment of Fdic as Receiver</unit>
+	</structure>
+	<section_number>6.2-929</section_number>
+	<catch_line>Powers of receiver</catch_line>
+	<text>
+		The FDIC as receiver shall have the following powers:
+		<section prefix="1">To take possession of all books, records, and assets of the bank;
+		</section>
+		<section prefix="2">To collect all debts, claims, and judgments belonging to the bank, and to do such other acts as are necessary to preserve or liquidate its assets;
+		</section>
+		<section prefix="3">To execute in the name of the bank any instrument necessary or proper to effectuate its powers as receiver or perform its duties as such;
+		</section>
+		<section prefix="4">To initiate, pursue, and defend litigation involving any right, claim, interest, or liability of the bank;
+		</section>
+		<section prefix="5">To exercise any and all fiduciary functions of the bank as of the date of its appointment as receiver;
+		</section>
+		<section prefix="6">To borrow money as necessary in the liquidation of the bank, and to secure such borrowings by the pledge or mortgage of bank assets. The repayment of money borrowed under this subdivision and interest thereon shall be considered an expense of administration for purposes of § 6.2-933;
+		</section>
+		<section prefix="7">To abandon or convey title to any holder of a mortgage, security deed, security interest, or lien against property in which the bank has an interest, whenever the FDIC as receiver determines that to continue to claim such interest is burdensome and of no advantage to the bank, its depositors, creditors, or shareholders;
+		</section>
+		<section prefix="8">Subject to the approval of the receivership court, to (i) sell, lease, or exchange any and all real and personal property, (ii) compromise any debt, claim, or judgment due the bank, and (iii) discontinue any action or other proceeding pending therefor; and
+		</section>
+		<section prefix="9">Subject to the approval of the receivership court, to (i) pay off all mortgages, security deeds, security agreements, and liens upon any real or personal property belonging to the bank and (ii) purchase at judicial sale or sale authorized by court order any real or personal property in order to protect the bank's equity therein.
+		</section>
+	</text>
+	<history>1983, c. 507, § 6.1-110.5; 2010, c. 794.</history>
+</law>

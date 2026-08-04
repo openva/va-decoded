@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="7.1" level="3">Computer Crimes</unit>
+	</structure>
+	<section_number>18.2-152.8</section_number>
+	<catch_line>Property capable of embezzlement</catch_line>
+	<text>
+		For purposes of §§ 18.2-95, 18.2-96, 18.2-108, and 18.2-111, personal property subject to embezzlement, larceny, or receiving stolen goods shall include:
+		<section prefix="1">Computers and computer networks;
+		</section>
+		<section prefix="2">Financial instruments, computer data, computer programs, computer software and all other personal property regardless of whether they are:
+			a. Tangible or intangible;
+			b. In a format readable by humans or by a computer;
+			c. In transit between computers or within a computer network or between any devices which comprise a computer; or
+			d. Located on any paper or in any device on which it is stored by a computer or by a human; and
+		</section>
+		<section prefix="3">Computer services.
+		</section>
+	</text>
+	<history>1984, c. 751; 2005, cc. 746, 761, 827.</history>
+</law>

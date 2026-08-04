@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="5.1" level="1">Aviation</unit>
+		<unit label="chapter" identifier="9" level="2">Air Carriers</unit>
+		<unit label="article" identifier="6" level="3">Duration, Revocation, Transfer and Value of Certificates, Etc.; Penalties</unit>
+	</structure>
+	<section_number>5.1-115</section_number>
+	<catch_line>No value allowed for certificates</catch_line>
+	<text>
+		No value shall be allowed for any purpose for any certificate issued under this chapter.
+	</text>
+	<history>Code 1950, § 56-169; 1970, c. 708.</history>
+</law>

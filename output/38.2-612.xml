@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="6" level="2">Insurance Information and Privacy Protection</unit>
+		<unit label="article" identifier="1" level="3">Collection, Use, and Dissemination of Information</unit>
+	</structure>
+	<section_number>38.2-612</section_number>
+	<catch_line>Bases for adverse underwriting decisions</catch_line>
+	<text>
+		<section prefix="A">No insurance institution or agent may base an adverse underwriting decision in whole or in part:
+			<section prefix="1">On the fact of a previous adverse underwriting decision or on the fact that an individual previously obtained insurance coverage through a residual market mechanism. However, an insurance institution or agent may base an adverse underwriting decision on further information obtained from an insurance institution or agent responsible for a previous adverse underwriting decision;
+			</section>
+			<section prefix="2">On personal information received from an insurance-support organization whose primary source of information is insurance institutions. However, an insurance institution or agent may base an adverse underwriting decision on further personal information obtained as the result of information received from an insurance-support organization; or
+			</section>
+			<section prefix="3">On the fact that an individual previously obtained insurance coverage from a particular insurance institution or agent.
+			</section>
+		</section>
+		<section prefix="B">No insurance institution or agent may base an adverse underwriting decision solely on the loss history of a previous owner of the property to be insured.
+		</section>
+	</text>
+	<history>1981, c. 389, § 38.1-57.15; 1986, c. 562; 1990, c. 524; 2003, c. 415.</history>
+</law>

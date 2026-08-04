@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="6" level="2">Benefits</unit>
+		<unit label="article" identifier="5" level="3">Claims Adjudication</unit>
+	</structure>
+	<section_number>60.2-622</section_number>
+	<catch_line>Commission review</catch_line>
+	<text>
+		<section prefix="A">The Commission (i) may on its own motion affirm, modify, or set aside any decision of an appeals examiner on the basis of the evidence previously submitted in such case, or direct the taking of additional evidence by an appeals examiner, or receive such evidence itself, or (ii) shall permit any of the parties to such decision to initiate further appeals before it. The Commission may remove to itself or transfer to another appeals examiner the proceedings on any claim pending before an appeals examiner. Any proceeding so removed to the Commission shall be heard in accordance with the requirements of § 60.2-620. The Commission shall promptly notify the interested parties of its findings and decision.
+		</section>
+		<section prefix="B">1. Any decision of the Commission, upon a hearing on appeal, shall become final 10 days after the date of notification or mailing, and judicial review shall be permitted the claimant or any interested party claiming to be aggrieved. The Commission shall be deemed to be a party to any judicial action involving any such decision, and shall be represented in any such judicial action by the Office of the Attorney General.
+			<section prefix="2">Any such decision by the Commission involving (i) whether an employing unit constitutes an employer or (ii) whether services performed for or in connection with business of an employing unit constitute employment for such employing unit, from which no judicial review is had pursuant to subsections C and D of § 60.2-500, shall be conclusive in any subsequent judicial proceedings involving liability for taxes by the Commission against any employing unit which was a party to the proceedings held before the Commission.
+			</section>
+		</section>
+		<section prefix="C">The Commissioner shall have the power to designate a special examiner to hear appeals to the Commission under this section. The Commissioner may authorize and empower such special examiner to decide any appeal so heard, in which event the decision of the special examiner shall be the final decision of the Commission under this section, subject to judicial review under § 60.2-625.
+		</section>
+	</text>
+	<history>Code 1950, § 60-52; 1968, c. 738, § 60.1-64; 1977, c. 445; 1986, c. 480; 1995, c. 515; 1996, c. 106; 2005, cc. 47, 91; 2024, cc. 562, 603.</history>
+</law>

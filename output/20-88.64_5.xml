@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="7" level="3">Enforcement of Order Without Registration</unit>
+	</structure>
+	<section_number>20-88.64:5</section_number>
+	<catch_line>Contest by obligor</catch_line>
+	<text>
+		<section prefix="A">An obligor may contest the validity or enforcement of an income-withholding order issued in another state and received directly by an employer in the Commonwealth by registering the order in a tribunal of the Commonwealth and filing a contest to that order as provided in this chapter or otherwise contesting the order in the same manner as if the order had been issued by a tribunal of the Commonwealth.
+		</section>
+		<section prefix="B">The obligor shall give notice of the contest to (i) a support enforcement agency providing services to the obligee, (ii) each employer that has directly received an income-withholding order relating to the obligor, and (iii) the support enforcement agency designated to receive payments in the income-withholding order.
+		</section>
+	</text>
+	<history>1997, cc. 797, 897; 2005, c. 754.</history>
+</law>

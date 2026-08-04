@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="5.1" level="1">Aviation</unit>
+		<unit label="chapter" identifier="1" level="2">Aircraft, Airmen and Airports Generally</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>5.1-7.3</section_number>
+	<catch_line>Duty of care and liability for damages of owners of private landing areas</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section:
+			"Fee" means any payment or payments of money to a landowner for use of the premises or in order to engage in any activity described in subsections B and C, but does not include any action taken by another to improve the land or access to the land for the purposes set forth in subsections B and C or to remedy damage caused by such uses.
+			"Land" or "premises" means any privately owned area for landing any aircraft, that is not open to the general public, and that is registered with the Department and the Federal Aviation Administration pursuant to § 5.1-7.2.
+			"Landowner" means the legal title holder, lessee, occupant, or any other person in control of the land or premises.
+		</section>
+		<section prefix="B">A landowner shall not be liable for ordinary negligence related to conditions on his premises that proximately cause damage to property or injury to occupants of an aircraft or ultralight vehicle landing on or taking off from such premises, provided that no commercial operation is being conducted on or about the premises.
+		</section>
+		<section prefix="C">Any landowner who gives permission, express or implied, to another person to operate aircraft or ultralight vehicles of any type for the personal use of such person or for the use of an easement as set forth in subsection B does not thereby:
+			<section prefix="1">Impliedly or expressly represent that the premises are safe for such purposes;
+			</section>
+			<section prefix="2">Grant invitee status or its corresponding duty of care to the person to whom such permission has been granted; or
+			</section>
+			<section prefix="3">Assume responsibility for or incur liability for any intentional or negligent acts of such person or any other person, except as provided in subsection D.
+			</section>
+		</section>
+		<section prefix="D">Nothing contained in this section shall limit the liability of a landowner that may otherwise arise or exist by reason of his gross negligence or willful or malicious failure to guard or warn against a dangerous condition, use, structure, or activity. The provisions of this section shall not limit the liability of a landowner that may otherwise arise or exist when the landowner receives a fee for use of the premises or to engage in any activity described in subsection B or C. Nothing contained in this section shall relieve any landowner who sponsors or conducts any event or competition of the duty to exercise ordinary care in such events.
+		</section>
+	</text>
+	<history>2012, c. 302.</history>
+</law>

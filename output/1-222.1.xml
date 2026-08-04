@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="1" level="1">General Provisions</unit>
+		<unit label="chapter" identifier="2.1" level="2">Common Law and Rules of Construction</unit>
+		<unit label="article" identifier="2" level="3">Rules of Construction and Definitions</unit>
+	</structure>
+	<section_number>1-222.1</section_number>
+	<catch_line>Manufacturer</catch_line>
+	<text>
+		"Manufacturer" shall not include any farm or aggregation of farms that owns and operates facilities within the Commonwealth for the generation of electric energy from waste-to-energy technology. As used in this definition, (i) "farm" means any person that obtains at least 51 percent of its annual gross income from agricultural operations and produces the agricultural waste used as feedstock for the waste-to-energy technology, (ii) "agricultural waste" means biomass waste materials capable of decomposition that are produced from the raising of plants and animals during agricultural operations, including animal manures, bedding, plant stalks, hulls, and vegetable matter, and (iii) "waste-to-energy technology" means any technology, including but not limited to a methane digester, that converts agricultural waste into gas, steam, or heat that is used to generate electricity on-site.
+	</text>
+	<history>2009, c. 746.</history>
+</law>

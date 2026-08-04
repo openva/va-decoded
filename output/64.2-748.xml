@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="5" level="4">Creditor's Claims; Spendthrift and Discretionary Trusts</unit>
+	</structure>
+	<section_number>64.2-748</section_number>
+	<catch_line>Overdue distribution</catch_line>
+	<text>
+		<section prefix="A">In this section "mandatory distribution" means a distribution of income or principal that the trustee is required to make to a beneficiary under the terms of the trust, including a distribution upon termination of the trust. The term does not include a distribution subject to the exercise of the trustee's discretion even if (i) the discretion is expressed in the form of a standard of distribution or (ii) the terms of the trust authorizing a distribution use language of discretion with language of direction.
+		</section>
+		<section prefix="B">Whether or not a trust contains a spendthrift provision, a creditor or assignee of a beneficiary may reach a mandatory distribution of income or principal, including a distribution upon termination of the trust, if the trustee has not made the distribution to the beneficiary within a reasonable time after the designated distribution date.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-545.06; 2007, c. 216; 2012, c. 614.</history>
+</law>

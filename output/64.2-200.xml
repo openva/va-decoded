@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="2" level="3">Descent and Distribution</unit>
+	</structure>
+	<section_number>64.2-200</section_number>
+	<catch_line>Course of descents generally; right of Commonwealth if no other heir</catch_line>
+	<text>
+		<section prefix="A">The real estate of any decedent not effectively disposed of by will descends and passes by intestate succession in the following course:
+			<section prefix="1">To the surviving spouse of the decedent, unless the decedent is survived by children or their descendants, one or more of whom are not children or their descendants of the surviving spouse, in which case, two-thirds of the estate descends and passes to the decedent's children and their descendants, and one-third of the estate descends and passes to the surviving spouse.
+			</section>
+			<section prefix="2">If there is no surviving spouse, then the estate descends and passes to the decedent's children and their descendants.
+			</section>
+			<section prefix="3">If there is none of the foregoing, then to the decedent's parents, or to the surviving parent.
+			</section>
+			<section prefix="4">If there is none of the foregoing, then to the decedent's siblings, and their descendants.
+			</section>
+			<section prefix="5">If there is none of the foregoing, then one-half of the estate descends and passes to the kindred of one of the decedent's parents and one-half descends and passes to the kindred of the other of the decedent's parents in the following course:
+				a. To the decedent's grandparents, or to the surviving grandparent.
+				b. If there is none of the foregoing, then to the decedent's uncles and aunts, and their descendants.
+				c. If there is none of the foregoing, then to the decedent's great-grandparents.
+				d. If there is none of the foregoing, then to the siblings of the decedent's grandparents, and their descendants.
+				e. And so on, in other cases, without end, passing to the nearest lineal ancestors, and the descendants of such ancestors.
+			</section>
+		</section>
+		<section prefix="B">If there are no surviving kindred of one of the decedent's parents, the whole estate descends and passes to the surviving kindred of the other of the decedent's parents. If there are no kindred of either parent, the whole estate descends and passes to the kindred of the decedent's most recent spouse, if any, provided that the decedent and the spouse were married at the time of the spouse's death, as if such spouse had died intestate and entitled to the estate.
+		</section>
+		<section prefix="C">If there is no other heir of a decedent's real estate, such real estate is subject to escheat to the Commonwealth in accordance with Chapter 24 (§ 55.1-2400 et seq.) of Title 55.1.
+		</section>
+	</text>
+	<history>Code 1950, § 64-1; 1956, c. 109; 1968, c. 656, § 64.1-1; 1977, c. 474; 1982, c. 304; 1985, c. 189; 1990, c. 831; 2012, c. 614; 2020, c. 900.</history>
+</law>

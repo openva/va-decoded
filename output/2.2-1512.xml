@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="15" level="4">Department of Planning and Budget</unit>
+	</structure>
+	<section_number>2.2-1512</section_number>
+	<catch_line>Financial statements by Comptroller</catch_line>
+	<text>
+		On or before August 15 annually, the Comptroller shall furnish to the Department the following statements, classified and itemized in strict accordance with the budget classifications adopted by the Governor:
+		<section prefix="1">A statement showing the balance standing to the credit of the several appropriations for each department, bureau, division, office, board, commission, institution, or other agency or undertaking of the Commonwealth at the end of the last preceding appropriation year.
+		</section>
+		<section prefix="2">A statement showing the monthly expenditures from each appropriation account, and the total monthly expenditures from all the appropriation accounts, including special and all other appropriations, in the twelve months of the last preceding appropriation year.
+		</section>
+		<section prefix="3">A statement showing the annual revenues and expenditures in each fund.
+		</section>
+		<section prefix="4">An itemized and complete financial balance sheet for the Commonwealth at the close of the last preceding fiscal year ending June 30.
+		</section>
+		<section prefix="5">Such other statements as requested by the Governor.
+		</section>
+	</text>
+	<history>Code 1950, § 2-50; 1966, c. 677, § 2.1-56; 1968, cc. 121, 683; 1976, c. 760, § 2.1-402; 1984, c. 612; 2001, c. 844.</history>
+</law>

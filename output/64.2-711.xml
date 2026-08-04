@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="2" level="4">Judicial Proceedings</unit>
+	</structure>
+	<section_number>64.2-711</section_number>
+	<catch_line>Jurisdiction over trustee and beneficiary</catch_line>
+	<text>
+		<section prefix="A">By accepting the trusteeship of a trust having its principal place of administration in the Commonwealth or by moving the principal place of administration to the Commonwealth, the trustee submits personally to the jurisdiction of the courts of the Commonwealth regarding any matter involving the trust.
+		</section>
+		<section prefix="B">With respect to their interests in the trust, the beneficiaries of a trust having its principal place of administration in the Commonwealth are subject to the jurisdiction of the courts of the Commonwealth regarding any matter involving the trust. By accepting a distribution from such a trust, the recipient submits personally to the jurisdiction of the courts of the Commonwealth regarding any matter involving the trust.
+		</section>
+		<section prefix="C">This section does not preclude other methods of obtaining jurisdiction over a trustee, beneficiary, or other person receiving property from the trust.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-542.02; 2012, c. 614.</history>
+</law>

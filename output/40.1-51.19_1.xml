@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3.1" level="2">Boiler and Pressure Vessel Safety Act</unit>
+		<unit label="article" identifier="2" level="3">Hobby and Model Boilers</unit>
+	</structure>
+	<section_number>40.1-51.19:1</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article:
+		"Hobby boiler" means any boiler used solely for demonstration, exhibition, ceremonial or educational purposes, including but not limited to, historical artifacts such as portable and stationary show boilers, farm traction engines, and locomotives.
+		"Model boiler" means any boiler fabricated to demonstrate an original design or to reproduce or replicate a historic artifact, and used primarily for demonstration, exhibition, or educational purposes.
+	</text>
+	<history>1999, c. 335; 2000, c. 898.</history>
+</law>

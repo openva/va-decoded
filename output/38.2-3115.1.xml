@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3115.1</section_number>
+	<catch_line>Accelerated payment of benefits</catch_line>
+	<text>
+		<section prefix="A">Except as set forth in subsection C of this section, each insurer issuing a life insurance policy in the Commonwealth may include a policy provision for accelerated payment of benefits to the insured during the lifetime of the insured:
+			<section prefix="1">If a qualified health care provider or court of competent jurisdiction has determined that the insured is no longer able to perform two of the following activities of daily living: (i) bathing, (ii) dressing, (iii) continence, (iv) eating, (v) toileting, or (vi) transferring; or
+			</section>
+			<section prefix="2">If a qualified health care provider or court of competent jurisdiction has determined that the insured requires substantial supervision by another person to protect the health and safety of the insured or any other person.
+			</section>
+		</section>
+		<section prefix="B">The Commission shall adopt appropriate rules and regulations to carry out the intent of this section, and such rules and regulations may also provide for additional options for the accelerated payment of benefits under any other conditions deemed appropriate by the Commission.
+		</section>
+		<section prefix="C">This section shall not apply to (i) credit life insurance issued pursuant to Chapter 37.1 (§ 38.2-3717 et seq.) of this title, or (ii) policies or contracts issued prior to July 1, 2002, but shall apply to any renewals or reissues of group life insurance policies or contracts occurring after that date.
+		</section>
+	</text>
+	<history>2002, c. 343.</history>
+</law>

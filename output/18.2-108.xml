@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="3" level="3">Larceny and Receiving Stolen Goods</unit>
+	</structure>
+	<section_number>18.2-108</section_number>
+	<catch_line>Receiving, etc., stolen goods</catch_line>
+	<text>
+		<section prefix="A">If any person buys or receives from another person, or aids in concealing, any stolen goods or other thing, knowing the same to have been stolen, he shall be deemed guilty of larceny thereof, and may be proceeded against, although the principal offender is not convicted.
+		</section>
+		<section prefix="B">If any person buys or receives any goods or other thing, used in the course of a criminal investigation by law enforcement that such person believes to have been stolen, he shall be deemed guilty of larceny thereof.
+		</section>
+	</text>
+	<history>Code 1950, § 18.1-107; 1960, c. 358; 1975, cc. 14, 15; 2008, c. 578.</history>
+</law>

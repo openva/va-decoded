@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="25" level="3">License Tax on Certain Insurance Companies</unit>
+		<unit label="article" identifier="2" level="4">Estimated Tax</unit>
+	</structure>
+	<section_number>58.1-2520</section_number>
+	<catch_line>Requirement of declaration</catch_line>
+	<text>
+		<section prefix="A">Every insurance company and nonstock corporation licensed pursuant to Chapters 42 and 45 of Title 38.2 subject to the state license tax imposed by § 58.1-2501 shall make a declaration of estimated tax if the tax imposed by this chapter, for the license year, measured by direct gross premium income, can reasonably be expected to exceed $3,000.
+			Such declaration shall contain such pertinent information as the Department may by forms or guidelines prescribe.
+		</section>
+		<section prefix="B">Any such insurance company or nonstock corporation with a taxable year of less than 12 months shall make a declaration in accordance with guidelines prescribed by the Department.
+		</section>
+	</text>
+	<history>Code 1950, § 58-502.2; 1968, c. 13; 1978, c. 4; 1984, c. 675; 1987, cc. 565, 655; 2011, c. 850.</history>
+</law>

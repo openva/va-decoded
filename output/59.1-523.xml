@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="45" level="2">The Amusement Device Rider Safety Act</unit>
+	</structure>
+	<section_number>59.1-523</section_number>
+	<catch_line>Enforcement; civil penalties; limitation</catch_line>
+	<text>
+		<section prefix="A">Enforcement of the provisions of this chapter may be brought only as follows:
+			<section prefix="1">Any law-enforcement officer may issue a summons for a violation of this chapter; and
+			</section>
+			<section prefix="2">The attorney for the county, city or town in which the alleged violation occurred may bring an action to recover the civil penalty authorized by subsection B.
+			</section>
+		</section>
+		<section prefix="B">Except for the failure to report an injury, any person who violates the provisions of this chapter may be subject to a civil penalty in an amount not to exceed $500. Such penalty shall be paid into the local treasury.
+		</section>
+	</text>
+	<history>2002, c. 788.</history>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="5" level="2">Security Entitlements</unit>
+	</structure>
+	<section_number>8.8A-504</section_number>
+	<catch_line>Duty of securities intermediary to maintain financial asset</catch_line>
+	<text>
+		<section prefix="a">A securities intermediary shall promptly obtain and thereafter maintain a financial asset in a quantity corresponding to the aggregate of all security entitlements it has established in favor of its entitlement holders with respect to that financial asset. The securities intermediary may maintain those financial assets directly or through one or more other securities intermediaries.
+		</section>
+		<section prefix="b">Except to the extent otherwise agreed by its entitlement holder, a securities intermediary may not grant any security interests in a financial asset it is obligated to maintain pursuant to subsection (a).
+		</section>
+		<section prefix="c">A securities intermediary satisfies the duty in subsection (a) if:
+			<section prefix="1">the securities intermediary acts with respect to the duty as agreed upon by the entitlement holder and the securities intermediary; or
+			</section>
+			<section prefix="2">in the absence of agreement, the securities intermediary exercises due care in accordance with reasonable commercial standards to obtain and maintain the financial asset.
+			</section>
+		</section>
+		<section prefix="d">This section does not apply to a clearing corporation that is itself the obligor of an option or similar obligation to which its entitlement holders have security entitlements.
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

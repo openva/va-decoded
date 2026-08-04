@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="23.2" level="2">Sealing of Criminal History Record Information and Court Records</unit>
+	</structure>
+	<section_number>19.2-392.7</section_number>
+	<catch_line>(Effective July 1, 2026) Process for automatic sealing of offenses resulting in a conviction or deferred disposition</catch_line>
+	<text>
+		<section prefix="A">On at least a monthly basis, the Department of State Police shall electronically determine which offenses with an offense date on or after January 1, 1986, in the Central Criminal Records Exchange meet the criteria for automatic sealing set forth in subsections A, B, and C of § 19.2-392.6.
+		</section>
+		<section prefix="B">After reviewing the offenses under subsection A, the Department of State Police shall provide an electronic list of all offenses that meet the criteria for automatic sealing set forth in § 19.2-392.6 to the Executive Secretary of the Supreme Court and to any circuit court clerk who maintains a case management system that interfaces with the Department of State Police under subsection B1 of § 17.1-502. The Department of State Police shall not be required to include an offense on such list if (i) it cannot be determined by an electronic review whether the offense is eligible for automatic sealing or (ii) an electronic review of the person's criminal history record indicates that the person was charged with violating the law of any other state, the District of Columbia, the United States or any territory thereof, excluding traffic infractions under Title 46.2, during the seven-year time period set forth in subsection B of § 19.2-392.6.
+		</section>
+		<section prefix="C">Upon receipt of the electronic list from the Department of State Police provided under subsection B, on at least a monthly basis the Executive Secretary of the Supreme Court shall provide an electronic list of all offenses that meet the criteria for automatic sealing set forth in § 19.2-392.6 to the clerk of each circuit court in the jurisdiction where the case was finalized, if such circuit court clerk participates in the case management system maintained by the Executive Secretary.
+		</section>
+		<section prefix="D">Upon receipt of the electronic list provided under subsection B or C, on at least a monthly basis the clerk of each circuit court shall prepare an order and the chief judge or presiding judge of that circuit court shall enter such order directing that the offenses that meet the criteria for automatic sealing set forth in § 19.2-392.6 be automatically sealed under the process described in § 19.2-392.13. Such order shall contain the names of the persons charged with or convicted of such offenses. The clerk of each circuit court shall maintain a copy of all orders entered pursuant to this subsection under seal.
+		</section>
+		<section prefix="E">The clerk of each circuit court shall provide an electronic notification of any order entered under subsection D to the Department of State Police on at least a monthly basis. Upon receipt of such electronic notification, the Department of State Police shall proceed as set forth in § 19.2-392.13.
+		</section>
+		<section prefix="F">Any order to seal issued pursuant to this section shall be sealed and may only be disseminated for the purposes set forth in § 19.2-392.13 and pursuant to rules and regulations adopted pursuant to § 9.1-128 and procedures adopted pursuant to § 9.1-134.
+		</section>
+		<section prefix="G">If an offense is automatically sealed contrary to law, the automatic sealing of that particular offense shall be voidable upon motion and notice made within two years of the entry of the order to automatically seal such offense.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, cc. 524, 542; 2023, cc. 554, 555; 2025, cc. 634, 671.</history>
+</law>

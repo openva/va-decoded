@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.7" level="4">Rechargeable Battery Recycling</unit>
+	</structure>
+	<section_number>10.1-1425.39</section_number>
+	<catch_line>Rechargeable battery recycling and disposal program</catch_line>
+	<text>
+		<section prefix="A">As used in this section "rechargeable battery" means any removable, dry-cell, rechargeable battery weighing less than two pounds consisting of one or more electrically connected electrochemical cells that are designed to receive, store, and deliver electric energy.
+		</section>
+		<section prefix="B">Any locality may, by ordinance, prohibit the disposal of rechargeable batteries in any waste-to-energy or solid waste disposal facility within its jurisdiction, provided the locality has implemented a recycling program that is capable of handling all rechargeable batteries generated within its jurisdiction. However, no such ordinance shall contain any provision that penalizes anyone other than the last user of such rechargeable batteries.
+		</section>
+	</text>
+	<history>2009, c. 365.</history>
+</law>

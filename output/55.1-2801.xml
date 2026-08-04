@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="V" level="2">Miscellaneous</unit>
+		<unit label="chapter" identifier="28" level="3">Trespasses; Fences</unit>
+		<unit label="article" identifier="1" level="4">Electric Fences</unit>
+	</structure>
+	<section_number>55.1-2801</section_number>
+	<catch_line>Unlawful to sell, distribute, construct, install, maintain, or use certain electric fences upon agricultural land</catch_line>
+	<text>
+		<section prefix="A">It is unlawful for any person to sell, distribute, construct, install, maintain, or use upon any land used for agricultural purposes or, for any person exercising supervision or control over any such land, to permit any other person to construct, install, maintain, or use any electric fence energized with an electric charge unless the charge is regulated by a controlling device. Except as otherwise provided in this article, such controlling device shall display the approved label of and shall conform to the safety standards promulgated by the Underwriters Laboratories, Inc., in its publication number UL69, dated June 30, 2009, and entitled "Standard for Safety for Electric-Fence Controllers," as the same may from time to time be supplemented, or shall display the approved label of and meet the safety standards promulgated by the International Electrotechnical Commission in its publication IEC 60335-2-76, second edition (BS EN 69335-2-76), as the same may from time to time be supplemented.
+		</section>
+		<section prefix="B">No metallically continuous fence or set of electrically connected fences shall be supplied by more than one controlling device.
+		</section>
+		<section prefix="C">Any controlling device shall be suitably grounded when placed in service.
+		</section>
+	</text>
+	<history>1982, c. 280, § 55-298.1; 2019, c. 712.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="33" level="2">Life Insurance Policies</unit>
+		<unit label="article" identifier="1" level="3">Life Insurance Policies; Annuities</unit>
+	</structure>
+	<section_number>38.2-3300</section_number>
+	<catch_line>Requirements; exceptions</catch_line>
+	<text>
+		<section prefix="A">No individual life insurance policy shall be delivered or issued for delivery in this Commonwealth unless it contains in substance all of the requirements prescribed in §§ 38.2-3301 through 38.2-3315 of this article.
+		</section>
+		<section prefix="B">As used in this article, "individual life insurance" means any life insurance other than group life insurance, industrial life insurance, annuities, credit life insurance, and pure endowments, with or without return of premiums or of premiums and interest. However, for the purposes of § 38.2-3308, "policy" includes annuity contracts that provide for policy loans and certificates issued by a fraternal benefit society.
+		</section>
+		<section prefix="C">The requirements of §§ 38.2-3300 through 38.2-3315 shall not apply to policies of reinsurance or to policies issued or granted in exchange for lapsed or surrendered policies.
+		</section>
+	</text>
+	<history>Code 1950, §§ 38-371, 38-373; 1952, c. 317, §§ 38.1-390, 38.1-405; 1977, c. 174; 1986, c. 562.</history>
+</law>

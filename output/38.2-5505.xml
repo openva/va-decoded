@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="55" level="2">Risk-Based Capital Act</unit>
+	</structure>
+	<section_number>38.2-5505</section_number>
+	<catch_line>Authorized Control Level Event</catch_line>
+	<text>
+		<section prefix="A">"Authorized Control Level Event" means any of the following events:
+			<section prefix="1">The filing of an RBC Report by the licensee which indicates that the licensee's Total Adjusted Capital is greater than or equal to its Mandatory Control Level RBC but less than its Authorized Control Level RBC;
+			</section>
+			<section prefix="2">The notification by the Commission to the licensee of an Adjusted RBC Report that indicates the event in subdivision A 1, provided the licensee does not challenge the Adjusted RBC Report under § 38.2-5507;
+			</section>
+			<section prefix="3">If, pursuant to § 38.2-5507, the licensee challenges an Adjusted RBC Report that indicates the event in subdivision A 1, the notification by the Commission to the licensee that the Commission has, after a hearing, rejected the licensee's challenge;
+			</section>
+			<section prefix="4">The failure of the licensee to respond, in a manner satisfactory to the Commission, to a corrective order, provided the licensee has not challenged the corrective order under § 38.2-5507; or
+			</section>
+			<section prefix="5">If the licensee has challenged a corrective order under § 38.2-5507 and the Commission has, after a hearing, rejected the challenge or modified the corrective order, the failure of the licensee to respond, in a manner satisfactory to the Commission, to the corrective order subsequent to rejection or modification by the Commission.
+			</section>
+		</section>
+		<section prefix="B">In the event of an Authorized Control Level Event with respect to a licensee, the Commission shall:
+			<section prefix="1">Take such actions as are required under § 38.2-5504 regarding a licensee with respect to which a Regulatory Action Level Event has occurred; or
+			</section>
+			<section prefix="2">If the Commission deems it to be in the best interests of the policyholders and creditors of the licensee and of the public, take such actions as are necessary to cause the licensee to be placed under regulatory control under the provisions of Chapter 15 (§ 38.2-1500 et seq.). In the event the Commission takes such actions, the Authorized Control Level Event shall be deemed an indication of a hazardous financial condition which serves as sufficient grounds for the Commission to commence delinquency proceedings, and the receiver appointed in conjunction with such proceedings shall have the rights, powers and duties with respect to the licensee as are set forth in Chapter 15 or any order of liquidation, rehabilitation or conservation entered pursuant thereto. In the event the Commission takes actions under this subdivision pursuant to an Adjusted RBC Report, the licensee shall be entitled to such protections as are afforded to licensees under the appropriate provisions of this title pertaining to summary proceedings.
+			</section>
+		</section>
+	</text>
+	<history>1995, c. 789; 2000, c. 47.</history>
+</law>

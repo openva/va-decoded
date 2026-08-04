@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="3" level="3">Interest and Usury</unit>
+		<unit label="article" identifier="4" level="4">Loans Exempt From Limit on Contract Rate of Interest</unit>
+	</structure>
+	<section_number>6.2-329</section_number>
+	<catch_line>Loans insured or guaranteed by certain governmental agencies</catch_line>
+	<text>
+		<section prefix="A">No person shall, by way of defense or otherwise, avail himself of any of the provisions of this chapter or any other law relating to usury or any statutory or case law relating to compounding of interest to avoid or defeat the payment of any interest or any other sum which he has contracted to pay on any loan:
+			<section prefix="1">Insured by the Federal Housing Administration, pursuant to the provisions of the National Housing Act (12 U.S.C. § 1701 et seq.);
+			</section>
+			<section prefix="2">Guaranteed by the U.S. Department of Veterans Affairs, pursuant to Title 38 of the United States Code; or
+			</section>
+			<section prefix="3">Insured or guaranteed by any similar federal governmental agency or organization, or made directly or indirectly by the Virginia Housing Development Authority pursuant to the provisions of Chapter 1.2 (§ 36-55.24 et seq.) of Title 36.
+			</section>
+		</section>
+		<section prefix="B">Nothing contained in this chapter shall be construed to prevent the recovery of such interest or any other sum from any person who has contracted to pay the same in connection with any loan described in this section.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.74; 2010, c. 794.</history>
+</law>

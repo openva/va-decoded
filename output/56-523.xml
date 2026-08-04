@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="17" level="2">State Operation of Public Utilities</unit>
+	</structure>
+	<section_number>56-523</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		The words "utilities" or "public utilities" when used in this chapter shall be construed to mean any person, partnership, association or corporation, engaged in the business of furnishing electric power, water, light, heat, gas, transportation or communication, or any one or more of them, to the people of Virginia.
+		"Net income" with respect to operation of a utility by the Commonwealth shall be construed to mean the gross revenues derived from such operation after deducting therefrom:
+		<section prefix="1">The costs of operation and maintenance of the utility,
+		</section>
+		<section prefix="2">The amount of depreciation during the time of such operation based on the amount allowed in the utility's federal income tax return,
+		</section>
+		<section prefix="3">Federal, state, and local taxes which would be payable by the utility, if the properties were operated by it,
+		</section>
+		<section prefix="4">Interest on the indebtedness of the utility, and
+		</section>
+		<section prefix="5">Payments for the cost of insurance.
+			All of such items shall be prorated on an annual basis in proportion to the time the plant is operated by the Commonwealth.
+		</section>
+	</text>
+	<history>1952, c. 696.</history>
+</law>

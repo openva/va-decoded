@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions; Charters; Other Forms and Organization of Counties</unit>
+		<unit label="chapter" identifier="6" level="3">County Manager Form of Government</unit>
+		<unit label="article" identifier="3" level="4">Departments; County Manager Form</unit>
+	</structure>
+	<section_number>15.2-616</section_number>
+	<catch_line>Departments of the county</catch_line>
+	<text>
+		The activities or functions of the county shall, with the exceptions herein provided, be distributed among the following departments:
+		<section prefix="1">Department of finance.
+		</section>
+		<section prefix="2">Department of public works.
+		</section>
+		<section prefix="3">Department of social services.
+		</section>
+		<section prefix="4">Department of education.
+		</section>
+		<section prefix="5">Department of public health.
+			The board may establish any additional departments it deems necessary and appropriate.
+			In addition, any activity which is unassigned by this form of county organization and government shall, upon recommendation of the county manager, be assigned by the board to the appropriate department. The board may further, upon recommendations of the county manager, reassign, transfer or combine any county functions, activities or departments.
+		</section>
+	</text>
+	<history>Code 1950, § 15-319; 1956, c. 200; 1962, c. 623, § 15.1-639; 1997, c. 587.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="40" level="2">Burial Societies</unit>
+	</structure>
+	<section_number>38.2-4020</section_number>
+	<catch_line>When certificate invalid</catch_line>
+	<text>
+		A certificate of membership shall be invalid if:
+		<section prefix="1">The certificate holder was ill at the time the certificate was procured;
+		</section>
+		<section prefix="2">Any person concerned in the procurement of the certificate had reason to believe that the illness existed at that time;
+		</section>
+		<section prefix="3">The illness continued to the death of the certificate holder and was a contributing cause of death;
+		</section>
+		<section prefix="4">Health questions were not asked on the application for coverage; and
+		</section>
+		<section prefix="5">The certificate holder died within sixty days from the date the certificate was issued.
+		</section>
+	</text>
+	<history>Code 1950, § 38-153; 1952, c. 317, § 38.1-562; 1986, c. 562.</history>
+</law>

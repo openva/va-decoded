@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="4" level="2">Health Care Planning</unit>
+		<unit label="article" identifier="1.1" level="3">Medical Care Facilities Certificate of Public Need</unit>
+	</structure>
+	<section_number>32.1-102.1:2</section_number>
+	<catch_line>Certificate of public need required; registration of certain equipment and capital projects required</catch_line>
+	<text>
+		<section prefix="A">No person shall undertake a project described in subsection B of § 32.1-102.1:3 or regulations of the Board at or on behalf of a medical care facility described in subsection A of § 32.1-102.1:3 without first obtaining a certificate from the Commissioner.
+		</section>
+		<section prefix="B">No person shall acquire any replacement medical equipment for the provision of cardiac catheterization, computed tomographic (CT) scanning, magnetic resonance imaging (MRI), open heart surgery, positron emission tomographic (PET) scanning, radiation therapy, stereotactic radiotherapy other than radiotherapy performed using a linear accelerator or other medical equipment that uses concentrated doses of high-energy X-rays to perform external beam radiation therapy, proton beam therapy, or other specialized service designated by the Board by regulation without first registering such purchase with the Commissioner and the appropriate regional health planning agency. Such registration shall be made at least 30 calendar days prior to the date on which the person will become contractually obligated to acquire such medical equipment.
+		</section>
+		<section prefix="C">No general hospital shall make any capital expenditure of $5 million or more and no medical care facility other than a general hospital shall make any capital expenditure between $5 million and the amount established by the Board as the minimum capital expenditure by a medical care facility other than a general hospital for which a certificate is required pursuant to subdivision B 8 of § 32.1-102.1:3 without first registering such capital expenditure with the Commissioner pursuant to regulations of the Board. The amounts specified in this subsection shall be revised annually to reflect inflation using appropriate measures incorporating construction costs and medical inflation.
+		</section>
+	</text>
+	<history>2020, c. 1271.</history>
+</law>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="16" level="2">Virginia Property and Casualty Insurance Guaranty Association</unit>
+		<unit label="article" identifier="1" level="3">Establishment and Operation of the Association</unit>
+	</structure>
+	<section_number>38.2-1601</section_number>
+	<catch_line>Application</catch_line>
+	<text>
+		This chapter shall apply to all classes of direct insurance written by member insurers but shall not be applicable to the following:
+		<section prefix="1">Life, annuity, health or disability insurance;
+		</section>
+		<section prefix="2">Mortgage guaranty, financial guaranty or other forms of insurance offering protection against investment risks;
+		</section>
+		<section prefix="3">Fidelity or surety bonds, or any other bonding obligations;
+		</section>
+		<section prefix="4">Credit insurance, credit property insurance, and credit involuntary unemployment insurance;
+		</section>
+		<section prefix="5">Insurance of warranties or service contracts;
+		</section>
+		<section prefix="6">Title insurance;
+		</section>
+		<section prefix="7">Insurance of vessels or craft used primarily in a trade or business, their cargoes, and marine builders' risk and marine protection and indemnity;
+		</section>
+		<section prefix="8">Any transaction or combination of transactions between a person, including affiliates of such person, and an insurer, including affiliates of such insurer, which involves the transfer of investment or credit risk unaccompanied by transfer of insurance risk; or
+		</section>
+		<section prefix="9">Any class of insurance written by cooperative nonprofit life benefit companies, mutual assessment life, accident and sickness insurers, burial societies, fraternal benefit societies, captive insurers, risk retention groups, and home protection companies.
+		</section>
+	</text>
+	<history>1970, c. 766, § 38.1-758; 1986, c. 562; 1987, c. 529; 1993, cc. 77, 774; 1998, c. 230; 2000, c. 526.</history>
+</law>

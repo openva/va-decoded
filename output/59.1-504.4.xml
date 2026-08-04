@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="4" level="3">Warranties</unit>
+	</structure>
+	<section_number>59.1-504.4</section_number>
+	<catch_line>Implied warranty; informational content</catch_line>
+	<text>
+		<section prefix="a">Unless the warranty is disclaimed or modified, a merchant that, in a special relationship of reliance with a licensee, collects, compiles, processes, provides, or transmits informational content warrants to that licensee that there is no inaccuracy in the informational content caused by the merchant's failure to perform with reasonable care.
+		</section>
+		<section prefix="b">A warranty does not arise under subsection (a) with respect to:
+			<section prefix="1">subjective characteristics of the informational content, such as the aesthetics, appeal, and suitability to taste;
+			</section>
+			<section prefix="2">published informational content; or
+			</section>
+			<section prefix="3">a person that acts as a conduit or provides no more than editorial services in collecting, compiling, distributing, processing, providing, or transmitting informational content that under the circumstances can be identified as that of a third person.
+			</section>
+		</section>
+		<section prefix="c">The warranty under this section is not subject to the preclusion in § 59.1-501.15 (b) (1) on disclaiming obligations of diligence, reasonableness, or care.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2004, c. 794.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="2" level="2">Department of Fire Programs</unit>
+	</structure>
+	<section_number>9.1-207.2</section_number>
+	<catch_line>Prohibition on use of certain oriented strand board</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Acquired structure" means a building or structure acquired by local government from a property owner for the purpose of conducting live fire training evolutions.
+			"Class A fuel materials" includes wood, straw, and paper products.
+			"Fire training activities" includes the utilization of live fire training structures designed for conducting live fire training evolutions on a repetitive basis. "Fire training activities" does not include the utilization of acquired structures for conducting live fire training evolutions.
+			"Local government" includes any locality, fire district, regional fire protection authority, or other special purpose district that provides firefighting services.
+			"Oriented strand board" means a multilayered board made from strands of wood, together with a binder, by the application of heat and pressure, with the strands in the external layer primarily oriented along the panel's strength axis in accordance with US Product Standard 2-18, Performance Standard for Wood Structured Panels. For purposes of this section only, "oriented strand board" means a wood structural panel intended as a covering material for roofs, subfloors, and walls when fastened to supports.
+		</section>
+		<section prefix="B">No person, local government, or agency of the Commonwealth shall burn Class A fuel materials that contain oriented strand board during live fire training activities.
+		</section>
+		<section prefix="C">No provision of this section shall restrict the manufacture, sale, use, or distribution of Class A fuel materials that contain oriented strand board for purposes outside of fire training activities.
+		</section>
+	</text>
+	<history>2021, Sp. Sess. I, c. 285.</history>
+</law>

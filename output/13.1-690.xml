@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="9" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-690</section_number>
+	<catch_line>General standards of conduct for director</catch_line>
+	<text>
+		<section prefix="A">A director shall discharge his duties as a director, including his duties as a member of a committee, in accordance with his good faith business judgment of the best interests of the corporation.
+		</section>
+		<section prefix="B">Unless a director has knowledge or information concerning the matter in question that makes reliance unwarranted, the director is entitled to rely on information, opinions, reports, or statements, including financial statements and other financial data, if prepared or presented by:
+			<section prefix="1">One or more officers or employees of the corporation whom the director believes, in good faith, to be reliable and competent in the matters presented;
+			</section>
+			<section prefix="2">Legal counsel, public accountants, or other persons as to matters the director believes, in good faith, are within the person's professional or expert competence; or
+			</section>
+			<section prefix="3">A committee of the board of directors of which he is not a member if the director believes, in good faith, that the committee merits confidence.
+			</section>
+		</section>
+		<section prefix="C">A director is not liable for any action taken as a director, or any failure to take any action, if he performed the duties of his office in compliance with this section.
+		</section>
+		<section prefix="D">A person alleging a violation of this section has the burden of proving the violation.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-206, 13-207, 13.1-44; 1956, c. 428; 1985, c. 522; 2019, c. 734.</history>
+</law>

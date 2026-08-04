@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="18" level="2">Executions and Other Means of Recovery</unit>
+		<unit label="article" identifier="7" level="3">Garnishment</unit>
+	</structure>
+	<section_number>8.01-516.1</section_number>
+	<catch_line>Garnishment dispositions</catch_line>
+	<text>
+		<section prefix="A">If the amount of liability is not disputed and the garnishee admits liability to the court either by (i) examination on the return date of the summons, or (ii) written statement as provided by § 8.01-515 on or before the return date of the summons, the court shall order the delivery of such estate or payment of the value of such estate into court without entering judgment against the garnishee. Should a garnishee fail to comply with the order within thirty days after service of such order on the garnishee, then judgment may be entered against the garnishee.
+		</section>
+		<section prefix="B">Upon certification by the judgment creditor, its bona fide employee, or its attorney that its claim has been satisfied or that it desires its action against the garnishee to be dismissed for any other reason, the court, or clerk thereof, where the action has been filed, shall, by written order, which may be served by the sheriff, notify the garnishee to cease withholding assets of the judgment debtor, and to treat any funds previously withheld as if the original garnishment action had not been filed. The court in which the garnishment action was filed shall then dismiss the action on or before the return date.
+		</section>
+	</text>
+	<history>1983, c. 399; 1993, c. 385.</history>
+</law>

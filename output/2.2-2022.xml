@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="20.1" level="4">Virginia Information Technologies Agency</unit>
+		<unit label="article" identifier="3" level="5">Virginia Technology Infrastructure Fund</unit>
+	</structure>
+	<section_number>2.2-2022</section_number>
+	<catch_line>Definitions; purpose</catch_line>
+	<text>
+		<section prefix="A">As used in this article, unless the context requires a different meaning, "costs" means the reasonable and customary charges for goods and services incurred or to be incurred.
+		</section>
+		<section prefix="B">In order for the Commonwealth to take advantage of technological applications in providing services and solving problems of Virginia's citizens, there is a need to invest in new and emerging technologies that will provide for greater efficiencies, better responsiveness, and improved cybersecurity. The purpose of this article is to create the Virginia Technology Infrastructure Fund (the Fund). The Fund shall make moneys available to state agencies and institutions of higher education for information technology projects and services.
+		</section>
+	</text>
+	<history>1996, cc. 94, 823, §§ 9-145.52, 9-145.53; 1999, cc. 412, 421, 433; 2001, c. 844, § 2.2-1702; 2003, cc. 981, 1021; 2022, cc. 260, 261.</history>
+</law>

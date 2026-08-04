@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="19" level="2">Exceptions and Writs of Error</unit>
+	</structure>
+	<section_number>19.2-321</section_number>
+	<catch_line>With whom petition for writ of error filed</catch_line>
+	<text>
+		<section prefix="A">The petition to the Court of Appeals shall be filed with the Clerk of the Court in the manner and within the time provided by law.
+		</section>
+		<section prefix="B">The petition in a case wherein a writ of error lies from the Supreme Court shall be filed with the Clerk of that Court in the manner and within the time provided by law.
+		</section>
+	</text>
+	<history>Code 1950, § 19.1-285; 1960, c. 366; 1975, c. 495; 1976, c. 615; 1984, c. 703.</history>
+</law>

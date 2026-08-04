@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="16.1" level="1">Courts Not of Record</unit>
+		<unit label="chapter" identifier="11" level="2">Juvenile and Domestic Relations District Courts</unit>
+		<unit label="article" identifier="4" level="3">Immediate Custody, Arrest, Detention and Shelter Care</unit>
+	</structure>
+	<section_number>16.1-247.1</section_number>
+	<catch_line>Custodial interrogation of a child; parental notification and contact; inadmissibility of statement</catch_line>
+	<text>
+		<section prefix="A">Prior to any custodial interrogation of a child by a law-enforcement officer who has arrested such child pursuant to subsection C, C1, or D of § 16.1-246, the child's parent, guardian, or legal custodian shall be notified of his arrest and the child shall have contact with his parent, guardian, or legal custodian. The notification and contact required by this subsection may be in person, electronically, by telephone, or by video conference.
+		</section>
+		<section prefix="B">Notwithstanding the provisions of subsection A, a custodial interrogation may be conducted (i) if the child's parent, guardian, or legal custodian is a codefendant in the alleged offense; (ii) if the child's parent, guardian, or legal custodian has been arrested for, has been charged with, or is being investigated for a crime against the child; (iii) if, after every reasonable effort has been made to comply with subsection A, the child's parent, guardian, or legal custodian cannot be located or refuses contact with the child; or (iv) if the law-enforcement officer conducting the custodial interrogation reasonably believes the information sought is necessary to protect life, limb, or property from an imminent danger and the law-enforcement officer's questions are limited to those that are reasonably necessary to obtain such information.
+		</section>
+		<section prefix="C">A law-enforcement officer shall be prohibited from knowingly and intentionally making false statements about any known material fact, including by use of inauthentic replica documents, prior to or during a custodial interrogation of a child in order to secure the cooperation, confession, or conviction of such child. As used in this subsection, "inauthentic replica documents" means any documents, including computer-generated documents, created by any means, including artificial intelligence, by a law-enforcement officer or his agent that (i) contain a false statement, signature, seal, letterhead, or contact information or (ii) materially misrepresent any fact.
+		</section>
+		<section prefix="D">Except as provided in subsection B, if a law-enforcement officer knowingly violates the provisions of subsection A or C, any statements made by such child shall be inadmissible in any delinquency proceeding or criminal proceeding against such child, unless the attorney for the Commonwealth proves by a preponderance of the evidence that the statement was made knowingly, intelligently, and voluntarily.
+		</section>
+	</text>
+	<history>2020, c. 480; 2024, c. 719; 2025, c. 669.</history>
+</law>

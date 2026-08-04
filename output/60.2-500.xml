@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Taxation</unit>
+		<unit label="article" identifier="1" level="3">Employer Taxation</unit>
+	</structure>
+	<section_number>60.2-500</section_number>
+	<catch_line>Determination with respect to whether employing unit is employer; whether services constitute employment; or whether business transfer is illegal</catch_line>
+	<text>
+		<section prefix="A">The Commission may, upon its own motion or upon application of an employing unit, and after not less than 30 days' notice in writing mailed to the last known address of such employing unit and an opportunity for hearing, make findings of fact, and on that basis, determine whether:
+			<section prefix="1">An employing unit constitutes an employer;
+			</section>
+			<section prefix="2">Services performed for or in connection with the business of an employing unit constitute employment for such employing unit; or
+			</section>
+			<section prefix="3">There has been a transfer as defined in § 60.2-536.1.
+			</section>
+		</section>
+		<section prefix="B">All testimony at any hearing pursuant to this section shall be recorded but need not be transcribed unless a petition for judicial review from such determination is filed in the manner herein prescribed. At such hearing the interests of the Commonwealth may be represented by the Office of the Attorney General. The Commissioner shall have the power to designate a special examiner to hold such hearings, and may authorize and empower such special examiner to decide any matter so heard, in which event the decision of such special examiner shall be the final decision of the Commission under this section, subject to judicial review under subsection C. The Commissioner or his designee shall promptly inform the appropriate attorney for the Commonwealth of any final decision that an employer transferred or attempted to transfer a trade or business for the primary or sole purpose of obtaining a lower unemployment tax rate, or was advised to do so.
+		</section>
+		<section prefix="C">Judicial review of any such determination made in subsection B may be initiated within 30 days after mailing notice of such findings and determination to the employing unit or, in the absence of mailing, within 30 days after delivering such notice and determination, in the Circuit Court of the City of Richmond. Such judicial review shall be commenced by the filing of a petition, which need not be verified but which shall state the grounds upon which a review is sought. Service of two copies of such petition upon the Commissioner shall be deemed completed service and such petition shall be filed with the clerk of the court within five days after service thereof. With its answer the Commission shall certify and file with the court all documents and papers and a transcript of all testimony taken in the matter, together with its findings of fact and decision therein. In any judicial proceedings under this article, the Commission's findings of facts, if supported by the evidence and in the absence of fraud, shall be conclusive, and the jurisdiction of the court shall be confined to questions of law. Such actions shall be given preference on the docket over all other cases except cases to which the Commonwealth is a party.
+		</section>
+		<section prefix="D">An appeal may be taken from the decision of such court to the Court of Appeals, in conformity with Part Five A of the Rules of Supreme Court and other applicable laws. In any such proceedings for judicial review, the Commission shall be represented by the Office of the Attorney General. A determination by the Commission from which no judicial review has been commenced shall be conclusive in any subsequent judicial proceeding involving liability for taxes against the employing unit or its successor under the provisions of subdivision B 1 of § 60.2-210 and of subsection B of § 60.2-523.
+		</section>
+	</text>
+	<history>Code 1950, §§ 60-58, 60-59; 1968, c. 738, §§ 60.1-70, 60.1-71; 1970, c. 104; 1977, c. 445; 1981, c. 99; 1984, c. 703; 1986, c. 480; 2005, cc. 47, 91; 2012, cc. 65, 161.</history>
+</law>

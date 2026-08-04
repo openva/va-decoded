@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="27" level="3">Uniform Powers of Appointment Act</unit>
+		<unit label="article" identifier="3" level="4">Exercise of Power of Appointment</unit>
+	</structure>
+	<section_number>64.2-2714</section_number>
+	<catch_line>Intent to exercise; determining intent from residuary clause</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Residuary clause" does not include a residuary clause containing a blanket-exercise clause or a specific-exercise clause.
+			"Will" includes a codicil and a testamentary instrument that revises another will.
+		</section>
+		<section prefix="B">A residuary clause in a powerholder's will, or a comparable clause in the powerholder's revocable trust, manifests the powerholder's intent to exercise a power of appointment only if:
+			<section prefix="1">The terms of the instrument containing the residuary clause do not manifest a contrary intent;
+			</section>
+			<section prefix="2">The power is a general power exercisable in favor of the powerholder's estate;
+			</section>
+			<section prefix="3">There is no gift-in-default clause or the clause is ineffective; and
+			</section>
+			<section prefix="4">The powerholder did not release the power.
+			</section>
+		</section>
+	</text>
+	<history>2016, c. 266.</history>
+</law>

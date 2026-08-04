@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="18" level="3">Records and Reports</unit>
+	</structure>
+	<section_number>13.1-774</section_number>
+	<catch_line>Financial statements for shareholders</catch_line>
+	<text>
+		<section prefix="A">Upon the written request of a shareholder, a corporation shall deliver or make available to the requesting shareholder by posting on its website or by other generally recognized means financial statements for the most recent fiscal year for which annual financial statements have been prepared for the corporation. The financial statements may be consolidated or combined statements of the corporation and one or more of its subsidiaries, as appropriate, that include a balance sheet as of the end of the corporation's fiscal year, an income statement for that year, and a statement of changes in shareholders' equity for the year unless that information appears elsewhere in the financial statements. If financial statements for the specified period have been prepared for the corporation on the basis of generally accepted accounting principles, the corporation shall deliver or make available such financial statements to the requesting shareholder.
+		</section>
+		<section prefix="B">If the annual financial statements are audited or otherwise reported upon by a public accountant, the accountant's report must accompany them. If the annual financial statements are not reported upon by a public accountant, the president or the person responsible for the corporation's accounting records shall provide the shareholder with a statement of the basis of accounting used in preparation of the annual financial statements and a description of any respects in which the statements were not prepared on a basis of accounting consistent with the statements prepared for the preceding year.
+		</section>
+		<section prefix="C">A public corporation may fulfill its responsibilities under this section by delivering the specified financial statements, or otherwise making them available, in any manner permitted by the applicable rules and regulations of the U.S. Securities and Exchange Commission.
+		</section>
+		<section prefix="D">Notwithstanding the provisions of subsections A and B:
+			<section prefix="1">As a condition to delivering or making available financial statements to a requesting shareholder, the corporation may require the requesting shareholder to agree to reasonable restrictions on the confidentiality, use, and distribution of such financial statements; and
+			</section>
+			<section prefix="2">The corporation may, if it reasonably determines that the shareholder's request is not made in good faith or for a proper purpose, decline to deliver or make available such financial statements to that shareholder.
+			</section>
+		</section>
+		<section prefix="E">If a corporation does not respond to a shareholder's request for financial statements pursuant to subsection A within 30 days of delivery of such request to the corporation's secretary:
+			<section prefix="1">The requesting shareholder may apply to the circuit court in the city or county where the corporation's principal office is located, or, if none in the Commonwealth, where its registered office is located for an order requiring delivery of or access to the requested financial statements. The court shall dispose of an application under this subsection on an expedited basis.
+			</section>
+			<section prefix="2">If the court orders delivery or access to the requested financial statements, it may impose reasonable restrictions on their confidentiality, use, or distribution.
+			</section>
+			<section prefix="3">In such proceeding, if the corporation has declined to deliver or make available such financial statements because the requesting shareholder had been unwilling to agree to restrictions proposed by the corporation on the confidentiality, use, or distribution of such financial statements, the corporation shall have the burden of demonstrating that the restrictions proposed by the corporation were reasonable.
+			</section>
+			<section prefix="4">In such proceeding, if the corporation has declined to deliver or make available such financial statements pursuant to subdivision D 2 of § 13.1-774, the corporation shall have the burden of demonstrating that it had reasonably determined that the shareholder's request was not made in good faith or for a proper purpose.
+			</section>
+			<section prefix="5">If the court orders delivery or access to the requested financial statements, it may order the corporation to pay the shareholder's expenses incurred to obtain such order unless the corporation establishes that it had refused delivery or access to the requested financial statements because the shareholder had refused to agree to reasonable restrictions on the confidentiality, use, or distribution of the financial statements or that the corporation had reasonably determined that the shareholder's request was not made in good faith or for a proper purpose.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-47; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2005, c. 765; 2010, c. 782; 2019, c. 734.</history>
+</law>

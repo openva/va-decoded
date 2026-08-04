@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="4" level="3">Relations of Partners to Each Other and to Partnership</unit>
+	</structure>
+	<section_number>50-73.101</section_number>
+	<catch_line>Partner's rights and duties with respect to information</catch_line>
+	<text>
+		<section prefix="A">A partnership shall keep its books and records, if any, at its principal office.
+		</section>
+		<section prefix="B">A partnership shall provide partners and their agents and attorneys access to its books and records. It shall provide former partners and their agents and attorneys access to books and records pertaining to the period during which they were partners. The right of access provides the opportunity to inspect and copy books and records during ordinary business hours. A partnership may impose a reasonable charge, covering the costs of labor and material, for copies of documents furnished.
+		</section>
+		<section prefix="C">Each partner and the partnership shall furnish to a partner, and to the legal representative of a deceased partner or partner under legal disability:
+			<section prefix="1">Without demand, any information concerning the partnership's business and affairs reasonably required for the proper exercise of the partner's rights and duties under the partnership agreement or this chapter; and
+			</section>
+			<section prefix="2">On demand, any other information concerning the partnership's business and affairs, except to the extent the demand or the information demanded is unreasonable or otherwise improper under the circumstances.
+			</section>
+		</section>
+	</text>
+	<history>1996, c. 292; 2007, c. 631.</history>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="34" level="3">Certification of Agricultural Products</unit>
+	</structure>
+	<section_number>3.2-3403</section_number>
+	<catch_line>Virginia Verified Meat certification</catch_line>
+	<text>
+		<section prefix="A">For the purposes of this section:
+			"Processed" means a substantial transformation at a USDA-inspected or Department-inspected facility in the Commonwealth approved by the Department whereby an animal or animal product is transformed into a new product with a new name, character, or use.
+			"Raised" means that an animal has spent the majority of its lifespan within the boundaries of the Commonwealth.
+			"Virginia Verified Meat" means any cattle, goats, sheep, or swine that meet the following conditions: (i) such animal is bred and born in the Commonwealth; (ii) such animal is raised in the Commonwealth; and (iii) such animal is processed in the Commonwealth.
+		</section>
+		<section prefix="B">A person shall not label any product as Virginia Verified Meat unless such product meets the definition of Virginia Verified Meat pursuant to subsection A or is granted a waiver by the Department for operating across state lines.
+		</section>
+		<section prefix="C">Any person not employed by the Department shall be eligible to certify Virginia Verified Meat claims consistent with the provisions of this chapter with approval by the Commissioner and shall provide documentation of his certification process to the Commissioner for the Commissioner's approval.
+		</section>
+	</text>
+	<history>2024, c. 420.</history>
+</law>

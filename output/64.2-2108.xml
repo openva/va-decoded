@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="D" level="3">Guardianship of Incapacitated Persons</unit>
+		<unit label="chapter" identifier="21" level="4">Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act</unit>
+		<unit label="article" identifier="2" level="5">Jurisdiction</unit>
+	</structure>
+	<section_number>64.2-2108</section_number>
+	<catch_line>Special jurisdiction</catch_line>
+	<text>
+		<section prefix="A">A court of the Commonwealth lacking jurisdiction under the provisions of § 64.2-2107 has special jurisdiction to do any of the following:
+			<section prefix="1">Appoint a guardian in an emergency for a term not exceeding 90 days for a respondent who is physically present in the Commonwealth;
+			</section>
+			<section prefix="2">Issue a conservatorship order with respect to real or tangible personal property located in the Commonwealth; or
+			</section>
+			<section prefix="3">Appoint a guardian or conservator for an incapacitated or protected person for whom a provisional order to transfer the proceeding from another state has been issued under procedures similar to § 64.2-2114.
+			</section>
+		</section>
+		<section prefix="B">If a petition for the appointment of a guardian in an emergency is brought in the Commonwealth and the Commonwealth was not the respondent's home state on the date the petition was filed, the court shall dismiss the proceeding at the request of the court of the home state, if any, whether dismissal is requested before or after the emergency appointment.
+		</section>
+	</text>
+	<history>2011, c. 518, § 37.2-1040; 2012, c. 614.</history>
+</law>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4A" level="1">Commercial Code — Funds Transfers</unit>
+		<unit label="part" identifier="3" level="2">Execution of Sender's Payment Order by Receiving Bank</unit>
+	</structure>
+	<section_number>8.4A-304</section_number>
+	<catch_line>Duty of sender to report erroneously executed payment order</catch_line>
+	<text>
+		If the sender of a payment order that is erroneously executed as stated in § 8.4A-303 receives notification from the receiving bank that the order was executed or that the sender's account was debited with respect to the order, the sender has a duty to exercise ordinary care to determine, on the basis of information available to the sender, that the order was erroneously executed and to notify the bank of the relevant facts within a reasonable time not exceeding ninety days after the notification from the bank was received by the sender. If the sender fails to perform that duty, the bank is not obliged to pay interest on any amount refundable to the sender under subsection (d) of § 8.4A-402 for the period before the bank learns of the execution error. The bank is not entitled to any recovery from the sender on account of a failure by the sender to perform the duty stated in this section.
+	</text>
+	<history>1990, c. 9.</history>
+</law>

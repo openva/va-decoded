@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="28" level="2">Natural Gas System Expansion Infrastructure</unit>
+	</structure>
+	<section_number>56-610</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, unless the context requires otherwise:
+		"Affected customer" means any customer of a natural gas utility receiving service at a premises served by eligible system expansion infrastructure. Any customer receiving natural gas service for which the natural gas utility has received the entire amount required to cover the cost of the eligible system expansion infrastructure as a contribution in aid to construction shall not be considered an affected customer.
+		"Eligible expansion investment" means that portion of the total capital investment made by a natural gas utility in constructing eligible system expansion infrastructure that is in excess of those costs that would be considered economic under a natural gas utility's economic test, net of any contributions in aid of construction, up to the maximum level of investment per affected customer specified in a system expansion plan.
+		"Eligible system expansion infrastructure" means natural gas main pipelines and associated facilities, including service lines, meters, and other pertinent facilities, that are constructed and operated by a natural gas utility to deliver natural gas service to affected customers located in an unserved area.
+		"Eligible system expansion infrastructure costs" includes:
+		<section prefix="1">Return on investment. In calculating the return on investment, the Commission shall use the natural gas utility's weighted average cost of capital, including the cost of debt and equity, based on its regulatory capital structure used in determining the natural gas utility's base rates in effect during the construction period of the eligible system expansion, applied to eligible expansion investment. The investment, as adjusted for the reserve for depreciation and accumulated deferred income taxes, shall be multiplied by the weighted average cost of capital to determine the return on investment;
+		</section>
+		<section prefix="2">A revenue conversion factor, which factor, including income taxes and an allowance for bad debt expense, shall be applied to the required operating income resulting from the eligible system infrastructure expansion costs;
+		</section>
+		<section prefix="3">Education and outreach expense. Such expense shall include costs for education and outreach for increasing program awareness;
+		</section>
+		<section prefix="4">Depreciation, the calculation of which by the Commission shall be based on the natural gas utility's current depreciation rates applied to eligible expansion investment; and
+		</section>
+		<section prefix="5">Property taxes attributable to eligible expansion investment.
+			"Natural gas utility" means any investor-owned public service company engaged in the business of furnishing natural gas service to the public.
+			"System expansion plan" means a plan filed by a natural gas utility that identifies the level of eligible system expansion infrastructure costs that are projected to be incurred over the term of the plan and provides the calculation of a system expansion rider.
+			"System expansion rider" means a recovery mechanism that will allow for recovery of the eligible system expansion infrastructure costs from affected customers, through a separate mechanism from the customer rates established in a rate case using the cost-of-service methodology set forth in § 56-235.2 or a performance-based regulation plan authorized by § 56-235.6. A system expansion rider shall be designed to recover eligible system expansion infrastructure costs.
+		</section>
+	</text>
+	<history>2015, cc. 28, 231.</history>
+</law>

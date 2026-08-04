@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="3" level="3">Formation of Corporations</unit>
+	</structure>
+	<section_number>13.1-625</section_number>
+	<catch_line>Emergency bylaws</catch_line>
+	<text>
+		<section prefix="A">Unless the articles of incorporation provide otherwise, the board of directors of a corporation may adopt bylaws to be effective only in an emergency defined in subsection D of this section. The emergency bylaws, which are subject to amendment or repeal by the shareholders, may make all provisions necessary for managing the corporation during the emergency, including provisions that may be inconsistent with one or more provisions of this chapter with respect to:
+			<section prefix="1">Procedures for calling a meeting of the board of directors;
+			</section>
+			<section prefix="2">Quorum requirements for the meeting; and
+			</section>
+			<section prefix="3">Designation of additional or substitute directors.
+			</section>
+		</section>
+		<section prefix="B">All provisions of the regular bylaws not inconsistent with the emergency bylaws remain effective during the emergency. The emergency bylaws are not effective after the emergency ends.
+		</section>
+		<section prefix="C">Corporate action taken in good faith in accordance with the emergency bylaws:
+			<section prefix="1">Binds the corporation; and
+			</section>
+			<section prefix="2">May not be used to impose liability on a director, officer, employee, or agent of the corporation.
+			</section>
+		</section>
+		<section prefix="D">An emergency exists for purposes of this section and § 13.1-628 if there is a catastrophic event, including an attack on the United States or in any locality in which the corporation conducts its business or customarily holds meetings of the board of directors or shareholders, an epidemic or pandemic, or a declaration of a national emergency by the United States government or an emergency by the government of the locality in which the corporation's principal office is located, that affects the corporation and regardless of whether a quorum of the board of directors or a committee can be readily convened for action.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-24.1; 1962, c. 102; 1975, c. 500; 1985, c. 522; 2019, c. 734; 2021, Sp. Sess. I, c. 487.</history>
+</law>

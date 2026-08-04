@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-1407</section_number>
+	<catch_line>Prohibited investments</catch_line>
+	<text>
+		<section prefix="A">No domestic insurer shall invest in or loan funds secured by:
+			<section prefix="1">Issued shares of its own capital stock without the Commission's approval. This approval shall be based on an evaluation that indicates the investment does not adversely affect the insurer or its policyholders. The insurer shall not invest in or own more than 20 percent of its outstanding issued stock, except for the purpose of mutualization;
+			</section>
+			<section prefix="2">Securities of an insolvent entity;
+			</section>
+			<section prefix="3">Securities that, by their terms, will subject the insurer to any assessment other than for taxes or for wages; however, the term "assessment" shall not include ordinary contractual payments or the transfer of collateral or margin made under derivative instruments invested in or owned under § 38.2-1428;
+			</section>
+			<section prefix="4">Investments that, as determined by the Commission, are designed to evade any prohibition of this title; or
+			</section>
+			<section prefix="5">Any obligation or investment prohibited by § 38.2-1411.2.
+			</section>
+		</section>
+		<section prefix="B">Notwithstanding the provisions of this chapter, the Commission may order a domestic insurer to limit or withdraw from certain investments, or discontinue certain investment practices, to the extent the Commission finds that such investment or investment practice endangers the solvency of the insurer or is otherwise hazardous to policyholders, creditors or the public in this Commonwealth.
+		</section>
+	</text>
+	<history>1983, c. 457, § 38.1-217.8; 1986, c. 562; 1992, c. 588; 2011, c. 198.</history>
+</law>

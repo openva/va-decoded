@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="22" level="3">Planning, Subdivision of Land and Zoning</unit>
+		<unit label="article" identifier="7.2" level="4">Zoning for Wireless Communications Infrastructure</unit>
+	</structure>
+	<section_number>15.2-2316.3</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article, unless the context requires a different meaning:
+		"Administrative review-eligible project" means a project that provides for:
+		<section prefix="1">The installation or construction of a new structure that is not more than 50 feet above ground level, provided that the structure with attached wireless facilities is (i) not more than 10 feet above the tallest existing utility pole located within 500 feet of the new structure within the same public right-of-way or within the existing line of utility poles; (ii) not located within the boundaries of a local, state, or federal historic district; (iii) not located inside the jurisdictional boundaries of a locality having expended a total amount equal to or greater than 35 percent of its general fund operating revenue, as shown in the most recent comprehensive annual financial report, on undergrounding projects since 1980; and (iv) designed to support small cell facilities; or
+		</section>
+		<section prefix="2">The co-location on any existing structure of a wireless facility that is not a small cell facility.
+			"Antenna" means communications equipment that transmits or receives electromagnetic radio signals used in the provision of any type of wireless communications services.
+			"Base station" means a station that includes a structure that currently supports or houses an antenna, transceiver, coaxial cables, power cables, or other associated equipment at a specific site that is authorized to communicate with mobile stations, generally consisting of radio transceivers, antennas, coaxial cables, power supplies, and other associated electronics.
+			"Co-locate" means to install, mount, maintain, modify, operate, or replace a wireless facility on, under, within, or adjacent to a base station, building, existing structure, utility pole, or wireless support structure. "Co-location" has a corresponding meaning.
+			"Department" means the Department of Transportation.
+			"Existing structure" means any structure that is installed or approved for installation at the time a wireless services provider or wireless infrastructure provider provides notice to a locality or the Department of an agreement with the owner of the structure to co-locate equipment on that structure. "Existing structure" includes any structure that is currently supporting, designed to support, or capable of supporting the attachment of wireless facilities, including towers, buildings, utility poles, light poles, flag poles, signs, and water towers.
+			"Micro-wireless facility" means a small cell facility that is not larger in dimension than 24 inches in length, 15 inches in width, and 12 inches in height and that has an exterior antenna, if any, not longer than 11 inches.
+			"New structure" means a wireless support structure that has not been installed or constructed, or approved for installation or construction, at the time a wireless services provider or wireless infrastructure provider applies to a locality for any required zoning approval.
+			"Project" means (i) the installation or construction by a wireless services provider or wireless infrastructure provider of a new structure or (ii) the co-location on any existing structure of a wireless facility that is not a small cell facility. "Project" does not include the installation of a small cell facility by a wireless services provider or wireless infrastructure provider on an existing structure to which the provisions of § 15.2-2316.4 apply.
+			"Small cell facility" means a wireless facility that meets both of the following qualifications: (i) each antenna is located inside an enclosure of no more than six cubic feet in volume, or, in the case of an antenna that has exposed elements, the antenna and all of its exposed elements could fit within an imaginary enclosure of no more than six cubic feet and (ii) all other wireless equipment associated with the facility has a cumulative volume of no more than 28 cubic feet, or such higher limit as is established by the Federal Communications Commission. The following types of associated equipment are not included in the calculation of equipment volume: electric meter, concealment, telecommunications demarcation boxes, back-up power systems, grounding equipment, power transfer switches, cut-off switches, and vertical cable runs for the connection of power and other services.
+			"Standard process project" means any project other than an administrative review-eligible project.
+			"Utility pole" means a structure owned, operated, or owned and operated by a public utility, local government, or the Commonwealth that is designed specifically for and used to carry lines, cables, or wires for communications, cable television, or electricity.
+			"Water tower" means a water storage tank, or a standpipe or an elevated tank situated on a support structure, originally constructed for use as a reservoir or facility to store or deliver water.
+			"Wireless facility" means equipment at a fixed location that enables wireless communications between user equipment and a communications network, including (i) equipment associated with wireless services, such as private, broadcast, and public safety services, as well as unlicensed wireless services and fixed wireless services, such as microwave backhaul, and (ii) radio transceivers, antennas, coaxial, or fiber-optic cable, regular and backup power supplies, and comparable equipment, regardless of technological configuration.
+			"Wireless infrastructure provider" means any person that builds or installs transmission equipment, wireless facilities, or wireless support structures, but that is not a wireless services provider.
+			"Wireless services" means (i) "personal wireless services" as defined in 47 U.S.C. § 332(c)(7)(C)(i); (ii) "personal wireless service facilities" as defined in 47 U.S.C. § 332(c)(7)(C)(ii), including commercial mobile services as defined in 47 U.S.C. § 332(d), provided to personal mobile communication devices through wireless facilities; and (iii) any other fixed or mobile wireless service, using licensed or unlicensed spectrum, provided using wireless facilities.
+			"Wireless services provider" means a provider of wireless services.
+			"Wireless support structure" means a freestanding structure, such as a monopole, tower, either guyed or self-supporting, or suitable existing structure or alternative structure designed to support or capable of supporting wireless facilities. "Wireless support structure" does not include any telephone or electrical utility pole or any tower used for the distribution or transmission of electrical service.
+		</section>
+	</text>
+	<history>2017, c. 835; 2018, cc. 835, 844.</history>
+</law>

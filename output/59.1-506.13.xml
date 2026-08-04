@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.13</section_number>
+	<catch_line>Contracts involving publishers, dealers, and end users</catch_line>
+	<text>
+		<section prefix="a">In this section:
+			<section prefix="1">"Dealer" means a merchant licensee that receives information directly or indirectly from a licensor for sale or license to end users.
+			</section>
+			<section prefix="2">"End user" means a licensee that acquires a copy of the information from a dealer by delivery on a tangible medium for the licensee's own use and not for sale, license, transmission to third persons, or public display or performance for a fee.
+			</section>
+			<section prefix="3">"Publisher" means a licensor, other than a dealer, that offers a license to an end user with respect to information distributed by a dealer to the end user.
+			</section>
+		</section>
+		<section prefix="b">In a contract between a dealer and an end user, if the end user's right to use the information or informational rights is subject to a license by the publisher and there was no opportunity to review the license before the end user became obligated to pay the dealer, the following rules apply:
+			<section prefix="1">The contract between the end user and the dealer is conditioned on the end user's agreement to the publisher's license.
+			</section>
+			<section prefix="2">If the end user does not agree, such as by manifesting assent, to the terms of the publisher's license, the end user has a right to a return from the dealer. A right under this paragraph is a return for purposes of §§ 59.1-501.12, 59.1-502.8, and 59.1-502.9.
+			</section>
+			<section prefix="3">The dealer is not bound by the terms, and does not receive the benefits, of an agreement between the publisher and the end user unless the dealer and end user adopt those terms as part of the agreement.
+			</section>
+		</section>
+		<section prefix="c">If an agreement provides for distribution of copies on a tangible medium or in packaging provided by the publisher or an authorized third party, a dealer may distribute those copies and documentation only:
+			<section prefix="1">in the form as received; and
+			</section>
+			<section prefix="2">subject to the terms of any license that the publisher provides to the dealer to be furnished to end users.
+			</section>
+		</section>
+		<section prefix="d">A dealer that enters into an agreement with an end user is a licensor with respect to the end user under this chapter.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

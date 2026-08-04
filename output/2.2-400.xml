@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4" level="4">Secretary of the Commonwealth</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-400</section_number>
+	<catch_line>Appointment and term of office; filling vacancies; oath</catch_line>
+	<text>
+		<section prefix="A">The Governor shall appoint, subject to confirmation by the General Assembly, a Secretary of the Commonwealth for a term commencing on the Monday after the third Wednesday in January after his inauguration. The appointment shall be for a term of four years. Vacancies shall be filled by appointment by the Governor for the unexpired term and shall be effective until thirty days after the next meeting of the ensuing General Assembly and, if confirmed, thereafter for the remainder of the term.
+		</section>
+		<section prefix="B">The Secretary of the Commonwealth, before he acts as such, shall, in addition to the other oaths prescribed by law, take an oath to keep secret such matters as he may be required by the Governor to conceal.
+		</section>
+	</text>
+	<history>Code 1950, § 2-59; 1958, c. 1, § 2-57.1; 1966, c. 677, §§ 2.1-65, 2.1-67; 2001, c. 844.</history>
+</law>

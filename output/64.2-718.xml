@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="3" level="4">Representation</unit>
+	</structure>
+	<section_number>64.2-718</section_number>
+	<catch_line>Appointment of representative</catch_line>
+	<text>
+		<section prefix="A">If the court determines that an interest is not represented under this chapter, or that the otherwise available representation might be inadequate, the court may appoint a representative to receive notice, give consent, and otherwise represent, bind, and act on behalf of a minor, incapacitated, or unborn individual, or a person whose identity or location is unknown. A representative may be appointed to represent several persons or interests.
+		</section>
+		<section prefix="B">A representative may act on behalf of the individual represented with respect to any matter arising under this chapter, whether or not a judicial proceeding concerning the trust is pending.
+		</section>
+		<section prefix="C">In making decisions, a representative may consider general benefit accruing to the living members of the individual's family.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-543.05; 2012, c. 614.</history>
+</law>

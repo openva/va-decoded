@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="9" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-689</section_number>
+	<catch_line>Committees</catch_line>
+	<text>
+		<section prefix="A">Unless the articles of incorporation or bylaws provide otherwise, a board of directors may establish one or more committees of the board of directors to perform functions of the board of directors and appoint two or more directors of the board of directors to serve on each committee. While non-board members may also be appointed to a committee, they may not vote on any matter for which the committee is performing a function of the board of directors. Each committee member serves at the pleasure of the board of directors.
+		</section>
+		<section prefix="B">Unless the articles of incorporation or bylaws provide otherwise, the establishment of a committee and appointment of members to it shall be approved by the greater number of (i) a majority of all the directors in office when the action is taken or (ii) the number of directors required by the articles of incorporation or bylaws to take action under § 13.1-688.
+		</section>
+		<section prefix="C">Sections 13.1-684 through 13.1-688, which govern meetings, action without meetings, notice and waiver of notice, and quorum and voting requirements of the board of directors, apply to committees and their members as well.
+		</section>
+		<section prefix="D">To the extent specified by the board of directors or in the articles of incorporation or bylaws, each committee may exercise the authority of the board of directors under § 13.1-673, except that a committee may not:
+			<section prefix="1">Approve or propose to shareholders action that this chapter requires to be approved by shareholders;
+			</section>
+			<section prefix="2">Fill vacancies on the board of directors or, subject to subsection E, on any committee;
+			</section>
+			<section prefix="3">Amend the articles of incorporation pursuant to § 13.1-706;
+			</section>
+			<section prefix="4">Adopt, amend, or repeal the bylaws;
+			</section>
+			<section prefix="5">Approve a plan of merger not requiring shareholder approval;
+			</section>
+			<section prefix="6">Authorize or approve a distribution, except according to a formula or method, or within limits, prescribed by the board of directors; or
+			</section>
+			<section prefix="7">Authorize or approve the issuance or sale or contract for sale of shares, or determine the designation and rights, preferences, and limitations of a class or series of shares, except that the board of directors may (i) authorize a committee to do so subject to such limits, if any, as may be prescribed by the board of directors, and (ii) authorize a senior executive officer of the corporation to do so subject to such limits, if any, as may be prescribed by the board of directors or by subsection C of § 13.1-646.
+			</section>
+		</section>
+		<section prefix="E">The board of directors may appoint one or more directors as alternate members of any committee to replace any absent or disqualified member during the member's absence or disqualification. Unless the articles of incorporation or the bylaws or the resolutions of the board of directors establishing the committee provide otherwise, in the event of the absence or disqualification of a member of a committee and there are no alternate members appointed by the board of directors, the member or members of the committee present at any meeting and not disqualified from voting may by unanimous action appoint another director to act in place of the absent or disqualified member during that member's absence or disqualification.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-40; 1956, c. 428; 1975, c. 500; 1980, c. 341; 1985, c. 522; 2005, c. 765; 2010, c. 782; 2019, c. 734.</history>
+</law>

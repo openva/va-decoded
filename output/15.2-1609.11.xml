@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="16" level="3">Local Constitutional Officers, Courthouses and Supplies</unit>
+		<unit label="article" identifier="3" level="4">Sheriff</unit>
+	</structure>
+	<section_number>15.2-1609.11</section_number>
+	<catch_line>Arrest or summons quota prohibited</catch_line>
+	<text>
+		<section prefix="A">A sheriff shall not establish a formal or informal quota that requires a deputy to make a specific number of arrests or issue a specific number of summonses within a designated period of time.
+		</section>
+		<section prefix="B">A sheriff shall not use the number of arrests made or summonses issued by a deputy as the sole criterion for evaluating a deputy's job performance.
+		</section>
+		<section prefix="C">Nothing in this section shall preclude a sheriff from collecting, analyzing, and utilizing information concerning the number of arrests made or summonses issued for any other purpose.
+		</section>
+	</text>
+	<history>2022, cc. 208, 209.</history>
+</law>

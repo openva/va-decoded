@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="15" level="4">Proof of Financial Responsibility</unit>
+	</structure>
+	<section_number>46.2-436</section_number>
+	<catch_line>Methods of proving financial responsibility</catch_line>
+	<text>
+		Proof of financial responsibility when required under this chapter may be given by proof that:
+		<section prefix="1">A policy or policies of motor vehicle liability insurance have been obtained and are in full force;
+		</section>
+		<section prefix="2">A bond has been duly executed;
+		</section>
+		<section prefix="3">A deposit has been made of money or securities; or
+		</section>
+		<section prefix="4">A self-insurance certificate has been filed, all as provided in this chapter.
+			Such proof shall be presented to the Department in a form prescribed by the Commissioner.
+		</section>
+	</text>
+	<history>Code 1950, § 46-456; 1958, c. 541, § 46.1-468; 1989, c. 727; 2025, cc. 163, 177.</history>
+</law>

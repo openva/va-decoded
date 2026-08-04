@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="8" level="3">Remedies</unit>
+	</structure>
+	<section_number>59.1-508.4</section_number>
+	<catch_line>Liquidation of damages</catch_line>
+	<text>
+		<section prefix="a">Damages for breach of contract by either party may be liquidated by agreement in an amount that is reasonable in light of:
+			<section prefix="1">the loss anticipated at the time of contracting;
+			</section>
+			<section prefix="2">the actual loss; or
+			</section>
+			<section prefix="3">the actual or anticipated difficulties of proving loss in the event of breach.
+			</section>
+		</section>
+		<section prefix="b">If a term liquidating damages is unenforceable under this subsection, the aggrieved party may pursue the remedies provided in this chapter, except as limited by other terms of the contract.
+		</section>
+		<section prefix="c">If a party justifiably withholds delivery of copies because of the other party's breach of contract, the party in breach is entitled to restitution for any amount by which the sum of the payments it made for the copies exceeds the amount of the liquidated damages payable to the aggrieved party in accordance with subsection (a). The right to restitution is subject to offset to the extent that the aggrieved party establishes:
+			<section prefix="1">a right to recover damages other than under subsection (a); and
+			</section>
+			<section prefix="2">the amount or value of any benefits received by the party in breach, directly or indirectly, by reason of the contract.
+			</section>
+		</section>
+		<section prefix="d">A term that does not liquidate damages, but that limits damages available to the aggrieved party, must be evaluated under § 59.1-508.3.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

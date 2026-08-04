@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3.1" level="2">Boiler and Pressure Vessel Safety Act</unit>
+		<unit label="article" identifier="2" level="3">Hobby and Model Boilers</unit>
+	</structure>
+	<section_number>40.1-51.19:4</section_number>
+	<catch_line>Operations and maintenance</catch_line>
+	<text>
+		<section prefix="A">A hobby or model boiler must be attended by a person reasonably competent to operate such boiler when in operation. For the purposes of this section, a hobby or model boiler may be considered as not being in operation when all of the following conditions exist:
+			<section prefix="1">The water level is at least one-third of the water gauge glass;
+			</section>
+			<section prefix="2">The fire is banked and the draft doors closed or the fire is extinguished; and
+			</section>
+			<section prefix="3">The boiler pressure is at least twenty pounds per square inch below the lowest safety valve set pressure.
+			</section>
+		</section>
+		<section prefix="B">All welding performed on hobby or model boilers shall be done by an "R" stamp holder in accordance with the inspection code of the National Board of Boiler and Pressure Vessel Inspectors.
+		</section>
+		<section prefix="C">Repairs to longitudinal riveted joints are prohibited.
+		</section>
+	</text>
+	<history>1999, c. 335; 2000, c. 898.</history>
+</law>

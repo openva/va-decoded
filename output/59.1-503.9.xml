@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="3" level="3">Construction</unit>
+	</structure>
+	<section_number>59.1-503.9</section_number>
+	<catch_line>Agreement for performance to party's satisfaction</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in subsection (b), an agreement that provides that the performance of one party is to be to the satisfaction or approval of the other party requires performance sufficient to satisfy a reasonable person in the position of the party that must be satisfied.
+		</section>
+		<section prefix="b">Performance must be to the subjective satisfaction of the other party if:
+			<section prefix="1">the agreement expressly so provides, such as by stating that approval is in the "sole discretion" of the party, or words of similar import; or
+			</section>
+			<section prefix="2">the agreement is for informational content to be evaluated in reference to subjective characteristics such as aesthetics, appeal, suitability to taste, or subjective quality.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

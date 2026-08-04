@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="6" level="4">Allocation of Receipts: Receipts Normally Apportioned</unit>
+	</structure>
+	<section_number>64.2-1055</section_number>
+	<catch_line>Insubstantial allocation not required</catch_line>
+	<text>
+		<section prefix="A">If a fiduciary determines that an allocation between income and principal required by § 64.2-1056, 64.2-1057, 64.2-1058, 64.2-1059, or 64.2-1062 is insubstantial, the fiduciary may allocate the entire amount to principal, unless subsection E of § 64.2-1038 applies to the allocation.
+		</section>
+		<section prefix="B">A fiduciary may presume an allocation is insubstantial under subsection A if:
+			<section prefix="1">The amount of the allocation would increase or decrease net income in an accounting period, as determined before the allocation, by less than 10 percent; and
+			</section>
+			<section prefix="2">The asset producing the receipt to be allocated has a fair market value less than 10 percent of the total fair market value of the assets owned or held by the fiduciary at the beginning of the accounting period.
+			</section>
+		</section>
+		<section prefix="C">The power to make a determination under subsection A may be:
+			<section prefix="1">Exercised by a co-fiduciary in the manner described in subsection F of § 64.2-1038; or
+			</section>
+			<section prefix="2">Released or delegated for a reason described in subsection G of § 64.2-1038 and in the manner described in subsection H of § 64.2-1038.
+			</section>
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

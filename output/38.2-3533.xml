@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="35" level="2">Accident and Sickness Insurance Policies</unit>
+		<unit label="article" identifier="3" level="3">Group Accident and Sickness Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-3533</section_number>
+	<catch_line>Individual certificates</catch_line>
+	<text>
+		<section prefix="A">Each group accident and sickness insurance policy shall contain a provision that the insurer will issue to the policyholder for delivery to each person insured a certificate setting forth:
+			<section prefix="1">The insured person's insurance protection, including any limitations, reductions, and exclusions applicable to the coverage provided;
+			</section>
+			<section prefix="2">To whom the insurance benefits are payable;
+			</section>
+			<section prefix="3">Any family member's or dependent's coverage; and
+			</section>
+			<section prefix="4">The rights and conditions set forth in § 38.2-3541.
+			</section>
+		</section>
+		<section prefix="B">Each group policy issued pursuant to § 38.2-3522.1 B, where any part of the premium is paid by debtors from identifiable charges collected from the insured debtors not required of an uninsured debtor, shall contain a provision that the insurer will furnish to the policyholder for each debtor insured under the policy a form that will contain a statement describing the debtor's coverage and that the benefits payable shall be applied to reduce or extinguish the indebtedness.
+		</section>
+	</text>
+	<history>1986, c. 562; 1998, c. 154.</history>
+</law>

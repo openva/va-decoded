@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="56" level="2">The Virginia Health Savings Account Plan</unit>
+	</structure>
+	<section_number>38.2-5604</section_number>
+	<catch_line>Health savings accounts exempt from claims</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "health savings account" means a health savings account or medical savings account authorized under § 220 or 223 of the Internal Revenue Code of 1986, as amended from time to time.
+		</section>
+		<section prefix="B">Notwithstanding any provision of law to the contrary, the rights of a participant or beneficiary of a health savings account to hold or to receive moneys paid into or out of, the assets of, and the income of the health savings account:
+			<section prefix="1">Shall be exempt from creditor process;
+			</section>
+			<section prefix="2">Shall not be liable to attachment, garnishment, or other process; and
+			</section>
+			<section prefix="3">Shall not be seized, taken, appropriated, or applied by any legal or equitable process or operation of law to pay any debt or liability of the participant or beneficiary of the account.
+			</section>
+		</section>
+	</text>
+	<history>2010, c. 595.</history>
+</law>

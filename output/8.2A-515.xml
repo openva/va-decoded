@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2A" level="1">Commercial Code — Leases</unit>
+		<unit label="part" identifier="5" level="2">Default</unit>
+		<unit label="article" identifier="B" level="3">Default by Lessor</unit>
+	</structure>
+	<section_number>8.2A-515</section_number>
+	<catch_line>Acceptance of goods</catch_line>
+	<text>
+		<section prefix="1">Acceptance of goods occurs after the lessee has had a reasonable opportunity to inspect the goods and
+			<section prefix="a">The lessee signifies or acts with respect to the goods in a manner that signifies to the lessor or the supplier that the goods are conforming or that the lessee will take or retain them in spite of their nonconformity; or
+			</section>
+			<section prefix="b">The lessee fails to make an effective rejection of the goods under subsection (2) of § 8.2A-509.
+			</section>
+		</section>
+		<section prefix="2">Acceptance of a part of any commercial unit is acceptance of that entire unit.
+		</section>
+	</text>
+	<history>1991, c. 536.</history>
+</law>

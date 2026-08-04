@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="14" level="2">Virginia Business Trust Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>13.1-1204</section_number>
+	<catch_line>Fees for filing documents and issuing certificates</catch_line>
+	<text>
+		The Commission shall charge and collect the following fees, except as provided in § 12.1-21.2:
+		<section prefix="1">For filing any one of the following, the fee shall be $100:
+			a. Articles of trust.
+			b. An application for registration as a foreign business trust.
+			c. Articles of domestication.
+			d. Articles of entity conversion.
+		</section>
+		<section prefix="2">For filing any one of the following, the fee shall be $25:
+			a. Articles of amendment.
+			b. Articles of restatement.
+			c. Articles of cancellation.
+			d. Articles of correction referred to in § 13.1-1213, a copy of an amendment or a correction referred to in § 13.1-1245, or an amended application for registration referred to in § 13.1-1245, provided that an amended application shall not require a separate fee when it is filed with a copy of an amendment or a correction referred to in § 13.1-1245.
+			e. A copy of an instrument of merger of a foreign business trust referred to in § 13.1-1250.
+			f. Articles of merger.
+			g. Articles of trust surrender.
+			h. A copy of an instrument of entity conversion of a foreign business trust holding a certificate of registration to transact business in the Commonwealth.
+			i. An application for a certificate of cancellation of a foreign business trust.
+		</section>
+		<section prefix="3">For filing any one of the following, the fee shall be $10:
+			a. An application to reserve or to renew the reservation of a name for use by a domestic or foreign business trust.
+			b. A notice of the transfer of a name reserved for use by a domestic or foreign business trust.
+		</section>
+		<section prefix="4">For issuing a certificate pursuant to § 13.1-1285, the fee shall be $6.
+		</section>
+	</text>
+	<history>2002, c. 621; 2003, c. 373; 2004, c. 274; 2007, c. 771; 2008, c. 101; 2012, c. 130; 2013, c. 25.</history>
+</law>

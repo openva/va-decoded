@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4308.1</section_number>
+	<catch_line>Purchase of owner-controlled insurance in construction projects</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any other provision of law to the contrary, a public body may purchase at its expense an owner-controlled insurance program in connection with any public construction contract where the amount of the contract or combination of contracts is more than $100 million, provided that no single contract valued at less than $50 million shall be combined pursuant to this section. The public body shall provide notice if it intends to use an owner-controlled insurance program, including the specific coverages of such program, in any request for proposal, invitation to bid, or other applicable procurement documents.
+		</section>
+		<section prefix="B">A public body shall not require a provider of architecture or professional engineering services to participate in the owner-controlled insurance program, except to the extent that the public body may elect to secure excess coverage. No contractor or subcontractor shall be required to provide insurance coverage for a construction project if that specified coverage is included in an owner-controlled insurance program in which the contractor or subcontractor is enrolled.
+		</section>
+		<section prefix="C">For the purposes of this section, "owner-controlled insurance program" means a consolidated insurance program or series of insurance policies issued to a public body that may provide for some or all of the following types of insurance coverage for any contractor or subcontractor working on or at a public construction contract or combination of such contracts: general liability, property damage, workers' compensation, employer's liability, pollution or environmental liability, excess or umbrella liability, builder's risk, and excess or contingent professional liability.
+		</section>
+	</text>
+	<history>2006, cc. 569, 605.</history>
+</law>

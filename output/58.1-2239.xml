@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="4" level="4">Payment and Reporting of Tax on Motor Fuel</unit>
+	</structure>
+	<section_number>58.1-2239</section_number>
+	<catch_line>Returns and discounts of aviation consumers</catch_line>
+	<text>
+		<section prefix="A">A monthly return of an aviation consumer shall state the number of gallons of aviation jet fuel acquired from a supplier or distributor who did not collect the tax due the Commonwealth on the fuel, listed by source state, supplier or distributor, and terminal or other source, with respect to aviation jet fuel purchased during the period covered by the return and any other information required by the Commissioner.
+		</section>
+		<section prefix="B">An aviation consumer shall be allowed a credit for aviation jet fuel purchased, on which tax has already been paid. The amount of such credit shall not exceed the amount of fuel taxes due from such aviation consumer, nor shall the credit be carried forward to the next fiscal year.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758.</history>
+</law>

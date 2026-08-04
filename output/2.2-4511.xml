@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="45" level="4">Investment of Public Funds Act</unit>
+	</structure>
+	<section_number>2.2-4511</section_number>
+	<catch_line>Investment of funds in asset-backed securities</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section, "qualified public entity" means any state agency, institution of the Commonwealth, or statewide authority created under the laws of the Commonwealth having an internal or external public funds manager with professional investment management capabilities.
+		</section>
+		<section prefix="B">Notwithstanding any provision of law to the contrary, any qualified public entity of the Commonwealth may invest any and all moneys belonging to it or within its control, other than sinking funds, in asset-backed securities with a duration of no more than five years (i) that are unconditionally guaranteed as to payment of principal and interest by the United States or any agency thereof or (ii) with a rating of at least AAA or Aaa by two rating agencies. One of the two qualifying ratings shall be (a) at least Aaa by Moody's Investors Service, Inc.; (b) at least AAA by Standard and Poor's; or (c) at least AAA by Fitch Ratings, Inc.
+		</section>
+	</text>
+	<history>1994, c. 145, § 2.1-328.13; 1997, c. 29; 2001, c. 844; 2020, c. 333; 2024, cc. 65, 66.</history>
+</law>

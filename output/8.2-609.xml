@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="6" level="2">Breach, Repudiation and Excuse</unit>
+	</structure>
+	<section_number>8.2-609</section_number>
+	<catch_line>Right to adequate assurance of performance</catch_line>
+	<text>
+		<section prefix="1">A contract for sale imposes an obligation on each party that the other's expectation of receiving due performance will not be impaired. When reasonable grounds for insecurity arise with respect to the performance of either party the other may in writing demand adequate assurance of due performance and until he receives such assurance may if commercially reasonable suspend any performance for which he has not already received the agreed return.
+		</section>
+		<section prefix="2">Between merchants the reasonableness of grounds for insecurity and the adequacy of any assurance offered shall be determined according to commercial standards.
+		</section>
+		<section prefix="3">Acceptance of any improper delivery or payment does not prejudice the aggrieved party's right to demand adequate assurance of future performance.
+		</section>
+		<section prefix="4">After receipt of a justified demand failure to provide within a reasonable time not exceeding thirty days such assurance of due performance as is adequate under the circumstances of the particular case is a repudiation of the contract.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

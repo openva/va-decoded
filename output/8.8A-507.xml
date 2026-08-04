@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="5" level="2">Security Entitlements</unit>
+	</structure>
+	<section_number>8.8A-507</section_number>
+	<catch_line>Duty of securities intermediary to comply with entitlement order</catch_line>
+	<text>
+		<section prefix="a">A securities intermediary shall comply with an entitlement order if the entitlement order is originated by the appropriate person, the securities intermediary has had reasonable opportunity to assure itself that the entitlement order is genuine and authorized, and the securities intermediary has had reasonable opportunity to comply with the entitlement order. A securities intermediary satisfies the duty if:
+			<section prefix="1">the securities intermediary acts with respect to the duty as agreed upon by the entitlement holder and the securities intermediary; or
+			</section>
+			<section prefix="2">in the absence of agreement, the securities intermediary exercises due care in accordance with reasonable commercial standards to comply with the entitlement order.
+			</section>
+		</section>
+		<section prefix="b">If a securities intermediary transfers a financial asset pursuant to an ineffective entitlement order, the securities intermediary shall reestablish a security entitlement in favor of the person entitled to it, and pay or credit any payments or distributions that the person did not receive as a result of the wrongful transfer. If the securities intermediary does not reestablish a security entitlement, the securities intermediary is liable to the entitlement holder for damages.
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

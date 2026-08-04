@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="59" level="2">Medical Debt Protection Act</unit>
+	</structure>
+	<section_number>59.1-612</section_number>
+	<catch_line>(Effective July 1, 2026) Billing and collection rules; limits on creditors</catch_line>
+	<text>
+		<section prefix="A">No large health care facility or medical debt buyer shall charge a patient any interest or late fees on medical debt until 90 days following the due date applicable to the final invoice, and no such interest or late fees shall exceed three percent of the amount of such medical debt per annum.
+		</section>
+		<section prefix="B">No medical creditor or medical debt collector shall use any of the following extraordinary collection actions to collect medical debts:
+			<section prefix="1">Causing an individual's arrest;
+			</section>
+			<section prefix="2">Causing an individual to be subject to a writ of body attachment;
+			</section>
+			<section prefix="3">Foreclosing on an individual's real property;
+			</section>
+			<section prefix="4">Placing a lien on an individual's personal property; or
+			</section>
+			<section prefix="5">Garnishing the wages of any individual qualifying for financial assistance under the financial assistance policy applicable to the underlying medical debt.
+			</section>
+		</section>
+		<section prefix="C">No medical creditor shall sell an individual's medical debt to a medical debt buyer except if, prior to such sale, the medical creditor has entered into a legally binding written agreement with the medical debt buyer under which all of the following apply:
+			<section prefix="1">The medical debt buyer is prohibited from engaging in any extraordinary collection action described in subsection B to obtain payment;
+			</section>
+			<section prefix="2">The medical debt buyer is prohibited from charging interest on the debt at a rate higher than three percent per annum;
+			</section>
+			<section prefix="3">The debt is returnable to or recallable by the medical creditor upon a determination by the medical debt buyer that the individual is eligible for financial assistance under the financial assistance policy applicable to the underlying medical debt; and
+			</section>
+			<section prefix="4">The medical debt buyer is required to adhere to specified procedures that ensure that the individual does not pay, and has no obligation to pay, the medical debt buyer more than such individual is responsible for paying in compliance with this chapter.
+			</section>
+		</section>
+		<section prefix="D">A medical creditor that sells medical debt to a medical debt buyer under an agreement described in subsection C remains liable for any actions taken by such medical debt buyer in relation to such medical debt, subject to any indemnification provisions as may be agreed to by such parties.
+		</section>
+		<section prefix="E">No medical creditor or medical debt collector shall take any extraordinary collection action until 120 days following the due date applicable to the final invoice for a health care service. At least 30 days before taking any extraordinary collection action, a medical creditor or medical debt collector shall provide the patient a notice including:
+			<section prefix="1">If the medical debt resulted from health care services provided by a large health care facility, a statement of whether financial assistance is available for eligible individuals and a plain language summary of any financial assistance policy;
+			</section>
+			<section prefix="2">A list of any extraordinary collection actions that will be taken to obtain payment; and
+			</section>
+			<section prefix="3">A deadline after which such extraordinary collection actions will be initiated, which shall be at least 30 days after the date such notice is provided.
+			</section>
+		</section>
+		<section prefix="F">No large health care facility or medical debt collector collecting medical debt for health care services provided by a large health care facility shall use any extraordinary collection action unless such action is described in the large health care facility's billing and collections policy.
+		</section>
+		<section prefix="G">If a patient has paid any part of a medical debt in excess of the amount owed after any financial assistance offered by a large health care facility, the large health care facility or medical debt collector, as specified in the agreement required by subsection C, shall refund any excess amount to the patient within 60 days after determination of such excess payment.
+		</section>
+	</text>
+	<history>2025, c. 692.</history>
+</law>

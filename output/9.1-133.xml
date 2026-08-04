@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="3" level="3">Criminal Justice Information System</unit>
+	</structure>
+	<section_number>9.1-133</section_number>
+	<catch_line>Certain information not subject to review or correction</catch_line>
+	<text>
+		<section prefix="A">Background checks for security clearances and investigative information not connected with a criminal prosecution or litigation including investigations of rule infractions in correctional institutions shall not be subject to review or correction by data subjects.
+		</section>
+		<section prefix="B">Correctional information about an offender including counselor reports, diagnostic summaries and other sensitive information not explicitly classified as criminal history record information shall not be subject to review or correction by data subjects.
+		</section>
+	</text>
+	<history>1981, c. 632, § 9-193; 2001, c. 844.</history>
+</law>

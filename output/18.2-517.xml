@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="13" level="2">Virginia Racketeer Influenced and Corrupt Organization Act</unit>
+	</structure>
+	<section_number>18.2-517</section_number>
+	<catch_line>Venue for prosecution</catch_line>
+	<text>
+		For the purposes of venue, any violation of this chapter shall be considered to have been committed in any county or city:
+		<section prefix="1">In which any act was performed in furtherance of any course of conduct that violates this chapter;
+		</section>
+		<section prefix="2">That is the principal place of the enterprise in the Commonwealth;
+		</section>
+		<section prefix="3">In which any offender had control or possession of any proceeds of a violation of this chapter, or of any records, or any other material or objects, which were used in furtherance of a violation;
+		</section>
+		<section prefix="4">In which any offender resides; or
+		</section>
+		<section prefix="5">Any place of venue under Article 2 (§ 19.2-244 et seq.) of Chapter 15 of Title 19.2.
+		</section>
+	</text>
+	<history>2004, cc. 883, 996.</history>
+</law>

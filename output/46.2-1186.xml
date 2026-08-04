@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="10" level="3">Motor Vehicle and Equipment Safety</unit>
+		<unit label="article" identifier="22" level="4">Emissions Inspections</unit>
+	</structure>
+	<section_number>46.2-1186</section_number>
+	<catch_line>False certificate</catch_line>
+	<text>
+		No person shall make, issue, or knowingly use any imitation or otherwise counterfeit official certificate of emissions inspection.
+		No person shall issue or cause or permit to be issued any certificate of inspection knowing it to be fictitious or knowing it to have been issued for a vehicle other than the vehicle identified on the certificate.
+	</text>
+	<history>1980, c. 469, § 46.1-326.12; 1989, c. 727; 1993, cc. 995, 998; 1993, Sp. Sess., c. 2.</history>
+</law>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4A" level="1">Commercial Code—Funds Transfers</unit>
+		<unit label="part" identifier="2" level="2">Issue and Acceptance of Payment Order</unit>
+	</structure>
+	<section_number>8.4A-201</section_number>
+	<catch_line>Security procedure</catch_line>
+	<text>
+		"Security procedure" means a procedure established by agreement of a customer and a receiving bank for the purpose of (i) verifying that a payment order or communication amending or cancelling a payment order is that of the customer, or (ii) detecting error in the transmission or the content of the payment order or communication. A security procedure may impose an obligation on the receiving bank or the customer and may require the use of algorithms or other codes, identifying words, numbers, symbols, sounds, biometrics, encryption, callback procedures, or similar security devices. Comparison of a signature on a payment order or communication with an authorized specimen signature of the customer or requiring a payment order to be sent from a known email address, IP address, or telephone number is not by itself a security procedure.
+	</text>
+	<history>1990, c. 9; 2024, c. 652.</history>
+</law>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="9" level="4">Apportionment at Beginning and End of Income Interest</unit>
+	</structure>
+	<section_number>64.2-1075</section_number>
+	<catch_line>Apportionment when income interest ends</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "undistributed income" means net income received on or before the date on which an income interest ends. "Undistributed income" does not include an item of income or expense that is due or accrued or net income that has been added or is required to be added to principal under the terms of the trust.
+		</section>
+		<section prefix="B">Except as otherwise provided in subsection C, when a mandatory income interest of a beneficiary ends, the fiduciary shall pay the beneficiary's share of the undistributed income that is not disposed of under the terms of the trust to the beneficiary or, if the beneficiary does not survive the date the interest ends, to the beneficiary's estate.
+		</section>
+		<section prefix="C">If a beneficiary has an unqualified power to withdraw more than five percent of the value of a trust immediately before an income interest ends:
+			<section prefix="1">The fiduciary shall allocate to principal the undistributed income from the portion of the trust which may be withdrawn; and
+			</section>
+			<section prefix="2">Subsection B applies only to the balance of the undistributed income.
+			</section>
+		</section>
+		<section prefix="D">When a fiduciary's obligation to pay a fixed annuity or a fixed fraction of the value of assets ends, the fiduciary shall prorate the final payment as required to preserve an income tax, gift tax, estate tax, or other tax benefit.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.17</section_number>
+	<catch_line>Plan of merger</catch_line>
+	<text>
+		In a merger under § 13.1-1099.16, the plan of merger shall:
+		<section prefix="1">Comply with § 13.1-1070;
+		</section>
+		<section prefix="2">Include the manner and basis of converting the protected series membership interests in the canceled protected series in the manner set forth in subdivisions C 4 and 5 of § 13.1-1070; and
+		</section>
+		<section prefix="3">State:
+			a. For any protected series of a non-surviving series limited liability company, whether after the merger the protected series will be a relocated protected series or be dissolved, wound up, and canceled;
+			b. For any protected series of the surviving series limited liability company that exists before the merger, whether after the merger the protected series will be a continuing protected series or be dissolved, wound up, and canceled;
+			c. For each relocated protected series, its new name; and
+			d. For any protected series to be established by the surviving company as a result of the merger, the name of the protected series and the post office address of its principal office.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

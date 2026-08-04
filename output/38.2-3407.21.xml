@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3407.21</section_number>
+	<catch_line>Short-term limited-duration medical plans</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Carrier" means any entity that is authorized to sell, offer, or provide a short-term limited-duration medical plan.
+			"Covered person" means a policyholder, subscriber, enrollee, participant, or other individual who is entitled to health care services provided, arranged for, paid for, or reimbursed pursuant to a short-term limited-duration medical plan.
+			"PPACA" has the meaning ascribed thereto in § 38.2-3438.
+			"Short-term limited-duration medical plan" has the same meaning as short-term limited-duration insurance as used in 26 C.F.R. § 54.9801-2, 29 C.F.R. § 2590.701-2 and 45 C.F.R. § 144.103 except as described in subsection B.
+		</section>
+		<section prefix="B">No carrier shall issue, deliver, issue for delivery, reissue, or extend in the Commonwealth on and after July 1, 2021, any short-term limited-duration medical plan:
+			<section prefix="1">With a duration that exceeds three months;
+			</section>
+			<section prefix="2">That can be renewed or extended if the renewal or extension would result in such coverage being effective for more than six months, notwithstanding § 38.2-3514.2; or
+			</section>
+			<section prefix="3">If the issuance, delivery, reissuance, or extension of the short-term limited-duration medical plan would result in a covered person being covered by a short-term limited-duration medical plan for more than six months in any 12-month period.
+			</section>
+		</section>
+		<section prefix="C">No carrier shall issue a short-term limited-duration medical plan during an annual open enrollment period.
+		</section>
+		<section prefix="D">Any certificate delivered in the Commonwealth that is issued under a short-term limited-duration medical plan in any other jurisdiction shall comply with the requirements of this section.
+		</section>
+	</text>
+	<history>2020, cc. 1076, 1077.</history>
+</law>

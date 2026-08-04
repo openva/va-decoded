@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="7" level="2">Vital Records</unit>
+		<unit label="article" identifier="5" level="3">Marriage Records and Divorce and Annulment Reports</unit>
+	</structure>
+	<section_number>32.1-267</section_number>
+	<catch_line>Records of marriages; duties of officer issuing marriage license and person officiating at ceremony; blocking of social security number</catch_line>
+	<text>
+		<section prefix="A">For each marriage performed in the Commonwealth, a record showing personal data, including the age of the married parties, the marriage license, and the certifying statement of the facts of marriage, shall be filed with the State Registrar as provided in this section.
+		</section>
+		<section prefix="B">The officer issuing a marriage license shall prepare the record based on the information obtained under oath or by affidavit from the parties to be married. The parties shall also include their social security numbers or other control numbers issued by the Department of Motor Vehicles pursuant to § 46.2-342 and affix their signatures to the application for such license.
+		</section>
+		<section prefix="C">Every person who officiates at a marriage ceremony shall certify to the facts of marriage and file the record in duplicate with the officer who issued the marriage license within five days after the ceremony. In the event such officiant dies or becomes incapacitated before completing the certificate of marriage, the official who issued the marriage license shall complete the certificate of marriage upon the order of the court to which is submitted proof that the marriage was performed.
+		</section>
+		<section prefix="D">Every officer issuing marriage licenses shall on or before the tenth day of each calendar month forward to the State Registrar a record of each marriage filed with him during the preceding calendar month.
+		</section>
+		<section prefix="E">The State Registrar shall furnish forms for the marriage license, marriage certificate, and application for marriage license used in the Commonwealth. Such forms shall be configured so as to cause the social security number or control number required pursuant to the provisions of subsection B to appear only on the application for marriage license retained by the officer issuing the marriage license and the copy of such license forwarded to the State Registrar pursuant to the provisions of subsection D.
+		</section>
+		<section prefix="F">Applications for marriage licenses filed on and after July 1, 1997, and marriage registers recording such applications, which have not been configured to prevent disclosure of the social security number or control number required pursuant to the provisions of subsection B shall not be available for general public inspection in the offices of clerks of the circuit courts. The clerk shall make such applications and registers available for inspection only (i) upon the order of the circuit court within which such application was made or register is maintained, (ii) pursuant to a lawful subpoena duces tecum issued to the clerk, (iii) upon the written authorization of either of the applicants, or (iv) upon the request of a law-enforcement officer or duly authorized representative of the Division of Child Support Enforcement in the course of performing his official duties. Nothing in this subsection shall be construed to restrict public access to marriage licenses or to prohibit the clerk from making available to the public applications for marriage licenses and marriage registers stored in any electronic medium or other format that permits the blocking of the field containing the social security or control number required pursuant to the provisions of subsection B, so long as access to such number is blocked.
+		</section>
+	</text>
+	<history>Code 1950, § 32-353.34; 1968, c. 318; 1972, c. 92; 1979, c. 711; 1997, cc. 794, 898; 2001, c. 836; 2002, c. 832; 2003, c. 504; 2004, c. 88; 2005, c. 679; 2020, cc. 209, 210, 211.</history>
+</law>

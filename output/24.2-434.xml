@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="5" level="3">Cancellation of Registration</unit>
+	</structure>
+	<section_number>24.2-434</section_number>
+	<catch_line>Presumption if petition not brought within six months of registration</catch_line>
+	<text>
+		Unless the petition provided for in § 24.2-431 is filed within six months after the registration of any person, it shall be conclusively presumed in all proceedings where the right of such person to registration arises, by election officers and by judicial tribunals, or in election contests of any kind and character, that such person has complied with all the procedural requirements of the law in making an application for registration.
+	</text>
+	<history>Code 1950, § 24-105; 1970, c. 462, § 24.1-66; 1993, c. 641.</history>
+</law>

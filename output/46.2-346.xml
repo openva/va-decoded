@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="8" level="4">Prohibited Uses of Driver's Licenses</unit>
+	</structure>
+	<section_number>46.2-346</section_number>
+	<catch_line>Unlawful acts enumerated</catch_line>
+	<text>
+		<section prefix="A">No person shall:
+			<section prefix="1">Display, cause or permit to be displayed, or have in his possession any driver's license which he knows to be fictitious or to have been cancelled, revoked, suspended, or altered, or photographed for the purpose of evading the intent of this chapter;
+			</section>
+			<section prefix="2">Lend to, or knowingly permit the use of by one not entitled thereto, any driver's license issued to the person so lending or permitting the use thereof;
+			</section>
+			<section prefix="3">Display or represent as his own any driver's license not issued to him;
+			</section>
+			<section prefix="4">Reproduce by photograph or otherwise, any credential issued under this chapter with the intent to commit an illegal act;
+			</section>
+			<section prefix="5">Fail or refuse to surrender to the Department, on demand, any driver's license issued in the Commonwealth or any other state when the license has been suspended, cancelled, or revoked by proper authority in the Commonwealth, or any other state as provided by law, or to fail or refuse to surrender the suspended, cancelled, or revoked license to any court in which a driver has been tried and convicted for the violation of any law or ordinance of the Commonwealth or any county, city, or town thereof, regulating or affecting the operation of a motor vehicle.
+			</section>
+		</section>
+		<section prefix="B">Any law-enforcement officer empowered to enforce the provisions of this title may retain any driver's license held in violation of this section and shall submit the license to the appropriate court for evidentiary purposes.
+		</section>
+	</text>
+	<history>Code 1950, § 46-380; 1958, c. 541, § 46.1-384; 1962, c. 368; 1984, c. 780; 1988, c. 323; 1989, c. 727; 2004, c. 722; 2021, Sp. Sess. I, c. 544.</history>
+</law>

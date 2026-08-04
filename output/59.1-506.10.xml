@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.10</section_number>
+	<catch_line>Copy; effect of acceptance; burden of establishing; notice of claims</catch_line>
+	<text>
+		<section prefix="a">A party accepting a copy shall pay or render the consideration required by the agreement for the copy it accepts. Acceptance of a copy precludes refusal and, if made with knowledge of a nonconformity in a tender, may not be revoked because of the nonconformity unless acceptance was on the reasonable assumption that the nonconformity would be seasonably cured. Acceptance by itself does not impair any other remedy for nonconformity.
+		</section>
+		<section prefix="b">A party accepting a copy has the burden of establishing a breach of contract with respect to the copy.
+		</section>
+		<section prefix="c">If a copy has been accepted, the accepting party shall:
+			<section prefix="1">except with respect to claims of a type described in § 59.1-508.5 (d) (1), within a reasonable time after it discovers or should have discovered a breach of contract, notify the other party of the breach or be barred from any remedy for the breach; and
+			</section>
+			<section prefix="2">if the claim is for breach of a warranty regarding noninfringement and the accepting party is sued by a third party because of the breach, notify the warrantor within a reasonable time after receiving notice of the litigation or be precluded from any remedy for the liability established by the litigation.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

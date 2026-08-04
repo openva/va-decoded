@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="5" level="4">Creditor's Claims; Spendthrift and Discretionary Trusts</unit>
+	</structure>
+	<section_number>64.2-745.1</section_number>
+	<catch_line>Self-settled spendthrift trusts</catch_line>
+	<text>
+		<section prefix="A">A settlor may transfer assets to a qualified self-settled spendthrift trust and retain in that trust a qualified interest, and, except as otherwise provided in this article, § 64.2-747 shall not apply to such qualified interest.
+		</section>
+		<section prefix="B">Section 64.2-747 shall continue to apply with respect to any interest held by a settlor in a qualified self-settled spendthrift trust, other than a qualified interest.
+		</section>
+		<section prefix="C">A settlor's transfer to a qualified self-settled spendthrift trust shall not, to the extent of the settlor's qualified interest, be deemed to have been made with intent to delay, hinder, or defraud creditors, for purposes of § 55.1-400, merely because it is made to a trust with respect to which the settlor retains a qualified interest and merely because it is made without consideration. A settlor's transfer to a qualified self-settled spendthrift trust may, however, be set aside under § 55.1-400 or 55.1-401 on other bases, such as if the transfer renders the settlor insolvent.
+		</section>
+		<section prefix="D">A settlor's creditor may bring an action under § 55.1-402 to avoid a transfer to a qualified self-settled spendthrift trust or otherwise to enforce a claim that existed on the date of the settlor's transfer to such trust within five years after the date of the settlor's transfer to such trust to which such claim relates.
+		</section>
+		<section prefix="E">A creditor shall have only such rights with respect to a settlor's transfer to a qualified self-settled spendthrift trust as are provided in this section. No creditor and no other person shall have any claim or cause of action against any trustee, trust adviser, trust director, or any person involved in the counseling, drafting, preparation, or execution of, or transfers to a qualified self-settled spendthrift trust.
+		</section>
+		<section prefix="F">If a settlor makes more than one transfer to the same qualified self-settled spendthrift trust, the following rules shall apply:
+			<section prefix="1">The settlor's making of a subsequent transfer shall be disregarded in determining whether a creditor's claim with respect to a prior transfer is valid under this section;
+			</section>
+			<section prefix="2">With respect to each subsequent transfer by the settlor, the five-year limitations period provided in subsection D, with respect to actions brought under Chapter 4 (§ 55.1-400 et seq.) of Title 55.1 with respect to the subsequent transfer, commences on the date of such subsequent transfer; and
+			</section>
+			<section prefix="3">Any distribution to a beneficiary is deemed to have been made from the latest such transfer.
+			</section>
+		</section>
+		<section prefix="G">The movement to the Commonwealth of the administration of an existing trust, which, after such movement to the Commonwealth, meets for the first time all of the requirements of a qualified self-settled spendthrift trust, shall be treated, for purposes of this section, as a transfer to this trust by the settlor on the date of such movement of all of the assets previously transferred to the trust by the settlor.
+		</section>
+	</text>
+	<history>2012, c. 555, § 55-545.03:2; 2012, c. 614.</history>
+</law>

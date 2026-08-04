@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="3" level="3">Criminal Justice Information System</unit>
+	</structure>
+	<section_number>9.1-130</section_number>
+	<catch_line>Procedures to be adopted by agencies maintaining criminal justice information systems</catch_line>
+	<text>
+		Each criminal justice agency maintaining and operating a criminal justice information system shall adopt procedures reasonably designed to ensure:
+		<section prefix="1">The physical security of the system and the prevention of unauthorized disclosure of the information in the system;
+		</section>
+		<section prefix="2">The timeliness and accuracy of information in the system;
+		</section>
+		<section prefix="3">That all criminal justice agencies to which criminal offender record information is disseminated or from which it is collected are currently and accurately informed of any correction, deletion, or revision of such information;
+		</section>
+		<section prefix="4">Prompt purging or sealing of criminal offender record information when required by state or federal statute, regulation, or court order;
+		</section>
+		<section prefix="5">Use or dissemination of criminal offender record information by criminal justice agency personnel only after it has been determined to be the most accurate and complete information available to the criminal justice agency.
+		</section>
+	</text>
+	<history>1981, c. 632, § 9-191; 2001, c. 844.</history>
+</law>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="6" level="4">Allocation of Receipts: Receipts Normally Apportioned</unit>
+	</structure>
+	<section_number>64.2-1061</section_number>
+	<catch_line>Derivative or option</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "derivative" means a contract, instrument, other arrangement, or combination of contracts, instruments, or other arrangements, the value, rights, and obligations of which are, in whole or in part, dependent on or derived from an underlying tangible or intangible asset, group of tangible or intangible assets, index, or occurrence of an event. "Derivative" includes stocks, fixed income securities, and financial instruments and arrangements based on indices, commodities, interest rates, weather-related events, and credit-default events.
+		</section>
+		<section prefix="B">To the extent a fiduciary does not account for a transaction in derivatives as a business under § 64.2-1050, the fiduciary shall allocate 10 percent of receipts from the transaction and 10 percent of disbursements made in connection with the transaction to income and the balance to principal.
+		</section>
+		<section prefix="C">Subsection D applies if:
+			<section prefix="1">A fiduciary:
+				a. Grants an option to buy property from a trust, whether or not the trust owns the property when the option is granted;
+				b. Grants an option that permits another person to sell property to the trust; or
+				c. Acquires an option to buy property for the trust or an option to sell an asset owned by the trust; and
+			</section>
+			<section prefix="2">The fiduciary or other owner of the asset is required to deliver the asset if the option is exercised.
+			</section>
+		</section>
+		<section prefix="D">If this subsection applies, the fiduciary shall allocate 10 percent to income and the balance to principal of the following amounts:
+			<section prefix="1">An amount received for granting the option;
+			</section>
+			<section prefix="2">An amount paid to acquire the option; and
+			</section>
+			<section prefix="3">Gain or loss realized on the exercise, exchange, settlement, offset, closing, or expiration of the option.
+			</section>
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

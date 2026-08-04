@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Taxation</unit>
+		<unit label="article" identifier="4" level="3">Computation of Tax Rate</unit>
+	</structure>
+	<section_number>60.2-536.1</section_number>
+	<catch_line>Transfers for the purpose of obtaining a lower unemployment compensation tax rate; assignment of rates</catch_line>
+	<text>
+		<section prefix="A">If an employer shall transfer any trade or business to another employer where, at the time of transfer, there is substantially common ownership, management, or control of the trade or business, then the unemployment experience attributable to the transferred business shall also be transferred to, and combined with the unemployment experience attributable to, the employer to whom such business is transferred. If the sole or primary purpose of such transfer is to obtain a lower unemployment tax rate, that employer shall be subject to the penalties established by § 60.2-536.3.
+		</section>
+		<section prefix="B">If an employer shall transfer any trade or business to a person who is not otherwise an employer at the time of such transfer, and the sole or primary purpose of such transfer is to obtain a lower unemployment tax rate:
+			<section prefix="1">The unemployment experience of the acquired business shall not be transferred to such person; instead, such person shall be assigned the higher of the transferred business' calculated rate or the new employer rate under § 60.2-526; and
+			</section>
+			<section prefix="2">Such person shall be subject to the penalties established by § 60.2-536.3.
+			</section>
+		</section>
+		<section prefix="C">Any person who shall knowingly advise another person to engage in a transfer of any trade or business, where the sole or primary purpose of such transfer is to obtain a lower unemployment tax rate, shall be subject to the penalties established by § 60.2-536.3.
+		</section>
+		<section prefix="D">The Commission shall establish methods to identify and investigate the transfer or acquisition of a business for purposes of this section.
+			<section prefix="1">For the purposes of determining whether there is "substantially common ownership, management, or control of two or more employers," the Commission shall consider all relevant facts and circumstances, including the extent of commonality or similarity of: (i) ownership, (ii) any familial relationships, (iii) principals or corporate officers, (iv) organizational structure, (v) day-to-day operations, (vi) assets and liabilities, and (vii) stated business purpose.
+			</section>
+			<section prefix="2">For the purposes of determining whether a business was transferred solely or primarily to obtain a lower unemployment tax rate, the Commission shall consider the facts and circumstances of the transfer, including: (i) the cost of acquiring the business, (ii) how long such business was continued, and (iii) whether a substantial number of new employees was hired to perform duties unrelated to the business activity conducted prior to the transfer.
+			</section>
+		</section>
+	</text>
+	<history>2005, cc. 47, 91.</history>
+</law>

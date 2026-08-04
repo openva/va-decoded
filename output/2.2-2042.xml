@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="20.2" level="4">Workforce Development and Advancement</unit>
+		<unit label="article" identifier="2" level="5">Data Collection and Analytics</unit>
+	</structure>
+	<section_number>2.2-2042</section_number>
+	<catch_line>Job placement and retention; reporting</catch_line>
+	<text>
+		<section prefix="A">The Department shall develop a tool or process for the uniform tracking of successful job placement and job retention outcomes of workforce development program participants.
+		</section>
+		<section prefix="B">All workforce development program providers shall annually track successful job placement and job retention outcomes for workforce development program participants using the tool or process developed by the Department.
+		</section>
+	</text>
+	<history>2023, cc. 624, 625.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="8" level="3">Regulation of Traffic</unit>
+		<unit label="article" identifier="1" level="4">General and Miscellaneous</unit>
+	</structure>
+	<section_number>46.2-805</section_number>
+	<catch_line>Lane-use control signals</catch_line>
+	<text>
+		<section prefix="A">When lane-use control signals are placed over the individual lanes of a highway, vehicular traffic may travel in any lane over which a green signal is shown, but shall not enter or travel in any lane over which a red signal is shown and shall vacate as soon as possible any lane over which an amber signal is shown.
+		</section>
+		<section prefix="B">Vehicular traffic shall not enter or travel in a lane over which a one-way or two-way left turn white arrow lane-use control signal is shown, except to make the turning movement indicated by the signal. Such turning traffic shall yield the right-of-way to pedestrians lawfully within a crosswalk and to other traffic using the intersection.
+		</section>
+	</text>
+	<history>1974, c. 347, § 46.1-206.1; 1989, c. 727; 2013, cc. 128, 400.</history>
+</law>

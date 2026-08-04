@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1422</section_number>
+	<catch_line>Obligations secured by certain leases</catch_line>
+	<text>
+		<section prefix="A">A domestic insurer may invest in obligations of any solvent company other than companies referred to in § 38.2-1419, incorporated under the laws of the United States or of any state if:
+			<section prefix="1">The obligations are secured by an assignment to the insurer of a lease, and the rents payable under the lease, of real or personal property or both to (i) a domestic governmental entity; (ii) Canada, or any province of Canada; or (iii) one or more companies incorporated under the laws of the United States, any state, Canada or any province of Canada;
+			</section>
+			<section prefix="2">The rentals assigned are sufficient to repay the indebtedness within the unexpired term of the lease, excluding any term that may be provided by an enforceable option of renewal;
+			</section>
+			<section prefix="3">The lessee on any lease securing an obligation under this section, or the guarantor of the lease, is an entity whose obligations would be eligible for investment by an insurer in accordance with §§ 38.2-1415, 38.2-1421 or § 38.2-1425;
+			</section>
+			<section prefix="4">The lessee or guarantor has not defaulted in payment of interest or principal on any of its obligations during the five fiscal years immediately preceding the date of investment; and
+			</section>
+			<section prefix="5">A first lien on the interest of the lessor in the unencumbered leased property is obtained as additional security for any obligation acquired pursuant to this section.
+			</section>
+		</section>
+		<section prefix="B">No domestic insurer shall invest under this section more than two percent of the insurer's admitted assets in the obligations of any one business entity or in the obligations secured by leases to any one business entity.
+		</section>
+	</text>
+	<history>1983, c. 457, § 38.1-217.25; 1986, c. 562; 1992, c. 588.</history>
+</law>

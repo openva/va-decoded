@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22.1" level="3">Motor Vehicle Fuels Sales Tax in Certain Transportation Districts</unit>
+	</structure>
+	<section_number>58.1-2299.9</section_number>
+	<catch_line>Prohibited acts; criminal penalties</catch_line>
+	<text>
+		<section prefix="A">Any person who commits any of the following acts is guilty of a Class 1 misdemeanor:
+			<section prefix="1">Failing to obtain a certificate of registration required by this chapter;
+			</section>
+			<section prefix="2">Failing to file a return required by this chapter;
+			</section>
+			<section prefix="3">Failing to pay a tax when due under this chapter;
+			</section>
+			<section prefix="4">Making a false statement in an application, return, ticket, invoice, statement, or any other document required under this chapter;
+			</section>
+			<section prefix="5">Failing to keep records as required under this chapter; or
+			</section>
+			<section prefix="6">Refusing to allow the Commissioner or a representative of the Commissioner to examine the person's books and records concerning transactions taxable under this chapter.
+			</section>
+		</section>
+		<section prefix="B">A person who knowingly commits any of the following acts is guilty of a Class 1 misdemeanor:
+			<section prefix="1">Dispenses into the supply tank of a highway vehicle, watercraft, or aircraft any fuel on which a tax required to be levied under this chapter has not been paid; or
+			</section>
+			<section prefix="2">Allows to be dispensed into the supply tank of a highway vehicle, watercraft, or aircraft any fuel on which a tax required to be levied under this chapter has not been paid.
+			</section>
+		</section>
+	</text>
+	<history>2012, cc. 217, 225.</history>
+</law>

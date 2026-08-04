@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="5" level="2">Filing</unit>
+		<unit label="subpart" identifier="1" level="3">Filing Office, Contents and Effectiveness of Financing Statement</unit>
+	</structure>
+	<section_number>8.9A-502</section_number>
+	<catch_line>Contents of financing statement; record of mortgage as financing statement; time of filing financing statement</catch_line>
+	<text>
+		<section prefix="a">Sufficiency of financing statement. Subject to subsection (b), a financing statement is sufficient only if it:
+			<section prefix="1">provides the name of the debtor;
+			</section>
+			<section prefix="2">provides the name of the secured party or a representative of the secured party; and
+			</section>
+			<section prefix="3">indicates the collateral covered by the financing statement.
+			</section>
+		</section>
+		<section prefix="b">Real-property-related financing statements. Except as otherwise provided in § 8.9A-501 (b), to be sufficient, a financing statement that covers as-extracted collateral or timber to be cut, or which is filed as a fixture filing and covers goods that are or are to become fixtures, must satisfy subsection (a) and also:
+			<section prefix="1">indicate that it covers this type of collateral;
+			</section>
+			<section prefix="2">indicate that it is to be filed for record in the real property records;
+			</section>
+			<section prefix="3">provide a description of the real property to which the collateral is related sufficient to give constructive notice of a mortgage under the law of this state if the description were contained in a record of the mortgage of the real property; and
+			</section>
+			<section prefix="4">if the debtor does not have an interest of record in the real property, provide the name of a record owner.
+			</section>
+		</section>
+		<section prefix="c">Record of mortgage as financing statement. A record of a mortgage is effective, from the date of recording, as a financing statement filed as a fixture filing or as a financing statement covering as-extracted collateral or timber to be cut only if:
+			<section prefix="1">the record indicates the goods or accounts that it covers;
+			</section>
+			<section prefix="2">the goods are or are to become fixtures related to the real property described in the record or the collateral is related to the real property described in the record and is as-extracted collateral or timber to be cut;
+			</section>
+			<section prefix="3">the record satisfies the requirements for a financing statement in this section, but:
+			</section>
+		</section>
+		<section prefix="A">the record need not indicate that it is to be filed in the real property records; and
+		</section>
+		<section prefix="B">the record sufficiently provides the name of a debtor who is an individual if it provides the individual name of the debtor or the surname and first personal name of the debtor, even if the debtor is an individual to whom § 8.9A-503(a)(4) applies; and
+			<section prefix="4">the record is duly recorded.
+			</section>
+		</section>
+		<section prefix="d">Filing before security agreement or attachment. A financing statement may be filed before a security agreement is made or a security interest otherwise attaches.
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-402; 1966, c. 649; 1973, c. 509; 1976, c. 536; 1977, c. 539; 1978, cc. 284, 285; 1982, c. 652; 1999, c. 96; 2000, c. 1007; 2012, c. 155.</history>
+</law>

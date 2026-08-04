@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="42.1" level="2">Uniform Electronic Transactions Act</unit>
+	</structure>
+	<section_number>59.1-480</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter:
+		<section prefix="1">"Agreement" means the bargain of the parties in fact, as found in their language or inferred from other circumstances and from rules, regulations, and procedures given the effect of agreements under laws otherwise applicable to a particular transaction.
+		</section>
+		<section prefix="2">"Automated transaction" means a transaction conducted or performed, in whole or in part, by electronic means or electronic records, in which the acts or records of one or both parties are not reviewed by an individual in the ordinary course in forming a contract, performing under an existing contract, or fulfilling an obligation required by the transaction.
+		</section>
+		<section prefix="3">"Computer program" means a set of statements or instructions to be used directly or indirectly in an information processing system in order to bring about a certain result.
+		</section>
+		<section prefix="4">"Contract" means the total legal obligation resulting from the parties' agreement as affected by this chapter and other applicable law.
+		</section>
+		<section prefix="5">"Electronic" means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities.
+		</section>
+		<section prefix="6">"Electronic agent" means a computer program or an electronic or other automated means used independently to initiate an action or respond to electronic records or performances in whole or in part, without review or action by an individual.
+		</section>
+		<section prefix="7">"Electronic record" means a record created, generated, sent, communicated, received, or stored by electronic means.
+		</section>
+		<section prefix="8">"Electronic signature" means an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.
+		</section>
+		<section prefix="9">"Information" means data, text, images, sounds, codes, computer programs, software, databases, or the like.
+		</section>
+		<section prefix="10">"Information processing system" means an electronic system for creating, generating, sending, receiving, storing, displaying, or processing information.
+		</section>
+		<section prefix="11">"Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public body, public corporation, or any other legal or commercial entity.
+		</section>
+		<section prefix="12">"Public body" shall have the same meaning as defined in § 2.2-3701 and shall also include locally elected constitutional officers, and anyone performing the duties of locally elected constitutional officers.
+		</section>
+		<section prefix="13">"Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+		</section>
+		<section prefix="14">"Security procedure" means a procedure employed for the purpose of verifying that an electronic signature, record, or performance is that of a specific person or for detecting changes or errors in the information in an electronic record. The term includes a procedure that requires the use of algorithms or other codes, identifying words or numbers, encryption, or callback or other acknowledgment procedures.
+		</section>
+		<section prefix="15">"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States. The term includes an Indian tribe or band, or an Alaskan native village, which is recognized by federal law or formally acknowledged by a state.
+		</section>
+		<section prefix="16">"Transaction" means an action or set of actions occurring between two or more persons relating to the conduct of business, commercial, or governmental affairs.
+		</section>
+	</text>
+	<history>2000, c. 995; 2005, c. 417.</history>
+</law>

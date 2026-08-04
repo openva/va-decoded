@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="39" level="3">Pesticide Control</unit>
+		<unit label="article" identifier="2" level="4">Licensing and Registration</unit>
+	</structure>
+	<section_number>3.2-3918</section_number>
+	<catch_line>Statement to be filed by registrant</catch_line>
+	<text>
+		<section prefix="A">The registrant shall file a statement with the Commissioner including:
+			<section prefix="1">The name and address of the registrant and the name and address of the person whose name will appear on the label, if other than the registrant;
+			</section>
+			<section prefix="2">The name of the pesticide;
+			</section>
+			<section prefix="3">A complete copy of the labeling accompanying the pesticide and a statement of all claims made and to be made for it including directions for use;
+			</section>
+			<section prefix="4">If requested, a full description of the tests made and the results thereof upon which the claims are based; and
+			</section>
+			<section prefix="5">Other information requested by the Board such as product efficacy, all known health and environmental impacts, and known incidents of human or wildlife illnesses.
+			</section>
+		</section>
+		<section prefix="B">In the case of renewal of registration, a statement shall be required only with respect to information different from that furnished when the pesticide was last registered or in response to additional requirements imposed by the Board.
+		</section>
+	</text>
+	<history>Code 1950, § 3-208.24; 1966, c. 702, § 3.1-226; 1981, c. 260; 1989, c. 575; § 3.1-249.39; 2008, c. 860.</history>
+</law>

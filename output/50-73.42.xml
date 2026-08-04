@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="6" level="3">Distributions and Withdrawal</unit>
+	</structure>
+	<section_number>50-73.42</section_number>
+	<catch_line>Limitations on distribution</catch_line>
+	<text>
+		A partner may not receive a distribution from a limited partnership to the extent that, after giving effect to the distribution, all liabilities of the limited partnership, other than liabilities to partners on account of their partnership interests, exceed the fair value of the partnership assets.
+	</text>
+	<history>1985, c. 607.</history>
+</law>

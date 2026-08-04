@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="2" level="3">Department of Taxation</unit>
+	</structure>
+	<section_number>58.1-205</section_number>
+	<catch_line>Effect of regulations, rulings, etc., and administrative interpretations</catch_line>
+	<text>
+		In any proceeding relating to the interpretation or enforcement of the tax laws of this Commonwealth, the following rules shall apply:
+		<section prefix="1">Any assessment of a tax by the Department shall be deemed prima facie correct.
+		</section>
+		<section prefix="2">Any regulation promulgated as provided by subsection B of § 58.1-203 shall be sustained unless unreasonable or plainly inconsistent with applicable provisions of law.
+		</section>
+		<section prefix="3">Rulings issued in conformity with § 58.1-203, tax bulletins, guidelines, and other documents published as provided in § 58.1-204, and guidance documents listed in the Virginia Register of Regulations as provided in § 2.2-4103.1 shall be accorded judicial notice.
+		</section>
+		<section prefix="4">In any proceeding commenced under § 58.1-1821, 58.1-1824 or 58.1-1825, rulings and administrative interpretations other than those described in subdivisions 2 and 3 shall not be admitted into evidence and shall be accorded no weight, except that an assessment made pursuant to any such ruling or interpretation shall be entitled to the presumption of correctness specified in subdivision 1.
+		</section>
+	</text>
+	<history>Code 1950, § 58-48.8; 1980, c. 633; 1984, c. 675; 2011, c. 800; 2017, c. 488.</history>
+</law>

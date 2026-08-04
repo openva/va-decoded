@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="7" level="3">Hospice Program Licensing</unit>
+	</structure>
+	<section_number>32.1-162.2</section_number>
+	<catch_line>Exemptions from article</catch_line>
+	<text>
+		The provisions of this article shall not be applicable to:
+		<section prefix="1">A hospice established or operated for the practice of religious tenets of any recognized church or denomination which provides care and treatment for the sick by spiritual means without the use of any drug or material remedy, whether gratuitously or for compensation. Such a hospice shall comply with the statutes and regulations governing environmental protection and life safety.
+		</section>
+		<section prefix="2">Any hospice located in the Commonwealth that after initial licensure is accredited by any organization recognized by the Centers for Medicare and Medicaid Services for the purposes of Medicare certification.
+		</section>
+	</text>
+	<history>1981, c. 346; 2010, c. 790.</history>
+</law>

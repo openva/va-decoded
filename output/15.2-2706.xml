@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="27" level="3">Local Government Group Self-Insurance Pools</unit>
+	</structure>
+	<section_number>15.2-2706</section_number>
+	<catch_line>State Corporation Commission approval required</catch_line>
+	<text>
+		The formation and operation of a group self-insurance pool under this section shall be subject to approval by the State Corporation Commission which may, after notice and hearing, establish reasonable requirements and regulations for the approval and monitoring of such pools, including prior approval of pool administrators and provisions for periodic examinations of financial condition.
+		The Commission may disapprove an application for the formation of a group self-insurance pool, and may suspend or withdraw such approval whenever it finds that such applicant or pool:
+		<section prefix="1">Has refused to submit its books, papers, accounts, or affairs to the reasonable inspection of the Commission or its representative;
+		</section>
+		<section prefix="2">Has refused, or its officers or agents have refused, to furnish satisfactory evidence of its financial and business standing or solvency;
+		</section>
+		<section prefix="3">Is insolvent, or is in such condition that its further transaction of business in the Commonwealth is hazardous to its members and creditors in the Commonwealth, and to the public;
+		</section>
+		<section prefix="4">Has refused or neglected to pay a valid final judgment against it within sixty days after its rendition;
+		</section>
+		<section prefix="5">Has violated any law of the Commonwealth or has violated or exceeded the powers granted by its members;
+		</section>
+		<section prefix="6">Has failed to pay any fees, taxes or charges imposed in the Commonwealth within sixty days after they are due and payable, or within sixty days after final disposition or any legal contest with respect to liability therefor; or
+		</section>
+		<section prefix="7">Has been found insolvent by a court of any other state, or by the Insurance Commissioner or other proper officer or agency of any other state, and has been prohibited from doing business in such state.
+		</section>
+	</text>
+	<history>1986, cc. 520, 556, § 15.1-503.4:6; 1997, c. 587.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="5" level="3">Civil Provisions of General Application</unit>
+	</structure>
+	<section_number>20-88.62</section_number>
+	<catch_line>Receipt and disbursement of payments</catch_line>
+	<text>
+		<section prefix="A">A support enforcement agency or tribunal of the Commonwealth shall disburse promptly any amounts received pursuant to a support order, as directed by the order. The support enforcement agency or tribunal shall furnish to a requesting party or tribunal of another state or a foreign country a certified statement by the custodian of the record of the amounts and dates of all payments received.
+		</section>
+		<section prefix="B">If neither the obligor, nor the obligee who is an individual, nor the child resides in the Commonwealth, upon request from the support enforcement agency of the Commonwealth or another state, the support enforcement agency of the Commonwealth or a tribunal of the Commonwealth shall:
+			<section prefix="1">Order that the support payment be made to the support enforcement agency in the state in which the obligee is receiving services; and
+			</section>
+			<section prefix="2">Issue and send to the obligor's employer a conforming income-withholding order or an administrative notice of change of payee, reflecting the redirected payments.
+			</section>
+		</section>
+		<section prefix="C">The support enforcement agency of the Commonwealth receiving redirected payments from another state pursuant to a law similar to subsection B shall furnish to a requesting party or tribunal of the other state a certified statement by the custodian of the record of the amount and dates of all payments received.
+		</section>
+	</text>
+	<history>1994, c. 673; 2005, c. 754; 2015, c. 727.</history>
+</law>

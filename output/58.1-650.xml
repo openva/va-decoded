@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="6.2" level="3">Virginia Communications Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-650</section_number>
+	<catch_line>Bundled transaction of communications services</catch_line>
+	<text>
+		<section prefix="A">For purposes of this chapter, a bundled transaction of communications services includes communications services taxed under this chapter and consists of distinct and identifiable properties, services, or both, sold for one nonitemized charge for which the tax treatment of the distinct properties and services is different.
+		</section>
+		<section prefix="B">In the case of a bundled transaction described in subsection A, if the charge is attributable to services that are taxable and services that are nontaxable, the portion of the charge attributable to the nontaxable services shall be subject to tax unless the communications services provider can reasonably identify the nontaxable portion from its books and records kept in the regular course of business.
+		</section>
+	</text>
+	<history>2006, c. 780.</history>
+</law>

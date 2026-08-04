@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="III" level="2">Rental Conveyances</unit>
+		<unit label="chapter" identifier="12" level="3">Virginia Residential Landlord and Tenant Act</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>55.1-1209.1</section_number>
+	<catch_line>Employees of the landlord; rental dwelling unit keys and electronic key codes; policies and procedures</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "key" means any physical or electronic mechanism used to gain access to a rental dwelling unit.
+		</section>
+		<section prefix="B">Any landlord who owns more than 200 rental dwelling units that are attached to the same piece of real property in the Commonwealth shall establish:
+			<section prefix="1">A policy requiring any applicant for employment in any position that will have access to keys for each rental dwelling unit to be subject to a pre-employment criminal history records check; and
+			</section>
+			<section prefix="2">Written policies and procedures regarding the (i) storage, issuance and return, and security of; (ii) access to; and (iii) if applicable, usage and deactivation of rental dwelling unit keys and electronic key codes.
+			</section>
+		</section>
+		<section prefix="C">The provisions of this section shall not apply to (i) a financial institution, as defined in § 6.2-100, or (ii) any person who is a real estate licensee pursuant to Chapter 21 (§ 54.1-2100 et seq.) of Title 54.1.
+		</section>
+	</text>
+	<history>2023, c. 432.</history>
+</law>

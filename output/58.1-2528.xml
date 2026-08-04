@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="25" level="3">License Tax on Certain Insurance Companies</unit>
+		<unit label="article" identifier="2" level="4">Estimated Tax</unit>
+	</structure>
+	<section_number>58.1-2528</section_number>
+	<catch_line>Exception to § 58.1-2527</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding the provisions of § 58.1-2527, the addition to the tax with respect to any underpayment of any installment shall not be imposed if the total amount of all payments of estimated tax made on or before the last date prescribed for the payment of such installment equals or exceeds the amount which would have been required to be paid on or before such date if the estimated tax were whichever of the following is the lesser:
+			<section prefix="1">The tax as ascertained for the preceding license year, and the tax for such preceding license year was computed on the basis of a taxable year of 12 months.
+			</section>
+			<section prefix="2">An amount equal to the tax computed at the rate applicable to the license year but otherwise on the basis of the facts shown on the report of the insurance company for, and the law applicable to, the preceding license year.
+			</section>
+			<section prefix="3">An amount equal to 90 percent of the tax measured by direct gross premium income received or derived in the taxable year computed by placing on an annualized basis the taxable direct gross premium income:
+				a. For the first three months of the taxable year, in the case of the installment required to be paid in the fourth month,
+				b. For the first three months or for the first five months of the taxable year, in the case of the installment required to be paid in the sixth month,
+				c. For the first six months or for the first eight months of the taxable year, in the case of the installment required to be paid in the ninth month, and
+				d. For the first nine months or for the first 11 months of the taxable year, in the case of the installment required to be paid in the twelfth month of the taxable year.
+			</section>
+		</section>
+		<section prefix="B">For purposes of subdivision A 3, the taxable direct gross premium income shall be placed on an annualized basis by multiplying by twelve the taxable direct gross premium income referred to in subdivision A 3, and dividing the resulting amount by the number of months in the taxable year (three, five, six, eight, nine, or 11, as the case may be) referred to in subdivision A 3.
+		</section>
+		<section prefix="C">The application of this section to taxable years of less than 12 months shall be in accordance with guidelines prescribed by the Department.
+		</section>
+	</text>
+	<history>Code 1950, § 58-502.6; 1968, c. 13; 1984, c. 675; 2011, c. 850.</history>
+</law>

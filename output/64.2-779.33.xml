@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.2" level="4">Uniform Directed Trust Act</unit>
+	</structure>
+	<section_number>64.2-779.33</section_number>
+	<catch_line>Duty to provide information to trust director or trustee</catch_line>
+	<text>
+		<section prefix="A">Subject to § 64.2-779.34, a trustee shall provide information to a trust director to the extent the information is reasonably related both to:
+			<section prefix="1">The powers or duties of the trustee; and
+			</section>
+			<section prefix="2">The powers or duties of the trust director.
+			</section>
+		</section>
+		<section prefix="B">Subject to § 64.2-779.34, a trust director shall provide information to a trustee or another trust director to the extent the information is reasonably related both to:
+			<section prefix="1">The powers or duties of the trust director; and
+			</section>
+			<section prefix="2">The powers or duties of the trustee or other trust director.
+			</section>
+		</section>
+		<section prefix="C">A trustee that acts in reliance on information provided by a trust director is not liable for a breach of trust to the extent the breach resulted from the reliance, unless by so acting the trustee engages in willful misconduct.
+		</section>
+		<section prefix="D">A trust director that acts in reliance on information provided by a trustee or another trust director is not liable for a breach of trust to the extent the breach resulted from the reliance, unless by so acting the trust director engages in willful misconduct.
+		</section>
+	</text>
+	<history>2020, c. 768.</history>
+</law>

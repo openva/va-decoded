@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="63.2" level="1">Welfare (Social Services)</unit>
+		<unit label="subtitle" identifier="V" level="2">Administrative Child Support</unit>
+		<unit label="chapter" identifier="19" level="3">Child Support Enforcement</unit>
+		<unit label="article" identifier="5" level="4">Income Withholding</unit>
+	</structure>
+	<section_number>63.2-1924.1</section_number>
+	<catch_line>Health care coverage; National Medical Support Notice</catch_line>
+	<text>
+		<section prefix="A">All child support orders established and enforced pursuant to this title shall include a provision for health care coverage of dependent children. The Department shall use the National Medical Support Notice (NMSN) to enforce the provision of health care coverage through an employment-related group health plan pursuant to a child support order if available at a reasonable cost, as that term is defined in § 63.2-1900, unless a court or administrative order stipulates alternative health care coverage to employer-based coverage.
+		</section>
+		<section prefix="B">The Department shall transfer the NMSN to employers within two business days following the date of entry into the State Directory of New Hires of an employee who is obligated to pay child support or to provide health care coverage pursuant to this title. Employers shall transfer the NMSN to the appropriate group plan providing the health care coverage for each eligible child (excluding the severable Notice to Withhold for Health Care Coverage directing the employer to withhold any mandatory employee contributions to the plan) within twenty business days after the date of the NMSN. The Department, in consultation with the custodial parent, shall promptly select from available plan options when the plan administrator reports that there is more than one option available under the plan.
+		</section>
+		<section prefix="C">Employers shall withhold any obligation of the employee for employee contribution necessary for coverage of each eligible child and send any amount withheld directly to the plan. An employee obligated for contribution necessary for coverage may contest the withholding based on a mistake of fact. If the employee contests the withholding, the employer shall continue to withhold the obligation necessary for coverage until the employer receives notice that the contest is resolved in favor of the employee.
+		</section>
+		<section prefix="D">Employers shall notify the Department promptly whenever the employment of a parent ordered to provide health care coverage is terminated in the same manner as required for income withholding pursuant to § 20-79.3. The Department shall promptly notify an employer when there is no longer a current order for health care coverage in effect for which the Department is responsible.
+		</section>
+	</text>
+	<history>2002, c. 844, § 63.1-250.3:1; 2009, c. 713.</history>
+</law>

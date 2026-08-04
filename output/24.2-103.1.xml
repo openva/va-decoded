@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions and Administration</unit>
+		<unit label="article" identifier="2" level="3">State Board of Elections</unit>
+	</structure>
+	<section_number>24.2-103.1</section_number>
+	<catch_line>Duties of Department of Elections related to redistricting</catch_line>
+	<text>
+		<section prefix="A">Upon receipt of any ordinance and Geographic Information System (GIS) map sent pursuant to § 24.2-304.3 or 24.2-306, the Department shall promptly review the ordinance and map and compare the boundaries contained within with the information in the voter registration system in order to ensure voters have been assigned to the correct districts. The Department shall notify the locality of any corrections that may be necessary.
+		</section>
+		<section prefix="B">The Department shall maintain and make available on its official website maps showing the current election district and precinct boundaries of each county and city.
+		</section>
+	</text>
+	<history>2019, cc. 777, 778.</history>
+</law>

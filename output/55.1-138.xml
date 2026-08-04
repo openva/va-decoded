@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="1" level="3">Creation and Limitation of Estates</unit>
+		<unit label="article" identifier="4" level="4">Virginia Solar Easements Act</unit>
+	</structure>
+	<section_number>55.1-138</section_number>
+	<catch_line>Contents of solar easement agreements</catch_line>
+	<text>
+		Any instrument creating a solar easement shall include, at a minimum:
+		<section prefix="1">The vertical and horizontal angles, expressed in degrees, at which the solar easement extends over the real property subject to the solar easement;
+		</section>
+		<section prefix="2">Any terms or conditions under which the solar easement is granted or will be terminated; and
+		</section>
+		<section prefix="3">Any provisions for compensation of the owner of the property subject to the solar easement.
+		</section>
+	</text>
+	<history>1978, c. 323, § 55-354; 2019, c. 712.</history>
+</law>

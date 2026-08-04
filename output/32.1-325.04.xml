@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="10" level="2">Department of Medical Assistance Services</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>32.1-325.04</section_number>
+	<catch_line>Eligibility for medical assistance; individuals confined in state correctional facilities</catch_line>
+	<text>
+		<section prefix="A">The Department shall coordinate with the Department of Corrections to identify persons in the custody of state correctional facilities who are currently enrolled in the Commonwealth's program of medical assistance or who may be eligible for services under the state plan for medical assistance upon release and shall, prior to the release of such persons, (i) review the eligibility of currently enrolled persons to ensure continued access to medical assistance upon release or (ii) enroll persons not previously enrolled who meet eligibility criteria in the Commonwealth's program of medical assistance services; however, no services under the state plan for medical assistance shall be furnished to any person while he is confined in a state correctional facility unless federal financial participation is available to pay for the cost of the services provided.
+		</section>
+		<section prefix="B">An individual who is enrolled in the Commonwealth's program of medical assistance services at the time of release from the custody of a state correctional facility shall be eligible for services upon release and shall continue to be eligible for services under the state plan for medical assistance until such time as the person is determined to no longer be eligible for medical assistance.
+		</section>
+	</text>
+	<history>2022, c. 300.</history>
+</law>

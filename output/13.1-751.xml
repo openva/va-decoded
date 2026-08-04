@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="16" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-751</section_number>
+	<catch_line>Termination of corporate existence by incorporators or initial directors</catch_line>
+	<text>
+		A majority of the initial directors, or, if initial directors were not named in the articles of incorporation and have not been elected, a majority of the incorporators of a corporation that has not issued shares or has not commenced business may dissolve the corporation and terminate its corporate existence by filing with the Commission articles of termination of corporate existence that set forth:
+		<section prefix="1">The name of the corporation;
+		</section>
+		<section prefix="2">The date of its incorporation;
+		</section>
+		<section prefix="3">Either (i) that none of the corporation's shares have been issued or (ii) that the corporation has not commenced business;
+		</section>
+		<section prefix="4">That no debt of the corporation remains unpaid;
+		</section>
+		<section prefix="5">That the net assets of the corporation remaining after winding up have been distributed to the shareholders, if shares were issued; and
+		</section>
+		<section prefix="6">That a majority of the initial directors authorized the dissolution or that initial directors were not named in the articles of incorporation and have not been elected and a majority of the incorporators authorized the dissolution.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-79; 1956, c. 428; 1975, c. 500; 1985, c. 522; 1986, c. 234; 2019, c. 734.</history>
+</law>

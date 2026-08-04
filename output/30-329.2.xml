@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="50.1" level="2">Autism Advisory Council</unit>
+	</structure>
+	<section_number>30-329.2</section_number>
+	<catch_line>(Expires July 1, 2027) Powers and duties of the Council</catch_line>
+	<text>
+		<section prefix="A">The Council shall have the power and duty to:
+			<section prefix="1">Facilitate the coordination of services and resources among agencies involved in the delivery of services to Virginians with autism spectrum disorders;
+			</section>
+			<section prefix="2">Monitor the implementation of action plans developed by agencies in response to the report of the Joint Legislative Audit and Review Commission entitled "Assessment of Services for Virginians with Autism Spectrum Disorders," House Document No. 8 (2009);
+			</section>
+			<section prefix="3">Recommend policies, legislation, and funding needed to implement the action plans developed in response to the report of the Joint Legislative Audit and Review Commission entitled "Assessment of Services for Virginians with Autism Spectrum Disorders," House Document No. 8 (2009) and address other emerging issues; and
+			</section>
+			<section prefix="4">Determine services, resources, and policies that may further address the needs of individuals with autism spectrum disorders.
+			</section>
+		</section>
+		<section prefix="B">By December 1 of each year, the Council shall submit to the Governor and the General Assembly and to the Division of Legislative Automated Systems for publication as a House or Senate document an annual report containing progress updates and recommended next steps to be taken by agencies in the following year.
+		</section>
+	</text>
+	<history>2024, c. 708.</history>
+</law>

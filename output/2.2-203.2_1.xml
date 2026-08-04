@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="2" level="4">Governor's Secretaries</unit>
+		<unit label="article" identifier="2" level="5">Secretary of Administration</unit>
+	</structure>
+	<section_number>2.2-203.2:1</section_number>
+	<catch_line>Secretary to report state job elimination due to privatization</catch_line>
+	<text>
+		On or before November 30 of each year, the Secretary shall report to the Governor and the General Assembly on the number of state jobs eliminated in the immediately preceding fiscal year due to the privatization of commercial activities to a commercial source.
+		As used in this section, unless the context requires a different meaning:
+		"Commercial activities" means an activity performed by or for state government that is not an inherently governmental activity and that may feasibly be obtained from a commercial source at lower cost than the activity being performed by state employees.
+		"Commercial source" means any business or other concern that is eligible for a contract award in accordance with the Virginia Public Procurement Act (§ 2.2-4300 et seq.).
+	</text>
+	<history>2005, c. 476; 2012, cc. 803, 835.</history>
+</law>

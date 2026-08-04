@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="47.1" level="1">Notaries and Out-Of-State Commissioners</unit>
+		<unit label="chapter" identifier="6" level="2">Civil and Criminal Liability</unit>
+	</structure>
+	<section_number>47.1-28</section_number>
+	<catch_line>Willful misconduct a misdemeanor</catch_line>
+	<text>
+		<section prefix="A">Any notary who knowingly and willfully commits any official misconduct under Chapter 5 (§ 47.1-24 et seq.) of this title shall be guilty of a Class 3 misdemeanor.
+		</section>
+		<section prefix="B">Any employer of a notary who willfully induces such notary to commit official misconduct under Chapter 5 of this title shall be guilty of a Class 3 misdemeanor.
+		</section>
+		<section prefix="C">Any person who knowingly and willfully misrepresents on an application for commission as a notary whether they have been convicted of any felony under the laws of this Commonwealth, of any other state, or of the United States shall be guilty of a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>1980, c. 580; 2008, cc. 117, 814.</history>
+</law>

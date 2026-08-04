@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="29.1" level="1">Wildlife, Inland Fisheries and Boating</unit>
+		<unit label="chapter" identifier="7" level="2">Boating Laws</unit>
+		<unit label="article" identifier="2.1" level="3">Virginia Uniform Certificate of Title for Watercraft Act</unit>
+	</structure>
+	<section_number>29.1-733.16</section_number>
+	<catch_line>Termination statement; delivery of certificate of title; penalty</catch_line>
+	<text>
+		<section prefix="A">A secured party indicated in the files of the Department as having a security interest in a watercraft shall deliver a termination statement to the Department and, on the debtor's request, to the debtor by the earlier of:
+			<section prefix="1">Twenty days after the secured party receives a signed demand from an owner for a termination statement and there is no obligation secured by the watercraft subject to the security interest and no commitment to make an advance, incur an obligation, or otherwise give value secured by the watercraft; or
+			</section>
+			<section prefix="2">If the watercraft is consumer goods, 30 days after there is no obligation secured by the watercraft and no commitment to make an advance, incur an obligation, or otherwise give value secured by the watercraft.
+			</section>
+		</section>
+		<section prefix="B">If a written certificate of title has been created and delivered to a secured party and a termination statement is required under subsection A, the secured party, not later than the date required by subsection A, shall deliver the certificate to the debtor or to the Department with the statement. An owner, upon securing the release of any security interest upon a vessel shown upon the certificate of title issued for the watercraft, may exhibit the documents evidencing the release, signed by the person or persons making such release, and the certificate of title to the Department. If the certificate is lost, stolen, mutilated, destroyed, or is otherwise unavailable or illegible, the secured party shall deliver with the statement, not later than the date required by subsection A, an application for a replacement certificate meeting the requirements of § 29.1-733.22.
+		</section>
+		<section prefix="C">On delivery to the Department of a termination statement authorized by the secured party, the security interest to which the statement relates ceases to be perfected. If the security interest to which the statement relates was indicated on the certificate of title, the Department shall create a new certificate and deliver the new certificate or a record evidencing an electronic certificate. The Department shall maintain in its files the date and time of delivery to the Department of the statement.
+		</section>
+		<section prefix="D">A secured party that fails to deliver a required termination statement is liable for any loss that the secured party had reason to know might result from its failure to comply and that could not reasonably have been prevented and for the cost of an application for a certificate of title under § 29.1-733.7 or 29.1-733.22.
+		</section>
+		<section prefix="E">It shall constitute a Class 1 misdemeanor for a secured party who holds a certificate of title to refuse or fail to surrender the certificate to the owner or his agent within 10 days after the security interest has been paid and satisfied.
+		</section>
+	</text>
+	<history>2013, c. 787.</history>
+</law>

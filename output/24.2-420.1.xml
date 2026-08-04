@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="4" level="3">Registration of Voters</unit>
+	</structure>
+	<section_number>24.2-420.1</section_number>
+	<catch_line>Extended time for persons to register in person</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding the provisions of § 24.2-416, any person who is qualified to register to vote shall be entitled to register in person up to and including the day of the election at the office of the general registrar in the locality in which such person resides or at the polling place for the precinct in which such person resides.
+		</section>
+		<section prefix="B">The Department shall prescribe procedures for the addition of persons registered under this section to the lists of registered voters.
+		</section>
+	</text>
+	<history>1995, c. 296; 2002, cc. 785, 819; 2015, c. 740; 2020, c. 1153.</history>
+</law>

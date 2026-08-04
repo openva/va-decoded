@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="36" level="1">Housing</unit>
+		<unit label="chapter" identifier="1.2" level="2">Virginia Housing Development Authority Act</unit>
+	</structure>
+	<section_number>36-55.47</section_number>
+	<catch_line>Remedies of noteholders and bondholders</catch_line>
+	<text>
+		<section prefix="1">In the event that HDA shall default in the payment of principal of or interest on any issue of notes and bonds after the same shall become due, whether at maturity or upon call for redemption, and such default shall continue for a period of thirty days, or in the event that HDA shall fail or refuse to comply with the provisions of this chapter, or shall default in any agreement made with the holders of any issue of notes or bonds, the holders of twenty-five per centum in aggregate principal amount of the notes or bonds of such issue then outstanding, by instrument or instruments filed in the office of the clerk of the Circuit Court of the City of Richmond, Commonwealth of Virginia, and proved or acknowledged in the same manner as a deed to be recorded, may appoint a trustee to represent the holders of such notes or bonds for the purposes herein provided.
+		</section>
+		<section prefix="2">Such trustee may, and upon written request of the holders of twenty-five per centum in principal amount of such notes or bonds then outstanding shall, in his or its own name:
+			<section prefix="a">By suit, action or proceeding in accordance with the provisions of Title 8.01, enforce all rights of the noteholders or bondholders, including the right to require HDA to carry out any agreements with such holders and to perform its duties under this chapter;
+			</section>
+			<section prefix="b">Bring suit upon such notes or bonds;
+			</section>
+			<section prefix="c">By action or suit, require HDA to account as if it were the trustee of an express trust for the holders of such notes or bonds;
+			</section>
+			<section prefix="d">By action or suit, enjoin any acts or things which may be unlawful or in violation of the rights of the holders of such notes or bonds;
+			</section>
+			<section prefix="e">Declare all such notes or bonds due and payable, and if all defaults shall be made good, then, with the consent of the holders of twenty-five per centum of the principal amount of such notes or bonds then outstanding, annul such declaration and its consequences.
+			</section>
+		</section>
+		<section prefix="3">The Circuit Court of the City of Richmond shall have jurisdiction of any suit, action or proceeding by the trustee on behalf of such noteholders or bondholders. The venue of any suit, action or proceeding shall be laid in the City of Richmond, Commonwealth of Virginia.
+		</section>
+		<section prefix="4">Before declaring the principal of notes or bonds due and payable, the trustee shall first give thirty days' notice in writing to HDA.
+		</section>
+	</text>
+	<history>1972, c. 830.</history>
+</law>

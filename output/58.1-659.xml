@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="6.2" level="3">Virginia Communications Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-659</section_number>
+	<catch_line>Collection of tax; penalty</catch_line>
+	<text>
+		<section prefix="A">The tax levied by this chapter shall be collected and remitted by the communications services provider, but the communications services provider shall separately state the amount of the tax and add such tax to the sales price or charge. Thereafter, the tax shall be a debt from the customer to the communications services provider until paid and shall be recoverable at law in the same manner as other debts.
+		</section>
+		<section prefix="B">Notwithstanding any exemption from taxes that any communications services provider now or hereafter may enjoy under the Constitution or laws of the Commonwealth, or any other state, or of the United States, a communications services provider shall collect the tax from the customer of taxable communications services and shall remit the same to the Tax Commissioner as provided by this chapter.
+		</section>
+		<section prefix="C">Any communications services provider collecting the communications sales or use tax on transactions exempt or not taxable under this chapter shall remit to the Tax Commissioner such erroneously or illegally collected tax unless or until he can affirmatively show that the tax has been refunded to the customer or credited to his account.
+		</section>
+		<section prefix="D">Any communications services provider who intentionally neglects, fails, or refuses to collect the tax upon every taxable sale of communications services made by him, or his agents or employees on his behalf, shall be liable for and pay the tax himself. Moreover, any communications services provider who intentionally neglects, fails, or refuses to pay or collect the tax herein provided, either by himself or through his agents or employees, shall be guilty of a Class 1 misdemeanor.
+			All sums collected by a communications services provider as required by this chapter shall be deemed to be held in trust for the Commonwealth.
+		</section>
+	</text>
+	<history>2006, c. 780.</history>
+</law>

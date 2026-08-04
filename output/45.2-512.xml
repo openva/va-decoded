@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="A" level="3">Coal Mines Generally</unit>
+		<unit label="chapter" identifier="5" level="4">Coal Mine Safety Act</unit>
+		<unit label="article" identifier="2" level="5">Chief of the Division of Mines of the Department and Mine Inspectors</unit>
+	</structure>
+	<section_number>45.2-512</section_number>
+	<catch_line> Qualifications of coal mine inspectors</catch_line>
+	<text>
+		<section prefix="A">Each mine inspector conducting inspections of underground coal mines shall have a thorough knowledge of the various systems of working and ventilating underground coal mines; the nature and properties of mine gases and methods for their detection and control; the control of mine roof and ground control; methods of rescue and recovery work in mine disasters; the application of electricity and mechanical loading in mining operations; equipment and explosives used in mining; methods for preventing gas and dust explosions in mines; and mine haulage.
+		</section>
+		<section prefix="B">Each mine inspector conducting inspections of surface coal mines shall have a thorough knowledge of the various systems of working surface coal mines, the nature and properties of mine gases and methods of their detection and control, ground control, methods of rescue and recovery work in surface mine disasters, the application of electricity and mechanical loading in mining operations, equipment and explosives used in mining, methods for preventing gas and dust explosions in surface facilities on mine property, and mine haulage.
+		</section>
+	</text>
+	<history>Code 1950, §§ 45-4, 45-5, 45-6; 1954, c. 191; 1966, c. 594, § 45.1-4; 1972, c. 784; 1978, cc. 120, 727; 1981, c. 32; 1984, cc. 184, 337, 590; 1987, Sp. Sess., c. 1; 1994, c. 28, § 45.1-161.20; 1997, c. 390; 2005, c. 3; 2021, Sp. Sess. I, c. 387.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="6" level="3">Flood Protection and Dam Safety</unit>
+		<unit label="article" identifier="5" level="4">Stream Restoration Assistance Program</unit>
+	</structure>
+	<section_number>10.1-654</section_number>
+	<catch_line>Damage inspections and reports</catch_line>
+	<text>
+		<section prefix="A">Upon receipt of an application for assistance, the Board shall schedule a field inspection of the affected stream segment to determine the extent of damages. Such field inspections should be scheduled and coordinated so that affected landowners and appropriate conservation districts and local government officials can participate.
+		</section>
+		<section prefix="B">Following the field inspection, the Board shall prepare an inspection report which includes a recommendation concerning the extent to which the Commonwealth should assist the applicant in restoring the stream.
+		</section>
+		<section prefix="C">Draft copies of the inspection report shall be submitted to the applicant, persons who attended the field inspection, and chairmen of conservation districts and local governing bodies having jurisdiction in the area where the damage has occurred. These persons shall be given forty-five days to submit written comments and recommendations concerning the report. The final report shall contain copies of all written comments and recommendations received.
+		</section>
+	</text>
+	<history>1981, c. 450, § 21-11.26; 1988, c. 891.</history>
+</law>

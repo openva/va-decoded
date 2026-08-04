@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="3" level="2">Transfer of Certificated and Uncertificated Securities</unit>
+	</structure>
+	<section_number>8.8A-306</section_number>
+	<catch_line>Effect of guaranteeing signature, endorsement, or instruction</catch_line>
+	<text>
+		<section prefix="a">A person who guarantees a signature of an endorser of a security certificate warrants that at the time of signing:
+			<section prefix="1">the signature was genuine;
+			</section>
+			<section prefix="2">the signer was an appropriate person to endorse, or if the signature is by an agent, the agent had actual authority to act on behalf of the appropriate person; and
+			</section>
+			<section prefix="3">the signer had legal capacity to sign.
+			</section>
+		</section>
+		<section prefix="b">A person who guarantees a signature of the originator of an instruction warrants that at the time of signing:
+			<section prefix="1">the signature was genuine;
+			</section>
+			<section prefix="2">the signer was an appropriate person to originate the instruction, or if the signature is by an agent, the agent had actual authority to act on behalf of the appropriate person, if the person specified in the instruction as the registered owner was, in fact, the registered owner, as to which fact the signature guarantor does not make a warranty; and
+			</section>
+			<section prefix="3">the signer had legal capacity to sign.
+			</section>
+		</section>
+		<section prefix="c">A person who specially guarantees the signature of an originator of an instruction makes the warranties of a signature guarantor under subsection (b) and also warrants that at the time the instruction is presented to the issuer:
+			<section prefix="1">the person specified in the instruction as the registered owner of the uncertificated security will be the registered owner; and
+			</section>
+			<section prefix="2">the transfer of the uncertificated security requested in the instruction will be registered by the issuer free from all liens, security interests, restrictions, and claims other than those specified in the instruction.
+			</section>
+		</section>
+		<section prefix="d">A guarantor under subsections (a) and (b) or a special guarantor under subsection (c) does not otherwise warrant the rightfulness of the transfer.
+		</section>
+		<section prefix="e">A person who guarantees an endorsement of a security certificate makes the warranties of a signature guarantor under subsection (a) and also warrants the rightfulness of the transfer in all respects.
+		</section>
+		<section prefix="f">A person who guarantees an instruction requesting the transfer of an uncertificated security makes the warranties of a special signature guarantor under subsection (c) and also warrants the rightfulness of the transfer in all respects.
+		</section>
+		<section prefix="g">An issuer may not require a special guaranty of signature, a guaranty of endorsement, or a guaranty of instruction as a condition to registration of transfer.
+		</section>
+		<section prefix="h">The warranties under this section are made to a person taking or dealing with the security in reliance on the guaranty, and the guarantor is liable to the person for loss resulting from their breach. An endorser or originator of an instruction whose signature, endorsement, or instruction has been guaranteed is liable to a guarantor for any loss suffered by the guarantor as a result of breach of the warranties of the guarantor.
+		</section>
+	</text>
+	<history>1996, c. 216.</history>
+</law>

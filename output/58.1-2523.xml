@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="25" level="3">License Tax on Certain Insurance Companies</unit>
+		<unit label="article" identifier="2" level="4">Estimated Tax</unit>
+	</structure>
+	<section_number>58.1-2523</section_number>
+	<catch_line>Payment of estimated tax</catch_line>
+	<text>
+		<section prefix="A">The amount of estimated tax with respect to which a declaration is required under § 58.1-2520 shall be paid in installments as follows:
+			<section prefix="1">If the declaration is required to be filed by April 15 of the taxable year, twenty-five percent of the estimated tax shall be paid on April, June, September and December 15 of said taxable year.
+			</section>
+			<section prefix="2">If the declaration is required to be filed by June 15 of the taxable year, one-third of the estimated tax shall be paid on June, September and December 15 of said taxable year.
+			</section>
+			<section prefix="3">If the declaration is required to be filed by September 15 of the taxable year, one-half of the estimated tax shall be paid on September and December 15 of said taxable year.
+			</section>
+			<section prefix="4">If the declaration is required to be filed by December 15 of the taxable year, 100 percent of the estimated tax shall be paid on the same date such declaration is filed.
+			</section>
+		</section>
+		<section prefix="B">If any amendment to a declaration is filed, the amount of any remaining installments shall be the amount which would have been payable if the new estimate had been made when the first estimate for the taxable year was made, increased or decreased, as the case may be, by the amount computed by dividing: (1) The difference between (a) the amount of estimated tax required to be paid before the date on which the amendment is made, and (b) the amount of estimated tax which would have been required to be paid before such date if the new estimate had been made when the first estimate was made, by (2) the number of installments remaining to be paid on or after the date on which the amendment is made.
+		</section>
+		<section prefix="C">At the election of the insurance company, any installment of the estimated tax may be paid before the date prescribed for its payment.
+		</section>
+	</text>
+	<history>Code 1950, § 58-502.4; 1968, c. 13; 1972, c. 153; 1984, c. 675.</history>
+</law>

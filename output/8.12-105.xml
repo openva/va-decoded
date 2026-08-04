@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.12" level="1">Controllable Electronic Records</unit>
+	</structure>
+	<section_number>8.12-105</section_number>
+	<catch_line>Control of controllable electronic record</catch_line>
+	<text>
+		<section prefix="a">General rule: control of controllable electronic record. A person has control of a controllable electronic record if the electronic record, a record attached to or logically associated with the electronic record, or a system in which the electronic record is recorded:
+			<section prefix="1">gives the person:
+			</section>
+		</section>
+		<section prefix="A">power to avail itself of substantially all the benefit from the electronic record; and
+		</section>
+		<section prefix="B">exclusive power, subject to subsection (b), to:
+		</section>
+		<section prefix="i">prevent others from availing themselves of substantially all the benefit from the electronic record; and
+			<section prefix="ii">transfer control of the electronic record to another person or cause another person to obtain control of another controllable electronic record as a result of the transfer of the electronic record; and
+			</section>
+			<section prefix="2">enables the person readily to identify itself in any way, including by name, identifying number, cryptographic key, office, or account number, as having the powers specified in paragraph (1).
+			</section>
+		</section>
+		<section prefix="b">Meaning of exclusive. Subject to subsection (c), a power is exclusive under subsection (a)(1)(B)(i) and (ii) even if:
+			<section prefix="1">the controllable electronic record, a record attached to or logically associated with the electronic record, or a system in which the electronic record is recorded limits the use of the electronic record or has a protocol programmed to cause a change, including a transfer or loss of control or a modification of benefits afforded by the electronic record; or
+			</section>
+			<section prefix="2">the power is shared with another person.
+			</section>
+		</section>
+		<section prefix="c">When power not shared with another person. A power of a person is not shared with another person under subsection (b)(2) and the person's power is not exclusive if:
+			<section prefix="1">the person can exercise the power only if the power also is exercised by the other person; and
+			</section>
+			<section prefix="2">the other person:
+			</section>
+		</section>
+		<section prefix="A">can exercise the power without exercise of the power by the person; or
+		</section>
+		<section prefix="B">is the transferor to the person of an interest in the controllable electronic record or a controllable account or controllable payment intangible evidenced by the controllable electronic record.
+		</section>
+		<section prefix="d">Presumption of exclusivity of certain powers. If a person has the powers specified in subsection (a)(1)(B)(i) and (ii), the powers are presumed to be exclusive.
+		</section>
+		<section prefix="e">Control through another person. A person has control of a controllable electronic record if another person, other than the transferor to the person of an interest in the controllable electronic record or a controllable account or controllable payment intangible evidenced by the controllable electronic record:
+			<section prefix="1">has control of the electronic record and acknowledges that it has control on behalf of the person; or
+			</section>
+			<section prefix="2">obtains control of the electronic record after having acknowledged that it will obtain control of the electronic record on behalf of the person.
+			</section>
+		</section>
+		<section prefix="f">No requirement to acknowledge. A person that has control under this section is not required to acknowledge that it has control on behalf of another person.
+		</section>
+		<section prefix="g">No duties or confirmation. If a person acknowledges that it has or will obtain control on behalf of another person, unless the person otherwise agrees or law other than this article or Article 9 otherwise provides, the person does not owe any duty to the other person and is not required to confirm the acknowledgment to any other person.
+		</section>
+	</text>
+	<history>2024, c. 652.</history>
+</law>

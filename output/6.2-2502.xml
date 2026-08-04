@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="IV" level="2">Other Financial Activities</unit>
+		<unit label="chapter" identifier="25" level="3">Refund Anticipation Loans</unit>
+	</structure>
+	<section_number>6.2-2502</section_number>
+	<catch_line>Prohibited activities</catch_line>
+	<text>
+		Any facilitator who offers to facilitate, or who facilitates, a refund anticipation loan shall not:
+		<section prefix="1">Require a customer to enter into a loan arrangement in order to complete a tax return;
+		</section>
+		<section prefix="2">Misrepresent a material factor or condition of a refund anticipation loan;
+		</section>
+		<section prefix="3">Fail to process the application for a refund anticipation loan promptly after an applicant applies for the loan; or
+		</section>
+		<section prefix="4">Engage in any transaction, practice, or course of business that operates a fraud upon any person in connection with a refund anticipation loan.
+		</section>
+	</text>
+	<history>2006, c. 399, § 6.1-476; 2010, c. 794.</history>
+</law>

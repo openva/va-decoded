@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="9" level="3">Indemnification</unit>
+	</structure>
+	<section_number>13.1-880</section_number>
+	<catch_line>Determination and authorization of indemnification</catch_line>
+	<text>
+		<section prefix="A">A corporation may not indemnify a director under § 13.1-876 unless authorized in the specific case after a determination has been made that indemnification of the director is permissible because he has met the relevant standard of conduct set forth in § 13.1-876.
+		</section>
+		<section prefix="B">The determination shall be made:
+			<section prefix="1">If there are two or more disinterested directors, by the board of directors by a majority vote of all the disinterested directors, a majority of whom shall for such purpose constitute a quorum, or by a majority of the members of a committee of two or more disinterested directors appointed by such a vote;
+			</section>
+			<section prefix="2">By special legal counsel:
+				a. Selected in the manner prescribed in subdivision 1 of this subsection; or
+				b. If there are fewer than two disinterested directors, selected by the board of directors, in which selection directors who do not qualify as disinterested directors may participate; or
+			</section>
+			<section prefix="3">By the members, but membership interests under the control of a director who at the time does not qualify as a disinterested director may not be voted on the determination.
+			</section>
+		</section>
+		<section prefix="C">Authorization of indemnification shall be made in the same manner as the determination that indemnification is permissible, except that if there are fewer than two disinterested directors or if the determination is made by special legal counsel, authorization of indemnification shall be made by those entitled under subdivision B 2 to select counsel.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-205.1; 1968, c. 689; 1975, c. 500; 1981, c. 57; 1985, c. 522; 2007, c. 925.</history>
+</law>

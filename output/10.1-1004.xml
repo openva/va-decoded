@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="10" level="3">Cave Protection Act</unit>
+	</structure>
+	<section_number>10.1-1004</section_number>
+	<catch_line>Vandalism; penalties</catch_line>
+	<text>
+		<section prefix="A">It shall be unlawful for any person, without express, prior, written permission of the owner, to:
+			<section prefix="1">Break, break off, crack, carve upon, write, burn, or otherwise mark upon, remove, or in any manner destroy, disturb, deface, mar, or harm the surfaces of any cave or any natural material which may be found therein, whether attached or broken, including speleothems, speleogens, and sedimentary deposits. The provisions of this section shall not prohibit minimal disturbance for scientific exploration.
+			</section>
+			<section prefix="2">Break, force, tamper with, or otherwise disturb a lock, gate, door, or other obstruction designed to control or prevent access to any cave, even though entrance thereto may not be gained.
+			</section>
+			<section prefix="3">Remove, deface, or tamper with a sign stating that a cave is posted or citing provisions of this chapter.
+			</section>
+			<section prefix="4">Excavate, remove, destroy, injure, deface, or in any manner disturb any burial grounds, historic or prehistoric resources, archaeological or paleontological site or any part thereof, including relics, inscriptions, saltpeter workings, fossils, bones, remains of historical human activity, or any other such features which may be found in any cave, except those caves owned by the Commonwealth or designated as Commonwealth archaeological sites or zones, and which are subject to the provisions of the Virginia Antiquities Act (§ 10.1-2300 et seq.).
+			</section>
+		</section>
+		<section prefix="B">Entering or remaining in a cave which has not been posted by the owner shall not by itself constitute a violation of this section.
+		</section>
+		<section prefix="C">Any violation of this section shall be punished as a Class 1 misdemeanor.
+		</section>
+		<section prefix="D">The provisions of this section shall not apply to an owner of a cave on his own property.
+		</section>
+	</text>
+	<history>1979, c. 252, § 10-150.13; 1982, c. 81; 1988, c. 891.</history>
+</law>

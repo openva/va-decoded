@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="49" level="3">Animal Remedies</unit>
+	</structure>
+	<section_number>3.2-4906</section_number>
+	<catch_line>Adulterated remedy</catch_line>
+	<text>
+		An animal remedy is adulterated if:
+		<section prefix="1">It was prepared or held under unsanitary conditions and as a result it: (i) may have become contaminated with filth; or (ii) may have been rendered injurious to animal health.
+		</section>
+		<section prefix="2">Its composition, purity, strength, or quality falls below or differs from what it is purported or is represented to possess by its labeling. The Commissioner shall allow a reasonable tolerance from such representation, in accordance with good manufacturing practices.
+		</section>
+		<section prefix="3">It consists in whole or in part of any filthy, putrid or decomposed substance.
+		</section>
+		<section prefix="4">It bears or contains any poisonous or deleterious substance that may render it injurious to health under such conditions of use as are customary or usual.
+		</section>
+		<section prefix="5">Its container is composed of any injurious or deleterious substance that may render it injurious to health.
+		</section>
+	</text>
+	<history>Code 1950, § 3-646.2; 1956, c. 517; 1966, c. 702, § 3.1-831; 1994, c. 910; 2008, c. 860.</history>
+</law>

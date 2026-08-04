@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="III" level="2">Mineral Mines</unit>
+		<unit label="part" identifier="A" level="3">Mineral Mines Generally</unit>
+		<unit label="chapter" identifier="11" level="4">Mineral Mine Safety Act</unit>
+		<unit label="article" identifier="4" level="5">Licensing of Mineral Mines</unit>
+	</structure>
+	<section_number>45.2-1130</section_number>
+	<catch_line> Notices to Department; resumption of mining following discontinuance</catch_line>
+	<text>
+		<section prefix="A">The licensed operator or his agent shall send notice of intent to abandon or discontinue the working of an underground mine for a period of 30 days, or a surface mine for a period of 60 days, to the Department at least 10 days prior to discontinuing the working of a mine with such intent, or at any time a mine becomes an inactive mine.
+		</section>
+		<section prefix="B">The licensed operator or his agent shall send to the Department 10 days' prior notice of intent to resume the working of an inactive mine. Except for a surface mineral mine that is inspected by MSHA, the working of such mine shall not resume until a mine inspector has inspected the mine and approved it.
+		</section>
+		<section prefix="C">An emergency action necessary to preserve a mine may be undertaken without the prior notice of intent and advance inspection required by subsection B. In such event, a mine foreman shall examine the mine for hazardous conditions immediately before any miner is permitted to work. The licensed operator or his agent shall notify the Department as soon as possible after commencing an emergency action necessary to preserve the mine.
+		</section>
+		<section prefix="D">The licensed operator or his agent shall send to the Department 10 days' prior notice of any change in the name of a mine or in the name of the operator of a mine.
+		</section>
+		<section prefix="E">The licensed operator or his agent shall send to the Department 10 days' prior notice of the opening of a new mine.
+		</section>
+		<section prefix="F">Any notice required by this section shall be in writing and shall include the name and location of the mine and the name, mailing address, and email address of the licensed operator.
+		</section>
+	</text>
+	<history>1997, c. 390, § 45.1-161.292:36; 1998, c. 695; 2021, Sp. Sess. I, c. 387.</history>
+</law>

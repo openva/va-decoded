@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="47" level="3">Sale of Farm Produce</unit>
+		<unit label="article" identifier="4" level="4">Dealers in Grain Products</unit>
+	</structure>
+	<section_number>3.2-4759</section_number>
+	<catch_line>Records to be kept by dealers</catch_line>
+	<text>
+		<section prefix="A">Every grain dealer in the Commonwealth shall keep such records of grain transactions for such reasonable periods of time and in accordance with good business practices as may be required by the Board.
+		</section>
+		<section prefix="B">Written agreements, in addition to such other information as may be required, shall contain the following:
+			<section prefix="1">The seller's name and address;
+			</section>
+			<section prefix="2">The conditions of delivery;
+			</section>
+			<section prefix="3">The amount and kind of grain delivered;
+			</section>
+			<section prefix="4">The price per bushel or basis of value; and
+			</section>
+			<section prefix="5">The date payment is to be made.
+			</section>
+		</section>
+	</text>
+	<history>1972, c. 296, § 3.1-722.23; 1982, c. 187; 2008, c. 860.</history>
+</law>

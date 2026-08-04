@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="21" level="4">Setoff Debt Collection Act</unit>
+	</structure>
+	<section_number>58.1-528</section_number>
+	<catch_line>Certification of debt by claimant agency; finalization of setoff</catch_line>
+	<text>
+		<section prefix="A">Upon final determination of the debt due and owing the claimant agency or upon the debtor's default for failure to comply with § 58.1-525, the claimant agency shall within twenty days notify the Department to setoff the refund against the debt. If the claimant agency fails to notify the Department within twenty days, the Department shall no longer be obligated to hold the refund for setoff.
+		</section>
+		<section prefix="B">Upon receipt by the Department of a notification of final determination and setoff from the claimant agency, the Department shall finalize the setoff by transferring the proceeds collected for credit or payment in accordance with the provisions of § 58.1-532 and by refunding any remaining balance to the debtor as if setoff had not occurred.
+		</section>
+	</text>
+	<history>Code 1950, § 58-19.15; 1981, c. 408; 1982, c. 621; 1984, c. 675; 1996, cc. 363, 413.</history>
+</law>

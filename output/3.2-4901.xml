@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="49" level="3">Animal Remedies</unit>
+	</structure>
+	<section_number>3.2-4901</section_number>
+	<catch_line>Exemptions from chapter</catch_line>
+	<text>
+		The provisions of this chapter shall not apply to:
+		<section prefix="1">The compounding or dispensing of veterinarians' prescriptions, nor the dispensing of drugs or preparations by registered pharmacists compounded at the request of the purchaser and not intended for resale, nor shall such provisions apply to any animal remedy sold exclusively to or used exclusively by licensed veterinarians.
+		</section>
+		<section prefix="2">Any animal remedy that contains as an ingredient any part of the Cannabis plant or any product made from any part of the Cannabis plant.
+		</section>
+	</text>
+	<history>Code 1950, § 3-646.11; 1956, c. 517; 1966, c. 702, § 3.1-841; 2008, c. 860; 2019, c. 267.</history>
+</law>

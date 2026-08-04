@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.18</section_number>
+	<catch_line>Articles of merger</catch_line>
+	<text>
+		In a merger under § 13.1-1099.16, the articles of merger shall:
+		<section prefix="1">Comply with § 13.1-1072 and include a plan of merger that complies with the provisions of § 13.1-1099.17;
+		</section>
+		<section prefix="2">Be accompanied by the following records, each to become effective when the merger becomes effective:
+			a. For a protected series of a merging company being canceled as a result of the merger, a statement of designation cancellation;
+			b. For a protected series of a non-surviving company which after the merger will be a relocated protected series:
+			<section prefix="1">A statement of relocation that contains the name of the non-surviving company and the name of the protected series before and after the merger; and
+			</section>
+			<section prefix="2">A statement of protected series designation; and
+				c. For a protected series being established by the surviving company as a result of the merger, a statement of protected series designation; and
+			</section>
+		</section>
+		<section prefix="3">A statement presented with articles of merger pursuant to this section may be filed with the Commission without payment of the fee specified in § 13.1-1005.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

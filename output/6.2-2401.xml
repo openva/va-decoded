@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="IV" level="2">Other Financial Activities</unit>
+		<unit label="chapter" identifier="24" level="3">Securitization Transactions</unit>
+	</structure>
+	<section_number>6.2-2401</section_number>
+	<catch_line>Securitization transactions; no interest retained by transferor</catch_line>
+	<text>
+		Notwithstanding any other provision of law, including § 8.9A-623, to the extent set forth in the transaction documents relating to a securitization transaction:
+		<section prefix="1">Any property, assets, or rights purported to be transferred, in whole or in part, in the securitization transaction shall be deemed to no longer be the property, assets, or rights of the transferor;
+		</section>
+		<section prefix="2">A transferor in the securitization transaction, its creditors or, in any insolvency proceeding with respect to the transferor or the transferor's property, a bankruptcy trustee, receiver, debtor, debtor in possession, or similar person, to the extent the issue is governed by the laws of the Commonwealth, shall have no rights, legal or equitable, whatsoever to reacquire, reclaim, recover, repudiate, disaffirm, redeem, or recharacterize as property of the transferor any property, assets, or rights purported to be transferred, in whole or in part, by the transferor; and
+		</section>
+		<section prefix="3">In the event of a bankruptcy, receivership, or other insolvency proceeding with respect to the transferor or the transferor's property, to the extent the issue is governed by the laws of the Commonwealth, such property, assets, and rights shall not be deemed to be part of the transferor's property, assets, rights, or estate.
+		</section>
+	</text>
+	<history>2004, c. 600, § 6.1-473; 2010, c. 794.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="2" level="3">Formation and Terms</unit>
+	</structure>
+	<section_number>59.1-502.12</section_number>
+	<catch_line>Efficacy and commercial reasonableness of attribution procedure</catch_line>
+	<text>
+		The efficacy, including the commercial reasonableness, of an attribution procedure is determined by the court. In making this determination, the following rules apply:
+		<section prefix="1">An attribution procedure established by law is effective for transactions within the coverage of the statute, administrative rule, or regulation.
+		</section>
+		<section prefix="2">Except as otherwise provided in paragraph (1), commercial reasonableness and effectiveness is determined in light of the purposes of the procedure and the commercial circumstances at the time the parties agreed to or adopted the procedure.
+		</section>
+		<section prefix="3">An attribution procedure may use any security device or method that is commercially reasonable under the circumstances.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2001, cc. 762, 763.</history>
+</law>

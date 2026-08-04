@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="20" level="3">Regulation of Passenger Carriers</unit>
+		<unit label="article" identifier="10" level="4">Brokers</unit>
+	</structure>
+	<section_number>46.2-2099.19:1</section_number>
+	<catch_line>TNC broker insurance</catch_line>
+	<text>
+		<section prefix="A">A TNC broker shall ensure that any TNC partner with whom it arranges transportation that will be provided pursuant to Article 15 (§ 46.2-2099.45 et seq.) has or is provided with TNC broker insurance as provided in this section. TNC broker insurance shall be in effect from the moment a TNC partner is en route to a passenger pursuant to arrangements made by a TNC broker and end when the TNC partner logs on to the transportation network company's digital platform or when the transportation arranged by the TNC broker has been canceled.
+		</section>
+		<section prefix="B">TNC broker insurance shall provide motor vehicle liability coverage. Such coverage shall be primary and shall provide liability coverage of at least $1 million for death, bodily injury, and property damage.
+		</section>
+		<section prefix="C">The requirements for the coverage required by this section may be satisfied by any of the following:
+			<section prefix="1">TNC broker insurance maintained by a TNC partner;
+			</section>
+			<section prefix="2">TNC broker insurance maintained by a TNC broker that provides coverage in the event that a TNC partner's insurance policy under subdivision 1 has ceased to exist or has been canceled or in the event that the TNC partner does not otherwise maintain TNC broker insurance; or
+			</section>
+			<section prefix="3">Any combination of subdivisions 1 and 2.
+				A TNC broker may meet its obligations under this subsection through a policy obtained by a TNC partner pursuant to subdivision 1 or 3 only if the TNC broker verifies that a policy is maintained by the TNC partner and such policy is specifically written to cover the TNC partner's use of a vehicle in connection with a TNC broker.
+			</section>
+		</section>
+		<section prefix="D">In every instance where the TNC broker insurance maintained by a TNC partner to fulfill the insurance obligations of this section has lapsed or ceased to exist, the TNC broker shall provide the coverage required by this section beginning with the first dollar of a claim.
+		</section>
+		<section prefix="E">This section shall not limit the liability of a TNC broker arising out of an accident involving a TNC partner in any action for damages against a TNC broker for an amount above the required insurance coverage.
+		</section>
+		<section prefix="F">Any person, or attorney acting on his behalf, who suffers a loss in an automobile accident with a reasonable belief that the accident involves a TNC partner vehicle driven by a TNC partner in connection with a TNC broker and who provides the TNC broker with the date, approximate time, and location of the accident, the name of the TNC partner, if available, and the accident report, if available, may request in writing from the TNC broker information relating to the insurance coverage and the company providing the coverage. The TNC broker shall respond electronically or in writing within 30 days. The TNC broker's response shall contain the following information: (i) the pick-up time of any transportation that the TNC broker had arranged to be provided by the TNC partner within three hours of the automobile accident, (ii) the distance between the site of the automobile accident and the pick-up location, (iii) the name of the insurance carrier providing primary coverage, and (iv) the identity and last known address of the TNC partner.
+		</section>
+		<section prefix="G">No contract, receipt, rule, or regulation shall exempt any TNC broker from the liability that would exist had no contract been made or entered into, and no such contract, receipt, rule, or regulation for exemption from liability for injury or loss occasioned by the neglect or misconduct of such TNC broker shall be valid. The liability referred to in this subsection shall mean the liability imposed by law upon a TNC broker for any loss, damage, or injury to passengers.
+		</section>
+		<section prefix="H">Any insurance required by this section may be placed with an insurer that has been admitted in Virginia or with an insurer providing surplus lines insurance as defined in § 38.2-4805.2.
+		</section>
+		<section prefix="I">Any insurance policy required by this section shall satisfy the financial responsibility requirement for a motor vehicle under § 46.2-706 during the period beginning when such vehicle is en route to a passenger pursuant to arrangements made by a TNC broker and ending when the TNC partner logs on to the transportation network company's digital platform or when the transportation arranged by the TNC broker has been canceled.
+		</section>
+		<section prefix="J">The Department shall not issue a TNC broker's license to any TNC broker that has not certified to the Department that it will ensure that every TNC partner vehicle for which it arranges transportation will be covered by an insurance policy that meets the requirements of this section.
+		</section>
+		<section prefix="K">Each TNC broker shall keep on file with the Department proof of an insurance policy maintained by the TNC broker in accordance with subsection C. Such proof shall be in a form acceptable to the Commissioner. A record of the policy shall remain in the files of the Department six months after the license is revoked or suspended for any cause.
+		</section>
+		<section prefix="L">The Department may suspend a TNC broker license if the licensee fails to comply with the requirements of this section. Any person whose license has been suspended pursuant to this subsection may request a hearing as provided in subsection D of § 46.2-2011.26.
+		</section>
+		<section prefix="M">In a claims coverage investigation, a TNC broker and its insurer shall cooperate with insurers involved in the claims coverage investigation to facilitate the exchange of information, including the dates and times of any accident involving a TNC partner and information regarding transportation arranged by it to be provided by the TNC partner through the TNC broker within three hours of the automobile accident.
+		</section>
+		<section prefix="N">A TNC broker shall indemnify, defend, and hold harmless a transportation network company whose digital platform facilitated the prearranged ride from and against any and all claims, actions, damages, liabilities, and judgments, and losses, costs, fees, penalties, and expenses, including attorney fees, with respect to any claim arising out of or related to an act or omission that occurred in connection with a trip arranged by a TNC broker (i) while a TNC partner is en route to begin a prearranged ride or (ii) during a trip performed in violation of subsection A of § 46.2-2099.48 and facilitated through the TNC broker's digital platform.
+		</section>
+	</text>
+	<history>2017, c. 635.</history>
+</law>

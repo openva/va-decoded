@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="V" level="2">Motor Carriers</unit>
+		<unit label="chapter" identifier="21" level="3">Regulation of Property Carriers</unit>
+		<unit label="article" identifier="2" level="4">Insurance Requirements</unit>
+	</structure>
+	<section_number>46.2-2141</section_number>
+	<catch_line>Application of article</catch_line>
+	<text>
+		Unless otherwise stated, this article shall apply to all motor carriers as defined under this chapter.
+	</text>
+	<history>2001, c. 596.</history>
+</law>

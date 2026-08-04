@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="29.1" level="1">Wildlife, Inland Fisheries and Boating</unit>
+		<unit label="chapter" identifier="7" level="2">Boating Laws</unit>
+		<unit label="article" identifier="2.1" level="3">Virginia Uniform Certificate of Title for Watercraft Act</unit>
+	</structure>
+	<section_number>29.1-733.5</section_number>
+	<catch_line>Law governing watercraft covered by certificate of title</catch_line>
+	<text>
+		<section prefix="A">The law of the state or other jurisdiction under whose certificate of title a watercraft is covered governs all issues relating to the certificate from the time the watercraft becomes covered by the certificate until the watercraft becomes covered by another certificate or becomes a documented watercraft, even if no other relationship exists between the jurisdiction and the watercraft or its owner.
+		</section>
+		<section prefix="B">A watercraft becomes covered by a certificate of title when an application for the certificate and the applicable fee are delivered to the Department in accordance with this article or to the governmental agency that creates a certificate in another jurisdiction in accordance with the law of that jurisdiction.
+		</section>
+	</text>
+	<history>2013, c. 787.</history>
+</law>

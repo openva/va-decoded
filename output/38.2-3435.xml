@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="5" level="3">Group Market Reforms and Individual Coverage Offered to Employees of Small Employers</unit>
+	</structure>
+	<section_number>38.2-3435</section_number>
+	<catch_line>Exclusions</catch_line>
+	<text>
+		The provisions of this article shall not apply to:
+		<section prefix="1">Any health insurance issuer offering group health insurance coverage for any plan year if, on the first day of such plan year, such plan has less than two participants who are current employees; or
+		</section>
+		<section prefix="2">Any health insurance issuer offering group health insurance coverage for any of the excepted benefits.
+		</section>
+	</text>
+	<history>1997, cc. 807, 913; 1998, c. 24.</history>
+</law>

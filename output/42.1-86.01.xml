@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="42.1" level="1">Libraries</unit>
+		<unit label="chapter" identifier="7" level="2">Virginia Public Records Act</unit>
+	</structure>
+	<section_number>42.1-86.01</section_number>
+	<catch_line>Records may be retained in electronic medium</catch_line>
+	<text>
+		Notwithstanding any provision of law requiring a public record to be retained in a tangible medium, an agency may retain any public record in an electronic medium, provided that the record remains accessible for the duration of its retention schedule and meets all other requirements of this chapter. Nothing herein shall affect any law governing the retention of exhibits received into evidence in a criminal case in any court.
+	</text>
+	<history>2018, c. 252.</history>
+</law>

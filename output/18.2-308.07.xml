@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="7" level="2">Crimes Involving Health and Safety</unit>
+		<unit label="article" identifier="6.1" level="3">Concealed Weapons and Concealed Handgun Permits</unit>
+	</structure>
+	<section_number>18.2-308.07</section_number>
+	<catch_line>Entry of information into the Virginia Criminal Information Network</catch_line>
+	<text>
+		<section prefix="A">An order issuing a concealed handgun permit pursuant to § 18.2-308.04, or the copy of the permit application certified by the clerk as a de facto permit pursuant to § 18.2-308.05, shall be provided to the State Police and the law-enforcement agencies of the county or city by the clerk of the court. The State Police shall enter the permittee's name and description in the Virginia Criminal Information Network so that the permit's existence and current status will be made known to law-enforcement personnel accessing the Network for investigative purposes.
+		</section>
+		<section prefix="B">The Department of State Police shall enter the name and description of a person issued a nonresident permit pursuant to § 18.2-308.06 in the Virginia Criminal Information Network so that the permit's existence and current status are known to law-enforcement personnel accessing the Network for investigative purposes.
+		</section>
+		<section prefix="C">The State Police shall withhold from public disclosure permittee information submitted to the State Police for purposes of entry into the Virginia Criminal Information Network, except that such information shall not be withheld from any law-enforcement agency, officer, or authorized agent thereof acting in the performance of official law-enforcement duties when such information is related to an ongoing criminal investigation or prosecution, nor shall such information be withheld from an entity that has a valid contract with any local, state, or federal law-enforcement agency for the purpose of performing official duties of the law-enforcement agency when such information is related to an ongoing criminal investigation or prosecution. However, nothing in this subsection shall be construed to prohibit the release of (i) records by the State Police concerning permits issued to nonresidents of the Commonwealth pursuant to § 18.2-308.06 or (ii) statistical summaries, abstracts, or other records containing information in an aggregate form that does not identify any individual permittees.
+		</section>
+	</text>
+	<history>2013, c. 746; 2023, c. 279.</history>
+</law>

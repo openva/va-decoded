@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="6" level="2">Benefits</unit>
+		<unit label="article" identifier="2" level="3">Benefit Computation</unit>
+	</structure>
+	<section_number>60.2-608.1</section_number>
+	<catch_line>Deduction and withholding of federal income tax</catch_line>
+	<text>
+		<section prefix="A">For all payments made after December 31, 1996, federal income tax may be deducted and withheld from a benefit payment if the individual receiving such benefits voluntarily requests such deduction and withholding. The deduction shall be an amount equal to fifteen percent of such payment, or the amount determined by the Internal Revenue Service.
+		</section>
+		<section prefix="B">Any amount deducted and withheld under subsection A of this section shall remain in the Unemployment Compensation Fund until transferred to the Internal Revenue Service as a payment of income tax.
+		</section>
+		<section prefix="C">Any amount deducted and withheld under subsection A of this section shall be treated as if it were paid to the individual as unemployment benefits.
+		</section>
+		<section prefix="D">Amounts shall be deducted and withheld under this section only after amounts are deducted and withheld for any unemployment benefit overpayments, child support obligations, or any other amounts required to be deducted and withheld under this title.
+		</section>
+		<section prefix="E">The Commission shall follow all procedures specified by the United States Department of Labor and the Internal Revenue Service pertaining to the deducting and withholding of federal income tax from unemployment benefits.
+		</section>
+	</text>
+	<history>1996, c. 107.</history>
+</law>

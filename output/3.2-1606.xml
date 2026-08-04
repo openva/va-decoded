@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="II" level="2">Boards, Councils, Foundations, and Commissions</unit>
+		<unit label="part" identifier="B" level="3">Commodity Boards</unit>
+		<unit label="chapter" identifier="16" level="4">Egg Board</unit>
+	</structure>
+	<section_number>3.2-1606</section_number>
+	<catch_line>Levy of tax; regulations; exemptions</catch_line>
+	<text>
+		<section prefix="A">There is hereby levied on eggs purchased or sold for use or consumption in the Commonwealth an excise tax of five cents ($0.05) per 30-dozen case or, if the eggs are purchased or sold in other than shell form, 11 cents ($0.11) per 100 pounds of liquid eggs or liquid equivalent. Such excise tax shall be levied only once. The Tax Commissioner, with the advice and consent of the Egg Board, may adopt regulations as are necessary for the interpretation, administration, and enforcement of this tax.
+		</section>
+		<section prefix="B">The following categories of eggs shall be exempt from the tax levied pursuant to this chapter:
+			<section prefix="1">The eggs of any producer selling fewer than 500 cases (15,000 dozen), or the liquid equivalent thereof, per year.
+			</section>
+			<section prefix="2">Eggs when sold between registered handlers.
+				The Tax Commissioner shall provide a mechanism for returning taxes paid by exempt persons.
+			</section>
+		</section>
+	</text>
+	<history>1980, c. 316, § 3.1-796.11:3; 1982, c. 172; 1985, c. 173; 1993, c. 809; 2008, c. 860; 2016, c. 565.</history>
+</law>

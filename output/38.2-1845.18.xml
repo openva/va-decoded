@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="18" level="2">Insurance Agents</unit>
+		<unit label="article" identifier="4.1" level="3">Licensing of Public Adjusters</unit>
+	</structure>
+	<section_number>38.2-1845.18</section_number>
+	<catch_line>Information security program</catch_line>
+	<text>
+		<section prefix="A">Each public adjuster shall implement a comprehensive written information security program that includes administrative, technical, and physical safeguards for the protection of policyholder information. The administrative, technical, and physical safeguards included in the information security program shall be appropriate to the size and complexity of the public adjuster's business and the nature and scope of its activities.
+		</section>
+		<section prefix="B">The information security program shall be designed to:
+			<section prefix="1">Ensure the security and confidentiality of policyholder information;
+			</section>
+			<section prefix="2">Protect against any anticipated threats or hazards to the security or integrity of the information; and
+			</section>
+			<section prefix="3">Protect against unauthorized access to or use of the information that could result in substantial harm or inconvenience to any policyholder.
+			</section>
+		</section>
+	</text>
+	<history>2012, cc. 734, 735.</history>
+</law>

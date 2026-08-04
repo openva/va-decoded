@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="5" level="4">Creditor's Claims; Spendthrift and Discretionary Trusts</unit>
+	</structure>
+	<section_number>64.2-745</section_number>
+	<catch_line>Certain claims for reimbursement for public assistance</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any contrary provision in the trust instrument, if a statute or regulation of the United States or Commonwealth requires a beneficiary to reimburse the Commonwealth or any agency or instrumentality thereof, for public assistance, including medical assistance, furnished or to be furnished to the beneficiary, the Attorney General or an attorney acting on behalf of the state agency responsible for the program may file a petition in the circuit court having jurisdiction over the trustee requesting reimbursement. The petition may be filed prior to obtaining a judgment. The beneficiary, the guardian of his estate, his conservator, or his committee shall be made a party.
+		</section>
+		<section prefix="B">Following its review of the circumstances of the case, the court may:
+			<section prefix="1">Order the trustee to satisfy all or part of the liability out of all or part of the amounts to which the beneficiary is entitled, whether presently or in the future, to the extent the beneficiary has the right under the trust to compel the trustee to pay income or principal to or for the benefit of the beneficiary; or
+			</section>
+			<section prefix="2">Regardless of whether the beneficiary has the right to compel the trustee to pay income or principal to or for the benefit of the beneficiary, order the trustee to satisfy all or part of the liability out of all or part of any future payments that the trustee chooses to make to or for the benefit of the beneficiary in the exercise of discretion under the trust.
+			</section>
+		</section>
+		<section prefix="C">A duty in the trustee under the instrument to make disbursements in a manner designed to avoid rendering the beneficiary ineligible for public assistance to which he might otherwise be entitled, however, shall not be construed as a right possessed by the beneficiary to compel such payments.
+		</section>
+		<section prefix="D">The court shall not issue an order pursuant to this section if the beneficiary is a person who has a medically determined physical or mental disability that substantially impairs his ability to provide for his care or custody, and constitutes a substantial disability.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-545.03:1; 2012, c. 614; 2023, cc. 148, 149.</history>
+</law>

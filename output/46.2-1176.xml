@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="III" level="2">Operation</unit>
+		<unit label="chapter" identifier="10" level="3">Motor Vehicle and Equipment Safety</unit>
+		<unit label="article" identifier="22" level="4">Emissions Inspections</unit>
+	</structure>
+	<section_number>46.2-1176</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		The following words and phrases when used in this article shall have the following meanings except where the context clearly indicates a different meaning:
+		"Basic, test and repair program" means a motor vehicle emissions inspection system established by regulations of the Board which shall designate the use of an OBD-II (on-board diagnostic system) with wireless capability, and a two-speed idle analyzer as the only authorized testing equipment. Only those computer software programs and emissions testing procedures necessary to comply with the applicable provisions of Title I of the federal Clean Air Act shall be included. Such testing equipment shall be approvable for motor vehicle manufacturers' warranty repairs.
+		"Board" means the State Air Pollution Control Board.
+		"Certificate of emissions inspection" means a document, device, or symbol, prescribed by the Director and issued pursuant to this article, which indicates that (i) a motor vehicle has satisfactorily complied with the emissions standards and passed the emissions inspection provided for in this article; (ii) the requirement of compliance with such emissions standards has been waived; or (iii) the motor vehicle has failed such emissions inspection.
+		"Director" means the Director of the Department of Environmental Quality.
+		"Emissions inspection station" means any facility or portion of a facility that has obtained an emissions inspection station permit from the Director authorizing the facility to perform emissions inspections in accordance with this article.
+		"Enhanced emissions inspection program" means a motor vehicle emissions inspection system established by regulations of the Board that shall designate, as the only authorized testing equipment for emissions inspection stations, (i) the use of the ASM 50-15 (acceleration simulation mode or method) together with an OBD-II (on-board diagnostic system) with wireless capability, (ii) the use of the ASM 50-15 together with the use of a dynamometer, and (iii) two-speed tailpipe testing equipment. Possession and availability of a dynamometer shall be required for enhanced emissions inspection stations. Only those computer software programs and emissions testing procedures necessary to comply with applicable provisions of Title I of the federal Clean Air Act shall be included. Such testing equipment shall be approvable for motor vehicle manufacturers' warranty repairs. An enhanced emissions inspection program shall include remote sensing and an on-road clean screen program as provided in this article.
+		"Fleet emissions inspection station" means any inspection facility operated under a permit issued to a qualified fleet owner or lessee as determined by the Director.
+		"Motor vehicle" means any vehicle that:
+		<section prefix="1">Is designed for the transportation of persons or property; and
+		</section>
+		<section prefix="2">Is powered by an internal combustion engine.
+			"On-road clean screen program" means a program that allows a motor vehicle owner to voluntarily certify compliance with emissions standards by means of on-road remote sensing.
+			"On-road emissions inspector" means the entity or entities authorized by the Department of Environmental Quality to perform on-road testing, including on-road testing in accordance with the on-road clean screen program.
+			"On-road testing" means tests of motor vehicle emissions or emissions control devices by means of roadside pullovers or remote sensing devices.
+			"Program coordinator" means any person or corporation that has entered into a contract with the Director to provide services in accordance with this article.
+			"Qualified hybrid motor vehicle" means a motor vehicle that (i) meets or exceeds all applicable regulatory requirements, (ii) meets or exceeds the applicable federal motor vehicle emissions standards for gasoline-powered passenger cars, and (iii) can draw propulsion energy both from gasoline or diesel fuel and a rechargeable energy storage system.
+			"Referee station" means an inspection facility operated or used by the Department of Environmental Quality (i) to determine program effectiveness, (ii) to resolve emissions inspection conflicts between motor vehicle owners and emissions inspection stations, and (iii) to provide such other technical support and information, as appropriate, to emissions inspection stations and vehicle owners.
+			"Remote sensing" means the measurement of motor vehicle emissions through electronic or light-sensing equipment from a remote location such as the roadside. Remote sensing equipment may include devices to detect and record the vehicle's registration or other identification numbers.
+			"Test and repair" means motor vehicle emissions inspection facilities that perform official motor vehicle emissions inspections and may also perform vehicle repairs. No regulation of the Board pertaining to test and repair shall bar inspection facilities from also performing vehicle repairs. Emissions inspections and vehicle safety inspections may be performed in the same service bay, provided that the facility is both an emissions inspection station and an official safety inspection station pursuant to §§ 46.2-1163 and 46.2-1166. Emissions inspections may be performed in any service bay of the emissions inspection station or, if by wireless means, in any other area on the premises of the emissions inspection station.
+			"Validation program" or "program validation" means a program approved by the Director by which vehicles are randomly identified and provided a free emissions inspection for the purpose of monitoring the effectiveness of the emissions inspection program. A "validation program" may be conducted at an emissions inspection station, as defined by § 46.2-1176, in conjunction with a state safety inspection or using on-road testing.
+		</section>
+	</text>
+	<history>1980, c. 469, § 46.1-326.2; 1982, c. 92; 1984, c. 256; 1988, cc. 81, 806; 1989, c. 727; 1993, cc. 995, 998; 1993, Sp. Sess., c. 2; 1994, c. 838; 1995, cc. 836, 851; 2000, c. 311; 2002, c. 710; 2004, c. 915; 2012, cc. 216, 824.</history>
+</law>

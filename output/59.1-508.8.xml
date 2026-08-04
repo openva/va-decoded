@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="8" level="3">Remedies</unit>
+	</structure>
+	<section_number>59.1-508.8</section_number>
+	<catch_line>Licensor's damages</catch_line>
+	<text>
+		<section prefix="a">In this section, "substitute transaction" means a transaction by the licensor which would not have been possible except for the licensee's breach and which transaction is for the same information or informational rights with the same contractual use terms as the transaction to which the licensee's breach applies.
+		</section>
+		<section prefix="b">Except as otherwise provided in § 59.1-508.7, a breach of contract by a licensee entitles the licensor to recover the following compensation for losses resulting in the ordinary course from the breach, less expenses avoided as a result of the breach, to the extent not otherwise accounted for under this subsection:
+			<section prefix="1">damages measured in any combination of the following ways but not to exceed the contract fee and the market value of other consideration required under the contract for the performance that was the subject of the breach:
+			</section>
+		</section>
+		<section prefix="A">the amount of accrued and unpaid contract fees and the market value of other consideration earned but not received for:
+		</section>
+		<section prefix="i">any performance accepted by the licensee; and
+			<section prefix="ii">any performance to which § 59.1-506.4 applies;
+			</section>
+		</section>
+		<section prefix="B">for performances not governed by subparagraph (A), if the licensee repudiated or wrongfully refused the performance or the licensor rightfully canceled and the breach makes possible a substitute transaction, the amount of loss as determined by contract fees and the market value of other consideration required under the contract for the performance less:
+		</section>
+		<section prefix="i">the contract fees and market value of other consideration received from an actual and commercially reasonable substitute transaction entered into by the licensor in good faith and without unreasonable delay; or
+			<section prefix="ii">the market value of a commercially reasonable hypothetical substitute transaction;
+			</section>
+		</section>
+		<section prefix="C">for performances not governed by subparagraph (A), if the breach does not make possible a substitute transaction, lost profit, including reasonable overhead, that the licensor would have realized on acceptance and full payment for performance that was not delivered to the licensee because of the licensee's breach; or
+		</section>
+		<section prefix="D">damages calculated in any reasonable manner; and
+			<section prefix="2">consequential and incidental damages.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="1" level="3">General Provisions</unit>
+		<unit label="article" identifier="1" level="4">Department of Conservation and Recreation</unit>
+	</structure>
+	<section_number>10.1-100</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this subtitle, unless the context requires a different meaning:
+		"Department" means the Department of Conservation and Recreation.
+		"Director" means the Director of the Department of Conservation and Recreation.
+	</text>
+	<history>1988, c. 891; 1989, c. 656.</history>
+</law>

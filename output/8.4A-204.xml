@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4A" level="1">Commercial Code — Funds Transfers</unit>
+		<unit label="part" identifier="2" level="2">Issue and Acceptance of Payment Order</unit>
+	</structure>
+	<section_number>8.4A-204</section_number>
+	<catch_line>Refund of payment and duty of customer to report with respect to unauthorized payment order</catch_line>
+	<text>
+		<section prefix="a">If a receiving bank accepts a payment order issued in the name of its customer as sender which is (i) not authorized and not effective as the order of the customer under § 8.4A-202, or (ii) not enforceable, in whole or in part, against the customer under § 8.4A-203, the bank shall refund any payment of the payment order received from the customer to the extent the bank is not entitled to enforce payment and shall pay interest on the refundable amount calculated from the date the bank received payment to the date of the refund. However, the customer is not entitled to interest from the bank on the amount to be refunded if the customer fails to exercise ordinary care to determine that the order was not authorized by the customer and to notify the bank of the relevant facts within a reasonable time not exceeding 90 days after the date the customer received notification from the bank that the order was accepted or that the customer's account was debited with respect to the order. The bank is not entitled to any recovery from the customer on account of a failure by the customer to give notification as stated in this section.
+		</section>
+		<section prefix="b">Reasonable time under subsection (a) of this section may be fixed by agreement as stated in subsection (b) of § 8.1A-302, but the obligation of a receiving bank to refund payment as stated in subsection (a) of this section may not otherwise be varied by agreement.
+		</section>
+	</text>
+	<history>1990, c. 9; 2003, c. 353.</history>
+</law>

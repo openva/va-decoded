@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="35" level="2">Personal Information Privacy Act</unit>
+	</structure>
+	<section_number>59.1-443.2</section_number>
+	<catch_line>Restricted use of social security numbers</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise specifically provided by law, a person shall not:
+			<section prefix="1">Intentionally communicate another individual's social security number to the general public;
+			</section>
+			<section prefix="2">Print an individual's social security number on any card required for the individual to access or receive products or services provided by the person;
+			</section>
+			<section prefix="3">Require an individual to use his social security number to access an Internet website, unless a password, unique personal identification number or other authentication device is also required to access the site; or
+			</section>
+			<section prefix="4">Send or cause to be sent or delivered any letter, envelope, or package that displays a social security number on the face of the mailing envelope or package, or from which a social security number is visible, whether on the outside or inside of the mailing envelope or package.
+			</section>
+		</section>
+		<section prefix="B">This section does not prohibit the collection, use, or release of a social security number as permitted by the laws of the Commonwealth or the United States, or the use of a social security number for internal verification or administrative purposes unless such use is prohibited by a state or federal statute, rule, or regulation.
+		</section>
+		<section prefix="C">In the case of any (i) health care provider as defined in § 8.01-581.1, (ii) manager of a pharmacy benefit plan, (iii) insurer as defined in § 38.2-100, (iv) corporation providing a health services plan, (v) health maintenance organization providing a health care plan for health care services, or (vi) contractor of any such person, the prohibition contained in subdivision 2 of subsection A shall become effective on January 1, 2006.
+		</section>
+		<section prefix="D">This section shall not apply to public bodies as defined in § 2.2-3701.
+		</section>
+		<section prefix="E">No person shall embed an encrypted or unencrypted social security number in or on a card or document, including, but not limited to, using a bar code, chip, magnetic strip, or other technology, in place of removing the social security number as required by this section.
+		</section>
+	</text>
+	<history>2005, c. 640; 2008, cc. 562, 820.</history>
+</law>

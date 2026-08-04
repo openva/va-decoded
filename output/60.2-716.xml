@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="7" level="2">Short-Time Compensation Program</unit>
+	</structure>
+	<section_number>60.2-716</section_number>
+	<catch_line>Benefits</catch_line>
+	<text>
+		<section prefix="A">The short-time compensation weekly benefit amount shall be the product of the regular weekly unemployment compensation amount for a week of total unemployment multiplied by the percentage of reduction in the individual's usual weekly hours of work.
+		</section>
+		<section prefix="B">An individual may be eligible for short-time compensation or unemployment compensation, as appropriate, except that (i) no individual shall be eligible for combined benefits in any benefit year in an amount more than the maximum entitlement established for regular unemployment compensation and (ii) no individual shall be paid short-time compensation benefits for more than 26 weeks under a plan.
+		</section>
+		<section prefix="C">Provisions applicable to unemployment compensation claimants shall apply to short-time compensation claimants to the extent that they are not inconsistent with the Program's provisions. An individual who files an initial claim for short-time compensation benefits shall receive a monetary determination.
+		</section>
+		<section prefix="D">An employee who is not provided any work during a week by the short-time compensation employer, or any other employer, and who is otherwise eligible for unemployment compensation shall be eligible for the amount of regular unemployment compensation to which he would otherwise be eligible.
+		</section>
+		<section prefix="E">An employee who is not provided any work by the short-time compensation employer during a week, but who works for another employer and is otherwise eligible, may be paid unemployment compensation for that week subject to the disqualifying income and other provisions applicable to claims for regular compensation.
+		</section>
+		<section prefix="F">An employee who has received all of the short-time compensation or combined unemployment compensation and short-time compensation available in a benefit year shall be considered an exhaustee for purposes of extended benefits and, if otherwise eligible under those provisions, shall be eligible to receive extended benefits.
+		</section>
+	</text>
+	<history>2020, c. 1261.</history>
+</law>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="IV" level="2">Other Sources of State Revenue</unit>
+		<unit label="chapter" identifier="40" level="3">Virginia Lottery Law; Sports Betting</unit>
+		<unit label="article" identifier="2" level="4">Sports Betting</unit>
+	</structure>
+	<section_number>58.1-4041</section_number>
+	<catch_line>Persons prohibited from sports betting; penalty</catch_line>
+	<text>
+		<section prefix="A">The following persons shall be prohibited from sports betting:
+			<section prefix="1">The Director and any Board member, officer, or employee of the Department;
+			</section>
+			<section prefix="2">Any permit holder;
+			</section>
+			<section prefix="3">Any director, officer, owner, or employee of a permit holder and any relative living in the same household as such persons; and
+			</section>
+			<section prefix="4">Any officer or employee of any entity working directly on a contract with the Department related to sports betting.
+			</section>
+		</section>
+		<section prefix="B">The persons described in subdivision A 3 shall be prohibited from sports betting only with respect to the related permit holder, but shall not be prohibited from placing sports bets with other permit holders.
+		</section>
+		<section prefix="C">Any competitor, coach, trainer, employee, or owner of a team in a professional or college sports event, or any referee for a professional or college sports event, shall be prohibited from placing a bet on any event in a league in which such person participates. In determining which persons are prohibited from placing wagers under this subsection, a permit holder shall use publicly available information and any lists of persons that a sports governing body may provide to the Department.
+		</section>
+		<section prefix="D">Any person convicted of violating this section is guilty of a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>2020, cc. 1218, 1256.</history>
+</law>

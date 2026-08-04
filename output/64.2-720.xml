@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="4" level="4">Creation, Validity, Modification, and Termination of Trust</unit>
+	</structure>
+	<section_number>64.2-720</section_number>
+	<catch_line>Requirements for creation</catch_line>
+	<text>
+		<section prefix="A">A trust is created only if:
+			<section prefix="1">The settlor has capacity to create a trust; or when the trust is created by the settlor's agent under a power of attorney, which expressly authorizes the agent to create a trust on the settlor's behalf;
+			</section>
+			<section prefix="2">The settlor or his agent indicates an intention to create the trust;
+			</section>
+			<section prefix="3">The trust has a definite beneficiary or is:
+				a. A charitable trust;
+				b. A trust for the care of an animal, as provided in § 64.2-726; or
+				c. A trust for a noncharitable purpose, as provided in § 64.2-727;
+			</section>
+			<section prefix="4">The trustee has duties to perform; and
+			</section>
+			<section prefix="5">The same person is not the sole trustee and sole beneficiary.
+			</section>
+		</section>
+		<section prefix="B">A beneficiary is definite if the beneficiary can be ascertained now or in the future, subject to any applicable rule against perpetuities.
+		</section>
+		<section prefix="C">A power in a trustee to select a beneficiary from an indefinite class is valid. If the power is not exercised within a reasonable time, the power fails and the property subject to the power passes to the persons who would have taken the property had the power not been conferred.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-544.02; 2010, cc. 455, 632; 2012, c. 614.</history>
+</law>

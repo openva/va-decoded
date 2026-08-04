@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="III" level="2">Local Taxes</unit>
+		<unit label="chapter" identifier="32" level="3">Real Property Tax</unit>
+		<unit label="article" identifier="8" level="4">Reassessment Record/Land Book, Communication of Documents to Commissioner of Revenue</unit>
+	</structure>
+	<section_number>58.1-3303</section_number>
+	<catch_line>Clerks to forward copies of certain receipts and make certain reports regarding deeds and property transfers to local commissioners and Department</catch_line>
+	<text>
+		<section prefix="A">The clerk of every circuit court shall, before the fifteenth of each month, forward to the commissioner of revenue for his county or city and to the Department a copy of the recordation receipt for all deeds for the partition and conveyance of land, other than deeds of trust and mortgages, made to secure the payment of debts, which have been admitted to record in the clerk's office of such court within the month next preceding. In lieu of a printed paper copy of the recordation receipt, the Department shall accept the monthly electronic transfer of the recordation receipt copy on magnetic tape or other media acceptable to the Department. The receipt shall state the date of the deed, when admitted to record, the name of the grantor and grantee, the address of the grantee, given pursuant to § 17.1-223, and the description, quantity and specified value of land conveyed. Such clerk shall, at the same time, forward to the commissioner and the Department a list of all lands acquired in fee simple by the Commonwealth, through condemnation proceedings, and shall give the names of the persons from whom acquired, the dates of confirmation of the commissioners' reports in such proceedings, the quantity of land acquired in each case, the value thereof as specified in the reports and a description of each such tract. In lieu of a printed paper copy of such list, the clerk may provide an electronic list or secure remote electronic access to such list to the commissioner for his county or city and to the Department.
+			The commissioner shall, upon receipt of any such receipt, promptly and carefully check the same against the records in the office of the clerk who furnished the same and, if he finds any errors in the receipt or list, he shall make proper correction thereof.
+		</section>
+		<section prefix="B">Upon receipt and review of the recordation receipt in accordance with subsection A, the commissioner shall ensure that the land book is updated to reflect the grantee and property address or any such other address as may be specified in writing by the grantee for the delivery of future tax bills.
+		</section>
+	</text>
+	<history>Code 1950, § 58-797; 1956, c. 34; 1962, c. 236; 1964, cc. 488, 644; 1972, c. 648; 1974, cc. 338, 352; 1975, c. 223; 1979, c. 527; 1984, c. 675; 1990, c. 46; 2006, c. 355; 2017, c. 42; 2023, c. 411.</history>
+</law>

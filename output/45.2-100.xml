@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="I" level="2">Administration</unit>
+		<unit label="chapter" identifier="1" level="3">Administration</unit>
+		<unit label="article" identifier="1" level="4">Department of Energy</unit>
+	</structure>
+	<section_number>45.2-100</section_number>
+	<catch_line> Definitions</catch_line>
+	<text>
+		As used in this title, unless the context requires a different meaning:
+		"Chief" means the Chief of the Division of Mines of the Department of Energy.
+		"Department"  means the Department of Energy.
+		"Director"  means the Director of the Department of Energy.
+		"State Geologist"  means the Commissioner of Mineral Resources and State Geologist appointed pursuant to § 45.2-107.
+	</text>
+	<history>1984, c. 590, § 45.1-1.2; 1994, c. 28, § 45.1-161.1; 2021, Sp. Sess. I, cc. 387, 532.</history>
+</law>

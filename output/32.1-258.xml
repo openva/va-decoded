@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="7" level="2">Vital Records</unit>
+		<unit label="article" identifier="2" level="3">Birth Certificates</unit>
+	</structure>
+	<section_number>32.1-258</section_number>
+	<catch_line>Report of foundling; constitutes birth certificate</catch_line>
+	<text>
+		<section prefix="A">Whoever assumes the custody of a living infant of unknown parentage shall report on a form and in the manner prescribed by the Board within seven days to the registrar of the county or city in which such child was found, the following information:
+			<section prefix="1">The date and place of finding;
+			</section>
+			<section prefix="2">Sex, race and approximate birth date of such child;
+			</section>
+			<section prefix="3">Name and address of the persons or institution with whom such child has been placed for care;
+			</section>
+			<section prefix="4">Name given to such child by the custodian of the child; and
+			</section>
+			<section prefix="5">Such other data as may be required by the Board.
+			</section>
+		</section>
+		<section prefix="B">The place where such child was found shall be entered as the place of birth.
+		</section>
+		<section prefix="C">A report registered under this section shall constitute the certificate of birth for such infant.
+		</section>
+		<section prefix="D">If such child is identified and a certificate of birth is found or obtained, any report registered under this section shall be sealed and filed and may be opened only by order of a circuit court of the Commonwealth or in accordance with subdivision A 7 of § 32.1-252.
+		</section>
+	</text>
+	<history>Code 1950, § 32-353.16; 1960, c. 451; 1979, c. 711; 1983, c. 240.</history>
+</law>

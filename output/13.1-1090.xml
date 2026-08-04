@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1090</section_number>
+	<catch_line>Powers and duration of protected series</catch_line>
+	<text>
+		<section prefix="A">A protected series of a series limited liability company has the capacity to sue and be sued in its own name.
+		</section>
+		<section prefix="B">Except as otherwise provided in subsections C and D, a protected series of a series limited liability company has the same powers and purpose as the series limited liability company.
+		</section>
+		<section prefix="C">A protected series of a series limited liability company ceases to exist not later than when the series limited liability company ceases to exist.
+		</section>
+		<section prefix="D">A protected series of a series limited liability company shall not:
+			<section prefix="1">Be a member of the series limited liability company;
+			</section>
+			<section prefix="2">Establish a protected series; or
+			</section>
+			<section prefix="3">Except as permitted by a law of the Commonwealth other than this article, have any purpose or power that the law of the Commonwealth other than this article prohibits a limited liability company from doing or having.
+			</section>
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="13" level="4">Tax Credits for Corporations</unit>
+	</structure>
+	<section_number>58.1-439.10</section_number>
+	<catch_line>Tax credit for purchase of waste motor oil burning equipment</catch_line>
+	<text>
+		<section prefix="A">For taxable years beginning on and after January 1, 1999, a taxpayer who operates a business facility within the Commonwealth which accepts waste motor oil from the public shall be allowed a credit against the taxes imposed pursuant to Articles 2 (§ 58.1-320 et seq.) and 10 (§ 58.1-400 et seq.) of this chapter in an amount equal to fifty percent of the purchase price paid during the taxable year for equipment used exclusively for burning waste motor oil at the business facility. The total credit allowed to any taxpayer under this section in any taxable year shall not exceed $5,000.
+		</section>
+		<section prefix="B">The Department of Environmental Quality shall certify that such equipment is used to burn waste motor oil at a business facility within the Commonwealth which accepts waste motor oil from the public before the taxpayer shall be entitled to the tax credit under this section. The taxpayer shall also submit with his income tax return such receipts, invoices, and other documentation as may be necessary to confirm the taxpayer's statement of the purchase price paid for the waste motor oil burning equipment. Any tax credit under this section shall be used only for the taxable year in which the purchase price of the waste motor oil burning equipment was paid.
+		</section>
+		<section prefix="C">For purposes of this section, the amount of any credit attributable to the purchase of equipment used exclusively for burning waste motor oil by a partnership or electing small business corporation (S corporation) shall be allocated to the individual partners or shareholders in proportion to their ownership or interest in the partnership or S corporation.
+		</section>
+	</text>
+	<history>1998, c. 896.</history>
+</law>

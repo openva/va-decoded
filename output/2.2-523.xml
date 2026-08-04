@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="B" level="3">Department of Law</unit>
+		<unit label="chapter" identifier="5" level="4">Department of Law</unit>
+		<unit label="article" identifier="4" level="5">Office of Civil Rights</unit>
+	</structure>
+	<section_number>2.2-523</section_number>
+	<catch_line>Confidentiality of information; penalty</catch_line>
+	<text>
+		<section prefix="A">The Office shall not make public, prior to a public hearing pursuant to § 2.2-520, investigative notes and other correspondence and information furnished to the Office in confidence with respect to an investigation or conciliation process involving an alleged unlawful discriminatory practice.
+		</section>
+		<section prefix="B">Nothing in this section, however, shall prohibit the distribution of information taken from inactive reports in a form that does not reveal the identity of the parties involved or other persons supplying information.
+		</section>
+	</text>
+	<history>1987, c. 581, § 2.1-723; 2001, c. 844, § 2.2-2637; 2012, cc. 803, 835; 2021, Sp. Sess. I, c. 196.</history>
+</law>

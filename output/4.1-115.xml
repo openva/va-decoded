@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="4.1" level="1">Alcoholic Beverage and Cannabis Control</unit>
+		<unit label="subtitle" identifier="I" level="2">Alcoholic Beverage Control Act</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+	</structure>
+	<section_number>4.1-115</section_number>
+	<catch_line>Reports and accounting systems of Board; auditing books and records</catch_line>
+	<text>
+		<section prefix="A">The Board shall make reports to the Governor as he may require covering the administration and enforcement of this subtitle. Additionally, the Board shall submit an annual report to the Governor and General Assembly on or before December 15 each year, which shall contain:
+			<section prefix="1">A statement of the nature and amount of the business transacted by each government store during the year;
+			</section>
+			<section prefix="2">A statement of the assets and liabilities of the Board, including a statement of income and expenses and such other financial statements and matters as may be necessary to show the result of the operations of the Board for the year;
+			</section>
+			<section prefix="3">A statement showing the taxes collected under this subtitle during the year;
+			</section>
+			<section prefix="4">General information and remarks about the working of the alcoholic beverage control laws within the Commonwealth; and
+			</section>
+			<section prefix="5">Any other information requested by the Governor.
+			</section>
+		</section>
+		<section prefix="B">The Board shall maintain an accounting system in compliance with generally accepted accounting principles and approved in accordance with § 2.2-803.
+		</section>
+		<section prefix="C">A regular postaudit shall be conducted of all accounts and transactions of the Board. An annual audit of a fiscal and compliance nature of the accounts and transactions of the Board shall be conducted by the Auditor of Public Accounts on or before October 1. The cost of the annual audit and postaudit examinations shall be borne by the Board. The Board may order such other audits as it deems necessary.
+		</section>
+	</text>
+	<history>Code 1950, § 4-13; 1984, c. 734; 1993, c. 866; 2004, c. 650; 2005, c. 633.</history>
+</law>

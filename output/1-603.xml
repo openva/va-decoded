@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="1" level="1">General Provisions</unit>
+		<unit label="chapter" identifier="6" level="2">Virginia Coordinate Systems</unit>
+	</structure>
+	<section_number>1-603</section_number>
+	<catch_line>(For contingent effective date, see Acts 2025, cc. 91 and 109, cl. 2) Plane coordinates used in systems</catch_line>
+	<text>
+		The plane coordinates of a point on the earth's surface, to be used in expressing the position or location of such point in the appropriate zone of these systems, shall be expressed in international feet and decimals of a foot. One of these distances, to be known as the "x-coordinate," shall give the position in an east-and-west direction; the other, to be known as the "y-coordinate," shall give the position in a north-and-south direction. These coordinates shall be made to depend upon and conform to the coordinate values for the monumented points of the North American Horizontal Geodetic Control Network as published by the National Ocean Service/National Geodetic Survey, or its successors, and whose plane coordinates have been computed on the systems defined in this chapter. Any such station may be used for establishing a survey connection to either Virginia coordinate system.
+		When converting coordinates in the Virginia Coordinate System of 1983 or the Virginia Coordinate System of 2022 from meters and decimals of a meter to feet and decimals of a foot, the International foot conversion factor (one foot equals 0.3048 meters) shall be used. The plat or plan shall contain a statement of the conversion factor used and the coordinate values of a minimum of two project points in feet.
+	</text>
+	<history>1946, p. 167; Michie Suppl. 1946, § 2849(3); Code 1950, § 55-290; 1984, c. 726; 1992, c. 1; 2019, c. 712; 2025, cc. 91, 109.</history>
+</law>

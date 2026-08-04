@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="19" level="2">Regulation of Rates Generally</unit>
+	</structure>
+	<section_number>38.2-1926</section_number>
+	<catch_line>Action of Commission upon request for hearing on order or decision made without a hearing</catch_line>
+	<text>
+		<section prefix="A">Any person aggrieved by an order or a decision of the Commission made under this chapter without a hearing may, within thirty days after notice of the order or decision, make a written request to the Commission for a hearing on that order or decision. Within a reasonable time after the request the Commission, after having given not less than ten days' written notice of the time and place of hearing, shall hear the person aggrieved by the order or decision. Within a reasonable time after the hearing the Commission shall affirm, reverse or modify its previous action, specifying its reasons for the affirmation, reversal or modification.
+		</section>
+		<section prefix="B">Pending the hearing and decision on its previous action, the Commission may suspend or postpone the effective date of the order or decision to which the hearing relates.
+		</section>
+	</text>
+	<history>1973, c. 504, § 38.1-279.54; 1986, c. 562.</history>
+</law>

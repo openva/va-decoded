@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="5" level="2">Search Warrants</unit>
+	</structure>
+	<section_number>19.2-60.1</section_number>
+	<catch_line>Use of unmanned aircraft systems by public bodies; search warrant required</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Unmanned aircraft" means an aircraft that is operated without the possibility of human intervention from within or on the aircraft.
+			"Unmanned aircraft system" means an unmanned aircraft and associated elements, including communication links, sensing devices, and the components that control the unmanned aircraft.
+		</section>
+		<section prefix="B">No state or local government department, agency, or instrumentality having jurisdiction over criminal law enforcement or regulatory violations, including but not limited to the Department of State Police, and no department of law enforcement as defined in § 15.2-836 of any county, city, or town shall utilize an unmanned aircraft system except during the execution of a search warrant issued pursuant to this chapter or an administrative or inspection warrant issued pursuant to law.
+		</section>
+		<section prefix="C">Notwithstanding the prohibition in this section, an unmanned aircraft system may be deployed without a warrant (i) when an Amber Alert is activated pursuant to § 52-34.3; (ii) when a Senior Alert is activated pursuant to § 52-34.6; (iii) when a Blue Alert is activated pursuant to § 52-34.9; (iv) where use of an unmanned aircraft system is determined to be necessary to alleviate an immediate danger to any person; (v) by a law-enforcement officer, an employee of the Department of State Police, or an employee of a local law-enforcement agency following an accident where a report is required pursuant to § 46.2-373, to survey the scene of such accident for the purpose of crash reconstruction and record the scene by photographic or video images; (vi) by the Department of Transportation when assisting a law-enforcement officer to prepare a report pursuant to § 46.2-373; (vii) for training exercises related to such uses; (viii) if a person with legal authority consents to the warrantless search; (ix) by a law-enforcement officer or an employee of a law-enforcement agency to (a) aerially survey a primary residence of the subject of the arrest warrant to formulate a plan to execute an existing arrest warrant or capias for a felony offense or (b) locate a person sought for arrest when such person has fled from a law-enforcement officer and a law-enforcement officer remains in hot pursuit of such person; or (x) by a law-enforcement officer investigating unmanned aircraft systems surrounding or over property of the federal or state government, public critical infrastructure as defined in § 44-146.28:2, or nongovernment-operated prison or jail facilities.
+		</section>
+		<section prefix="D">The warrant requirements of this section shall not apply when such systems are utilized to support the Commonwealth or any locality for purposes other than law enforcement, including damage assessment, traffic assessment, flood stage assessment, and wildfire assessment. Nothing herein shall prohibit use of unmanned aircraft systems for private, commercial, or recreational use or solely for research and development purposes by institutions of higher education and other research organizations or institutions.
+		</section>
+		<section prefix="E">Evidence obtained through the utilization of an unmanned aircraft system in violation of this section is not admissible in any criminal or civil proceeding.
+		</section>
+		<section prefix="F">In no case may a weaponized unmanned aircraft system be deployed in the Commonwealth or its use facilitated in the Commonwealth by a state or local government department, agency, or instrumentality or department of law enforcement in the Commonwealth except in operations at the Space Port and Naval/Aegis facilities at Wallops Island. No weaponized unmanned aircraft systems shall be construed to include such systems designed and used for the purpose of disabling another unmanned aircraft system.
+		</section>
+		<section prefix="G">Nothing herein shall apply to the Armed Forces of the United States or the Virginia National Guard while utilizing unmanned aircraft systems during training required to maintain readiness for its federal mission or when facilitating training for other U.S. Department of Defense units.
+		</section>
+	</text>
+	<history>2015, cc. 764, 774; 2018, cc. 419, 546, 654; 2019, c. 781; 2025, c. 400.</history>
+</law>

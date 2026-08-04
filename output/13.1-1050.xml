@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="9" level="3">Dissolution</unit>
+	</structure>
+	<section_number>13.1-1050</section_number>
+	<catch_line>Articles of cancellation</catch_line>
+	<text>
+		<section prefix="A">When the affairs of a limited liability company have been wound up pursuant to § 13.1-1048, it shall file articles of cancellation with the Commission. The articles shall set forth:
+			<section prefix="1">The name of the limited liability company;
+			</section>
+			<section prefix="2">The identification number issued by the Commission to the limited liability company;
+			</section>
+			<section prefix="3">The effective date of its certificate of organization;
+			</section>
+			<section prefix="4">A statement that the limited liability company has completed the winding up of its affairs; and
+			</section>
+			<section prefix="5">Any other information the members determine to include therein, including the reason for filing the articles of cancellation.
+			</section>
+		</section>
+		<section prefix="B">If the Commission finds that the articles of cancellation comply with the requirements of law and that all required fees have been paid, it shall by order issue a certificate of cancellation, canceling the limited liability company's existence. Upon the effective date of such certificate, the existence of the limited liability company shall cease, except for the purpose of suits, other proceedings, and appropriate actions by members as provided in this chapter.
+		</section>
+	</text>
+	<history>1991, c. 168; 2006, c. 748; 2008, c. 108; 2013, c. 17.</history>
+</law>

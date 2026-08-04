@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="4" level="2">Relationship Between Payor Bank and Its Customer</unit>
+	</structure>
+	<section_number>8.4-403</section_number>
+	<catch_line>Customer's right to stop payment; burden of proof of loss</catch_line>
+	<text>
+		<section prefix="a">A customer or any person authorized to draw on the account if there is more than one person may stop payment of any item drawn on the customer's account or close the account by an order to the bank describing the item or account with reasonable certainty received at a time and in a manner that affords the bank a reasonable opportunity to act on it before any action by the bank with respect to the item described in § 8.4-303. If the signature of more than one person is required to draw on an account, any of these persons may stop payment or close the account.
+		</section>
+		<section prefix="b">A stop-payment order is effective for six months, but it lapses after fourteen calendar days if the original order was oral and was not confirmed in writing within that period. A stop-payment order may be renewed for additional six-month periods by a writing given to the bank within a period during which the stop-payment order is effective.
+		</section>
+		<section prefix="c">The burden of establishing the fact and amount of loss resulting from the payment of an item contrary to a stop-payment order or order to close an account is on the customer. The loss from payment of an item contrary to a stop-payment order may include damages for dishonor of subsequent items under § 8.4-402.
+		</section>
+	</text>
+	<history>Code 1950, § 6-73; 1964, c. 219; 1992, c. 693.</history>
+</law>

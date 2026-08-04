@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="2" level="3">Money and Currency</unit>
+		<unit label="article" identifier="2" level="4">Currency Issuance and Circulation</unit>
+	</structure>
+	<section_number>6.2-204</section_number>
+	<catch_line>Capital stock of certain entities vested in Commonwealth; proceedings to recover stock; liability</catch_line>
+	<text>
+		<section prefix="A">The capital stock of every entity formed to engage in any activity prohibited by subsection A of § 6.2-202, whether paid up or merely subscribed, shall belong to the Commonwealth. The Attorney General, whenever informed of the existence of any such entity, shall institute a suit in the Circuit Court of the City of Richmond, for the purpose of recovering such capital stock. In such suit, all or any of the members of such entity, and any of its officers, agents, or managers, may be made defendants, and compelled to exhibit all their books and papers, and an account of everything necessary to enable the court to enter a proper order.
+		</section>
+		<section prefix="B">No disclosure made by a defendant in such suit, and no book or paper exhibited by him in answer to the bill, or under the order of the court, shall be used as evidence against him in any case at law.
+		</section>
+		<section prefix="C">Every member of any entity formed to engage in any activity prohibited by subsection A of § 6.2-202 who is made defendant in any such suit, shall be held liable to the Commonwealth for his proportion of the capital stock in such entity held by him, or for his use or benefit, at the institution of such suit, or at the time of the order. Such order against any defendant shall be a bar to a proceeding against him for any act done in violation of subsection A of § 6.2-202.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.52; 2010, c. 794.</history>
+</law>

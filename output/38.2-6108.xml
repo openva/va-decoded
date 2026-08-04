@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="61" level="2">Dental Plan Organizations</unit>
+	</structure>
+	<section_number>38.2-6108</section_number>
+	<catch_line>Plan dentist contracts; preferred providers; assignment of benefits</catch_line>
+	<text>
+		<section prefix="A">Each contract with a plan dentist shall contain the following provisions:
+			<section prefix="1">A hold harmless clause that satisfies the requirements of subdivision C 9 of § 38.2-5805.
+			</section>
+			<section prefix="2">A provision specifying when the contract becomes effective.
+			</section>
+			<section prefix="3">A provision specifying the date the contract terminates.
+			</section>
+			<section prefix="4">A provision specifying the renewal terms.
+			</section>
+			<section prefix="5">Provisions incorporating the rights, remedies and obligations applicable to providers and dental plan organizations set forth in §§ 38.2-3407.1, 38.2-3407.10, 38.2-3407.15, and 38.2-5805.
+			</section>
+		</section>
+		<section prefix="B">A dental plan organization that offers or administers a plan under which preferred provider policies or contracts are issued shall comply with the requirements of § 38.2-3407 in contracting with dentists for services in connection with the preferred provider policies or contracts.
+		</section>
+		<section prefix="C">All dental plan organizations shall comply with the provisions of § 38.2-3407.13 relating to assignments of benefits by subscribers and enrollees.
+		</section>
+	</text>
+	<history>2004, c. 668.</history>
+</law>

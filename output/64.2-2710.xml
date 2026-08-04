@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="27" level="3">Uniform Powers of Appointment Act</unit>
+		<unit label="article" identifier="2" level="4">Creation, Revocation, and Amendment of Power of Appointment</unit>
+	</structure>
+	<section_number>64.2-2710</section_number>
+	<catch_line>Exception to presumption of unlimited authority</catch_line>
+	<text>
+		Unless the terms of the instrument creating a power of appointment manifest a contrary intent, the power is nongeneral if:
+		<section prefix="1">The power is exercisable only at the powerholder's death; and
+		</section>
+		<section prefix="2">The permissible appointees of the power do not include the powerholder's estate, the powerholder's creditors, or the creditors of the powerholder's estate.
+		</section>
+	</text>
+	<history>2016, c. 266.</history>
+</law>

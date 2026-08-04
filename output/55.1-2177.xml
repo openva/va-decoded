@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="IV" level="2">Common Interest Communities</unit>
+		<unit label="chapter" identifier="21" level="3">Virginia Real Estate Cooperative Act</unit>
+		<unit label="article" identifier="5" level="4">Administration and Registration of Cooperatives</unit>
+	</structure>
+	<section_number>55.1-2177</section_number>
+	<catch_line>Receipt of application; order or registration</catch_line>
+	<text>
+		<section prefix="A">The Common Interest Community Board shall acknowledge receipt of an application for registration within five business days after receiving it. Within 60 days after receiving the application, the Common Interest Community Board shall determine whether:
+			<section prefix="1">The application and the proposed public offering statement satisfy the requirements of this chapter and the Common Interest Community Board's regulations;
+			</section>
+			<section prefix="2">The declaration and bylaws comply with this chapter; and
+			</section>
+			<section prefix="3">It is likely that the improvements the declarant has undertaken to make can be completed as represented.
+			</section>
+		</section>
+		<section prefix="B">If the Common Interest Community Board makes a favorable determination, it shall issue promptly an order registering the cooperative. Otherwise, unless the declarant has consented in writing to a delay, the Common Interest Community Board shall issue promptly an order rejecting registration.
+		</section>
+	</text>
+	<history>1982, c. 277, § 55-499; 2019, c. 712.</history>
+</law>

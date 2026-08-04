@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="20" level="4">Estimated Taxes of Corporations</unit>
+	</structure>
+	<section_number>58.1-500</section_number>
+	<catch_line>Declarations of estimated income tax required; contents, etc</catch_line>
+	<text>
+		<section prefix="A">Every corporation subject to taxation under this chapter shall make a declaration of estimated tax for the taxable year if its income tax imposed by this chapter, for such taxable year, reduced by any credits allowable against the tax, can reasonably be expected to exceed $1,000.
+		</section>
+		<section prefix="B">For purposes of this article, "estimated tax" means the amount which the corporation estimates as the amount of the income tax imposed by this chapter for the taxable year less the amount which the corporation estimates as the sum of any credits allowable against the tax.
+		</section>
+		<section prefix="C">The declaration shall contain such pertinent information as the Commissioner may by forms or regulations prescribe.
+		</section>
+		<section prefix="D">A corporation may make amendments of a declaration filed during the taxable year under regulations prescribed by the Tax Commissioner, not exceeding the number specified in § 58.1-501.
+		</section>
+		<section prefix="E">A corporation with a taxable year of less than twelve months shall make a declaration in accordance with regulations prescribed by the Tax Commissioner.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.36; 1968, c. 14; 1970, c. 588; 1984, c. 675.</history>
+</law>

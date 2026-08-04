@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="1" level="3">Creation and Limitation of Estates</unit>
+		<unit label="article" identifier="1" level="4">Creation and Transfer of Estates</unit>
+	</structure>
+	<section_number>55.1-101</section_number>
+	<catch_line>When deed or will necessary to convey estate; no parol partition or gift valid</catch_line>
+	<text>
+		<section prefix="A">No estate of inheritance or freehold in lands shall be conveyed unless by deed or will, and no voluntary partition of lands by coparceners, having such an estate in such land, shall be made except by deed. In addition, no right to a conveyance of any such estate or term in land shall accrue to the donee of the land or those claiming under him, under a gift or promise of gift of such estate or term in land not in writing, even if such gift or promise is followed by possession and improvement of the land by the donee or those claiming under him.
+		</section>
+		<section prefix="B">Any lease agreement or other written document conveying a non-freehold estate in land, which was entered into before, and which remains in effect as of, February 13, 2019, or which is entered into after February 13, 2019, shall not be invalid, unenforceable, or subject to repudiation by the parties to such agreement on account of, or otherwise affected by, the fact that the conveyance of the estate was not in the form of a deed.
+		</section>
+	</text>
+	<history>Code 1919, § 5141; Code 1950, § 55-2; 2019, cc. 11, 49, 712.</history>
+</law>

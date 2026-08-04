@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-857</section_number>
+	<catch_line>Terms of directors generally</catch_line>
+	<text>
+		<section prefix="A">In the absence of a provision in the articles of incorporation fixing a term of office, the term of office for a director shall be one year.
+		</section>
+		<section prefix="B">The terms of the initial directors of a corporation expire at the first members' meeting at which directors are elected, or if there are no members or the corporation's members do not have voting rights, at the end of such other period as may be specified in the articles of incorporation.
+		</section>
+		<section prefix="C">The terms of all other directors expire at the next annual meeting of members following the directors' election unless their terms are staggered under § 13.1-858 or, if there are no members or the corporation's members do not have voting rights, as provided in the articles of incorporation.
+		</section>
+		<section prefix="D">A decrease in the number of directors does not shorten an incumbent director's term.
+		</section>
+		<section prefix="E">The term of a director elected by the board of directors to fill a vacancy expires at the next members' meeting at which directors are elected or, if there are no members or the corporation's members do not have voting rights, as provided in the articles of incorporation.
+		</section>
+		<section prefix="F">Except in the case of ex-officio directors, despite the expiration of a director's term, a director continues to serve until his successor is elected and qualifies or until there is a decrease in the number of directors, if any.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-221; 1956, c. 428; 1985, c. 522; 1986, c. 529; 2004, c. 303; 2007, c. 925.</history>
+</law>

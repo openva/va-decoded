@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="9.1" level="3">Registered Limited Liability Partnerships</unit>
+	</structure>
+	<section_number>50-73.133</section_number>
+	<catch_line>Name of registered limited liability partnership</catch_line>
+	<text>
+		<section prefix="A">The name of a partnership that is also a registered limited liability partnership shall contain the words "Registered Limited Liability Partnership" or "Limited Liability Partnership" or the abbreviation "R.L.L.P." or "L.L.P." or the designation "RLLP" or "LLP."
+		</section>
+		<section prefix="B">The name of a limited partnership that is also a registered limited liability partnership shall comply with the requirements of subdivision A 2 of § 50-73.78.
+		</section>
+	</text>
+	<history>1996, c. 292; 1998, c. 163; 2007, c. 631.</history>
+</law>

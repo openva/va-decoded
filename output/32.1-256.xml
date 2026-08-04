@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="7" level="2">Vital Records</unit>
+		<unit label="article" identifier="1" level="3">Definitions and Administrative Provisions</unit>
+	</structure>
+	<section_number>32.1-256</section_number>
+	<catch_line>Fees of special registrars</catch_line>
+	<text>
+		<section prefix="A">Each special registrar not employed by any federal, state or local agency shall be paid the sum of one dollar for each certificate of birth, death or fetal death registered by him and transmitted to the county or city registrar of vital records.
+		</section>
+		<section prefix="B">If no birth, death or fetal death is registered by him during any calendar month, such special registrar shall report that fact to the county or city registrar of vital records and shall be paid the sum of one dollar for each such month.
+		</section>
+		<section prefix="C">The State Registrar shall certify to the treasurer of the county or city quarterly the number of birth, death and fetal death certificates registered by such special registrar, with the name of such special registrar and the amount due. Upon such certification, the fees due such special registrar shall be paid by the treasurer of the appropriate county or city.
+		</section>
+	</text>
+	<history>Code 1950, §§ 32-353.12, 32-353.13; 1952, c. 705; 1952, Ex. Sess., c. 22; 1960, c. 451; 1979, c. 711; 1983, c. 240.</history>
+</law>

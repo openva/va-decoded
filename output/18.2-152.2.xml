@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="5" level="2">Crimes Against Property</unit>
+		<unit label="article" identifier="7.1" level="3">Computer Crimes</unit>
+	</structure>
+	<section_number>18.2-152.2</section_number>
+	<catch_line>Definitions; computer crimes</catch_line>
+	<text>
+		For purposes of this article:
+		"Commercial electronic mail" means electronic mail, the primary purpose of which is the advertisement or promotion of a commercial product or service.
+		"Computer" means a device that accepts information in digital or similar form and manipulates it for a result based on a sequence of instructions. Such term does not include simple calculators, automated typewriters, facsimile machines, or any other specialized computing devices that are preprogrammed to perform a narrow range of functions with minimal end-user or operator intervention and are dedicated to a specific task.
+		"Computer data" means any representation of information, knowledge, facts, concepts, or instructions which is being prepared or has been prepared and is intended to be processed, is being processed, or has been processed in a computer or computer network. "Computer data" may be in any form, whether readable only by a computer or only by a human or by either, including, but not limited to, computer printouts, magnetic storage media, punched cards, or stored internally in the memory of the computer.
+		"Computer network" means two or more computers connected by a network.
+		"Computer operation" means arithmetic, logical, monitoring, storage or retrieval functions and any combination thereof, and includes, but is not limited to, communication with, storage of data to, or retrieval of data from any device or human hand manipulation of electronic or magnetic impulses. A "computer operation" for a particular computer may also be any function for which that computer was generally designed.
+		"Computer program" means an ordered set of data representing coded instructions or statements that, when executed by a computer, causes the computer to perform one or more computer operations.
+		"Computer services" means computer time or services, including data processing services, Internet services, electronic mail services, electronic message services, or information or data stored in connection therewith.
+		"Computer software" means a set of computer programs, procedures and associated documentation concerned with computer data or with the operation of a computer, computer program, or computer network.
+		"Electronic mail service provider" (EMSP) means any person who (i) is an intermediary in sending or receiving electronic mail and (ii) provides to end-users of electronic mail services the ability to send or receive electronic mail.
+		"Financial instrument" includes, but is not limited to, any check, draft, warrant, money order, note, certificate of deposit, letter of credit, bill of exchange, credit or debit card, transaction authorization mechanism, marketable security, or any computerized representation thereof.
+		"Network" means any combination of digital transmission facilities and packet switches, routers, and similar equipment interconnected to enable the exchange of computer data.
+		"Owner" means an owner or lessee of a computer or a computer network or an owner, lessee, or licensee of computer data, computer programs or computer software.
+		"Person" shall include any individual, partnership, association, corporation or joint venture.
+		"Property" shall include:
+		<section prefix="1">Real property;
+		</section>
+		<section prefix="2">Computers and computer networks;
+		</section>
+		<section prefix="3">Financial instruments, computer data, computer programs, computer software and all other personal property regardless of whether they are:
+			a. Tangible or intangible;
+			b. In a format readable by humans or by a computer;
+			c. In transit between computers or within a computer network or between any devices which comprise a computer; or
+			d. Located on any paper or in any device on which it is stored by a computer or by a human; and
+		</section>
+		<section prefix="4">Computer services.
+			"Spam" means unsolicited commercial electronic mail. Spam shall not include commercial electronic mail transmitted to a recipient with whom the sender has an existing business or personal relationship.
+			A person "uses" a computer or computer network when he attempts to cause or causes a computer or computer network to perform or to stop performing computer operations.
+			A person is "without authority" when he knows or reasonably should know that he has no right, agreement, or permission or acts in a manner knowingly exceeding such right, agreement, or permission.
+		</section>
+	</text>
+	<history>1984, c. 751; 1999, cc. 886, 904, 905; 2000, c. 627; 2003, cc. 987, 1016; 2005, cc. 761, 812, 827; 2009, cc. 321, 376; 2010, c. 489.</history>
+</law>

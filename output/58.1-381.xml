@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="8" level="4">Accounting, Returns, Procedures for Estates and Trusts</unit>
+	</structure>
+	<section_number>58.1-381</section_number>
+	<catch_line>Returns of estates and trusts</catch_line>
+	<text>
+		<section prefix="A">On or before May 1 of each year if the taxable year is a calendar year, or on or before the fifteenth day of the fourth month following the close of a taxable year other than a calendar year, an income tax return under this chapter shall be made and filed by or for:
+			<section prefix="1">Every resident estate or trust required to file a federal income tax return for the taxable year, or having any Virginia taxable income for the taxable year. If the return is for a fractional part of a year, the due date shall be determined as if the return were for a full twelve-month period;
+			</section>
+			<section prefix="2">Every nonresident estate or trust having Virginia taxable income for the taxable year determined under § 58.1-362.
+			</section>
+		</section>
+		<section prefix="B">The return for any deceased individual shall be made and filed by his executor, administrator, or other person charged with his property.
+		</section>
+		<section prefix="C">The return for an estate or trust shall be made and filed by the fiduciary.
+		</section>
+		<section prefix="D">If two or more fiduciaries are acting jointly, the return may be made by any one of them.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.062; 1971, Ex. Sess., c. 171; 1972, c. 827; 1978, c. 796; 1984, c. 675; 1985, c. 221.</history>
+</law>

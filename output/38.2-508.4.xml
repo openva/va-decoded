@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="5" level="2">Unfair Trade Practices</unit>
+	</structure>
+	<section_number>38.2-508.4</section_number>
+	<catch_line>Genetic information privacy</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Genetic characteristic" means any scientifically or medically identifiable gene or chromosome, or alteration thereof, which is known to be a cause of a disease or disorder, or determined to be associated with a statistically increased risk of development of a disease or disorder, and which is asymptomatic of any disease or disorder.
+			"Genetic information" means information about genes, gene products, or inherited characteristics that may derive from an individual or a family member.
+			"Genetic test" means a test for determining the presence or absence of genetic characteristics in an individual in order to diagnose a genetic characteristic.
+		</section>
+		<section prefix="B">No person proposing to issue, re-issue, or renew any policy, contract, or plan of accident and sickness insurance defined in § 38.2-109, but excluding disability income insurance, issued by any (i) insurer providing hospital, medical and surgical or major medical coverage on an expense incurred basis, (ii) corporation providing a health services plan, or (iii) health maintenance organization providing a health care plan for health care services shall, on the basis of any genetic information obtained concerning an individual or on the individual's request for genetic services, with respect to such policy, contract, or plan:
+			<section prefix="1">Terminate, restrict, limit, or otherwise apply conditions to coverage of an individual or restrict the sale to an individual;
+			</section>
+			<section prefix="2">Cancel or refuse to renew the coverage of an individual;
+			</section>
+			<section prefix="3">Exclude an individual from coverage;
+			</section>
+			<section prefix="4">Impose a waiting period prior to commencement of coverage of an individual;
+			</section>
+			<section prefix="5">Require inclusion of a rider that excludes coverage for certain benefits and services; or
+			</section>
+			<section prefix="6">Establish differentials in premium rates for coverage.
+				In addition, no discrimination shall be made in the fees or commissions of an agent or agency for an enrollment, a subscription, or the renewal of an enrollment or subscription of any person on the basis of a person's genetic characteristics which may, under some circumstances, be associated with disability in that person or that person's offspring.
+			</section>
+		</section>
+		<section prefix="C">Notwithstanding any other provisions of law, all information obtained from genetic screening or testing conducted prior to the repeal of this section shall be confidential and shall not be made public nor used in any way, in whole or in part, to cancel, refuse to issue or renew, or limit benefits under any policy, contract or plan subject to the provisions of this section.
+		</section>
+	</text>
+	<history>1996, c. 704.</history>
+</law>

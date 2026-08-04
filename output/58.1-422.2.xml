@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-422.2</section_number>
+	<catch_line>Apportionment; taxpayers with enterprise data center operations</catch_line>
+	<text>
+		<section prefix="A">For taxable years beginning on or after July 1, 2016, the Virginia taxable income of taxpayers with enterprise data center operations, excluding income allocable under § 58.1-407, shall be apportioned within and without the Commonwealth as follows:
+			<section prefix="1">From July 1, 2016, until July 1, 2017, by multiplying such income by a fraction, the numerator of which is the property factor plus the payroll factor plus quadruple the sales factor and the denominator of which is six, except that when the sales factor does not exist, the denominator of the fraction shall be the number of existing factors, and when the sales factor exists but the payroll factor or property factor does not exist, the denominator of the fraction shall be the number of existing factors plus three; and
+			</section>
+			<section prefix="2">From July 1, 2017, and thereafter, by multiplying such income by the sales factor.
+			</section>
+		</section>
+		<section prefix="B">As used in this section:
+			"Enterprise data center operations" means operations that (i) physically house information technology equipment such as servers, switches, routers, data storage devices, or related equipment; (ii) manage and process digital data and information to provide application services or management for data processing, such as web hosting, Internet, intranet, telecommunication, and information technology; (iii) are developed and owned by the taxpayer; and (iv) are operated by the taxpayer or any of its affiliates substantially for their own use.
+		</section>
+		<section prefix="C">The provisions of this section requiring an apportionment formula for taxpayers with enterprise data center operations shall apply only to taxpayers that have entered into a memorandum of understanding with the Virginia Economic Development Partnership Authority on or after July 1, 2015, to make a new capital investment of at least $150 million in an enterprise data center in the Commonwealth on or after such date. The apportionment formula under this section shall apply to such taxpayers beginning with the taxable year for which the Virginia Economic Development Partnership Authority provides a written certification to the taxpayer that the new capital investment has been completed.
+		</section>
+		<section prefix="D">The General Assembly of Virginia finds that capital investment in data centers is essential to the continued fiscal health of the Commonwealth. In this modern economy, states often compete for quality data centers. Accordingly, the provisions of subsection C relating to capital investment in enterprise data centers are integral to the purpose of this section. If any provision of this section is for any reason held to be invalid or unconstitutional by the decision of a court of competent jurisdiction, that provision shall not be deemed severable.
+		</section>
+		<section prefix="E">Any eligible company, as defined in § 58.1-405.1, that apportions its income pursuant to this section may subtract the value of its sales in the Commonwealth during the taxable year from the numerator of the ratio in subdivision A 2. Such eligible company may make such modification for the taxable year in which it first becomes eligible and for the six subsequent, consecutive taxable years, except for any year in which the eligible company's (i) total, cumulative new capital investment falls below the applicable initial threshold or (ii) number of new jobs falls below the applicable initial threshold.
+		</section>
+	</text>
+	<history>2015, cc. 92, 237; 2018, cc. 801, 802.</history>
+</law>

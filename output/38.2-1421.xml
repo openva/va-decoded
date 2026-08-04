@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1421</section_number>
+	<catch_line>Business entity obligations</catch_line>
+	<text>
+		<section prefix="A">High grade. A domestic insurer may invest in any high grade obligations issued, assumed or guaranteed by any solvent business entity that is not in default as to principal or interest on the date of investment and which is created or existing under the laws of the United States or any state.
+		</section>
+		<section prefix="B">Medium grade. A domestic issuer may invest in medium grade obligations issued, assumed or guaranteed by any solvent business entity that is not in default as to principal or interest on the date of investment and which is created or existing under the laws of the United States or any state.
+		</section>
+		<section prefix="C">Lower grade. A domestic insurer may invest in lower grade obligations rated 4 by the Securities Valuation Office of the National Association of Insurance Commissioners or, if not rated by the Securities Valuation Office, rated in an equivalent grade by a national rating agency recognized by the Commission that are issued, assumed or guaranteed by any solvent business entity that is not in default as to principal or interest on the date of investment and which is created or existing under the laws of the United States or any state.
+		</section>
+		<section prefix="D">As used in this section, "business entity obligations" shall not include any mortgage pass-through securities described in § 38.2-1437.1.
+		</section>
+	</text>
+	<history>1983, c. 457, § 38.1-217.24; 1986, c. 562; 1992, c. 588; 1998, c. 414.</history>
+</law>

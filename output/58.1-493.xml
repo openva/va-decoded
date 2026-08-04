@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="19" level="4">Estimated Tax</unit>
+	</structure>
+	<section_number>58.1-493</section_number>
+	<catch_line>Declarations of estimated tax to be filed with commissioner of revenue of county or city</catch_line>
+	<text>
+		<section prefix="A">Every resident individual who is required by this article to file a declaration of estimated tax shall file his declaration with the commissioner of the revenue for the county or city in which he resides, and every nonresident individual who is required by this article to file a declaration of estimated tax shall file his declaration with the commissioner of the revenue for the county or city in which all or a part of his income from sources within the Commonwealth was derived. Forms for use by taxpayers in preparing their declarations of estimated tax shall be supplied by the Department to the commissioners of the revenue, who shall mail or deliver them to the taxpayers needing them so far as ascertainable not later than January 15 of each year. Failure of any taxpayer to receive any such form shall not relieve him of his obligation to file a declaration of estimated tax.
+		</section>
+		<section prefix="B">Every trust or estate which is required by this article to file a declaration of estimated tax shall file the declaration with the commissioner of the revenue for the county or city in which the fiduciary qualified or, if there has been no qualification in this state, in the city or county in which the fiduciary resides, does business or has an office or wherein the beneficiaries or any of them may reside.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.24; 1962, c. 612; 1984, c. 675; 1987, c. 484.</history>
+</law>

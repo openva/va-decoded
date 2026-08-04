@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="12" level="2">Preliminary Hearing</unit>
+	</structure>
+	<section_number>19.2-188.2</section_number>
+	<catch_line>Certificate of surgeon as evidence</catch_line>
+	<text>
+		<section prefix="A">In any criminal proceeding, the certificate of a duly qualified surgeon stating that he has removed organs or other body parts from a decedent for transplant in accordance with Chapter 8 (§ 32.1-277 et seq.) of Title 32.1, shall be admissible in evidence as evidence of the facts stated therein. The certificate shall be competent evidence to show that such organs or body parts were functional at the time of recovery and not affected by any injury or illness that caused the decedent's death.
+		</section>
+		<section prefix="B">A copy of the certificate shall be filed with the attorney for the Commonwealth in the jurisdiction in which the decedent's fatal injury occurred. The certificate shall not be admitted into evidence unless the attorney for the Commonwealth has provided a copy of the certificate to counsel for the defendant at least fourteen days prior to the proceeding in which it is to be offered into evidence.
+		</section>
+		<section prefix="C">Any such certificate, when properly notarized, purporting to be signed by the surgeon who removed the organs or other body parts shall be admissible in evidence without proof of seal or signature of the person whose name is signed to it. In any hearing or trial the accused shall have the right to call the person signing the certificate and the provisions of § 19.2-187.1 shall apply, mutatis mutandis.
+		</section>
+	</text>
+	<history>1997, c. 557.</history>
+</law>

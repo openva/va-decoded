@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="2" level="3">Perfection</unit>
+	</structure>
+	<section_number>8.9A-314</section_number>
+	<catch_line>Perfection by control</catch_line>
+	<text>
+		<section prefix="a">Perfection by control. A security interest in controllable accounts, controllable electronic records, controllable payment intangibles, deposit accounts, electronic documents, electronic money, investment property, or letter-of-credit rights may be perfected by control of the collateral under § 8.7-106, 8.9A-104, 8.9A-105.1, 8.9A-106, 8.9A-107, or 8.9A-107.1.
+		</section>
+		<section prefix="b">Specified collateral; time of perfection by control; continuation of perfection. A security interest in controllable accounts, controllable electronic records, controllable payment intangibles, deposit accounts, electronic documents, electronic money, investment property, or letter-of-credit rights is perfected by control under § 8.7-106, 8.9A-104, 8.9A-105.1, 8.9A-106, 8.9A-107, or 8.9A-107.1 not earlier than the time the secured party obtains control and remains perfected by control only while the secured party retains control.
+		</section>
+		<section prefix="c">Investment property; time of perfection by control; continuation of perfection. A security interest in investment property is perfected by control under § 8.9A-106 not earlier than the time the secured party obtains control and remains perfected by control until:
+			<section prefix="1">the secured party does not have control; and
+			</section>
+			<section prefix="2">one of the following occurs:
+			</section>
+		</section>
+		<section prefix="A">if the collateral is a certificated security, the debtor has or acquires possession of the security certificate;
+		</section>
+		<section prefix="B">if the collateral is an uncertificated security, the issuer has registered or registers the debtor as the registered owner; or
+		</section>
+		<section prefix="C">if the collateral is a security entitlement, the debtor is or becomes the entitlement holder.
+		</section>
+	</text>
+	<history>1996, c. 216, § 8.9-115; 2000, c. 1007; 2004, c. 200; 2024, c. 652.</history>
+</law>

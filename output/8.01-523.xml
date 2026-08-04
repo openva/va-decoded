@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="18" level="2">Executions and Other Means of Recovery</unit>
+		<unit label="article" identifier="7" level="3">Garnishment</unit>
+	</structure>
+	<section_number>8.01-523</section_number>
+	<catch_line>Service upon federal government</catch_line>
+	<text>
+		<section prefix="A">If the suggestion of liability as provided in § 8.01-511 is against the United States of America, the summons shall be served upon the managing employee of the agency of the federal government which is alleged to be liable, or, if the judgment debtor is a member of the armed forces of the United States, upon the chief fiscal officer of the military post to which the judgment debtor was last assigned.
+		</section>
+		<section prefix="B">If service on the agents identified in subsection A for service of process on the United States cannot be made, then service may be made on a United States attorney or other agent in the manner set forth in Rule 4 (d) (4) of the Federal Rules of Civil Procedure, as from time to time amended.
+		</section>
+	</text>
+	<history>Code 1950, § 8-441.3; 1976, c. 659; 1977, c. 617.</history>
+</law>

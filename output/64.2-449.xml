@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="4" level="3">Wills</unit>
+		<unit label="article" identifier="5" level="4">Probate</unit>
+	</structure>
+	<section_number>64.2-449</section_number>
+	<catch_line>Procedure in probate proceedings</catch_line>
+	<text>
+		<section prefix="A">In every probate proceeding, the court or clerk may require all testamentary papers of the testator be produced and may compel the production of the will of a testator that is in the custody of any person.
+		</section>
+		<section prefix="B">A summons may be served by an order of publication on any person interested in the probate of the will in accordance with § 8.01-316.
+		</section>
+		<section prefix="C">The court may appoint a guardian ad litem for any person interested in the probate of the will in accordance with § 8.01-9.
+		</section>
+		<section prefix="D">The record of the testimony given by witnesses in court on the motion to admit a will to probate and any out of court depositions of witnesses who cannot be produced at a jury trial may be admitted as evidence and given such weight as the jury deems proper.
+		</section>
+	</text>
+	<history>Code 1950, §§ 64-77, 64-82, 64-87; 1968, c. 656, §§ 64.1-81, 64.1-86, 64.1-91; 2012, c. 614; 2015, c. 631.</history>
+</law>

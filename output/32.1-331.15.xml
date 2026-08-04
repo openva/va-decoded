@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="10" level="2">Department of Medical Assistance Services</unit>
+		<unit label="article" identifier="4" level="3">Medicaid Prior Authorization Advisory Committee</unit>
+	</structure>
+	<section_number>32.1-331.15</section_number>
+	<catch_line>Prior authorization of prescription drug products; coverage under state plan</catch_line>
+	<text>
+		<section prefix="A">The Committee shall review prescription drug products to recommend prior authorization under the state plan in accordance with this article and regulations promulgated by the Board. Such review may be initiated by the Director, the Committee itself, or by written request of the Board. The Committee shall complete its recommendations to the Board within no more than six months from receipt of any such request.
+		</section>
+		<section prefix="B">Coverage under the state plan for any drug requiring prior authorization shall not be approved unless the prescriber obtains prior approval of such use in accordance with regulations promulgated by the Board and procedures established by the Department.
+			In formulating its recommendations to the Board, the Committee shall consider the potential impact on patient care and the potential fiscal impact of prior authorization on pharmacy, prescriber, hospitalization and outpatient costs. Any proposed regulation making a drug or category of drugs subject to prior authorization shall be accompanied by a statement of the estimated impact of such action on pharmacy, prescriber, hospitalization and outpatient costs.
+		</section>
+		<section prefix="C">The Committee shall not review any drug for which it has recommended or the Board has required prior authorization within the previous 12 months, unless new or previously unavailable relevant and objective information is presented.
+		</section>
+		<section prefix="D">Confidential proprietary information identified as such by a manufacturer or supplier in writing in advance and furnished to the Committee or the Board pursuant to this article shall not be subject to the disclosure requirements of the Virginia Freedom of Information Act (§ 2.2-3700 et seq.). The Board shall establish by regulation the means by which such confidential proprietary information shall be protected.
+		</section>
+	</text>
+	<history>1993, c. 537; 2004, c. 855.</history>
+</law>

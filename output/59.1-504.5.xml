@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="4" level="3">Warranties</unit>
+	</structure>
+	<section_number>59.1-504.5</section_number>
+	<catch_line>Implied warranty; licensee's purpose; system integration</catch_line>
+	<text>
+		<section prefix="a">Unless the warranty is disclaimed or modified, if a licensor at the time of contracting has reason to know any particular purpose for which the computer information is required and that the licensee is relying on the licensor's skill or judgment to select, develop, or furnish suitable information, the following rules apply:
+			<section prefix="1">Except as otherwise provided in paragraph (2), there is an implied warranty that the information is fit for that purpose.
+			</section>
+			<section prefix="2">If from all the circumstances it appears that the licensor was to be paid for the amount of its time or effort regardless of the fitness of the resulting information, the warranty under paragraph (1) is that the information will not fail to achieve the licensee's particular purpose as a result of the licensor's lack of reasonable effort.
+			</section>
+		</section>
+		<section prefix="b">There is no warranty under subsection (a) with regard to:
+			<section prefix="1">the aesthetics, appeal, suitability to taste, or subjective quality of informational content; or
+			</section>
+			<section prefix="2">published informational content, but there may be a warranty with regard to the licensor's selection among published informational content from different providers if the selection is made by an individual acting as or on behalf of the licensor.
+			</section>
+		</section>
+		<section prefix="c">If an agreement requires a licensor to provide or select a system consisting of computer programs and goods, and the licensor has reason to know that the licensee is relying on the skill or judgment of the licensor to select the components of the system, there is an implied warranty that the components provided or selected will function together as a system.
+		</section>
+		<section prefix="d">The warranty under this section is not subject to the preclusion in § 59.1-501.15 (b) (1) on disclaiming diligence, reasonableness, or care.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2004, c. 794.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="27" level="3">Uniform Powers of Appointment Act</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>64.2-2705</section_number>
+	<catch_line>Governing law</catch_line>
+	<text>
+		Unless the terms of the instrument creating a power of appointment manifest a contrary intent:
+		<section prefix="1">The creating, revocation, or amendment of the power is governed by the law of the donor's domicile at the relevant time; and
+		</section>
+		<section prefix="2">The exercise, release, or disclaimer of the power, or the revocation or amendment of the exercise, release, or disclaimer of the power is governed by the law of the powerholder's domicile at the relevant time.
+		</section>
+	</text>
+	<history>2016, c. 266.</history>
+</law>

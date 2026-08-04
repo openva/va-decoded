@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="14" level="2">Investments</unit>
+		<unit label="article" identifier="2" level="3">Category 1 Investments</unit>
+	</structure>
+	<section_number>38.2-1427.2</section_number>
+	<catch_line>Investment company shares and units of beneficial interest</catch_line>
+	<text>
+		A domestic insurer may invest in shares of common stock or units of beneficial interest issued by any solvent business corporation or trust incorporated or organized under the laws of the United States, or of any state of the United States, under the following conditions:
+		<section prefix="1">If the issuing corporation or trust is advised by an investment advisor which is the insurer or an affiliate of the insurer, the issuing corporation or trust shall have assets of $100,000 or more (which may be provided by the insurer or affiliate), or if the issuing corporation or trust has an unaffiliated investment advisor, the issuing corporation or trust shall have net assets of ten million dollars or more, and
+		</section>
+		<section prefix="2">The issuing corporation or trust is registered as an investment company with the Federal Securities and Exchange Commission under the Investment Company Act of 1940, as amended.
+		</section>
+	</text>
+	<history>1992, c. 588; 2002, c. 147.</history>
+</law>

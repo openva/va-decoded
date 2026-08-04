@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="6" level="2">Breach, Repudiation and Excuse</unit>
+	</structure>
+	<section_number>8.2-613</section_number>
+	<catch_line>Casualty to identified goods</catch_line>
+	<text>
+		Where the contract requires for its performance goods identified when the contract is made, and the goods suffer casualty without fault of either party before the risk of loss passes to the buyer, or in a proper case under a "no arrival, no sale" term (§ 8.2-324) then
+		<section prefix="a">if the loss is total the contract is avoided; and
+		</section>
+		<section prefix="b">if the loss is partial or the goods have so deteriorated as no longer to conform to the contract the buyer may nevertheless demand inspection and at his option either treat the contract as avoided or accept the goods with due allowance from the contract price for the deterioration or the deficiency in quantity but without further right against the seller.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

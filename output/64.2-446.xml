@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="4" level="3">Wills</unit>
+		<unit label="article" identifier="5" level="4">Probate</unit>
+	</structure>
+	<section_number>64.2-446</section_number>
+	<catch_line>Motion for probate; process against persons interested in probate</catch_line>
+	<text>
+		<section prefix="A">A person offering, or intending to offer, to a circuit court or to the clerk of the circuit court a will for probate, may request that the clerk of such court summon any person interested in the probate of the will to appear to show cause why the will should not be admitted to probate. Upon such request, the clerk shall, or in the absence of such request the court may, summon all persons interested in the probate of the will to appear to show cause why the will should not be admitted to probate.
+		</section>
+		<section prefix="B">The court shall hear the motion to admit the will to probate when all persons interested in the probate of the will have been summoned or otherwise appear as parties. Upon the request of any person interested in the probate of the will, the court shall order a trial by jury to ascertain whether any paper produced is the will of the decedent. The court shall enter a final order as to the probate.
+		</section>
+		<section prefix="C">In the absence of a request that the clerk summon any person interested in the probate of the will to appear to show cause why the will should not be admitted to probate, the court in which the will is offered for probate may proceed to admit or reject the will without summoning any party.
+		</section>
+	</text>
+	<history>Code 1950, §§ 64-75, 64-76, 64-78, 64-79, 64-81; 1968, c. 656, §§ 64.1-79, 64.1-80, 64.1-82, 64.1-83, 64.1-85; 2012, c. 614.</history>
+</law>

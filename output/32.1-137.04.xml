@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="1" level="3">Hospital and Nursing Home Licensure and Inspection</unit>
+	</structure>
+	<section_number>32.1-137.04</section_number>
+	<catch_line>Patient notice of observation or outpatient status</catch_line>
+	<text>
+		<section prefix="A">A hospital shall provide oral and written notice to any patient placed under observation or in any other outpatient status, or to such patient's authorized representative, informing the patient of his placement in such status if (i) the patient receives onsite services from the hospital and (ii) such onsite services include a hospital bed and meals that are provided in an area of the hospital other than the emergency department. Such oral and written notice shall be provided not later than 36 hours after placement under observation or in any other outpatient status unless the patient has been discharged or has left the hospital prior to the expiration of such 36-hour period.
+		</section>
+		<section prefix="B">Such written notice shall be written in clear, understandable language and printed in at least 14-point type. The written notice shall include:
+			<section prefix="1">A statement that the patient is not admitted to the hospital as an inpatient but is under observation or in such other outpatient status;
+			</section>
+			<section prefix="2">A statement that such observation or other outpatient status may affect the patient's Medicare, Medicaid, or private health insurance coverage of (i) the current hospital services, including medications and pharmaceutical supplies, and (ii) care at a skilled nursing facility or home or community-based care upon the patient's discharge from the hospital; and
+			</section>
+			<section prefix="3">A statement that the patient should contact the identified hospital representative or his health insurance plan for more information on his observation or other outpatient status and any available recourse.
+			</section>
+		</section>
+		<section prefix="C">For any patient placed under observation or in any other outpatient status who is entitled to have payment made under Title XVIII of the Social Security Act (42 U.S.C. § 1395 et seq.), a hospital providing written notice and oral explanation of such notice to the patient which satisfies the provisions of 42 U.S.C. § 1395cc(a)(1)(Y) shall be deemed to have satisfied the provisions of this section.
+		</section>
+	</text>
+	<history>2015, c. 365; 2018, c. 194.</history>
+</law>

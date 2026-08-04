@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="6" level="2">Default</unit>
+		<unit label="subpart" identifier="1" level="3">Default and Enforcement of Security Interest</unit>
+	</structure>
+	<section_number>8.9A-615</section_number>
+	<catch_line>Application of proceeds of disposition; liability for deficiency and right to surplus</catch_line>
+	<text>
+		<section prefix="a">Application of proceeds. A secured party shall apply or pay over for application the cash proceeds of disposition under § 8.9A-610 in the following order to:
+			<section prefix="1">the reasonable expenses of retaking, holding, preparing for disposition, processing, and disposing, and, to the extent provided for by agreement and not prohibited by law, reasonable attorney's fees and legal expenses incurred by the secured party;
+			</section>
+			<section prefix="2">the satisfaction of obligations secured by the security interest or agricultural lien under which the disposition is made;
+			</section>
+			<section prefix="3">the satisfaction of obligations secured by any subordinate security interest in or other subordinate lien on the collateral if:
+			</section>
+		</section>
+		<section prefix="A">the secured party receives from the holder of the subordinate security interest or other lien a signed demand for proceeds before distribution of the proceeds is completed; and
+		</section>
+		<section prefix="B">in a case in which a consignor has an interest in the collateral, the subordinate security interest or other lien is senior to the interest of the consignor; and
+			<section prefix="4">a secured party that is a consignor of the collateral if the secured party receives from the consignor a signed demand for proceeds before distribution of the proceeds is completed.
+			</section>
+		</section>
+		<section prefix="b">Proof of subordinate interest. If requested by a secured party, a holder of a subordinate security interest or other lien shall furnish reasonable proof of the interest or lien within a reasonable time. Unless the holder does so, the secured party need not comply with the holder's demand under subsection (a) (3).
+		</section>
+		<section prefix="c">Application of noncash proceeds. A secured party need not apply or pay over for application noncash proceeds of disposition under § 8.9A-610 unless the failure to do so would be commercially unreasonable. A secured party that applies or pays over for application noncash proceeds shall do so in a commercially reasonable manner.
+		</section>
+		<section prefix="d">Surplus or deficiency if obligation secured. If the security interest under which a disposition is made secures payment or performance of an obligation, after making the payments and applications required by subsection (a) and permitted by subsection (c):
+			<section prefix="1">unless subsection (a) (4) requires the secured party to apply or pay over cash proceeds to a consignor, the secured party shall account to and pay a debtor for any surplus; and
+			</section>
+			<section prefix="2">the obligor is liable for any deficiency.
+			</section>
+		</section>
+		<section prefix="e">No surplus or deficiency in sales of certain rights to payment. If the underlying transaction is a sale of accounts, chattel paper, payment intangibles, or promissory notes:
+			<section prefix="1">the debtor is not entitled to any surplus; and
+			</section>
+			<section prefix="2">the obligor is not liable for any deficiency.
+			</section>
+		</section>
+		<section prefix="f">Calculation of surplus or deficiency in disposition to person related to secured party. The surplus or deficiency following a disposition is calculated based on the amount of proceeds that would have been realized in a disposition complying with this part to a transferee other than the secured party, a person related to the secured party, or a secondary obligor if:
+			<section prefix="1">the transferee in the disposition is the secured party, a person related to the secured party, or a secondary obligor; and
+			</section>
+			<section prefix="2">the amount of proceeds of the disposition is significantly below the range of proceeds that a complying disposition to a person other than the secured party, a person related to the secured party, or a secondary obligor would have brought.
+			</section>
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-504; 1973, c. 509; 2000, c. 1007; 2024, c. 652.</history>
+</law>

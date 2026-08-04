@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="7" level="4">Requirements Applicable to Underground Coal Mines; Mine Construction</unit>
+		<unit label="article" identifier="5" level="5">Explosives and Blasting</unit>
+	</structure>
+	<section_number>45.2-723</section_number>
+	<catch_line> Blasting cables</catch_line>
+	<text>
+		Each blasting cable shall be:
+		<section prefix="1">Well insulated and as long as necessary to allow the shot firer to move to a safe place around a corner;
+		</section>
+		<section prefix="2">Short-circuited at the battery end until it is ready to attach to the blasting unit;
+		</section>
+		<section prefix="3">Staggered as to length, or shall have its ends kept well separated when attached to the detonator leg wires; and
+		</section>
+		<section prefix="4">Kept clear of power wires and all other possible sources of active or stray electric currents.
+		</section>
+	</text>
+	<history>Code 1950, § 45-53.6; 1954, c. 191; 1966, c. 594, § 45.1-49; 1994, c. 28, § 45.1-161.130; 2021, Sp. Sess. I, c. 387.</history>
+</law>

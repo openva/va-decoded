@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="6" level="5">Ethics in Public Contracting</unit>
+	</structure>
+	<section_number>2.2-4371</section_number>
+	<catch_line>Prohibition on solicitation or acceptance of gifts; gifts by bidders, offerors, contractor or subcontractors prohibited</catch_line>
+	<text>
+		<section prefix="A">No public employee having official responsibility for a procurement transaction shall solicit, demand, accept, or agree to accept from a bidder, offeror, contractor or subcontractor any payment, loan, subscription, advance, deposit of money, services or anything of more than nominal or minimal value, present or promised, unless consideration of substantially equal or greater value is exchanged. The public body may recover the value of anything conveyed in violation of this subsection.
+		</section>
+		<section prefix="B">No bidder, offeror, contractor or subcontractor shall confer upon any public employee having official responsibility for a procurement transaction any payment, loan, subscription, advance, deposit of money, services or anything of more than nominal value, present or promised, unless consideration of substantially equal or greater value is exchanged.
+		</section>
+	</text>
+	<history>1982, c. 647, §§ 11-75, 11-77; 2001, c. 844.</history>
+</law>

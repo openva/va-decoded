@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="2" level="3">Fees</unit>
+	</structure>
+	<section_number>13.1-815.1</section_number>
+	<catch_line>Charter and entrance fees for corporations</catch_line>
+	<text>
+		<section prefix="A">Every domestic corporation, upon the granting of its charter or upon domestication, shall pay a charter fee in the amount of $50 into the state treasury, and every foreign corporation shall pay an entrance fee of $50 into the state treasury for its certificate of authority to transact business in the Commonwealth.
+		</section>
+		<section prefix="B">For any foreign corporation that files articles of domestication and that had authority to transact business in the Commonwealth at the time of such filing, the charter fee to be charged upon domestication shall be an amount equal to the difference between the amount that would be required by this section and the amount already paid as an entrance fee by such corporation.
+		</section>
+		<section prefix="C">For any domestic stock corporation that files articles of conversion to become a domestic corporation, the charter fee to be charged shall be an amount equal to the difference between the amount already paid as a charter fee by the domestic stock corporation and the amount that would be required by this section to be paid.
+		</section>
+	</text>
+	<history>1988, c. 405; 2003, c. 374; 2007, cc. 810, 925; 2008, c. 509; 2021, Sp. Sess. I, c. 487.</history>
+</law>

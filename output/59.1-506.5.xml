@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.5</section_number>
+	<catch_line>Electronic regulation of performance</catch_line>
+	<text>
+		<section prefix="a">In this section, "automatic restraint" means a program, code, device, or similar electronic or physical limitation the intended purpose of which is to prevent use of information contrary to the contract or applicable law.
+		</section>
+		<section prefix="b">A party entitled to enforce a limitation on use of information may include an automatic restraint in the information or a copy of it and use that restraint if:
+			<section prefix="1">a term of the agreement authorizes use of the restraint;
+			</section>
+			<section prefix="2">the restraint prevents a use that is inconsistent with the agreement;
+			</section>
+			<section prefix="3">the restraint prevents use after expiration of the stated duration of the contract or a stated number of uses; or
+			</section>
+			<section prefix="4">the restraint prevents use after the contract terminates, other than on expiration of a stated duration or number of uses, and the licensor gives reasonable notice to the licensee before further use is prevented.
+			</section>
+		</section>
+		<section prefix="c">This section does not authorize an automatic restraint that affirmatively prevents or makes impracticable a licensee's access to its own information or information of a third party, other than the licensor, if that information is in the possession of the licensee or a third party.
+		</section>
+		<section prefix="d">A party that includes or uses an automatic restraint consistent with subsection (b) or (c) is not liable for any loss caused by the use of the restraint.
+		</section>
+		<section prefix="e">This section does not preclude electronic replacement or disabling of an earlier copy of information by the licensor in connection with delivery of a new copy or version under an agreement to replace or disable the earlier copy by electronic means with an upgrade or other new information.
+		</section>
+		<section prefix="f">This section does not authorize use of an automatic restraint to enforce remedies because of breach of contract or for cancellation for breach. If a right to cancel for breach of contract and a right to exercise restraint under subdivision (b) (4) exist simultaneously, affirmative acts constituting electronic self-help must be taken pursuant to § 59.1-508.16, including its prohibition on mass-market transactions, instead of this section. Affirmative acts under this subsection do not include (i) use of a program, code, device, or similar electronic or physical limitation that operates automatically without regard to breach or (ii) a refusal to prevent the operation of a restraint authorized by this section or to reverse its effect.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996; 2001, c. 763.</history>
+</law>

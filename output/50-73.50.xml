@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.1" level="2">Virginia Revised Uniform Limited Partnership Act</unit>
+		<unit label="article" identifier="8" level="3">Dissolution</unit>
+	</structure>
+	<section_number>50-73.50</section_number>
+	<catch_line>Judicial dissolution</catch_line>
+	<text>
+		<section prefix="A">On application by or for a partner, the circuit court of the locality in which the registered office is located may decree dissolution of a limited partnership if it is not reasonably practicable to carry on the business in conformity with the partnership agreement.
+		</section>
+		<section prefix="B">When the winding up of the affairs of the limited partnership has been completed, the court shall so advise the Commission, which shall enter an order of cancellation of the limited partnership's existence.
+		</section>
+	</text>
+	<history>1985, c. 607; 1987, c. 702; 2008, c. 586.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="53.1" level="1">Prisons and Other Methods of Correction</unit>
+		<unit label="chapter" identifier="7" level="2">Crimes and Criminal Proceedings Involving Prisoners</unit>
+		<unit label="article" identifier="2" level="3">Prisoners as Witnesses or Charged With Other Crimes</unit>
+	</structure>
+	<section_number>53.1-206</section_number>
+	<catch_line>When prisoner surrendered as witness; certificate</catch_line>
+	<text>
+		Prisoners may be surrendered as witnesses if a judge of any court of record of the United States or of the District of Columbia, or of any state certifies under the seal of such court that:
+		<section prefix="1">There is a criminal prosecution pending in such court or that a grand jury investigation has commenced or is about to commence;
+		</section>
+		<section prefix="2">A person confined in any state correctional facility in Virginia is a material witness in such prosecution or grand jury investigation, and his presence will be required at a time stated;
+		</section>
+		<section prefix="3">The officer presenting the certificate is authorized to receive custody of such prisoner and will retain him in his custody until his return to this Commonwealth; and
+		</section>
+		<section prefix="4">The prisoner will be safely returned to the custody of the Director at such state correctional facility, as the Director may direct.
+			Upon presentation of such certificate to the Director, if he is of the opinion that the ends of justice will be promoted thereby, the Director may, with the approval of the Governor, surrender the prisoner into the custody of the officer named in the certificate.
+		</section>
+	</text>
+	<history>Code 1950, § 53-301; 1970, c. 648; 1982, c. 636.</history>
+</law>

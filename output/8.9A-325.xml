@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="3" level="3">Priority</unit>
+	</structure>
+	<section_number>8.9A-325</section_number>
+	<catch_line>Priority of security interests in transferred collateral</catch_line>
+	<text>
+		<section prefix="a">Subordination of security interest in transferred collateral. Except as otherwise provided in subsection (b), a security interest created by a debtor is subordinate to a security interest in the same collateral created by another person if:
+			<section prefix="1">the debtor acquired the collateral subject to the security interest created by the other person;
+			</section>
+			<section prefix="2">the security interest created by the other person was perfected when the debtor acquired the collateral; and
+			</section>
+			<section prefix="3">there is no period thereafter when the security interest is unperfected.
+			</section>
+		</section>
+		<section prefix="b">Limitation of subsection (a) subordination. Subsection (a) subordinates a security interest only if the security interest:
+			<section prefix="1">otherwise would have priority solely under § 8.9A-322 (a) or § 8.9A-324; or
+			</section>
+			<section prefix="2">arose solely under § 8.2-711 (3) or § 8.2A-508 (5).
+			</section>
+		</section>
+	</text>
+	<history>2000, c. 1007.</history>
+</law>

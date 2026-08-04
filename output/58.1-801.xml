@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="8" level="3">State Recordation Tax</unit>
+	</structure>
+	<section_number>58.1-801</section_number>
+	<catch_line>Deeds generally; charter amendments</catch_line>
+	<text>
+		<section prefix="A">On every deed admitted to record, except a deed exempt from taxation by law, there is hereby levied a state recordation tax. The rate of the tax shall be 25 cents on every $100 or fraction thereof of (i) the consideration of the deed or (ii) the actual value of the property conveyed, whichever is greater. For the purposes of this chapter, "value of the property conveyed" or "value of the interest" means the most recent property tax assessment for such property at the time the property is conveyed.
+			Upon deeds conveying property lying partly within the Commonwealth and partly without the Commonwealth, the tax herein imposed shall apply only to the value of so much of the property conveyed as is situated within the Commonwealth.
+		</section>
+		<section prefix="B">When the charter of a corporation is amended, and the only effect of such amendment is to change the corporate name of such corporation, the tax upon the recordation of a deed conveying to, or vesting in, such corporation under its changed name, the title to any or all of the real or personal property of such corporation held in its name as it existed immediately prior to such amendment, shall be 50 cents.
+		</section>
+	</text>
+	<history>Code 1950, § 58-54; 1968, c. 778; 1970, c. 772; 1984, c. 675; 2004, Sp. Sess. I, c. 3; 2024, c. 140.</history>
+</law>

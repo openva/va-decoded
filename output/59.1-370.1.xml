@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="29" level="2">Horse Racing and Pari-Mutuel Wagering</unit>
+		<unit label="article" identifier="1" level="3">Virginia Racing Commission</unit>
+	</structure>
+	<section_number>59.1-370.1</section_number>
+	<catch_line>State Racing Operations Fund</catch_line>
+	<text>
+		<section prefix="A">All moneys and revenues received by the Commission under this chapter shall be placed in a special fund known as the State Racing Operations Fund. Notwithstanding any other provision of law, interest earned from moneys in the State Racing Operations Fund shall accrue to the benefit of such fund.
+		</section>
+		<section prefix="B">The total costs for the operation and administration of the Virginia Racing Commission shall be funded from the State Racing Operations Fund and shall be in such amount as provided in the general appropriations act.
+		</section>
+	</text>
+	<history>1990, c. 272.</history>
+</law>

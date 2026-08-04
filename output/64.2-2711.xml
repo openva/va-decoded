@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="V" level="2">Provisions Applicable to Probate and Nonprobate Transfers</unit>
+		<unit label="chapter" identifier="27" level="3">Uniform Powers of Appointment Act</unit>
+		<unit label="article" identifier="2" level="4">Creation, Revocation, and Amendment of Power of Appointment</unit>
+	</structure>
+	<section_number>64.2-2711</section_number>
+	<catch_line>Rules of classification</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "adverse party" means a person with a substantial beneficial interest in property which would be affected adversely by a powerholder's exercise or nonexercise of a power of appointment in favor of the powerholder, the powerholder's estate, a creditor of the powerholder, or a creditor of the powerholder's estate.
+		</section>
+		<section prefix="B">If a powerholder may exercise a power of appointment only with the consent or joinder of an adverse party, the power is nongeneral.
+		</section>
+		<section prefix="C">Only a power of appointment whose permissible appointees are defined and limited can be nonexclusionary.
+		</section>
+	</text>
+	<history>2016, c. 266.</history>
+</law>

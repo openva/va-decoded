@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="I" level="2">Activities Administered by the Department of Conservation and Recreation</unit>
+		<unit label="chapter" identifier="2" level="3">Parks and Recreation</unit>
+		<unit label="article" identifier="1" level="4">State Parks</unit>
+	</structure>
+	<section_number>10.1-200.01</section_number>
+	<catch_line>Lyme disease signage</catch_line>
+	<text>
+		<section prefix="A">The Department shall develop and post in each state park and interstate park signage addressing the appropriate steps a visitor can take to prevent tick bites, how to identify Lyme disease, and where to seek treatment.
+		</section>
+		<section prefix="B">The Department shall install such signage first in those areas in the Commonwealth that have been identified as most susceptible to Lyme disease and shall complete the installation of such signage in all state parks and interstate parks by January 1, 2028.
+		</section>
+		<section prefix="C">Until it completes the installation of all such signage, the Department shall report its progress annually to the House Committee on Agriculture, Chesapeake and Natural Resources and the Senate Committee on Agriculture, Conservation and Natural Resources.
+		</section>
+	</text>
+	<history>2022, c. 303.</history>
+</law>

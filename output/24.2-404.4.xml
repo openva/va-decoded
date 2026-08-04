@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="4" level="2">Voter Registration</unit>
+		<unit label="article" identifier="2" level="3">Virginia Voter Registration System</unit>
+	</structure>
+	<section_number>24.2-404.4</section_number>
+	<catch_line>Exchange of registered voter lists with other states</catch_line>
+	<text>
+		<section prefix="A">Pursuant to its authority under subsection A of § 24.2-405 and subsections B and C of § 24.2-406, the Department of Elections shall request voter registration information and lists of persons voting at primaries and elections, if available, from the states bordering the Commonwealth to identify duplicate registrations, voters who no longer reside in the Commonwealth, and other persons who are no longer entitled to be registered in order to maintain the overall accuracy of the voter registration system.
+		</section>
+		<section prefix="B">Pursuant to its authority under subdivision A 10 of § 24.2-404, the Department of Elections shall utilize data regarding voter registration and lists of persons voting at primaries and elections received through list comparisons with other states to identify duplicate registrations, voters who no longer reside in the Commonwealth, and other persons who are no longer entitled to be registered in order to maintain the overall accuracy of the voter registration system.
+		</section>
+		<section prefix="C">The Department shall compare the data received pursuant to subsections A and B with the state voter registration list and initiate list maintenance procedures under applicable state and federal law. The Department shall include in its report to the House and Senate Committees on Privileges and Elections, required by subsection F of § 24.2-404, the progress of activities conducted under this section, including the number of duplicate registrations found to exist and the procedures that the Department and general registrars are following to eliminate duplicate registrations from the Virginia registered voter lists.
+		</section>
+	</text>
+	<history>2013, c. 435; 2015, cc. 713, 740; 2018, c. 460.</history>
+</law>

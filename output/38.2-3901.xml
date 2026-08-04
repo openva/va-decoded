@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="39" level="2">Mutual Assessment Life, Accident and Sickness Insurers</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3901</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter:
+		"Mutual assessment life, accident and sickness insurance" means life, accident and sickness insurance and annuities provided by an insurer which has a right to assess its members for contributions and which is licensed under this chapter.
+		"Mutual assessment life, accident and sickness insurer" means a nonstock corporation that provides life, accident or sickness insurance or annuity contracts for which the following provisions are applicable:
+		<section prefix="1">All benefits payable to beneficiaries are mainly provided for by (i) assessments upon members made when needed by the insurer, or (ii) advance premiums paid at fixed dates, with the right reserved by the insurer to make additional assessments; or
+		</section>
+		<section prefix="2">If definite periodic premiums are used without the right to make additional assessments, premiums must be sufficient to pay average claims in accordance with standards applicable to insurers licensed pursuant to Chapter 10 (§ 38.2-1000 et seq.) of this title.
+		</section>
+	</text>
+	<history>1985, c. 400, § 38.1-549.2; 1986, c. 562.</history>
+</law>

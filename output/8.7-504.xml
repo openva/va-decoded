@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.7" level="1">Commercial Code — Warehouse Receipts, Bills of Lading and Other Documents of Title</unit>
+		<unit label="part" identifier="5" level="2">Warehouse Receipts and Bills of Lading: Negotiation and Transfer</unit>
+	</structure>
+	<section_number>8.7-504</section_number>
+	<catch_line>Rights acquired in the absence of due negotiation; effect of diversion; seller's stoppage of delivery</catch_line>
+	<text>
+		<section prefix="1">A transferee of a document, whether negotiable or nonnegotiable, to whom the document has been delivered but not duly negotiated, acquires the title and rights that his transferor had or had actual authority to convey.
+		</section>
+		<section prefix="2">In the case of a nonnegotiable document, until but not after the bailee receives notification of the transfer, the rights of the transferee may be defeated:
+			<section prefix="a">by those creditors of the transferor who could treat the sale as void under § 8.2-402 or § 8.2A-308; or
+			</section>
+			<section prefix="b">by a buyer from the transferor in ordinary course of business if the bailee has delivered the goods to the buyer or received notification of his rights; or
+			</section>
+			<section prefix="c">by a lessee from the transferor in ordinary course of business if the bailee has delivered the goods to the lessee or received notification of the lessee's rights; or
+			</section>
+			<section prefix="d">as against the bailee by good faith dealings of the bailee with the transferor.
+			</section>
+		</section>
+		<section prefix="3">A diversion or other change of shipping instructions by the consignor in a nonnegotiable bill of lading that causes the bailee not to deliver to the consignee defeats the consignee's title to the goods if they have been delivered to a buyer or lessee in ordinary course of business and, in any event, defeats the consignee's rights against the bailee.
+		</section>
+		<section prefix="4">Delivery pursuant to a nonnegotiable document may be stopped by a seller under § 8.2-705 or a lessor under § 8.2A-526, subject to the requirement of due notification there provided. A bailee honoring the seller's or lessor's instructions is entitled to be indemnified by the seller or lessor against any resulting loss or expense.
+		</section>
+	</text>
+	<history>Code 1950, §§ 61-44, 61-45; 1964, c. 219; 2004, c. 200.</history>
+</law>

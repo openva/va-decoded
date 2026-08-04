@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="III" level="2">Rental Conveyances</unit>
+		<unit label="chapter" identifier="15" level="3">Residential Ground Rent Act</unit>
+	</structure>
+	<section_number>55.1-1505</section_number>
+	<catch_line>Incorporation of agreement into deed</catch_line>
+	<text>
+		A ground rent agreement made pursuant to the provisions of this chapter may be incorporated into the deed or other instrument of transfer in the following form:
+		This deed is subject to annual ground rent or charge as follows:
+		<section prefix="1">Date of agreement: ______;
+		</section>
+		<section prefix="2">Parties:
+			a. Obligor: ______; and
+			b. Obligee: ______;
+		</section>
+		<section prefix="3">Ground rent and any future adjustments to it: ______;
+		</section>
+		<section prefix="4">When payable: ______;
+		</section>
+		<section prefix="5">Duration: ______;
+		</section>
+		<section prefix="6">Original value of land: ______; and
+		</section>
+		<section prefix="7">Redemption price, if agreed on: ______.
+		</section>
+	</text>
+	<history>1975, c. 363, § 55-79.06; 2019, c. 712.</history>
+</law>

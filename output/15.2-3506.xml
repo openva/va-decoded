@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="III" level="2">Boundary Adjustments and Changes of Status of Counties, Cities and Towns</unit>
+		<unit label="chapter" identifier="35" level="3">Consolidation of Localities</unit>
+		<unit label="article" identifier="1" level="4">Consolidation of Like Units of Local Government</unit>
+	</structure>
+	<section_number>15.2-3506</section_number>
+	<catch_line>Conduct of election</catch_line>
+	<text>
+		The election authorized by § 15.2-3505 shall be conducted in accordance with general law. The ballots used shall be printed and shall contain the following:
+		"Shall ____________________ (here insert names of counties, cities or towns proposing to consolidate) consolidate pursuant to the consolidation agreement?
+		[ ] Yes
+		[ ] No."
+	</text>
+	<history>Code 1950, § 15-167; 1950, p. 395; 1962, c. 623, § 15.1-1076; 1997, c. 587.</history>
+</law>

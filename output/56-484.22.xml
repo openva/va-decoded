@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="15" level="2">Telegraph and Telephone Companies</unit>
+		<unit label="article" identifier="8" level="3">Emergency Calls on Multiline Telephone Systems</unit>
+	</structure>
+	<section_number>56-484.22</section_number>
+	<catch_line>Access to PSAPs from telephone stations on MLTS</catch_line>
+	<text>
+		Commencing July 1, 2009, the MLTS provider of any multiline telephone system shall maintain and operate the MLTS in such manner that a telephone call made by dialing the digits "9-1-1" and, if applicable, any additional digit or digits that must be dialed in order to permit the user to access the public switched telephone network, from any telephone on the MLTS is routed to a PSAP.
+	</text>
+	<history>2007, c. 427.</history>
+</law>

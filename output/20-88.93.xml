@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="13" level="3">Support Proceeding Under Hague Convention</unit>
+	</structure>
+	<section_number>20-88.93</section_number>
+	<catch_line>Modification of Convention child support order</catch_line>
+	<text>
+		<section prefix="A">A tribunal of the Commonwealth may not modify a Convention child support order if the obligee remains a resident of the foreign country where the support order was issued unless:
+			<section prefix="1">The obligee submits to the jurisdiction of a tribunal of the Commonwealth, either expressly or by defending on the merits of the case without objecting to the jurisdiction at the first available opportunity; or
+			</section>
+			<section prefix="2">The foreign tribunal lacks or refuses to exercise jurisdiction to modify its support order or issue a new support order.
+			</section>
+		</section>
+		<section prefix="B">If a tribunal of the Commonwealth does not modify a Convention child support order because the order is not recognized in the Commonwealth, subsection C of § 20-88.90 applies.
+		</section>
+	</text>
+	<history>2015, c. 727.</history>
+</law>

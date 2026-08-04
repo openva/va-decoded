@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="7" level="4">Requirements Applicable to Underground Coal Mines; Mine Construction</unit>
+		<unit label="article" identifier="5" level="5">Explosives and Blasting</unit>
+	</structure>
+	<section_number>45.2-724</section_number>
+	<catch_line> Misfires</catch_line>
+	<text>
+		<section prefix="A">Where a misfire occurs with an electric detonator, a waiting period of at least 15 minutes is required before any miner is allowed to return to the shot area. After such failure, the blasting cable shall be disconnected from the source of power and the battery ends short-circuited before electric connections are examined.
+		</section>
+		<section prefix="B">Explosives shall be removed by (i) firing a separate charge at least two feet away from, and parallel to, the misfired charge; (ii) washing the stemming and the charge from the borehole with water; or (iii) inserting and firing a new primer after the stemming has been washed out.
+		</section>
+		<section prefix="C">A careful search of the working place and, if necessary, of the coal after it reaches the tipple shall be made after blasting a misfired hole to recover any undetonated explosive.
+		</section>
+		<section prefix="D">The handling of a misfired shot shall occur under the direct supervision of the mine foreman or a certified person designated by him.
+		</section>
+	</text>
+	<history>Code 1950, § 45-53.7; 1954, c. 191; 1966, c. 594, § 45.1-50; 1994, c. 28, § 45.1-161.131; 2021, Sp. Sess. I, c. 387.</history>
+</law>

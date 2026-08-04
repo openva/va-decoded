@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="10" level="4">Taxation of Corporations</unit>
+	</structure>
+	<section_number>58.1-419</section_number>
+	<catch_line>Construction corporations; apportionment</catch_line>
+	<text>
+		<section prefix="A">Construction companies which have elected to report income on the completed contract basis shall apportion income within and without this Commonwealth in the ratio that the business within the Commonwealth is to the total business of the corporation.
+		</section>
+		<section prefix="B">All other construction corporations not reporting under the completed contract method shall determine Virginia taxable income by reference to §§ 58.1-406 through 58.1-416.
+		</section>
+		<section prefix="C">Any eligible company, as defined in § 58.1-405.1, may subtract the value of its business within any qualified locality or qualified localities, as defined in § 58.1-405.1, during the taxable year from the numerator of the ratio in subsection A. Such eligible company may make such modification for the taxable year in which it first becomes eligible and for the six subsequent, consecutive taxable years, except for any year in which the eligible company's (i) total, cumulative new capital investment falls below the applicable initial threshold or (ii) number of new jobs falls below the applicable initial threshold.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.050:2; 1976, c. 436; 1981, c. 402; 1984, c. 675; 2018, cc. 801, 802.</history>
+</law>

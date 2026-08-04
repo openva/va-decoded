@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="25" level="2">Virginia Membership Camping Act</unit>
+		<unit label="article" identifier="2" level="3">Registration</unit>
+	</structure>
+	<section_number>59.1-317</section_number>
+	<catch_line>Administration; unlawful offer or execution of membership camping contract</catch_line>
+	<text>
+		<section prefix="A">This chapter shall be administered by the Virginia Department of Agriculture and Consumer Services.
+		</section>
+		<section prefix="B">It shall be unlawful for any membership camping operator to offer to sell any membership camping contract in this Commonwealth unless he is registered with the Commissioner.
+		</section>
+		<section prefix="C">It shall be unlawful for any membership camping operator registered under this chapter to sell any membership camping contract which causes the total ratio of the outstanding and valid membership camping contracts to exceed a ratio of fifteen such contracts for each camping site.
+		</section>
+	</text>
+	<history>1985, c. 409; 1989, c. 676.</history>
+</law>

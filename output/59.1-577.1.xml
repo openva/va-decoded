@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="53" level="2">Consumer Data Protection Act</unit>
+	</structure>
+	<section_number>59.1-577.1</section_number>
+	<catch_line>(Effective January 1, 2026) Social media platforms; responsibilities and prohibitions related to minors</catch_line>
+	<text>
+		<section prefix="A">For purposes of this section, "minor" means any natural person younger than 16 years of age.
+		</section>
+		<section prefix="B">Any controller or processor that operates a social media platform shall (i) use commercially reasonable methods, such as a neutral age screen mechanism, to determine whether a user is a minor and (ii) limit a minor's use of such social media platform to one hour per day, per service or application, and allow a parent to give verifiable parental consent to increase or decrease the daily time limit.
+		</section>
+		<section prefix="C">Information collected for the purpose of determining a user's age shall not be used for any purpose other than age determination and provision of age-appropriate experiences. For purposes of this section, any controller or processor that operates a social media platform shall treat a user as a minor if the user's device communicates or signals that the user is or shall be treated as a minor, including through a browser plug-in or privacy setting, device setting, or other mechanism.
+		</section>
+		<section prefix="D">Nothing in this section shall be construed as requiring any controller or processor that operates a social media platform to give a parent who grants verifiable parental consent pursuant to subsection B any additional or special access to or control over the data or accounts of the minor.
+		</section>
+		<section prefix="E">No controller or processor that operates a social media platform shall withhold, degrade, lower the quality of, or increase the price of any online service, product, or feature to a user due to the controller or processor not being permitted to provide use of such social media platform beyond the one hour per day, per service or application, daily time limit under subsection B. However, nothing in this section shall be construed as (i) requiring a social media platform to provide an online service, product, or feature that requires the personal information of a known minor or (ii) prohibiting a social media platform from offering a different price, rate, level, quality, or selection of goods or services to a known minor, including offering goods or services for no fee, if such behavior is reasonably related to the exercise of rights pursuant to or compliance with the requirements of this chapter.
+		</section>
+	</text>
+	<history>2025, c. 703.</history>
+</law>

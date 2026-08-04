@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="8" level="3">Banks</unit>
+		<unit label="article" identifier="14" level="4">Appointment of Fdic as Receiver</unit>
+	</structure>
+	<section_number>6.2-932</section_number>
+	<catch_line>Payment of claims filed after prescribed period</catch_line>
+	<text>
+		Any claim filed after the 180-day claim period prescribed by § 6.2-931, and subsequently accepted by the FDIC as receiver or allowed by the receivership court, shall be entitled to share in the distribution of assets only to the extent of the undistributed assets in the hands of the FDIC as receiver on the date such claim is accepted or allowed.
+	</text>
+	<history>1983, c. 507, § 6.1-110.8; 2010, c. 794.</history>
+</law>

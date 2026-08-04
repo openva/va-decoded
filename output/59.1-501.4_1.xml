@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>59.1-501.4:1</section_number>
+	<catch_line>Consumer protection law governs</catch_line>
+	<text>
+		<section prefix="a">In this section, "consumer protection law" means a consumer protection statute, rule, or regulation, or other state executive or legislative action that has the effect of law and any applicable judicial or administrative decisions interpreting those statutes, rules, regulations or actions.
+		</section>
+		<section prefix="b">Except as otherwise provided in this section, this chapter does not limit, modify or supersede a consumer protection statute, administrative rule, regulation or procedure.
+		</section>
+		<section prefix="c">If a consumer protection law requires a term to be conspicuous, the standard of conspicuousness under the consumer protection law applies. However, a provision in the consumer protection law requiring a term to be conspicuous does not preclude that term from being presented electronically.
+		</section>
+		<section prefix="d">If a consumer protection law requires a writing or a signature, a record or authentication suffices.
+		</section>
+		<section prefix="e">If a consumer protection law addresses assent, consent, or manifestation of assent, the standard of assent, consent, or manifestation of assent under the consumer protection law applies and may be accomplished electronically.
+		</section>
+		<section prefix="f">The applicability of a consumer protection law is determined by that law as it would have applied in the absence of this chapter.
+		</section>
+	</text>
+	<history>2004, c. 794.</history>
+</law>

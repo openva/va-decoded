@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="43" level="2">Health Maintenance Organizations</unit>
+	</structure>
+	<section_number>38.2-4310.1</section_number>
+	<catch_line>Deposits</catch_line>
+	<text>
+		<section prefix="A">A health maintenance organization shall make its initial deposit prior to licensure in an amount not less than $300,000. The Commission shall review a health maintenance organization's deposit requirement at least once each year and may require an additional deposit in an amount equal to the greater of (i) the sum of all uncovered expenses for the most recent three months reported in accordance with § 38.2-4307.1 B or (ii) the value of liabilities representing uncovered health care expenses.
+		</section>
+		<section prefix="B">The Commission may reduce or waive, and also may direct the State Treasurer to return, any or all of a deposit requirement whenever the Commission, in its discretion, is satisfied that the assets of the health maintenance organization or its contracts with insurers, health services plans, governments, or other organizations are sufficient to assure the performance of its obligations to enrollees.
+		</section>
+		<section prefix="C">A health maintenance organization that has experienced an operating profit for the two most recent years may request that its deposit requirement be reduced. "Operating profit" shall be determined by reference to the annual statements filed by the health maintenance organization and shall mean the excess of total revenue, excluding net investment income, over total expenses.
+		</section>
+	</text>
+	<history>2000, c. 503.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="16" level="3">Protected Series</unit>
+	</structure>
+	<section_number>13.1-1099.13</section_number>
+	<catch_line>Waiver of cancellation upon dissolution; reinstatement of series limited liability company</catch_line>
+	<text>
+		<section prefix="A">If after dissolution the members of a series limited liability company waive the right to have the series limited liability company's affairs wound up and its existence canceled:
+			<section prefix="1">Each protected series of the series limited liability company ceases winding up; and
+			</section>
+			<section prefix="2">The provisions of § 13.1-1047.1 stating the results of the waiver apply to each protected series of the series limited liability company in accord with § 13.1-1094.
+			</section>
+		</section>
+		<section prefix="B">A protected series that has ceased to exist may have its existence reinstated in accordance with § 13.1-1050.4 as if it were a limited liability company, provided that the series limited liability company that established the protected series is in existence.
+		</section>
+	</text>
+	<history>2019, c. 636.</history>
+</law>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="III" level="2">Local Taxes</unit>
+		<unit label="chapter" identifier="32" level="3">Real Property Tax</unit>
+		<unit label="article" identifier="2.1" level="4">Local Deferral of Real Estate Tax</unit>
+	</structure>
+	<section_number>58.1-3219.3</section_number>
+	<catch_line>Limitations</catch_line>
+	<text>
+		The deferral program provided under this article shall not apply to the following:
+		<section prefix="1">Real estate which participates in the real estate tax relief or deferral program for the elderly or permanently or totally disabled pursuant to Article 2 (§ 58.1-3210 et seq.) of Chapter 32 of this title;
+		</section>
+		<section prefix="2">Persons who are delinquent on any portion of real estate taxes for which deferral is sought;
+		</section>
+		<section prefix="3">Real estate assessed on the basis of use value pursuant to Article 4 (§ 58.1-3230 et seq.) of Chapter 32 of this title.
+		</section>
+	</text>
+	<history>1990, cc. 858, 871.</history>
+</law>

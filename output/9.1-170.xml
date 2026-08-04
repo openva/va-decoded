@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="8" level="3">Law-Enforcement Expenditures</unit>
+	</structure>
+	<section_number>9.1-170</section_number>
+	<catch_line>Distribution of funds to towns</catch_line>
+	<text>
+		<section prefix="A">Towns located in eligible counties and which have police departments shall receive a percentage of the funds distributed to the county in accordance with § 9.1-169, such percentage to be equal to the ratio of the town's population as determined by the Department to the total population of the county.
+		</section>
+		<section prefix="B">Towns located in noneligible counties shall be assigned an adjusted crime index based on their population and the average of the three lowest predicted crime rates for cities. Such towns shall receive funds based on such adjusted crime index in the same manner as cities and eligible counties as provided in § 9.1-169.
+		</section>
+	</text>
+	<history>1979, c. 83, § 14.1-84.5; 1981, c. 485; 1998, c. 872, § 9-183.17; 2001, c. 844.</history>
+</law>

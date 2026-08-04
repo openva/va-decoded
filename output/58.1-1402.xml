@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Watercraft Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-1402</section_number>
+	<catch_line>Tax levied</catch_line>
+	<text>
+		There is hereby levied and imposed, in addition to all other taxes and fees of every kind now imposed by law, a tax upon the sale of every watercraft sold in this Commonwealth, upon the use in this Commonwealth of any watercraft and upon the gross receipts from the lease, charter or other use of any watercraft by a registered dealer in this Commonwealth. The amount of the tax to be collected shall be determined by applying the following rate against the sale price, market value or gross receipts:
+		<section prefix="1">Two percent of the sale price of each watercraft sold in the Commonwealth.
+		</section>
+		<section prefix="2">Two percent of the sale price of each watercraft not sold in the Commonwealth but required to be titled in the Commonwealth. However, if the watercraft is first required to be titled in the Commonwealth six months or more after its acquisition, the tax shall be two percent of the market value of such watercraft at the time it is titled.
+		</section>
+		<section prefix="3">Two percent of the gross receipts from the lease, charter or other use of any watercraft by a registered dealer.
+			The maximum tax levied under subdivisions 1 and 2 of this section shall be $2,000. A transaction taxed under subdivision 1 shall not be taxed under subdivision 2 or 3, nor shall the same transaction be taxed more than once under either subdivision 1, 2 or 3. Use of any watercraft by a registered dealer resulting in taxation under subdivision 3 shall not exempt any subsequent sale or use of such watercraft from being taxed under subdivision 1 or 2 if applicable.
+		</section>
+	</text>
+	<history>Code 1950, §§ 58-685.41, 58-685.44; 1981, c. 405; 1984, c. 675; 1987, c. 516; 1990, c. 666.</history>
+</law>

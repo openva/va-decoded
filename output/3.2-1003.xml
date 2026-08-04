@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions; Protection and Promotion of Agriculture</unit>
+		<unit label="chapter" identifier="10" level="3">Endangered Plant and Insect Species</unit>
+	</structure>
+	<section_number>3.2-1003</section_number>
+	<catch_line>Threatened and endangered species; prohibitions</catch_line>
+	<text>
+		<section prefix="A">It shall be unlawful for any person to dig, take, cut, process, or otherwise collect, remove, transport, possess, sell, offer for sale, or give away any species native to or occurring in the wild in the Commonwealth that are listed in this chapter or the regulations adopted hereunder as threatened or endangered, other than from such person's own land, except in accordance with the provisions of this chapter or the regulations adopted hereunder.
+		</section>
+		<section prefix="B">The Commissioner may require any person possessing endangered species or parts thereof to present such species or parts thereof for inspection and to give full information as to their origin and destination.
+		</section>
+	</text>
+	<history>1979, c. 372, §§ 3.1-1023, 3.1-1024; 2008, c. 860.</history>
+</law>

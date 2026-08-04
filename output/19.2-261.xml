@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="15" level="2">Trial and Its Incidents</unit>
+		<unit label="article" identifier="4" level="3">Trial by Jury</unit>
+	</structure>
+	<section_number>19.2-261</section_number>
+	<catch_line>Charging grand jury in presence of person selected as juror</catch_line>
+	<text>
+		The court shall not charge the grand jury in the presence of any person selected as a juror to try any person indicted by the said grand jury. A violation of this provision shall constitute reversible error in any criminal case tried by a jury composed of one or more such veniremen.
+	</text>
+	<history>Code 1950, § 8-208.20; 1973, c. 439; 1975, c. 495.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="2" level="3">Money and Currency</unit>
+		<unit label="article" identifier="1" level="4">Money of Account</unit>
+	</structure>
+	<section_number>6.2-200</section_number>
+	<catch_line>Money of account</catch_line>
+	<text>
+		<section prefix="A">The money of account of the Commonwealth shall be the dollar, cent, and mill. All accounts by public officers shall be kept in accordance with such monetary units.
+		</section>
+		<section prefix="B">No writing shall be invalid, nor shall the force of any account or entry be impaired, because a sum of money is expressed in other monetary units.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.50; 2010, c. 794.</history>
+</law>

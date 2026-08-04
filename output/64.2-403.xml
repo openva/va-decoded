@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="4" level="3">Wills</unit>
+		<unit label="article" identifier="1" level="4">Requisites and Execution</unit>
+	</structure>
+	<section_number>64.2-403</section_number>
+	<catch_line>Execution of wills; requirements</catch_line>
+	<text>
+		<section prefix="A">No will shall be valid unless it is in writing and signed by the testator, or by some other person in the testator's presence and by his direction, in such a manner as to make it manifest that the name is intended as a signature.
+		</section>
+		<section prefix="B">A will wholly in the testator's handwriting is valid without further requirements, provided that the fact that a will is wholly in the testator's handwriting and signed by the testator is proved by at least two disinterested witnesses.
+		</section>
+		<section prefix="C">A will not wholly in the testator's handwriting is not valid unless the signature of the testator is made, or the will is acknowledged by the testator, in the presence of at least two competent witnesses who are present at the same time and who subscribe the will in the presence of the testator. No form of attestation of the witnesses shall be necessary.
+		</section>
+	</text>
+	<history>Code 1950, § 64-51; 1968, c. 656, § 64.1-49; 2012, c. 614.</history>
+</law>

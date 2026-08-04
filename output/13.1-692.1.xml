@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="9" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-692.1</section_number>
+	<catch_line>Limitation on liability of officers and directors; exception</catch_line>
+	<text>
+		<section prefix="A">In any proceeding brought by or in the right of a corporation or brought by or on behalf of shareholders of the corporation, the damages assessed against an officer or director arising out of a single transaction, occurrence or course of conduct shall not exceed the lesser of:
+			<section prefix="1">The monetary amount, including the elimination of liability, specified in the articles of incorporation or, if approved by the shareholders, in the bylaws as a limitation on or elimination of the liability of the officer or director; or
+			</section>
+			<section prefix="2">The greater of (i) $100,000 or (ii) the amount of cash compensation received by the officer or director from the corporation during the 12 months immediately preceding the act or omission for which liability was imposed.
+			</section>
+		</section>
+		<section prefix="B">The liability of an officer or director shall not be limited as provided in this section if the officer or director engaged in willful misconduct or a knowing violation of the criminal law or of any federal or state securities law, including, without limitation, any claim of unlawful insider trading or manipulation of the market for any security.
+		</section>
+		<section prefix="C">No limitation or elimination of liability adopted pursuant to this section may be affected by any amendment of the articles of incorporation or bylaws with respect to any action or omission occurring before such amendment.
+		</section>
+	</text>
+	<history>1987, cc. 59, 257; 1988, c. 561; 2019, c. 734; 2020, c. 1226.</history>
+</law>

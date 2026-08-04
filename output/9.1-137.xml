@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="3" level="3">Criminal Justice Information System</unit>
+	</structure>
+	<section_number>9.1-137</section_number>
+	<catch_line>Article to control over other laws; exceptions</catch_line>
+	<text>
+		<section prefix="A">In the event any provisions of this article conflict with other provisions of law, the provision of this article shall control, except as provided in subsection B.
+		</section>
+		<section prefix="B">Notwithstanding the provisions of subsection A, this article shall not alter, amend, or supersede any provisions of the Code of Virginia relating to the collection, storage, dissemination, or use of juvenile records.
+		</section>
+	</text>
+	<history>1981, c. 632, § 9-196; 2001, c. 844.</history>
+</law>

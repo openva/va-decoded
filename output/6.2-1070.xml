@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="10" level="3">Entities Conducting Trust Business</unit>
+		<unit label="article" identifier="4" level="4">Multistate Trust Institutions</unit>
+	</structure>
+	<section_number>6.2-1070</section_number>
+	<catch_line>Conditions for approval</catch_line>
+	<text>
+		A trust office of an out-of-state trust institution shall not be acquired or established under this article unless:
+		<section prefix="1">In the case of a new trust office, the laws of the home state of the out-of-state trust institution permit state trust institutions to establish and maintain new trust offices in that state under substantially the same terms as set forth in this article.
+		</section>
+		<section prefix="2">In the case of a trust office to be established through the acquisition of a trust office, the laws of the home state of the out-of-state trust institution permit state trust institutions to establish and maintain trust offices in that state through the acquisition of trust offices under substantially the same terms as set forth in this article.
+		</section>
+	</text>
+	<history>1999, c. 835, § 6.1-32.39; 2010, c. 794.</history>
+</law>

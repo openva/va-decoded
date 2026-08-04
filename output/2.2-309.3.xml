@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="3.2" level="4">Office of the State Inspector General</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-309.3</section_number>
+	<catch_line>Additional powers and duties; adult corrections</catch_line>
+	<text>
+		<section prefix="A">The definitions found in § 53.1-1 shall apply mutatis mutandis to the terms used in this section.
+		</section>
+		<section prefix="B">In addition to the duties set forth in this chapter, the State Inspector General shall review, comment on, and make recommendations about, as appropriate, any reports prepared by the Department of Corrections and any critical incident data collected by the Department of Corrections in accordance with regulations adopted to identify issues related to quality of care, seclusion and restraint, medication usage, abuse and neglect, staff recruitment and training, and other systemic issues.
+		</section>
+		<section prefix="C">Nothing in this section shall be construed to grant the Office any authority over the operation and security of local jails that is not specified in other provisions of law.
+		</section>
+	</text>
+	<history>2013, cc. 717, 723; 2014, c. 788.</history>
+</law>

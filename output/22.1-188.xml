@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="12" level="2">Pupil Transportation</unit>
+		<unit label="article" identifier="2" level="3">Insurance Provisions</unit>
+	</structure>
+	<section_number>22.1-188</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article:
+		<section prefix="1">"Vehicle" means any vehicle owned or operated by, or owned or operated by any person under contract with, a county, city, town or school board in which any school pupils or personnel are transported at public expense to or from any public school.
+		</section>
+		<section prefix="2">"School pupils and personnel" includes school bus patrolmen when performing duties either in or outside a vehicle as prescribed by the Board of Education.
+		</section>
+	</text>
+	<history>1980, c. 559.</history>
+</law>

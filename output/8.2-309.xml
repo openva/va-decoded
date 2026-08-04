@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.2" level="1">Commercial Code - Sales</unit>
+		<unit label="part" identifier="3" level="2">General Obligation and Construction of Contract</unit>
+	</structure>
+	<section_number>8.2-309</section_number>
+	<catch_line>Absence of specific time provisions; notice of termination</catch_line>
+	<text>
+		<section prefix="1">The time for shipment or delivery or any other action under a contract if not provided in this title or agreed upon shall be a reasonable time.
+		</section>
+		<section prefix="2">Where the contract provides for successive performances but is indefinite in duration it is valid for a reasonable time but unless otherwise agreed may be terminated at any time by either party.
+		</section>
+		<section prefix="3">Termination of a contract by one party except on the happening of an agreed event requires that reasonable notification be received by the other party and an agreement dispensing with notification is invalid if its operation would be unconscionable.
+		</section>
+	</text>
+	<history>1964, c. 219.</history>
+</law>

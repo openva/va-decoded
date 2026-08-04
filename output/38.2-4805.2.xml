@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="48" level="2">Surplus Lines Insurance Law</unit>
+	</structure>
+	<section_number>38.2-4805.2</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this chapter, unless the context requires a different meaning:
+		"Admitted insurer" means an insurer licensed in the Commonwealth to engage in the business of insurance.
+		"Domestic surplus lines insurer" means a domestic surplus lines insurer licensed by the Commission pursuant to § 38.2-1024 with which a surplus lines broker may place surplus lines insurance.
+		"Eligible nonadmitted insurer" means a nonadmitted insurer approved by the Commission pursuant to § 38.2-4811 or a domestic surplus lines insurer licensed by the Commission pursuant to § 38.2-1024 with which a surplus lines broker may place surplus lines insurance.
+		"Home state" means (i) the state in which an insured maintains its principal place of business or, in the case of an individual, the individual's principal residence or (ii) if 100 percent of the insured risk is located out of the state referred to in clause (i), "home state" means the state to which the greatest percentage of the insured's taxable premium for that insurance contract is allocated. When more than one insured from an affiliated group are named insureds on a single insurance contract, "home state" means the state of the member of the affiliated group that has the largest percentage of premium attributed to it under such insurance contract.
+		"NAIC" means the National Association of Insurance Commissioners.
+		"Nonadmitted insurer" means an insurer not licensed to engage in the business of insurance in this Commonwealth. "Nonadmitted insurer" does not include a risk retention group as defined in § 38.2-5101.
+		"Principal place of business" means the state where the insured maintains its headquarters and where the insured's high-level officers direct, control, and coordinate the business activities of the insured.
+		"Property and casualty insurance" means the classes of insurance defined in §§ 38.2-109 through 38.2-122.2 and §§ 38.2-124 through 38.2-134.
+		"Surplus lines broker" means an individual or business entity licensed pursuant to Article 5.1 (§ 38.2-1857.1 et seq.) of Chapter 18 to sell, solicit, or negotiate insurance on properties, risks, or exposures located or to be performed in the Commonwealth with eligible nonadmitted insurers.
+		"Surplus lines insurance" means any property and casualty insurance permitted to be placed directly by an insured or through a surplus lines broker with an eligible nonadmitted insurer.
+	</text>
+	<history>2011, c. 498; 2018, c. 205.</history>
+</law>

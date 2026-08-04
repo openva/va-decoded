@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="56" level="1">Public Service Companies</unit>
+		<unit label="chapter" identifier="13" level="2">Railroad Corporations</unit>
+		<unit label="article" identifier="7" level="3">Safety Provisions</unit>
+	</structure>
+	<section_number>56-419.2</section_number>
+	<catch_line>Safety requirements applicable to vehicles transporting railroad employees</catch_line>
+	<text>
+		<section prefix="A">As used in this section "motor vehicle" shall mean any motor vehicle designed for highway use, owned or operated by a railroad, whether or not it is used on the highways of this Commonwealth.
+		</section>
+		<section prefix="B">No motor vehicle shall be used for transporting one or more railroad employees three miles or more to or from a work situs unless such motor vehicle is constructed and maintained so as to provide safe transportation for such employees.
+		</section>
+		<section prefix="C">The requirement of safe transportation as set out hereinabove shall include, but not be limited to, the construction and maintenance of motor vehicles so as:
+			<section prefix="1">To provide an enclosure providing full cover from the elements for all railroad employees being so transported. Such enclosure shall be heated.
+			</section>
+			<section prefix="2">To provide within said enclosure fixed seats with backs for all railroad employees being so transported.
+			</section>
+			<section prefix="3">To provide a means to effectively communicate to the driver of the motor vehicle the emergency needs of the railroad employees being so transported.
+			</section>
+		</section>
+		<section prefix="D">The provisions of this section shall not apply to any motor vehicle when an emergency arises and such vehicle must be used to meet such an emergency.
+		</section>
+		<section prefix="E">The failure of any railroad company to correct any violation of this section within seven days from receipt of written notice thereof shall subject said company to the penalty provided by § 56-449; provided, however, any unsafe vehicle shall be removed immediately from service until repaired.
+		</section>
+	</text>
+	<history>1977, c. 628.</history>
+</law>

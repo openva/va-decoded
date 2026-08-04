@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="3" level="4">Unitrust</unit>
+	</structure>
+	<section_number>64.2-1043</section_number>
+	<catch_line>Unitrust policy</catch_line>
+	<text>
+		<section prefix="A">In administering a unitrust under this article, a fiduciary shall follow a unitrust policy adopted under subdivision A 1 or 2 of § 64.2-1041 or amended or replaced under subdivision A 2 of § 64.2-1041.
+		</section>
+		<section prefix="B">A unitrust policy shall provide:
+			<section prefix="1">The unitrust rate or the method for determining the unitrust rate under § 64.2-1044;
+			</section>
+			<section prefix="2">The method for determining the applicable value under § 64.2-1045; and
+			</section>
+			<section prefix="3">The rules described in §§ 64.2-1044 through 64.2-1047 that apply in the administration of the unitrust, whether the rules are:
+				a. Mandatory, as provided in subsection A of § 64.2-1045 and subsection A of § 64.2-1046; or
+				b. Optional, as provided in § 64.2-1044, subsection B of § 64.2-1045, subsection B of § 64.2-1046, and subsection A of § 64.2-1047, to the extent the fiduciary elects to adopt those rules.
+			</section>
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="5" level="2">Dishonor</unit>
+	</structure>
+	<section_number>8.3A-503</section_number>
+	<catch_line>Notice of dishonor</catch_line>
+	<text>
+		<section prefix="a">The obligation of an endorser stated in § 8.3A-415 (a) and the obligation of a drawer stated § 8.3A-414 (d) may not be enforced unless (i) the endorser or drawer is given notice of dishonor of the instrument complying with this section or (ii) notice of dishonor is excused under § 8.3A-504 (b).
+		</section>
+		<section prefix="b">Notice of dishonor may be given by any person; may be given by any commercially reasonable means, including an oral, written, or electronic communication; and is sufficient if it reasonably identifies the instrument and indicates that the instrument has been dishonored or has not been paid or accepted. Return of an instrument given to a bank for collection is sufficient notice of dishonor.
+		</section>
+		<section prefix="c">Subject to § 8.3A-504 (c), with respect to an instrument taken for collection by a collecting bank, notice of dishonor must be given (i) by the bank before midnight of the next banking day following the banking day on which the bank receives notice of dishonor of the instrument, or (ii) by any other person within thirty days following the day on which the person receives notice of dishonor. With respect to any other instrument, notice of dishonor must be given within thirty days following the day on which dishonor occurs.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-443 through 6-461, 6-471, 6-496, 6-505; 1964, c. 219, §§ 8.3-501, 8.3-508; 1992, c. 693.</history>
+</law>

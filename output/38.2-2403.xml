@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="24" level="2">Fidelity and Surety Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-2403</section_number>
+	<catch_line>Limitation of liability on risks</catch_line>
+	<text>
+		In applying the limitation specified in § 38.2-208 to fidelity and surety risks, the net amount of exposure on any single risk shall be considered to be within the prescribed limit if the fidelity and surety insurer is protected against losses in excess of the limit by:
+		<section prefix="1">Reinsurance with a fidelity and surety insurer that enables the obligee or beneficiary to maintain an action on the contract against the insurer jointly with the reinsurer;
+		</section>
+		<section prefix="2">The cosuretyship of any other fidelity and surety insurer;
+		</section>
+		<section prefix="3">A deposit of property with it in pledge, or conveyance of property to it in trust for its protection;
+		</section>
+		<section prefix="4">A conveyance or mortgage of property for its protection;
+		</section>
+		<section prefix="5">A deposit or other disposition of a portion of any property held in trust so that no future sale, mortgage, pledge or other disposition can be made of that portion of the property except with the consent of the fidelity and surety insurer or by decree or order of a competent court whenever the obligation is entered into on behalf or on account of a person holding property in a fiduciary capacity; or
+		</section>
+		<section prefix="6">A guarantee by the Small Business Administrator that the surety shall not suffer loss as set forth in the Small Business Investment Act of 1958.
+		</section>
+	</text>
+	<history>Code 1950, §§ 38-343, 38-344; 1952, c. 317, § 38.1-641; 1986, c. 562; 1988, cc. 529, 548.</history>
+</law>

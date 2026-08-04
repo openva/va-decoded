@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="6" level="3">Retail Sales and Use Tax</unit>
+	</structure>
+	<section_number>58.1-612.1</section_number>
+	<catch_line>Tax collectible from marketplace facilitators; "marketplace facilitator" defined</catch_line>
+	<text>
+		<section prefix="A">As used in this chapter:
+			"Marketplace facilitator" means a person that contracts with a marketplace seller to facilitate, for consideration and regardless of whether such consideration is deducted as fees from transactions, the sale of such marketplace seller's products through a physical or electronic marketplace operated by such person. "Marketplace facilitator" does not include a payment processor business appointed by a merchant to handle payment transactions from various channels, such as credit cards and debit cards, and whose sole activity with respect to marketplace sales is to handle transactions between two parties. "Marketplace facilitator" does not include a platform or forum that exclusively provides internet advertising services, including any advertisements that may list products for sale, so long as such platform or forum does not also engage directly or indirectly through one or more commonly controlled persons, as defined in subsection D of § 58.1-612, in the activities described in subsection C.
+			"Marketplace seller" means a person that is not a commonly controlled person, as defined in subsection D of § 58.1-612, to a marketplace facilitator and that makes sales through any physical or electronic marketplace operated by such marketplace facilitator, even if such seller would not have been required to collect and remit sales and use tax had the sale not been made through such marketplace.
+		</section>
+		<section prefix="B">The tax levied under this chapter shall be collectible from all persons that are marketplace facilitators that have sufficient contact with Virginia to require registration under subsection C.
+		</section>
+		<section prefix="C">A marketplace facilitator shall be deemed to have sufficient activity within the Commonwealth to require registration under § 58.1-613 if it meets at least one requirement in each of subdivisions 1, 2, and 3:
+			<section prefix="1">It engages, either directly or indirectly, through a commonly controlled person as defined in subsection D of § 58.1-612 in any of the following activities:
+				a. Transmitting or communicating an offer or acceptance between a purchaser and a marketplace seller;
+				b. Owning or operating the infrastructure, whether electronic or physical, or technology that brings purchasers and marketplace sellers together; or
+				c. Providing a virtual currency that purchasers are allowed or required to use to purchase products from the marketplace seller;
+			</section>
+			<section prefix="2">It engages in any of the following activities with respect to a marketplace seller's products:
+				a. Payment processing;
+				b. Fulfillment or storage;
+				c. Listing products for sale;
+				d. Setting prices;
+				e. Branding sales as those of the marketplace facilitator; or
+				f. Providing customer service or accepting or assisting with returns or exchanges; and
+			</section>
+			<section prefix="3">It establishes economic nexus through either of the following activities:
+				a. Facilitating sales in Virginia that, in the aggregate, generate more than $100,000 in gross revenue, or other minimum amount as may be required by federal law, for such marketplace facilitator. A marketplace facilitator may exceed this threshold based on sales for either the previous or current calendar year. In determining the amount of a marketplace facilitator's gross revenues, the sales made by all commonly controlled persons, as defined in subsection D of § 58.1-612, shall be aggregated; or
+				b. Facilitating 200 or more separate retail sale transactions, or other minimum amount as may be required by federal law, in the Commonwealth in the previous or current calendar year. In determining the total number of retail sales transactions attributable to a marketplace facilitator, the sales made by all commonly controlled persons, as defined in subsection D of § 58.1-612, shall be aggregated.
+			</section>
+		</section>
+		<section prefix="D">1. A marketplace facilitator shall be considered a dealer for purposes of this chapter and shall collect the tax imposed by this chapter on all transactions that it facilitates through its marketplace.
+			<section prefix="2">No marketplace seller shall collect sales and use tax on a transaction made through a marketplace facilitator's marketplace.
+			</section>
+			<section prefix="3">Notwithstanding the provisions of subdivisions 1 and 2, the Department shall allow for a waiver from the requirements of subdivisions 1 and 2 if a marketplace facilitator demonstrates, to the satisfaction of the Commissioner, that either (i) all of its marketplace sellers already are registered dealers under § 58.1-613 or (ii) the marketplace seller has sufficient nexus to require registration under § 58.1-613 and that collection of the tax by the marketplace facilitator for such marketplace seller would create an undue burden or hardship for either party. If such waiver is granted, the tax levied under this chapter shall be collectible from the marketplace seller. The Department shall develop guidelines that establish (a) the criteria for obtaining a waiver pursuant to this section, (b) the process and procedure for a marketplace facilitator to apply for a waiver, and (c) the process for providing notice to an affected marketplace facilitator and marketplace seller of a waiver obtained pursuant to this subdivision.
+			</section>
+		</section>
+		<section prefix="E">A marketplace facilitator shall be relieved from liability, including penalties and interest, for the incorrect collection or remittance of sales and use tax on transactions it facilitates or for which it is the seller if the error is due to reasonable reliance on (i) an invalid exemption certificate provided by the marketplace seller or the purchaser; (ii) incorrect or insufficient information provided by the Commonwealth; or (iii) incorrect or insufficient information provided by the marketplace seller or purchaser regarding the tax classification or proper sourcing of an item or transaction, provided that the marketplace facilitator can demonstrate it made a reasonable effort to obtain accurate information from the marketplace seller or purchaser. The relief from liability afforded to the marketplace facilitator pursuant to this subsection shall not exceed the total amount of tax due from the marketplace facilitator on the incorrect transaction independent of any penalties or interest that would have otherwise applied. Any deficiency resulting from incorrect information provided by the marketplace seller or as the result of an audit shall be the liability of the marketplace seller.
+		</section>
+		<section prefix="F">A marketplace facilitator is the sole entity subject to audit by the Department for sales and use tax collection for all transactions facilitated by the marketplace facilitator unless (i) the marketplace facilitator can demonstrate that its failure to collect the proper tax was due to incorrect information provided by the marketplace seller or (ii) the marketplace seller is subject to a waiver granted pursuant to subdivision D 3.
+		</section>
+		<section prefix="G">If a marketplace facilitator lacks physical presence in the Commonwealth and has both facilitated and made direct sales into the Commonwealth, both types of sales shall be considered in determining whether it has established economic nexus.
+		</section>
+		<section prefix="H">When a marketplace seller that is not otherwise required to register for the collection of the tax under any of the provisions contained in subdivisions C 1 through 9 of § 58.1-612 makes both direct sales and sales on a marketplace facilitator's marketplace, only the marketplace seller's direct sales shall be considered in determining whether the marketplace seller is required to register for the collection of the tax under subdivision C 10 or 11 of § 58.1-612.
+		</section>
+		<section prefix="I">No class action shall be brought against a marketplace facilitator in any court of the Commonwealth on behalf of customers arising from or in any way related to an overpayment of sales and use tax collected on sales facilitated by the marketplace facilitator, regardless of whether such claim is characterized as a tax refund claim. Nothing in this subsection shall affect a customer's right to seek a refund on an individual basis.
+		</section>
+	</text>
+	<history>2019, cc. 815, 816, 854.</history>
+</law>

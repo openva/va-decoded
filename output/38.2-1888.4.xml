@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="18" level="2">Insurance Agents</unit>
+		<unit label="article" identifier="9" level="3">Travel Insurance</unit>
+	</structure>
+	<section_number>38.2-1888.4</section_number>
+	<catch_line>Travel administrators</catch_line>
+	<text>
+		<section prefix="A">Notwithstanding any other provision of this title, no person shall act or represent itself as a travel administrator for travel insurance in the Commonwealth unless that person:
+			<section prefix="1">Is a licensed property and casualty insurance agent in the Commonwealth for activities permitted under that agent license; or
+			</section>
+			<section prefix="2">Holds a valid managing general agent (MGA) license in the Commonwealth.
+			</section>
+		</section>
+		<section prefix="B">An insurer is responsible for the acts of a travel administrator administering travel insurance underwritten by the insurer and is responsible for ensuring that the travel administrator maintains all books and records relevant to the insurer to be made available by the travel administrator to the Commissioner upon request.
+		</section>
+	</text>
+	<history>2019, cc. 266, 346.</history>
+</law>

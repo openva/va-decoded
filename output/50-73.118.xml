@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="8" level="3">Winding up Partnership Business</unit>
+	</structure>
+	<section_number>50-73.118</section_number>
+	<catch_line>Partnership continues after dissolution</catch_line>
+	<text>
+		<section prefix="A">Subject to subsection B, a partnership continues after dissolution only for the purpose of winding up its business. The partnership is terminated when the winding up of its business is completed.
+		</section>
+		<section prefix="B">At any time after the dissolution of a partnership and before the winding up of its business is completed, all of the partners, including any dissociating partner other than a wrongfully dissociating partner, may waive the right to have the partnership's business wound up and the partnership terminated. In that event:
+			<section prefix="1">The partnership resumes carrying on its business as if dissolution had never occurred, and any liability incurred by the partnership or a partner after the dissolution and before the waiver is determined as if dissolution had never occurred; and
+			</section>
+			<section prefix="2">The rights of a third party accruing under subdivision 1 of § 50-73.120 or arising out of conduct in reliance on the dissolution before the third party knew or received a notification of the waiver may not be adversely affected.
+			</section>
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

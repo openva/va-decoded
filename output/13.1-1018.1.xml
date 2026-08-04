@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="3" level="3">Registered Office and Agent; Principal Office</unit>
+	</structure>
+	<section_number>13.1-1018.1</section_number>
+	<catch_line>Change of principal office</catch_line>
+	<text>
+		<section prefix="A">A limited liability company or a foreign limited liability company registered pursuant to Article 10 (§ 13.1-1051 et seq.) may change its principal office upon filing in the office of the Commission a statement of change on a form supplied by the Commission that sets forth:
+			<section prefix="1">The name of the limited liability company or foreign limited liability company;
+			</section>
+			<section prefix="2">The address of its current principal office; and
+			</section>
+			<section prefix="3">The post office address, including the street and number, if any, of the new principal office.
+			</section>
+		</section>
+		<section prefix="B">A statement of change shall forthwith be delivered to the Commission for filing by a domestic limited liability company or a foreign limited liability company registered pursuant to Article 10 (§ 13.1-1051 et seq.) whenever the address of its principal office ceases to be the office at which the principal executive offices of the domestic or foreign limited liability company are located.
+		</section>
+	</text>
+	<history>2009, c. 450; 2016, c. 288.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="4.1" level="1">Alcoholic Beverage and Cannabis Control</unit>
+		<unit label="subtitle" identifier="I" level="2">Alcoholic Beverage Control Act</unit>
+		<unit label="chapter" identifier="3" level="3">Prohibited Practices; Penalties; Procedural Matters</unit>
+		<unit label="article" identifier="1" level="4">Prohibited Practices Generally</unit>
+	</structure>
+	<section_number>4.1-313</section_number>
+	<catch_line>Possessing, transporting, etc., alcoholic beverages illegally acquired; penalty</catch_line>
+	<text>
+		<section prefix="A">No person, other than a common carrier, shall have, possess, keep, carry, ship or transport alcoholic beverages upon which the tax imposed by the laws of the United States has not been paid.
+		</section>
+		<section prefix="B">No person shall possess alcoholic beverages in amounts in excess of the limits provided in § 4.1-311 in containers not bearing evidence that they have been purchased from the Board or a person licensed to sell them, or other evidence that the tax due to the Commonwealth or the markup required by the Board has been paid, unless it can be proved that the alcoholic beverages were lawfully acquired by the possessor.
+		</section>
+		<section prefix="C">Any person convicted of a violation of this section shall be guilty of a Class 1 misdemeanor.
+		</section>
+	</text>
+	<history>Code 1950, § 4-75; 1954, c. 484; 1966, c. 408; 1974, c. 460; 1975, c. 481; 1976, c. 36; 1984, c. 603; 1993, c. 866.</history>
+</law>

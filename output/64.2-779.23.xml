@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.1" level="4">Uniform Trust Decanting Act</unit>
+	</structure>
+	<section_number>64.2-779.23</section_number>
+	<catch_line>Later-discovered property</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection C, if exercise of the decanting power was intended to distribute all the income or principal of the first trust to one or more second trusts, later-discovered property belonging to the first trust and property paid to or acquired by the first trust after the exercise of the power is part of the trust estate of the second trust or trusts.
+		</section>
+		<section prefix="B">Except as otherwise provided in subsection C, if exercise of the decanting power was intended to distribute less than all the income or principal of the first trust to one or more second trusts, later-discovered property belonging to the first trust or property paid to or acquired by the first trust after exercise of the power remains part of the trust estate of the first trust.
+		</section>
+		<section prefix="C">An authorized fiduciary may provide in an exercise of the decanting power or by the terms of a second trust for disposition of later-discovered property belonging to the first trust or property paid to or acquired by the first trust after exercise of the power.
+		</section>
+	</text>
+	<history>2017, c. 592.</history>
+</law>

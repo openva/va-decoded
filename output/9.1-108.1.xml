@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>9.1-108.1</section_number>
+	<catch_line>Executive Committee; authority; effect of certain actions</catch_line>
+	<text>
+		<section prefix="A">The Board may establish an Executive Committee consisting of the Chairman and seven members of the Board appointed by the Chair. The Chair shall serve a term coincident with his term of office as Chairman of the Board and the other members of the Executive Committee shall serve terms of two years. Five members of the Executive Committee shall constitute a quorum.
+		</section>
+		<section prefix="B">The Executive Committee shall have the authority to take any action authorized by this chapter including, but not limited to, hearing appeals by a regulant of a determination of a violation of regulations promulgated by the Board.
+		</section>
+		<section prefix="C">Any decision rendered by the Executive Committee on appeals by a regulant of a determination of a violation of regulations promulgated by the Board shall have the same effect as if made by the Board and shall be subject to judicial review in accordance with the Administrative Process Act (§ 2.2-4000 et seq.).
+			All other actions of the Executive Committee shall be acted upon by the full Board as soon as practicable.
+		</section>
+	</text>
+	<history>2008, c. 305.</history>
+</law>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="II" level="2">Depository Institutions and Trust Organizations</unit>
+		<unit label="chapter" identifier="8" level="3">Banks</unit>
+		<unit label="article" identifier="9" level="4">Investments and Loans</unit>
+	</structure>
+	<section_number>6.2-873</section_number>
+	<catch_line>Additional permissible investments in real estate</catch_line>
+	<text>
+		<section prefix="A">In addition to the ownership of real estate permitted in § 6.2-872, a bank may invest:
+			<section prefix="1">In real estate (i) for the purpose of producing income or for inventory and sale or (ii) for improvement, including the erection of buildings thereon, for sale or rental purposes. The bank may hold, sell, lease, operate, or otherwise exercise the rights of an owner of any such property; and
+			</section>
+			<section prefix="2">In the stock or other securities or obligations of a controlled subsidiary corporation under § 6.2-885 or 6.2-886 formed or utilized for the purposes in subdivision 1.
+			</section>
+		</section>
+		<section prefix="B">Unless specifically authorized by the Commissioner:
+			<section prefix="1">A bank shall not invest more than five percent in the aggregate of its assets in the investments authorized in subdivisions A 1 and A 2.
+			</section>
+			<section prefix="2">A bank shall not invest and lend in any one project an amount in excess of the loan limit to one borrower as provided in § 6.2-875.
+			</section>
+		</section>
+	</text>
+	<history>1988, c. 296, § 6.1-59.1; 2010, c. 794.</history>
+</law>

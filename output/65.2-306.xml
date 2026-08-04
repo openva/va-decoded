@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="3" level="2">Application and Effect of Title</unit>
+	</structure>
+	<section_number>65.2-306</section_number>
+	<catch_line>When compensation not allowed for injury or death; burden of proof</catch_line>
+	<text>
+		<section prefix="A">No compensation shall be awarded to the employee or his dependents for an injury or death caused by:
+			<section prefix="1">The employee's willful misconduct or intentional self-inflicted injury;
+			</section>
+			<section prefix="2">The employee's attempt to injure another;
+			</section>
+			<section prefix="3">The employee's intoxication;
+			</section>
+			<section prefix="4">The employee's willful failure or refusal to use a safety appliance or perform a duty required by statute;
+			</section>
+			<section prefix="5">The employee's willful breach of any reasonable rule or regulation adopted by the employer and brought, prior to the accident, to the knowledge of the employee; or
+			</section>
+			<section prefix="6">The employee's use of a nonprescribed controlled substance identified as such in Chapter 34 (§ 54.1-3400 et seq.) of Title 54.1.
+			</section>
+		</section>
+		<section prefix="B">The person or entity asserting any of the defenses in this section shall have the burden of proof with respect thereto. However, if the employer raises as a defense the employee's intoxication or use of a nonprescribed controlled substance identified as such in Chapter 34 of Title 54.1, and there was at the time of the injury an amount of alcohol or nonprescribed controlled substance in the bodily fluids of the employee which (i) is equal to or greater than the standard set forth in § 18.2-266, or (ii) in the case of use of a nonprescribed controlled substance, yields a positive test result from a Substance Abuse and Mental Health Services Administration (SAMHSA) certified laboratory, there shall be a rebuttable presumption, which presumption shall not be available if the employee dies as a result of his injuries, that the employee was intoxicated due to the consumption of alcohol or using a nonprescribed controlled substance at the time of his injury. The employee may overcome such a presumption by clear and convincing evidence.
+		</section>
+	</text>
+	<history>Code 1950, § 65-35; 1968, c. 660, § 65.1-38; 1991, cc. 166, 355; 1994, cc. 600, 804; 2002, c. 636.</history>
+</law>

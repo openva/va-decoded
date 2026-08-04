@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="40.1" level="1">Labor and Employment</unit>
+		<unit label="chapter" identifier="3.2" level="2">Asbestos Notification</unit>
+	</structure>
+	<section_number>40.1-51.22</section_number>
+	<catch_line>Enforcement of chapter</catch_line>
+	<text>
+		<section prefix="A">Any person who commits the following violations of this chapter shall be subject to a civil penalty of up to $1,000 for an initial violation and $5,000 for each subsequent violation:
+			<section prefix="1">Failure to provide the notification required by § 40.1-51.20;
+			</section>
+			<section prefix="2">Improper notification as required by § 40.1-51.20. Improper notification shall include, but not be limited to, failing to provide required fees, intentionally failing to complete all required sections of the form, failing to properly amend a notification and providing information on the form; or
+			</section>
+			<section prefix="3">Any violations of safety or health provisions of Title 40.1 or any standard, rule or regulation adopted pursuant thereto, discovered during an inspection conducted pursuant to § 40.1-51.21 shall be enforced separately pursuant to § 40.1-49.4.
+				All procedural rights guaranteed to employers pursuant to § 40.1-49.4 shall apply to the penalties set under this section.
+			</section>
+		</section>
+		<section prefix="B">Investigation and enforcement for violations of this chapter shall be carried out by the Department of Labor and Industry. Prosecutions under this chapter shall be the responsibility of the Office of the Attorney General of Virginia. Civil penalties imposed for violation of this chapter shall be paid into the general fund.
+		</section>
+	</text>
+	<history>1992, c. 477.</history>
+</law>

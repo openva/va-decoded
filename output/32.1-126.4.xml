@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="5" level="2">Regulation of Medical Care Facilities and Services</unit>
+		<unit label="article" identifier="1" level="3">Hospital and Nursing Home Licensure and Inspection</unit>
+	</structure>
+	<section_number>32.1-126.4</section_number>
+	<catch_line>Hospital standing orders or protocols for certain vaccinations</catch_line>
+	<text>
+		<section prefix="A">A hospital may provide or arrange for the administration under a standing order or protocol approved by a member or committee of the hospital's medical staff of (i) influenza vaccinations and (ii) pneumococcal vaccinations, thus waiving the requirement for specific written physician orders for influenza and pneumococcal immunizations. However, no such standing order or protocol shall supersede a physician's authority to issue specific written orders relating to immunizations.
+		</section>
+		<section prefix="B">Any standing order or protocol authorized by this section shall require that the vaccinations be administered in accordance with the most recent recommendations of the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention after (i) ascertaining that the vaccination is not medically contraindicated for the patient, (ii) determining the patient's wishes and any religious objections, and (iii) obtaining informed consent from the patient or his legal representative.
+		</section>
+		<section prefix="C">Vaccinations administered under a standing order or protocol shall be documented in the patient's health record.
+		</section>
+	</text>
+	<history>2006, c. 432.</history>
+</law>

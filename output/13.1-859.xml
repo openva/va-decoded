@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-859</section_number>
+	<catch_line>Resignation of directors</catch_line>
+	<text>
+		<section prefix="A">A director may resign at any time by delivering written notice to the board of directors, its chairman, the president, or the secretary.
+		</section>
+		<section prefix="B">A resignation is effective when the notice is delivered unless the notice specifies a later effective time. If a resignation is made effective at a later time, the board of directors may fill the pending vacancy before the effective time if the board of directors provides that the successor does not take office until the effective time.
+		</section>
+		<section prefix="C">Any person who has resigned as a director of a corporation, or whose name is incorrectly on file with the Commission as a director of a corporation, may file a statement to that effect with the Commission.
+		</section>
+		<section prefix="D">Upon the resignation of a director, the corporation may file an amended annual report with the Commission indicating the resignation of the director and the successor in office, if any.
+		</section>
+	</text>
+	<history>1985, c. 522; 1991, c. 124; 2007, c. 925.</history>
+</law>

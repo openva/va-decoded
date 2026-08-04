@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="4" level="2">Liability of Parties</unit>
+	</structure>
+	<section_number>8.3A-409</section_number>
+	<catch_line>Acceptance of draft; certified check</catch_line>
+	<text>
+		<section prefix="a">"Acceptance" means the drawee's signed agreement to pay a draft as presented. It must be written on the draft and may consist of the drawee's signature alone. Acceptance may be made at any time and becomes effective when notification pursuant to instructions is given or the accepted draft is delivered for the purpose of giving rights on the acceptance to any person.
+		</section>
+		<section prefix="b">A draft may be accepted although it has not been signed by the drawer, is otherwise incomplete, is overdue, or has been dishonored.
+		</section>
+		<section prefix="c">If a draft is payable at a fixed period after sight and the acceptor fails to date the acceptance, the holder may complete the acceptance by supplying a date in good faith.
+		</section>
+		<section prefix="d">"Certified check" means a check accepted by the bank on which it is drawn. Acceptance may be made as stated in subsection (a) or by a writing on the check which indicates that the check is certified. The drawee of a check has no obligation to certify the check, and refusal to certify is not dishonor of the check.
+		</section>
+	</text>
+	<history>Code 1950, §§ 6-485 through 6-491, 6-541 through 6-543; 1964, c. 219, §§ 8.3-410, 8.3-411; 1992, c. 693.</history>
+</law>

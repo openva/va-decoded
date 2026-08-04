@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="7" level="3">Breach of Contract</unit>
+	</structure>
+	<section_number>59.1-507.3</section_number>
+	<catch_line>Cure of breach of contract</catch_line>
+	<text>
+		<section prefix="a">A party in breach of contract may cure the breach at its own expense if:
+			<section prefix="1">the time for performance has not expired and the party in breach seasonably notifies the aggrieved party of its intent to cure and, within the time for performance, makes a conforming performance;
+			</section>
+			<section prefix="2">the party in breach had reasonable grounds to believe the performance would be acceptable with or without monetary allowance, seasonably notifies the aggrieved party of its intent to cure, and provides a conforming performance within a further reasonable time after performance was due; or
+			</section>
+			<section prefix="3">in a case not governed by paragraph (1) or (2), the party in breach seasonably notifies the aggrieved party of its intent to cure and promptly provides a conforming performance before cancellation by the aggrieved party.
+			</section>
+		</section>
+		<section prefix="b">In a license other than in a mass-market transaction, if the agreement required a single delivery of a copy and the party receiving tender of delivery was required to accept a nonconforming copy because the nonconformity was not a material breach of contract, the party in breach shall promptly and in good faith make an effort to cure if:
+			<section prefix="1">the party in breach receives seasonable notice of the specific nonconformity and a demand for cure of it; and
+			</section>
+			<section prefix="2">the cost of the effort to cure does not disproportionately exceed the direct damages caused by the nonconformity to the aggrieved party.
+			</section>
+		</section>
+		<section prefix="c">A party may not cancel a contract or refuse a performance because of a breach of contract that has been seasonably cured under subsection (a). However, notice of intent to cure does not preclude refusal or cancellation for the uncured breach.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

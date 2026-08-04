@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.6" level="4">Computer Recovery and Recycling Act</unit>
+	</structure>
+	<section_number>10.1-1425.30</section_number>
+	<catch_line>Reporting requirements</catch_line>
+	<text>
+		Each manufacturer shall publish a report on its publicly accessible website no later than January 31 of each year that includes:
+		<section prefix="1">The name and contact information of the representative responsible for the manufacturer's recovery plan;
+		</section>
+		<section prefix="2">The weight of computer equipment collected, recycled, and reused during the preceding calendar year; and
+		</section>
+		<section prefix="3">Documentation certifying that the collection, recycling, and reuse of computer equipment complies with § 10.1-1425.38 regarding sound environmental management.
+		</section>
+	</text>
+	<history>2008, c. 541.</history>
+</law>

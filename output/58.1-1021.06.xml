@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="10" level="3">Cigarette Tax</unit>
+		<unit label="article" identifier="2.1" level="4">Tobacco Products Tax</unit>
+	</structure>
+	<section_number>58.1-1021.06</section_number>
+	<catch_line>Delivery sales of liquid nicotine and nicotine vapor products</catch_line>
+	<text>
+		<section prefix="A">A retail dealer shall not make a delivery sale of liquid nicotine or nicotine vapor products without a license issued pursuant to § 58.1-1021.04:1. Such delivery sales and any shipment shall be made only to a legal consumer.
+		</section>
+		<section prefix="B">A retail dealer may not ship for delivery sale any liquid nicotine or nicotine vapor products without first making a good faith effort to verify the age of the purchaser of the liquid nicotine or nicotine vapor products through an independent age verification software, service, or technology that compares information available from public records to the personal information entered by the purchaser during the ordering process that establishes the purchaser is of legal age or older.
+		</section>
+		<section prefix="C">Prior to shipment of liquid nicotine or nicotine vapor products for a delivery sale, a retail dealer shall be fully paid for the purchase and shall accept payment from the consumer by a check drawn on an account in the consumer's name, by a credit card issued in the consumer's name, or by a debit card issued in the consumer's name. A retail dealer taking a delivery sale may request the electronic mail address of the consumer as a condition of completing such delivery sale.
+		</section>
+	</text>
+	<history>2024, cc. 796, 821.</history>
+</law>

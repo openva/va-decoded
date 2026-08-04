@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4" level="1">Commercial Code — Bank Deposits and Collections</unit>
+		<unit label="part" identifier="3" level="2">Collection of Items: Payor Banks</unit>
+	</structure>
+	<section_number>8.4-303</section_number>
+	<catch_line>When items subject to notice, stop-payment order, legal process or setoff; order in which items may be charged or certified</catch_line>
+	<text>
+		<section prefix="a">Any knowledge, notice or stop-payment order received by, legal process served upon, or setoff exercised by a payor bank, comes too late to terminate, suspend or modify the bank's right or duty to pay an item or to charge its customer's account for the item if the knowledge, notice, stop-payment order or legal process is received or served and a reasonable time for the bank to act thereon expires or the setoff is exercised after the earliest of the following:
+			<section prefix="1">the bank accepts or certifies the item;
+			</section>
+			<section prefix="2">the bank pays the item in cash;
+			</section>
+			<section prefix="3">the bank settles for the item without having a right to revoke the settlement under statute, clearing-house rule or agreement;
+			</section>
+			<section prefix="4">the bank becomes accountable for the amount of the item under § 8.4-302 dealing with the payor bank's responsibility for late return of items; or
+			</section>
+			<section prefix="5">with respect to checks, a cut-off hour no earlier than one hour after the opening of the next banking day after the banking day on which the bank received the check and no later than the close of that next banking day or, if no cut-off hour is fixed, the close of the next business day after the banking day on which the bank received the check.
+			</section>
+		</section>
+		<section prefix="b">Subject to subsection (a) items may be accepted, paid, certified or charged to the indicated account of its customer in any order convenient to the bank.
+		</section>
+	</text>
+	<history>1964, c. 219; 1992, c. 693.</history>
+</law>

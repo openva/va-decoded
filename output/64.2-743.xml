@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="5" level="4">Creditor's Claims; Spendthrift and Discretionary Trusts</unit>
+	</structure>
+	<section_number>64.2-743</section_number>
+	<catch_line>Spendthrift provision</catch_line>
+	<text>
+		<section prefix="A">A spendthrift provision is valid only if it restrains both voluntary and involuntary transfer of a beneficiary's interest.
+		</section>
+		<section prefix="B">A term of a trust providing that the interest of a beneficiary is held subject to a "spendthrift trust," or words of similar import, is sufficient to restrain both voluntary and involuntary transfer of the beneficiary's interest.
+		</section>
+		<section prefix="C">A beneficiary may not transfer an interest in a trust in violation of a valid spendthrift provision and, except as otherwise provided in this article, a creditor or assignee of the beneficiary may not reach the interest or a distribution by the trustee before its receipt by the beneficiary.
+		</section>
+	</text>
+	<history>2005, c. 935, § 55-545.02; 2012, c. 614.</history>
+</law>

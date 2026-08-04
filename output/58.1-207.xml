@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="2" level="3">Department of Taxation</unit>
+	</structure>
+	<section_number>58.1-207</section_number>
+	<catch_line>Collection and publication of property tax data</catch_line>
+	<text>
+		<section prefix="A">The Tax Commissioner annually shall make and issue comprehensive assessment sales ratio studies for each major class of real property in each county or city in the Commonwealth. In order to determine the degree of assessment uniformity in the assessment of major classes of property within each county or city, the Tax Commissioner shall compute measures of central tendency and dispersion in accordance with appropriate standard statistical techniques.
+		</section>
+		<section prefix="B">The Tax Commissioner shall construct and maintain a system for the collection and analysis of real property tax facts so as to enable him to make intrajurisdictional comparisons as well as intercounty and intercity comparisons based on assessment sales ratio data.
+		</section>
+		<section prefix="C">The Tax Commissioner shall publish annually the findings of the assessment sales ratio studies.
+		</section>
+		<section prefix="D">The appropriate county or city assessing officer shall post annually in his office the assessment sales ratio studies as published by the Tax Commissioner.
+		</section>
+	</text>
+	<history>Code 1950, § 58-33.2; 1975, c. 617; 1984, c. 675.</history>
+</law>

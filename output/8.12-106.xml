@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.12" level="1">Controllable Electronic Records</unit>
+	</structure>
+	<section_number>8.12-106</section_number>
+	<catch_line>Discharge of account debtor on controllable account or controllable payment intangible</catch_line>
+	<text>
+		<section prefix="a">Discharge of account debtor. An account debtor on a controllable account or controllable payment intangible may discharge its obligation by paying:
+			<section prefix="1">the person having control of the controllable electronic record that evidences the controllable account or controllable payment intangible; or
+			</section>
+			<section prefix="2">except as provided in subsection (b), a person that formerly had control of the controllable electronic record.
+			</section>
+		</section>
+		<section prefix="b">Content and effect of notification. Subject to subsection (d), the account debtor may not discharge its obligation by paying a person that formerly had control of the controllable electronic record if the account debtor receives a notification that:
+			<section prefix="1">is signed by a person that formerly had control or the person to which control was transferred;
+			</section>
+			<section prefix="2">reasonably identifies the controllable account or controllable payment intangible;
+			</section>
+			<section prefix="3">notifies the account debtor that control of the controllable electronic record that evidences the controllable account or controllable payment intangible was transferred;
+			</section>
+			<section prefix="4">identifies the transferee, in any reasonable way, including by name, identifying number, cryptographic key, office, or account number; and
+			</section>
+			<section prefix="5">provides a commercially reasonable method by which the account debtor is to pay the transferee.
+			</section>
+		</section>
+		<section prefix="c">Discharge following effective notification. After receipt of a notification that complies with subsection (b), the account debtor may discharge its obligation by paying in accordance with the notification and may not discharge the obligation by paying a person that formerly had control.
+		</section>
+		<section prefix="d">When notification ineffective. Subject to subsection (h), notification is ineffective under subsection (b):
+			<section prefix="1">unless, before the notification is sent, the account debtor and the person that, at that time, had control of the controllable electronic record that evidences the controllable account or controllable payment intangible agree in a signed record to a commercially reasonable method by which a person may furnish reasonable proof that control has been transferred;
+			</section>
+			<section prefix="2">to the extent an agreement between the account debtor and seller of a payment intangible limits the account debtor's duty to pay a person other than the seller and the limitation is effective under law other than this article; or
+			</section>
+			<section prefix="3">at the option of the account debtor, if the notification notifies the account debtor to:
+			</section>
+		</section>
+		<section prefix="A">divide a payment;
+		</section>
+		<section prefix="B">make less than the full amount of an installment or other periodic payment; or
+		</section>
+		<section prefix="C">pay any part of a payment by more than one method or to more than one person.
+		</section>
+		<section prefix="e">Proof of transfer of control. Subject to subsection (h), if requested by the account debtor, the person giving the notification under subsection (b) seasonably shall furnish reasonable proof, using the method in the agreement referred to in subsection (d)(1), that control of the controllable electronic record has been transferred. Unless the person complies with the request, the account debtor may discharge its obligation by paying a person that formerly had control, even if the account debtor has received a notification under subsection (b).
+		</section>
+		<section prefix="f">What constitutes reasonable proof. A person furnishes reasonable proof under subsection (e) that control has been transferred if the person demonstrates, using the method in the agreement referred to in subsection (d)(1), that the transferee has the power to:
+			<section prefix="1">avail itself of substantially all the benefit from the controllable electronic record;
+			</section>
+			<section prefix="2">prevent others from availing themselves of substantially all the benefit from the controllable electronic record; and
+			</section>
+			<section prefix="3">transfer the powers specified in paragraphs (1) and (2) to another person.
+			</section>
+		</section>
+		<section prefix="g">Rights not waivable. Subject to subsection (h), an account debtor may not waive or vary its rights under subsections (d)(1) and (e) or its option under subsection (d)(3).
+		</section>
+		<section prefix="h">Rule for individual under other law. This section is subject to law other than this article which establishes a different rule for an account debtor who is an individual and who incurred the obligation primarily for personal, family, or household purposes.
+		</section>
+	</text>
+	<history>2024, c. 652.</history>
+</law>

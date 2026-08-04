@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.3A" level="1">Commercial Code — Negotiable Instruments</unit>
+		<unit label="part" identifier="3" level="2">Enforcement of Instruments</unit>
+	</structure>
+	<section_number>8.3A-310</section_number>
+	<catch_line>Effect of instrument on obligation for which taken</catch_line>
+	<text>
+		<section prefix="a">Unless otherwise agreed, if a certified check, cashier's check, or teller's check is taken for an obligation, the obligation is discharged to the same extent discharge would result if an amount of money equal to the amount of the instrument were taken in payment of the obligation. Discharge of the obligation does not affect any liability that the obligor may have as an endorser of the instrument.
+		</section>
+		<section prefix="b">Unless otherwise agreed and except as provided in subsection (a), if a note or an uncertified check is taken for an obligation, the obligation is suspended to the same extent the obligation would be discharged if an amount of money equal to the amount of the instrument were taken, and the following rules apply:
+			<section prefix="1">In the case of an uncertified check, suspension of the obligation continues until dishonor of the check or until it is paid or certified. Payment or certification of the check results in discharge of the obligation to the extent of the amount of the check.
+			</section>
+			<section prefix="2">In the case of a note, suspension of the obligation continues until dishonor of the note or until it is paid. Payment of the note results in discharge of the obligation to the extent of the payment.
+			</section>
+			<section prefix="3">Except as provided in paragraph (4), if the check or note is dishonored and the obligee of the obligation for which the instrument was taken is the person entitled to enforce the instrument, the obligee may enforce either the instrument or the obligation. In the case of an instrument of a third person which is negotiated to the obligee by the obligor, discharge of the obligor on the instrument also discharges the obligation.
+			</section>
+			<section prefix="4">If the person entitled to enforce the instrument taken for an obligation is a person other than the obligee, the obligee may not enforce the obligation to the extent the obligation is suspended. If the obligee is the person entitled to enforce the instrument but no longer has possession of it because it was lost, stolen, or destroyed, the obligation may not be enforced to the extent of the amount payable on the instrument, and to that extent the obligee's rights against the obligor are limited to enforcement of the instrument.
+			</section>
+		</section>
+		<section prefix="c">If an instrument other than one described in subsection (a) or (b) is taken for an obligation, the effect is (i) that stated in subsection (a) if the instrument is one on which a bank is liable as maker or acceptor, or (ii) that stated in subsection (b) in any other case.
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.3-802; 1992, c. 693.</history>
+</law>

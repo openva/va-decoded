@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="15" level="2">Payment and Setoff</unit>
+	</structure>
+	<section_number>8.01-423</section_number>
+	<catch_line>When plaintiff claims as assignee or transferee</catch_line>
+	<text>
+		If the plaintiff claims as assignee or transferee under a person with whom the contract sued on was originally made, and the defendant's claim exceeds the plaintiff's demand, the defendant:
+		<section prefix="1">In his counterclaim, may waive the benefit of his claim as to any excess beyond the plaintiff's claim, whereupon, the further proceedings shall be upon the plaintiff's claim and the defendant's counterclaim as a defense thereto; or
+		</section>
+		<section prefix="2">Instead of such waiver such defendant may, by rule issued by the court, to which rule shall be attached a copy of the counterclaim and served on the person, under whom plaintiff claims as aforesaid, make such person a party to the action; and, on the trial of the case, the jury shall ascertain and apply, the amount and interest to which the defendant is entitled; and, for any excess beyond the plaintiff's demand for which such person under whom the plaintiff claims as aforesaid is liable, with such interest as the court or jury allows, judgment shall be rendered for the defendant against such person.
+		</section>
+	</text>
+	<history>Code 1950, § 8-246; 1954, c. 619; 1977, c. 617.</history>
+</law>

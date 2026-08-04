@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="8" level="3">Remedies</unit>
+	</structure>
+	<section_number>59.1-508.3</section_number>
+	<catch_line>Contractual modification of remedy</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in this section and in § 59.1-508.4:
+			<section prefix="1">an agreement may provide for remedies in addition to or in substitution for those provided in this chapter and may limit or alter the measure of damages recoverable under this chapter or a party's other remedies under this chapter, such as by precluding a party's right to cancel for breach of contract, limiting remedies to returning or delivering copies and repayment of the contract fee, or limiting remedies to repair or replacement of the nonconforming copies; and
+			</section>
+			<section prefix="2">resort to a contractual remedy is optional unless the remedy is expressly agreed to be exclusive, in which case it is the sole remedy.
+			</section>
+		</section>
+		<section prefix="b">Subject to subsection (c), if performance of an exclusive or limited remedy causes the remedy to fail of its essential purpose, the aggrieved party may pursue other remedies under this chapter.
+		</section>
+		<section prefix="c">Failure or unconscionability of an agreed exclusive or limited remedy makes a term disclaiming or limiting consequential or incidental damages unenforceable unless the agreement expressly makes the disclaimer or limitation independent of the agreed remedy.
+		</section>
+		<section prefix="d">Consequential damages and incidental damages may be excluded or limited by agreement unless the exclusion or limitation is unconscionable. Exclusion or limitation of consequential damages for personal injury in a consumer contract for a computer program that is subject to this chapter and is contained in consumer goods is prima facie unconscionable, but exclusion or limitation of damages for a commercial loss is not unconscionable.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

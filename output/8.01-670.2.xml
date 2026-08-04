@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="26" level="2">Appeals to the Supreme Court</unit>
+		<unit label="article" identifier="2" level="3">When Granted</unit>
+	</structure>
+	<section_number>8.01-670.2</section_number>
+	<catch_line>Appeal of interlocutory orders and decrees; immunity</catch_line>
+	<text>
+		<section prefix="A">When, prior to the commencement of trial, the circuit court has entered in any pending civil action an order granting or denying a plea of sovereign, absolute, or qualified immunity that, if granted, would immunize the movant from compulsory participation in the proceeding, the order is eligible for immediate appellate review. Any person aggrieved by such order may, within 15 days of the entry of such order, file a petition for review with the Supreme Court in accordance with the procedures set forth in § 8.01-626.
+		</section>
+		<section prefix="B">No petition under this section shall stay proceedings in the circuit court unless the circuit court finds or the Supreme Court orders such a stay upon a finding that (i) the petition could be dispositive of the entire civil action or (ii) there exists good cause, other than the pending petition or appeal, to stay the proceedings.
+		</section>
+		<section prefix="C">The failure of a party to seek interlocutory review in accordance with this section shall not preclude review of the issue on appeal from a final order. An order by the Supreme Court denying interlocutory review in accordance with this section shall not preclude review of the issue on appeal from a final order, unless the order denying such interlocutory review provides for such preclusion.
+		</section>
+	</text>
+	<history>2023, c. 741.</history>
+</law>

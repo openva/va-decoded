@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="1" level="3">Creation and Limitation of Estates</unit>
+		<unit label="article" identifier="2" level="4">Rule Against Perpetuities</unit>
+	</structure>
+	<section_number>55.1-132</section_number>
+	<catch_line>Determination of "lives in being" for purpose of rule against perpetuities</catch_line>
+	<text>
+		<section prefix="A">For the purpose of determining whether the terms of an inter vivos trust provide for a duration in excess of that allowed under the rule against perpetuities, the determination of "lives in being" shall be made as of the death of the settlor, if the settlor has at his death the unrestricted right, acting alone, to revoke the trust or to have transferred to himself the entire legal and beneficial interest in all property, both principal and income, held in the trust. In the event that the settlor surrenders both such rights at any time prior to his death, the determination of "lives in being" shall be made as of the time that the settlor, upon establishment of the trust or otherwise, surrenders the unrestricted right acting alone to revoke the trust and the unrestricted right acting alone to have transferred to himself the entire legal and beneficial interest in all property, both principal and income, held in the trust.
+		</section>
+		<section prefix="B">This section shall apply only to a nonvested property interest in an inter vivos trust created before July 1, 2000.
+		</section>
+	</text>
+	<history>1966, c. 260, § 55-13.2; 2000, c. 714; 2019, c. 712.</history>
+</law>

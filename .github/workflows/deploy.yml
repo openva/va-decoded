@@ -1,0 +1,133 @@
+name: Deploy
+
+on:
+  workflow_run:
+    workflows: [CI]
+    types: [completed]
+    branches: [dev]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - name: Check out va-decoded (configuration)
+        uses: actions/checkout@v5
+        with:
+          path: va-decoded
+
+      - name: Check out statedecoded
+        uses: actions/checkout@v5
+        with:
+          repository: statedecoded/statedecoded
+          ref: v1.2
+          path: statedecoded
+
+      - name: Set up PHP 8.3
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: pdo_mysql, intl, xsl, zip, gd, tidy, mbstring
+          tools: composer
+          coverage: none
+
+      - name: Apply Virginia configuration
+        env:
+          PDO_DSN: ${{ secrets.PDO_DSN }}
+          PDO_USERNAME: ${{ secrets.PDO_USERNAME }}
+          PDO_PASSWORD: ${{ secrets.PDO_PASSWORD }}
+          ADMIN_USERNAME: ${{ secrets.ADMIN_USERNAME }}
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+          COURTLISTENER_API_TOKEN: ${{ secrets.COURTLISTENER_API_TOKEN }}
+        run: |
+          cp va-decoded/includes/class.Virginia.inc.php \
+             statedecoded/includes/class.Virginia.inc.php
+
+          cp va-decoded/updater.sh statedecoded/updater.sh
+          cp va-decoded/scraper.php statedecoded/scraper.php
+          chmod +x statedecoded/updater.sh
+
+          sed \
+            -e "s|__PDO_DSN__|${PDO_DSN}|g" \
+            -e "s|__PDO_USERNAME__|${PDO_USERNAME}|g" \
+            -e "s|__PDO_PASSWORD__|${PDO_PASSWORD}|g" \
+            -e "s|__ADMIN_USERNAME__|${ADMIN_USERNAME}|g" \
+            -e "s|__ADMIN_PASSWORD__|${ADMIN_PASSWORD}|g" \
+            -e "s|__COURTLISTENER_API_TOKEN__|${COURTLISTENER_API_TOKEN}|g" \
+            va-decoded/includes/config.inc.php \
+            > statedecoded/includes/config.inc.php
+
+      - name: Cache Composer packages
+        uses: actions/cache@v4
+        with:
+          path: statedecoded/vendor
+          key: composer-${{ hashFiles('statedecoded/composer.lock') }}
+          restore-keys: composer-
+
+      - name: Install Composer dependencies
+        working-directory: statedecoded
+        run: composer install --no-dev --no-interaction --prefer-dist
+
+      - name: Set up Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+
+      - name: Cache npm packages
+        uses: actions/cache@v4
+        with:
+          path: statedecoded/node_modules
+          key: npm-${{ hashFiles('statedecoded/package.json') }}
+          restore-keys: npm-
+
+      - name: Build front-end assets
+        working-directory: statedecoded
+        run: npm ci && npm run build
+
+      - name: Assemble CodeDeploy bundle
+        run: |
+          cp va-decoded/.github/deploy/appspec.yml statedecoded/appspec.yml
+          mkdir -p statedecoded/.github/deploy
+          cp -r va-decoded/.github/deploy/scripts statedecoded/.github/deploy/scripts
+          cp va-decoded/.github/deploy/logrotate-vacode statedecoded/.github/deploy/logrotate-vacode
+          chmod +x statedecoded/.github/deploy/scripts/*.sh
+          cd statedecoded
+          zip -qr ../deployment.zip . \
+            -x '.git' \
+            -x '.git/*' \
+            -x 'node_modules/*' \
+            -x 'tests/*'
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v5
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+
+      - name: Upload bundle to S3
+        run: |
+          aws s3 cp deployment.zip \
+            s3://${{ secrets.S3_BUCKET }}/statedecoded/deployment.zip
+
+      - name: Create CodeDeploy deployment
+        run: |
+          deployment_id=$(aws deploy create-deployment \
+            --application-name ${{ secrets.CODEDEPLOY_APP_NAME }} \
+            --deployment-group-name ${{ secrets.CODEDEPLOY_DEPLOYMENT_GROUP }} \
+            --s3-location bucket=${{ secrets.S3_BUCKET }},key=statedecoded/deployment.zip,bundleType=zip \
+            --description "Deploy from ${{ github.sha }}" \
+            --query deploymentId --output text)
+          echo "Created deployment ${deployment_id}"
+
+          # create-deployment is fire-and-forget: without waiting for the result, the
+          # workflow goes green even when the deployment fails on the instance.
+          if ! aws deploy wait deployment-successful --deployment-id "${deployment_id}"; then
+            echo "::error::CodeDeploy deployment ${deployment_id} failed"
+            aws deploy get-deployment --deployment-id "${deployment_id}" \
+              --query 'deploymentInfo.errorInformation' --output json
+            exit 1
+          fi
+          echo "Deployment ${deployment_id} succeeded"

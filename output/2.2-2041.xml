@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="20.2" level="4">Workforce Development and Advancement</unit>
+		<unit label="article" identifier="2" level="5">Data Collection and Analytics</unit>
+	</structure>
+	<section_number>2.2-2041</section_number>
+	<catch_line>Workforce program evaluations; sharing of certain data; prohibited uses; civil penalty</catch_line>
+	<text>
+		<section prefix="A">To the extent permitted under state and federal law, the agencies specified in subsection D shall share data from within their respective databases to (i) develop meaningful analyses and evaluations of workforce programs required by subdivision B 8 of § 2.2-214.3 and clause (i) of subdivision B 10 of § 2.2-214.3; (ii) meet state and federal reporting requirements; (iii) improve coordination, outcomes, and efficiency across public workforce programs and partner organizations; (iv) enable the development of comprehensive consumer-facing software applications; (v) support requirements for performance-driven contracts; and (vi) support workforce initiatives developed by the General Assembly or the Governor.
+		</section>
+		<section prefix="B">Data shared pursuant to subsection A shall include only the identifying and attribute information required to match entities across programs, support the coordination of services, and evaluate outcomes, shall be encrypted, and shall be transmitted to the Governor or his designee. Upon receipt of such data, the Governor or his designee shall maintain the data in an encrypted state pursuant to § 2.2-2009 and restrict data sharing according to the Virginia Workforce Data Trust memorandum of understanding.
+			The agencies specified in subsection D shall enter into a memorandum of understanding supporting the Virginia Workforce Data Trust and the associated application ecosystem. Such memorandum of understanding shall include provisions for authorizing bona fide research requests that are related to the data sharing referenced in subsection A. In accordance with the governance process defined in such memorandum of understanding, the data sharing referenced in subsection A shall be accomplished by integrating additional organizations, systems, data elements, and functionality into the Virginia Workforce Data Trust.
+		</section>
+		<section prefix="C">The Governor or his designee and all agencies authorized under this section shall destroy or erase all shared data upon completion of all required evaluations and analyses. The Governor may retain a third-party entity to assist with the evaluation and analysis.
+		</section>
+		<section prefix="D">The data from the following agencies relating to workforce development programs, workforce education and training programs, and workforce services programs as those terms are defined in § 2.2-2036 shall be shared solely to achieve the purposes specified in subsection A:
+			<section prefix="1">Virginia Employment Commission: Unemployment Insurance;
+			</section>
+			<section prefix="2">Virginia Community College System: Postsecondary Career and Technical Education;
+			</section>
+			<section prefix="3">Department for Aging and Rehabilitative Services: Vocational Rehabilitation and Senior Community Services Employment Program;
+			</section>
+			<section prefix="4">Department for the Blind and Vision Impaired: Vocational Rehabilitation;
+			</section>
+			<section prefix="5">Department of Education: Special Education and Career and Technical Education;
+			</section>
+			<section prefix="6">Department of Social Services: Supplemental Nutrition Assistance Program, Virginia Initiative for Education and Work;
+			</section>
+			<section prefix="7">Virginia Economic Development Partnership Authority: Virginia Jobs Investment Program;
+			</section>
+			<section prefix="8">Department of Juvenile Justice: Youth Industries and Institutional Work Programs, Career and Technical Education Programs;
+			</section>
+			<section prefix="9">Department of Corrections: Career and Technical Education Programs;
+			</section>
+			<section prefix="10">The State Council of Higher Education for Virginia: certifications, certificates, and degrees;
+			</section>
+			<section prefix="11">Department of Veterans Services: Virginia Values Veterans;
+			</section>
+			<section prefix="12">Department of Workforce Development and Advancement: Apprenticeship, Job Service, Reemployment Services and Eligibility Assessment program, Trade Adjustment Assistance Program Act, Veterans Employment Training Programs, Innovative Internship Program, Workforce Innovation and Opportunity Act of 2014 (P.L. 113-128) Titles I and III, and other workforce development programs of the Department as determined by the Commissioner; and
+			</section>
+			<section prefix="13">Any other agencies as deemed necessary by the Secretary of Labor, the Chief Data Officer, and the Commissioner.
+			</section>
+		</section>
+		<section prefix="E">Nothing in this section shall prohibit the inclusion of data from other sources deemed beneficial by the Secretary of Labor, the Chief Data Officer, and the Commissioner.
+		</section>
+		<section prefix="F">Agencies participating in the Virginia Longitudinal Data System and the Virginia Workforce Data Trust shall meet annually and work with the Office of Data Governance and Analytics for the purpose of coordinating responses to changes in data collection of the participating agencies and the needs of the Commonwealth with respect to workforce development and education policy development. Subject to the approval by each participating agency, the Virginia Longitudinal Data System and the Virginia Workforce Data Trust may develop processes to facilitate intersystem operability and communication between the two entities for research and analysis purposes.
+		</section>
+		<section prefix="G">All agencies providing information to the Virginia Workforce Data Trust shall be prohibited from disclosing any personal information or data, except as required under this section or other state law or federal law, or to accomplish a proper purpose of the agency.
+		</section>
+		<section prefix="H">Any person alleging a violation of this section may bring a civil action for appropriate injunctive relief. A court rendering judgment in favor of a complainant pursuant to this subsection shall award all or a portion of the costs of litigation, including reasonable attorney fees and witness fees, to the complainant.
+		</section>
+	</text>
+	<history>2023, cc. 624, 625; 2024, c. 507.</history>
+</law>

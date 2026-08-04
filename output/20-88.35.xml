@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="5.3" level="2">Uniform Interstate Family Support Act</unit>
+		<unit label="article" identifier="2" level="3">Extended Personal Jurisdiction</unit>
+	</structure>
+	<section_number>20-88.35</section_number>
+	<catch_line>Bases for jurisdiction over nonresident</catch_line>
+	<text>
+		In a proceeding to establish or enforce a support order or to determine parentage of a child, a tribunal of the Commonwealth may exercise personal jurisdiction over a nonresident individual or the individual's guardian or conservator if:
+		<section prefix="1">The individual is personally served with process within the Commonwealth;
+		</section>
+		<section prefix="2">The individual submits to the jurisdiction of the Commonwealth by consent, by entering a general appearance, or by filing a responsive document having the effect of waiving any contest to personal jurisdiction;
+		</section>
+		<section prefix="3">The individual resided with the child in the Commonwealth;
+		</section>
+		<section prefix="4">The individual resided in the Commonwealth and paid prenatal expenses or provided support for the child;
+		</section>
+		<section prefix="5">The child resides in the Commonwealth as a result of the acts or directives of the individual;
+		</section>
+		<section prefix="6">The individual engaged in sexual intercourse in the Commonwealth and the child may have been conceived by the act of intercourse;
+		</section>
+		<section prefix="7">The individual asserted parentage of a child in the Virginia Birth Father Registry maintained in the Commonwealth by the Department of Social Services;
+		</section>
+		<section prefix="8">The exercise of personal jurisdiction is authorized under subdivision A 8 of § 8.01-328.1; or
+		</section>
+		<section prefix="9">There is any other basis consistent with the constitutions of the Commonwealth and the United States for the exercise of personal jurisdiction.
+			The bases of personal jurisdiction set forth in this section or any other law of the Commonwealth may not be used to acquire personal jurisdiction for a tribunal of the Commonwealth to modify a child support order issued by a tribunal of another state unless the requirements of § 20-88.76 or 20-88.77:3 are met.
+		</section>
+	</text>
+	<history>1994, c. 673; 2005, c. 754; 2015, c. 727; 2017, c. 200.</history>
+</law>

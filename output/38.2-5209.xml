@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="52" level="2">Long-Term Care Insurance</unit>
+	</structure>
+	<section_number>38.2-5209</section_number>
+	<catch_line>Incontestability</catch_line>
+	<text>
+		Each long-term care policy or certificate shall include an incontestability provision that includes the following:
+		<section prefix="1">For a policy or certificate that has been in force for less than six months, an insurer may rescind a long-term care insurance policy or certificate or deny an otherwise valid long-term care insurance claim upon a showing of misrepresentation that is material to the acceptance of coverage.
+		</section>
+		<section prefix="2">For a policy or certificate that has been in force for at least six months but less than two years, an insurer may rescind a long-term care insurance policy or certificate or deny an otherwise valid long-term care insurance claim upon a showing of misrepresentation that is both material to the acceptance of coverage and that pertains to the condition for which benefits are sought.
+		</section>
+		<section prefix="3">After a policy or certificate has been in force for two years, it is not contestable upon the grounds of misrepresentation alone, and such policy or certificate may be contested only upon a showing that the insured knowingly and intentionally misrepresented relevant facts relating to the insured's health.
+		</section>
+		<section prefix="4">In the event of the death of the insured, this section shall not apply to the remaining death benefit of a life insurance policy that accelerates benefits for long-term care. In such event, the contestability of the remaining death benefits under such a life insurance policy shall be governed by the provisions of § 38.2-3305 or § 38.2-3326. In all other situations, this section shall apply to life insurance policies that accelerate benefits for long-term care.
+		</section>
+	</text>
+	<history>2000, c. 559.</history>
+</law>

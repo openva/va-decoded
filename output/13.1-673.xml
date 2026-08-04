@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="9" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-673</section_number>
+	<catch_line>Requirement for and duties of board of directors</catch_line>
+	<text>
+		<section prefix="A">Except as provided in an agreement authorized by § 13.1-671.1, each corporation shall have a board of directors.
+		</section>
+		<section prefix="B">All corporate powers shall be exercised by or under the authority of the board of directors, and the business and affairs of the corporation managed under the direction, and subject to the oversight, of the board of directors, subject to any limitation set forth in the articles of incorporation permitted by subdivision B 3 of § 13.1-619 or in an agreement authorized under § 13.1-671.1.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-35; 1956, c. 428; 1985, c. 522; 1990, c. 337; 2005, c. 765; 2019, c. 734.</history>
+</law>

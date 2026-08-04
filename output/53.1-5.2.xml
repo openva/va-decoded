@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="53.1" level="1">Prisons and Other Methods of Correction</unit>
+		<unit label="chapter" identifier="1" level="2">Administration Generally</unit>
+		<unit label="article" identifier="2" level="3">State Board of Local and Regional Jails</unit>
+	</structure>
+	<section_number>53.1-5.2</section_number>
+	<catch_line>Compilation of certain data for redistricting purposes</catch_line>
+	<text>
+		<section prefix="A">The Board shall direct the sheriffs of all local jails and the jail superintendents of all regional jails to provide to it, no later than May 1 of any year in which the decennial census is taken, information regarding each person incarcerated in a local or regional jail on April 1 of that year. Such information shall include, for each person incarcerated, (i) his residential street address at the time of incarceration, or other legal residence, if known; (ii) his race, his ethnicity as identified by him, and whether he is 18 years of age or older; and (iii) the street address of the correctional facility in which he was incarcerated on April 1 of that year. Upon receipt of such information, the Board shall assign to each person a unique identifier, other than his name or offender identification number.
+		</section>
+		<section prefix="B">Pursuant to § 24.2-314, the Board shall provide to the Division of Legislative Services, not later than July 1 of any year in which the decennial census is taken and in a format specified by the Division of Legislative Services, the information specified in subsection A, including the Board-assigned unique identifier.
+		</section>
+	</text>
+	<history>2020, cc. 1229, 1265.</history>
+</law>

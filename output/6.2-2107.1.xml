@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="III" level="2">Other Regulated Providers of Financial Services</unit>
+		<unit label="chapter" identifier="21" level="3">Check Cashers</unit>
+	</structure>
+	<section_number>6.2-2107.1</section_number>
+	<catch_line>Recordkeeping requirements</catch_line>
+	<text>
+		<section prefix="A">As used in this section, a customer's "identification document" means any of the following:
+			<section prefix="1">A state-issued driver's license or identification card;
+			</section>
+			<section prefix="2">A U.S. government resident alien identification card;
+			</section>
+			<section prefix="3">A passport;
+			</section>
+			<section prefix="4">A U.S. military identification card;
+			</section>
+			<section prefix="5">A Non-U.S. government identification card;
+			</section>
+			<section prefix="6">A Mexican Matricula identification card; or
+			</section>
+			<section prefix="7">Other government identification card.
+			</section>
+		</section>
+		<section prefix="B">A registrant shall not cash an item for a customer in the course of conducting its business unless the registrant:
+			<section prefix="1">Makes a copy of both sides of the item or maintains a record of the following information that is available from the item:
+				a. ABA number;
+				b. Account number;
+				c. Check number;
+				d. Check type;
+				e. Date of check; and
+				f. Check amount; and
+			</section>
+			<section prefix="2">Makes a copy of an identification document that is presented by the customer to the registrant at the time the customer presents the item for cashing or maintains a record of the following information that is available from the identification:
+				a. Name;
+				b. Address;
+				c. Date of birth;
+				d. Type of identification;
+				e. Identification number; and
+				f. Identification expiration date.
+			</section>
+		</section>
+		<section prefix="C">A registrant shall maintain the information required by subsection B and a record of the time and date of the transaction. Such materials shall be maintained for a period of not less than six months following the date an item is cashed.
+		</section>
+		<section prefix="D">The provisions of this section shall not apply to any registrant that is principally engaged in the bona fide retail sale of goods or services.
+		</section>
+	</text>
+	<history>2014, c. 768.</history>
+</law>

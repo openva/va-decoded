@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="4" level="3">Warranties</unit>
+	</structure>
+	<section_number>59.1-504.3</section_number>
+	<catch_line>Implied warranty; merchantability of computer program</catch_line>
+	<text>
+		<section prefix="a">Unless the warranty is disclaimed or modified, a licensor that is a merchant with respect to computer programs of the kind warrants:
+			<section prefix="1">to the end user that the computer program is fit for the ordinary purposes for which such computer programs are used;
+			</section>
+			<section prefix="2">to the distributor that:
+			</section>
+		</section>
+		<section prefix="A">the program is adequately packaged and labeled as the agreement requires; and
+		</section>
+		<section prefix="B">in the case of multiple copies, the copies are within the variations permitted by the agreement, of even kind, quality, and quantity within each unit and among all units involved; and
+			<section prefix="3">that the program conforms to any promises or affirmations of fact made on the container or label.
+			</section>
+		</section>
+		<section prefix="b">Unless disclaimed or modified, other implied warranties with respect to computer programs may arise from course of dealing or usage of trade.
+		</section>
+		<section prefix="c">No warranty is created under this section with respect to informational content, but an implied warranty may arise under § 59.1-504.4.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

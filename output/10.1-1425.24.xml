@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.4" level="4">Reduction of Heavy Metals in Packaging Act</unit>
+	</structure>
+	<section_number>10.1-1425.24</section_number>
+	<catch_line>Certificate of compliance</catch_line>
+	<text>
+		<section prefix="A">On and after July 1, 1995, each manufacturer or distributor of packaging or packaging components shall make available to purchasers, the Department, and the public, upon request, certificates of compliance which state that the manufacturer's or distributor's packaging or packaging components comply with, or are exempt from, the requirements of this article.
+		</section>
+		<section prefix="B">If the manufacturer or distributor of the package or packaging component reformulates or creates a new package or packaging component that results in an increase in the level of heavy metals higher than the original certificate of compliance, the manufacturer or distributor shall provide an amended or new certificate of compliance for the reformulated package or packaging component.
+		</section>
+	</text>
+	<history>1994, c. 944.</history>
+</law>

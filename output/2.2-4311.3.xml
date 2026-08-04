@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4311.3</section_number>
+	<catch_line>Compliance with state law; contract terms inconsistent with state law</catch_line>
+	<text>
+		<section prefix="A">As used in this section, "information technology goods and services" means communications, telecommunications, automated data processing, applications, databases, data networks, management information systems, and other related goods and services.
+		</section>
+		<section prefix="B">No term or provision in any public contract for the acquisition of information technology goods or services shall be valid or enforceable to the extent that it is in conflict with Virginia law. A public contract containing such a term or provision shall otherwise remain enforceable.
+		</section>
+		<section prefix="C">Any term or provision in such a public contract that (i) makes the public contract subject to, governed by, or interpreted under the laws of another state or country or (ii) requires or permits any litigation or other dispute resolution proceeding arising from the public contract to be conducted in another state or country shall be void. Such public contract shall instead be deemed to provide for the application of the law of the Commonwealth of Virginia, without regard to such contract's choice of law provisions, and to provide for jurisdiction in the courts of the Commonwealth.
+		</section>
+		<section prefix="D">The provisions of this section shall only apply to a county, city, town, political subdivision, or public institution of higher education, or to a public body listed as an independent agency in the appropriation act, if its governing body has adopted the provisions of this section as part of its procurement policies and procedures.
+		</section>
+	</text>
+	<history>2025, c. 27.</history>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="24.2" level="1">Elections</unit>
+		<unit label="chapter" identifier="7" level="2">Absentee Voting</unit>
+	</structure>
+	<section_number>24.2-709.1</section_number>
+	<catch_line>Processing returned absentee ballots before election day; cure process</catch_line>
+	<text>
+		<section prefix="A">On receipt of an absentee ballot returned in person or by mail to the office of the general registrar or to a drop-off location before election day, the general registrar shall mark the date of receipt in the voter's record and shall examine the ballot envelope to verify completion of the required voter affirmation. A voter affirmation statement shall not be deemed to be incomplete on the sole basis of the voter's failure to provide (i) his full name or his middle initial, as long as the voter provided his full first and last name, or (ii) the date, or any part of the date, including the year, on which he signed the statement.
+		</section>
+		<section prefix="B">If the voter affirmation has been completed as required, the general registrar may open the sealed ballot envelope and insert the ballot in optical scan counting equipment or other secure ballot container without initiating any ballot count totals. If a general registrar does not choose to do so, the sealed ballot envelope shall be deposited into a secure container provided for such purpose, in which it shall remain until the general registrar initiates the process of opening the sealed ballot envelopes deposited into the secure container and inserting such ballots into optical scan counting equipment without initiating any ballot count totals. Such process shall be at the general registrar's discretion at any time prior to the seventh day immediately preceding the election but shall be mandatory beginning on the seventh day immediately preceding the election.
+			At least two officers of election, one representing each political party, shall be present during all hours when sealed ballot envelopes are opened as authorized in or required by this subsection. No person present while sealed ballot envelopes are opened and ballots are inserted into counting equipment shall disclose any information concerning the ballots.
+			In the event that circumstances prevent a general registrar from complying with the provisions of this subsection, such failure shall not be grounds for contesting the election pursuant to Article 2 (§ 24.2-803 et seq.) of Chapter 8 and shall not invalidate the absentee ballots.
+		</section>
+		<section prefix="C">For any absentee ballot received by the Friday immediately preceding the day of the election, if the general registrar finds during the examination of the ballot envelope that the required voter affirmation was not correctly or completely filled out or that a procedure required by § 24.2-707 was not properly followed, and such error or failure would render the ballot void by law, the general registrar shall enter into the voter's record in the voter registration system that the absentee ballot has an issue requiring correction in order for it to be counted. This information shall be included on any absentee voter applicant list provided pursuant to subsection C of § 24.2-710.
+			Within three days of such finding, the registrar shall notify the voter in writing or by email of the error or failure and shall provide information to the voter on how to correct the issue so his ballot may be counted. The voter shall be entitled to make such necessary corrections before noon on the third day after the election, and his ballot shall then be counted pursuant to the procedures set forth in this chapter if he is found to be entitled to vote. No absentee ballot needing correction shall be delivered to the officers of election at the appropriate precinct until the voter is provided the opportunity to make the necessary corrections pursuant to this subsection.
+			The general registrar may issue a new absentee ballot to the voter if necessary and shall preserve the first ballot with other spoiled ballots.
+		</section>
+	</text>
+	<history>2007, cc. 171, 281; 2012, cc. 328, 486; 2013, c. 501; 2021, Sp. Sess. I, cc. 471, 522.</history>
+</law>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="22.1" level="1">Education</unit>
+		<unit label="chapter" identifier="14" level="2">Pupils</unit>
+		<unit label="article" identifier="1" level="3">Compulsory School Attendance</unit>
+	</structure>
+	<section_number>22.1-254.01</section_number>
+	<catch_line>Certain students required to attend summer school or after-school sessions</catch_line>
+	<text>
+		The division superintendent may seek immediate compliance with the compulsory school attendance law as set forth in § 22.1-254 after a reasonable effort to seek the student's attendance in the summer school program or after-school session has failed, including direct notification of the parents of such student of the attendance requirement and failure of the parents to secure the student's attendance, when:
+		<section prefix="1">A student is required to take a special program of prevention, intervention, or remediation in a public summer school program or to participate in another form of remediation as provided in subsection C of § 22.1-253.13:1 and in accordance with clause (ii) of subsection A of § 22.1-254; and
+		</section>
+		<section prefix="2">The division superintendent determines that remediation of the student's poor academic performance, passage of the Standards of Learning Assessment in grades three through eight, or promotion is related directly to the student's attendance in the summer school program or participation in another form of remediation.
+		</section>
+	</text>
+	<history>1996, c. 163; 1997, cc. 466, 828; 1998, cc. 602, 627, 902; 1999, cc. 488, 552; 2006, cc. 41, 834.</history>
+</law>

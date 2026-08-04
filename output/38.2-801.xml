@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="8" level="2">Service of Process</unit>
+		<unit label="article" identifier="1" level="3">Unlicensed Insurers Process</unit>
+	</structure>
+	<section_number>38.2-801</section_number>
+	<catch_line>What constitutes appointment of agent for service of process</catch_line>
+	<text>
+		<section prefix="A">The clerk of the Commission shall be deemed to be appointed by any insurer unlicensed in this Commonwealth as its agent for the service of process in accordance with § 13.1-758 if any of the following acts are effected by mail or otherwise in this Commonwealth:
+			<section prefix="1">The issuance or delivery of insurance contracts to residents of this Commonwealth or to corporations authorized to do business in this Commonwealth;
+			</section>
+			<section prefix="2">The solicitation of applications for these insurance contracts;
+			</section>
+			<section prefix="3">The collection of premiums, membership fees, assessments or other considerations for these insurance contracts; or
+			</section>
+			<section prefix="4">The transaction of any other insurance business in connection with these insurance contracts.
+			</section>
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-64; 1956, c. 431; 1958, c. 597; 1986, c. 562.</history>
+</law>

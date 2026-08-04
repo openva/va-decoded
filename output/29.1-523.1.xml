@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="29.1" level="1">Wildlife, Inland Fisheries and Boating</unit>
+		<unit label="chapter" identifier="5" level="2">Wildlife and Fish Laws</unit>
+		<unit label="article" identifier="2" level="3">Hunting and Trapping</unit>
+	</structure>
+	<section_number>29.1-523.1</section_number>
+	<catch_line>Hunting deer with sights after dark; forfeiture of weapon and sighting device</catch_line>
+	<text>
+		<section prefix="A">Any person who kills or attempts to kill any deer between one hour after sunset and one hour before sunrise using a firearm equipped with any sighting device other than iron or open sights shall be guilty of a Class 2 misdemeanor. In addition to this penalty, the court shall revoke the current hunting license and privileges of the person convicted of violating this section and prohibit that person from hunting for a period of one to five years. Notification of such revocation or prohibition shall be forwarded to the Department pursuant to subsections C and D of § 18.2-56.1.
+		</section>
+		<section prefix="B">Every firearm equipped with any sighting device other than iron or open sights used with the knowledge or consent of the owner in violation of this section shall be forfeited to the Commonwealth. Upon being condemned as forfeited in proceedings under Chapter 22.1 (§ 19.2-386.1 et seq.) of Title 19.2, the proceeds of the sale shall be disposed of according to law.
+			This section shall not apply to persons duly authorized to kill deer according to the provisions of § 29.1-529.
+		</section>
+	</text>
+	<history>2001, c. 112; 2010, c. 183; 2012, cc. 283, 756.</history>
+</law>

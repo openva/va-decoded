@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="7" level="3">Rights of and Assignment by Members</unit>
+	</structure>
+	<section_number>13.1-1038.1</section_number>
+	<catch_line>Admission of members</catch_line>
+	<text>
+		<section prefix="A">Subject to subsection B, a person may become a member in a limited liability company:
+			<section prefix="1">In the case of a person acquiring a membership interest directly from the limited liability company, upon compliance with an operating agreement or, if the operating agreement does not so provide, upon the consent of a majority of the managers of a manager-managed limited liability company or a majority vote of the members of a member-managed limited liability company;
+			</section>
+			<section prefix="2">In the case of an assignee of a membership interest, as provided in subsection A of § 13.1-1040;
+			</section>
+			<section prefix="3">In the case of a limited liability company that has no members as of the commencement of its existence under § 13.1-1004, as provided in any writing signed by both the initial member or members and the managers, if any are designated in the articles of organization, or, if no managers are so designated, the organizers;
+			</section>
+			<section prefix="4">In the case of a limited liability company the last remaining member of which has dissociated, (i) as provided in a writing executed by the successor in interest of that member, who may provide for the admission of the successor in interest or its nominee or designee to the limited liability company as a member, effective as of the occurrence of the event that caused the dissociation of the last remaining member, provided that the articles of organization or an operating agreement may provide that the successor in interest of the last remaining member shall be obligated to agree in writing to the admission of the successor in interest of that member or its nominee or designee to the limited liability company as a member, effective as of the occurrence of the event that caused the dissociation of the last remaining member, or (ii) in the manner provided for in the articles of organization or an operating agreement, effective as of the occurrence of the event that caused the dissociation of the last remaining member, pursuant to a provision of the articles of organization or an operating agreement that specifically provides for the admission of a member to the limited liability company after there is no longer a remaining member of the limited liability company;
+			</section>
+			<section prefix="5">In the case of a person being admitted as a member of a limited liability company pursuant to a merger approved in accordance with § 13.1-1071, as provided in the articles of merger or an operating agreement of the surviving limited liability company; and
+			</section>
+			<section prefix="6">In the case of a person being admitted as a member of a limited liability company pursuant to a conversion or domestication of a partnership, non-United States entity, foreign limited liability company, or corporation into a domestic limited liability company in accordance with Article 12.2 (§ 13.1-722.8 et seq.) of Chapter 9 of this title, or, effective on and after November 1, 2006, Article 14 (§ 13.1-1074 et seq.) of Chapter 12 of this title, as provided in the articles of organization or an operating agreement of the converted or domesticated limited liability company at the time of conversion or domestication.
+			</section>
+		</section>
+		<section prefix="B">The effective time of admission of a member to a limited liability company shall be the later of:
+			<section prefix="1">The date the limited liability company is formed; or
+			</section>
+			<section prefix="2">The time provided in an operating agreement, articles of merger or articles of organization, as applicable, or, if no such time is provided therein, then when the person's admission is reflected in the records of the limited liability company.
+			</section>
+		</section>
+		<section prefix="C">A person may be admitted to a limited liability company as a member of the limited liability company and may receive a membership interest in the limited liability company without making a contribution or being obligated to make a contribution to the limited liability company. Unless otherwise provided in the articles of organization or an operating agreement:
+			<section prefix="1">A person may be admitted to a limited liability company as a member of the limited liability company without acquiring a membership interest in the limited liability company; and
+			</section>
+			<section prefix="2">A person may be admitted as the sole member of a limited liability company without making a contribution or being obligated to make a contribution to the limited liability company or without acquiring a membership interest in the limited liability company.
+			</section>
+		</section>
+	</text>
+	<history>1993, c. 113; 1997, c. 190; 2000, c. 581; 2001, c. 548; 2005, c. 255; 2006, cc. 748, 912; 2016, c. 288.</history>
+</law>

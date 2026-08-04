@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="4" level="3">Certain Lending Practices</unit>
+		<unit label="article" identifier="3" level="4">Credit Cards</unit>
+	</structure>
+	<section_number>6.2-428</section_number>
+	<catch_line>Production of credit card number as condition of check cashing or acceptance prohibited</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection D, no person shall, as a means of identification or for any other purpose:
+			<section prefix="1">Require that a person produce a credit card number for recordation; or
+			</section>
+			<section prefix="2">Record a credit card number in connection with (i) a sale of goods or services in which a purchaser pays by check or (ii) the acceptance of a check.
+			</section>
+		</section>
+		<section prefix="B">A person aggrieved by a violation of this section shall be entitled to institute an action to recover his actual damages or $100, whichever is greater, and to injunctive relief against any person who has engaged, is engaged, or is about to engage in any act in violation of this section. Such action shall be brought in the general district or circuit court, whichever is appropriate, of any county or city wherein the defendant resides or has a place of business. In the event the aggrieved party prevails, he may be awarded reasonable attorney fees and court costs in addition to any damages awarded.
+		</section>
+		<section prefix="C">This section shall not be construed to (i) impose liability on any employee or agent of a person, where that employee or agent has acted in accordance with the directions of his employer, (ii) prohibit a person from requesting a purchaser to display a credit card as an indication of creditworthiness or financial responsibility or as identification, and in these instances the type, the issuer, and the expiration date of the credit card may be recorded, or (iii) require acceptance of a check, whether or not a credit card is presented.
+		</section>
+		<section prefix="D">A person may require production of and may record a credit card number as a condition for cashing a check only where (i) the person requesting the card number has agreed with the issuer to cash checks as a service to the issuer's cardholders, (ii) the issuer has agreed to guarantee cardholder checks cashed by that person, and (iii) the cardholder has given actual, apparent, or implied authority for use of his card number in this manner and for this purpose.
+		</section>
+	</text>
+	<history>1990, c. 587, § 11-33.1; 2010, c. 794.</history>
+</law>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="46.2" level="1">Motor Vehicles</unit>
+		<unit label="subtitle" identifier="II" level="2">Titling, Registration and Licensure</unit>
+		<unit label="chapter" identifier="3" level="3">Licensure of Drivers</unit>
+		<unit label="article" identifier="17" level="4">Motor Vehicle Liability Insurance Policies</unit>
+	</structure>
+	<section_number>46.2-474</section_number>
+	<catch_line>Policy must contain certain agreement; additional coverage</catch_line>
+	<text>
+		Every policy of insurance subject to the provisions of this chapter:
+		<section prefix="1">Shall contain an agreement that the insurance is provided in accordance with the coverage defined in this chapter as respects bodily injury, death, property damage, and destruction and that it is subject to all the provisions of this chapter and of the laws of the Commonwealth relating to this kind of insurance; and
+		</section>
+		<section prefix="2">May grant any lawful coverage in excess of or in addition to the coverage herein specified and this excess or additional coverage shall not be subject to the provisions of this chapter but shall be subject to other applicable laws of the Commonwealth.
+		</section>
+	</text>
+	<history>Code 1950, § 46-494; 1958, c. 541, § 46.1-506; 1989, c. 727.</history>
+</law>

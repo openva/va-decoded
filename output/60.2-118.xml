@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="60.2" level="1">Unemployment Compensation</unit>
+		<unit label="chapter" identifier="1" level="2">General Provisions and Administration</unit>
+		<unit label="article" identifier="2" level="3">Administration</unit>
+	</structure>
+	<section_number>60.2-118</section_number>
+	<catch_line>Civil action to enforce title; actions on behalf of other states</catch_line>
+	<text>
+		<section prefix="A">In any civil action to enforce the provisions of this title the Commission and the Commonwealth may be represented by the Office of the Attorney General.
+		</section>
+		<section prefix="B">The Office of the Attorney General may commence actions in this Commonwealth as agent for, or on behalf of, any other state:
+			<section prefix="1">To enforce judgments and liability for unemployment insurance taxes due such other state; or
+			</section>
+			<section prefix="2">To collect unemployment benefit overpayments of such state if such state extends like comity to this Commonwealth.
+			</section>
+		</section>
+		<section prefix="C">Venue for such actions shall be the same as for actions to enforce the provisions of this title.
+		</section>
+	</text>
+	<history>Code 1950, § 60-109; 1968, c. 738, § 60.1-126; 1972, c. 764; 1977, c. 445; 1986, c. 480.</history>
+</law>

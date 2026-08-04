@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="3" level="2">Provisions Relating to Insurance Policies and Contracts</unit>
+	</structure>
+	<section_number>38.2-303</section_number>
+	<catch_line>Insurable interest required; property insurance</catch_line>
+	<text>
+		<section prefix="A">No insurance contract on property or on any interest therein or arising therefrom shall be enforceable except for the benefit of persons having an insurable interest in the property insured.
+		</section>
+		<section prefix="B">As used in this section, "insurable interest" means any lawful and substantial economic interest in the safety or preservation of the subject of insurance free from loss, destruction or pecuniary damage.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-331; 1986, c. 562.</history>
+</law>

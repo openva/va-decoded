@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="4.4" level="4">Office of the Children's Ombudsman</unit>
+	</structure>
+	<section_number>2.2-447</section_number>
+	<catch_line>Report of findings; recommendations; consultation with individual, Department, local department, children's residential facility, or child-placing agency; publication of adverse report; notice of actions; information provided to complainant; child fatality investigation; report</catch_line>
+	<text>
+		<section prefix="A">The Ombudsman shall prepare a report of the factual findings of an investigation and make recommendations to the Department, local department, children's residential facility, or child-placing agency if the Ombudsman finds any of the following:
+			<section prefix="1">A matter should be further considered by the Department, local department, children's residential facility, or child-placing agency.
+			</section>
+			<section prefix="2">An administrative act or omission should be modified, canceled, or corrected.
+			</section>
+			<section prefix="3">Reasons should be given for an administrative act or omission.
+			</section>
+			<section prefix="4">Other action should be taken by the Department, local department, children's residential facility, or child-placing agency.
+			</section>
+		</section>
+		<section prefix="B">At least 30 calendar days before publishing a report that is adverse to the Department, the local department, a children's residential facility, a child-placing agency, or the individual that is or was the subject of an investigation by the Ombudsman, the Ombudsman shall inform the Department, the local department, the children's residential facility, the child-placing agency, or the individual. When publishing a report adverse to the Department, local department, children's residential facility, child-placing agency, or individual, the Ombudsman shall include in the publication any statement of reasonable length made to the Ombudsman by the Department, local department, children's residential facility, child-placing agency, or individual in defense or mitigation of the action. The Ombudsman may request to be notified by the Department, local department, children's residential facility, child-placing agency, or individual, within a specified time, of any action taken on any recommendation presented.
+		</section>
+		<section prefix="C">The Ombudsman shall notify the complainant of the actions taken by the Ombudsman and by the Department, local department, children's residential facility, or child-placing agency.
+		</section>
+		<section prefix="D">The Ombudsman may provide to the complainant the following information:
+			<section prefix="1">A copy of the Ombudsman's report regarding the investigation's findings, recommendations to the Department or local department made according to the investigation, the Department or local department's response to the Ombudsman's findings and recommendations, and any epilogue to the Ombudsman's report and the Department or local department's response; or
+			</section>
+			<section prefix="2">Information that has otherwise been made public.
+			</section>
+		</section>
+		<section prefix="E">The Ombudsman shall not release information to the individual making the complaint if doing so could endanger the health or welfare of a child or another individual.
+		</section>
+		<section prefix="F">With respect to a child fatality case investigated under subsection B of § 2.2-443 and upon review of records or other information received under subdivision A 3 or 4 of § 2.2-443 in the course of a child fatality investigation, if there is no ongoing child protection proceeding involving a sibling of the child who died, the Ombudsman shall provide any necessary recommendations for improving systemic issues that are discovered during the investigation of the child fatality. The recommendations may be provided to the court of jurisdiction, the state court administrative office, the county child fatality review team, medical professionals, or attorneys or other legal professionals involved with the particular child who died. The recommendations shall also be summarized and included in the annual report referenced in subsection G.
+		</section>
+		<section prefix="G">The Ombudsman shall submit to the Governor, the director of the Department, and the General Assembly an annual report on the Ombudsman's activities, including any recommendations regarding the need for legislation or for a change in rules or policies.
+		</section>
+	</text>
+	<history>2020, c. 1090; 2023, c. 750; 2024, c. 280.</history>
+</law>

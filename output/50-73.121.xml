@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="8" level="3">Winding up Partnership Business</unit>
+	</structure>
+	<section_number>50-73.121</section_number>
+	<catch_line>Statement of dissolution</catch_line>
+	<text>
+		<section prefix="A">After dissolution, a partner who has not wrongfully dissociated may file a statement of dissolution for a partnership that has filed a statement of partnership authority that has not been canceled stating the name of the partnership, the identification number issued by the Commission to the partnership, and that the partnership has dissolved and is winding up its business.
+		</section>
+		<section prefix="B">A statement of dissolution cancels a filed statement of partnership authority for the purposes of subsection D of § 50-73.93 and is a limitation on authority for the purposes of subsection E of § 50-73.93.
+		</section>
+		<section prefix="C">For the purposes of §§ 50-73.91 and 50-73.120, a person not a partner is deemed to have notice of the dissolution and the limitation on the partners' authority as a result of the statement of dissolution 90 days after it is filed.
+		</section>
+		<section prefix="D">After filing and, if appropriate, recording a statement of dissolution, a dissolved partnership may file and, if appropriate, record a statement of partnership authority which will operate with respect to a person not a partner as provided in subsections D and E of § 50-73.93 in any transaction, whether or not the transaction is appropriate for winding up the partnership business.
+		</section>
+	</text>
+	<history>1996, c. 292; 2003, c. 567.</history>
+</law>

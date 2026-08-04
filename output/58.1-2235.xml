@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="II" level="2">Taxes Administered by Other Agencies</unit>
+		<unit label="chapter" identifier="22" level="3">Virginia Fuels Tax Act</unit>
+		<unit label="article" identifier="4" level="4">Payment and Reporting of Tax on Motor Fuel</unit>
+	</structure>
+	<section_number>58.1-2235</section_number>
+	<catch_line>Information required on return filed by supplier</catch_line>
+	<text>
+		<section prefix="A">A return of a supplier shall list all of the following information and any other information required by the Commissioner:
+			<section prefix="1">The number of gallons of tax-paid motor fuel received by the supplier during the month, sorted by type of fuel, seller, point of origin, destination state, and carrier;
+			</section>
+			<section prefix="2">The number of gallons of motor fuel removed at a terminal rack during the month from the account of the supplier, sorted by type of fuel, person receiving the fuel, terminal code, and carrier;
+			</section>
+			<section prefix="3">The number of gallons of motor fuel removed during the month for export, sorted by type of fuel, person receiving the fuel, terminal code, destination state, and carrier;
+			</section>
+			<section prefix="4">The number of gallons of motor fuel removed during the month from a terminal located in another state for conveyance to Virginia, as indicated on the shipping document for the fuel, sorted by type of fuel, person receiving the fuel, terminal code, and carrier;
+			</section>
+			<section prefix="5">The number of gallons of motor fuel the supplier sold during the month to the following, sorted by type of fuel, exempt entity, person receiving the fuel, terminal code, and carrier:
+				a. A governmental entity whose use of fuel is exempt from the tax;
+				b. A licensed aviation consumer purchasing aviation jet fuel;
+				c. A licensed distributor or importer who resold the motor fuel to a governmental unit whose use of fuel is exempt from the tax, as indicated by the distributor or importer;
+				d. A licensed distributor or importer who resold aviation jet fuel to a licensed aviation consumer as indicated by the distributor or importer;
+				e. A licensed exporter who resold the motor fuel to a person whose use of the fuel is exempt from tax in the destination state, as indicated by the exporter;
+				f. A nonprofit charitable organization which is exempt from taxation under § 501(c)(3) of the Internal Revenue Code and which is organized and operated exclusively for the purpose of providing charitable, long-distance, advanced life-support, air transportation services using emergency medical services vehicles for low-income medical patients in the Commonwealth, for the exclusive use of such organization in the operation of an aircraft; and
+				g. A licensed distributor or importer who resold the motor fuel to a nonprofit charitable organization which is exempt from taxation under § 501(c)(3) of the Internal Revenue Code and which is organized and operated exclusively for the purpose of providing charitable, long-distance, advanced life-support, air transportation services using emergency medical services vehicles for low-income medical patients in the Commonwealth, for the exclusive use of such organization in the operation of an aircraft; and
+			</section>
+			<section prefix="6">The amount of discounts allowed under subsection C of § 58.1-2233 on motor fuel sold during the month to licensed distributors or licensed importers.
+			</section>
+		</section>
+		<section prefix="B">Suppliers shall not require information identifying who purchased exempt fuel from persons licensed under this chapter.
+		</section>
+	</text>
+	<history>2000, cc. 729, 758; 2015, cc. 502, 503.</history>
+</law>

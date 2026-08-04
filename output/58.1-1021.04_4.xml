@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="10" level="3">Cigarette Tax</unit>
+		<unit label="article" identifier="2.1" level="4">Tobacco Products Tax</unit>
+	</structure>
+	<section_number>58.1-1021.04:4</section_number>
+	<catch_line>Purchase of tobacco products for resale</catch_line>
+	<text>
+		No retail dealer shall purchase tobacco products, for resale to consumers, from any person within or outside the Commonwealth of Virginia, except as follows:
+		<section prefix="1">A retail dealer purchases from a distributor licensed by the Commonwealth of Virginia.
+		</section>
+		<section prefix="2">A retail dealer applies for and is granted a license as a distributor, and files returns and maintains records as required of licensed distributors under this article.
+		</section>
+	</text>
+	<history>2005, c. 71.</history>
+</law>

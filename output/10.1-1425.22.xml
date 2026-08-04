@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.4" level="4">Reduction of Heavy Metals in Packaging Act</unit>
+	</structure>
+	<section_number>10.1-1425.22</section_number>
+	<catch_line>Schedule for removal of incidental amounts of heavy metals</catch_line>
+	<text>
+		<section prefix="A">On and after July 1, 1995, no manufacturer or distributor shall offer for sale, sell, or offer for promotional purposes in the Commonwealth a package or packaging component which includes, in the package itself or in any packaging component, inks, dyes, pigments, adhesives, stabilizers, or any other additives containing lead, cadmium, mercury, or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution, and which exceeds a concentration level established by this article. This prohibition shall not apply to the incidental presence of any of these elements in a package or packaging component.
+		</section>
+		<section prefix="B">On and after July 1, 1995, no manufacturer or distributor shall offer for sale, sell, or offer for promotional purposes in the Commonwealth a product in a package which includes, in the package itself or in any of the packaging components, inks, dyes, pigments, adhesives, stabilizers, or any other additives containing lead, cadmium, mercury, or hexavalent chromium which has been intentionally introduced as an element during manufacturing or distribution, and which exceeds a concentration level established by this article. This prohibition shall not apply to the incidental presence of any of these elements in a package or packaging component.
+		</section>
+		<section prefix="C">The sum of the concentration levels of lead, cadmium, mercury, and hexavalent chromium present in a package or packaging component shall not exceed the following:
+			<section prefix="1">Six hundred parts per million by weight on and after July 1, 1995;
+			</section>
+			<section prefix="2">Two hundred fifty parts per million by weight on and after July 1, 1996; and
+			</section>
+			<section prefix="3">One hundred parts per million by weight on and after July 1, 1997.
+			</section>
+		</section>
+		<section prefix="D">Concentration levels of lead, cadmium, mercury, and hexavalent chromium shall be determined using ASTM test methods, as revised, or U.S. Environmental Protection Agency Test Methods for Evaluating Solid Waste, S-W 846, as revised.
+		</section>
+	</text>
+	<history>1994, c. 944.</history>
+</law>

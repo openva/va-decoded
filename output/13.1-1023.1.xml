@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="12" level="2">Virginia Limited Liability Company Act</unit>
+		<unit label="article" identifier="5" level="3">Relationship of Members to Each Other</unit>
+	</structure>
+	<section_number>13.1-1023.1</section_number>
+	<catch_line>Remedies for breach of operating agreement by member or manager</catch_line>
+	<text>
+		<section prefix="A">An operating agreement may provide that:
+			<section prefix="1">A member or manager who fails to perform in accordance with, or to comply with terms and conditions of, the operating agreement shall be subject to specified penalties or specified consequences; and
+			</section>
+			<section prefix="2">At the time or upon the happening of events specified in the operating agreement, a member or manager shall be subject to specified penalties or specified consequences.
+				The specified penalties or specified consequences may include and take the form of any penalty or consequence set forth in subsection D of § 13.1-1027.
+			</section>
+		</section>
+		<section prefix="B">In the articles of organization, in writing in an operating agreement or in another writing, a member or manager may consent to or be subject to the nonexclusive jurisdiction of the courts of, or arbitration in, a specified jurisdiction, or the exclusive jurisdiction of the courts of the Commonwealth, or the exclusivity of arbitration in a specified jurisdiction of the Commonwealth, and to be served with legal process in a manner prescribed in the articles of organization, an operating agreement, or other writing.
+		</section>
+	</text>
+	<history>2003, c. 340; 2004, c. 601.</history>
+</law>

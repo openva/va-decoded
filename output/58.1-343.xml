@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="4" level="4">Accounting, Returns, Procedures for Individuals</unit>
+	</structure>
+	<section_number>58.1-343</section_number>
+	<catch_line>Place of filing</catch_line>
+	<text>
+		<section prefix="A">Every resident who is required by this chapter to file a return shall file his return with the commissioner of the revenue for the county or city in which he resides, and every nonresident who is required by this chapter to file a return shall file his return with the commissioner of the revenue for the county or city in which all or a part of his income from Virginia sources was derived.
+		</section>
+		<section prefix="B">Every fiduciary required to file a return on behalf of an individual shall file such return with the commissioner of the revenue having jurisdiction in the county or city in which the fiduciary qualified or, if there has been no qualification in this Commonwealth, in the county or city in which such fiduciary resides, does business or has an office or wherein the beneficiary or any of them may reside, or with the Department if provided by regulation thereof.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.064; 1971, Ex. Sess., c. 171; 1984, c. 675.</history>
+</law>

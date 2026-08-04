@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="3" level="3">Relations of Partners to Persons Dealing With Partnership</unit>
+	</structure>
+	<section_number>50-73.96</section_number>
+	<catch_line>Partner's liability</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in subsection B or subsection C, all partners are liable jointly and severally for all obligations of the partnership unless otherwise agreed by the claimant or provided by law.
+		</section>
+		<section prefix="B">A person admitted as a partner into an existing partnership is not personally liable for any partnership obligation incurred before the person's admission as a partner.
+		</section>
+		<section prefix="C">A person is not, solely by reason of being a partner, liable, directly or indirectly, including by way of indemnification, contribution, assessment or otherwise, for debts, obligations or liabilities of, or chargeable to, the partnership, whether sounding in tort, contract or otherwise, that are incurred, created or assumed by the partnership while the partnership is a registered limited liability partnership.
+		</section>
+		<section prefix="D">A person is not, solely by reason of being a partner, a proper party to a proceeding by or against a registered limited liability partnership, the object of which is to recover damages, collect the debts or liabilities or enforce the obligations of the partnership with respect to which the partner is not liable under subsection C.
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="2" level="2">Effectiveness of Security Agreement; Attachment of Security Interest; Rights of Parties to Security Agreement</unit>
+		<unit label="subpart" identifier="1" level="3">Effectiveness and Attachment</unit>
+	</structure>
+	<section_number>8.9A-203</section_number>
+	<catch_line>Attachment and enforceability of security interest; proceeds, supporting obligations; formal requisites</catch_line>
+	<text>
+		<section prefix="a">Attachment. A security interest attaches to collateral when it becomes enforceable against the debtor with respect to the collateral, unless an agreement expressly postpones the time of attachment.
+		</section>
+		<section prefix="b">Enforceability. Except as otherwise provided in subsections (c) through (i), a security interest is enforceable against the debtor and third parties with respect to the collateral only if:
+			<section prefix="1">value has been given;
+			</section>
+			<section prefix="2">the debtor has rights in the collateral or the power to transfer rights in the collateral to a secured party; and
+			</section>
+			<section prefix="3">one of the following conditions is met:
+			</section>
+		</section>
+		<section prefix="A">the debtor has signed a security agreement that provides a description of the collateral and, if the security interest covers timber to be cut, a description of the land concerned;
+		</section>
+		<section prefix="B">the collateral is not a certificated security and is in the possession of the secured party under § 8.9A-313 pursuant to the debtor's security agreement;
+		</section>
+		<section prefix="C">the collateral is a certificated security in registered form and the security certificate has been delivered to the secured party under § 8.8A-301 pursuant to the debtor's security agreement;
+		</section>
+		<section prefix="D">the collateral is controllable accounts, controllable electronic records, controllable payment intangibles, deposit accounts, electronic documents, electronic money, investment property, or letter-of-credit rights, and the secured party has control under § 8.7-106, 8.9A-104, 8.9A-105, 8.9A-105.1, 8.9A-106, 8.9A-107, or 8.9A-107.1 pursuant to the debtor's security agreement; or
+		</section>
+		<section prefix="E">the collateral is chattel paper and the secured party has possession and control under § 8.9A-314.1 pursuant to the debtor's security agreement.
+		</section>
+		<section prefix="c">Other Uniform Commercial Code provisions. Subsection (b) is subject to § 8.4-210 on the security interest of a collecting bank, § 8.5A-118 on the security interest of a letter-of-credit issuer or nominated person, § 8.9A-110 on a security interest arising under Title 8.2 or Title 8.2A, and § 8.9A-206 on security interests in investment property.
+		</section>
+		<section prefix="d">When person becomes bound by another person's security agreement. A person becomes bound as debtor by a security agreement entered into by another person if, by operation of law other than this title or by contract:
+			<section prefix="1">the security agreement becomes effective to create a security interest in the person's property; or
+			</section>
+			<section prefix="2">the person becomes generally obligated for the obligations of the other person, including the obligation secured under the security agreement, and acquires or succeeds to all or substantially all of the assets of the other person.
+			</section>
+		</section>
+		<section prefix="e">Effect of new debtor becoming bound. If a new debtor becomes bound as debtor by a security agreement entered into by another person:
+			<section prefix="1">the agreement satisfies subdivision (b) (3) with respect to existing or after-acquired property of the new debtor to the extent the property is described in the agreement; and
+			</section>
+			<section prefix="2">another agreement is not necessary to make a security interest in the property enforceable.
+			</section>
+		</section>
+		<section prefix="f">Proceeds and supporting obligations. The attachment of a security interest in collateral gives the secured party the rights to proceeds provided by § 8.9A-315 and is also attachment of a security interest in a supporting obligation for the collateral.
+		</section>
+		<section prefix="g">Lien securing right to payment. The attachment of a security interest in a right to payment or performance secured by a security interest or other lien on personal or real property is also attachment of a security interest in the security interest, mortgage, or other lien.
+		</section>
+		<section prefix="h">Security entitlement carried in securities account. The attachment of a security interest in a securities account is also attachment of a security interest in the security entitlements carried in the securities account.
+		</section>
+		<section prefix="i">Commodity contracts carried in commodity account. The attachment of a security interest in a commodity account is also attachment of a security interest in the commodity contracts carried in the commodity account.
+		</section>
+	</text>
+	<history>Code 1950, § 6-551; 1964, c. 219, § 8.9-203; 1973, c. 509; 1984, c. 613; 1996, c. 216, § 8.9-115; 2000, c. 1007; 2004, c. 200; 2024, c. 652.</history>
+</law>

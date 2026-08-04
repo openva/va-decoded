@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="9" level="4">Taxation of Partnerships</unit>
+	</structure>
+	<section_number>58.1-393.1</section_number>
+	<catch_line>Extension of time for filing return by pass-through entity</catch_line>
+	<text>
+		<section prefix="A">In accordance with procedures established by the Tax Commissioner, any pass-through entity may elect an extension of time within which to file the report or return required by this article to the date six months after such due date, or 30 days after the extended date for filing the federal report, whichever is later.
+		</section>
+		<section prefix="B">If the return is not filed on or before the extended due date elected under subsection A, the penalty imposed by § 58.1-394.1 shall apply as if no extension had been granted.
+		</section>
+	</text>
+	<history>2004, Sp. Sess. I, c. 3; 2005, c. 100.</history>
+</law>

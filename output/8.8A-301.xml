@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.8A" level="1">Commercial Code — Investment Securities</unit>
+		<unit label="part" identifier="3" level="2">Transfer of Certificated and Uncertificated Securities</unit>
+	</structure>
+	<section_number>8.8A-301</section_number>
+	<catch_line>Delivery</catch_line>
+	<text>
+		<section prefix="a">Delivery of a certificated security to a purchaser occurs when:
+			<section prefix="1">the purchaser acquires possession of the security certificate;
+			</section>
+			<section prefix="2">another person, other than a securities intermediary, either acquires possession of the security certificate on behalf of the purchaser or, having previously acquired possession of the certificate, acknowledges that it holds for the purchaser; or
+			</section>
+			<section prefix="3">a securities intermediary acting on behalf of the purchaser acquires possession of the security certificate, only if the certificate is in registered form and is (i) registered in the name of the purchaser, (ii) payable to the order of the purchaser, or (iii) specially endorsed to the purchaser by an effective endorsement and has not been endorsed to the securities intermediary or in blank.
+			</section>
+		</section>
+		<section prefix="b">Delivery of an uncertificated security to a purchaser occurs when:
+			<section prefix="1">the issuer registers the purchaser as the registered owner, upon original issue or registration of transfer; or
+			</section>
+			<section prefix="2">another person, other than a securities intermediary, either becomes the registered owner of the uncertificated security on behalf of the purchaser or, having previously become the registered owner, acknowledges that it holds for the purchaser.
+			</section>
+		</section>
+	</text>
+	<history>1996, c. 216; 2000, c. 1007.</history>
+</law>

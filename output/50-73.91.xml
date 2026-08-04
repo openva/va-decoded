@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="3" level="3">Relations of Partners to Persons Dealing With Partnership</unit>
+	</structure>
+	<section_number>50-73.91</section_number>
+	<catch_line>Partner agent of partnership</catch_line>
+	<text>
+		Subject to the effect of a statement of partnership authority under § 50-73.93:
+		<section prefix="1">Each partner is an agent of the partnership for the purpose of its business. An act of a partner, including the execution of an instrument in the partnership name, for apparently carrying on in the ordinary course the partnership business or business of the kind carried on by the partnership binds the partnership, unless the partner had no authority to act for the partnership in the particular matter and the person with whom the partner was dealing knew or had received a notification that the partner lacked authority.
+		</section>
+		<section prefix="2">An act of a partner which is not apparently for carrying on in the ordinary course the partnership business or business of the kind carried on by the partnership binds the partnership only if the act was authorized by the other partners.
+		</section>
+	</text>
+	<history>1996, c. 292.</history>
+</law>

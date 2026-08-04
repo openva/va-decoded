@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="50" level="1">Partnerships</unit>
+		<unit label="chapter" identifier="2.2" level="2">Virginia Uniform Partnership Act</unit>
+		<unit label="article" identifier="9" level="3">Conversions and Mergers</unit>
+	</structure>
+	<section_number>50-73.127</section_number>
+	<catch_line>Effect of conversion; entity unchanged</catch_line>
+	<text>
+		<section prefix="A">A limited partnership that has been converted pursuant to this article is for all purposes the same entity that existed before the conversion.
+		</section>
+		<section prefix="B">When a conversion takes effect:
+			<section prefix="1">All property owned by the converting limited partnership remains vested in the resulting partnership;
+			</section>
+			<section prefix="2">All obligations of the converting limited partnership continue as obligations of the resulting partnership; and
+			</section>
+			<section prefix="3">An action or proceeding pending against the converting limited partnership may be continued as if the conversion had not occurred.
+			</section>
+		</section>
+	</text>
+	<history>1996, c. 292; 2007, c. 631.</history>
+</law>

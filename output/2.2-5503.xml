@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="55" level="4">Virginia Biotechnology Research Act</unit>
+	</structure>
+	<section_number>2.2-5503</section_number>
+	<catch_line>Requirements for regulated introduction</catch_line>
+	<text>
+		Except as provided under § 2.2-5502, no person may commence a regulated introduction unless the person:
+		<section prefix="1">Provides to the Department all of the following information within seven days after the person submits or should have submitted the information specified in subdivisions 1 a and 1 b to a federal regulator, whichever is sooner:
+			a. A copy of all information that the person is required to submit to the federal regulator and that is not confidential information; and
+			b. A summary of any confidential information that the person submits or is required to submit to a federal regulator. The summary shall provide sufficient information to enable the Department to exercise its notice and comment functions under §§ 2.2-5504 and 2.2-5505, to provide public notice pursuant to § 2.2-5504, and to prepare comments pursuant to § 2.2-5505, and shall have minimal extraneous and irrelevant information. The summary shall also provide sufficient information to enable the locality in which the introduction is proposed to be made to exercise its comment function under § 2.2-5505.
+		</section>
+		<section prefix="2">Provides such additional information, if any, as is necessary to enable the Department to fulfill any functions it undertakes, on a case-by-case basis, under § 2.2-5505.
+		</section>
+	</text>
+	<history>1994, c. 472, § 2.1-772; 2001, c. 844.</history>
+</law>

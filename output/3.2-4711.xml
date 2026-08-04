@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="3.2" level="1">Agriculture, Animal Care, and Food</unit>
+		<unit label="subtitle" identifier="III" level="2">Production and Sale of Agricultural Products</unit>
+		<unit label="chapter" identifier="47" level="3">Sale of Farm Produce</unit>
+		<unit label="article" identifier="2" level="4">Commission Merchants</unit>
+	</structure>
+	<section_number>3.2-4711</section_number>
+	<catch_line>License required; application for license to be in writing; contents</catch_line>
+	<text>
+		<section prefix="A">Every person who operates, conducts, or carries on the business of a commission merchant shall obtain a license.
+		</section>
+		<section prefix="B">Application for license shall be made to the Commissioner in writing, signed and sworn to by the applicant.
+		</section>
+		<section prefix="C">The application shall include:
+			<section prefix="1">The name of the locality where the business of commission merchant is to be conducted, the street and number of the building if practicable, and the nature of the products that will be handled by the applicant;
+			</section>
+			<section prefix="2">If made by a partnership, the full names of each of the partners comprising the partnership, and their respective addresses, and the firm or trade name under which the business is to be conducted;
+			</section>
+			<section prefix="3">If made by a corporation, whether it is domestic or foreign, the amount of its capital stock as provided in its articles of incorporation, the amount of its capital stock fully paid in, and the names of its officers and those persons authorized to receive and accept service of process and legal notices of all kinds for the applicant.
+			</section>
+		</section>
+		<section prefix="D">If requested by the Commissioner, an applicant shall demonstrate his character, responsibility, and good faith in seeking to carry on a commission merchant's business within the Commonwealth.
+		</section>
+	</text>
+	<history>Code 1950, §§ 3-536, 3-537; 1966, c. 702, §§ 3.1-694, 3.1-695; 2008, c. 860.</history>
+</law>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="III" level="2">Rental Conveyances</unit>
+		<unit label="chapter" identifier="12" level="3">Virginia Residential Landlord and Tenant Act</unit>
+		<unit label="article" identifier="2" level="4">Landlord Obligations</unit>
+	</structure>
+	<section_number>55.1-1214</section_number>
+	<catch_line>Inspection of dwelling unit; report</catch_line>
+	<text>
+		<section prefix="A">The landlord shall, within five days after occupancy of a dwelling unit, submit a written report to the tenant itemizing damages to the dwelling unit existing at the time of occupancy, and the report shall be deemed correct unless the tenant objects to it in writing within five days after receipt of the report.
+		</section>
+		<section prefix="B">The landlord may adopt a written policy allowing the tenant to prepare the written report of the move-in inspection, in which case the tenant shall submit a copy to the landlord, and the report shall be deemed correct unless the landlord objects thereto in writing within five days after receipt of the report. Such written policy adopted by the landlord may also provide for the landlord and the tenant to prepare the written report of the move-in inspection jointly, in which case both the landlord and the tenant shall sign the written report and receive a copy of the report, at which time the inspection report shall be deemed correct.
+		</section>
+		<section prefix="C">If any damages are reflected on the written report, a landlord is not required to make repairs to address such damages unless required to do so under § 55.1-1215 or 55.1-1220.
+		</section>
+	</text>
+	<history>1977, c. 427, § 55-248.11:1; 1992, c. 451; 2000, c. 760; 2016, c. 744; 2019, c. 712.</history>
+</law>

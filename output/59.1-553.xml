@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="50" level="2">Electronic Identity Management Act</unit>
+	</structure>
+	<section_number>59.1-553</section_number>
+	<catch_line>Commercially reasonable security procedures for electronic fund transfers</catch_line>
+	<text>
+		Use of an identity credential or identity attribute shall satisfy any requirement for a commercially reasonable security or attribution procedure in Title 8.4A, the Uniform Electronic Transactions Act (§ 59.1-479 et seq.), and the Uniform Computer Information Transactions Act (§ 59.1-501.1 et seq.), provided that the identity credential or identity attribute was issued or assigned in accordance with (i) the Commonwealth's identity management standards in place at the time of issuance or assignment, (ii) the terms of any contractual agreement, and (iii) any written rules and policies of the identity trust framework or federation of which the issuer is a member.
+	</text>
+	<history>2015, cc. 482, 483; 2020, c. 736.</history>
+</law>

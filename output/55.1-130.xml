@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="1" level="3">Creation and Limitation of Estates</unit>
+		<unit label="article" identifier="2" level="4">Rule Against Perpetuities</unit>
+	</structure>
+	<section_number>55.1-130</section_number>
+	<catch_line>Certain limitations construed</catch_line>
+	<text>
+		Every limitation in any deed or will contingent upon the dying of any person without heirs, heirs of the body, issue, issue of the body, children, offspring or descendants, or other relatives shall be construed a limitation to take effect when such person dies not having such heir, issue, child, offspring, descendant, or other relative, as the case may be, living at the time of his death, or born to him within 10 months after his death, unless the intention of such limitation be otherwise plainly declared on the face of the deed or will creating it.
+	</text>
+	<history>Code 1919, § 5151; Code 1950, § 55-13; 2019, c. 712.</history>
+</law>

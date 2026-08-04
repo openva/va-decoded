@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="A" level="3">Office of the Governor</unit>
+		<unit label="chapter" identifier="2" level="4">Governor's Secretaries</unit>
+		<unit label="article" identifier="2" level="5">Secretary of Administration</unit>
+	</structure>
+	<section_number>2.2-203.2:4</section_number>
+	<catch_line>Chief Data Officer; created; report</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Board" means the Executive Data Board.
+			"CDO" means the Chief Data Officer of the Commonwealth.
+			"Commonwealth Data Trust" means a secure, multi-stakeholder data exchange and analytics platform with common rules for data security, privacy, and confidentiality. The Commonwealth Data Trust includes data from state, regional, and local governments, from public institutions of higher education, and from any other sources deemed necessary and appropriate.
+			"Council" means the Data Governance Council.
+			"Group" means the Data Stewards Group.
+			"Office" means the Office of Data Governance and Analytics as created pursuant to § 2.2-2034.1.
+			"Open data" means data that is collected by an agency that is not prohibited from being made available to the public by applicable laws or regulations or other restrictions, requirements, or rights associated with such data.
+		</section>
+		<section prefix="B">There is created in the Office of the Secretary of Administration the position of Chief Data Officer of the Commonwealth to lead the Office of Data Governance and Analytics. The CDO shall exercise and perform the duties conferred or imposed upon him by law and perform such other duties as may be required by the Governor and the Secretary of Administration. The CDO shall not be considered the custodian of any public records in or derived from the Commonwealth Data Trust. The CDO shall:
+			<section prefix="1">Establish business rules, guidelines, and best practices for the use of data, including open data, in the Commonwealth. Such rules, guidelines, and best practices shall address, at a minimum, (i) the sharing of data between state, regional, and local public entities and public institutions of higher education, and, when appropriate, private entities; (ii) data storage; (iii) data security; (iv) privacy; (v) compliance with federal law; (vi) the de-identification of data for research purposes; and (vii) the appropriate access to and presentation of open data and datasets to the public;
+			</section>
+			<section prefix="2">Assist state, regional, and local public entities, public institutions of higher education, and employees thereof, with the application of the Government Data Collection and Dissemination Practices Act (§ 2.2-3800 et. seq.) and understanding the applicability of federal laws governing privacy and access to data to the data sharing practices of the Commonwealth;
+			</section>
+			<section prefix="3">Assist the Chief Information Officer of the Commonwealth with matters related to the creation, storage, and dissemination of data upon request;
+			</section>
+			<section prefix="4">Encourage and coordinate efforts of state, regional, and local public entities and public institutions of higher education to access and share data, including open data, across all levels of government in an effort to improve the efficiency and efficacy of services, improve outcomes, and promote data-driven policy making, decision making, research, and analysis;
+			</section>
+			<section prefix="5">Oversee the implementation of a website dedicated to (i) hosting open data from state, regional, and local public entities and public institutions of higher education and (ii) providing links to any other additional open data websites in the Commonwealth;
+			</section>
+			<section prefix="6">Enter into contracts for the purpose of carrying out the provisions of this section;
+			</section>
+			<section prefix="7">Obtain from the Virginia Information Technologies Agency office space and human resources, procurement, fiscal, and other administrative support and resources necessary to support the operations of the Office and to carry out the provisions of this section; and
+			</section>
+			<section prefix="8">Report on the activities of the Office and the Commonwealth Data Trust annually by December 1 to the Governor and the General Assembly.
+			</section>
+		</section>
+		<section prefix="C">The Commonwealth Data Trust shall be governed by a multi-level governance structure as follows:
+			<section prefix="1">The Executive Data Board shall consist of the directors or chief executives, or their designees, of executive branch agencies engaged in data sharing and analytics projects with the Commonwealth Data Trust. The CDO shall chair the Board. Members of the Board shall (i) translate the Commonwealth's data-driven policy goals and objectives into performance targets at their respective agencies; (ii) allocate appropriate resources at their respective agencies to support data governance, sharing, and analytics initiatives; and (iii) provide any reports to the Office regarding their respective agencies' data analytics work and implementation of recommendations.
+			</section>
+			<section prefix="2">The Data Governance Council shall consist of employees of the agencies represented on the Board, selected by the Board members from their respective agencies. The CDO, or his designee, shall chair the Council. The Council shall (i) liaise between state agency operations and the CDO; (ii) advise the CDO on data technology, policy, and governance structure; (iii) administer data governance policies, standards, and best practices, as set by the Board; (iv) oversee data sharing and analytics projects; (v) review open data assets prior to publication; (vi) provide to the Board any reports on the Council's recommendations and work as required by the Board; (vii) develop necessary privacy and ethical standards and policies for Commonwealth Data Trust resources; (viii) monitor the sharing of Commonwealth Data Trust member-contributed data resources; (ix) review and approve new Commonwealth Data Trust-managed data resources; and (x) conduct any other business the CDO deems necessary for Commonwealth Data Trust governance.
+			</section>
+			<section prefix="3">The Data Stewards Group shall consist of employees from executive branch agencies with technical experience in data management or data analytics. Executive branch agencies shall be encouraged to designate at least one agency data steward to serve on the Group and may designate multiple data stewards as appropriate based upon organizational or data system responsibilities. The Group shall (i) provide the Board and Council with technical subject matter expertise in support of data policies, standards, and best practices; (ii) implement data sharing and analytics projects promoting data accessibility, sharing, and reuse, thereby reducing redundancy across the Commonwealth; (iii) coordinate and resolve technical stewardship issues for standardized data; (iv) ensure data quality processes and standards are implemented consistently by agencies in the Commonwealth; (v) provide communication and education to data users on the appropriate use, sharing, and protection of the Commonwealth's data assets; (vi) promote the collection and sharing of metadata by registering data assets in the Virginia Data Catalog; (vii) liaise with agency project managers and information technology investment staff to ensure adherence to Commonwealth data standards and data sharing requirements; and (viii) support informed, data-driven decision making through compliance with Commonwealth data policies, standards, and best practices.
+			</section>
+		</section>
+		<section prefix="D">In carrying out the provisions of this section, the Office shall coordinate and collaborate with, to the fullest extent authorized by federal law and notwithstanding any state law to the contrary, all agencies set forth in subsection A of § 2.2-212 and subsection A of § 2.2-221; any other state, regional, and local public bodies, including community services boards; local law-enforcement agencies; any health and human services-related entity of a political subdivision that receives state funds; public institutions of higher education; and, when appropriate, private entities.
+		</section>
+		<section prefix="E">The Office shall be considered an agent of any state agency in the executive branch of government that shares information or data with the Office, and shall be an authorized recipient of information under any statutory or administrative law governing the information or data. Interagency data shared pursuant to this section shall not constitute a disclosure or release of information or data under any statutory or administrative law governing the information or data.
+		</section>
+		<section prefix="F">The Office shall be responsible for overseeing and supporting any workforce development data systems authorized under the Secretary of Labor to ensure the interoperability of the systems, to facilitate data sharing, to identify innovative technology solutions, and to support processes that create data-informed decisions.
+		</section>
+	</text>
+	<history>2018, c. 679; 2021, Sp. Sess. I, c. 314; 2023, cc. 46, 47; 2024, c. 292; 2025, cc. 7, 23.</history>
+</law>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="20" level="1">Domestic Relations</unit>
+		<unit label="chapter" identifier="7.1" level="2">Uniform Child Custody Jurisdiction and Enforcement Act</unit>
+		<unit label="article" identifier="3" level="3">Enforcement</unit>
+	</structure>
+	<section_number>20-146.28</section_number>
+	<catch_line>Simultaneous proceedings</catch_line>
+	<text>
+		If a proceeding for enforcement under this article is commenced in a court of this Commonwealth and the court determines that a proceeding to modify the determination is pending in a court of another state having jurisdiction to modify the determination under Article 2 (§ 20-146.12 et seq.) of this chapter, the enforcing court shall immediately communicate with the modifying court. The proceeding for enforcement continues unless the enforcing court, after consultation with the modifying court, stays or dismisses the proceeding.
+	</text>
+	<history>1979, c. 229, § 20-129; 2001, c. 305.</history>
+</law>

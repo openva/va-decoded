@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.14</section_number>
+	<catch_line>Risk of loss of copy</catch_line>
+	<text>
+		<section prefix="a">Except as otherwise provided in this section, the risk of loss as to a copy that is to be delivered to a licensee, including a copy delivered by electronic means, passes to the licensee upon its receipt of the copy.
+		</section>
+		<section prefix="b">If an agreement requires or authorizes a licensor to send a copy on a tangible medium by carrier, the following rules apply:
+			<section prefix="1">If the agreement does not require the licensor to deliver the copy at a particular destination, the risk of loss passes to the licensee when the copy is duly delivered to the carrier, even if the shipment is under reservation.
+			</section>
+			<section prefix="2">If the agreement requires the licensor to deliver the copy at a particular destination and the copy is duly tendered there in the possession of the carrier, the risk of loss passes to the licensee when the copy is tendered at that destination.
+			</section>
+			<section prefix="3">If a tender of delivery of a copy or a shipping document fails to conform to the contract, the risk of loss remains with the licensor until cure or acceptance.
+			</section>
+		</section>
+		<section prefix="c">If a copy is held by a third party to be delivered or reproduced without being moved or a copy is to be delivered by making access available to a third party resource containing a copy, the risk of loss passes to the licensee upon:
+			<section prefix="1">the licensee's receipt of a negotiable document of title or other access materials covering the copy;
+			</section>
+			<section prefix="2">acknowledgment by the third party to the licensee of the licensee's right to possession of or access to the copy; or
+			</section>
+			<section prefix="3">the licensee's receipt of a record directing the third party, pursuant to an agreement between the licensor and the third party, to make delivery or authorizing the third party to allow access.
+			</section>
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

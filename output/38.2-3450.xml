@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="34" level="2">Provisions Relating to Accident and Sickness Insurance</unit>
+		<unit label="article" identifier="6" level="3">Federal Market Reforms</unit>
+	</structure>
+	<section_number>38.2-3450</section_number>
+	<catch_line>Genetic information and testing</catch_line>
+	<text>
+		<section prefix="A">A health carrier offering a health benefit plan providing individual and group health insurance coverage shall not adjust premium or contribution amounts for a covered person under such plan on the basis of genetic information.
+		</section>
+		<section prefix="B">A health carrier shall not request or require a covered person to undergo a genetic test, or require or purchase genetic information for underwriting purposes. A health carrier shall not request, require, or purchase genetic information with respect to any covered person prior to the covered person's enrollment under the health benefit plan.
+		</section>
+		<section prefix="C">Genetic information may be obtained under the following circumstances:
+			<section prefix="1">A health care professional who is providing health care services to a covered person may request that the covered person undergo a genetic test.
+				a. A health carrier may obtain and use the results of a genetic test in making a determination regarding payment of a claim.
+				b. A health carrier may request only the minimum amount of information necessary to accomplish the intended purpose.
+			</section>
+			<section prefix="2">A health carrier may request, but not require, that a covered person undergo a genetic test if all of the following conditions are met:
+				a. The request is made pursuant to research that complies with Part 46 of Title 45 of the Code of Federal Regulations or equivalent federal regulations and any applicable state or local law or regulation for the protection of human subjects in research;
+				b. The health carrier clearly indicates to the covered person, or in the case of a minor child, to the legal guardian of the child, to whom the request is made that:
+				<section prefix="1">Compliance with the request is voluntary; and
+				</section>
+				<section prefix="2">Noncompliance will have no effect on enrollment status or premium or contribution amounts;
+					c. No genetic information collected or acquired under this subsection shall be used for underwriting purposes;
+					d. The health carrier notifies the federal Secretary of Health and Human Services in writing that the health carrier is conducting activities pursuant to the exception provided in this subsection, including a description of all the activities conducted; and
+					e. The health carrier complies with such other conditions as the Secretary may by regulation require for activities conducted under this subsection.
+				</section>
+			</section>
+		</section>
+		<section prefix="D">Any reference in this section to genetic information concerning a covered person shall:
+			<section prefix="1">With respect to the covered person who is a pregnant woman, include genetic information of any fetus carried by the pregnant woman; and
+			</section>
+			<section prefix="2">With respect to a covered person utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the covered person.
+			</section>
+		</section>
+		<section prefix="E">This section shall apply to any health carrier providing individual or group health insurance coverage, including any grandfathered plan.
+		</section>
+	</text>
+	<history>2013, c. 751.</history>
+</law>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Shares and Distributions</unit>
+	</structure>
+	<section_number>13.1-651</section_number>
+	<catch_line>Shareholders' preemptive rights</catch_line>
+	<text>
+		<section prefix="A">Unless limited or denied in the articles of incorporation and subject to the limitations in subsection C, the shareholders of a corporation incorporated on or before December 31, 2005, have a preemptive right, granted on uniform terms and conditions prescribed by the board of directors to provide a fair and reasonable opportunity to exercise the right, to acquire proportional amounts of the corporation's unissued shares upon the decision of the board of directors to issue them.
+		</section>
+		<section prefix="B">Unless otherwise provided for in the articles of incorporation, the shareholders of a corporation incorporated after December 31, 2005, do not have a preemptive right to acquire the corporation's unissued shares.
+		</section>
+		<section prefix="C">Except to the extent that the articles of incorporation expressly provide otherwise, when there are preemptive rights, the following apply:
+			<section prefix="1">The shareholders of the corporation have a preemptive right, granted on uniform terms and conditions prescribed by the board of directors to provide a fair and reasonable opportunity to exercise the right, to acquire proportional amounts of the corporation's unissued shares upon the decision of the board of directors to issue them.
+			</section>
+			<section prefix="2">A shareholder may waive the shareholder's preemptive right. A waiver evidenced by a writing is irrevocable even though it is not supported by consideration.
+			</section>
+			<section prefix="3">There is no preemptive right with respect to:
+				a. Shares issued as compensation to officers, employees, or agents of the corporation, its subsidiaries, or affiliates;
+				b. Shares issued to satisfy conversion or option rights created to provide compensation to directors, officers, employees, or agents of the corporation, its subsidiaries, or affiliates;
+				c. Shares that are issued within six months from the effective date of the certificate of incorporation; or
+				d. Shares issued for consideration other than for cash.
+			</section>
+			<section prefix="4">Holders of shares of any class with preferential rights to distributions have no preemptive rights with respect to shares of any other class.
+			</section>
+			<section prefix="5">Holders of shares of any class without preferential rights to distributions have no preemptive rights with respect to shares of any class with preferential rights to distributions unless the shares with preferential rights are convertible into, or carry a right to subscribe for or acquire, shares without preferential rights.
+			</section>
+			<section prefix="6">Holders of shares of any class without general voting rights and without preferential rights to distributions have no preemptive rights with respect to shares of any class with general voting rights but without preferential rights to distributions.
+			</section>
+			<section prefix="7">Shares subject to preemptive rights that are not acquired by shareholders may be issued to any person for a period of one year after being offered to shareholders at a consideration set by the board of directors that is not lower than the consideration set for the exercise of preemptive rights. An offer at a lower consideration or after the expiration of one year is subject to the shareholders' preemptive rights.
+			</section>
+		</section>
+		<section prefix="D">For purposes of this section, "shares" includes any warrants, rights, or options to acquire any shares or any security or other obligation of the corporation convertible into or carrying a right to subscribe for or acquire any such shares or warrants, rights, or options to acquire any such shares.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-23; 1956, c. 428; 1975, c. 500; 1985, c. 522; 2005, c. 765; 2019, c. 734.</history>
+</law>

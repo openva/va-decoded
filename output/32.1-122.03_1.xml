@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="32.1" level="1">Health</unit>
+		<unit label="chapter" identifier="4" level="2">Health Care Planning</unit>
+		<unit label="article" identifier="4.1" level="3">Health Planning and Resources Development</unit>
+	</structure>
+	<section_number>32.1-122.03:1</section_number>
+	<catch_line>Statewide Telehealth Plan</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Remote patient monitoring services" has the same meaning as in § 38.2-3418.16.
+			"Telehealth services" means the use of telecommunications and information technology to provide access to health assessments, diagnosis, intervention, consultation, supervision, and information across distance. "Telehealth services" includes the use of such technologies as telephones, facsimile machines, electronic mail systems, store-and-forward technologies, and remote patient monitoring devices that are used to collect and transmit patient data for monitoring and interpretation. Nothing in this definition shall be construed or interpreted to amend the appropriate establishment of a bona fide practitioner-patient relationship, as defined in § 54.1-3303.
+			"Telemedicine services" has the same meaning as in § 38.2-3418.16.
+		</section>
+		<section prefix="B">The Board shall amend and maintain, in consultation with the Virginia Telehealth Network, as a component of the State Health Plan a Statewide Telehealth Plan to promote an integrated approach to the introduction and use of telehealth services and telemedicine services. The Board shall contract with the Virginia Telehealth Network, or another Virginia-based nongovernmental, nonprofit organization focused on telehealth if the Virginia Telehealth Network is no longer in existence, to (i) provide direct consultation to any advisory groups and groups tasked by the Board with implementation and data collection as required by this section, (ii) track implementation of the Statewide Telehealth Plan, and (iii) facilitate changes to the Statewide Telehealth Plan as accepted medical practices and technologies evolve.
+		</section>
+		<section prefix="C">The Statewide Telehealth Plan shall include but not be limited to provisions for:
+			<section prefix="1">The promotion of the inclusion of telehealth services and telemedicine services in the operating procedures of hospitals, primary care facilities, public primary and secondary schools, state-funded post-secondary schools, emergency medical services agencies, and such other state agencies and practices deemed necessary by the Board;
+			</section>
+			<section prefix="2">The promotion of the use of remote patient monitoring services and store-and-forward technologies, including in cases involving patients with chronic illness;
+			</section>
+			<section prefix="3">A uniform and integrated set of proposed criteria for the use of telehealth technologies for prehospital and interhospital triage and transportation of patients initiating or in need of emergency medical services developed by the Board in consultation with the Department of Health Professions, the Virginia College of Emergency Physicians, the Virginia Hospital and Healthcare Association, the Virginia Chapter of the American College of Surgeons, the American Stroke Association, the American Telemedicine Association, and prehospital care providers. The Board may revise such criteria from time to time to incorporate accepted changes in medical practice and appropriate use of new and effective innovations in telehealth or telemedicine technologies, or to respond to needs indicated by analysis of data on patient outcomes. Such criteria shall be used as a guide and resource for health care providers and are not intended to establish, in and of themselves, standards of care or to abrogate the requirements of § 8.01-581.20. A decision by a health care provider to deviate from the criteria shall not constitute negligence per se;
+			</section>
+			<section prefix="4">A strategy for integration of the Statewide Telehealth Plan with the State Health Plan, the Statewide Emergency Medical Services Plan, the Statewide Trauma Triage Plan, and the Stroke Triage Plan to support the purposes of each plan;
+			</section>
+			<section prefix="5">A strategy for the maintenance of the Statewide Telehealth Plan through (i) the development of an innovative payment model for emergency medical services that covers the transportation of a patient to a destination providing services of appropriate patient acuity and facilitates in-place treatment of a patient at the scene of an emergency response or via telehealth services and telemedicine services, where appropriate; (ii) the development of collaborative and uniform operating procedures for establishing and recording informed patient consent for the use of telehealth services and telemedicine services that are easily accessible by those medical professionals engaging in telehealth services and telemedicine services; and (iii) appropriate liability protection for providers involved in such telehealth and telemedicine consultation and treatment; and
+			</section>
+			<section prefix="6">A strategy for the collection of data regarding the use of telehealth services and telemedicine services in the delivery of inpatient and outpatient services, treatment of chronic illnesses, remote patient monitoring, and emergency medical services to determine the effect of use of telehealth services and telemedicine services on the medical service system in the Commonwealth, including (i) the potential for reducing unnecessary inpatient hospital stays, particularly among patients with chronic illnesses or conditions; (ii) the impact of the use of telehealth services and telemedicine services on patient morbidity, mortality, and quality of life; (iii) the potential for reducing unnecessary prehospital and interhospital transfers; and (iv) the impact on annual expenditures for health care services for all payers, including expenditures by third-party payers and out-of-pocket expenditures by patients.
+			</section>
+		</section>
+	</text>
+	<history>2020, c. 729; 2022, cc. 724, 742.</history>
+</law>

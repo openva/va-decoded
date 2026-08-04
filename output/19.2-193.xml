@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="13" level="2">Grand Juries</unit>
+		<unit label="article" identifier="2" level="3">Regular Grand Juries</unit>
+	</structure>
+	<section_number>19.2-193</section_number>
+	<catch_line>Number of regular grand juries</catch_line>
+	<text>
+		There shall be a regular grand jury at each term of the circuit court of each county and city, unless the court, on the motion of the attorney for the Commonwealth or with his concurrence, finds that it is unnecessary or impractical to impanel a grand jury for the particular term and enters an order to that effect.
+		Whenever the number of cases to be considered by the grand jury at a given term is so great as to hamper the intelligent consideration thereof by a single grand jury, the court may order two or more regular grand juries to be impanelled to sit separately at the same or a different time during the term.
+		Whenever a regular grand jury has been discharged, the court, during the term, may impanel another regular grand jury.
+	</text>
+	<history>Code 1950, § 19.1-147; 1960, c. 366; 1975, c. 495.</history>
+</law>

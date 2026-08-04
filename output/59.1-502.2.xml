@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="2" level="3">Formation and Terms</unit>
+	</structure>
+	<section_number>59.1-502.2</section_number>
+	<catch_line>Formation in general</catch_line>
+	<text>
+		<section prefix="a">A contract may be formed in any manner sufficient to show agreement, including offer and acceptance or conduct of both parties or operations of electronic agents which recognize the existence of a contract.
+		</section>
+		<section prefix="b">If the parties so intend, an agreement sufficient to constitute a contract may be found even if the time of its making is undetermined, one or more terms are left open or to be agreed upon, the records of the parties do not otherwise establish a contract, or one party reserves the right to modify terms.
+		</section>
+		<section prefix="c">Even if one or more terms are left open or to be agreed upon, a contract does not fail for indefiniteness if the parties intended to make a contract and there is a reasonably certain basis for giving an appropriate remedy.
+		</section>
+		<section prefix="d">In the absence of conduct or performance by both parties to the contrary, a contract is not formed if there is a material disagreement about a material term, including a term concerning scope.
+		</section>
+		<section prefix="e">If a term is to be adopted by later agreement and the parties intend not to be bound unless the term is so adopted, a contract is not formed if the parties do not agree to the term. In that case, each party shall deliver to the other party, or with the consent of the other party destroy, all copies of information, access materials, and other materials received or made, and each party is entitled to a return with respect to any contract fee paid for which performance has not been received, has not been accepted, or has been redelivered without any benefit being retained. The parties remain bound by any contractual use term only with respect to information or copies received or made from copies received pursuant to the agreement, but the contractual use term does not apply to information or copies properly received or obtained from another source.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

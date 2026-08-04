@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="3.6" level="4">Computer Recovery and Recycling Act</unit>
+	</structure>
+	<section_number>10.1-1425.28</section_number>
+	<catch_line>Applicability</catch_line>
+	<text>
+		<section prefix="A">The collection, recycling, and reuse provisions of this article apply to computer equipment used and returned to the manufacturer by a consumer in this state and do not impose any obligation on an owner or operator of a solid waste facility.
+		</section>
+		<section prefix="B">This article does not apply to:
+			<section prefix="1">Any part of a motor vehicle, a personal digital assistant, or a telephone;
+			</section>
+			<section prefix="2">A consumer's lease of computer equipment or a consumer's use of computer equipment under a lease agreement; or
+			</section>
+			<section prefix="3">The sale or lease of computer equipment to an entity when the manufacturer and the entity enter into a contract that effectively addresses the collection, recycling, and reuse of computer equipment that has reached the end of its useful life.
+			</section>
+		</section>
+	</text>
+	<history>2008, c. 541.</history>
+</law>

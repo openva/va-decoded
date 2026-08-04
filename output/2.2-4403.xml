@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="44" level="4">Virginia Security for Public Deposits Act</unit>
+	</structure>
+	<section_number>2.2-4403</section_number>
+	<catch_line>Procedure for payment of losses by pooled method</catch_line>
+	<text>
+		When the Treasury Board determines that a qualified public depository securing public deposits in accordance with this section is a defaulting depository, it shall as promptly as practicable take steps to reimburse public depositors for uninsured public deposits using the following procedures:
+		<section prefix="1">The Treasury Board shall ascertain the amount of uninsured public deposits held by the defaulting depository, either with the cooperation of the Commissioner of Financial Institutions, the receiver appointed for such depository, or by any other means available.
+		</section>
+		<section prefix="2">The amount of such uninsured public deposits ascertained as provided in subdivision 1, plus any costs associated with liquidation, shall be assessed by the Treasury Board first against the defaulting depository to the extent of the full realizable market value of the collateral pledged to secure its public deposits.
+		</section>
+		<section prefix="3">In the event the realized value of the pledged collateral in subdivision 2 is insufficient to satisfy the liability of the defaulting depository to its public depositors and the Treasury Board, the Treasury Board shall assess the remaining liability against all other qualified public depositories securing public deposits according to the following ratio: total average public deposit balance for each qualified public depository held during the immediately preceding twelve months divided by the total average public deposit balance for the same period held by all qualified public depositories under this section other than the defaulting depository.
+		</section>
+		<section prefix="4">Assessments made by the Treasury Board in accordance with subdivision 3 shall be payable by the close of business on the second business day following demand. Upon the failure of any qualified public depository to pay such assessment when due, the State Treasurer shall promptly take possession of the eligible collateral deposited with the non-paying depository's escrow agent and liquidate the same to the extent necessary to pay the original assessment plus any additional costs necessary to liquidate the collateral.
+		</section>
+		<section prefix="5">Upon receipt of such assessments and the net proceeds of the eligible collateral liquidated from the State Treasurer, the Treasury Board shall reimburse the public depositors to the extent of the defaulting depository's liability to them, net of any applicable deposit insurance.
+		</section>
+	</text>
+	<history>1973, c. 172, § 2.1-363; 1978, c. 14; 1984, c. 135; 2001, c. 844; 2009, c. 64; 2010, cc. 640, 674.</history>
+</law>

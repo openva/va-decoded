@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.01" level="1">Civil Remedies and Procedure</unit>
+		<unit label="chapter" identifier="3" level="2">Actions</unit>
+		<unit label="article" identifier="5" level="3">Death by Wrongful Act</unit>
+	</structure>
+	<section_number>8.01-54</section_number>
+	<catch_line>Judgment to distribute recovery when verdict fails to do so</catch_line>
+	<text>
+		<section prefix="A">The verdict may and the judgment of the court shall in all cases specify the amount or the proportion to be received by each of the beneficiaries, if there be any. No verdict shall be set aside for failure to make such specification.
+		</section>
+		<section prefix="B">If either party shall so request the case shall be submitted to the jury with instructions to specify the distribution of the award, if any. If the jury be unable to agree upon or fail to make such distribution, the court shall specify the distribution and enter judgment accordingly. For the purpose of distribution the court may hear additional evidence.
+		</section>
+		<section prefix="C">The amount recovered in any such action shall be paid to the personal representative who shall first pay the costs and reasonable attorney's fees and then distribute the amount specifically allocated to the payment of hospital, medical, and funeral expenses. The remainder of the amount recovered shall thereafter be distributed by the personal representative, as specified in subsections A and B above, to the beneficiaries set forth in § 8.01-53; provided that any distribution made to any such beneficiaries shall be free from all debts and liabilities of the decedent. If there be no such beneficiaries, the amount so recovered shall be assets in the hands of the personal representative to be disposed of according to law.
+		</section>
+	</text>
+	<history>Code 1950, § 8-638; 1954, c. 333; 1973, c. 401; 1977, c. 617.</history>
+</law>

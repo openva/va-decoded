@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="6" level="4">General Provisions</unit>
+		<unit label="article" identifier="1" level="5">In General</unit>
+	</structure>
+	<section_number>2.2-608</section_number>
+	<catch_line>Furnishing reports; Governor authorized to require reports</catch_line>
+	<text>
+		<section prefix="A">Agencies, institutions, collegial bodies, and other governmental entities that are specifically required by the Code of Virginia to report annually or biennially to the Governor and General Assembly shall post such annual or biennial reports on the respective entity's website on or before October 1 of each year, unless otherwise specified. No hard copies of annual and biennial reports shall be printed except in instances where copies are requested by a member of the General Assembly in accordance with the provisions of § 30-34.4:1. The Governor may require any agency to furnish an annual or biennial report in a written or electronic format.
+		</section>
+		<section prefix="B">Each state entity required to submit a report to multiple legislative branch entities pursuant to subsection C may develop a single consolidated report containing the required information. Such report shall be (i) formatted to comply with any specific reporting requirement, and (ii) provided in a manner designed to clearly delineate each legislative branch entity for which specific information is provided.
+		</section>
+		<section prefix="C">Any agency, institution, collegial body, or other governmental entity outside of the legislative branch of government required to submit a report to the General Assembly or any committee, subcommittee, commission, agency, or other body within the legislative branch or to the chairman or agency head of such entity shall distribute a copy of such report to each member of the General Assembly who requests a copy in accordance with the provisions of § 30-34.4:1. A consolidated report developed pursuant to subsection B shall satisfy any reporting requirement under this subsection. The cost of printing and distributing reports shall be borne by the reporting entity or its supporting agency.
+		</section>
+		<section prefix="D">Any agency, institution, collegial body, or other governmental entity outside of the legislative branch of government required to submit a report to (i) the General Assembly or any committee, subcommittee, commission, agency, or other body within the legislative branch or (ii) the chairman or agency head of any such entity shall make such reports available as read-only and text-searchable Portable Document Format (.pdf) files or some other widely used and accessible read-only and text-searchable electronic document format. All requests for such reports shall be made electronically unless expressly requested otherwise.
+		</section>
+	</text>
+	<history>1984, c. 734, § 2.1-2.1; 2001, c. 844; 2004, c. 650; 2009, c. 550; 2011, c. 845; 2012, c. 434; 2020, c. 421.</history>
+</law>

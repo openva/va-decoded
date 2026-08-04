@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="1.1" level="2">General Assembly Salaries and Expenses</unit>
+		<unit label="article" identifier="2" level="3">Legislator Compensation Commission</unit>
+	</structure>
+	<section_number>30-19.22</section_number>
+	<catch_line>Powers and duties; report</catch_line>
+	<text>
+		<section prefix="A">The Commission shall convene every four years in the year in which a gubernatorial election is scheduled for the purpose of reviewing the salaries, expense allowances, retirement benefits, and other emoluments received by members of the General Assembly. In conducting its review, the Commission shall (i) review the current salaries, expense allowances, retirement benefits, and any other emoluments for members of the General Assembly; (ii) examine the Commonwealth's history of legislative compensation; (iii) gather information regarding the compensation, expenses, and benefits for legislative service in other states; (iv) assess various state methodologies for determining reasonable legislative compensation, including tying salaries to certain indexes or economic indicators; and (v) seek assistance and input of legislators and other citizens by conducting surveys or holding public hearings as may be appropriate.
+		</section>
+		<section prefix="B">The Commission shall determine whether any adjustments to the salaries, expense allowances, retirement benefits, or other emoluments are indicated and shall submit its findings and recommendations in a report to the Governor and the General Assembly on or before October 1 of the year following a gubernatorial election.
+		</section>
+		<section prefix="C">Any adjustments made to the salaries, expense allowances, or other emoluments or benefits that are recommended by the Commission and included in a budget bill that is subsequently adopted by the General Assembly shall not be effective until January 1 of the year immediately following the general election for all members of the General Assembly.
+		</section>
+	</text>
+	<history>2025, c. 687.</history>
+</law>

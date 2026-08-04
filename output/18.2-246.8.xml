@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="6" level="2">Crimes Involving Fraud</unit>
+		<unit label="article" identifier="10" level="3">Cigarette Delivery Sale Requirements</unit>
+	</structure>
+	<section_number>18.2-246.8</section_number>
+	<catch_line>Age verification requirements</catch_line>
+	<text>
+		<section prefix="A">No person shall mail, ship, or otherwise deliver cigarettes in connection with a delivery sale unless prior to the first delivery sale to a consumer such person:
+			<section prefix="1">Obtains from the prospective consumer a certification that includes (i) a reliable confirmation that the consumer is at least the legal minimum purchase age and (ii) a statement signed by the prospective consumer in writing that certifies the prospective consumer's address and that the consumer is at least 21 years of age. Such statement shall also confirm (a) that the prospective consumer understands that signing another person's name to such certification is illegal, (b) that the sale of cigarettes to individuals under the legal minimum purchase age is illegal, and (c) that the purchase of cigarettes by individuals under the legal minimum purchase age is illegal under the laws of the Commonwealth;
+			</section>
+			<section prefix="2">Makes a good faith effort to verify the information contained in the certification provided by the prospective consumer pursuant to subdivision 1 against a commercially available database of valid, government-issued identification that contains the date of birth or age of the individual placing the order, or obtains a photocopy or other image of the valid, government-issued identification stating the date of birth or age of the individual placing the order;
+			</section>
+			<section prefix="3">Provides to the prospective consumer, via email or other means, a notice that meets the requirements of § 18.2-246.9; and
+			</section>
+			<section prefix="4">Receives payment for the delivery sale from the prospective consumer by a credit or debit card that has been issued in such consumer's name or by a check drawn on the consumer's account.
+			</section>
+		</section>
+		<section prefix="B">1. Except as provided in § 58.1-1021.06, if a purchase order for a liquid nicotine or nicotine vapor product, as defined in § 58.1-1021.01, is made via the Internet, no person shall make a delivery for such order unless the delivery is to a retail dealer, as defined in § 58.1-1021.01.
+			<section prefix="2">Persons accepting purchase orders made via the Internet for delivery sales may request that prospective consumers provide their email addresses.
+			</section>
+		</section>
+	</text>
+	<history>2003, c. 1010; 2019, cc. 90, 102; 2024, cc. 796, 821.</history>
+</law>

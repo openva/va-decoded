@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="13" level="2">Grand Juries</unit>
+		<unit label="article" identifier="3" level="3">Special Grand Juries</unit>
+	</structure>
+	<section_number>19.2-206</section_number>
+	<catch_line>When impanelled</catch_line>
+	<text>
+		<section prefix="A">Special grand juries may be impanelled by a circuit court (i) at any time upon its own motion, (ii) upon recommendation of a minority of the members of a regular grand jury that a special grand jury be impanelled, to perform the functions provided for in subdivision (2) of § 19.2-191, or (iii) upon request of the attorney for the Commonwealth to investigate and report on any condition that involves or tends to promote criminal activity and consider bills of indictment to determine whether there is sufficient probable cause to return each such indictment as a "true bill."
+		</section>
+		<section prefix="B">A special grand jury shall be impanelled by a circuit court upon the recommendation of a majority of the members of a regular grand jury if the court finds probable cause to believe that a crime has been committed which should be investigated by a special grand jury impanelled to perform the functions provided for in subdivision (2) of § 19.2-191.
+		</section>
+	</text>
+	<history>Code 1950, § 19.1-149; 1960, c. 366; 1975, c. 495; 1978, c. 741; 1980, c. 134; 1987, c. 136; 2001, c. 4.</history>
+</law>

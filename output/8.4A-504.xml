@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.4A" level="1">Commercial Code — Funds Transfers</unit>
+		<unit label="part" identifier="5" level="2">Miscellaneous Provisions</unit>
+	</structure>
+	<section_number>8.4A-504</section_number>
+	<catch_line>Order in which items and payment orders may be charged to account; order of withdrawals from account</catch_line>
+	<text>
+		<section prefix="a">If a receiving bank has received more than one payment order of the sender or one or more payment orders and other items that are payable from the sender's account, the bank may charge the sender's account with respect to the various orders and items in any sequence.
+		</section>
+		<section prefix="b">In determining whether a credit to an account has been withdrawn by the holder of the account or applied to a debt of the holder of the account, credits first made to the account are first withdrawn or applied.
+		</section>
+	</text>
+	<history>1990, c. 9.</history>
+</law>

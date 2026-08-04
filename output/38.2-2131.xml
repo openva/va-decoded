@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="21" level="2">Fire Insurance Policies</unit>
+	</structure>
+	<section_number>38.2-2131</section_number>
+	<catch_line>Assignment of claims prohibited</catch_line>
+	<text>
+		<section prefix="A">Consistent with the provisions of § 38.2-2104, no person insured under a fire insurance policy or a fire insurance policy in combination with other coverages shall assign or otherwise transfer, in whole or in part, to any other person the duties, rights, or benefits of the insured under the policy arising from a claim or covered loss without written consent of the insurer.
+		</section>
+		<section prefix="B">Any contract provision entered in violation of this section shall be void and unenforceable.
+		</section>
+		<section prefix="C">The provisions of this section shall not be construed to prohibit an insured from:
+			<section prefix="1">Authorizing or directing payment to, or paying, a person for reasonable services, materials, or any other item that is covered or may be covered under an insurance policy; or
+			</section>
+			<section prefix="2">Assigning rights to seek damages related to a personal injury or tort case arising from a settlement, verdict, or resulting judgment against the insured that is in excess of the insured's liability insurance coverage, subject to defenses available by law.
+			</section>
+		</section>
+		<section prefix="D">Notwithstanding the provisions of § 38.2-2123, the provisions of this section shall apply to (i) mutual assessment property and casualty insurers and (ii) mutual insurers and associations organized under the laws of the Commonwealth conducting business only in the Commonwealth and issuing only policies providing for perpetual insurance.
+		</section>
+	</text>
+	<history>2025, cc. 120, 134.</history>
+</law>

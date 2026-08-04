@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="54.1" level="1">Professions and Occupations</unit>
+		<unit label="subtitle" identifier="III" level="2">Professions and Occupations Regulated by Boards Within the Department of Health Professions</unit>
+		<unit label="chapter" identifier="34" level="3">Drug Control Act</unit>
+		<unit label="article" identifier="1" level="4">General Provisions</unit>
+	</structure>
+	<section_number>54.1-3410.1</section_number>
+	<catch_line>Requirements for radiopharmaceuticals</catch_line>
+	<text>
+		<section prefix="A">A pharmacist who is authorized by the Board and acting in good faith, may sell and dispense radiopharmaceuticals pursuant to the order of a physician who is authorized by state or federal law to possess and administer radiopharmaceuticals for the treatment or diagnosis of disease.
+		</section>
+		<section prefix="B">When an authorized nuclear pharmacist dispenses a radioactive medical material, he shall assure that the outer container (shield) of the radiopharmaceutical shall bear the following information:
+			<section prefix="1">The name and address of the nuclear pharmacy;
+			</section>
+			<section prefix="2">The name of the prescriber (authorized user);
+			</section>
+			<section prefix="3">The date of dispensing;
+			</section>
+			<section prefix="4">The serial number assigned to the radiopharmaceutical order;
+			</section>
+			<section prefix="5">The standard radiation symbol;
+			</section>
+			<section prefix="6">The name of the diagnostic procedure;
+			</section>
+			<section prefix="7">The words "Caution: Radioactive Material";
+			</section>
+			<section prefix="8">The name of the radionuclide;
+			</section>
+			<section prefix="9">The amount of radioactivity and the calibration date and time;
+			</section>
+			<section prefix="10">The expiration date and time;
+			</section>
+			<section prefix="11">In the case of a diagnostic radiopharmaceutical, the patient's name or the words "Per Physician's Order"; and
+			</section>
+			<section prefix="12">In the case of a therapeutic radiopharmaceutical, the patient's name.
+			</section>
+		</section>
+		<section prefix="C">Orders for radiopharmaceuticals, whether written or verbal, shall include at least the following information:
+			<section prefix="1">The name of the institution or facility and the name of the person transmitting the order;
+			</section>
+			<section prefix="2">The date that the radiopharmaceutical will be needed and the calibration time;
+			</section>
+			<section prefix="3">The name or generally recognized and accepted abbreviation of the radiopharmaceutical;
+			</section>
+			<section prefix="4">The dose or activity of the radiopharmaceutical at the time of calibration; and
+			</section>
+			<section prefix="5">In the case of a therapeutic radiopharmaceutical or a radiopharmaceutical blood product, the name of the patient shall be obtained prior to dispensing.
+			</section>
+		</section>
+	</text>
+	<history>2000, c. 861.</history>
+</law>

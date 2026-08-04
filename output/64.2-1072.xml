@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="10.1" level="3">Uniform Fiduciary Income And Principal Act</unit>
+		<unit label="article" identifier="8" level="4">Death of Individual or Termination of Income Interest</unit>
+	</structure>
+	<section_number>64.2-1072</section_number>
+	<catch_line>Distribution to successor beneficiary</catch_line>
+	<text>
+		<section prefix="A">Except to the extent Article 3 (§ 64.2-1039 et seq.) applies for a beneficiary that is a trust, each beneficiary described in subsection F of § 64.2-1071 is entitled to receive a share of the net income equal to the beneficiary's fractional interest in undistributed principal assets, using values as of the distribution date. If a fiduciary makes more than one distribution of assets to beneficiaries to which this section applies, each beneficiary, including a beneficiary that does not receive part of the distribution, is entitled, as of each distribution date, to a share of the net income the fiduciary received after the decedent's death, an income interest's other terminating event, or the preceding distribution by the fiduciary.
+		</section>
+		<section prefix="B">In determining a beneficiary's share of net income under subsection A, the following rules apply:
+			<section prefix="1">The beneficiary is entitled to receive a share of the net income equal to the beneficiary's fractional interest in the undistributed principal assets immediately before the distribution date.
+			</section>
+			<section prefix="2">The beneficiary's fractional interest under subdivision 1 must be calculated:
+				a. On the aggregate value of the assets as of the distribution date without reducing the value by any unpaid principal obligation; and
+				b. Without regard to:
+				<section prefix="1">Property specifically given to a beneficiary under the decedent's will or the terms of the trust; and
+				</section>
+				<section prefix="2">Property required to pay pecuniary amounts not in trust.
+				</section>
+			</section>
+			<section prefix="3">The distribution date under subdivision 1 may be the date as of which the fiduciary calculates the value of the assets if that date is reasonably near the date on which the assets are distributed.
+			</section>
+		</section>
+		<section prefix="C">To the extent a fiduciary does not distribute under this section all of the collected but undistributed net income to each beneficiary as of a distribution date, the fiduciary shall maintain records showing the interest of each beneficiary in the net income.
+		</section>
+		<section prefix="D">If this section applies to income from an asset, a fiduciary may apply the rules in this section to net gain or loss realized from the disposition of the asset after the decedent's death, an income interest's terminating event, or the preceding distribution by the fiduciary.
+		</section>
+	</text>
+	<history>2022, c. 354.</history>
+</law>

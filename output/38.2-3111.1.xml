@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="31" level="2">Life Insurance</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>38.2-3111.1</section_number>
+	<catch_line>Annuity contract purchased to fund retirement benefits; transfer subject to Commission approval</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Employer" means a person doing business in or operating within the Commonwealth who employs a resident of the Commonwealth to work for wages or a salary or on commission and includes any similar entity acting directly or indirectly in the interest of an employer in relation to an employee. "Employer" does not include the Commonwealth or any of its agencies, institutions, or political subdivisions or any public body.
+			"Pension plan" has the same meaning ascribed to that term in § 3(2) of ERISA.
+			"Retirement annuity contract" means an allocated or unallocated group annuity contract that is issued or issued for delivery by an insurer to an employer or a pension plan, pension plan sponsor, or affiliate of such employer, pension plan, or pension plan sponsor, for the purpose of providing retirement benefits to employees or retirees of the employer under a defined benefit plan and that (i) is issued or issued for delivery in the Commonwealth or (ii) affects retired employees residing in the Commonwealth who are certificate holders or beneficiaries of a contract if the Commission has jurisdiction over the insurer issuing the contract.
+		</section>
+		<section prefix="B">On or after July 1, 2018, no retirement annuity contract shall be transferred to or assumed by another insurer unless:
+			<section prefix="1">The transfer is made to an assuming insurer that has a rating equivalent of A or better from two or more nationally recognized rating agencies; or
+			</section>
+			<section prefix="2">The transfer to the assuming insurer is approved by the Commission, which approval shall not be granted unless the assuming insurer meets all of the requirements of § 38.2-1024.
+			</section>
+		</section>
+		<section prefix="C">If the Commission determines that an insurer has violated this section or any order or regulation adopted hereunder, the Commission, after notice and opportunity to be heard, may impose a penalty in accordance with §§ 38.2-218 and 38.2-219.
+		</section>
+	</text>
+	<history>2018, c. 847.</history>
+</law>

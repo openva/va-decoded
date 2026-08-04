@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4321.2</section_number>
+	<catch_line>Public works contracts; project labor agreements authorized</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Project labor agreement" means a pre-hire collective bargaining agreement with one or more labor organizations that establishes the terms and conditions of employment for a specific public works project.
+			"Public body" has the same meaning as provided in § 2.2-4301.
+			"Public works" means the operation, erection, construction, alteration, improvement, maintenance, or repair of any public facility or immovable property owned, used, or leased by a public body.
+		</section>
+		<section prefix="B">Each public body, when engaged in procuring products or services or letting contracts for construction, manufacture, maintenance, or operation of public works, or when overseeing or administering such procurement, construction, manufacture, maintenance, or operation, may, in its bid specifications, project agreements, or other controlling documents:
+			<section prefix="1">Require bidders, offerors, contractors, or subcontractors to enter into or adhere to project labor agreements with one or more labor organizations, on the same or related public works projects; and
+			</section>
+			<section prefix="2">Require bidders, offerors, contractors, subcontractors, or operators to become or remain signatories or otherwise to adhere to project labor agreements with one or more labor organizations, on the same or other related public works projects.
+			</section>
+		</section>
+	</text>
+	<history>2012, cc. 685, 732; 2020, cc. 1203, 1251.</history>
+</law>

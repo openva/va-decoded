@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>59.1-501.11</section_number>
+	<catch_line>Unconscionable contract or term</catch_line>
+	<text>
+		<section prefix="a">If a court as a matter of law finds a contract or a term thereof to have been unconscionable at the time it was made, the court may refuse to enforce the contract, enforce the remainder of the contract without the unconscionable term, or limit the application of the unconscionable term so as to avoid an unconscionable result.
+		</section>
+		<section prefix="b">If a court as a matter of law finds a contract or a term thereof has been induced by unconscionable conduct or that unconscionable conduct has occurred in the collection of a claim arising from the contract, the court may grant appropriate relief.
+		</section>
+		<section prefix="c">If it is claimed or appears to the court that a contract or term thereof may be unconscionable, the parties must be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose, and effect to aid the court in making the determination.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

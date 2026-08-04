@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="9.1" level="1">Commonwealth Public Safety</unit>
+		<unit label="chapter" identifier="1" level="2">Department of Criminal Justice Services</unit>
+		<unit label="article" identifier="8" level="3">Law-Enforcement Expenditures</unit>
+	</structure>
+	<section_number>9.1-165</section_number>
+	<catch_line>Definitions</catch_line>
+	<text>
+		As used in this article, unless the context requires a different meaning:
+		"Adjusted crime index" means the potential crime rate for a locality multiplied by the base year population of the locality as estimated by the Center for Public Service.
+		"Average crime rate" for a city or eligible county means the annual average number of violent and property index crimes per 100,000 persons, as reported by the Superintendent of State Police, for the base year and the fiscal year immediately preceding, and the fiscal year immediately following, the base year. If the data are not available for the fiscal year immediately following the base year, the average shall be based on the base year and the two immediately preceding fiscal years.
+		"Base year" means the most recent fiscal year for which comparable data are available for: (i) population estimates by the Center for Public Service or the United States Bureau of the Census, adjusted for annexation as determined by the Department, (ii) actual state expenditures for salaries and expenses of sheriffs as reported by the Compensation Board, (iii) number of persons eligible for Temporary Assistance to Needy Families as defined in § 63.2-100, (iv) number of persons in foster care, as defined in § 63.2-100, and (v) the number of persons receiving maintenance payments in a general relief program as defined in § 63.2-100.
+		"Distribution formula" means that linear equation derived biennially by the Department, using standard statistical procedures, which best predicts average crime rates in all cities and eligible counties in the Commonwealth on the basis of the following factors in their simplest form:
+		<section prefix="1">The total base year number of (i) persons enrolled in Temporary Assistance to Needy Families, (ii) persons in foster care, and (iii) persons receiving maintenance payments in a general relief program, per 100,000 base year population; and
+		</section>
+		<section prefix="2">The local population density, based on the base year population estimates of the Center for Public Service, adjusted for annexation as determined by the Department, and the land area in square miles of the city or eligible county as reported by the United States Census Bureau, adjusted for annexation as determined by the Department.
+			"Eligible county" means any county which operates a police department.
+			"Police department" means that organization established by ordinance by a local governing body that is responsible for the prevention and detection of crime, the apprehension of criminals, the safeguard of life and property, the preservation of peace and the enforcement of state and local laws, regulations, and ordinances. Such department shall have a chief of police, which in the case of counties may be the sheriff, and such officers, privates, and other personnel as may be provided for in the ordinance, one sworn member of which shall be a full-time employee. All law-enforcement officers serving as members of such police department, whether full-time or part-time, and whether permanently or temporarily employed, shall meet the minimum training standards established pursuant to §§ 9.1-102 and 9.1-114, unless such personnel are exempt from the minimum training standards as provided in §§ 9.1-113 and 9.1-116. Any police department established subsequent to July 1, 1981, shall also have, at a minimum, one officer on duty at all times for the purposes set forth above.
+			However, notwithstanding any contrary provision of this definition,
+		</section>
+		<section prefix="1">Any locality receiving funds under this article during the 1980-82 biennium shall be considered to have a valid police department eligible for funds as long as such police department continues in operation;
+		</section>
+		<section prefix="2">Any town receiving funds under this article during the 1986-1988 biennium shall be considered to have a valid police department eligible for funds even though police services for such town may thereafter be provided by the sheriff of the county in which the town is located by agreement made pursuant to § 15.2-1726. Eligibility for funds under this subdivision shall last as long as such agreement remains in effect. Police services for the town furnished by the sheriff shall be equal to or greater than the police services last furnished by the town's police department.
+			"Population served by police departments" means the total base year population of the Commonwealth less the population served by sheriffs only.
+			"Population served by sheriffs only" means the total base year population of those counties without a police department, less the latest available estimate from the United States Bureau of the Census of the total population of towns, or portions of towns, having police departments, located in such counties.
+			"Potential crime rate" means the number of crimes per 100,000 persons in the base year population for each city or eligible county, as derived from the distribution formula.
+			"State aid to localities with police" means that amount which bears the same relationship to the population served by police departments as state aid to sheriff-only localities bears to the population served by sheriffs only.
+			"State aid to sheriff-only localities" means the estimated total amount for salaries and expenses to be paid by the Commonwealth, pursuant to Article 3 (§ 15.2-1609 et seq.) of Chapter 16 of Title 15.2, to sheriffs' offices in those counties without a police department, based on the actual percentage of total state expenditures in the base year distributed to those counties without police departments.
+		</section>
+	</text>
+	<history>1979, c. 83, § 14.1-84.2; 1981, c. 485; 1982, c. 600; 1984, c. 779; 1985, c. 140; 1989, cc. 84, 292; 1998, c. 872, § 9-183.14; 2001, c. 844.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="18.2" level="1">Crimes and Offenses Generally</unit>
+		<unit label="chapter" identifier="6" level="2">Crimes Involving Fraud</unit>
+		<unit label="article" identifier="8" level="3">Misrepresentations and Other Offenses Connected With Sales</unit>
+	</structure>
+	<section_number>18.2-245</section_number>
+	<catch_line>Enjoining violation of this article</catch_line>
+	<text>
+		<section prefix="a">Any person, firm, corporation or association who violates any one or more of the sections in this article, may be enjoined by any court of competent jurisdiction notwithstanding the existence of an adequate remedy at law. In any action under this section, it shall not be necessary that damages be alleged or proved.
+		</section>
+		<section prefix="b">Actions for injunctive relief under this section may be brought by an attorney for the Commonwealth in the name of the Commonwealth of Virginia upon their own complaint or upon the complaint of any person, firm, corporation or association. The bringing of an action under this section shall not prevent the institution or continuation of criminal proceedings against the same defendant or defendants.
+		</section>
+	</text>
+	<history>Code 1950, § 59.1-50; 1968, c. 439; 1975, cc. 14, 15.</history>
+</law>

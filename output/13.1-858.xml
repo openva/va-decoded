@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="8" level="3">Directors and Officers</unit>
+	</structure>
+	<section_number>13.1-858</section_number>
+	<catch_line>Staggered terms of directors</catch_line>
+	<text>
+		<section prefix="A">The articles of incorporation may provide for staggering the terms of directors by dividing the total number of directors into groups, and the terms of office of the several groups need not be uniform.
+		</section>
+		<section prefix="B">If the articles of incorporation permit cumulative voting, any provision establishing staggered terms of directors shall provide that at least three directors shall be elected at each annual members' meeting.
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-221; 1956, c. 428; 1985, c. 522; 1987, c. 140; 1989, c. 419; 2007, c. 925.</history>
+</law>

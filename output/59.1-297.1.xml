@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="24" level="2">Virginia Health Club Act</unit>
+	</structure>
+	<section_number>59.1-297.1</section_number>
+	<catch_line>Payment and calculation of refunds</catch_line>
+	<text>
+		<section prefix="A">All refunds for cancellation of membership shall be paid within 30 days of the health club's receipt of written notice of cancellation by the buyer and calculated by:
+			<section prefix="1">Dividing the contract price by the term of the contract in days;
+			</section>
+			<section prefix="2">Multiplying the number obtained in subdivision 1 by the number of days between the effective date of the contract and the date of cancellation; and
+			</section>
+			<section prefix="3">Subtracting the number obtained in subdivision 2 from the total price paid on the health club contract.
+			</section>
+		</section>
+		<section prefix="B">In the event of the health club going out of business, the date of cancellation shall be the date the health club ceased providing health club services at the facility.
+		</section>
+		<section prefix="C">A health club issuing a refund to a buyer under this chapter shall do so within 30 days of the health club receiving a notice of cancellation pursuant to § 59.1-297, or within 30 days of the permanent closing of the facility designated in the buyer's contract.
+		</section>
+	</text>
+	<history>2003, c. 344; 2010, c. 439; 2014, c. 459.</history>
+</law>

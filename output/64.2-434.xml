@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="II" level="2">Wills and Decedents' Estates</unit>
+		<unit label="chapter" identifier="4" level="3">Wills</unit>
+		<unit label="article" identifier="4" level="4">Uniform International Wills Act</unit>
+	</structure>
+	<section_number>64.2-434</section_number>
+	<catch_line>Validity</catch_line>
+	<text>
+		<section prefix="A">A will shall be valid as regards form, irrespective particularly of the place where it is made, of the location of the assets, and of the nationality, domicile, or residence of the testator, if it is made in the form of an international will complying with the requirements of this article.
+		</section>
+		<section prefix="B">The invalidity of the will as an international will shall not affect its formal validity as a will of another kind.
+		</section>
+		<section prefix="C">This article shall not apply to the form of testamentary dispositions made by two or more persons in one instrument.
+		</section>
+	</text>
+	<history>1995, c. 443, § 64.1-96.3; 2012, c. 614.</history>
+</law>

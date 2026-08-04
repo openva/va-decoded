@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="III" level="2">Mineral Mines</unit>
+		<unit label="part" identifier="A" level="3">Mineral Mines Generally</unit>
+		<unit label="chapter" identifier="11" level="4">Mineral Mine Safety Act</unit>
+		<unit label="article" identifier="3" level="5">Certification of Mineral Mine Workers</unit>
+	</structure>
+	<section_number>45.2-1123</section_number>
+	<catch_line> Foreman certification</catch_line>
+	<text>
+		<section prefix="A">At any mineral mine where three or more persons work at the same time during any part of a 24-hour period, the licensed operator or independent contractor engaged in the extraction or processing of minerals shall employ a mine foreman. Only a person holding a foreman certificate in accordance with § 45.2-1114 shall be employed as a mine foreman. The holder of such a certificate shall present the certificate, or a copy thereof, to the operator where he is employed. Such operator shall file the certificate or its copy in the office at the mine and make it available for inspection by interested persons.
+		</section>
+		<section prefix="B">Every applicant for a foreman certificate shall have at least five years of experience at mineral mining, or other experience deemed appropriate by the Department, and shall demonstrate to the Department a thorough knowledge of the theory and practice of mineral mining by making a score of 85 percent or more on the written examination. In addition, each applicant shall pass an examination in first aid approved by the Department.
+		</section>
+		<section prefix="C">The certified mine foreman at each mine shall examine all active workings at the beginning of each shift. Any hazard or unsafe condition shall be corrected before any miner starts work in the affected area.
+		</section>
+		<section prefix="D">Any independent contractor working in a mineral mine who is engaged in an activity other than the extraction or processing of minerals and is working in a clearly demarcated area where (i) no mining-associated hazard exists and (ii) no other miner travels or works while engaged in an extraction or processing activity shall employ a competent person to examine the work area of the contractor at the beginning of each shift. Any hazard or unsafe condition shall be corrected prior to any person starting work in the affected area.
+		</section>
+	</text>
+	<history>1997, c. 390, § 45.1-161.292:29; 1998, c. 695; 2012, cc. 803, 835; 2021, Sp. Sess. I, c. 387.</history>
+</law>

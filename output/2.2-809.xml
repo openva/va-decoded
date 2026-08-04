@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="I" level="2">Organization of State Government</unit>
+		<unit label="part" identifier="C" level="3">State Agencies Related to the General Operation of Government</unit>
+		<unit label="chapter" identifier="8" level="4">Department of Accounts</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>2.2-809</section_number>
+	<catch_line>When accounts on Comptroller's books to be balanced; general ledger of accounts</catch_line>
+	<text>
+		All unsettled accounts on the books of the Comptroller shall be balanced on the last day of each fiscal year, and the balances brought forward on the first day of the new fiscal year. For this purpose there shall be a general ledger of accounts, which shall be kept to show the balances due to or from the Commonwealth.
+	</text>
+	<history>Code 1950, § 2-169; 1966, c. 677, § 2.1-202; 2001, c. 844.</history>
+</law>

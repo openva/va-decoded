@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="2" level="5">Electricity</unit>
+	</structure>
+	<section_number>45.2-815</section_number>
+	<catch_line> Repairs to circuits and electric equipment</catch_line>
+	<text>
+		<section prefix="A">No electrical work shall be performed on any low-voltage, medium-voltage, or high-voltage distribution circuit or equipment except by a certified person or a person who is trained to perform electrical work and to maintain electrical equipment and is working under the direct supervision of a certified person. Every high-voltage circuit shall be grounded before repair work is performed. Disconnecting devices shall be locked out and suitably tagged by the person who performs electrical or mechanical work on such a circuit or piece of equipment connected to such a circuit, except that where locking out is not possible, such devices shall be opened and suitably tagged by such person. Locks and tags shall be removed only by the person who installed them or, if such person is unavailable, by a certified person authorized by the operator or his agent.
+		</section>
+		<section prefix="B">A miner may, where necessary, repair energized trolley wires if he wears insulated shoes and lineman's gloves.
+		</section>
+		<section prefix="C">This section does not prohibit a certified electrical repairman from making checks on or troubleshooting energized circuits or an authorized person from performing repairs or maintenance on equipment once the power is off and the equipment is blocked against motion, except where motion is necessary to make adjustments.
+		</section>
+	</text>
+	<history>Code 1950, §§ 45-82, 45-82.1; 1954, c. 191; 1966, c. 594, § 45.1-78; 1993, c. 442; 1994, c. 28, § 45.1-161.196; 1996, c. 774; 1999, c. 256; 2021, Sp. Sess. I, c. 387.</history>
+</law>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="30" level="1">General Assembly</unit>
+		<unit label="chapter" identifier="69" level="2">Commission on Women's Health</unit>
+	</structure>
+	<section_number>30-451</section_number>
+	<catch_line>Powers and duties of the Commission</catch_line>
+	<text>
+		The Commission shall have the following powers and duties:
+		<section prefix="1">Study and evaluate issues related to women's health, including maternal health, mental health, access to reproductive care, chronic conditions, and health outcomes;
+		</section>
+		<section prefix="2">Examine the intersection of social determinants of health and their impact on women's health outcomes;
+		</section>
+		<section prefix="3">Conduct public hearings, facilitate stakeholder engagement, and consult with subject-matter experts as necessary;
+		</section>
+		<section prefix="4">Identify systemic barriers to equitable health care access for women and recommend policies to address such barriers; and
+		</section>
+		<section prefix="5">Develop and make recommendations to the General Assembly for legislative, regulatory, and budgetary changes or policies to improve women's health outcomes in the Commonwealth.
+		</section>
+	</text>
+	<history>2025, cc. 572, 580.</history>
+</law>

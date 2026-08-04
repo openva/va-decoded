@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="44" level="1">Military and Emergency Laws</unit>
+		<unit label="chapter" identifier="1" level="2">Military Laws of Virginia</unit>
+		<unit label="article" identifier="10" level="3">Privileges of United States Reserve, National Guard, and Naval Militia</unit>
+	</structure>
+	<section_number>44-102.1:1</section_number>
+	<catch_line>Benefits upon call to active duty under a state of emergency; health care premiums</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Department" means the Department of Military Affairs.
+			"Service member" means a member of the Virginia National Guard or the Virginia Defense Force.
+			"State of emergency" has the same meaning as provided in § 44-146.16.
+		</section>
+		<section prefix="B">If the Governor has declared a state of emergency that activated the Virginia National Guard or the Virginia Defense Force, then the Department is authorized to pay, for any service member who has served under such activation for a period of at least 14 consecutive days, the portion of the premium for such service member's health care coverage previously paid by the service member's employer, provided that the service member provides satisfactory evidence to the Department demonstrating that (i) immediately prior to being called to state active duty, the service member was employed and received health care coverage through his employer, (ii) the employer paid a premium to maintain the service member's health care coverage, and (iii) as a result of the service member's state active duty status, the employer is no longer paying such premium.
+		</section>
+		<section prefix="C">Any payment made by the Department pursuant to this section shall cover only the portion of the premium previously paid by the service member's employer from day 15 of the service member's state active duty until the date the service member is discharged from state active duty. Such payments may also cover dependents of the service member.
+		</section>
+		<section prefix="D">The Department may use the sum sufficient identified in the relevant state of emergency declaration for any payment authorized by this section.
+		</section>
+		<section prefix="E">The Department shall establish policies, procedures, and protocols to implement and record any payment authorized by this section.
+		</section>
+		<section prefix="F">On or before November 1, 2022, and annually thereafter, the Department shall report to the Secretary of Veterans and Defense Affairs all payments made pursuant to this section.
+		</section>
+		<section prefix="G">Nothing in this section shall create a legal cause of action against the Commonwealth or the Department.
+		</section>
+		<section prefix="H">The Adjutant General may maintain state active-duty status for any service member injured while in the line of duty during the course of a state active-duty mission who is unable, due to his injury, to return to civilian employment. Such authorization shall be limited to 90 days after the date of the service member's injury. The Adjutant General shall limit pay and allowances to the service member to the lesser of either the amount that the service member received from his civilian employment prior to his mobilization or the amount of federal active duty pay and allowances for that service member's rank and years of service.
+		</section>
+	</text>
+	<history>2022, cc. 372, 373; 2024, c. 226.</history>
+</law>

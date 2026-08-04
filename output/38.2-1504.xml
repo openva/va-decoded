@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="38.2" level="1">Insurance</unit>
+		<unit label="chapter" identifier="15" level="2">Rehabilitation and Liquidation of Insurers</unit>
+	</structure>
+	<section_number>38.2-1504</section_number>
+	<catch_line>Requirements when proceedings instituted by any person other than Commission</catch_line>
+	<text>
+		<section prefix="A">No circuit court in this Commonwealth shall appoint a receiver for any domestic insurer on application of any person other than the Commission until:
+			<section prefix="1">The applicant has presented to the Commission a copy of a bill in equity for receivership and has given reasonable notice to the affected insurer that a copy of the bill has been presented to the Commission.
+			</section>
+			<section prefix="2">The affected insurer has been given ten days after the service of this notice to present to the Commission a copy of the answer that it proposes to file.
+			</section>
+			<section prefix="3">The Commission has investigated the merits of the application for receivership and has held a hearing on the results of the investigation. The Commission shall act within a reasonable period of time.
+			</section>
+			<section prefix="4">Within a reasonable time after completing its investigation, the Commission shall make a recommendation to the proper court regarding the appointment of the proposed receiver.
+			</section>
+		</section>
+		<section prefix="B">The court shall appoint or refuse to appoint the proposed receiver after considering the merits of the application for a receiver.
+		</section>
+	</text>
+	<history>1952, c. 317, § 38.1-130; 1986, c. 562.</history>
+</law>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="1" level="3">Definitions and General Provisions</unit>
+		<unit label="article" identifier="2" level="4">General Provisions</unit>
+	</structure>
+	<section_number>6.2-101</section_number>
+	<catch_line>Confidentiality of information</catch_line>
+	<text>
+		<section prefix="A">Except as otherwise provided in this title or § 12.1-19, the following shall not be disclosed by the Commission or any of its employees: (i) a report of examination of any person subject to this title, including any contents thereof; (ii) any information furnished to or obtained by the Bureau, the disclosure of which, in the opinion of the Commissioner, could endanger the safety and soundness of a bank, savings institution, or credit union; or (iii) any personal financial information furnished to, or obtained by the Bureau.
+		</section>
+		<section prefix="B">Any reports and information described in subsection A may be provided to:
+			<section prefix="1">Members and employees of the Commission in the performance of their duties;
+			</section>
+			<section prefix="2">In the case of an entity, directors and officers thereof and such other persons as may be authorized by resolution of the entity's board of directors;
+			</section>
+			<section prefix="3">Such governmental officers, instrumentalities, or agencies as the Commissioner may determine, in his discretion, to be proper recipients of such reports or information;
+			</section>
+			<section prefix="4">Any persons pursuant to lawful process and, if necessary to protect the confidentiality of the reports and information, an appropriate protective order issued by or under the authority of any appropriate court;
+			</section>
+			<section prefix="5">Other persons pursuant to grand jury subpoenas; or
+			</section>
+			<section prefix="6">Any other persons with the consent of the person to whom the report or information pertains.
+			</section>
+		</section>
+	</text>
+	<history>1988, c. 555, § 6.1-1.1; 1991, c. 127; 2004, c. 165; 2010, c. 794.</history>
+</law>

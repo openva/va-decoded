@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="65.2" level="1">Workers' Compensation</unit>
+		<unit label="chapter" identifier="5" level="2">Compensation and Payment Thereof</unit>
+	</structure>
+	<section_number>65.2-500</section_number>
+	<catch_line>Compensation for total incapacity; computation of average wage; exclusion of AmeriCorps members, certain Food Stamp Employment and Training Program participants, and certain Temporary Assistance for Needy Families participants</catch_line>
+	<text>
+		<section prefix="A">Except as provided in subsections E, F and G, when the incapacity for work resulting from the injury is total, the employer shall pay, or cause to be paid, as hereinafter provided, to the injured employee during such total incapacity, a weekly compensation equal to 66 2/3 percent of his average weekly wages, with a minimum not less than 25 percent and a maximum of not more than 100 percent of the average weekly wage of the Commonwealth as defined herein. In any event, income benefits shall not exceed the average weekly wage of the injured employee. Any farm employer who continues to furnish benefits while the employee is incapacitated shall be given credit for the value of such benefits so furnished when computing the compensation due the employee.
+		</section>
+		<section prefix="B">For the purpose of this section the average wage in the Commonwealth shall be determined by the Commission as follows: On or before January 1 of each year, the total wages, excluding wages of United States government employees, reported on contribution reports to the Virginia Employment Commission for the 12-month period ending the preceding June 30 shall be divided by the average monthly number of insured workers (determined by dividing the total insured workers reported for that 12-month period by 12). The average annual wage thus obtained shall be divided by 52 and the average weekly wage thus determined rounded to the nearest dollar. The average weekly wage as so determined shall be applicable for the full period during which income benefits are payable, when the date of occurrence of injury or of disablement in the case of disease falls within the year commencing with the July 1 following the date of determination.
+		</section>
+		<section prefix="C">The minimum or the maximum weekly income benefits shall not be changed for any year unless the computation herein provided results in an increase or decrease of $2 or more, raised to the next even dollar in the level of the minimum or the maximum weekly income benefits.
+		</section>
+		<section prefix="D">The weekly compensation on account of total and permanent incapacity as defined by subsection C of § 65.2-503 shall continue for the lifetime of the injured employee without limit as to total amount.
+		</section>
+		<section prefix="E">AmeriCorps members as defined in subdivision r of § 65.2-101 shall not be eligible to receive weekly compensation for total incapacity, whether permanent or temporary, regardless of whether the injury results in death.
+		</section>
+		<section prefix="F">Food Stamp recipients participating in the work experience component of the Food Stamp Employment and Training Program as defined in subdivision s of § 65.2-101 shall not be eligible to receive weekly compensation for total incapacity, whether permanent or temporary, regardless of whether the injury results in death.
+		</section>
+		<section prefix="G">Temporary Assistance for Needy Families recipients participating in the work experience component of the Virginia Initiative for Education and Work as defined in subdivision t of § 65.2-101 shall not be eligible to receive weekly compensation for total incapacity, whether permanent or temporary, regardless of whether the injury results in death.
+		</section>
+	</text>
+	<history>Code 1950, § 65-51; 1952, c. 226; 1954, c. 654; 1956, c. 243; 1958, c. 568; 1960, c. 556; 1962, c. 503; 1964, c. 94; 1966, c. 64; 1968, cc. 8, 660, § 65.1-54; 1970, c. 470; 1972, c. 229; 1973, c. 542; 1974, c. 560; 1975, c. 447; 1991, c. 355; 1997, c. 511; 2004, c. 888; 2005, c. 472; 2019, c. 210.</history>
+</law>

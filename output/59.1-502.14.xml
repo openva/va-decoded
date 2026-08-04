@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="2" level="3">Formation and Terms</unit>
+	</structure>
+	<section_number>59.1-502.14</section_number>
+	<catch_line>Electronic error; consumer defenses</catch_line>
+	<text>
+		<section prefix="a">In this section, "electronic error" means an error in an electronic message created by a consumer using an information processing system if a reasonable method to detect and correct or avoid the error was not provided.
+		</section>
+		<section prefix="b">In an automated transaction, a consumer is not bound by an electronic message that the consumer did not intend and which was caused by an electronic error, if the consumer:
+			<section prefix="1">promptly on learning of the error:
+			</section>
+		</section>
+		<section prefix="A">notifies the other party of the error; and
+		</section>
+		<section prefix="B">causes delivery to the other party or, pursuant to reasonable instructions received from the other party, delivers to another person or destroys all copies of the information; and
+			<section prefix="2">has not used, or received any benefit or value from, the information or caused the information or benefit to be made available to a third party.
+			</section>
+		</section>
+		<section prefix="c">If subsection (b) does not apply, the effect of an electronic error is determined by other law.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

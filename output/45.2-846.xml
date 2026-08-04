@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="B" level="3">Underground Coal Mines</unit>
+		<unit label="chapter" identifier="8" level="4">Requirements Applicable to Underground Coal Mines; Electricity, Safety, Etc</unit>
+		<unit label="article" identifier="4" level="5">Ventilation, Mine Gases, and Other Hazardous Conditions</unit>
+	</structure>
+	<section_number>45.2-846</section_number>
+	<catch_line> Air quality</catch_line>
+	<text>
+		<section prefix="A">All active workings shall be ventilated by a current of air containing at least 19.5 percent by volume of oxygen and no harmful amount of any noxious or poisonous gas.
+		</section>
+		<section prefix="B">The volume and velocity of the current of air in all active workings shall be sufficient to dilute, render harmless, and carry away flammable, explosive, noxious, and harmful gases, dust, smoke, and explosive fumes.
+		</section>
+	</text>
+	<history>Code 1950, § 45-60.3; 1954, c. 191; 1966, c. 594, § 45.1-63; 1968, c. 310; 1993, c. 442; 1994, c. 28, § 45.1-161.229; 1996, c. 774; 2005, c. 3; 2021, Sp. Sess. I, c. 387.</history>
+</law>

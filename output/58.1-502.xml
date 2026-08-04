@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="58.1" level="1">Taxation</unit>
+		<unit label="subtitle" identifier="I" level="2">Taxes Administered by the Department of Taxation</unit>
+		<unit label="chapter" identifier="3" level="3">Income Tax</unit>
+		<unit label="article" identifier="20" level="4">Estimated Taxes of Corporations</unit>
+	</structure>
+	<section_number>58.1-502</section_number>
+	<catch_line>Installment payment of estimated income tax</catch_line>
+	<text>
+		<section prefix="A">The amount of estimated tax with respect to which a declaration is required under § 58.1-500 shall be paid in installments as follows:
+			<section prefix="1">If the declaration is required to be filed by the fifteenth day of the fourth month of the taxable year, twenty-five percent of the estimated tax shall be paid on the fifteenth day of the fourth, sixth, ninth and twelfth month of the taxable year.
+			</section>
+			<section prefix="2">If the declaration is required to be filed by the fifteenth day of the sixth month of the taxable year, one-third of the estimated tax shall be paid on the fifteenth day of the sixth, ninth and twelfth month of the taxable year.
+			</section>
+			<section prefix="3">If the declaration is required to be filed by the fifteenth day of the ninth month of the taxable year, one-half of the estimated tax shall be paid on the fifteenth day of the ninth and twelfth month of the taxable year.
+			</section>
+			<section prefix="4">If the declaration is required to be filed by the fifteenth day of the twelfth month of the taxable year, 100 percent of the estimated tax shall be paid on the fifteenth day of the twelfth month of the taxable year.
+			</section>
+		</section>
+		<section prefix="B">A declaration is timely filed if it is not required by § 58.1-501 A to be filed on a date (determined without regard to any extension of time for filing the declaration) before the date it is actually filed.
+		</section>
+		<section prefix="C">If the declaration is filed after the time prescribed in § 58.1-501 A (determined without regard to any extension of time for filing the declaration), there shall be paid at the time of such filing all installments of estimated tax which would have been payable on or before such time if the declaration had been filed within such prescribed time, and the remaining installments shall be paid at the times at which, and in the amounts in which, they would have been payable if the declaration had been so filed.
+		</section>
+		<section prefix="D">If any amendment of a declaration is filed, the amount of each remaining installment (if any) shall be the amount which would have been payable if the new estimate had been made when the first estimate for the taxable year was made, increased or decreased (as the case may be), by the amount computed by dividing: 1. the difference between (i) the amount of estimated tax required to be paid before the date on which the amendment is made, and (ii) the amount of estimated tax which would have been required to be paid before such date if the new estimate had been made when the first estimate was made, by 2. the number of installments remaining to be paid on or after the date on which the amendment is made.
+		</section>
+		<section prefix="E">The application of this section to taxable years of less than twelve months shall be in accordance with regulations prescribed by the Tax Commissioner.
+		</section>
+		<section prefix="F">Payment of the estimated income tax, or any installment thereof, shall be considered payment on account of the income tax imposed by this chapter for the taxable year.
+		</section>
+		<section prefix="G">The Tax Commissioner may grant a reasonable extension of time for payment of estimated tax (or any installment), or for filing any declaration pursuant to this article, on condition that the taxpayer shall pay interest on the amount involved at a rate determined in accordance with § 58.1-15, from the time the payment was due until the time of payment. No such extension shall exceed six months.
+		</section>
+	</text>
+	<history>Code 1950, § 58-151.38; 1968, c. 14; 1977, c. 396; 1984, c. 675.</history>
+</law>

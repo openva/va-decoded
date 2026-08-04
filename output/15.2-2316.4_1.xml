@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="15.2" level="1">Counties, Cities and Towns</unit>
+		<unit label="subtitle" identifier="II" level="2">Powers of Local Government</unit>
+		<unit label="chapter" identifier="22" level="3">Planning, Subdivision of Land and Zoning</unit>
+		<unit label="article" identifier="7.2" level="4">Zoning for Wireless Communications Infrastructure</unit>
+	</structure>
+	<section_number>15.2-2316.4:1</section_number>
+	<catch_line>Zoning; other wireless facilities and wireless support structures</catch_line>
+	<text>
+		<section prefix="A">A locality shall not require that a special exception, special use permit, or variance be obtained for the installation or construction of an administrative review-eligible project but may require administrative review for the issuance of any zoning permit, or an acknowledgement that zoning approval is not required, for such a project.
+		</section>
+		<section prefix="B">A locality may charge a reasonable fee for each application submitted under subsection A or for any zoning approval required for a standard process project. The fee shall not include direct payment or reimbursement of third-party fees charged on a contingency basis or a result-based arrangement. Upon request, a locality shall provide the applicant with the cost basis for the fee. A locality shall not charge market-based or value-based fees for the processing of an application. If the application is for:
+			<section prefix="1">An administrative review-eligible project, the fee shall not exceed $500; and
+			</section>
+			<section prefix="2">A standard process project, the fee shall not exceed the actual direct costs to process the application, including permits and inspection.
+			</section>
+		</section>
+		<section prefix="C">The processing of any application submitted under subsection A or for any zoning approval required for a standard process project shall be subject to the following:
+			<section prefix="1">Within 10 business days after receiving an incomplete application, the locality shall notify the applicant that the application is incomplete. The notice shall specify any additional information required to complete the application. The notice shall be sent by electronic mail to the applicant's email address provided in the application. If the locality fails to provide such notice within such 10-day period, the application shall be deemed complete.
+			</section>
+			<section prefix="2">Except as provided in subdivision 3, a locality shall approve or disapprove a complete application:
+				a. For a new structure within the lesser of 150 days of receipt of the completed application or the period required by federal law for such approval or disapproval; or
+				b. For the co-location of any wireless facility that is not a small cell facility within the lesser of 90 days of receipt of the completed application or the period required by federal law for such approval or disapproval, unless the application constitutes an eligible facilities request as defined in 47 U.S.C. § 1455(a).
+			</section>
+			<section prefix="3">Any period specified in subdivision 2 for a locality to approve or disapprove an application may be extended by mutual agreement between the applicant and the locality.
+			</section>
+		</section>
+		<section prefix="D">A complete application for a project shall be deemed approved if the locality fails to approve or disapprove the application within the applicable period specified in subdivision C 2 or any agreed extension thereof pursuant to subdivision C 3.
+		</section>
+		<section prefix="E">If a locality disapproves an application submitted under subsection A or for any zoning approval required for a standard process project:
+			<section prefix="1">The locality shall provide the applicant with a written statement of the reasons for such disapproval; and
+			</section>
+			<section prefix="2">If the locality is aware of any modifications to the project as described in the application that if made would permit the locality to approve the proposed project, the locality shall identify them in the written statement provided under subdivision 1. The locality's subsequent disapproval of an application for a project that incorporates the modifications identified in such a statement may be used by the applicant as evidence that the locality's subsequent disapproval was arbitrary or capricious in any appeal of the locality's action.
+			</section>
+		</section>
+		<section prefix="F">A locality's action on disapproval of an application submitted under subsection A or for any zoning approval required for a standard process project shall:
+			<section prefix="1">Not unreasonably discriminate between the applicant and other wireless services providers, wireless infrastructure providers, providers of telecommunications services, and other providers of functionally equivalent services; and
+			</section>
+			<section prefix="2">Be supported by substantial record evidence contained in a written record publicly released within 30 days following the disapproval.
+			</section>
+		</section>
+		<section prefix="G">An applicant adversely affected by the disapproval of an application submitted under subsection A or for any zoning approval required for a standard process project may file an appeal pursuant to subsection F of § 15.2-2285, or to § 15.2-2314 if the requested zoning approval involves a variance, within 30 days following delivery to the applicant or notice to the applicant of the record described in subdivision F 2.
+		</section>
+	</text>
+	<history>2018, cc. 835, 844.</history>
+</law>

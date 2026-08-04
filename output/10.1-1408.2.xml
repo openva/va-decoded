@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="10.1" level="1">Conservation</unit>
+		<unit label="subtitle" identifier="II" level="2">Activities Administered by Other Entities</unit>
+		<unit label="chapter" identifier="14" level="3">Virginia Waste Management Act</unit>
+		<unit label="article" identifier="2" level="4">Solid Waste Management</unit>
+	</structure>
+	<section_number>10.1-1408.2</section_number>
+	<catch_line>Certification and on-site presence of facility operator</catch_line>
+	<text>
+		<section prefix="A">On and after January 1, 1993, no person shall be employed as a waste management facility operator, nor shall any person represent himself as a waste management facility operator, unless such person has been licensed by the Board for Waste Management Facility Operators.
+		</section>
+		<section prefix="B">On and after January 1, 1993, all solid waste management facilities shall operate under the direct supervision of a waste management facility operator licensed by the Board for Waste Management Facility Operators.
+		</section>
+	</text>
+	<history>1991, cc. 551, 737; 1997, c. 885.</history>
+</law>

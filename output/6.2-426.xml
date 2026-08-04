@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="4" level="3">Certain Lending Practices</unit>
+		<unit label="article" identifier="3" level="4">Credit Cards</unit>
+	</structure>
+	<section_number>6.2-426</section_number>
+	<catch_line>When request, consent, or use not condition precedent to liability</catch_line>
+	<text>
+		The request, consent, or use required in § 6.2-425 as a condition precedent to liability shall not be necessary in any instance:
+		<section prefix="1">Of a credit card that is a renewal of a credit card previously held and used by the cardholder or his authorized agent within 12 months of the renewal date; or
+		</section>
+		<section prefix="2">Where the card is issued to a customer who has previously established credit with the issuer and has used such credit within 12 months prior to the issuance of the card.
+		</section>
+	</text>
+	<history>1970, c. 324, § 11-32; 2010, c. 794.</history>
+</law>

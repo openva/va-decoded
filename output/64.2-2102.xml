@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="IV" level="2">Fiduciaries and Guardians</unit>
+		<unit label="part" identifier="D" level="3">Guardianship of Incapacitated Persons</unit>
+		<unit label="chapter" identifier="21" level="4">Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act</unit>
+		<unit label="article" identifier="1" level="5">General Provisions</unit>
+	</structure>
+	<section_number>64.2-2102</section_number>
+	<catch_line>Communication between courts</catch_line>
+	<text>
+		<section prefix="A">A court of the Commonwealth may communicate with a court in another state concerning a proceeding arising under this chapter. The court may allow the parties to participate in the communication. Except as otherwise provided in subsection B, the court shall make a record of the communication. The record may be limited to the fact that the communication occurred.
+		</section>
+		<section prefix="B">Courts may communicate concerning schedules, calendars, court records, and other administrative matters without making a record.
+		</section>
+	</text>
+	<history>2011, c. 518, § 37.2-1034; 2012, c. 614.</history>
+</law>

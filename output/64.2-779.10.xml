@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="64.2" level="1">Wills, Trusts, and Fiduciaries</unit>
+		<unit label="subtitle" identifier="III" level="2">Trusts</unit>
+		<unit label="chapter" identifier="7" level="3">Uniform Trust Code</unit>
+		<unit label="article" identifier="8.1" level="4">Uniform Trust Decanting Act</unit>
+	</structure>
+	<section_number>64.2-779.10</section_number>
+	<catch_line>Trust for beneficiary with disability</catch_line>
+	<text>
+		<section prefix="A">As used in this section:
+			"Beneficiary with a disability" means a beneficiary of a first trust who the special-needs fiduciary believes may qualify for governmental benefits based on disability, whether or not the beneficiary currently receives those benefits or is an individual who has been determined to be an incapacitated person.
+			"Governmental benefits" means financial aid or services from a state, federal, or other public agency.
+			"Special-needs fiduciary" means, with respect to a trust that has a beneficiary with a disability:
+			<section prefix="1">A trustee or other fiduciary, other than a settlor, that has discretion to distribute part or all of the principal of a first trust to one or more current beneficiaries;
+			</section>
+			<section prefix="2">If no trustee or fiduciary has discretion under subdivision 1, a trustee or other fiduciary, other than a settlor, that has discretion to distribute part or all of the income of the first trust to one or more current beneficiaries; or
+			</section>
+			<section prefix="3">If no trustee or fiduciary has discretion under subdivisions 1 and 2, a trustee or other fiduciary, other than a settlor, that is required to distribute part or all of the income or principal of the first trust to one or more current beneficiaries.
+				"Special-needs trust" means a trust the trustee believes would not be considered a resource for purposes of determining whether a beneficiary with a disability is eligible for governmental benefits.
+			</section>
+		</section>
+		<section prefix="B">A special-needs fiduciary may exercise the decanting power under § 64.2-779.8 over the income or principal of a first trust, including a first trust under which the fiduciary has only limited distributive discretion as defined in subsection A of § 64.2-779.9, as if the fiduciary had authority to distribute income or principal to a beneficiary with a disability subject to expanded distributive discretion if:
+			<section prefix="1">A second trust is a special-needs trust that benefits the beneficiary with a disability; and
+			</section>
+			<section prefix="2">The special-needs fiduciary determines that exercise of the decanting power will further the purposes of the first trust.
+			</section>
+		</section>
+		<section prefix="C">In an exercise of the decanting power under this section, the following rules apply:
+			<section prefix="1">Notwithstanding subdivision C 2 of § 64.2-779.8, the interest in the second trust of a beneficiary with a disability may:
+				a. Be a pooled trust as defined by Medicaid law for the benefit of the beneficiary with a disability under 42 U.S.C. § 1396p(d)(4)(C); or
+				b. Contain payback provisions complying with reimbursement requirements of Medicaid law under 42 U.S.C. § 1396p(d)(4)(A).
+			</section>
+			<section prefix="2">Subdivision C 3 of § 64.2-779.8 does not apply to the interests of the beneficiary with a disability.
+			</section>
+			<section prefix="3">Except as affected by any change to the interests of the beneficiary with a disability, the second trust, or if there are two or more second trusts, the second trusts in the aggregate, must grant each other beneficiary of the first trust beneficial interests in the second trusts that are substantially similar to the beneficiary's beneficial interests in the first trust.
+			</section>
+		</section>
+	</text>
+	<history>2017, c. 592.</history>
+</law>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="1" level="3">General Provisions</unit>
+	</structure>
+	<section_number>59.1-501.8</section_number>
+	<catch_line>Proof and effect of authentication</catch_line>
+	<text>
+		<section prefix="a">Authentication may be proven in any manner, including a showing that a party made use of information or access that could have been available only if it engaged in conduct or operations that authenticated the record or term.
+		</section>
+		<section prefix="b">Compliance with a commercially reasonable attribution procedure agreed to or adopted by the parties or established by law for authenticating a record authenticates the record as a matter of law.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

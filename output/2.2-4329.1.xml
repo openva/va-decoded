@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="2.2" level="1">Administration of Government</unit>
+		<unit label="subtitle" identifier="II" level="2">Administration of State Government</unit>
+		<unit label="part" identifier="B" level="3">Transaction of Public Business</unit>
+		<unit label="chapter" identifier="43" level="4">Virginia Public Procurement Act</unit>
+		<unit label="article" identifier="2" level="5">Contract Formation and Administration</unit>
+	</structure>
+	<section_number>2.2-4329.1</section_number>
+	<catch_line>Energy forward pricing mechanisms</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires a different meaning:
+			"Energy" means natural gas, heating oil, propane, diesel fuel, unleaded fuel, and any other energy source except electricity.
+			"Forward pricing mechanism" means either: (i) a contract or financial instrument that obligates a public body to buy or sell a specified quantity of energy at a future date at a set price or (ii) an option to buy or sell the contract or financial instrument.
+		</section>
+		<section prefix="B">Notwithstanding any other law to the contrary but subject to available appropriation, a public body may use forward pricing mechanisms for budget risk reduction.
+		</section>
+		<section prefix="C">Forward pricing mechanism transactions shall be made only under the following conditions:
+			<section prefix="1">The quantity of energy affected by the forward pricing mechanism shall not exceed the estimated energy use for the public body for the same period, which shall not exceed 48 months from the trade date of the transaction; and
+			</section>
+			<section prefix="2">A separate account shall be established for operational energy for each public body using a forward pricing mechanism.
+			</section>
+		</section>
+		<section prefix="D">Before exercising the authority under this section, the public body shall develop written policies and procedures governing the use of forward pricing mechanisms and disclosure of the same to the public.
+		</section>
+		<section prefix="E">Before exercising authority under subsection B, the public body shall establish an oversight process that provides for review of the public body's use of forward pricing mechanisms. The oversight process shall include internal or external audit reviews; annual reports to, and review by, an internal investment committee; and internal management control.
+		</section>
+	</text>
+	<history>2012, cc. 204, 359.</history>
+</law>

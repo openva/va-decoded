@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="45.2" level="1">Mines, Minerals, and Energy</unit>
+		<unit label="subtitle" identifier="II" level="2">Coal Mining</unit>
+		<unit label="part" identifier="A" level="3">Coal Mines Generally</unit>
+		<unit label="chapter" identifier="5" level="4">Coal Mine Safety Act</unit>
+		<unit label="article" identifier="3" level="5">Certification of Coal Mine Workers</unit>
+	</structure>
+	<section_number>45.2-530</section_number>
+	<catch_line> General coal miner certification</catch_line>
+	<text>
+		<section prefix="A">Every person working in a coal mine in the Commonwealth shall hold a general coal miner certificate issued by the Board of Coal Mining Examiners. The Board of Coal Mining Examiners shall issue a general coal miner certificate upon submittal of a complete application.
+		</section>
+		<section prefix="B">Each applicant for a general coal miner certificate who has not been employed to work in a Virginia coal mine prior to January 1, 1996, shall prove to the Board that he has knowledge of first aid practices and has a general working knowledge of the provisions of the Act, and applicable regulations, pertaining to coal mining health and safety. Each applicant shall have completed the miner training requirements of 30 C.F.R. Part 48 or submit proof of at least one year of experience in a coal mine prior to issuance of the general coal miner certificate.
+		</section>
+	</text>
+	<history>1994, c. 28, § 45.1-161.37; 2005, c. 3; 2007, cc. 894, 914; 2021, Sp. Sess. I, c. 387.</history>
+</law>

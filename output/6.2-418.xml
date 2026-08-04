@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="I" level="2">General Provisions</unit>
+		<unit label="chapter" identifier="4" level="3">Certain Lending Practices</unit>
+		<unit label="article" identifier="2" level="4">Loans Secured by Lien on Real Estate</unit>
+	</structure>
+	<section_number>6.2-418</section_number>
+	<catch_line>Property owner entitled to written statement of payoff amount</catch_line>
+	<text>
+		<section prefix="A">If an obligation is secured by the lien of a deed of trust or mortgage on real estate, and the owner of the real estate is entitled to prepay the obligation secured by the deed of trust or mortgage, the owner shall be entitled to receive from the holder of the obligation a written statement setting forth the total amount to be paid as of a particular date in order to obtain a release of the deed of trust or mortgage.
+		</section>
+		<section prefix="B">The holder of the obligation secured by the deed of trust or mortgage shall mail or deliver such written statement of the payoff amount to the property owner or his designee within 10 business days of the receipt of a written request for such payoff information from the property owner or his designee if the request contains the loan number and the address or other description of the location of the subject premises.
+		</section>
+		<section prefix="C">Upon payment in full of the obligation, the holder shall promptly cause the cancelled loan documents to be forwarded to the owner or his designee.
+		</section>
+		<section prefix="D">An inadvertent error made in the calculation of the payoff amount shall neither release the obligor from the requirement to pay the full amount due under the contract of indebtedness, nor release the holder of the contract of indebtedness from the requirement to return any overpayment to the obligor or his designee.
+		</section>
+		<section prefix="E">A request for payoff information under this section may be made one time within a 12-month period without charge, and a fee not exceeding $15 may be charged for each additional request made within such period.
+		</section>
+	</text>
+	<history>1987, c. 622, § 6.1-330.82; 2010, c. 794.</history>
+</law>

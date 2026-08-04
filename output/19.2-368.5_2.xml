@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="21.1" level="2">Compensating Victims of Crime</unit>
+	</structure>
+	<section_number>19.2-368.5:2</section_number>
+	<catch_line>Effect of filing a claim; stay of debt collection activities by health care providers</catch_line>
+	<text>
+		<section prefix="A">Whenever a person files a claim under this chapter, all health care providers, as defined in § 8.01-581.1 that have been given notice of a pending claim, shall refrain from all debt collection activities relating to medical treatment received by the person in connection with such claim until an award is made on the claim or until a claim is determined to be noncompensable pursuant to § 19.2-368.11:1. The statute of limitations for collection of such debt shall be tolled during the period in which the applicable health care provider is required to refrain from debt collection activities hereunder.
+		</section>
+		<section prefix="B">For the purpose of this section, "debt collection activities" means repeatedly calling or writing to the claimant and threatening either to turn the matter over to a debt collection agency or to an attorney for collection, enforcement or filing of other process. The term shall not include routine billing or inquiries about the status of the claim.
+		</section>
+	</text>
+	<history>2005, c. 683.</history>
+</law>

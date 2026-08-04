@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="59.1" level="1">Trade and Commerce</unit>
+		<unit label="chapter" identifier="43" level="2">Uniform Computer Information Transactions Act</unit>
+		<unit label="article" identifier="6" level="3">Performance</unit>
+	</structure>
+	<section_number>59.1-506.18</section_number>
+	<catch_line>Termination; enforcement</catch_line>
+	<text>
+		<section prefix="a">On termination of a license, a party in possession or control of information, copies, or other materials that are the property of the other party, or are subject to a contractual obligation to be delivered to that party on termination, shall use commercially reasonable efforts to deliver or hold them for disposal on instructions of that party. If any materials are jointly owned, the party in possession or control shall make them available to the joint owners.
+		</section>
+		<section prefix="b">Termination of a license ends all rights under the license for the licensee to use or access the licensed information, informational rights, or copies. Continued use of the licensed copies or exercise of terminated rights is a breach of contract unless authorized by a term that survives termination.
+		</section>
+		<section prefix="c">Each party may enforce its rights under subsections (a) and (b) by acting pursuant to § 59.1-506.5 or by judicial process, including obtaining an order that the party or an officer of the court take the following actions with respect to any licensed information, documentation, copies, or other materials to be delivered:
+			<section prefix="1">deliver or take possession of them;
+			</section>
+			<section prefix="2">without removal, render unusable or eliminate the capability to exercise contractual rights in or use of them;
+			</section>
+			<section prefix="3">destroy or prevent access to them; and
+			</section>
+			<section prefix="4">require that the party or any other person in possession or control of them make them available to the other party at a place designated by that party which is reasonably convenient to both parties.
+			</section>
+		</section>
+		<section prefix="d">In an appropriate case, a court of competent jurisdiction may grant injunctive relief to enforce the parties' rights under this section.
+		</section>
+	</text>
+	<history>2000, cc. 101, 996.</history>
+</law>

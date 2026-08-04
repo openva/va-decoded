@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="55.1" level="1">Property and Conveyances</unit>
+		<unit label="subtitle" identifier="I" level="2">Property Conveyances</unit>
+		<unit label="chapter" identifier="1" level="3">Creation and Limitation of Estates</unit>
+		<unit label="article" identifier="1" level="4">Creation and Transfer of Estates</unit>
+	</structure>
+	<section_number>55.1-110</section_number>
+	<catch_line>Conveyance, devise, or grant without words of limitation</catch_line>
+	<text>
+		When any real estate is conveyed, devised, or granted to any person without any words of limitation, such conveyance, devise, or grant shall be construed to pass the fee simple or other whole estate or interest that the testator or grantor has power to dispose of in such real estate, unless a contrary intention is apparent in the conveyance, devise, or grant.
+	</text>
+	<history>Code 1919, § 5149; Code 1950, § 55-11; 2019, c. 712.</history>
+</law>

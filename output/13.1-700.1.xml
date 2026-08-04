@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="10" level="3">Indemnification</unit>
+	</structure>
+	<section_number>13.1-700.1</section_number>
+	<catch_line>Court orders for advance, reimbursement, or indemnification</catch_line>
+	<text>
+		<section prefix="A">An individual who is a party to a proceeding because he is a director of the corporation may apply for indemnification or an advance of expenses to the court conducting the proceeding or to another court of competent jurisdiction. After receipt of an application and after giving any notice it considers necessary, the court shall:
+			<section prefix="1">Order indemnification if the court determines that the director is entitled to mandatory indemnification under § 13.1-698;
+			</section>
+			<section prefix="2">Order indemnification or advance for expenses if the court determines that the director is entitled to indemnification or advance for expenses pursuant to a provision authorized by § 13.1-704; or
+			</section>
+			<section prefix="3">Order indemnification or advance for expenses if the court determines, in view of all the relevant circumstances, that it is fair and reasonable (i) to indemnify the director or (ii) to advance expenses to the director, even if, in the case of clause (i) or (ii), the director has not met the relevant standard of conduct set forth in subsection A of § 13.1-697, failed to comply with § 13.1-699, or was adjudged liable in a proceeding referred to in subsection D of § 13.1-697, but if the director was adjudged so liable, indemnification shall be limited to expenses incurred in connection with the proceeding.
+			</section>
+		</section>
+		<section prefix="B">If the court determines that the director is entitled to indemnification under subdivision A 1 or to indemnification or advance for expenses under subdivision A 2, it shall also order the corporation to pay the director's expenses incurred in connection with obtaining court-ordered indemnification or advance for expenses. If the court determines that the director is entitled to indemnification or advance for expenses under subdivision A 3, it may also order the corporation to pay the director's expenses to obtain court-ordered indemnification or advance for expenses.
+		</section>
+		<section prefix="C">Neither (i) the failure of the corporation, including its board of directors, its independent legal counsel and its shareholders, to have made a determination prior to the commencement of any action permitted by this section that the applying director is entitled to receive an advance, reimbursement, or indemnification nor (ii) the determination by the corporation, including its board of directors, its independent legal counsel and its shareholders, that the applying director is not entitled to receive an advance, reimbursement, or indemnification shall create a presumption to that effect or otherwise of itself be a defense to that director's application for an advance for expenses, reimbursement, or indemnification.
+		</section>
+	</text>
+	<history>1987, cc. 59, 257; 2005, c. 765; 2019, c. 734.</history>
+</law>

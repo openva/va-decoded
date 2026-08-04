@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="9" level="2">Virginia Stock Corporation Act</unit>
+		<unit label="article" identifier="17" level="3">Foreign Corporations</unit>
+	</structure>
+	<section_number>13.1-758</section_number>
+	<catch_line>Consequences of transacting business without authority</catch_line>
+	<text>
+		<section prefix="A">A foreign corporation transacting business in the Commonwealth without a certificate of authority may not maintain a proceeding in any court in the Commonwealth until it obtains a certificate of authority.
+		</section>
+		<section prefix="B">The successor to a foreign corporation that transacted business in the Commonwealth without a certificate of authority and the assignee of a cause of action arising out of that business may not maintain a proceeding based on that cause of action in any court in the Commonwealth until the foreign corporation or its successor obtains a certificate of authority.
+		</section>
+		<section prefix="C">A court may stay a proceeding commenced by a foreign corporation, its successor, or assignee until it determines whether the foreign corporation or its successor requires a certificate of authority. If it so determines, the court shall further stay the proceeding until the foreign corporation or its successor obtains the certificate.
+		</section>
+		<section prefix="D">If a foreign corporation transacts business in the Commonwealth without a certificate of authority, each officer, director, and employee who does any of such business in the Commonwealth knowing that a certificate of authority is required shall be liable for a penalty of not less than $500 and not more than $5,000. Any such penalty may be imposed by the Commission or by any court in the Commonwealth before which an action against the corporation may lie, after the corporation and the individual have been given notice and an opportunity to be heard.
+		</section>
+		<section prefix="E">Notwithstanding subsections A and B, the failure of a foreign corporation to obtain a certificate of authority does not impair the validity of its corporate acts or prevent it from defending any proceeding in the Commonwealth.
+		</section>
+		<section prefix="F">Suits, actions, and proceedings may be begun against a foreign corporation that transacts business in the Commonwealth without a certificate of authority by serving process on any director, officer, or agent of the corporation doing such business, or, if none can be found, on the clerk of the Commission or on the corporation in any other manner permitted by law. If any foreign corporation transacts business in the Commonwealth without a certificate of authority, it shall by transacting such business be deemed to have thereby appointed the clerk of the Commission as an agent for service of process upon the foreign corporation. Service upon the clerk shall be made in accordance with § 12.1-19.1.
+		</section>
+	</text>
+	<history>Code 1950, §§ 13-218, 13.1-119; 1956, c. 428; 1981, c. 320; 1985, c. 522; 1986, c. 571; 1990, c. 325; 1991, c. 672; 2005, c. 765; 2019, c. 734.</history>
+</law>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="8.9A" level="1">Commercial Code — Secured Transactions</unit>
+		<unit label="part" identifier="3" level="2">Perfection and Priority</unit>
+		<unit label="subpart" identifier="3" level="3">Priority</unit>
+	</structure>
+	<section_number>8.9A-317</section_number>
+	<catch_line>Interests that take priority over or take free of security interest or agricultural lien</catch_line>
+	<text>
+		<section prefix="a">Conflicting security interests and rights of lien creditors. A security interest or agricultural lien is subordinate to the rights of:
+			<section prefix="1">a person entitled to priority under § 8.9A-322; and
+			</section>
+			<section prefix="2">except as otherwise provided in subsection (e), a person that becomes a lien creditor before the earlier of the time:
+			</section>
+		</section>
+		<section prefix="A">the security interest or agricultural lien is perfected; or
+		</section>
+		<section prefix="B">one of the conditions specified in subdivision (b)(3) of § 8.9A-203 is met and a financing statement covering the collateral is filed.
+		</section>
+		<section prefix="b">Buyers that receive delivery. Except as otherwise provided in subsection (e), a buyer, other than a secured party, of goods, instruments, tangible documents, or a certificated security takes free of a security interest or agricultural lien if the buyer gives value and receives delivery of the collateral without knowledge of the security interest or agricultural lien and before it is perfected.
+		</section>
+		<section prefix="c">Lessees that receive delivery. Except as otherwise provided in subsection (e), a lessee of goods takes free of a security interest or agricultural lien if the lessee gives value and receives delivery of the collateral without knowledge of the security interest or agricultural lien and before it is perfected.
+		</section>
+		<section prefix="d">Licensees and buyers of certain collateral. Subject to subsections (f) through (i), a licensee of a general intangible or a buyer, other than a secured party, of collateral other than electronic money, goods, instruments, tangible documents, or a certificated security takes free of a security interest if the licensee or buyer gives value without knowledge of the security interest and before it is perfected.
+		</section>
+		<section prefix="e">Purchase-money security interest. Except as otherwise provided in §§ 8.9A-320 and 8.9A-321, if a person files a financing statement with respect to a purchase-money security interest before or within twenty days after the debtor receives delivery of the collateral, the security interest takes priority over the rights of a buyer, lessee, or lien creditor which arise between the time the security interest attaches and the time of filing.
+		</section>
+		<section prefix="f">Buyers of chattel paper. A buyer, other than a secured party, of chattel paper takes free of a security interest if, without knowledge of the security interest and before it is perfected, the buyer gives value and:
+			<section prefix="1">receives delivery of each authoritative tangible copy of the record evidencing the chattel paper; and
+			</section>
+			<section prefix="2">if each authoritative electronic copy of the record evidencing the chattel paper can be subjected to control under § 8.9A-105, obtains control of each authoritative electronic copy.
+			</section>
+		</section>
+		<section prefix="g">Buyers of electronic documents. A buyer of an electronic document takes free of a security interest if, without knowledge of the security interest and before it is perfected, the buyer gives value and, if each authoritative electronic copy of the document can be subjected to control under § 8.7-106, obtains control of each authoritative electronic copy.
+		</section>
+		<section prefix="h">Buyers of controllable electronic records. A buyer of a controllable electronic record takes free of a security interest if, without knowledge of the security interest and before it is perfected, the buyer gives value and obtains control of the controllable electronic record.
+		</section>
+		<section prefix="i">Buyers of controllable accounts and controllable payment intangibles. A buyer, other than a secured party, of a controllable account or a controllable payment intangible takes free of a security interest if, without knowledge of the security interest and before it is perfected, the buyer gives value and obtains control of the controllable account or controllable payment intangible.
+		</section>
+	</text>
+	<history>1964, c. 219, § 8.9-301; 1973, c. 509; 1983, c. 204; 1991, c. 536, § 8.2A-307; 1996, c. 216; 2000, c. 1007; 2004, c. 200; 2012, c. 155; 2024, c. 652.</history>
+</law>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="6.2" level="1">Financial Institutions and Services</unit>
+		<unit label="subtitle" identifier="IV" level="2">Other Financial Activities</unit>
+		<unit label="chapter" identifier="23" level="3">Safe Deposit Boxes</unit>
+	</structure>
+	<section_number>6.2-2304</section_number>
+	<catch_line>Duty to deny access to safe deposit boxes under certain conditions</catch_line>
+	<text>
+		<section prefix="A">As used in this section, unless the context requires otherwise:
+			"Creditor" means (i) a judgment creditor, (ii) a plaintiff who has obtained a pre-judgment attachment order, or (iii) an appropriate federal or state tax official.
+			"Defendant" means the lessee of a box who is named as defendant, judgment debtor, or taxpayer in a notice of proceeding.
+			"Notice of proceeding" means a notice of (i) lien of fieri facias, (ii) other process under §§ 8.01-474, 8.01-478, 8.01-479, 8.01-501 through 8.01-504, and § 58.1-1804, 58.1-2020, or 58.1-3952, (iii) levy for federal taxes, or (iv) attachment that states the office of the company where a box rented by the defendant is located.
+		</section>
+		<section prefix="B">If a company is served with a notice of proceeding with respect to a box, the company shall deny the defendant access to the box leased in the name of the defendant unless otherwise directed by an appropriate court or the judgment creditor.
+		</section>
+		<section prefix="C">If the notice of proceeding names less than all of the co-lessees of a box and:
+			<section prefix="1">If the rental contract so provides, the company may deny all co-lessees access to the box, unless otherwise directed by an appropriate court or the judgment creditor. The company may allow access to such co-lessee if in so doing the company complies with the requirements of subdivision 2 as if the rental contract did not provide for denial of access to co-lessees not named in the notice of proceeding; and
+			</section>
+			<section prefix="2">If the rental contract does not provide for denial of access to co-lessees not named in the notice of proceeding, the company shall not deny access to any co-lessee not named in the notice of proceeding if the co-lessee (i) is given notice by the company that if the co-lessee knowingly removes from the box any property subject to the notice of proceeding, the co-lessee shall be deemed guilty of larceny, (ii) is given a copy of the notice of proceeding, and (iii) signs and delivers to the company a written acknowledgment of receipt of such notices.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 6-264.1; 1956, c. 82; 1966, c. 584, § 6.1-333; 1968, c. 574; 1992, c. 17; 2010, c. 794.</history>
+</law>

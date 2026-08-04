@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="19.2" level="1">Criminal Procedure</unit>
+		<unit label="chapter" identifier="12" level="2">Preliminary Hearing</unit>
+	</structure>
+	<section_number>19.2-183</section_number>
+	<catch_line>Examination of witnesses; assistance of counsel; evidentiary matters and remedies; power to adjourn case</catch_line>
+	<text>
+		<section prefix="A">The judge before whom any person is brought for an offense shall, as soon as may be practical, in the presence of such person, examine on oath the witnesses for and against him. Before conducting the hearing or accepting a waiver of the hearing, the judge shall advise the accused of his right to counsel and, if the accused is indigent and the offense charged be punishable by confinement in jail or the state correctional facility, the judge shall appoint counsel as provided by law.
+		</section>
+		<section prefix="B">At the hearing the judge shall, in the presence of the accused, hear testimony presented for and against the accused in accordance with the rules of evidence applicable to criminal trials in this Commonwealth. In felony cases, the accused shall not be called upon to plead, but he may cross-examine any witness who testifies on behalf of the Commonwealth or on behalf of any other defendant, introduce witnesses in his own behalf, and testify in his own behalf.
+		</section>
+		<section prefix="C">A judge may adjourn a trial, pending before him, not exceeding 10 days at one time, without the consent of the accused.
+		</section>
+		<section prefix="D">At any preliminary hearing under this section, certificates of analysis and reports prepared pursuant to §§ 19.2-187 and 19.2-188 shall be admissible without the testimony of the person preparing such certificate or report.
+		</section>
+	</text>
+	<history>Code 1950, §§ 19.1-101, 19.1-102; 1960, c. 366; 1968, c. 639; 1973, c. 485; 1975, c. 495; 1982, c. 513; 2010, c. 555.</history>
+</law>

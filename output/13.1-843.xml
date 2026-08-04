@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+	<structure>
+		<unit label="title" identifier="13.1" level="1">Corporations</unit>
+		<unit label="chapter" identifier="10" level="2">Virginia Nonstock Corporation Act</unit>
+		<unit label="article" identifier="7" level="3">Members and Meetings</unit>
+	</structure>
+	<section_number>13.1-843</section_number>
+	<catch_line>Waiver of notice</catch_line>
+	<text>
+		<section prefix="A">A member may waive any notice required by this Act, the articles of incorporation, or bylaws before or after the date and time of the meeting that is the subject of such notice. The waiver shall be in writing, be signed by the member entitled to the notice, and be delivered to the secretary of the corporation for inclusion in the minutes or filing with the corporate records.
+		</section>
+		<section prefix="B">A member's attendance at a meeting:
+			<section prefix="1">Waives objection to lack of notice or defective notice of the meeting, unless the member at the beginning of the meeting objects to holding the meeting or transacting business at the meeting; and
+			</section>
+			<section prefix="2">Waives objection to consideration of a particular matter at the meeting that is not within the purpose or purposes described in the meeting notice, unless the member objects to considering the matter when it is presented.
+			</section>
+		</section>
+	</text>
+	<history>Code 1950, § 13.1-215; 1956, c. 428; 1985, c. 522; 2007, c. 925.</history>
+</law>

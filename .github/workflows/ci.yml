@@ -28,12 +28,12 @@ jobs:
 
     steps:
       - name: Check out va-decoded (configuration)
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
         with:
           path: va-decoded
 
       - name: Check out statedecoded
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
         with:
           repository: statedecoded/statedecoded
           ref: v1.2
@@ -76,7 +76,7 @@ jobs:
             > statedecoded/includes/config.inc.php
 
       - name: Cache Composer packages
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: statedecoded/vendor
           key: composer-${{ hashFiles('statedecoded/composer.lock') }}
@@ -87,7 +87,7 @@ jobs:
         run: composer install --no-interaction --prefer-dist
 
       - name: Cache npm packages
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: statedecoded/node_modules
           key: npm-${{ hashFiles('statedecoded/package.json') }}

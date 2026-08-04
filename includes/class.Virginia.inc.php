@@ -58,63 +58,22 @@ class State
             return false;
         }
 
-        /*
-         * Track whether the history’s first entry records the law’s creation. Entries that match
-         * neither pattern (e.g., “Code 1950, § 1-10”) are dropped, and when the first entry is
-         * dropped, the oldest surviving entry is an amendment, not the law’s creation.
-         */
-        $creation_known = true;
-
-        // If history is a raw string (as stored in the DB), parse it into structured entries.
-        if (is_string($this->history)) {
-            $history = [];
-            foreach (explode('; ', $this->history) as $index => $update) {
-                $entry = new stdClass();
-                if (preg_match('/([0-9]{4}), c\. ([0-9]+)/', $update, $m)) {
-                    $entry->year = $m[1];
-                    $entry->chapter = trim($m[2]);
-                    $history[] = $entry;
-                } elseif (preg_match('/([0-9]{2,4}), cc\. ([0-9,\s]+)/', $update, $m)) {
-                    // Two-digit years only appear in twentieth-century histories.
-                    $entry->year = (strlen($m[1]) === 2) ? '19' . $m[1] : $m[1];
-                    $chapters = array_values(array_filter(array_map('trim', explode(',', rtrim(trim($m[2]), ',')))));
-                    $entry->chapter = $chapters;
-                    $history[] = $entry;
-                } elseif ($index === 0) {
-                    $creation_known = false;
-                }
-            }
-        } else {
-            $history = array_values((array) $this->history);
-        }
+        $history = $this->parse_history();
 
         if (empty($history)) {
             return false;
         }
 
         /*
-         * The first entry records the law’s creation, and the rest are modifications — unless the
-         * creation record couldn’t be parsed, in which case every entry is a modification.
+         * The first entry records the lawâs origin, and the rest are modifications. An origin
+         * recorded as an Acts of Assembly chapter is the lawâs original enactment; one recorded
+         * as a code or recompilation reference only tells us where the law was previously
+         * codified, which is a weaker claim and is worded accordingly.
          */
-        $start = $creation_known ? 1 : 0;
-        $modifications = count($history) - $start;
+        $origin = array_shift($history);
+        $modifications = count($history);
 
-        $text = '<p>';
-
-        if ($creation_known) {
-            $created = $history[0];
-            $text .= 'This law was first created in ' . $created->year . '. The record of its'
-                . ' establishment is cataloged in '
-                . $this->acts_chapter_html($created->year, $created->chapter)
-                . ' of that year’s edition of “Acts of Assembly,” the annual state publication'
-                . ' listing all changes made to the Code of Virginia in that year.';
-            if ($created->year < 1994) {
-                $text .= ' Unfortunately, the ' . $created->year . ' “Acts” aren’t available'
-                    . ' online.';
-            }
-        } else {
-            $text .= 'The record of this law’s original creation isn’t available online.';
-        }
+        $text = '<p>' . $this->origin_html($origin);
 
         if ($modifications > 0) {
             $text .= ' It has been modified ' . $modifications . ' time';
@@ -132,10 +91,8 @@ class State
             $text .= ' as follows: ';
 
             $entries = [];
-            for ($i = $start; $i < count($history); $i++) {
-                $entry = $history[$i];
-                $entries[] = 'in ' . $entry->year . ', '
-                    . $this->acts_chapter_html($entry->year, $entry->chapter);
+            foreach ($history as $entry) {
+                $entries[] = $this->modification_html($entry);
             }
             $text .= implode('; ', $entries) . '.';
         }
@@ -146,20 +103,334 @@ class State
     }
 
     /**
+     * Parse the history text into structured entries.
+     *
+     * Virginia histories are semicolon-delimited lists of citations in several formats: Acts of
+     * Assembly chapters (“2005, c. 839”, “1975, cc. 14, 15”), including those passed in special
+     * sessions (“2021, Sp. Sess. I, c. 263”); references to a previous codification of the law
+     * (“Code 1919, § 5559”); references to a recompilation (“R. P. 1948, § 1-8”); and citations to a
+     * page of a volume of the Acts rather than to a chapter (“1950, p. 20”).
+     *
+     * Each parsed entry is an object with a “type” and a “year”; the remaining properties vary by
+     * type. Entries that match no known format are dropped.
+     *
+     * @return array of stdClass
+     */
+    private function parse_history()
+    {
+
+        /*
+         * If history has already been structured (as extract_history() leaves it), use it as-is,
+         * treating it as the Acts of Assembly citations that extract_history() records.
+         */
+        if (!is_string($this->history)) {
+            $history = [];
+            foreach ((array) $this->history as $entry) {
+                $entry = clone $entry;
+                if (!isset($entry->type)) {
+                    $entry->type = 'acts';
+                }
+                $history[] = $entry;
+            }
+            return $history;
+        }
+
+        $history = [];
+
+        foreach (explode('; ', $this->history) as $update) {
+
+            $update = trim($update);
+            if ($update === '') {
+                continue;
+            }
+
+            $entry = new stdClass();
+
+            /*
+             * An Acts of Assembly citation, to either one chapter (“c.”) or several (“cc.”),
+             * optionally passed in a special session. The session name is captured so that it can
+             * be named in the rendered text and so that chapter numbers from a special session
+             * aren’t linked to the regular session’s chapters of the same number.
+             */
+            $pcre = '/([0-9]{2,4}),\s+((?:[0-9A-Za-z]+\s+)?(?:Ex|Sp)\. Sess\.(?:\s+[IVX]+)?,\s+)?'
+                . 'cc?\.\s+([0-9]+(?:\s*,\s*[0-9]+)*)/';
+
+            if (preg_match($pcre, $update, $matches)) {
+
+                $entry->type = 'acts';
+                $entry->year = $this->normalize_year($matches[1]);
+
+                if (!empty($matches[2])) {
+                    $entry->session = $this->expand_session(rtrim(trim($matches[2]), ','));
+                }
+
+                /*
+                 * Split on commas rather than commas-and-spaces, because of occasional
+                 * typographical errors in histories, and discard any empty results.
+                 */
+                $chapters = explode(',', rtrim(trim($matches[3]), ','));
+                $chapters = array_values(array_filter(array_map('trim', $chapters), 'strlen'));
+
+                $entry->chapter = $chapters;
+                $history[] = $entry;
+                continue;
+            }
+
+            /*
+             * A reference to a previous codification of this law, e.g. “Code 1919, § 5559” or
+             * “Michie Code 1942, § 3145(4b)”.
+             */
+            if (preg_match('/^(?:Michie\s+)?(?:Code|Suppl?\.)\s*(?:Code\s*)?([0-9]{4})/', $update, $matches)) {
+                $entry->type = 'code';
+                $entry->year = $matches[1];
+                $entry->sections = $this->parse_history_sections($update);
+                $history[] = $entry;
+                continue;
+            }
+
+            /*
+             * A reference to a recompilation of the code, e.g. “R. P. 1948, § 1-8”.
+             */
+            if (preg_match('/^R\.\s*P\.\s*([0-9]{4})/', $update, $matches)) {
+                $entry->type = 'recompilation';
+                $entry->year = $matches[1];
+                $entry->sections = $this->parse_history_sections($update);
+                $history[] = $entry;
+                continue;
+            }
+
+            /*
+             * A citation to a page of a volume of the Acts of Assembly, rather than to a chapter
+             * of it, e.g. “1950, p. 20” or “1950, pp. 21, 23”.
+             */
+            if (preg_match('/^([0-9]{4}),\s+pp?\.\s+([0-9]+(?:\s*,\s*[0-9]+)*)/', $update, $matches)) {
+                $entry->type = 'page';
+                $entry->year = $matches[1];
+                $pages = explode(',', rtrim(trim($matches[2]), ','));
+                $entry->pages = array_values(array_filter(array_map('trim', $pages), 'strlen'));
+                $history[] = $entry;
+                continue;
+            }
+
+            /*
+             * Anything else is a malformed citation — most often a chapter number missing from
+             * the source — and is dropped.
+             */
+        }
+
+        return $history;
+    }
+
+    /**
+     * Expand the abbreviated name of a special session, e.g. “Sp. Sess. I” to “Special Session I”.
+     *
+     * @return string
+     */
+    private function expand_session($session)
+    {
+
+        $session = str_replace(
+            ['Ex. Sess.', 'Sp. Sess.'],
+            ['Extra Session', 'Special Session'],
+            $session
+        );
+
+        return preg_replace('/\s+/', ' ', trim($session));
+    }
+
+    /**
+     * Expand a two-digit year. Two-digit years only appear in twentieth-century histories.
+     *
+     * @return string
+     */
+    private function normalize_year($year)
+    {
+        return (strlen($year) === 2) ? '19' . $year : $year;
+    }
+
+    /**
+     * Pull the section identifiers out of a history entry, e.g. “§§ 1-13.3, 1-13.27”.
+     *
+     * @return array of string
+     */
+    private function parse_history_sections($update)
+    {
+
+        if (!preg_match('/§§?\s*(.+)$/u', $update, $matches)) {
+            return [];
+        }
+
+        $sections = explode(',', rtrim(trim($matches[1]), '.'));
+
+        /*
+         * A single entry sometimes carries more than one run of section marks, e.g.
+         * “Code 1919, § 835, §§ 23-93, 23-94”. Strip the marks from the individual sections so
+         * that sections_html() can apply a single one to the list.
+         */
+        $sections = array_map(function ($section) {
+            $section = preg_replace('/^§+\s*/u', '', trim($section));
+            return rtrim($section, '.');
+        }, $sections);
+
+        return array_values(array_filter($sections, 'strlen'));
+    }
+
+    /**
+     * Render the sentence describing where a law came from.
+     *
+     * @return string HTML
+     */
+    private function origin_html($origin)
+    {
+
+        if ($origin->type === 'acts') {
+
+            $text = 'This law was first created in ' . $origin->year . '. The record of its'
+                . ' establishment is cataloged in '
+                . $this->acts_chapter_html($origin->year, $origin->chapter, $origin)
+                . ' of that year’s edition of “Acts of Assembly,” the annual state publication'
+                . ' listing all changes made to the Code of Virginia in that year.';
+
+            if ($origin->year < 1994) {
+                $text .= ' Unfortunately, the ' . $origin->year . ' “Acts” aren’t available'
+                    . ' online.';
+            }
+
+            return $text;
+        }
+
+        if ($origin->type === 'page') {
+
+            $text = 'This law was first created in ' . $origin->year . '. The record of its'
+                . ' establishment is cataloged at ' . $this->page_html($origin)
+                . ' of that year’s edition of “Acts of Assembly,” the annual state publication'
+                . ' listing all changes made to the Code of Virginia in that year.';
+
+            if ($origin->year < 1994) {
+                $text .= ' Unfortunately, the ' . $origin->year . ' “Acts” aren’t available'
+                    . ' online.';
+            }
+
+            return $text;
+        }
+
+        /*
+         * A code or recompilation reference records where the law was previously codified, which
+         * doesn’t establish when it was first created — the law is at least as old as that
+         * codification, and may well be older.
+         */
+        $label = ($origin->type === 'recompilation')
+            ? 'the ' . $origin->year . ' Replacement Pamphlet of the Code of Virginia'
+            : 'the Code of Virginia of ' . $origin->year;
+
+        $text = 'The record of this law’s original creation isn’t available online. The oldest'
+            . ' record of it is its appearance in ' . $label;
+
+        if (!empty($origin->sections)) {
+            $text .= ', as ' . $this->sections_html($origin->sections);
+        }
+
+        return $text . '.';
+    }
+
+    /**
+     * Render one modification within the list of modifications.
+     *
+     * @return string HTML
+     */
+    private function modification_html($entry)
+    {
+
+        if ($entry->type === 'acts') {
+            return 'in ' . $entry->year . ', '
+                . $this->acts_chapter_html($entry->year, $entry->chapter, $entry);
+        }
+
+        if ($entry->type === 'page') {
+            return 'in ' . $entry->year . ', at ' . $this->page_html($entry);
+        }
+
+        if ($entry->type === 'recompilation') {
+            $text = 'in ' . $entry->year . ', when it was recompiled';
+            if (!empty($entry->sections)) {
+                $text .= ' as ' . $this->sections_html($entry->sections);
+            }
+            return $text;
+        }
+
+        $text = 'in ' . $entry->year . ', when it was recodified';
+        if (!empty($entry->sections)) {
+            $text .= ' as ' . $this->sections_html($entry->sections);
+        }
+
+        return $text;
+    }
+
+    /**
+     * Render a page citation to a volume of the Acts of Assembly.
+     *
+     * @return string HTML
+     */
+    private function page_html($entry)
+    {
+
+        $pages = $entry->pages;
+
+        return (count($pages) > 1 ? 'pages ' : 'page ') . $this->join_english($pages);
+    }
+
+    /**
+     * Render a list of section numbers, e.g. “§§ 1-13.3 and 1-13.27”.
+     *
+     * @return string HTML
+     */
+    private function sections_html($sections)
+    {
+
+        return (count($sections) > 1 ? '§§ ' : '§ ') . $this->join_english($sections);
+    }
+
+    /**
+     * Join a list as natural English: “1 and 2” for a pair, “1, 2, and 3” for more.
+     *
+     * @return string
+     */
+    private function join_english($items)
+    {
+
+        $items = array_values($items);
+
+        if (count($items) <= 1) {
+            return isset($items[0]) ? $items[0] : '';
+        }
+
+        $last = array_pop($items);
+
+        return implode(', ', $items) . (count($items) > 1 ? ',' : '') . ' and ' . $last;
+    }
+
+    /**
      * Render a chapter reference — a single chapter or an array of them — for a given year of
      * the Acts of Assembly, linked to the General Assembly’s website for those years
      * (1994–present) for which it has records.
      *
      * @return string HTML
      */
-    private function acts_chapter_html($year, $chapter)
+    private function acts_chapter_html($year, $chapter, $entry = null)
     {
 
         $chapters = is_array($chapter) ? $chapter : [$chapter];
 
+        /*
+         * The General Assembly’s website has no records before 1994, and its URLs identify a
+         * special session by a suffix that we don’t attempt to reconstruct, so chapters from a
+         * special session are named but not linked.
+         */
+        $linkable = ($year >= 1994) && empty($entry->session);
+
         $html = [];
         foreach ($chapters as $chap) {
-            if ($year >= 1994) {
+            if ($linkable) {
                 $url = 'https://legacylis.virginia.gov/cgi-bin/legp604.exe?' . substr($year, -2)
                     . '1+ful+CHAP' . str_pad($chap, 4, '0', STR_PAD_LEFT);
                 $html[] = '<a href="' . $url . '">' . $chap . '</a>';
@@ -168,17 +439,13 @@ class State
             }
         }
 
-        /*
-         * Join the list as natural English: "1 and 2" for a pair, "1, 2, and 3" for more.
-         */
-        if (count($html) > 1) {
-            $last = array_pop($html);
-            $joined = implode(', ', $html) . (count($html) > 1 ? ',' : '') . ' and ' . $last;
-        } else {
-            $joined = $html[0];
+        $joined = (count($chapters) > 1 ? 'chapters ' : 'chapter ') . $this->join_english($html);
+
+        if (!empty($entry->session)) {
+            $joined .= ' of the ' . $entry->session;
         }
 
-        return (count($chapters) > 1 ? 'chapters ' : 'chapter ') . $joined;
+        return $joined;
     }
 
 

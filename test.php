@@ -795,6 +795,185 @@ else
 
 /*
  * =========================================================================
+ * translate_history()
+ * =========================================================================
+ *
+ * translate_history() lives in the State class, which the State Decoded
+ * importer consumes. It renders a law's history citations as plain English.
+ */
+
+echo "Testing translate_history...\n";
+
+/*
+ * The class file requires State Decoded's own includes, which aren't present in
+ * this repository, so stub them out before loading it.
+ */
+if (!defined('INCLUDE_PATH'))
+{
+    define('INCLUDE_PATH', sys_get_temp_dir() . '/va-decoded-test-stubs/');
+}
+if (!is_dir(INCLUDE_PATH))
+{
+    mkdir(INCLUDE_PATH, 0777, true);
+}
+foreach (['class.Edition.inc.php', 'class.Permalink.inc.php'] as $stub)
+{
+    if (!file_exists(INCLUDE_PATH . $stub))
+    {
+        file_put_contents(INCLUDE_PATH . $stub, "<?php\n");
+    }
+}
+
+require_once __DIR__ . '/includes/config.inc.php';
+require_once __DIR__ . '/includes/class.Virginia.inc.php';
+
+/*
+ * Render a history string and strip the markup, so that tests assert on the
+ * prose rather than on the HTML.
+ */
+function render_history(string $history): string
+{
+    $law = new State();
+    $law->history = $history;
+    $result = $law->translate_history();
+
+    if ($result === false)
+    {
+        return '';
+    }
+
+    return html_entity_decode(strip_tags($result), ENT_QUOTES, 'UTF-8');
+}
+
+assert_equal(
+    '',
+    render_history(''),
+    'empty history returns no text'
+);
+
+/*
+ * A history consisting only of a reference to an earlier codification once
+ * rendered as nothing at all, because no entry matched an Acts of Assembly
+ * citation and the entry list came back empty.
+ */
+assert_true(
+    strpos(render_history('Code 1919, § 5559.'), 'Code of Virginia of 1919') !== false,
+    'a lone Code reference names the codification it came from'
+);
+assert_true(
+    strpos(render_history('Code 1919, § 5559.'), '§ 5559') !== false,
+    'a lone Code reference names the section it was codified as'
+);
+assert_true(
+    render_history('Code 1919, § 5559.') !== '',
+    'a lone Code reference renders text rather than nothing'
+);
+
+/*
+ * A recompilation reference is likewise a location, not an enactment.
+ */
+assert_true(
+    strpos(render_history('R. P. 1948, § 1-8.'), 'Replacement Pamphlet') !== false,
+    'a lone R. P. reference names the replacement pamphlet'
+);
+
+/*
+ * An Acts of Assembly citation is a genuine enactment, so it is reported as the
+ * law's creation.
+ */
+assert_true(
+    strpos(render_history('1975, cc. 14, 15.'), 'first created in 1975') !== false,
+    'an Acts citation reports the year the law was created'
+);
+assert_true(
+    strpos(render_history('1975, cc. 14, 15.'), 'chapters 14 and 15') !== false,
+    'multiple chapters are joined as English'
+);
+
+/*
+ * Chapters from 1994 onward link to the General Assembly's website; earlier
+ * years have no online record.
+ */
+$law_linked = new State();
+$law_linked->history = '2005, c. 839.';
+assert_true(
+    strpos($law_linked->translate_history(), 'CHAP0839') !== false,
+    'a post-1994 chapter is linked to the General Assembly'
+);
+
+$law_unlinked = new State();
+$law_unlinked->history = '1975, c. 14.';
+assert_true(
+    strpos($law_unlinked->translate_history(), '<a href') === false,
+    'a pre-1994 chapter is not linked'
+);
+
+/*
+ * Special session citations were previously dropped entirely.
+ */
+assert_true(
+    strpos(render_history('2021, Sp. Sess. I, c. 263.'), 'Special Session I') !== false,
+    'a special session is named in expanded form'
+);
+assert_true(
+    strpos(render_history('1971, Ex. Sess., c. 14.'), 'Extra Session') !== false,
+    'an extra session is named in expanded form'
+);
+
+/*
+ * Every entry in the history must be counted as a modification. Entries that
+ * were not Acts citations used to be dropped silently, undercounting the total.
+ */
+assert_true(
+    strpos(
+        render_history('Code 1919, § 5; Code 1950, § 1-13; 1950, p. 21; 1995, c. 155; 2005, c. 839.'),
+        'modified 4 times'
+    ) !== false,
+    'code, page, and Acts entries all count as modifications'
+);
+
+/*
+ * A page citation refers to a page of a volume of the Acts, not a chapter.
+ */
+assert_true(
+    strpos(render_history('1950, p. 20.'), 'page 20') !== false,
+    'a page citation is rendered as a page'
+);
+assert_true(
+    strpos(render_history('1930, pp. 81, 82.'), 'pages 81 and 82') !== false,
+    'multiple pages are joined as English'
+);
+
+/*
+ * A single entry may carry several runs of section marks; the rendered list
+ * should carry exactly one.
+ */
+assert_true(
+    strpos(render_history('Code 1919, § 835, §§ 23-93, 23-94.'), '§§ 835, 23-93, and 23-94') !== false,
+    'repeated section marks are consolidated into one list'
+);
+
+/*
+ * Malformed citations — a chapter number missing from the source — are dropped
+ * rather than rendered as a chapter with no number.
+ */
+assert_true(
+    strpos(render_history('1996, c. 167; 1997, c.; 2000, c. 293.'), 'modified 1 time') !== false,
+    'a chapter citation with no number is dropped'
+);
+
+/*
+ * Unparseable history yields no text at all, rather than a sentence with holes.
+ */
+assert_equal(
+    '',
+    render_history('This is not a history.'),
+    'unparseable history returns no text'
+);
+
+
+/*
+ * =========================================================================
  * Results
  * =========================================================================
  */

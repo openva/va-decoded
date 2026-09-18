@@ -84,7 +84,14 @@ if [ "$new_count" -lt "$min_count" ]; then
 fi
 
 # Checksum the fresh scrape (deterministic: sorted relative paths + contents).
-new_hash=$(cd "$NEW_DIR" && find . -type f -name '*.xml' | sort | xargs sha256sum | sha256sum | cut -d' ' -f1)
+# LC_ALL=C pins byte-order collation: the default locale collates punctuation
+# differently (and cron usually runs with no locale set at all, i.e. C), so an
+# unpinned sort makes the hash depend on who ran the script. Section-number
+# filenames are full of '.', '-' and '_', so the orderings genuinely differ,
+# and a mismatch would force a needless full reimport.
+# -r stops xargs from running sha256sum with no arguments on an empty scrape,
+# where it would block reading stdin.
+new_hash=$(cd "$NEW_DIR" && find . -type f -name '*.xml' | LC_ALL=C sort | xargs -r sha256sum | sha256sum | cut -d' ' -f1)
 
 # For regular updates, do nothing if the scrape matches the last *successful*
 # import. We compare against a stamp written only after a good import — not

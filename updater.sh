@@ -93,6 +93,12 @@ new_hash=$(cd "$NEW_DIR" && find . -type f -name '*.xml' | sort | xargs sha256su
 # edition is created even without changes.)
 if [ "$NEW_EDITION" = false ]; then
     if [ -f "$STAMP" ] && [ "$new_hash" = "$(cat "$STAMP")" ]; then
+        # The text is unchanged, so skip the import — but still record that we
+        # checked. Readers are shown this date ("last verified on"), and
+        # leaving it frozen at the last import would imply we had stopped
+        # looking. A failure here is not fatal: the scrape did match, so the
+        # site is correct, just stale-looking.
+        sd edition touch || echo "WARNING: could not update last-checked date."
         echo "No changes detected. Done."
         exit 0
     fi

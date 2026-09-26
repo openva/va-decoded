@@ -41,12 +41,15 @@ jobs:
           ADMIN_USERNAME: ${{ secrets.ADMIN_USERNAME }}
           ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
           COURTLISTENER_API_TOKEN: ${{ secrets.COURTLISTENER_API_TOKEN }}
+          CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: |
           cp va-decoded/includes/class.Virginia.inc.php \
              statedecoded/includes/class.Virginia.inc.php
 
           cp va-decoded/updater.sh statedecoded/updater.sh
           cp va-decoded/scraper.php statedecoded/scraper.php
+          cat va-decoded/.github/deploy/htaccess-caching >> statedecoded/htdocs/.htaccess
           chmod +x statedecoded/updater.sh
 
           sed \
@@ -56,6 +59,8 @@ jobs:
             -e "s|__ADMIN_USERNAME__|${ADMIN_USERNAME}|g" \
             -e "s|__ADMIN_PASSWORD__|${ADMIN_PASSWORD}|g" \
             -e "s|__COURTLISTENER_API_TOKEN__|${COURTLISTENER_API_TOKEN}|g" \
+            -e "s|__CLOUDFLARE_ZONE_ID__|${CLOUDFLARE_ZONE_ID}|g" \
+            -e "s|__CLOUDFLARE_API_TOKEN__|${CLOUDFLARE_API_TOKEN}|g" \
             va-decoded/includes/config.inc.php \
             > statedecoded/includes/config.inc.php
 

@@ -70,6 +70,14 @@ existing=$(sudo -u ubuntu crontab -l 2>/dev/null \
     echo '0 2 2 7 * /var/www/vacode.org/updater.sh --new-edition'
 } | sudo -u ubuntu crontab -
 
+# The cache headers appended to htdocs/.htaccess (see htaccess-caching) are
+# wrapped in <IfModule mod_headers.c>, so without the module they'd be silently
+# skipped. Enable it if needed; a graceful reload finishes in-flight requests.
+if ! apache2ctl -M 2>/dev/null | grep -q headers_module; then
+    a2enmod headers
+    systemctl reload apache2
+fi
+
 # Rotate the updater's log so it doesn't grow without bound. This script runs as
 # root, so it can write to /etc/logrotate.d.
 cp .github/deploy/logrotate-vacode /etc/logrotate.d/vacode

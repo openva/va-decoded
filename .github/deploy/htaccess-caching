@@ -1,0 +1,26 @@
+
+# Cache headers (appended to upstream's htdocs/.htaccess at deploy time by
+# va-decoded's deploy workflow).
+#
+# Nearly every page is rewritten to /index.php, so REQUEST_URI can't tell pages
+# apart here; THE_REQUEST (the original request line) can. Only 200 responses
+# are marked cacheable, so redirects, 404s, and errors are never cached.
+#
+# Laws change only when updater.sh imports a new scrape, and it purges
+# Cloudflare when it does, so the edge can hold pages for a day (s-maxage).
+# Browsers get an hour, since nothing can purge them. stale-if-error lets
+# Cloudflare keep serving pages while the origin is down.
+<IfModule mod_headers.c>
+    <If "%{THE_REQUEST} =~ m#^\S+ /(admin|search|api|api-key)([/?\s]|$)#">
+        # Per-user, per-query, or authenticated: never cache.
+        Header always set Cache-Control "private, no-store"
+    </If>
+    <ElseIf "%{THE_REQUEST} =~ m#^\S+ /themes/[^/]+/static/#">
+        # Theme assets have unversioned URLs, so a deploy's CSS/JS changes need
+        # these to expire in reasonable time.
+        Header set Cache-Control "public, max-age=86400, s-maxage=604800" "expr=%{REQUEST_STATUS} == 200"
+    </ElseIf>
+    <Else>
+        Header set Cache-Control "public, max-age=3600, s-maxage=86400, stale-if-error=86400" "expr=%{REQUEST_STATUS} == 200"
+    </Else>
+</IfModule>

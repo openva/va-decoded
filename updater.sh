@@ -62,6 +62,32 @@ law_count() {
     ' "${1:-}"
 }
 
+# Purge Cloudflare's cache, so readers aren't served pre-import pages until the
+# edge TTL expires. The credentials live in the www-data-only config, so read
+# them as www-data, just as law_count does. The token is fed to curl on stdin
+# rather than as an argument, where any local user could see it in ps.
+purge_cloudflare() {
+    local creds zone token
+    creds=$(sudo -u www-data php -r '
+        require "includes/config.inc.php";
+        echo CLOUDFLARE_ZONE_ID, "\n", CLOUDFLARE_API_TOKEN, "\n";
+    ') || return 1
+    zone=$(sed -n 1p <<< "$creds")
+    token=$(sed -n 2p <<< "$creds")
+    # Unset secrets leave either an empty string or the deploy placeholder.
+    if [ -z "$zone" ] || [ -z "$token" ] || \
+        [ "$zone" = "__CLOUDFLARE_ZONE_ID__" ] || [ "$token" = "__CLOUDFLARE_API_TOKEN__" ]; then
+        echo "Cloudflare credentials not configured; skipping cache purge."
+        return 0
+    fi
+    printf 'Authorization: Bearer %s\n' "$token" \
+        | curl -fsS --max-time 30 -X POST -H @- \
+            -H 'Content-Type: application/json' \
+            --data '{"purge_everything":true}' \
+            "https://api.cloudflare.com/client/v4/zones/$zone/purge_cache" \
+            > /dev/null
+}
+
 # Run the scraper. It writes to ./output relative to the working directory,
 # so run it from the scratch directory; output lands in $SCRATCH_DIR/output.
 ( cd "$SCRATCH_DIR" && php "$APP_DIR/scraper.php" )
@@ -152,6 +178,14 @@ else
         echo "ERROR: current edition has only ${imported:-0} laws after import (scraped $new_count)."
         exit 1
     fi
+fi
+
+# The import succeeded, so a failed purge is not fatal: pages are only stale
+# until Cloudflare's edge TTL expires, and re-importing wouldn't help.
+if purge_cloudflare; then
+    echo "Purged Cloudflare cache."
+else
+    echo "WARNING: could not purge Cloudflare cache."
 fi
 
 # Record the scrape we just imported, so an unchanged future scrape is skipped.

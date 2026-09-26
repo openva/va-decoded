@@ -292,6 +292,14 @@ define('PLUGINS', json_encode(array(
 // define('VARNISH_HOST', 'http://127.0.0.1:80/');
 
 /*
+ * The Cloudflare zone ID and an API token with Zone > Cache Purge permission, used by updater.sh to
+ * purge Cloudflare's cache after importing changed laws. (These are populated automatically at
+ * deploy time, from GitHub secrets.) If either is left unset, the purge is skipped.
+ */
+define('CLOUDFLARE_ZONE_ID', '__CLOUDFLARE_ZONE_ID__');
+define('CLOUDFLARE_API_TOKEN', '__CLOUDFLARE_API_TOKEN__');
+
+/*
  * If you're running a Memcached or Redis server, and you want The State Decoded to cache assets
  * within that cache, provide the host and port here.
  */

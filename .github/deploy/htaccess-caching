@@ -15,12 +15,20 @@
         # Per-user, per-query, or authenticated: never cache.
         Header always set Cache-Control "private, no-store"
     </If>
+    <ElseIf "%{THE_REQUEST} =~ m#^\S+ /themes/[^/]+/static/(fonts|images)/#">
+        # Fonts and images are fixed files that effectively never change, and a
+        # deploy purges Cloudflare anyway, so hold them for 30 days.
+        Header set Cache-Control "public, max-age=2592000, s-maxage=2592000" "expr=%{REQUEST_STATUS} == 200"
+    </ElseIf>
     <ElseIf "%{THE_REQUEST} =~ m#^\S+ /themes/[^/]+/static/#">
-        # Theme assets have unversioned URLs, so a deploy's CSS/JS changes need
-        # these to expire in reasonable time.
+        # CSS and JS have unversioned URLs, so a deploy's changes need these to
+        # expire in reasonable time.
         Header set Cache-Control "public, max-age=86400, s-maxage=604800" "expr=%{REQUEST_STATUS} == 200"
     </ElseIf>
     <Else>
         Header set Cache-Control "public, max-age=3600, s-maxage=86400, stale-if-error=86400" "expr=%{REQUEST_STATUS} == 200"
+        # Briefly cache 404s, so bots probing missing paths (/favicon.ico, etc.)
+        # don't each cost a PHP request. Short, so a newly created page appears quickly.
+        Header set Cache-Control "public, max-age=60, s-maxage=300" "expr=%{REQUEST_STATUS} == 404"
     </Else>
 </IfModule>

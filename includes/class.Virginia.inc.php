@@ -493,27 +493,87 @@ class State
         }
 
         /*
-         * Get the attempts to amend this bill, from Richmond Sunlight.
+         * Check Memcached first. Crawlers request every section in turn, which would otherwise
+         * mean a call to Richmond Sunlight's API for every page view.
          */
-        $json = fetch_url('https://api.richmondsunlight.com/1.1/bysection/' . $this->section_number
-            . '.json');
-        if ($json !== false) {
-            $bills = json_decode($json);
+        global $cache;
+        $use_cache = isset($cache, $cache->cache);
+        $cache_key = 'rs-bills-' . preg_replace('/[^A-Za-z0-9.-]/', '_', $this->section_number);
 
-            if (($bills === null) || isset($bills->error)) {
-                return false;
+        $json = $use_cache ? $cache->retrieve($cache_key) : false;
+        if ($json === false) {
+            $json = $this->fetch_amendment_attempts();
+
+            if ($use_cache) {
+                // Remember failures only briefly, so that the bills reappear soon after an outage.
+                $ttl = ($json === 'unavailable') ? 300 : $this->amendment_attempts_ttl();
+                $cache->store($cache_key, $json, $ttl);
             }
-
-            // Uppercase bill numbers, for display
-            foreach ($bills as $bill) {
-                $bill->number = strtoupper($bill->number);
-            }
-
-            $this->bills = $bills;
-            return true;
         }
 
-        return false;
+        $bills = json_decode($json);
+        if (empty($bills) || !is_array($bills)) {
+            return false;
+        }
+
+        // Uppercase bill numbers, for display
+        foreach ($bills as $bill) {
+            $bill->number = strtoupper($bill->number);
+        }
+
+        $this->bills = $bills;
+        return true;
+    }
+
+    /**
+     * Fetch this section's bills from Richmond Sunlight, keeping only the fields that law pages
+     * use. (The full response also has summaries and sponsors, and can exceed 100 KB.)
+     *
+     * @return string a JSON list of bills ('[]' if none cite this section), or 'unavailable' if
+     *                the request failed
+     */
+    private function fetch_amendment_attempts()
+    {
+        $response = fetch_url('https://api.richmondsunlight.com/1.1/bysection/'
+            . $this->section_number . '.json');
+        $bills = ($response === false) ? null : json_decode($response);
+
+        // The API returns this error when no bills cite the section.
+        if (isset($bills->error->message) && $bills->error->message === 'No Bills Found') {
+            return '[]';
+        }
+
+        if (!is_array($bills)) {
+            return 'unavailable';
+        }
+
+        $trimmed = [];
+        foreach ($bills as $bill) {
+            $trimmed[] = [
+                'year' => $bill->year ?? null,
+                'number' => $bill->number ?? '',
+                'catch_line' => $bill->catch_line ?? '',
+                'outcome' => $bill->outcome ?? null,
+                'url' => $bill->url ?? '',
+            ];
+        }
+
+        return json_encode(
+            $trimmed,
+            JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE | JSON_INVALID_UTF8_SUBSTITUTE
+        );
+    }
+
+    /**
+     * How long to cache a section's bills: a day from November through April, while bills are
+     * being filed and acted on, and a month the rest of the year.
+     *
+     * @return int seconds
+     */
+    private function amendment_attempts_ttl()
+    {
+        $month = (int) date('n');
+        return ($month >= 11 || $month <= 4) ? 86400 : 2635200;
     }
 
 

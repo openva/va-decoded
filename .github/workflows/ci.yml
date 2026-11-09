@@ -97,11 +97,13 @@ jobs:
         working-directory: statedecoded
         run: npm ci && npm run build
 
+      # Use the mysql client inside the service container, not the runner's. The runner's client
+      # changes with the runner image (Ubuntu 26.04's mishandles the comment before DELIMITER in
+      # statedecoded.sql), while the container's always matches the server.
       - name: Load test schema
-        env:
-          MYSQL_PWD: rootpassword
         run: |
-          mysql -h 127.0.0.1 -u root statedecoded_test \
+          docker exec -i -e MYSQL_PWD=rootpassword ${{ job.services.mysql.id }} \
+            mysql -u root statedecoded_test \
             < statedecoded/htdocs/admin/statedecoded.sql
 
       - name: Import sample data
